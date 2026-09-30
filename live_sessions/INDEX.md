@@ -214,6 +214,7 @@
 | Polity | Topic 11 - Parliamentary System | 12 | 20,062 | `c345dfdb1943` | [Polity/11-Parliamentary-System/Learning-Session-Live-Edition.md](Polity/11-Parliamentary-System/Learning-Session-Live-Edition.md) |
 | Polity | Topic 12 - Federal System | 13 | 25,507 | `56f9d280064c` | [Polity/12-Federal-System/Learning-Session-Live-Edition.md](Polity/12-Federal-System/Learning-Session-Live-Edition.md) |
 | Polity | Topic 13 - Centre-State and Inter-State Relations | 16 | 26,583 | `4e72addc32c8` | [Polity/13-Centre-State-and-Inter-State-Relations/Learning-Session-Live-Edition.md](Polity/13-Centre-State-and-Inter-State-Relations/Learning-Session-Live-Edition.md) |
+| Polity | Topic 14 - Emergency Provisions | 11 | 19,259 | `09eb4a51e122` | [Polity/14-Emergency-Provisions/Learning-Session-Live-Edition.md](Polity/14-Emergency-Provisions/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
