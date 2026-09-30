@@ -209,6 +209,7 @@
 | Polity | Topic 06 - Citizenship | 12 | 23,863 | `45ff5f111cec` | [Polity/06-Citizenship/Learning-Session-Live-Edition.md](Polity/06-Citizenship/Learning-Session-Live-Edition.md) |
 | Polity | Topic 07 - Fundamental Rights | 25 | 37,861 | `397a6cf4d7e3` | [Polity/07-Fundamental-Rights/Learning-Session-Live-Edition.md](Polity/07-Fundamental-Rights/Learning-Session-Live-Edition.md) |
 | Polity | Topic 08 - Directive Principles | 14 | 24,162 | `fc0bc8b38800` | [Polity/08-Directive-Principles/Learning-Session-Live-Edition.md](Polity/08-Directive-Principles/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 01 - Ethics and Human Interface | 7 | 16,477 | `ea7097be5b40` | [Ethics/01-Ethics-and-Human-Interface/Learning-Session-Live-Edition.md](Ethics/01-Ethics-and-Human-Interface/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
