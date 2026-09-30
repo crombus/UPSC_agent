@@ -205,6 +205,7 @@
 | Polity | Topic 02 - Making of the Constitution | 9 | 20,838 | `a5725a1a1ca0` | [Polity/02-Making-of-the-Constitution/Learning-Session-Live-Edition.md](Polity/02-Making-of-the-Constitution/Learning-Session-Live-Edition.md) |
 | Polity | Topic 03 - Salient Features | 10 | 22,841 | `f865c90730ab` | [Polity/03-Salient-Features/Learning-Session-Live-Edition.md](Polity/03-Salient-Features/Learning-Session-Live-Edition.md) |
 | Polity | Topic 04 - Preamble | 10 | 19,790 | `d9f70fbdf4df` | [Polity/04-Preamble/Learning-Session-Live-Edition.md](Polity/04-Preamble/Learning-Session-Live-Edition.md) |
+| Polity | Topic 05 - Union and Territory | 11 | 21,055 | `46d459d7244b` | [Polity/05-Union-and-Territory/Learning-Session-Live-Edition.md](Polity/05-Union-and-Territory/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
