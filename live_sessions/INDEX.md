@@ -214,6 +214,7 @@
 | Ethics | Topic 03 - Attitude: Content, Structure and Persuasion | 13 | 16,225 | `f73bba1d8544` | [Ethics/03-Attitude-Content-Structure-and-Persuasion/Learning-Session-Live-Edition.md](Ethics/03-Attitude-Content-Structure-and-Persuasion/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 04 - Aptitude and Foundational Values for Civil Service | 12 | 17,806 | `b591c840a88e` | [Ethics/04-Aptitude-and-Foundational-Values-for-Civil-Service/Learning-Session-Live-Edition.md](Ethics/04-Aptitude-and-Foundational-Values-for-Civil-Service/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 05 - Emotional Intelligence in Administration | 11 | 16,476 | `cecac8068801` | [Ethics/05-Emotional-Intelligence-in-Administration/Learning-Session-Live-Edition.md](Ethics/05-Emotional-Intelligence-in-Administration/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 06 - Indian Moral Thinkers and Philosophers | 10 | 17,001 | `4d3c4d4dc45e` | [Ethics/06-Indian-Moral-Thinkers-and-Philosophers/Learning-Session-Live-Edition.md](Ethics/06-Indian-Moral-Thinkers-and-Philosophers/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
