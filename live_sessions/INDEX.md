@@ -217,6 +217,7 @@
 | Polity | Topic 14 - Emergency Provisions | 11 | 19,259 | `09eb4a51e122` | [Polity/14-Emergency-Provisions/Learning-Session-Live-Edition.md](Polity/14-Emergency-Provisions/Learning-Session-Live-Edition.md) |
 | Polity | Topic 15 - President and Vice-President | 12 | 21,336 | `f7828171ab4b` | [Polity/15-President-and-Vice-President/Learning-Session-Live-Edition.md](Polity/15-President-and-Vice-President/Learning-Session-Live-Edition.md) |
 | Polity | Topic 16 - PM and Council of Ministers | 11 | 21,929 | `3cd7fd8bb0bd` | [Polity/16-PM-and-Council-of-Ministers/Learning-Session-Live-Edition.md](Polity/16-PM-and-Council-of-Ministers/Learning-Session-Live-Edition.md) |
+| Polity | Topic 17 - Parliament | 13 | 21,611 | `64896acc58e8` | [Polity/17-Parliament/Learning-Session-Live-Edition.md](Polity/17-Parliament/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
