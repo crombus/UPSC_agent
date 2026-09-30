@@ -212,6 +212,7 @@
 | Polity | Topic 09 - Fundamental Duties | 11 | 21,110 | `735f17b9b82a` | [Polity/09-Fundamental-Duties/Learning-Session-Live-Edition.md](Polity/09-Fundamental-Duties/Learning-Session-Live-Edition.md) |
 | Polity | Topic 10 - Amendment and Basic Structure | 14 | 23,631 | `01aad3a3008a` | [Polity/10-Amendment-and-Basic-Structure/Learning-Session-Live-Edition.md](Polity/10-Amendment-and-Basic-Structure/Learning-Session-Live-Edition.md) |
 | Polity | Topic 11 - Parliamentary System | 12 | 20,062 | `c345dfdb1943` | [Polity/11-Parliamentary-System/Learning-Session-Live-Edition.md](Polity/11-Parliamentary-System/Learning-Session-Live-Edition.md) |
+| Polity | Topic 12 - Federal System | 13 | 25,507 | `56f9d280064c` | [Polity/12-Federal-System/Learning-Session-Live-Edition.md](Polity/12-Federal-System/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
