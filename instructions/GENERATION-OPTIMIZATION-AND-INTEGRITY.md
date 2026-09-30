@@ -153,6 +153,54 @@ The split is an execution optimization only. The final artifact must still satis
 all learner-first, no-skipping, no-compression, semantic-assessment, source, PYQ,
 Mains, hostile-audit and release requirements.
 
+## Consolidated-review optimization (approved 30 September 2026)
+
+Apply this optimization during every generation, review and repair pass. Its purpose is
+to reduce repeated review cycles by finding and fixing all discoverable defects together.
+It does not reduce semantic review, exact-hash control or release standards.
+
+1. **Front-load mechanical scans.** Before independent semantic review, run the
+   authoritative validator and targeted scans for:
+   - prohibited learner-facing process, source-routing and package language;
+   - PYQ quotation, marks, word-limit and answer-neutrality defects;
+   - missing coverage-matrix, register-note and source-ledger mappings;
+   - stale status dates, unsupported source paths and manifest defects;
+   - formatting, encoding, fence and whitespace failures.
+2. **Require one exhaustive first review.** The first independent exact-hash reviewer
+   must inspect the complete artifact across all review dimensions in one pass:
+   Core/Advanced/book coverage, doctrine, examples, objections and replies, PYQs,
+   current status, practice, register notes, coverage matrix, source ledger, process
+   leakage and formatting. The reviewer must report one consolidated numbered ledger
+   containing:
+   - every release blocker;
+   - every safe, source-supported advisory that can be repaired without changing the
+     frozen roadmap or approved scope;
+   - regression risks for each repair.
+   Reviewers must not intentionally defer a discoverable defect to a later cycle.
+3. **Repair blockers and safe advisories together.** Give the writer the complete
+   consolidated ledger once. The writer must fix every blocker and all compatible safe
+   advisories in the same bounded repair pass, then update all dependent lesson,
+   revision, practice, register, coverage and source locations so no stale formulation
+   remains.
+4. **Use direct micro-fixes for isolated defects.** When a reviewed hash has fewer than
+   five truly isolated textual defects and the correction is mechanically clear,
+   perform one direct surgical micro-fix instead of opening another long research or
+   generation cycle. The fixer must still reread the governing rules, preserve the
+   learner-first lock, recompute the hash, rerun the hostile self-audit and validator,
+   and obtain independent review of the new exact hash.
+5. **Keep rereview complete but focused.** The rereviewer must verify every supplied
+   correction and run a full regression sweep. A genuinely new critical defect still
+   blocks release; speed never permits ignoring it. However, the rereviewer must not
+   reopen settled stylistic preferences or promote a previously disclosed
+   non-source-supported preference into a blocker.
+6. **Maintain continuous capacity.** Keep two writer lanes occupied whenever eligible
+   generation or repair work exists, keep read-only roadmap audits several topics ahead,
+   and run independent read-only reviews in parallel where safe. Shared index, commit,
+   push and release operations remain strictly sequential.
+
+Every generation, repair and review prompt must explicitly invoke this consolidated-
+review optimization. A generic instruction to "optimize" is insufficient.
+
 For legacy Topic 35-and-earlier live sessions:
 
 - preserve exact `A -> B -> C -> D` key rotation;
