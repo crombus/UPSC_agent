@@ -230,6 +230,7 @@
 | Ethics | Topic 19 - Corruption: Legal Framework | 14 | 20,756 | `54c861043e46` | [Ethics/19-Corruption-Legal-Framework/Learning-Session-Live-Edition.md](Ethics/19-Corruption-Legal-Framework/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 20 - Anti-Corruption Institutions | 12 | 21,292 | `39d3281b7d14` | [Ethics/20-Anti-Corruption-Institutions/Learning-Session-Live-Edition.md](Ethics/20-Anti-Corruption-Institutions/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 21 - Protecting Honest Officials and Vigilance Administration | 15 | 40,946 | `6f7732ea95c3` | [Ethics/21-Protecting-Honest-Officials-and-Vigilance-Administration/Learning-Session-Live-Edition.md](Ethics/21-Protecting-Honest-Officials-and-Vigilance-Administration/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 22 - Case Study Method and Answer Architecture | 28 | 70,959 | `d6680edab2c9` | [Ethics/22-Case-Study-Method-and-Answer-Architecture/Learning-Session-Live-Edition.md](Ethics/22-Case-Study-Method-and-Answer-Architecture/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
