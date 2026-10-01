@@ -223,6 +223,7 @@
 | Ethics | Topic 12 - Corporate Governance and International Ethics | 17 | 42,355 | `8173e28d408d` | [Ethics/12-Corporate-Governance-and-International-Ethics/Learning-Session-Live-Edition.md](Ethics/12-Corporate-Governance-and-International-Ethics/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 13 - Emerging Ethics: Technology, AI and Environment | 15 | 32,824 | `00a4385d8d19` | [Ethics/13-Emerging-Ethics-Technology-AI-and-Environment/Learning-Session-Live-Edition.md](Ethics/13-Emerging-Ethics-Technology-AI-and-Environment/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 14 - Probity: Concept and Philosophical Basis of Governance | 10 | 13,220 | `d3c8c26d3168` | [Ethics/14-Probity-Concept-and-Philosophical-Basis-of-Governance/Learning-Session-Live-Edition.md](Ethics/14-Probity-Concept-and-Philosophical-Basis-of-Governance/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 15 - Transparency, RTI and Information Sharing | 10 | 20,466 | `437d01066b83` | [Ethics/15-Transparency-RTI-and-Information-Sharing/Learning-Session-Live-Edition.md](Ethics/15-Transparency-RTI-and-Information-Sharing/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
