@@ -1,1162 +1,1176 @@
-# CITES and Wildlife Trade — Solved Practice Workbook
+# CITES and Wildlife Trade — Verified Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-06. Uses the same source-bounded ecological distinctions and strict A-B-C-D rotation.
+> **Topic:** Environment and Ecology 09
+> **Repair date:** 29 September 2026
+> **Practice contract:** exactly **40 distinct MCQs**, four options each, full explanations,
+> strict key rotation **A → B → C → D** repeated ten times; all routed PYQs reproduced with
+> provenance and honest key status; exactly six original Mains questions, two each at 10, 15 and
+> 20 marks.
+
+## Source control
+
+This workbook uses the read-only Topic 09 Basic and Advanced owners, the Environment Master
+Framework, official syllabus mapping, repository PYQ routing ledgers, local official UPSC
+papers/keys, the official CITES treaty text on InforMEA, India Code Chapter VB and notifications,
+MoEFCC/WCCB, UNODC and official CITES current records. Its controlling principle is
+**trade-not-ban**. No species-specific current Appendix
+placement is tested.
+
+---
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Trade jurisdiction?
+### MCQ 1
 
-A. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-B. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-C. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-D. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
+Which one of the following most accurately states the central purpose and legal method of CITES?
 
-**Answer: A.**
-**Explanation:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. To ensure that international trade in listed wild fauna and flora specimens does not threaten
+their survival, using nationally administered trade controls
+B. To assign every species a universal extinction-risk category that automatically binds all
+domestic courts
+C. To prohibit all commercial and non-commercial use of every wild animal and plant in every
+Party
+D. To create an international police service with direct power to arrest wildlife offenders
 
-### Q2. Which option preserves the ecological boundary of Trade jurisdiction?
+**Answer: A**
 
-A. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-B. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-C. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-D. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
+**Explanation:** CITES is a binding treaty that controls international trade through Appendices,
+national Management and Scientific Authorities, and permits or certificates. It is not the IUCN
+Red List (B), it does not prohibit every use or transaction (C), and its Secretariat has no
+supranational arrest power (D). National law supplies investigation, penalties and prosecution.
 
-**Answer: B.**
-**Explanation:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q3. Which statement uses Trade jurisdiction without changing its scale, parameter or status?
+### MCQ 2
 
-A. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-B. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-C. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-D. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
+For CITES purposes, the term “trade” includes which set of transactions?
 
-**Answer: C.**
-**Explanation:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Hunting, habitat conversion, domestic possession and captive breeding
+B. Export, re-export, import and introduction from the sea
+C. Sale, purchase, donation and inheritance wholly within one State
+D. Scientific assessment, listing, delisting and population monitoring
 
-### Q4. Which option avoids the standard UPSC close-option trap about Trade jurisdiction?
+**Answer: B**
 
-A. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-B. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-C. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-D. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
+**Explanation:** Article I defines trade as export, re-export, import and introduction from the
+sea. A wholly domestic sale or possession is not CITES “trade,” though domestic law may regulate
+it. Hunting and habitat conversion (A) are not included merely because they affect wildlife.
+Listing and scientific monitoring (D) are governance activities, not trade transactions.
 
-**Answer: D.**
-**Explanation:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q5. Which statement correctly identifies Appendix I boundary?
+### MCQ 3
 
-A. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-B. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-C. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-D. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
+A museum in State X seeks to import a live Appendix I specimen from State Y. Under the ordinary
+CITES route, which combination is necessary?
 
-**Answer: A.**
-**Explanation:** Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Only a certificate of origin issued by State Y
+B. Only an export permit issued by State Y
+C. An import permit from State X and an export permit or re-export certificate from State Y
+D. A Scientific Authority certificate from State X with no Management Authority document
 
-### Q6. Which option preserves the ecological boundary of Appendix I boundary?
+**Answer: C**
 
-A. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-B. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-C. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-D. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
+**Explanation:** Appendix I import requires the prior grant and presentation of an import permit
+and either an export permit or re-export certificate. State X's Scientific Authority must address
+non-detrimental purpose and suitable care for a living specimen, while its Management Authority
+must be satisfied that the specimen is not for primarily commercial purposes. A certificate of
+origin is an Appendix III device, so A is wrong; B and D omit required documents.
 
-**Answer: B.**
-**Explanation:** Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q7. Which statement uses Appendix I boundary without changing its scale, parameter or status?
+### MCQ 4
 
-A. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-B. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-C. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-D. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
+Why can a species that is not itself currently threatened with extinction be included in CITES
+Appendix II?
 
-**Answer: C.**
-**Explanation:** Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Appendix II is reserved for domesticated species traded within one country
+B. Every species used in traditional medicine must automatically enter Appendix II
+C. Appendix II is a temporary holding list for unassessed IUCN species
+D. Its trade may need regulation to prevent future threat, or its control may be needed to make
+trade controls on a listed species effective
 
-### Q8. Which option avoids the standard UPSC close-option trap about Appendix I boundary?
+**Answer: D**
 
-A. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-B. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-C. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-D. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
+**Explanation:** Article II(2) covers species that may become threatened unless trade is strictly
+regulated and “look-alike” species whose regulation is needed for effective control. Domestic
+trade alone does not trigger CITES (A). Use category does not create automatic listing (B), and
+CITES Appendices are legally distinct from IUCN assessment status (C).
 
-**Answer: D.**
-**Explanation:** Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q9. Which statement correctly identifies Appendix II boundary?
+### MCQ 5
 
-A. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-B. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-C. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-D. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
+Which statement correctly describes CITES Appendix III?
 
-**Answer: A.**
-**Explanation:** Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. A Party lists a species it regulates within its jurisdiction and asks other Parties to
+cooperate in controlling trade
+B. The Animals Committee adds a species after a simple majority vote
+C. It is the least severe global extinction-risk category under the IUCN system
+D. It prohibits all international movement of the listed species
 
-### Q10. Which option preserves the ecological boundary of Appendix II boundary?
+**Answer: A**
 
-A. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-B. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-C. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-D. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
+**Explanation:** Appendix III begins with a unilateral submission by a Party that already
+regulates the species and needs international cooperation. It does not require a CoP vote (B), is
+not an IUCN category (C), and uses export permits, certificates of origin and re-export
+certificates rather than a universal prohibition (D).
 
-**Answer: B.**
-**Explanation:** Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q11. Which statement uses Appendix II boundary without changing its scale, parameter or status?
+### MCQ 6
 
-A. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-B. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-C. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-D. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
+What is the treaty effect of a valid specific CITES reservation concerning a listed species?
 
-**Answer: C.**
-**Explanation:** Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. The species is removed from the Appendix for all Parties
+B. The reserving Party is treated as a State not Party for trade in the specified species or
+derivative until the reservation is withdrawn
+C. The reservation cancels stricter import restrictions imposed by other States
+D. The reserving Party is released from every obligation under the Convention
 
-### Q12. Which option avoids the standard UPSC close-option trap about Appendix II boundary?
+**Answer: B**
 
-A. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-B. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-C. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-D. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
+**Explanation:** Article XXIII permits specific, not general, reservations. Their effect is
+taxon- or derivative-specific: the reserving Party is treated as a non-Party only for the covered
+trade. The global listing remains (A is wrong), other States retain Article XIV power to impose
+stricter measures (C), and the rest of the Convention continues to bind the Party (D).
 
-**Answer: D.**
-**Explanation:** Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q13. Which statement correctly identifies Appendix III boundary?
+### MCQ 7
 
-A. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-B. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-C. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-D. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
+At a Conference of the Parties, an amendment to Appendix I or II is adopted by:
 
-**Answer: A.**
-**Explanation:** Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. unanimity of all CITES Parties, including absent Parties
+B. a simple majority of all Parties to the Convention
+C. a two-thirds majority of Parties present and voting, excluding abstentions from the count
+D. a two-thirds majority of the Standing, Animals and Plants Committees voting together
 
-### Q14. Which option preserves the ecological boundary of Appendix III boundary?
+**Answer: C**
 
-A. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-B. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-C. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-D. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
+**Explanation:** Article XV requires two-thirds of Parties present and casting an affirmative or
+negative vote; abstentions are not counted. Appendix III follows a unilateral Party route, not
+this vote. The treaty does not require unanimity or a majority of the entire membership, and the
+three committees do not jointly amend the Appendices.
 
-**Answer: B.**
-**Explanation:** Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q15. Which statement uses Appendix III boundary without changing its scale, parameter or status?
+### MCQ 8
 
-A. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-B. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-C. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-D. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
+Which sequence correctly describes an ordinary Appendix III inclusion?
 
-**Answer: C.**
-**Explanation:** Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Scientific Authority proposal → Standing Committee vote → immediate effect
+B. Secretariat proposal → CoP two-thirds vote → effect after 30 days
+C. Party proposal → Animals/Plants Committee approval → effect after one year
+D. Party submission → Secretariat communication to Parties → effect after 90 days
 
-### Q16. Which option avoids the standard UPSC close-option trap about Appendix III boundary?
+**Answer: D**
 
-A. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-B. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-C. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-D. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
+**Explanation:** Article XVI allows any Party to submit a qualifying species; the Secretariat
+communicates the list and it takes effect after 90 days. No CoP or committee approval is required.
+A withdrawal by the listing Party takes effect 30 days after Secretariat communication, which
+must not be confused with the 90-day inclusion period.
 
-**Answer: D.**
-**Explanation:** Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q17. Which statement correctly identifies Listing versus trade ban?
+### MCQ 9
 
-A. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-B. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-C. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-D. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
+Before an Appendix I export permit is granted, which set of findings is required?
 
-**Answer: A.**
-**Explanation:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. NDF, lawful acquisition, humane preparation/shipment and confirmation of the destination
+import permit
+B. Certificate of origin, proof of domestic sale and approval of the Standing Committee
+C. IUCN Endangered status, a Customs seizure report and proof of non-commercial export
+D. Only a declaration by the exporter that the specimen is captive-bred
 
-### Q18. Which option preserves the ecological boundary of Listing versus trade ban?
+**Answer: A**
 
-A. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-B. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-C. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-D. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
+**Explanation:** Article III requires the exporting Scientific Authority's NDF and Management
+Authority satisfaction on lawful acquisition, live-specimen welfare and the prior destination
+import permit. A certificate of origin is associated with Appendix III (B). IUCN status and a
+seizure report are not treaty permit conditions (C). An exporter's unsupported source declaration
+cannot replace official findings (D).
 
-**Answer: B.**
-**Explanation:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q19. Which statement uses Listing versus trade ban without changing its scale, parameter or status?
+### MCQ 10
 
-A. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-B. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-C. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-D. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
+For an ordinary Appendix I import permit, which authority-condition pairing is correct?
 
-**Answer: C.**
-**Explanation:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Exporting Scientific Authority — confirms the import is not primarily commercial
+B. Importing Management Authority — confirms the specimen will not be used for primarily
+commercial purposes
+C. Importing Customs authority — issues the NDF on behalf of the Scientific Authority
+D. CITES Secretariat — certifies that the recipient can care for the living specimen
 
-### Q20. Which option avoids the standard UPSC close-option trap about Listing versus trade ban?
+**Answer: B**
 
-A. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-B. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-C. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-D. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
+**Explanation:** The importing Management Authority addresses the primarily-commercial-purpose
+restriction. The importing Scientific Authority advises that the purpose is non-detrimental and
+that a live recipient is suitably equipped. Customs verifies at the border but does not replace
+the Scientific Authority (C), and the Secretariat does not issue national shipment permits (D).
 
-**Answer: D.**
-**Explanation:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q21. Which statement correctly identifies Specimen discipline?
+### MCQ 11
 
-A. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-B. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-C. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-D. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
+Under the Convention's ordinary Appendix II import rule, the importing State must receive:
 
-**Answer: A.**
-**Explanation:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. an Appendix I import permit only
+B. a certificate of origin from the Secretariat
+C. an export permit or re-export certificate from the exporting/re-exporting State
+D. prior approval from the Animals or Plants Committee
 
-### Q22. Which option preserves the ecological boundary of Specimen discipline?
+**Answer: C**
 
-A. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-B. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-C. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-D. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
+**Explanation:** Article IV requires prior presentation of an export permit or re-export
+certificate for Appendix II import. CITES itself does not ordinarily require an Appendix II
+import permit, although a State may impose one under stricter domestic measures. A certificate of
+origin belongs to Appendix III, and the technical committees do not approve individual
+shipments.
 
-**Answer: B.**
-**Explanation:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q23. Which statement uses Specimen discipline without changing its scale, parameter or status?
+### MCQ 12
 
-A. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-B. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-C. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-D. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
+An Appendix III specimen is exported from a State that did **not** place the species in Appendix
+III. Which document ordinarily establishes the relevant origin route?
 
-**Answer: C.**
-**Explanation:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Appendix I import permit
+B. NDF issued by the CITES Secretariat
+C. CoP listing certificate
+D. Certificate of origin
 
-### Q24. Which option avoids the standard UPSC close-option trap about Specimen discipline?
+**Answer: D**
 
-A. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-B. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-C. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-D. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
+**Explanation:** Export from the Party that listed the species requires that Party's export
+permit; export from another State ordinarily uses a certificate of origin. Appendix III does not
+have a treaty NDF requirement, the Secretariat does not issue national NDFs, and there is no “CoP
+listing certificate.”
 
-**Answer: D.**
-**Explanation:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q25. Which statement correctly identifies Source discipline?
+### MCQ 13
 
-A. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-B. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-C. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-D. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
+Which statement best defines re-export?
 
-**Answer: A.**
-**Explanation:** Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Export of a specimen that was previously imported
+B. Return of a seized specimen only to its original habitat
+C. Export of a captive-bred specimen for the first time
+D. Movement of a specimen through a State while it remains under Customs control
 
-### Q26. Which option preserves the ecological boundary of Source discipline?
+**Answer: A**
 
-A. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-B. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-C. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-D. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
+**Explanation:** Article I defines re-export by transaction history: the specimen was previously
+imported and is now exported again. Confiscated-specimen disposal (B), source type (C), and transit
+or trans-shipment under Customs control (D) are separate concepts.
 
-**Answer: B.**
-**Explanation:** Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q27. Which statement uses Source discipline without changing its scale, parameter or status?
+### MCQ 14
 
-A. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-B. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-C. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-D. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
+“Introduction from the sea” refers to:
 
-**Answer: C.**
-**Explanation:** Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. landing a specimen caught within the importing State's territorial waters
+B. transporting into a State a specimen taken in a marine area beyond the jurisdiction of any
+State
+C. re-exporting a marine specimen through a designated seaport
+D. moving a specimen between two ports of the same State
 
-### Q28. Which option avoids the standard UPSC close-option trap about Source discipline?
+**Answer: B**
 
-A. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-B. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-C. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-D. Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
+**Explanation:** The definition concerns marine areas not under the jurisdiction of any State.
+It is not ordinary domestic landing (A), re-export (C), or coastwise domestic movement (D).
+Appendix I/II introduction from the sea requires a certificate and relevant scientific/welfare
+conditions.
 
-**Answer: D.**
-**Explanation:** Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q29. Which statement correctly identifies Permit matrix?
+### MCQ 15
 
-A. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-B. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-C. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-D. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
+Consider the following pairs:
 
-**Answer: A.**
-**Explanation:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+1. Non-detriment finding — Scientific Authority
+2. Legal-acquisition satisfaction — Management Authority
+3. Individual shipment permit — Animals Committee
 
-### Q30. Which option preserves the ecological boundary of Permit matrix?
+Which of the pairs given above are correctly matched?
 
-A. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-B. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-C. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-D. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-**Answer: B.**
-**Explanation:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q31. Which statement uses Permit matrix without changing its scale, parameter or status?
+**Explanation:** The Scientific Authority supplies the biological NDF; the Management Authority
+checks lawful acquisition and issues permits/certificates. The Animals Committee is a treaty
+technical body and does not issue national shipment permits, so pair 3 is wrong. NDF and lawful
+acquisition answer different questions and neither substitutes for the other.
 
-A. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-B. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-C. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-D. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
+---
 
-**Answer: C.**
-**Explanation:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 16
 
-### Q32. Which option avoids the standard UPSC close-option trap about Permit matrix?
+Under Article IV and India's section 49F, a Scientific Authority has a special Appendix II duty
+to:
 
-A. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-B. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-C. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-D. Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
+A. prosecute exporters who violate permit conditions
+B. collect Customs duty on every consignment
+C. replace the Management Authority whenever trade exceeds a quota
+D. monitor permits granted and actual exports, and advise limits where conservation requires
 
-**Answer: D.**
-**Explanation:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q33. Which statement correctly identifies Non-detriment finding?
+**Explanation:** The Scientific Authority monitors both the paper authorizations and actual
+Appendix II exports, then advises the Management Authority on limiting permits if needed. It does
+not prosecute (A), collect revenue (B), or take over the MA's legal role (C).
 
-A. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-B. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-C. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-D. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
+---
 
-**Answer: A.**
-**Explanation:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 17
 
-### Q34. Which option preserves the ecological boundary of Non-detriment finding?
+Which statement about CITES permits and certificates is correct?
 
-A. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-B. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-C. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-D. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
+A. A separate document is required for each consignment, and an export permit may be used only
+within six months of grant
+B. One permit remains valid indefinitely for all consignments by the same trader
+C. An authenticated photocopy always replaces the original document
+D. The Secretariat, rather than a national Management Authority, assigns every control number
 
-**Answer: B.**
-**Explanation:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q35. Which statement uses Non-detriment finding without changing its scale, parameter or status?
+**Explanation:** Article VI requires one permit/certificate per consignment and gives export
+permits a six-month use period. Copies must be marked and cannot replace originals except as
+endorsed. National Management Authorities issue and control the documents; the Secretariat does
+not issue each consignment's permit.
 
-A. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-B. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-C. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-D. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
+---
 
-**Answer: C.**
-**Explanation:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 18
 
-### Q36. Which option avoids the standard UPSC close-option trap about Non-detriment finding?
+Under Article VII, an Appendix I animal specimen bred in captivity **for commercial purposes** is
+treated for CITES trade as:
 
-A. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-B. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-C. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-D. The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
+A. outside the Convention altogether
+B. a specimen of an Appendix II species
+C. an Appendix III specimen requiring only a certificate of origin
+D. an Appendix I wild specimen with no special provision
 
-**Answer: D.**
-**Explanation:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q37. Which statement correctly identifies Legal-acquisition check?
+**Explanation:** Article VII(4) deems qualifying Appendix I commercially captive-bred animal
+specimens (and qualifying commercially artificially propagated Appendix I plants) to be Appendix
+II specimens for CITES trade. This is not total deregulation: source qualification, documents and
+stricter national rules continue to matter.
 
-A. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-B. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-C. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-D. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
+---
 
-**Answer: A.**
-**Explanation:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 19
 
-### Q38. Which option preserves the ecological boundary of Legal-acquisition check?
+What is the function of a pre-Convention certificate?
 
-A. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-B. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-C. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-D. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
+A. It proves that a species was listed by a Party in Appendix III
+B. It authorizes any specimen obtained before the current CoP
+C. It records the Management Authority's satisfaction that the specimen was acquired before
+CITES provisions applied to it
+D. It replaces domestic proof of ownership for all future transactions
 
-**Answer: B.**
-**Explanation:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q39. Which statement uses Legal-acquisition check without changing its scale, parameter or status?
+**Explanation:** Article VII permits a special route where the MA is satisfied that acquisition
+predated the Convention's application to that specimen. “Before the current CoP” is not the
+test. The certificate does not create Appendix III status or erase all domestic ownership and
+trade requirements.
 
-A. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-B. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-C. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-D. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
+---
 
-**Answer: C.**
-**Explanation:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 20
 
-### Q40. Which option avoids the standard UPSC close-option trap about Legal-acquisition check?
+Which statement about the personal or household-effects provision is most accurate?
 
-A. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-B. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-C. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-D. Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
+A. It creates an unconditional exemption for every Appendix I and II specimen
+B. It applies only to commercial dealers travelling with stock
+C. It overrides every stricter domestic import rule
+D. It is a limited Article VII provision with express Appendix I and Appendix II exceptions
 
-**Answer: D.**
-**Explanation:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q41. Which statement correctly identifies Management Authority?
+**Explanation:** Article VII contains a personal/household-effects provision but expressly limits
+it in specified Appendix I and Appendix II circumstances. It is neither universal (A), designed
+for commercial stock (B), nor capable of overriding stricter national measures preserved by
+Article XIV (C).
 
-A. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-B. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-C. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-D. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
+---
 
-**Answer: A.**
-**Explanation:** A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 21
 
-### Q42. Which option preserves the ecological boundary of Management Authority?
+Which combination correctly describes the CITES Conference of the Parties?
 
-A. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-B. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-C. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-D. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
+A. It reviews implementation and may amend Appendices I/II; regular meetings occur at least once
+every two years unless the CoP decides otherwise
+B. It issues every export permit and meets monthly
+C. It alone adds Appendix III species and meets only when one Party requests
+D. It prosecutes wildlife offences before an international criminal court
 
-**Answer: B.**
-**Explanation:** A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q43. Which statement uses Management Authority without changing its scale, parameter or status?
+**Explanation:** Article XI gives the CoP review, financial, reporting, recommendation and
+Appendix I/II amendment functions. National MAs issue permits (B). Appendix III is Party-initiated
+(C). Criminal prosecution remains domestic, with international cooperation where applicable (D).
 
-A. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-B. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-C. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-D. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
+---
 
-**Answer: C.**
-**Explanation:** A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 22
 
-### Q44. Which option avoids the standard UPSC close-option trap about Management Authority?
+Which is a function of the CITES Secretariat?
 
-A. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-B. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-C. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-D. A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
+A. Arresting suspected traffickers at international airports
+B. Servicing meetings, studying Party reports, publishing current Appendices and making
+implementation recommendations
+C. Granting Indian registration certificates for Schedule IV animals
+D. Making national legal-acquisition findings for exporters
 
-**Answer: D.**
-**Explanation:** A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q45. Which statement correctly identifies Scientific Authority?
+**Explanation:** Article XII assigns administrative, communicative, scientific/technical and
+reporting functions to the UNEP-provided Secretariat. Arrest, Indian registration and shipment-
+level legal acquisition are national functions. The Secretariat can facilitate compliance but
+does not replace police, Customs or an MA.
 
-A. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-B. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-C. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-D. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
+---
 
-**Answer: A.**
-**Explanation:** A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 23
 
-### Q46. Which option preserves the ecological boundary of Scientific Authority?
+Consider the following institutional descriptions:
 
-A. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-B. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-C. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-D. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
+1. Standing Committee — policy, operational and major compliance work between CoPs
+2. Animals Committee — scientific and technical advice on animal taxa
+3. Plants Committee — national export-permit authority for all plant shipments
 
-**Answer: B.**
-**Explanation:** A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which descriptions are correct?
 
-### Q47. Which statement uses Scientific Authority without changing its scale, parameter or status?
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-A. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-B. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-C. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-D. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** The Standing Committee performs intersessional policy/operational and compliance
+work, while Animals and Plants Committees provide taxon-focused scientific/technical advice. The
+Plants Committee does not issue national permits, making statement 3 wrong.
 
-### Q48. Which option avoids the standard UPSC close-option trap about Scientific Authority?
+---
 
-A. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-B. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-C. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-D. A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
+### MCQ 24
 
-**Answer: D.**
-**Explanation:** A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which sequence best reflects the Article XIII compliance logic?
 
-### Q49. Which statement correctly identifies Appendix amendment route?
+A. Secretariat imposes a criminal sentence → Party appeals to CoP
+B. Customs seizes one consignment → automatic global trade ban
+C. Scientific Authority suspends another State's treaty membership
+D. Secretariat communicates a concern → Party supplies facts/remedial action → CoP or relevant
+bodies may make recommendations
 
-A. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-B. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-C. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-D. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** Article XIII begins with information about adverse trade effects or ineffective
+implementation, followed by Secretariat communication, Party response/inquiry and review with
+recommendations. CITES bodies do not impose criminal sentences, a single seizure does not
+automatically trigger global suspension, and a national SA cannot suspend another Party.
 
-### Q50. Which option preserves the ecological boundary of Appendix amendment route?
+---
 
-A. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-B. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-C. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-D. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
+### MCQ 25
 
-**Answer: B.**
-**Explanation:** Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A CITES recommendation to suspend specified trade is best understood as:
 
-### Q51. Which statement uses Appendix amendment route without changing its scale, parameter or status?
+A. A treaty-compliance measure asking Parties not to authorize the covered trade until identified
+deficiencies are corrected
+B. A criminal conviction of every trader in the affected State
+C. Permanent removal of the State from CITES membership
+D. Automatic confiscation of all wildlife held domestically in that State
 
-A. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-B. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-C. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-D. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
+**Answer: A**
 
-**Answer: C.**
-**Explanation:** Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** Trade suspension is prospective compliance leverage, normally tied to a defined
+issue and corrective route. It does not convict individuals, terminate treaty membership or
+confiscate domestic holdings. Domestic investigation, seizure and prosecution remain separate
+legal processes.
 
-### Q52. Which option avoids the standard UPSC close-option trap about Appendix amendment route?
+---
 
-A. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-B. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-C. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-D. Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
+### MCQ 26
 
-**Answer: D.**
-**Explanation:** Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Article VIII requires Parties to support CITES implementation through which domestic measures?
 
-### Q53. Which statement correctly identifies Reservation boundary?
+A. Replacing all national wildlife statutes with the treaty text
+B. Penalizing unlawful trade or possession and providing for confiscation or return
+C. Giving the Secretariat direct search and arrest powers
+D. Prohibiting every form of legal Appendix II trade
 
-A. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-B. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-C. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-D. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** Article VIII requires national enforcement measures, including penalties and
+confiscation/return. CITES relies on domestic legislation rather than abolishing it. It creates
+no Secretariat police power and does not require a blanket Appendix II ban.
 
-### Q54. Which option preserves the ecological boundary of Reservation boundary?
+---
 
-A. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-B. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-C. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-D. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
+### MCQ 27
 
-**Answer: B.**
-**Explanation:** A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Under the current Indian Wild Life (Protection) Act structure, Schedule IV primarily contains:
 
-### Q55. Which statement uses Reservation boundary without changing its scale, parameter or status?
+A. Former “vermin” species notified for unrestricted hunting
+B. All Indian endemic species assessed by IUCN
+C. CITES Appendix I, II and III specimens incorporated into Indian law
+D. Only plants that cannot be cultivated without a licence
 
-A. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-B. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-C. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-D. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** Section 49D defines scheduled specimens through CITES Appendices I–III as
+incorporated in Schedule IV. IUCN status does not automatically create an Indian Schedule.
+The restructured Act has four Schedules; Schedule III concerns specified plants, while the old
+vermin-schedule framing cannot be carried into the current law.
 
-### Q56. Which option avoids the standard UPSC close-option trap about Reservation boundary?
+---
 
-A. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-B. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-C. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-D. A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
+### MCQ 28
 
-**Answer: D.**
-**Explanation:** A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which matter is governed specifically by section 49M of the Indian Act?
 
-### Q57. Which statement correctly identifies Domestic implementation?
+A. CoP voting on Appendix amendments
+B. Constitution of the Wildlife Crime Control Bureau
+C. Designation of CITES Scientific Authorities
+D. Reporting and registration of possession, transfer, birth and death of living Schedule IV
+animal specimens
 
-A. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-B. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-C. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-D. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** Section 49M creates the living scheduled-animal reporting and registration
+system. Section 38Y concerns WCCB; section 49F concerns Scientific Authorities; CoP voting is
+governed by CITES Article XV, not Indian section 49M.
 
-### Q58. Which option preserves the ecological boundary of Domestic implementation?
+---
 
-A. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-B. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-C. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-D. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
+### MCQ 29
 
-**Answer: B.**
-**Explanation:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which statement reflects the latest Management Authority notification verified in India Code for
+this workbook?
 
-### Q59. Which statement uses Domestic implementation without changing its scale, parameter or status?
+A. S.O. 1328(E) of 13 March 2024 designates Shri Gobind Sagar Bhardwaj, ADGF, until
+15 August 2027 or further orders, whichever is earlier
+B. The Wildlife Institute of India is permanently designated as the sole Management Authority
+C. Every Chief Wild Life Warden automatically serves as India's CITES Management Authority
+D. Customs is the statutory Management Authority under section 49E
 
-A. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-B. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-C. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-D. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
+**Answer: A**
 
-**Answer: C.**
-**Explanation:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** The 2024 notification is the current dated designation verified here. Section
+49E requires a notified officer not below ADGF rank. WII is among Scientific Authorities, not the
+MA. Chief Wild Life Wardens and Customs have important functions but are not automatically the
+national MA.
 
-### Q60. Which option avoids the standard UPSC close-option trap about Domestic implementation?
+---
 
-A. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-B. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-C. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-D. India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
+### MCQ 30
 
-**Answer: D.**
-**Explanation:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+S.O. 3548(E) of 8 August 2023 is significant because it:
 
-### Q61. Which statement correctly identifies Enforcement chain?
+A. lists every Indian species in CITES Appendix I
+B. designates 23 research institutes as Scientific Authorities for Chapter VB
+C. creates the Wildlife Crime Control Bureau
+D. withdraws India from all CITES reservations
 
-A. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-B. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-C. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-D. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** The notification designates a multidisciplinary group of botanical, zoological,
+forestry, marine, molecular, veterinary and other research institutions. It is an institutional
+notification, not a species-listing act. WCCB has a separate statutory basis, and the notice does
+not concern reservations.
 
-### Q62. Which option preserves the ecological boundary of Enforcement chain?
+---
 
-A. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-B. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-C. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-D. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
+### MCQ 31
 
-**Answer: B.**
-**Explanation:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which combination falls within WCCB's official section 38Z role?
 
-### Q63. Which statement uses Enforcement chain without changing its scale, parameter or status?
+A. Issuing IUCN categories and CoP voting credentials
+B. Making every NDF and fixing global export quotas
+C. Intelligence collection, inter-agency coordination, prosecution support and assistance to
+Customs in inspecting flora/fauna consignments
+D. Deciding criminal guilt and imposing imprisonment
 
-A. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-B. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-C. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-D. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** WCCB collects and disseminates intelligence, maintains a data bank, coordinates
+agencies, builds investigative capacity, supports prosecutions and assists Customs under the Act,
+CITES and EXIM policy. It does not issue IUCN assessments, replace every SA, or act as a court.
 
-### Q64. Which option avoids the standard UPSC close-option trap about Enforcement chain?
+---
 
-A. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-B. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-C. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-D. Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
+### MCQ 32
 
-**Answer: D.**
-**Explanation:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A trader presents a Schedule IV consignment for Chapter VB clearance at a place not notified as
+a port of entry or exit. Which is the most accurate legal response?
 
-### Q65. Which statement correctly identifies WCCB boundary?
+A. Clearance is valid if the trader has an IUCN assessment
+B. Any police station can substitute for the designated port
+C. The Appendix becomes irrelevant once an export permit exists
+D. Section 49H requires presentation at a Central Government-designated entry/exit port
 
-A. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-B. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-C. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-D. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** Section 49H(4) requires presentation to the MA/authorized officer or Customs at
+specified ports. S.O. 3547(E) designates 12 such ports. An IUCN assessment, police station or
+permit alone does not remove the designated-port requirement.
 
-### Q66. Which option preserves the ecological boundary of WCCB boundary?
+---
 
-A. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-B. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-C. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-D. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
+### MCQ 33
 
-**Answer: B.**
-**Explanation:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which distinction between IUCN and CITES is correct?
 
-### Q67. Which statement uses WCCB boundary without changing its scale, parameter or status?
+A. IUCN scientifically assesses extinction risk; CITES creates legal controls on international
+trade in listed specimens
+B. IUCN issues export permits; CITES assigns non-binding risk categories
+C. Both automatically create the same Indian legal schedule
+D. Both deal only with migratory species
 
-A. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-B. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-C. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
-D. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
+**Answer: A**
 
-**Answer: C.**
-**Explanation:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** IUCN Red List categories are scientific risk assessments, while CITES
+Appendices trigger treaty trade controls. Neither automatically becomes the other, and Indian
+legal protection requires the applicable statute/schedule. CMS, not IUCN or CITES generally, is
+the treaty centred on migratory range-state cooperation.
 
-### Q68. Which option avoids the standard UPSC close-option trap about WCCB boundary?
+---
 
-A. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-B. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-C. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-D. WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
+### MCQ 34
 
-**Answer: D.**
-**Explanation:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+What most clearly distinguishes CMS from CITES?
 
-### Q69. Which statement correctly identifies CITES-IUCN-CMS split?
+A. CMS is a non-legal scientific list, whereas CITES is a domestic Indian statute
+B. CMS organizes conservation cooperation across migratory ranges; CITES regulates international
+trade in listed specimens
+C. CMS alone regulates every wildlife product at Customs borders
+D. CITES protects only migratory animals, while CMS covers plants
 
-A. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-B. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-C. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-D. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** CMS uses Appendix I protection and Appendix II agreements/cooperative
+arrangements for migratory species and Range States. CITES is a trade-control treaty covering
+fauna and flora. Neither description in A, C or D reflects their legal scope.
 
-### Q70. Which option preserves the ecological boundary of CITES-IUCN-CMS split?
+---
 
-A. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-B. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-C. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-D. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
+### MCQ 35
 
-**Answer: B.**
-**Explanation:** CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+When can UNTOC add value in a wildlife-trafficking case?
 
-### Q71. Which statement uses CITES-IUCN-CMS split without changing its scale, parameter or status?
+A. Whenever a species appears on the IUCN Red List, regardless of criminal facts
+B. Whenever a CITES permit contains a typographical error
+C. When the conduct meets applicable transnational, organized-criminal-group and serious-crime
+requirements, enabling cooperation such as extradition or mutual legal assistance
+D. Only when the CITES Secretariat itself files the prosecution
 
-A. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-B. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-C. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-D. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** UNTOC targets transnational organized crime and supplies cooperation tools where
+its legal thresholds are met. It does not determine species status or permit validity and does
+not require the Secretariat to prosecute. National criminalization and facts remain essential.
 
-### Q72. Which option avoids the standard UPSC close-option trap about CITES-IUCN-CMS split?
+---
 
-A. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-B. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-C. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-D. CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
+### MCQ 36
 
-**Answer: D.**
-**Explanation:** CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which relationship between CITES and India's Wild Life (Protection) Act is most accurate?
 
-### Q73. Which statement correctly identifies Zero-direct-PYQ audit?
+A. CITES automatically prosecutes every offence under the Indian Act
+B. The Indian Act applies only at international borders
+C. CITES makes Indian domestic schedules unnecessary
+D. Chapter VB translates CITES trade obligations domestically, while the Act also regulates
+domestic wildlife matters beyond CITES
 
-A. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-B. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-C. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-D. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** CITES needs national implementation. Chapter VB and Schedule IV create the
+Indian trade-control bridge, while the Act separately covers domestic species protection,
+possession, protected areas, offences and enforcement. CITES does not prosecute Indian offences
+or displace the statute.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q73. Which statement correctly identifies Zero-direct-PYQ audit?”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+---
 
-**Detailed examiner-grade model answer:**
+### MCQ 37
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q73. Which statement correctly identifies Zero-direct-PYQ audit?”.
+Which situation best illustrates laundering in wildlife trade?
 
-**Analytical body:**
+A. Wild-taken specimens are falsely declared captive-bred and mixed with legal stock to obtain
+apparently valid papers
+B. A Scientific Authority refuses an export after a negative NDF
+C. Customs verifies the specimen against the original permit
+D. A community reports poaching intelligence to an enforcement agency
 
-1. **Claim and named evidence:** Q73. Which statement correctly identifies Zero-direct-PYQ audit? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Answer: A**
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Explanation:** Laundering disguises illegal origin through false source, species, quantity or
+purpose declarations, document abuse or mixing with legal stock. B, C and D are controls against
+illegal trade, not laundering methods.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q73. Which statement correctly identifies Zero-direct-PYQ audit?”.
+---
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+### MCQ 38
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+Which response best addresses the distinctive challenge of online wildlife trade?
 
-**How to improve this answer:** For “Q73. Which statement correctly identifies Zero-direct-PYQ audit?”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+A. Treat every online advertisement as conclusive proof of guilt without investigation
+B. Combine platform cooperation, lawful digital-evidence preservation, seller-network analysis
+and parcel-risk controls
+C. Ignore financial and shipment data because the advertisement is virtual
+D. Replace demand reduction with border seizures alone
 
-### Q74. Which option preserves the ecological boundary of Zero-direct-PYQ audit?
+**Answer: B**
 
-A. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-B. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-C. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-D. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
+**Explanation:** Online trade separates advertising, communication, payment and delivery, so an
+integrated cyber, financial and parcel response is needed. Due process still matters (A is
+wrong), digital activity leaves useful evidence (C is wrong), and enforcement should complement,
+not replace, demand reduction (D).
 
-**Answer: B.**
-**Explanation:** The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-**Demand decoding:** Treat “Q74. Which option preserves the ecological boundary of Zero-direct-PYQ audit?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+### MCQ 39
 
-**Detailed examiner-grade model answer:**
+What is the strongest use of wildlife forensics in a trafficking investigation?
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q74. Which option preserves the ecological boundary of Zero-direct-PYQ audit?”.
+A. Replacing all witness, permit and chain-of-custody evidence
+B. Determining treaty guilt without a court
+C. Supporting species or origin identification and linking scientific results to intelligence
+and admissible case evidence
+D. Estimating the total hidden market solely from one seizure
 
-**Analytical body:**
+**Answer: C**
 
-1. **Claim and named evidence:** Q74. Which option preserves the ecological boundary of Zero-direct-PYQ audit? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Explanation:** Official CITES/ICCWC material highlights DNA analysis for species and origin,
+case-building and network tracing. Forensics complements rather than replaces other evidence,
+does not adjudicate guilt, and a seizure cannot by itself estimate the full illicit market.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+---
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q74. Which option preserves the ecological boundary of Zero-direct-PYQ audit?”.
+### MCQ 40
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+Which package offers the most defensible long-term response to illegal wildlife trade?
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+A. Appendix listing without permit verification
+B. Seizures without prosecution or demand analysis
+C. Awareness campaigns without source-community or enforcement measures
+D. Credible NDF/LAF, traceability, Customs/WCCB intelligence, forensics and prosecution,
+targeted demand reduction, and source-community conservation incentives
 
-**How to improve this answer:** For “Q74. Which option preserves the ecological boundary of Zero-direct-PYQ audit?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+**Answer: D**
 
-### Q75. Which statement uses Zero-direct-PYQ audit without changing its scale, parameter or status?
+**Explanation:** Wildlife trafficking is a chain problem. The response must connect science,
+legal sourcing, secure documents, border control, network/financial investigation, judicial
+follow-through, consumer behaviour and legitimate source-community interests. Each narrower
+option addresses only one link and leaves easy displacement routes.
 
-A. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-B. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-C. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-D. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
+---
 
-**Answer: C.**
-**Explanation:** The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+## MCQ answer-distribution audit
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q75. Which statement uses Zero-direct-PYQ audit without changing its scale, parameter or…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+| Key | Questions | Count |
+|---|---|---:|
+| A | 1, 5, 9, 13, 17, 21, 25, 29, 33, 37 | 10 |
+| B | 2, 6, 10, 14, 18, 22, 26, 30, 34, 38 | 10 |
+| C | 3, 7, 11, 15, 19, 23, 27, 31, 35, 39 | 10 |
+| D | 4, 8, 12, 16, 20, 24, 28, 32, 36, 40 | 10 |
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q75. Which statement uses Zero-direct-PYQ audit without changing its scale, parameter or status?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q75. Which statement uses Zero-direct-PYQ audit without changing its scale, parameter or status? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** C. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** D. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q75. Which statement uses Zero-direct-PYQ audit without changing its scale, parameter or status?”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Q75. Which statement uses Zero-direct-PYQ audit without changing its scale, parameter or…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Zero-direct-PYQ audit?
-
-A. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-B. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-C. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-D. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-
-**Answer: D.**
-**Explanation:** The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q77. Which statement correctly identifies Live-status boundary?
-
-A. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-B. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-C. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-D. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-
-**Answer: A.**
-**Explanation:** Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q78. Which option preserves the ecological boundary of Live-status boundary?
-
-A. Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-B. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-C. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-D. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-
-**Answer: B.**
-**Explanation:** Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q79. Which statement uses Live-status boundary without changing its scale, parameter or status?
-
-A. Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-B. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-C. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-D. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-
-**Answer: C.**
-**Explanation:** Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Live-status boundary?
-
-A. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-B. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-C. A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-D. Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
-
-**Answer: D.**
-**Explanation:** Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q76. Which option avoids the standard UPSC close-option trap about Zero-direct-PYQ audit?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+### Routing audit
 
-**Detailed examiner-grade model answer:**
+✅ The repository's controlling 2018–2026 PYQ ledgers contain:
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q76. Which option avoids the standard UPSC close-option trap about Zero-direct-PYQ audit?”.
+- **Direct Topic 09 routes:** none.
+- **Shared routes naming Topic 09:** none.
+- **Relevant adjacent application routes:** the four questions reproduced below.
+- **Direct or shared Mains route:** none.
 
-**Analytical body:**
+No historical wording, year, marks or official key is invented to fill the direct-route gap.
 
-1. **Claim and named evidence:** Q76. Which option avoids the standard UPSC close-option trap about Zero-direct-PYQ audit? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** B. Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Q77. Which statement correctly identifies Live-status boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** B. CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### Application PYQ 1 — Prelims 2020, Question 81
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Ownership label:** Application PYQ — routed to Topic 08, not Topic 09.
+**Official local paper:** `books\more_previous_papers\CSP_2020_GS_Paper-1.pdf`, Set A,
+page bearing Q81.
+**Routing provenance:** `_PYQ-ROUTING-PRELIMS-2018-2023.md`, row “2020 | 81 |
+Schedule VI Wildlife Protection Act plant species implications.”
+**Key label:** **INFERRED ANSWER — NOT OFFICIALLY VERIFIED LOCALLY (high confidence).**
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q76. Which option avoids the standard UPSC close-option trap about Zero-direct-PYQ audit?”.
+**Question:** If a particular plant species is placed under Schedule VI of The Wildlife
+Protection Act, 1972, what is the implication?
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+A. A licence is required to cultivate that plant.
+B. Such a plant cannot be cultivated under any circumstances.
+C. It is a Genetically Modified crop plant.
+D. Such a plant is invasive and harmful to the ecosystem.
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+**Defensible answer: A**
 
-**How to improve this answer:** For “Q76. Which option avoids the standard UPSC close-option trap about Zero-direct-PYQ audit?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+**Explanation:** The question tested the pre-2022 schedule architecture. Former Schedule VI
+covered specified plants, and cultivation required a licence; placement did not mean absolute
+impossibility, genetic modification or invasiveness. For current answers, add a temporal warning:
+the 2022 amendment restructured the Act into four Schedules, with specified plants now in
+Schedule III and CITES scheduled specimens in Schedule IV.
 
-### TRANSPARENT ZERO-DIRECT-PYQ OWNERSHIP AUDIT
+**Why it applies here:** It tests the rule that an Indian statutory Schedule is not a CITES
+Appendix and that legal questions must be answered on the law applicable in the question's year.
 
-Audited 2018-2026 routing ledgers contain no direct Topic 09 demand. Adjacent treaty, wildlife-law and trafficking concepts are taught as practice, but no PYQ wording, year, official option key or answer is invented.
+---
 
-### OWNER PYQ LEDGER EXTRACTS
+### Application PYQ 2 — Prelims 2022, Question 89
 
-#### 9. PYQ application
+**Ownership label:** Application PYQ — routed to Topic 08, not Topic 09.
+**Official local paper:** `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`, Set A,
+page bearing Q89.
+**Routing provenance:** `_PYQ-ROUTING-PRELIMS-2018-2023.md`, row “2022 | 89 | Indian wildlife
+protection laws and protected animal provisions.”
+**Key label:** **INFERRED ANSWER — NOT OFFICIALLY VERIFIED LOCALLY (high confidence).**
 
-- ⚠️ Recurring Prelims pattern: distinguish the trade-permission regime across the three
-  Appendices and identify which Indian species are commonly cited CITES examples (Red
-  Sanders, Star Tortoise, tiger, elephant).
-- ⚠️ Mains linkage: CITES enforcement gaps are used to argue for stronger customs-wildlife
-  coordination in India's border/port management.
+**Question:** With reference to Indian laws about wildlife protection, consider the following
+statements:
 
-#### 10. PYQ-based analytical application
+1. Wild animals are the sole property of the government.
+2. When a wild animal is declared protected, such animal is entitled for equal protection
+   whether it is found in protected areas or outside.
+3. Apprehension of a protected wild animal becoming a danger to human life is sufficient ground
+   for its capture or killing.
 
-- ⚠️ Prelims questions distinguishing Management Authority/Scientific Authority roles or the
-  CoP voting threshold are best solved by applying the two-body institutional design and
-  the two-thirds-majority rule directly.
-- ⚠️ Mains answers on "India and CITES" should explicitly address both the domestic
-  legal-alignment achievement (Schedule IV) and the enforcement-capacity limitation
-  (permit-verification chain), rather than presenting CITES membership as a complete
-  solution.
+Which of the statements given above is/are correct?
 
-### ORIGINAL MAINS 1 — 10 MARKS
+A. 1 and 2
+B. 2 only
+C. 1 and 3
+D. 3 only
 
-**Question:** Distinguish the three CITES Appendices without treating them as one prohibition ladder. Answer in about 150 words.
+**Defensible answer: B**
 
-**Model thesis:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix I boundary. **Named evidence/example:** Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix II boundary. **Named evidence/example:** Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix III boundary. **Named evidence/example:** Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Listing versus trade ban. **Named evidence/example:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Explanation:** Protection of a scheduled wild animal is not confined to a protected area, so
+statement 2 is correct. Statement 1 is overbroad: the Act's government-property provision
+specifies legally defined animals, articles and circumstances rather than converting the entire
+wild population into an unqualified possession proposition. Statement 3 lowers the statutory
+threshold from competent-authority satisfaction and prescribed conditions to mere apprehension,
+so it is incorrect.
 
-**Claim → named evidence → analysis → qualification:**
+**Why it applies here:** CITES controls border trade, whereas domestic protection, dangerous-
+animal decisions, ownership consequences and prosecution arise under the WPA.
 
-- CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-- Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned.
-- Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade.
-- Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank.
-- An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
+---
 
-**Qualified conclusion:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix I boundary. **Named evidence/example:** Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix II boundary. **Named evidence/example:** Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix III boundary. **Named evidence/example:** Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Listing versus trade ban. **Named evidence/example:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+### Application PYQ 3 — Prelims 2024, Question 20
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the three CITES Appendices without treating them as one prohibition ladder.…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Ownership label:** Application PYQ — routed to Topic 08, not Topic 09.
+**Official local paper:** `books\prelima_question_paper_answers\2024-GS1-Set A.pdf`.
+**Routing provenance:** `_PYQ-ROUTING-PRELIMS-2024-2025.md`, row “2024 | 20 | Indian Flying Fox
+'vermin' category.”
+**Official local key:** `Ans-2024-GS1.pdf`, Series A, Q20 = **X (DROPPED)**.
 
-**Detailed examiner-grade model answer:**
+**Question:** Consider the following statements:
 
-**Introduction and thesis:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix I boundary. **Named evidence/example:** Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix II boundary. **Named evidence/example:** Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix III boundary. **Named evidence/example:** Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Listing versus trade ban. **Named evidence/example:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Statement-I:** The Indian Flying Fox is placed under the “vermin” category in the Wild Life
+(Protection) Act, 1972.
 
-**Analytical body:**
+**Statement-II:** The Indian Flying Fox feeds on the blood of other animals.
 
-1. **Claim and named evidence:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Which one of the following is correct in respect of the above statements?
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+A. Both Statement-I and Statement-II are correct and Statement-II explains Statement-I.
+B. Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I.
+C. Statement-I is correct, but Statement-II is incorrect.
+D. Statement-I is incorrect, but Statement-II is correct.
 
-**Qualified conclusion:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix I boundary. **Named evidence/example:** Appendix I covers species threatened with extinction and subjects trade to particularly strict regulation, with authorization confined to exceptional circumstances; listing is not a shorthand for every domestic activity being banned. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix II boundary. **Named evidence/example:** Appendix II covers species that may become threatened unless trade is controlled and can also support control of specimens whose identification must be linked to listed taxa; regulated trade is not the same as unrestricted trade. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix III boundary. **Named evidence/example:** Appendix III begins with a Party that already regulates a species within its jurisdiction and seeks other Parties' cooperation in controlling international trade; it is not a third extinction-risk rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Listing versus trade ban. **Named evidence/example:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Official result: DROPPED — no correct option is to be assigned.**
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Explanation:** Indian flying foxes are fruit bats, not blood-feeding vampire bats, so
+Statement-II is false. The post-2022 Act no longer carries the former vermin-schedule structure,
+making Statement-I false in the current statutory architecture. “Both false” is absent from the
+options, consistent with the official dropped key.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Why it applies here:** It is a high-value warning against mixing species biology, old WPA
+schedules and current law—exactly the same discipline needed when distinguishing IUCN, CITES and
+WPA labels.
 
-**How to improve this answer:** For “Distinguish the three CITES Appendices without treating them as one prohibition ladder.…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
-### ORIGINAL MAINS 2 — 10 MARKS
+### Application PYQ 4 — Prelims 2026, Question 27
 
-**Question:** Explain why specimen, source and transaction must be fixed before applying a CITES permit rule. Answer in about 150 words.
+**Ownership label:** Application PYQ — routed to Topic 10 (CMS), not Topic 09.
+**Official local paper:** `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`, English text
+normalized only for scan line breaks.
+**Routing provenance:** `_PYQ-ROUTING-PRELIMS-2026.md`, row “2026 | 27 | Amur Falcon migration
+to Doyang Lake and community-based conservation.”
+**Local key label:** **PROVISIONAL OFFICIAL SET-A KEY: A** (`Ans-2026-GS1-Provisional.pdf`).
 
-**Model thesis:** **Claim:** Specimen discipline. **Named evidence/example:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Source discipline. **Named evidence/example:** Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit matrix. **Named evidence/example:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Question:** Which of the following statements with regard to the arrival of Amur Falcons at
+Doyang Lake in Nagaland each year from Mongolia is/are correct?
 
-**Claim → named evidence → analysis → qualification:**
+1. It showcases how sustained local conservation efforts can contribute to the arrival and
+   protection of international migratory birds.
+2. It reflects the global success of advanced tracking technologies that guide migratory birds
+   back to their stopover sites.
+3. It confirms that Amur Falcons have adapted to permanent residency in India due to favourable
+   habitat changes.
 
-- A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-- Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance.
-- Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
+Select the answer using the code given below:
 
-**Qualified conclusion:** **Claim:** Specimen discipline. **Named evidence/example:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Source discipline. **Named evidence/example:** Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit matrix. **Named evidence/example:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+A. 1 only
+B. 1 and 2
+C. 2 and 3
+D. 3 only
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why specimen, source and transaction must be fixed before applying a CITES permit…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Provisional answer: A**
 
-**Detailed examiner-grade model answer:**
+**Explanation:** Community conservation can protect a recurring migratory stopover, so statement
+1 is correct. Tracking technologies observe movements; they do not guide the birds back, making
+statement 2 wrong. Annual migration does not establish permanent Indian residency, so statement
+3 is wrong.
 
-**Introduction and thesis:** **Claim:** Specimen discipline. **Named evidence/example:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Source discipline. **Named evidence/example:** Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit matrix. **Named evidence/example:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Why it applies here:** It distinguishes CMS/range-state and community conservation from CITES'
+trade-control jurisdiction and shows why wildlife protection needs instruments beyond border
+permits.
 
-**Analytical body:**
+---
 
-1. **Claim and named evidence:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+## ORIGINAL MAINS PRACTICE
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+### Original Mains 1 — 10 marks
 
-**Qualified conclusion:** **Claim:** Specimen discipline. **Named evidence/example:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Source discipline. **Named evidence/example:** Source or origin information is part of permit scrutiny, but no wild, captive-bred or artificially propagated status should be assumed without the transaction document and applicable CITES guidance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit matrix. **Named evidence/example:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Question:** “CITES regulates international wildlife trade; it does not simply ban it.”
+Explain. **Answer in 150 words.**
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Demand decoding:** Define CITES, establish the trade boundary, distinguish all three Appendices
+and qualify the word “ban.”
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Model answer (within 150 words):**
 
-**How to improve this answer:** For “Explain why specimen, source and transaction must be fixed before applying a CITES permit…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+CITES is a binding treaty designed to ensure that international trade in fauna and flora
+does not threaten species survival. Its legal method is graded control, not a universal ban.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+Appendix I covers species threatened with extinction: trade is exceptionally authorized, and an
+import cannot be primarily commercial. Appendix II permits trade when an export permit rests on
+a Scientific Authority's non-detriment finding and a Management Authority's legal-acquisition
+and welfare checks. Appendix III begins with one Party's domestic protection and request for
+cooperation; origin and export documents control the movement.
 
-**Question:** Explain the CITES science-to-permit chain and its institutional division of labour. Answer in about 250 words.
+Further, Article VII provides bounded routes for pre-Convention, captive-bred, artificially
+propagated and certain other specimens, while Article XXIII permits specific reservations.
+Conversely, Article XIV allows States to impose stricter domestic prohibitions.
 
-**Model thesis:** **Claim:** Non-detriment finding. **Named evidence/example:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Legal-acquisition check. **Named evidence/example:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Management Authority. **Named evidence/example:** A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Scientific Authority. **Named evidence/example:** A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Enforcement chain. **Named evidence/example:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Thus, CITES is best described as a science-gated licensing system: strict where extinction risk
+is greatest, but compatible with lawful, sustainable and traceable trade where treaty conditions
+are met.
 
-**Claim → named evidence → analysis → qualification:**
+**Why this earns marks:** It answers the quotation directly, uses treaty mechanisms rather than
+slogans, covers all Appendices and ends with a qualified legal verdict.
 
-- The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-- Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-- A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role.
-- A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice.
-- Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
+---
 
-**Qualified conclusion:** **Claim:** Non-detriment finding. **Named evidence/example:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Legal-acquisition check. **Named evidence/example:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Management Authority. **Named evidence/example:** A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Scientific Authority. **Named evidence/example:** A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Enforcement chain. **Named evidence/example:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+### Original Mains 2 — 10 marks
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the CITES science-to-permit chain and its institutional division of labour. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Question:** Distinguish a non-detriment finding from a legal-acquisition finding and explain
+why CITES requires both. **Answer in 150 words.**
 
-**Detailed examiner-grade model answer:**
+**Demand decoding:** Separate authority, question, evidence and consequence; show why neither
+finding substitutes for the other.
 
-**Introduction and thesis:** **Claim:** Non-detriment finding. **Named evidence/example:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Legal-acquisition check. **Named evidence/example:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Management Authority. **Named evidence/example:** A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Scientific Authority. **Named evidence/example:** A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Enforcement chain. **Named evidence/example:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Model answer (within 150 words):**
 
-**Analytical body:**
+A non-detriment finding (NDF) is the Scientific Authority's judgment that a proposed export will
+not harm the species' survival. It examines biology, population status, harvest pressure,
+management and uncertainty. For Appendix II, the Scientific Authority must also monitor permits
+and actual exports and advise limits where required.
 
-1. **Claim and named evidence:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+A legal-acquisition finding is the Management Authority's satisfaction that the specimen was not
+obtained contrary to applicable fauna and flora law. It relies on source, possession, harvest,
+breeding and transaction records. The Management Authority then issues or refuses the permit and
+checks other conditions, including humane shipment.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Both are necessary because biological sustainability and legality are different. A specimen may
+be lawfully possessed yet form part of an unsustainable export level; alternatively, a
+biologically tolerable quantity may have been poached or fraudulently laundered as captive-bred.
 
-**Qualified conclusion:** **Claim:** Non-detriment finding. **Named evidence/example:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Legal-acquisition check. **Named evidence/example:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Management Authority. **Named evidence/example:** A national Management Authority administers permits and certificates; it does not replace the Scientific Authority's conservation advice or customs' border-verification role. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Scientific Authority. **Named evidence/example:** A national Scientific Authority advises on whether trade is detrimental and on related scientific questions; it does not issue the trade document merely because it supplied advice. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Enforcement chain. **Named evidence/example:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+The two-key design therefore connects conservation science with rule-of-law verification before
+international movement is authorized.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Why this earns marks:** It differentiates the findings by authority and evidence, then uses two
+contrasting examples to prove why the dual gate matters.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+---
 
-**How to improve this answer:** For “Explain the CITES science-to-permit chain and its institutional division of labour. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+### Original Mains 3 — 15 marks
 
-### ORIGINAL MAINS 4 — 15 MARKS
+**Question:** Examine how the three CITES Appendices and the reservation mechanism create a
+graded, but not fully uniform, international wildlife-trade regime. **Answer in 250 words.**
 
-**Question:** Distinguish COP amendments, Appendix III listing, reservations and Indian domestic implementation. Answer in about 250 words.
+**Demand decoding:** “Examine” requires architecture plus qualification: listing route, trade
+conditions, reservations and stricter domestic law.
 
-**Model thesis:** **Claim:** Appendix amendment route. **Named evidence/example:** Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Reservation boundary. **Named evidence/example:** A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Domestic implementation. **Named evidence/example:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB boundary. **Named evidence/example:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+CITES calibrates trade control to conservation need and cooperation context rather than applying
+one prohibition.
 
-- Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged.
-- A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law.
-- India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-- WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
+**Graded architecture:** Appendix I covers species threatened with extinction and permits trade
+only exceptionally. Export needs an NDF, legal-acquisition and welfare findings, plus the
+destination import permit; import cannot be primarily commercial. Appendix II covers species
+that may become threatened without regulation and look-alike taxa needed for effective control.
+Trade remains possible through an export permit based on NDF, legality and welfare. Appendix III
+is different: a Party already regulating a species asks others to cooperate. Export from the
+listing State needs its permit; other origins use a certificate of origin.
 
-**Qualified conclusion:** **Claim:** Appendix amendment route. **Named evidence/example:** Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Reservation boundary. **Named evidence/example:** A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Domestic implementation. **Named evidence/example:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB boundary. **Named evidence/example:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Different listing routes:** Appendix I/II amendments at a CoP require two-thirds of Parties
+present and voting and normally operate after 90 days. Appendix III is unilateral and also takes
+effect after Secretariat communication.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish COP amendments, Appendix III listing, reservations and Indian domestic…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Unevenness:** A Party may enter a specific reservation. Until withdrawal, it is treated as a
+non-Party for trade in that taxon or derivative. This does not delist the species globally.
+Moreover, Article XIV preserves stricter domestic measures, so one State may prohibit a movement
+that CITES could otherwise authorize.
 
-**Detailed examiner-grade model answer:**
+Therefore, CITES creates a common minimum control grammar—Appendix, transaction, finding and
+document—but not identical national outcomes. Reservations preserve sovereign consent, while
+stricter domestic law and enforcement capacity produce differentiated practice. Transparency
+about reservations and destination law is thus essential to prevent regulatory seams from
+becoming trafficking routes.
 
-**Introduction and thesis:** **Claim:** Appendix amendment route. **Named evidence/example:** Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Reservation boundary. **Named evidence/example:** A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Domestic implementation. **Named evidence/example:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB boundary. **Named evidence/example:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Why this earns marks:** It covers each Appendix, voting, timing, reservations and Article XIV,
+then evaluates both coherence and unevenness.
 
-**Analytical body:**
+---
 
-1. **Claim and named evidence:** Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### Original Mains 4 — 15 marks
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Question:** Assess India's post-2022 legal and institutional architecture for implementing
+CITES. **Answer in 250 words.**
 
-**Qualified conclusion:** **Claim:** Appendix amendment route. **Named evidence/example:** Appendix I and II amendments use the Conference of the Parties voting route described in the owners, while Appendix III can be initiated unilaterally by a Party; the three routes must not be merged. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Reservation boundary. **Named evidence/example:** A reservation concerns the reserving Party's treaty treatment for the specified taxon or amendment; it does not erase the listing for all Parties or automatically rewrite another country's domestic law. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Domestic implementation. **Named evidence/example:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB boundary. **Named evidence/example:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Demand decoding:** Cover Chapter VB, Schedule IV, authorities, permit/registration system,
+Customs/WCCB and remaining implementation risks.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Model answer (within 250 words):**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+The Wild Life (Protection) Amendment Act, 2022 converted India's CITES practice into an explicit
+statutory architecture. Chapter VB, operative from 1 April 2023, defines trade, specimen,
+re-export, introduction from the sea and captive sources. Schedule IV incorporates specimens
+from CITES Appendices I–III, while sections 49-I to 49L reproduce the differentiated export,
+import, re-export and sea-introduction conditions.
 
-**How to improve this answer:** For “Distinguish COP amendments, Appendix III listing, reservations and Indian domestic…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+Institutionally, section 49E creates a notified Management Authority for permits, certificates
+and reporting; the current verified notification designates Shri Gobind Sagar Bhardwaj, ADGF,
+until 15 August 2027 or further orders. Section 49F enables multiple Scientific Authorities:
+23 institutes were notified in 2023 across wildlife, botany, forestry, marine, molecular and
+veterinary expertise. Section 49M registers possession, transfer, birth and death of living
+Schedule IV animals, while section 49N regulates Appendix I breeding.
 
-### ORIGINAL MAINS 5 — 20 MARKS
+Border implementation is reinforced through 12 designated ports. WCCB's section 38Z mandate
+adds intelligence, a crime database, inter-agency and foreign coordination, investigation
+capacity, prosecution support and assistance to Customs. A 2023 notification also delegates
+specified Chapter VB functions to WCCB regional officers.
 
-**Question:** Critically assess why Appendix listing alone cannot eliminate illegal wildlife trade. Answer in about 300 words.
+The architecture is therefore substantially stronger than a treaty reference alone. Yet outcome
+depends on NDF quality, legal-source verification, species identification, interoperable
+documents, online/parcel intelligence and case follow-through. Schedule incorporation or permit
+issuance cannot by itself prevent laundering.
 
-**Model thesis:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Listing versus trade ban. **Named evidence/example:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Non-detriment finding. **Named evidence/example:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Legal-acquisition check. **Named evidence/example:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Enforcement chain. **Named evidence/example:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB boundary. **Named evidence/example:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+India's next task is to make science, registration, Customs verification, WCCB intelligence and
+State prosecution operate as one traceable chain.
 
-**Claim → named evidence → analysis → qualification:**
+**Why this earns marks:** It combines exact provisions and current notifications with a balanced
+capacity-gap assessment and an implementable conclusion.
 
-- CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-- An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate.
-- The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate.
-- Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test.
-- Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment.
-- WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer.
+---
 
-**Qualified conclusion:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Listing versus trade ban. **Named evidence/example:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Non-detriment finding. **Named evidence/example:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Legal-acquisition check. **Named evidence/example:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Enforcement chain. **Named evidence/example:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB boundary. **Named evidence/example:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+### Original Mains 5 — 20 marks
 
-**Demand decoding:** The directive **critically assess** requires a direct position on “Critically assess why Appendix listing alone cannot eliminate illegal wildlife trade. Answer…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Question:** “Illegal wildlife trade is a supply-chain, demand and governance problem, not merely
+a poaching problem.” Critically examine and suggest an integrated response. **Answer in
+250 words.**
 
-**Detailed examiner-grade model answer:**
+**Demand decoding:** Trace the whole market, identify enabling systems, evaluate narrow responses
+and propose linked interventions.
 
-**Introduction and thesis:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Listing versus trade ban. **Named evidence/example:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Non-detriment finding. **Named evidence/example:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Legal-acquisition check. **Named evidence/example:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Enforcement chain. **Named evidence/example:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB boundary. **Named evidence/example:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Model answer (within 250 words):**
 
-**Analytical body:**
+Poaching or illegal harvest is only the first node of wildlife trafficking. Brokers aggregate
+specimens; traders launder wild stock through false captive-bred, species, quantity or purpose
+claims; transporters exploit land, air, sea and parcel routes; online channels connect distant
+buyers; corruption and money-laundering protect proceeds. Demand for pets, food, medicine,
+timber and status goods sustains replacement when one route is disrupted. UNODC therefore finds
+that trafficking persists despite long-running action and also damages governance, livelihoods
+and ecosystems.
 
-1. **Claim and named evidence:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+A seizure-only strategy is inadequate. Seizures reveal detected flows, not the hidden market,
+and may simply divert routes. Likewise, Appendix listing without a credible NDF, legal-acquisition
+finding and source verification can leave a paper shield for laundering.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+An integrated response requires:
 
-**Qualified conclusion:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Listing versus trade ban. **Named evidence/example:** An Appendix identifies the applicable international-trade control architecture; the lawful result still depends on Appendix, specimen, transaction, origin, purpose, reservation and the required permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Non-detriment finding. **Named evidence/example:** The Scientific Authority's non-detriment finding is the science gate for relevant exports and must remain distinct from the Management Authority's decision to issue a permit or certificate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Legal-acquisition check. **Named evidence/example:** Permit scrutiny also requires the applicable authority to be satisfied about lawful acquisition where the Convention and domestic implementation require it; an NDF alone is not the whole permit test. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Enforcement chain. **Named evidence/example:** Effective control depends on the chain from scientific finding and permit issuance to species identification, customs inspection, intelligence and cross-border cooperation; listing alone does not verify a shipment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB boundary. **Named evidence/example:** WCCB supports organised wildlife-crime intelligence and enforcement coordination under the domestic statute; it is not the CITES Conference, Scientific Authority or universal permit issuer. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+1. **Source:** community stewardship, legitimate livelihood incentives and trusted reporting.
+2. **Demand:** evidence-led, audience-specific behaviour change.
+3. **Regulation:** secure permits, parent-stock and facility records, marking and e-permit
+   validation.
+4. **Border:** Customs risk profiling, document-to-specimen checks and WCCB support.
+5. **Cyber/finance:** platform cooperation, digital-evidence preservation, parcel and payment
+   analysis, beneficial-owner and corruption investigation.
+6. **Forensics/justice:** DNA or other validated identification, chain of custody, trained
+   prosecutors and proportionate sentencing.
+7. **Cooperation:** CITES compliance, ICCWC support and UNTOC tools where organized-crime
+   thresholds are met.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+The objective is not maximum seizures but reduced illegal extraction, disrupted networks,
+lower demand and improved species outcomes. Enforcement, community legitimacy and market
+intervention must therefore reinforce one another.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Why this earns marks:** It follows the chain, critiques one-dimensional policy and links each
+intervention to a specific vulnerability.
 
-**How to improve this answer:** For “Critically assess why Appendix listing alone cannot eliminate illegal wildlife trade. Answer…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
-### ORIGINAL MAINS 6 — 20 MARKS
+### Original Mains 6 — 20 marks
 
-**Question:** Design an India-facing answer on CITES that preserves treaty, domestic-law and evidence boundaries. Answer in about 300 words.
+**Question:** Differentiate CITES from IUCN, CMS, India's Wild Life (Protection) Act and UNTOC.
+How can these instruments work together against species decline and wildlife trafficking?
+**Answer in 250 words.**
 
-**Model thesis:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Specimen discipline. **Named evidence/example:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit matrix. **Named evidence/example:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Domestic implementation. **Named evidence/example:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES-IUCN-CMS split. **Named evidence/example:** CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Zero-direct-PYQ audit. **Named evidence/example:** The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-status boundary. **Named evidence/example:** Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Demand decoding:** Give precise legal distinctions, then build a complementary governance
+sequence rather than a list.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (within 250 words):**
 
-- CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption.
-- A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence.
-- Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement.
-- India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps.
-- CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical.
-- The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented.
-- Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics.
+The five instruments answer different questions.
 
-**Qualified conclusion:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Specimen discipline. **Named evidence/example:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit matrix. **Named evidence/example:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Domestic implementation. **Named evidence/example:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES-IUCN-CMS split. **Named evidence/example:** CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Zero-direct-PYQ audit. **Named evidence/example:** The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-status boundary. **Named evidence/example:** Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**IUCN Red List** is a scientific assessment of extinction risk; it does not itself create a
+permit or offence. **CMS** is a treaty for migratory species, using Appendix I protection and
+Appendix II agreements or cooperation among Range States. **CITES** is a binding international-
+trade treaty: Appendices, non-detriment and legal-acquisition findings, and permits/certificates
+control export, import, re-export and introduction from the sea. India's **Wild Life
+(Protection) Act, 1972** supplies domestic legal force: species and habitat protection,
+offences, enforcement and, after the 2022 amendment, Chapter VB and Schedule IV for CITES.
+**UNTOC** is not wildlife-specific; where trafficking is transnational, organized and meets the
+serious-crime threshold, it enables criminalization and cooperation such as extradition, mutual
+legal assistance and law-enforcement coordination.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Design an India-facing answer on CITES that preserves treaty, domestic-law and evidence…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+They are complementary. IUCN evidence can identify risk and inform conservation priorities or a
+CITES proposal. CMS can protect migration routes and coordinate Range States where trade control
+alone is insufficient. CITES can require science-gated, legal and traceable border movement.
+The WPA can investigate, seize, prosecute and protect habitat within India. UNTOC can pursue the
+network, finance and cross-border evidence beyond the wildlife permit offence.
 
-**Detailed examiner-grade model answer:**
+The limitation of each explains the need for the others: an IUCN category has no coercive force;
+CITES cannot stop purely domestic habitat loss; the WPA stops at national jurisdiction; UNTOC
+does not list species. A coherent strategy therefore connects risk science, range conservation,
+trade regulation, domestic enforcement and organized-crime cooperation.
 
-**Introduction and thesis:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Specimen discipline. **Named evidence/example:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit matrix. **Named evidence/example:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Domestic implementation. **Named evidence/example:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES-IUCN-CMS split. **Named evidence/example:** CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Zero-direct-PYQ audit. **Named evidence/example:** The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-status boundary. **Named evidence/example:** Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Trade jurisdiction. **Named evidence/example:** CITES regulates international trade in listed wild fauna and flora; it does not itself regulate domestic habitat loss, domestic hunting or purely internal consumption. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Specimen discipline. **Named evidence/example:** A CITES answer must identify the exact specimen or product and verify the accepted scientific name; a species name, processed derivative and shipment description cannot be treated as interchangeable evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit matrix. **Named evidence/example:** Import, export, re-export and introduction from the sea are distinct transactions; their documents and findings vary, so an export permit cannot be used as a universal label for every CITES movement. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Domestic implementation. **Named evidence/example:** India's post-2022 Wildlife Protection Act architecture uses Schedule IV and designated CITES authorities for scheduled specimens, but a CITES decision and the applicable Indian legal update remain separate steps. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES-IUCN-CMS split. **Named evidence/example:** CITES controls international trade, IUCN assesses extinction risk and CMS coordinates conservation across migratory ranges; overlap for one species never makes the three systems legally identical. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Zero-direct-PYQ audit. **Named evidence/example:** The audited 2018-2026 routing ledgers contain no question directly owned by Topic 09; adjacent wildlife-law and convention concepts are taught, but no year, wording or answer key is invented. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-status boundary. **Named evidence/example:** Official CITES pages attempted on 2026-09-06 returned HTTP 403, so the package asserts no current Party count, species Appendix placement, reservation, permit condition or COP outcome beyond repository-owned mechanics. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Design an India-facing answer on CITES that preserves treaty, domestic-law and evidence…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It gives exact functional boundaries, then demonstrates a causal
+division of labour and the limitation that each complementary instrument cures.

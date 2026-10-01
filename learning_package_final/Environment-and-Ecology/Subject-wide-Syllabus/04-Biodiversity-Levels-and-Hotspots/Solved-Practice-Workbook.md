@@ -1,1190 +1,1560 @@
 # Biodiversity Levels and Hotspots — Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-06. Uses the same source-bounded ecological distinctions and strict A-B-C-D rotation.
+> **Subject:** Environment and Ecology | **Evidence cut-off:** 28 September 2026
+> **Original MCQs:** exactly 40 | **Key rotation:** A → B → C → D, repeated ten times
+> **PYQ rule:** official wording/options are normalised only for spacing, punctuation and disclosed OCR noise
+
+### Source control
+
+- Canonical Basic and Advanced Topic 04 owners, Environment Master Framework and official
+  syllabus mapping
+- all central Prelims and GS-III PYQ routing ledgers for 2018-2026, integration audits and
+  `_PYQ-GS3-2026.md`
+- local official-paper OCR and held final/provisional keys under
+  `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export`
+- dated scientific and official sources listed in the companion Learning Session
+
+Historical Prelims keys absent from the local official corpus are not presented as official.
+The unrelated sociology block appended to the canonical Basic owner is excluded.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Genetic diversity?
+### MCQ 1 — Three levels
 
-A. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-B. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-C. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-D. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
+Which statement most accurately separates the three principal levels of biodiversity?
 
-**Answer: A.**
-**Explanation:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** Genetic diversity is within-species variation; species diversity concerns species and
+  their abundances; ecosystem diversity concerns habitats, communities and processes.
+- **B.** Genetic diversity compares ecosystems; species diversity measures only population size;
+  ecosystem diversity counts taxonomic families.
+- **C.** Genetic diversity applies only to crops; species diversity applies only to wildlife;
+  ecosystem diversity applies only to protected areas.
+- **D.** Genetic, species and ecosystem diversity are three names for richness measured at
+  progressively larger sample sizes.
 
-### Q2. Which option preserves the ecological boundary of Genetic diversity?
+**Answer: A**
 
-A. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-B. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-C. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-D. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
+**Why:** The CBD definition distinguishes diversity within species, between species and of
+ecosystems.
 
-**Answer: B.**
-**Explanation:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Correct:** It fixes the biological unit and the information represented at each level.
+- **B — Incorrect:** It swaps levels and reduces species diversity to abundance alone.
+- **C — Incorrect:** Every level occurs in wild, managed and agricultural systems.
+- **D — Incorrect:** The levels differ conceptually; they are not merely larger richness samples.
 
-### Q3. Which statement uses Genetic diversity without changing its scale, parameter or status?
+---
 
-A. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-B. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-C. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-D. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
+### MCQ 2 — Genetic diversity in practice
 
-**Answer: C.**
-**Explanation:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A farming community continues cultivating several rice landraces, including lines that tolerate
+drought and salinity. The most direct biodiversity gain is:
 
-### Q4. Which option avoids the standard UPSC close-option trap about Genetic diversity?
+- **A.** greater ecosystem diversity because several fields are cultivated
+- **B.** retention of genetic diversity within a crop species
+- **C.** higher beta diversity between all natural forests in the district
+- **D.** creation of a new endemic species through cultivation
 
-A. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-B. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-C. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-D. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** Landraces retain alleles and genotypes within one crop species.
 
-### Q5. Which statement correctly identifies Species diversity?
+**Option audit**
+- **A — Incorrect:** Field number does not by itself establish distinct ecosystems.
+- **B — Correct:** Different landraces preserve within-species adaptive variation.
+- **C — Incorrect:** Nothing in the stem compares forest-community composition.
+- **D — Incorrect:** Cultivation of variants does not automatically create a species or endemism.
 
-A. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-B. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-C. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-D. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
+---
 
-**Answer: A.**
-**Explanation:** Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 3 — Richness and evenness
 
-### Q6. Which option preserves the ecological boundary of Species diversity?
+Site X has four species with 25 individuals each. Site Y has the same four species with
+97, 1, 1 and 1 individuals. Which inference is valid?
 
-A. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-B. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-C. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-D. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
+- **A.** Site Y has greater richness because one species is dominant.
+- **B.** Site X and Site Y must have identical Shannon diversity.
+- **C.** Their richness is equal, but Site X has greater evenness.
+- **D.** Their evenness is equal, but Site Y has greater gamma diversity.
 
-**Answer: B.**
-**Explanation:** Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q7. Which statement uses Species diversity without changing its scale, parameter or status?
+**Why:** Both contain four species; abundance is much more balanced at Site X.
 
-A. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-B. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-C. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-D. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
+**Option audit**
+- **A — Incorrect:** Dominance does not add species.
+- **B — Incorrect:** Shannon diversity responds to the abundance distribution.
+- **C — Correct:** It separates species count from abundance equality.
+- **D — Incorrect:** Evenness differs, and gamma requires a defined wider region.
 
-**Answer: C.**
-**Explanation:** Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q8. Which option avoids the standard UPSC close-option trap about Species diversity?
+### MCQ 4 — Ecosystem diversity
 
-A. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-B. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-C. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-D. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
+Which observation most directly demonstrates ecosystem diversity?
 
-**Answer: D.**
-**Explanation:** Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** several alleles of one fish species occur in a river
+- **B.** ten bird species occur in an urban park
+- **C.** one tree species has equal abundance across four plots
+- **D.** a landscape contains native forest, grassland, wetland and estuarine systems
 
-### Q9. Which statement correctly identifies Ecosystem diversity?
+**Answer: D**
 
-A. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-B. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-C. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-D. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
+**Why:** Ecosystem diversity concerns variation among habitats, communities and processes.
 
-**Answer: A.**
-**Explanation:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Incorrect:** This is genetic diversity.
+- **B — Incorrect:** This is evidence of species richness at one site.
+- **C — Incorrect:** This describes distribution of one species, not ecosystem variety.
+- **D — Correct:** It identifies different ecological systems within a landscape.
 
-### Q10. Which option preserves the ecological boundary of Ecosystem diversity?
+---
 
-A. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-B. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-C. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-D. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
+### MCQ 5 — Alpha, beta and gamma
 
-**Answer: B.**
-**Explanation:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which mapping is correct?
 
-### Q11. Which statement uses Ecosystem diversity without changing its scale, parameter or status?
+- **A.** Alpha—within-site diversity; Beta—between-site differentiation; Gamma—regional total
+- **B.** Alpha—regional total; Beta—within-site abundance; Gamma—genetic variation
+- **C.** Alpha—endemism; Beta—threat status; Gamma—habitat loss
+- **D.** Alpha—species count only; Beta—ecosystem services; Gamma—population viability
 
-A. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-B. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-C. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-D. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
+**Answer: A**
 
-**Answer: C.**
-**Explanation:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** The Whittaker scale ladder moves from local inventory through turnover to regional
+diversity.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Ecosystem diversity?
+**Option audit**
+- **A — Correct:** It preserves the standard spatial meanings.
+- **B — Incorrect:** It reverses alpha/gamma and inserts genetic diversity.
+- **C — Incorrect:** These are different ecological attributes.
+- **D — Incorrect:** Alpha can use abundance-sensitive indices; beta/gamma are misdefined.
 
-A. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-B. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-C. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-D. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
+---
 
-**Answer: D.**
-**Explanation:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 6 — High beta without high alpha
 
-### Q13. Which statement correctly identifies Richness and evenness?
+Two adjacent rocky outcrops each contain only five plant species, but they share none. This
+pattern most strongly indicates:
 
-A. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-B. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-C. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-D. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
+- **A.** high alpha diversity in each outcrop
+- **B.** high beta diversity between the outcrops
+- **C.** identical community composition
+- **D.** absence of regional gamma diversity
 
-**Answer: A.**
-**Explanation:** Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q14. Which option preserves the ecological boundary of Richness and evenness?
+**Why:** Complete compositional replacement creates high between-site differentiation.
 
-A. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-B. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-C. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-D. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
+**Option audit**
+- **A — Incorrect:** Five species may be low local richness.
+- **B — Correct:** No shared species means strong turnover at the stated scale.
+- **C — Incorrect:** Their compositions are entirely different.
+- **D — Incorrect:** The regional pool contains ten species, assuming no duplicates.
 
-**Answer: B.**
-**Explanation:** Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q15. Which statement uses Richness and evenness without changing its scale, parameter or status?
+### MCQ 7 — Beta-diversity conventions
 
-A. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-B. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-C. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-D. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
+Which statement about partitioning diversity is correct?
 
-**Answer: C.**
-**Explanation:** Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** Additive and multiplicative beta diversity are directly comparable because both are
+  independent of alpha and use the same scale.
+- **B.** Beta diversity can be calculated before local units, regional extent or the diversity
+  order are defined.
+- **C.** Multiplicative beta can be `γ/mean α`; additive beta can be `γ-mean α`.
+- **D.** Changing sampling grain can alter alpha but leaves beta and gamma mathematically fixed.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Richness and evenness?
+**Answer: C**
 
-A. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-B. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-C. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-D. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
+**Why:** The two partitions use different mathematics and require an explicit scale.
 
-**Answer: D.**
-**Explanation:** Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Incorrect:** A ratio and a difference are not numerically interchangeable.
+- **B — Incorrect:** Beta is meaningful only relative to defined local and regional units.
+- **C — Correct:** It names both common conventions without conflating them.
+- **D — Incorrect:** Changing grain or extent can change every component.
 
-### Q17. Which statement correctly identifies Alpha diversity?
+---
 
-A. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-B. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-C. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-D. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
+### MCQ 8 — Simpson index trap
 
-**Answer: A.**
-**Explanation:** Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A report states only that "Simpson's index increased." What is the safest response?
 
-### Q18. Which option preserves the ecological boundary of Alpha diversity?
+- **A.** An increase proves greater diversity because all commonly reported Simpson formulations
+  have the same direction after standardisation.
+- **B.** An increase proves stronger dominance because Simpson is never reported as a complement
+  or reciprocal.
+- **C.** An increase proves richness rose even if relative abundances and the sampled species list
+  were unchanged.
+- **D.** First identify whether the report used `D`, `1-D` or `1/D`.
 
-A. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-B. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-C. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-D. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
+**Answer: D**
 
-**Answer: B.**
-**Explanation:** Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** Simpson concentration and its transformed diversity forms move in opposite directions.
 
-### Q19. Which statement uses Alpha diversity without changing its scale, parameter or status?
+**Option audit**
+- **A — Incorrect:** Larger `D=Σpi²` means greater concentration and lower diversity.
+- **B — Incorrect:** `1-D` and `1/D` increase as diversity increases.
+- **C — Incorrect:** Simpson-family values can change through evenness alone.
+- **D — Correct:** Naming the convention is indispensable.
 
-A. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-B. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-C. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-D. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
+---
 
-**Answer: C.**
-**Explanation:** Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 9 — Unequal sampling
 
-### Q20. Which option avoids the standard UPSC close-option trap about Alpha diversity?
+Researchers compare a forest sampled for 100 person-hours with a grassland sampled for
+20 person-hours. Which procedure is sound?
 
-A. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-B. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-C. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-D. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
+- **A.** standardise effort/coverage first; if comparing evenness, state Pielou
+  `J'=H'/ln(S)`
+- **B.** use Pielou's index directly because it removes unequal detection and sampling-effort
+  biases across both habitats
+- **C.** replace both site observations with one national species total before comparison
+- **D.** calculate evenness from species names alone without retaining abundance data
 
-**Answer: D.**
-**Explanation:** Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q21. Which statement correctly identifies Beta diversity?
+**Why:** More effort generally detects more species; Pielou measures evenness but does not repair
+unequal sampling.
 
-A. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-B. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-C. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-D. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
+**Option audit**
+- **A — Correct:** It addresses unequal completeness and names the evenness convention.
+- **B — Incorrect:** Pielou standardises Shannon by maximum diversity, not survey completeness.
+- **C — Incorrect:** A national total cannot compare the two sampled communities.
+- **D — Incorrect:** Evenness neither repairs unequal detection nor works without abundances.
 
-**Answer: A.**
-**Explanation:** Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q22. Which option preserves the ecological boundary of Beta diversity?
+### MCQ 10 — Endemic, rare and threatened
 
-A. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-B. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-C. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-D. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
+Which statement correctly distinguishes endemicity from rarity and threat status?
 
-**Answer: B.**
-**Explanation:** Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** Every endemic species must have both a small range and a small local population
+  throughout that range.
+- **B.** An endemic species has a naturally restricted geographic range but may be locally common.
+- **C.** A threatened species must also be native to, and naturally restricted within, one
+  country.
+- **D.** A rare species is one introduced outside its natural range and recorded at low abundance.
 
-### Q23. Which statement uses Beta diversity without changing its scale, parameter or status?
+**Answer: B**
 
-A. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-B. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-C. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-D. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
+**Why:** Endemicity is about range restriction, not abundance, origin status or assessed risk.
 
-**Answer: C.**
-**Explanation:** Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Incorrect:** Some endemics are abundant inside a narrow range.
+- **B — Correct:** It gives the precise distributional meaning.
+- **C — Incorrect:** Threatened species can span many countries.
+- **D — Incorrect:** Native species may be rare; rarity does not imply alien origin.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Beta diversity?
+---
 
-A. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-B. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-C. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-D. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
+### MCQ 11 — Option value
 
-**Answer: D.**
-**Explanation:** Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Preserving a wild crop relative because it may contain genes useful against a future disease
+primarily illustrates:
 
-### Q25. Which statement correctly identifies Gamma diversity?
+- **A.** current consumptive value
+- **B.** existence value alone
+- **C.** option value
+- **D.** replacement cost of a built asset
 
-A. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-B. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-C. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-D. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
+**Answer: C**
 
-**Answer: A.**
-**Explanation:** Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** The resource is retained for uncertain future use.
 
-### Q26. Which option preserves the ecological boundary of Gamma diversity?
+**Option audit**
+- **A — Incorrect:** No present extraction or consumption is specified.
+- **B — Incorrect:** Existence value does not depend on possible future use.
+- **C — Correct:** It keeps a future breeding opportunity open.
+- **D — Incorrect:** The stem does not value an engineered substitute.
 
-A. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-B. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-C. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-D. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
+---
 
-**Answer: B.**
-**Explanation:** Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 12 — Existence and bequest
 
-### Q27. Which statement uses Gamma diversity without changing its scale, parameter or status?
+Which pairing correctly identifies existence and bequest values?
 
-A. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-B. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-C. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
-D. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
+- **A.** Existence—harvesting fish for food; Bequest—present-day wildlife recreation and tourism
+- **B.** Existence—retaining possible future medicine; Bequest—present water purification
+- **C.** Existence—crop pollination services; Bequest—current commercial timber sale
+- **D.** Existence—knowing it persists; Bequest—retaining it for future generations
 
-**Answer: C.**
-**Explanation:** Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q28. Which option avoids the standard UPSC close-option trap about Gamma diversity?
+**Why:** Both are non-use values, but bequest has an explicitly intergenerational focus.
 
-A. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-B. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-C. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-D. Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
+**Option audit**
+- **A — Incorrect:** Harvest and recreation are direct-use benefits.
+- **B — Incorrect:** Future medicine is option value; purification is an indirect service.
+- **C — Incorrect:** Pollination and timber are use values.
+- **D — Correct:** It preserves the standard distinction.
 
-**Answer: D.**
-**Explanation:** Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q29. Which statement correctly identifies Ecological and taxonomic levels?
+### MCQ 13 — HIPPCO and IPBES
 
-A. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-B. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-C. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-D. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
+Which statement best reconciles HIPPCO with the IPBES driver framework?
 
-**Answer: A.**
-**Explanation:** Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** HIPPCO is a mnemonic; IPBES treats population/consumption as indirect and five ecological
+  changes as direct drivers.
+- **B.** HIPPCO is the formal IPBES ranking, with human population treated as the leading direct
+  ecological driver.
+- **C.** IPBES omits land- and sea-use change from direct drivers because those effects are
+  counted entirely under climate change.
+- **D.** IPBES treats overexploitation and biological invasions only as indirect pressures
+  mediated through institutions and trade.
 
-### Q30. Which option preserves the ecological boundary of Ecological and taxonomic levels?
+**Answer: A**
 
-A. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-B. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-C. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-D. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
+**Why:** The mnemonic is pedagogical, whereas IPBES separates direct from underlying drivers.
 
-**Answer: B.**
-**Explanation:** Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Correct:** It retains both the utility and the limitation of HIPPCO.
+- **B — Incorrect:** HIPPCO is not the official IPBES ordering.
+- **C — Incorrect:** Land/sea-use change is IPBES's largest global direct driver.
+- **D — Incorrect:** Both are direct drivers.
 
-### Q31. Which statement uses Ecological and taxonomic levels without changing its scale, parameter or status?
+---
 
-A. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-B. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-C. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-D. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
+### MCQ 14 — Extinction debt
 
-**Answer: C.**
-**Explanation:** Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+After a forest is fragmented, several long-lived plant species persist as adults for decades but
+show almost no recruitment. This most directly illustrates:
 
-### Q32. Which option avoids the standard UPSC close-option trap about Ecological and taxonomic levels?
+- **A.** immediate gamma-diversity recovery
+- **B.** possible extinction debt
+- **C.** successful ex-situ conservation
+- **D.** proof that fragmentation had no demographic effect
 
-A. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-B. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-C. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-D. Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** Present adults can mask delayed loss caused by past habitat change.
 
-### Q33. Which statement correctly identifies Endemic versus native?
+**Option audit**
+- **A — Incorrect:** Failed recruitment signals risk, not demonstrated recovery.
+- **B — Correct:** A lag separates habitat damage from eventual disappearance.
+- **C — Incorrect:** The population remains in the wild; no outside-habitat measure is described.
+- **D — Incorrect:** Lack of immediate extinction is weak evidence of safety.
 
-A. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-B. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-C. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-D. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
+---
 
-**Answer: A.**
-**Explanation:** A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 15 — Biotic homogenisation
 
-### Q34. Which option preserves the ecological boundary of Endemic versus native?
+The same few invasive plants spread through many cities, while locally distinctive native plants
+decline. Local species totals change little. The regional pattern is:
 
-A. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-B. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-C. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-D. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
+- **A.** genetic rescue
+- **B.** increased endemism
+- **C.** biotic homogenisation
+- **D.** primary succession
 
-**Answer: B.**
-**Explanation:** A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q35. Which statement uses Endemic versus native without changing its scale, parameter or status?
+**Why:** Communities become compositionally more similar as widespread winners replace local
+losers.
 
-A. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-B. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-C. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-D. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
+**Option audit**
+- **A — Incorrect:** No beneficial gene flow into an imperilled population is described.
+- **B — Incorrect:** Restricted-range uniqueness is declining.
+- **C — Correct:** Stable local richness can coexist with falling beta distinctiveness.
+- **D — Incorrect:** The sites are not newly exposed substrates.
 
-**Answer: C.**
-**Explanation:** A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q36. Which option avoids the standard UPSC close-option trap about Endemic versus native?
+### MCQ 16 — Fragmentation mechanism
 
-A. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-B. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-C. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-D. A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
+Which chain most accurately describes a major biodiversity effect of habitat fragmentation?
 
-**Answer: D.**
-**Explanation:** A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** more edges → larger core habitat → stronger gene flow between formerly isolated populations
+- **B.** isolation → guaranteed speciation → lower extinction risk
+- **C.** smaller patches → unchanged dispersal, effective population size and demographic variance
+- **D.** smaller isolated populations → reduced gene flow and greater demographic/genetic risk
 
-### Q37. Which statement correctly identifies Endemic versus rare or threatened?
+**Answer: D**
 
-A. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-B. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-C. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-D. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
+**Why:** Fragmentation changes area, edge conditions, connectivity and population processes.
 
-**Answer: A.**
-**Explanation:** Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Incorrect:** More edge usually means less core habitat.
+- **B — Incorrect:** Isolation can raise extinction risk; speciation is not guaranteed.
+- **C — Incorrect:** Dispersal and stochasticity are central fragmentation effects.
+- **D — Correct:** It gives the defensible causal sequence.
 
-### Q38. Which option preserves the ecological boundary of Endemic versus rare or threatened?
+---
 
-A. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-B. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-C. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-D. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
+### MCQ 17 — Hotspot criteria
 
-**Answer: B.**
-**Explanation:** Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A region qualifies as a Conservation International biodiversity hotspot only if it:
 
-### Q39. Which statement uses Endemic versus rare or threatened without changing its scale, parameter or status?
+- **A.** has at least 1,500 endemic vascular plants plus at least 70% original-vegetation loss
+- **B.** contains at least 1,500 threatened vertebrates and retains at least 70% of its habitat
+- **C.** is a legally protected area with high total species richness
+- **D.** contains one endemic flagship species and an internationally recognised wetland
 
-A. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-B. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-C. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
-D. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
+**Answer: A**
 
-**Answer: C.**
-**Explanation:** Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** Both the plant-endemism and historical-loss gates are compulsory.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Endemic versus rare or threatened?
+**Option audit**
+- **A — Correct:** It states the two quantitative thresholds.
+- **B — Incorrect:** The taxon and habitat direction are wrong.
+- **C — Incorrect:** Hotspot status is not a legal protected-area category.
+- **D — Incorrect:** Neither condition satisfies the formal test.
 
-A. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-B. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-C. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-D. Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
+---
 
-**Answer: D.**
-**Explanation:** Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 18 — Hotspot history
 
-### Q41. Which statement correctly identifies Hotspot dual criteria?
+Which sequence is chronologically correct?
 
-A. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-B. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-C. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-D. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
+- **A.** 2000 quantitative set → 1988 concept → 2016 thirty-sixth hotspot → 2004 revision
+- **B.** 1988 concept → 2000 set of 25 → 2004 revision to 34 → 2016 thirty-sixth hotspot
+- **C.** 2004 concept → 2011 set of 25 → 1988 revision → 2016 set of 34
+- **D.** 1990 set of 36 → 2000 set of 34 → 2004 set of 25 → 2016 set of 18
 
-**Answer: A.**
-**Explanation:** The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q42. Which option preserves the ecological boundary of Hotspot dual criteria?
+**Why:** Myers introduced the idea in 1988; quantitative globalisation and later revisions
+followed.
 
-A. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-B. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-C. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-D. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
+**Option audit**
+- **A — Incorrect:** It reverses the origin and assessment stages.
+- **B — Correct:** It preserves the verified progression.
+- **C — Incorrect:** Every listed relationship is chronologically displaced.
+- **D — Incorrect:** The totals run backward and do not match the source history.
 
-**Answer: B.**
-**Explanation:** The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q43. Which statement uses Hotspot dual criteria without changing its scale, parameter or status?
+### MCQ 19 — India's hotspot portions
 
-A. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-B. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-C. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-D. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
+Consider the following pairs:
 
-**Answer: C.**
-**Explanation:** The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+1. Andaman Islands — Indo-Burma
+2. Nicobar Islands — Sundaland
+3. Western Ghats chain — Western Ghats-Sri Lanka
+4. Indian Himalayan arc — Himalaya
 
-### Q44. Which option avoids the standard UPSC close-option trap about Hotspot dual criteria?
+How many pairs are correctly matched?
 
-A. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-B. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-C. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-D. The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
+- **A.** Only one
+- **B.** Only two
+- **C.** All four
+- **D.** Only three
 
-**Answer: D.**
-**Explanation:** The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q45. Which statement correctly identifies Norman Myers and operational status?
+**Why:** All four follow the current hotspot boundary framework used in the source ledger.
 
-A. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-B. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-C. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-D. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
+**Option audit**
+- **A — Incorrect:** More than one pair is correct.
+- **B — Incorrect:** It omits two valid mainland/island mappings.
+- **C — Correct:** Every pair identifies the Indian portion of a transboundary hotspot.
+- **D — Incorrect:** No pair needs exclusion.
 
-**Answer: A.**
-**Explanation:** The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q46. Which option preserves the ecological boundary of Norman Myers and operational status?
+### MCQ 20 — Andaman-Nicobar boundary trap
 
-A. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-B. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-C. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-D. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
+Which statement correctly maps the Andaman and Nicobar island groups?
 
-**Answer: B.**
-**Explanation:** The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** Both island groups together and exclusively form India's portion of Sundaland.
+- **B.** Both island groups together and exclusively form India's portion of Indo-Burma.
+- **C.** Neither island group enters any current terrestrial-hotspot boundary used for India,
+  regardless of endemic biota or affinity.
+- **D.** Andaman maps to Indo-Burma; Nicobar maps to Sundaland, so one Union Territory straddles
+  two systems.
 
-### Q47. Which statement uses Norman Myers and operational status without changing its scale, parameter or status?
+**Answer: D**
 
-A. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-B. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-C. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-D. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
+**Why:** Hotspot boundaries are biogeographic rather than administrative.
 
-**Answer: C.**
-**Explanation:** The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Incorrect:** It wrongly moves Andaman into Sundaland.
+- **B — Incorrect:** It wrongly moves Nicobar into Indo-Burma.
+- **C — Incorrect:** Both groups have a mapped hotspot relation.
+- **D — Correct:** It states the exam-relevant split and its reason.
 
-### Q48. Which option avoids the standard UPSC close-option trap about Norman Myers and operational status?
+---
 
-A. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-B. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-C. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-D. The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
+### MCQ 21 — Scientific label versus legal status
 
-**Answer: D.**
-**Explanation:** The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+What follows automatically when an Indian landscape is part of a biodiversity hotspot?
 
-### Q49. Which statement correctly identifies India-linked hotspots?
+- **A.** It gains scientific priority but no automatic Indian legal protection.
+- **B.** It becomes a national park under the Wild Life (Protection) Act.
+- **C.** All resource use inside it becomes prohibited.
+- **D.** Every district overlapping it becomes an eco-sensitive zone.
 
-A. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-B. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-C. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-D. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
+**Answer: A**
 
-**Answer: A.**
-**Explanation:** The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** Hotspot designation and domestic legal notification are different systems.
 
-### Q50. Which option preserves the ecological boundary of India-linked hotspots?
+**Option audit**
+- **A — Correct:** It preserves the designation firewall.
+- **B — Incorrect:** National parks require legal notification.
+- **C — Incorrect:** Hotspot status does not itself regulate land use.
+- **D — Incorrect:** Eco-sensitive zones arise through separate legal/administrative action.
 
-A. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-B. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-C. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-D. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
+---
 
-**Answer: B.**
-**Explanation:** The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 22 — Megadiverse country
 
-### Q51. Which statement uses India-linked hotspots without changing its scale, parameter or status?
+Which statement correctly distinguishes a megadiverse country from a hotspot?
 
-A. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-B. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-C. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-D. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
+- **A.** Both labels use exactly the same 1,500-plant and 70%-loss thresholds.
+- **B.** Megadiverse is a country-scale portfolio label; hotspot is a threatened
+  biogeographic-region label.
+- **C.** A megadiverse country is necessarily covered completely by hotspots.
+- **D.** Hotspot status is political, while megadiverse status creates legal protected areas.
 
-**Answer: C.**
-**Explanation:** The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q52. Which option avoids the standard UPSC close-option trap about India-linked hotspots?
+**Why:** The unit, criterion and purpose differ.
 
-A. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-B. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-C. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-D. The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
+**Option audit**
+- **A — Incorrect:** The dual threshold belongs to hotspots.
+- **B — Correct:** It separates sovereign-country diversity from regional triage.
+- **C — Incorrect:** Large non-hotspot areas can exist within a megadiverse country.
+- **D — Incorrect:** Neither description is accurate.
 
-**Answer: D.**
-**Explanation:** The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q53. Which statement correctly identifies Hotspot versus general richness?
+### MCQ 23 — Origin, diversity and endemism
 
-A. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-B. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-C. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-D. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
+Which statement correctly separates crop origin, crop diversity and endemism?
 
-**Answer: A.**
-**Explanation:** A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** A crop's centre of origin must always be its present centre of highest genetic diversity.
+- **B.** A centre of endemism must have lost 70% of original vegetation.
+- **C.** A centre of diversity may arise away from domestication origin through continued
+  selection and diversification.
+- **D.** A hotspot and a centre of origin are interchangeable if both contain wild relatives.
 
-### Q54. Which option preserves the ecological boundary of Hotspot versus general richness?
+**Answer: C**
 
-A. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-B. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-C. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-D. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
+**Why:** Primary and secondary crop-diversity centres need not coincide with domestication origin.
 
-**Answer: B.**
-**Explanation:** A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Incorrect:** The two can diverge.
+- **B — Incorrect:** The loss threshold belongs to hotspot status.
+- **C — Correct:** It captures the modern refinement of Vavilovian reasoning.
+- **D — Incorrect:** One is conservation triage; the other is crop/evolutionary history.
 
-### Q55. Which statement uses Hotspot versus general richness without changing its scale, parameter or status?
+---
 
-A. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-B. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-C. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
-D. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
+### MCQ 24 — Limits of hotspot triage
 
-**Answer: C.**
-**Explanation:** A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which conclusion is most defensible?
 
-### Q56. Which option avoids the standard UPSC close-option trap about Hotspot versus general richness?
+- **A.** Non-hotspot ecosystems may be converted if they fail both the plant-endemism and
+  habitat-loss thresholds.
+- **B.** Hotspots alone provide a representative national network for every taxon, ecosystem
+  service and ecological process.
+- **C.** Hotspot status directly measures current management effectiveness, connectivity and
+  recovery inside each protected area.
+- **D.** Hotspots guide priority, but non-hotspot grasslands, wetlands, coasts and cold deserts
+  still require conservation.
 
-A. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-B. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-C. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-D. A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** Global triage is necessary but not a complete national strategy.
 
-### Q57. Which statement correctly identifies Hotspot triage and non-hotspot value?
+**Option audit**
+- **A — Incorrect:** Failing one global criterion does not imply low national value.
+- **B — Incorrect:** Taxonomic and ecosystem biases remain.
+- **C — Incorrect:** The framework uses endemism and historical loss, not site-management scores.
+- **D — Correct:** It combines priority with ecological completeness.
 
-A. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-B. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-C. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-D. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
+---
 
-**Answer: A.**
-**Explanation:** Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 25 — CBD in-situ definition
 
-### Q58. Which option preserves the ecological boundary of Hotspot triage and non-hotspot value?
+Which example falls within the CBD concept of in-situ conservation?
 
-A. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-B. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-C. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-D. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
+- **A.** farmers maintaining landraces in the agro-ecosystems where their distinctive properties
+  developed
+- **B.** viable seeds stored long-term under controlled conditions in a national gene bank
+- **C.** plant tissue cultures maintained in a laboratory for later propagation and research
+- **D.** a threatened animal population bred in captivity outside its natural habitat
 
-**Answer: B.**
-**Explanation:** Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q59. Which statement uses Hotspot triage and non-hotspot value without changing its scale, parameter or status?
+**Why:** CBD expressly includes cultivated species in the surroundings where distinctive
+properties developed.
 
-A. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-B. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-C. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-D. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
+**Option audit**
+- **A — Correct:** On-farm maintenance can conserve evolving cultivated diversity in situ.
+- **B — Incorrect:** Storage outside the production habitat is ex-situ.
+- **C — Incorrect:** Laboratory culture is ex-situ.
+- **D — Incorrect:** Captive conservation outside natural habitat is ex-situ.
 
-**Answer: C.**
-**Explanation:** Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q60. Which option avoids the standard UPSC close-option trap about Hotspot triage and non-hotspot value?
+### MCQ 26 — India examples
 
-A. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-B. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-C. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-D. Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
+Which pairing correctly classifies Indian in-situ and ex-situ examples?
 
-**Answer: D.**
-**Explanation:** Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** Sacred grove — ex-situ; National Gene Bank — in-situ habitat conservation
+- **B.** On-farm landrace conservation — in-situ; ICAR-NBPGR National Gene Bank — ex-situ
+- **C.** Wildlife corridor — ex-situ; botanical garden — in-situ species recovery
+- **D.** Community reserve — ex-situ; cryobank — in-situ genetic adaptation
 
-### Q61. Which statement correctly identifies Megadiverse and LMMC distinction?
+**Answer: B**
 
-A. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-B. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-C. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-D. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
+**Why:** The first retains diversity in its living ecological/agricultural setting; the second
+stores germplasm outside it.
 
-**Answer: A.**
-**Explanation:** India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Incorrect:** Both classifications are reversed.
+- **B — Correct:** It follows CBD Articles 2, 8 and 9.
+- **C — Incorrect:** A corridor is in-situ and a botanical collection is generally ex-situ.
+- **D — Incorrect:** A community reserve is in-situ and a cryobank is ex-situ.
 
-### Q62. Which option preserves the ecological boundary of Megadiverse and LMMC distinction?
+---
 
-A. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-B. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-C. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-D. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
+### MCQ 27 — Ex-situ limitation
 
-**Answer: B.**
-**Explanation:** India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which limitation applies most directly to long-term captive or banked conservation?
 
-### Q63. Which statement uses Megadiverse and LMMC distinction without changing its scale, parameter or status?
+- **A.** It always preserves the complete ecosystem and all interspecies interactions.
+- **B.** It eliminates the need to control threats in the original habitat.
+- **C.** It can suffer drift, inbreeding or domestication selection and cannot store an ecosystem.
+- **D.** It is prohibited by the CBD when a species remains in the wild.
 
-A. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-B. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-C. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-D. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** Ex-situ conservation preserves selected organisms or material, not the full ecological
+system.
 
-### Q64. Which option avoids the standard UPSC close-option trap about Megadiverse and LMMC distinction?
+**Option audit**
+- **A — Incorrect:** Ecological interactions are a central missing dimension.
+- **B — Incorrect:** Habitat repair remains necessary for recovery/reintroduction.
+- **C — Correct:** It identifies both genetic-management and ecosystem limits.
+- **D — Incorrect:** CBD Article 9 supports ex-situ measures as complements.
 
-A. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-B. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-C. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-D. India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
+---
 
-**Answer: D.**
-**Explanation:** India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 28 — Integrated recovery
 
-### Q65. Which statement correctly identifies NBA, SBB and BMC levels?
+An endemic amphibian has a tiny wild population, a fungal disease threat and severely degraded
+breeding streams. Which strategy is best?
 
-A. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-B. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-C. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-D. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
+- **A.** captive breeding alone, continued indefinitely without stream restoration or pathogen control
+- **B.** hotspot publicity and stricter branding, because designation itself removes disease,
+  habitat and recruitment risks
+- **C.** stream restoration alone, without disease surveillance, demographic support or genetic management
+- **D.** disease control and stream restoration, backed by genetically managed assurance breeding
+  and monitored reintroduction
 
-**Answer: A.**
-**Explanation:** The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q66. Which option preserves the ecological boundary of NBA, SBB and BMC levels?
+**Why:** The response must address habitat, immediate demographic risk, genetics and the causal
+threat.
 
-A. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-B. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-C. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-D. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
+**Option audit**
+- **A — Incorrect:** A captive population cannot substitute for viable streams.
+- **B — Incorrect:** A label does not remove a pathogen or restore habitat.
+- **C — Incorrect:** An acutely small population may need insurance and active recovery.
+- **D — Correct:** It uses ex-situ support without abandoning in-situ recovery.
 
-**Answer: B.**
-**Explanation:** The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q67. Which statement uses NBA, SBB and BMC levels without changing its scale, parameter or status?
+### MCQ 29 — Institutional levels
 
-A. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-B. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-C. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-D. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
+Which statement correctly classifies the biodiversity-governance hierarchy?
 
-**Answer: C.**
-**Explanation:** The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** NBA-SBB-BMC is a governance hierarchy, not the three ecological biodiversity levels.
+- **B.** BMCs are the genetic level, SBBs the species level and NBA the ecosystem level.
+- **C.** The NBA is an international NGO that designates global hotspots.
+- **D.** State Biodiversity Boards prepare the global IUCN Red List.
 
-### Q68. Which option avoids the standard UPSC close-option trap about NBA, SBB and BMC levels?
+**Answer: A**
 
-A. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-B. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-C. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-D. The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
+**Why:** Institutional hierarchy and ecological hierarchy answer different questions.
 
-**Answer: D.**
-**Explanation:** The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Correct:** It prevents a frequent category error.
+- **B — Incorrect:** It invents a parallel that has no legal or scientific basis.
+- **C — Incorrect:** The NBA is an Indian statutory authority; CI uses the hotspot framework.
+- **D — Incorrect:** IUCN's global assessment is not an SBB function.
 
-### Q69. Which statement correctly identifies Access, benefit sharing and PBRs?
+---
 
-A. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-B. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-C. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-D. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
+### MCQ 30 — PBR and ABS
 
-**Answer: A.**
-**Explanation:** Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which statement most accurately links PBRs and ABS?
 
-### Q70. Which option preserves the ecological boundary of Access, benefit sharing and PBRs?
+- **A.** A PBR legally transfers all recorded community knowledge to any commercial user without
+  separate approval or benefit sharing.
+- **B.** PBRs document local resources/knowledge; ABS addresses benefit sharing, but documentation
+  alone proves neither consent nor benefit flow.
+- **C.** ABS applies only at ecosystem level and excludes genes, biochemical information and
+  associated community knowledge.
+- **D.** BMCs identify and officially designate all global biodiversity hotspots falling within India.
 
-A. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-B. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-C. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-D. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
+**Answer: B**
 
-**Answer: B.**
-**Explanation:** Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** The statement recognises both the function and the implementation boundary.
 
-### Q71. Which statement uses Access, benefit sharing and PBRs without changing its scale, parameter or status?
+**Option audit**
+- **A — Incorrect:** Documentation is not unrestricted authorisation.
+- **B — Correct:** It links local records to benefit-sharing without overclaiming outcomes.
+- **C — Incorrect:** Genetic resources are central to ABS.
+- **D — Incorrect:** Global hotspot designation is unrelated to BMC authority.
 
-A. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-B. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-C. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-D. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
+---
 
-**Answer: C.**
-**Explanation:** Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 31 — KMGBF Target 3
 
-### Q72. Which option avoids the standard UPSC close-option trap about Access, benefit sharing and PBRs?
+Which statement correctly describes KMGBF Target 3?
 
-A. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-B. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-C. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-D. Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
+- **A.** It requires every Party to achieve exactly 30% national tree cover through afforestation by 2030.
+- **B.** It counts only nationally notified parks and excludes inland waters, marine areas and
+  community-conserved landscapes.
+- **C.** It seeks ≥30% effective, representative, connected and equitable conservation via
+  PAs/OECMs by 2030.
+- **D.** It treats every hotspot as an OECM regardless of governance, management or demonstrated
+  conservation outcome.
 
-**Answer: D.**
-**Explanation:** Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q73. Which statement correctly identifies KMGBF, OECMs and status boundary?
+**Why:** The target includes quality and governance conditions, not only an area percentage.
 
-A. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-B. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-C. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-D. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
+**Option audit**
+- **A — Incorrect:** The target is not a uniform national tree-cover rule.
+- **B — Incorrect:** Inland water, coastal/marine areas and OECMs are included.
+- **C — Correct:** It preserves the official scope and qualifiers.
+- **D — Incorrect:** Hotspots and OECMs have different criteria and functions.
 
-**Answer: A.**
-**Explanation:** The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q74. Which option preserves the ecological boundary of KMGBF, OECMs and status boundary?
+### MCQ 32 — Current-status discipline
 
-A. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-B. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-C. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-D. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
+Which wording is safest as of the evidence cut-off?
 
-**Answer: B.**
-**Explanation:** The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** COP16 remained suspended after Cali, leaving finance, monitoring and reporting without
+  any resumed-session agreement.
+- **B.** India's 2024 NBSAP proves that every aligned national target has already produced
+  measured ecological recovery.
+- **C.** The Cali Fund's launch proves that every provider country and Indigenous community has
+  already received equitable DSI payments.
+- **D.** COP16 concluded in February 2025 and India launched its NBSAP in 2024; neither milestone
+  proves ecological outcomes.
 
-### Q75. Which statement uses KMGBF, OECMs and status boundary without changing its scale, parameter or status?
+**Answer: D**
 
-A. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-B. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-C. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
-D. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
+**Why:** It uses verified dates and correct status verbs without converting decisions into
+achievement claims.
 
-**Answer: C.**
-**Explanation:** The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option audit**
+- **A — Incorrect:** The resumed session concluded on 27 February 2025.
+- **B — Incorrect:** A plan or target is not evidence of completed outcomes.
+- **C — Incorrect:** Launch and contribution architecture do not prove universal compensation.
+- **D — Correct:** It separates institutional milestones from measured biodiversity recovery.
 
-### Q76. Which option avoids the standard UPSC close-option trap about KMGBF, OECMs and status boundary?
+---
 
-A. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-B. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-C. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-D. The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
+### MCQ 33 — Direct-driver order
 
-**Answer: D.**
-**Explanation:** The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which ordering follows the IPBES 2019 global ranking of direct drivers of nature decline?
 
-### Q77. Which statement correctly identifies Verified PYQ and current-claim boundary?
+- **A.** land/sea-use change → direct exploitation → climate change → pollution → invasive aliens
+- **B.** invasive aliens → pollution → climate change → exploitation → land/sea-use change globally
+- **C.** population → technology → institutions → trade → inequality → land-use change
+- **D.** climate change → invasive aliens → land use → pollution → direct exploitation
 
-A. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-B. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-C. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-D. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
+**Answer: A**
 
-**Answer: A.**
-**Explanation:** Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Why:** IPBES ranked the five direct drivers in that global order; indirect drivers are analysed
+separately.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q77. Which statement correctly identifies Verified PYQ and current-claim boundary?”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Option audit**
+- **A — Correct:** It reproduces the official assessment order.
+- **B — Incorrect:** It reverses the ranking.
+- **C — Incorrect:** These are mainly underlying socio-economic drivers, not the five direct ones.
+- **D — Incorrect:** It places climate first and otherwise changes the sequence.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q77. Which statement correctly identifies Verified PYQ and current-claim boundary?”.
+### MCQ 34 — Genetic metrics
 
-**Analytical body:**
+Which statement about genetic-diversity measurement is correct?
 
-1. **Claim and named evidence:** Q77. Which statement correctly identifies Verified PYQ and current-claim boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** B. Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+- **A.** Expected heterozygosity is the number of ecosystem types currently occupied by a population.
+- **B.** Allelic richness detects allele loss; heterozygosity reflects frequencies and may decline
+  more slowly after bottlenecks.
+- **C.** Allelic richness is independent of sample size, so populations can be compared without
+  rarefaction or standardisation.
+- **D.** Neutral-marker diversity directly and completely measures every adaptive trait relevant
+  under future change.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Answer: B**
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q77. Which statement correctly identifies Verified PYQ and current-claim boundary?”.
+**Why:** The metrics are complementary and have different sensitivities.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Option audit**
+- **A — Incorrect:** That is an ecosystem-range statement, not a genetic metric.
+- **B — Correct:** It captures the principal contrast and lag caution.
+- **C — Incorrect:** Allelic richness is strongly sampling-sensitive.
+- **D — Incorrect:** Neutral markers may not represent adaptive genes or traits.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+---
 
-**How to improve this answer:** For “Q77. Which statement correctly identifies Verified PYQ and current-claim boundary?”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+### MCQ 35 — Functional and phylogenetic diversity
 
-### Q78. Which option preserves the ecological boundary of Verified PYQ and current-claim boundary?
+Two communities retain the same species richness after disturbance, but one loses all large
+seed-dispersers and several evolutionarily distinct lineages. Which conclusion is strongest?
 
-A. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-B. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-C. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-D. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
+- **A.** Biodiversity is unchanged because equal richness guarantees equal ecological roles and
+  evolutionary history.
+- **B.** Only within-species genetic diversity can decline when the total number of species is stable.
+- **C.** Functional and phylogenetic diversity may have declined despite stable richness.
+- **D.** Regional gamma diversity must have doubled because some functional groups disappeared.
 
-**Answer: B.**
-**Explanation:** Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-**Demand decoding:** Treat “Q78. Which option preserves the ecological boundary of Verified PYQ and current-claim…” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+**Why:** Taxonomic counts can conceal trait and evolutionary-history loss.
 
-**Detailed examiner-grade model answer:**
+**Option audit**
+- **A — Incorrect:** Richness is only one dimension.
+- **B — Incorrect:** The stem directly identifies trait and lineage loss.
+- **C — Correct:** It uses the appropriate complementary dimensions.
+- **D — Incorrect:** No regional species-pool increase is established.
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q78. Which option preserves the ecological boundary of Verified PYQ and current-claim boundary?”.
+---
 
-**Analytical body:**
+### MCQ 36 — Interpreting an index trend
 
-1. **Claim and named evidence:** Q78. Which option preserves the ecological boundary of Verified PYQ and current-claim boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+A wetland's Shannon index falls after an invasive plant becomes dominant, but observed richness
+is unchanged. What is the best interpretation?
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+- **A.** The result is impossible because Shannon responds only to species number, never abundance.
+- **B.** The wetland necessarily lost national-scale ecosystem diversity even if no other habitat
+  was measured.
+- **C.** The invader increased evenness while preserving the same species identities and
+  abundance distribution.
+- **D.** Lower evenness can reduce Shannon; verify composition, method and causation before wider claims.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q78. Which option preserves the ecological boundary of Verified PYQ and current-claim boundary?”.
+**Answer: D**
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+**Why:** Dominance changes an abundance-sensitive index without requiring immediate species loss.
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+**Option audit**
+- **A — Incorrect:** Shannon combines richness and relative abundance.
+- **B — Incorrect:** One wetland cannot establish national ecosystem-diversity loss.
+- **C — Incorrect:** Dominance reduces evenness and the invader changes composition.
+- **D — Correct:** It gives the bounded inference and evidence requirement.
 
-**How to improve this answer:** For “Q78. Which option preserves the ecological boundary of Verified PYQ and current-claim…”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+---
 
-### Q79. Which statement uses Verified PYQ and current-claim boundary without changing its scale, parameter or status?
+### MCQ 37 — Complementarity in reserve design
 
-A. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-B. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-C. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
-D. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
+Three sites have similar richness, but each contains a different set of endemic species. If only
+two can be protected immediately, which principle is most relevant?
 
-**Answer: C.**
-**Explanation:** Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A.** complementarity—choose the pair representing most non-duplicated biodiversity while
+  recording the third site's residual gap
+- **B.** select the two sites whose communities overlap most, because duplication improves
+  regional representation
+- **C.** ignore species identity and choose randomly, because equal richness makes the sites
+  ecologically equivalent
+- **D.** choose solely by hotspot location even if both selected sites contain the same endemic
+  species assemblage
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q79. Which statement uses Verified PYQ and current-claim boundary without changing its scale,…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Answer: A**
 
-**Detailed examiner-grade model answer:**
+**Why:** Complementarity maximises representation across a network.
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q79. Which statement uses Verified PYQ and current-claim boundary without changing its scale, parameter or status?”.
+**Option audit**
+- **A — Correct:** It uses species identity and acknowledges the unprotected gap.
+- **B — Incorrect:** Similar sites duplicate rather than expand representation.
+- **C — Incorrect:** Equal richness can conceal complete compositional turnover.
+- **D — Incorrect:** Hotspot status cannot replace site-level representation and feasibility.
 
-**Analytical body:**
+---
 
-1. **Claim and named evidence:** Q79. Which statement uses Verified PYQ and current-claim boundary without changing its scale, parameter or status? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### MCQ 38 — Scale paradox
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Several alien garden plants establish in each city, increasing local species totals, while the
+same plants replace different native floras across the region. The combined result is:
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q79. Which statement uses Verified PYQ and current-claim boundary without changing its scale, parameter or status?”.
+- **A.** lower alpha richness but greater compositional distinctiveness among cities at regional scale
+- **B.** possible higher alpha richness but lower beta distinctiveness through homogenisation
+- **C.** automatic creation of new endemics in each city as alien plants establish
+- **D.** evidence that invasions cannot reduce biodiversity when local species counts rise
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Answer: B**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Why:** Diversity trends can move in opposite directions at local and regional scales.
 
-**How to improve this answer:** For “Q79. Which statement uses Verified PYQ and current-claim boundary without changing its scale,…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Option audit**
+- **A — Incorrect:** The stem says local totals increase and uniqueness declines.
+- **B — Correct:** It states the alpha-beta scale paradox.
+- **C — Incorrect:** Widespread aliens reduce, not create, restricted-range uniqueness.
+- **D — Incorrect:** Stable/rising local counts can conceal compositional loss.
 
-### Q80. Which option avoids the standard UPSC close-option trap about Verified PYQ and current-claim boundary?
+---
 
-A. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-B. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-C. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-D. Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
+### MCQ 39 — Label matrix
 
-**Answer: D.**
-**Explanation:** Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which classification is correct?
+
+- **A.** Hotspot—legal category; National Park—political coalition; LMMC—species-diversity index
+- **B.** Hotspot—crop-origin centre; National Park—global NGO label; LMMC—ecosystem type
+- **C.** Hotspot—scientific priority; National Park—domestic legal category; LMMC—negotiating coalition
+- **D.** Hotspot—national species total; National Park—genetic metric; LMMC—protected-area class
+
+**Answer: C**
+
+**Why:** The three labels arise from different institutional and conceptual systems.
+
+**Option audit**
+- **A — Incorrect:** Every classification is misplaced.
+- **B — Incorrect:** A hotspot is neither a crop-origin concept nor a legal park.
+- **C — Correct:** It fixes scientific, legal and political categories.
+- **D — Incorrect:** None of the three descriptions is valid.
+
+---
+
+### MCQ 40 — Integrated conservation judgement
+
+Which strategy most completely addresses biodiversity at all three levels?
+
+- **A.** breed one flagship species in captivity and treat its survival as ecosystem recovery
+- **B.** maximise green cover with one fast-growing clone and use canopy area as the biodiversity outcome
+- **C.** protect only hotspot fragments and withdraw resources from representative non-hotspot
+  ecosystems and connectivity
+- **D.** protect connected habitats, genetic variation and landraces, with ex-situ insurance
+  linked to monitored recovery
+
+**Answer: D**
+
+**Why:** It integrates ecosystem, species and genetic diversity while preserving the
+in-situ/ex-situ hierarchy.
+
+**Option audit**
+- **A — Incorrect:** Species persistence outside habitat does not restore interactions.
+- **B — Incorrect:** A clonal plantation can reduce genetic and ecosystem diversity.
+- **C — Incorrect:** Hotspot triage cannot substitute for national representation.
+- **D — Correct:** It combines levels, connectivity, agrobiodiversity, insurance and monitoring.
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q80. Which option avoids the standard UPSC close-option trap about Verified PYQ and current-…” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+### PYQ routing, ownership and status ledger
+
+| Year/paper | Q | Route in this workbook | Primary canonical owner | Answer status |
+|---|---:|---|---|---|
+| 2018 Prelims GS-I | 60 | **Direct** — mass-extinction drivers | Topic 04 | **INFERRED; official key unavailable locally** |
+| 2018 Prelims GS-I | 86 | **Application** — invasive species impact | Topic 28 | **INFERRED; official key unavailable locally** |
+| 2019 Prelims GS-I | 22 | **Application** — natural-range/endemicity logic | Topic 05 | **INFERRED; official key unavailable locally** |
+| 2023 Prelims GS-I | 13 | **Direct** — ISSG parent body | Topic 04 | **INFERRED; official key unavailable locally** |
+| 2023 Prelims GS-I | 79 | **Shared** — BMC/Nagoya/ABS | Topic 22 | **INFERRED; official key unavailable locally** |
+| 2024 Prelims GS-I | 23 | **Application** — natural distribution | Topic 05 | **OFFICIAL LOCAL KEY** |
+| 2025 Prelims GS-I | 37 | **Application** — restricted habitat/arboreal species | Topic 28 | **OFFICIAL LOCAL KEY** |
+| 2025 Prelims GS-I | 90 | **Direct** — Nature Restoration Law | Topic 04 | **OFFICIAL LOCAL KEY** |
+| 2026 Prelims GS-I | 48 | **Application** — human genetic diversity | Science Topic 13 | **PROVISIONAL LOCAL KEY** |
+| 2018 GS-III | 17 | **Shared** — biodiversity variation + Act | Topic 22; Topic 04 owns variation | official question; repository model answer |
+| 2026 GS-III | 8 | **Shared** — KMGBF + India | Topic 22; Topic 04 owns levels/current bridge | official question; repository model answer |
+
+#### DROPPED routes after ownership review
+
+| Year/paper | Q | Primary owner | Why dropped from the solved Topic 04 set |
+|---|---:|---|---|
+| 2019 Prelims | 29 | Topic 05 — IUCN/endemism | species-habitat matching; Topic 04 concepts are not necessary |
+| 2022 Prelims | 47 | Topic 05 — IUCN/endemism | species identification rather than biodiversity levels |
+| 2023 Prelims | 12 | Topic 05 — IUCN/endemism | marsupial distribution/zoogeography route |
+| 2026 Prelims | 22 | Topic 05 — IUCN/endemism | hoolock status, habitat and locomotion route |
+| 2026 Prelims | 27 | Topic 10 — CMS/migratory species | migration and community-conservation route |
 
-**Detailed examiner-grade model answer:**
+No direct Topic 04 Mains question appears in the 2024-2025 GS-III routing ledger.
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q80. Which option avoids the standard UPSC close-option trap about Verified PYQ and current-claim boundary?”.
+**OCR disclosure:** the local 2025 question-paper filename says “Set A”, while its booklet-series
+marker is OCR-corrupted. Q37 and Q90 are matched to the held official series key by question
+wording and answer concordance. The reconstructed spacing/Roman numerals are disclosed; no stem
+or option substance is altered.
 
-**Analytical body:**
+---
 
-1. **Claim and named evidence:** Q80. Which option avoids the standard UPSC close-option trap about Verified PYQ and current-claim boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### PYQ 1 — 2018 Prelims GS-I Q60 — DIRECT
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Provenance:** local official-paper OCR
+`Prelims PYQ\QP-CSP-18-GS-I-C.pdf.md`, Q60.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q80. Which option avoids the standard UPSC close-option trap about Verified PYQ and current-claim boundary?”.
+The term “sixth mass extinction/sixth extinction” is often mentioned in the news in the context
+of the discussion of:
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+- **A.** widespread monoculture practices in agriculture and large-scale commercial farming with
+  indiscriminate use of chemicals in many parts of the world that may result in the loss of good
+  native ecosystems
+- **B.** fears of a possible collision of a meteorite with the Earth in the near future in the
+  manner it happened 65 million years ago that caused the mass extinction of many species
+  including those of dinosaurs
+- **C.** large-scale cultivation of genetically modified crops in many parts of the world and
+  promoting their cultivation in other parts which may cause the disappearance of good native
+  crop plants and the loss of food biodiversity
+- **D.** mankind's over-exploitation/misuse of natural resources, fragmentation/loss of natural
+  habitats, destruction of ecosystems, pollution and global climate change
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+**INFERRED ANSWER — NOT OFFICIALLY VERIFIED: D (high confidence).**
 
-**How to improve this answer:** For “Q80. Which option avoids the standard UPSC close-option trap about Verified PYQ and current-…”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+**Option audit**
+- **A — Incorrect:** It describes a serious subset of pressures, not the broad contemporary
+  extinction episode meant by the term.
+- **B — Incorrect:** The sixth extinction refers to ongoing human-driven losses, not a predicted
+  meteor impact.
+- **C — Incorrect:** Genetic erosion is relevant but too narrow to define the global episode.
+- **D — Correct:** It captures the interacting anthropogenic drivers.
 
-### VERIFIED OBJECTIVE-ONLY PYQ OWNERSHIP AUDIT
+---
 
-The audited ledgers route 2018 human drivers of the sixth mass extinction, 2023 identification of the IUCN Invasive Species Specialist Group and 2025 the EU Nature Restoration Law. These concepts are carried into Basic sessions and practice as answer-free objective routes. They are not converted into Indian legal designations or official answer keys.
+### PYQ 2 — 2018 Prelims GS-I Q86 — APPLICATION
 
-### OWNER PYQ LEDGER EXTRACTS
+**Ownership:** primary Topic 28; retained here for the invasive-threat mechanism.
+**Provenance:** local official-paper OCR
+`Prelims PYQ\QP-CSP-18-GS-I-C.pdf.md`, Q86.
 
-#### 9. PYQ application
+Why is a plant called *Prosopis juliflora* often mentioned in the news?
 
-- ⚠️ Recurring Prelims pattern: identify the correct hotspot criteria and correctly match
-  Indian hotspots to their geographic extent.
-- ⚠️ Mains linkage: the three-level biodiversity framework is used to argue for genetic-
-  resource conservation (e.g., seed banks, landrace protection) alongside species/habitat
-  protection.
+- **A.** Its extract is widely used in cosmetics.
+- **B.** It tends to reduce the biodiversity in the area in which it grows.
+- **C.** Its extract is used in the synthesis of pesticides.
+- **D.** None of the above.
 
-#### Recent PYQ Integration (2024-2025)
+**INFERRED ANSWER — NOT OFFICIALLY VERIFIED: B (high confidence).**
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+**Option audit**
+- **A — Incorrect:** This is not the biodiversity reason tested by the question.
+- **B — Correct:** The invasive plant can form dense stands and displace native communities.
+- **C — Incorrect:** The routed environmental concern is invasion, not pesticide synthesis.
+- **D — Incorrect:** Option B supplies the valid reason.
 
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+---
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 90 | EU Nature Restoration Law (NRL) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+### PYQ 3 — 2019 Prelims GS-I Q22 — APPLICATION
 
-##### What this owner must now support
+**Ownership:** primary Topic 05; retained for endemicity/natural-range logic.
+**Provenance:** local official paper
+`Prelims PYQ\csp-p1.pdf.md`, Q22; direct searchable-PDF extraction.
 
-- EU Nature Restoration Law (NRL)
+Consider the following statements:
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+1. Asiatic lion is naturally found in India only.
+2. Double-humped camel is naturally found in India only.
+3. One-horned rhinoceros is naturally found in India only.
 
-#### Historical PYQ Integration (2018-2023)
+Which of the statements given above is/are correct?
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+- **A.** 1 only
+- **B.** 2 only
+- **C.** 1 and 3 only
+- **D.** 1, 2 and 3
 
-- **Years represented:** 2018, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+**INFERRED ANSWER — NOT OFFICIALLY VERIFIED: A (high confidence).**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 60 | Sixth mass extinction causes and human activities impact | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 13 | Invasive Species Specialist Group and parent organization | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+**Option audit**
+- **A — Correct:** The surviving wild Asiatic-lion range is restricted to India.
+- **B — Incorrect:** Wild double-humped camels occur beyond India in Central/East Asia.
+- **C — Incorrect:** Greater one-horned rhinoceroses also occur naturally in Nepal.
+- **D — Incorrect:** Statements 2 and 3 are not India-only.
 
-##### What this owner must now support
+---
 
-- Sixth mass extinction causes and human activities impact
-- Invasive Species Specialist Group and parent organization
+### PYQ 4 — 2023 Prelims GS-I Q13 — DIRECT
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Provenance:** local official-paper OCR
+`Prelims PYQ\QP_CS_Pre_Exam_2023_280523.pdf.md`, Q13.
 
-#### 11. PYQ-based analytical application
+“Invasive Species Specialist Group” (that develops Global Invasive Species Database) belongs to
+which one of the following organisations?
 
-- ⚠️ Prelims statement-based questions on the Biological Diversity Act typically test the
-  NBA/SBB/BMC division of function — apply the national/state/local access-regulation
-  distinction to eliminate incorrect options.
-- ⚠️ Mains answers on "India's biodiversity governance" should integrate the hotspot
-  framework, the ABS legal architecture and the 30x30 global commitment as three linked
-  layers, not separate topics.
+- **A.** The International Union for Conservation of Nature
+- **B.** The United Nations Environment Programme
+- **C.** The United Nations World Commission for Environment and Development
+- **D.** The World Wide Fund for Nature
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**INFERRED ANSWER — NOT OFFICIALLY VERIFIED: A (high confidence).**
 
-**Question:** Distinguish genetic, species and ecosystem diversity with bounded examples. Answer in about 150 words.
+**Option audit**
+- **A — Correct:** ISSG is a specialist group of the IUCN Species Survival Commission.
+- **B — Incorrect:** UNEP is not its parent organisation.
+- **C — Incorrect:** The Brundtland Commission was not the institutional home of ISSG.
+- **D — Incorrect:** WWF is separate from IUCN's specialist-group structure.
 
-**Model thesis:** **Claim:** Genetic diversity. **Named evidence/example:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species diversity. **Named evidence/example:** Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem diversity. **Named evidence/example:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+---
 
-**Claim → named evidence → analysis → qualification:**
+### PYQ 5 — 2023 Prelims GS-I Q79 — SHARED
 
-- Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-- Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale.
-- Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
+**Ownership:** primary Topic 22; retained for BMC/ABS linkage.
+**Provenance:** local official-paper OCR
+`Prelims PYQ\QP_CS_Pre_Exam_2023_280523.pdf.md`, Q79.
 
-**Qualified conclusion:** **Claim:** Genetic diversity. **Named evidence/example:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species diversity. **Named evidence/example:** Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem diversity. **Named evidence/example:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Consider the following statements:
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish genetic, species and ecosystem diversity with bounded examples. Answer in about…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+1. In India, the Biodiversity Management Committees are key to the realisation of the objectives
+   of the Nagoya Protocol.
+2. The Biodiversity Management Committees have important functions in determining access and
+   benefit sharing, including the power to levy collection fees on the access of biological
+   resources within their jurisdiction.
 
-**Detailed examiner-grade model answer:**
+Which of the statements given above is/are correct?
 
-**Introduction and thesis:** **Claim:** Genetic diversity. **Named evidence/example:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species diversity. **Named evidence/example:** Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem diversity. **Named evidence/example:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+- **A.** 1 only
+- **B.** 2 only
+- **C.** Both 1 and 2
+- **D.** Neither 1 nor 2
 
-**Analytical body:**
+**INFERRED ANSWER — NOT OFFICIALLY VERIFIED: C (high confidence).**
 
-1. **Claim and named evidence:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Option audit**
+- **A — Incorrect:** It omits the collection-fee/local-jurisdiction function recognised in the
+  biodiversity rules.
+- **B — Incorrect:** BMCs also form part of local implementation relevant to Nagoya objectives.
+- **C — Correct:** Both statements reflect the decentralised ABS architecture.
+- **D — Incorrect:** Neither statement is wholly false.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+---
 
-**Qualified conclusion:** **Claim:** Genetic diversity. **Named evidence/example:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species diversity. **Named evidence/example:** Species diversity concerns the variety and relative abundance of species in a community or region; it combines more than a bare species list and must be measured at a stated spatial scale. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem diversity. **Named evidence/example:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+### PYQ 6 — 2024 Prelims GS-I Q23 — APPLICATION
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Ownership:** primary Topic 05; retained to test natural-distribution evidence before claiming
+endemism.
+**Provenance:** local official paper `Prelims PYQ\2024-GS1-Set A.md`, Q23; held final official
+Set-A key `Ans-2024-GS1.md`.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+Consider the following pairs:
 
-**How to improve this answer:** For “Distinguish genetic, species and ecosystem diversity with bounded examples. Answer in about…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+| Country | Animal found in its natural habitat |
+|---|---|
+| Brazil | Indri |
+| Indonesia | Elk |
+| Madagascar | Bonobo |
 
-### ORIGINAL MAINS 2 — 10 MARKS
+How many of the pairs given above are correctly matched?
 
-**Question:** Explain alpha, beta and gamma diversity without confusing scale and richness. Answer in about 150 words.
+- **A.** Only one
+- **B.** Only two
+- **C.** All three
+- **D.** None
 
-**Model thesis:** **Claim:** Richness and evenness. **Named evidence/example:** Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Alpha diversity. **Named evidence/example:** Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Beta diversity. **Named evidence/example:** Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Gamma diversity. **Named evidence/example:** Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**OFFICIAL LOCAL KEY: D.**
 
-**Claim → named evidence → analysis → qualification:**
+**Option audit**
+- **A — Incorrect:** Indri is endemic to Madagascar, not Brazil.
+- **B — Incorrect:** Elk is not naturally an Indonesian animal.
+- **C — Incorrect:** Bonobo is native to the Democratic Republic of the Congo, not Madagascar.
+- **D — Correct:** All three pairs are wrong.
 
-- Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity.
-- Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness.
-- Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich.
-- Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region.
+---
 
-**Qualified conclusion:** **Claim:** Richness and evenness. **Named evidence/example:** Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Alpha diversity. **Named evidence/example:** Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Beta diversity. **Named evidence/example:** Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Gamma diversity. **Named evidence/example:** Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+### PYQ 7 — 2025 Prelims GS-I Q37 — APPLICATION
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain alpha, beta and gamma diversity without confusing scale and richness. Answer in about…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Ownership:** primary Topic 28; retained for restricted-range and habitat reasoning.
+**Provenance:** local official-paper OCR `Prelims PYQ\2025-GS1-Set A.md`, Q37; Roman numerals and
+option spacing normalised against the held final official series key `Ans-2025-GS1.md`.
 
-**Detailed examiner-grade model answer:**
+Regarding Peacock tarantula (Gooty tarantula), consider the following statements:
 
-**Introduction and thesis:** **Claim:** Richness and evenness. **Named evidence/example:** Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Alpha diversity. **Named evidence/example:** Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Beta diversity. **Named evidence/example:** Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Gamma diversity. **Named evidence/example:** Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+1. It is an omnivorous crustacean.
+2. Its natural habitat in India is only limited to some forest areas.
+3. In its natural habitat, it is an arboreal species.
 
-**Analytical body:**
+Which of the statements given above is/are correct?
 
-1. **Claim and named evidence:** Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+- **A.** I only
+- **B.** I and III
+- **C.** II only
+- **D.** II and III
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**OFFICIAL LOCAL KEY: D.**
 
-**Qualified conclusion:** **Claim:** Richness and evenness. **Named evidence/example:** Species richness is the number of species and evenness describes how abundance is distributed among them; equal richness does not guarantee equal species diversity. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Alpha diversity. **Named evidence/example:** Alpha diversity describes diversity within one local community or habitat at a stated sampling scale; it must not be silently equated with regional richness. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Beta diversity. **Named evidence/example:** Beta diversity describes turnover in species composition between communities or along a gradient; high turnover does not by itself mean that either individual community is species-rich. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Gamma diversity. **Named evidence/example:** Gamma diversity describes diversity across a larger landscape or region and reflects the combined local diversity and compositional turnover within that stated region. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Option audit**
+- **A — Incorrect:** A tarantula is an arachnid, not a crustacean.
+- **B — Incorrect:** It includes false statement I.
+- **C — Incorrect:** Statement III is also correct.
+- **D — Correct:** Its Indian natural range is restricted and it is arboreal.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+---
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+### PYQ 8 — 2025 Prelims GS-I Q90 — DIRECT
 
-**How to improve this answer:** For “Explain alpha, beta and gamma diversity without confusing scale and richness. Answer in about…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Provenance:** local official-paper OCR `Prelims PYQ\2025-GS1-Set A.md`, Q90; held final official
+series key `Ans-2025-GS1.md`.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+Which organisation has enacted the Nature Restoration Law (NRL) to tackle climate change and
+biodiversity loss?
 
-**Question:** Distinguish native, endemic, rare and threatened species terminology. Answer in about 250 words.
+- **A.** The European Union
+- **B.** The World Bank
+- **C.** The Organisation for Economic Co-operation and Development
+- **D.** The Food and Agriculture Organization
 
-**Model thesis:** **Claim:** Ecological and taxonomic levels. **Named evidence/example:** Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic versus native. **Named evidence/example:** A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic versus rare or threatened. **Named evidence/example:** Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**OFFICIAL LOCAL KEY: A.**
 
-**Claim → named evidence → analysis → qualification:**
+**Option audit**
+- **A — Correct:** The NRL is legislation of the European Union.
+- **B — Incorrect:** The World Bank finances development; it does not enact EU legislation.
+- **C — Incorrect:** OECD issues analysis and standards but did not enact this law.
+- **D — Incorrect:** FAO is a UN specialised agency, not the law-making body here.
 
-- Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy.
-- A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic.
-- Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms.
+---
 
-**Qualified conclusion:** **Claim:** Ecological and taxonomic levels. **Named evidence/example:** Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic versus native. **Named evidence/example:** A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic versus rare or threatened. **Named evidence/example:** Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+### PYQ 9 — 2026 Prelims GS-I Q48 — APPLICATION
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish native, endemic, rare and threatened species terminology. Answer in about 250…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Ownership:** primary Science and Technology Topic 13; retained as a direct application of
+within-species genetic diversity.
+**Provenance:** local official-paper OCR `Prelims PYQ\2026-GS1-Set A.md`, Q48; local provisional
+key `Ans-2026-GS1-Provisional.md`.
 
-**Detailed examiner-grade model answer:**
+Which of the following statements with regard to GenomeIndia Project is/are correct?
 
-**Introduction and thesis:** **Claim:** Ecological and taxonomic levels. **Named evidence/example:** Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic versus native. **Named evidence/example:** A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic versus rare or threatened. **Named evidence/example:** Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+1. It is a part of the Human Genome Project.
+2. The project is funded by the Department of Biotechnology (DBT), Government of India.
+3. Its primary aim is to build a catalogue of genetic diversity of the Indian population.
 
-**Analytical body:**
+Select the answer using the code given below:
 
-1. **Claim and named evidence:** Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+- **A.** 1 only
+- **B.** 2 and 3 only
+- **C.** 1 and 2 only
+- **D.** 1, 2 and 3
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**PROVISIONAL LOCAL KEY: B.**
 
-**Qualified conclusion:** **Claim:** Ecological and taxonomic levels. **Named evidence/example:** Genetic, species and ecosystem diversity are ecological assessment levels, whereas genus, family or order are taxonomic ranks; a question about biodiversity level cannot be answered with a taxonomic hierarchy. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic versus native. **Named evidence/example:** A native species occurs naturally in a region, while an endemic species has a naturally restricted distribution to a defined region; native does not automatically mean endemic. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic versus rare or threatened. **Named evidence/example:** Endemism describes geographic restriction, rarity describes abundance or occurrence, and threatened status belongs to an assessment framework; these properties can overlap but are not synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Option audit**
+- **A — Incorrect:** Statement 1 is false and omits two valid statements.
+- **B — Correct:** The provisional key treats DBT funding and the catalogue aim as correct;
+  the project records Indian-population
+  genetic diversity.
+- **C — Incorrect:** It includes false statement 1 and omits statement 3.
+- **D — Incorrect:** The project is not a component of the earlier international Human Genome
+  Project.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+---
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+### PYQ 10 — 2018 GS-III Q17 — SHARED
 
-**How to improve this answer:** For “Distinguish native, endemic, rare and threatened species terminology. Answer in about 250…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Ownership:** Topic 04 owns biodiversity variation; Topic 22 owns the Act in detail.
+**Provenance:** local official paper `Mains PYQ\GENERAL-STUDIES-PAPER-III.pdf.md`, Q17.
 
-### ORIGINAL MAINS 4 — 15 MARKS
+**Question:** How does biodiversity vary in India? How is the Biological Diversity Act, 2002
+helpful in conservation of flora and fauna? **(250 words, 15 marks)**
 
-**Question:** Explain the dual biodiversity-hotspot criteria and why richness alone is insufficient. Answer in about 250 words.
+**Demand decoding:** Explain spatial and level-wise variation, then evaluate the Act's
+conservation contribution. Both halves need evidence and a limitation.
 
-**Model thesis:** **Claim:** Hotspot dual criteria. **Named evidence/example:** The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Norman Myers and operational status. **Named evidence/example:** The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Hotspot versus general richness. **Named evidence/example:** A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Repository model answer — not an official UPSC answer (limit 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+India's biodiversity varies because latitude, altitude, monsoon gradients, geology and island
+isolation create sharply different habitats. At the **genetic level**, farmer-selected
+landraces and crop wild relatives retain adaptive variation. At the **species level**, restricted
+ranges produce high endemism, especially in mountain and island systems. At the **ecosystem
+level**, forests, grasslands, deserts, wetlands, rivers, coasts and marine systems form a wide
+portfolio. India intersects four global hotspots: Himalaya, Indo-Burma, Western Ghats-Sri Lanka
+and Sundaland through the Nicobar Islands.
 
-- The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required.
-- The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation.
-- A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient.
+The Biological Diversity Act, 2002 converts the CBD's three objectives into domestic
+institutions. The **National Biodiversity Authority, State Biodiversity Boards and local
+Biodiversity Management Committees** create national-state-local responsibility. BMC-linked
+People's Biodiversity Registers can document local resources and associated knowledge.
+Access-and-benefit-sharing provisions regulate utilisation of biological resources and seek to
+return benefits to knowledge/resource holders. The Act also supports conservation, sustainable
+use and identification of locally significant biodiversity.
 
-**Qualified conclusion:** **Claim:** Hotspot dual criteria. **Named evidence/example:** The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Norman Myers and operational status. **Named evidence/example:** The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Hotspot versus general richness. **Named evidence/example:** A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+However, institutional creation is not the same as ecological recovery. PBR quality, local
+capacity, informed participation, benefit delivery, habitat connectivity and coordination with
+wildlife/forest law determine outcomes. Thus, the Act is most effective when legal ABS and local
+documentation are joined to adequately funded in-situ conservation and transparent monitoring.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the dual biodiversity-hotspot criteria and why richness alone is insufficient. Answer…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Why this earns marks:** It answers both clauses, moves across all three biodiversity levels,
+uses the four hotspot portions and links each institution to a function before qualifying
+implementation.
 
-**Detailed examiner-grade model answer:**
+**How to improve:** Add a small India map and one locally verified BMC/ABS case if the question
+is asked with a current-year evidence requirement.
 
-**Introduction and thesis:** **Claim:** Hotspot dual criteria. **Named evidence/example:** The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Norman Myers and operational status. **Named evidence/example:** The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Hotspot versus general richness. **Named evidence/example:** A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+---
 
-**Analytical body:**
+### PYQ 11 — 2026 GS-III Q8 — SHARED
 
-1. **Claim and named evidence:** The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Ownership:** Topic 22 owns the full convention; Topic 04 owns levels, area-quality cautions and
+the genetic/DSI bridge.
+**Provenance:** local official paper
+`Mains PYQ\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf.md`, Q8.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Question:** Discuss the aim and goals of Kunming-Montreal global biodiversity framework.
+Mention India's commitments and initiatives to achieve the goals and targets of this framework
+giving suitable examples. **(150 words, 10 marks)**
 
-**Qualified conclusion:** **Claim:** Hotspot dual criteria. **Named evidence/example:** The owner records the Conservation International hotspot test as at least 1,500 endemic vascular plant species and 30 per cent or less of original natural vegetation remaining; both criteria are required. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Norman Myers and operational status. **Named evidence/example:** The hotspot idea is credited in the owner to Norman Myers in 1988 and was later operationalised through the dual criteria; it is a scientific prioritisation framework, not an Indian statutory designation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Hotspot versus general richness. **Named evidence/example:** A species-rich area is not automatically a hotspot because hotspot status requires both vascular-plant endemism and severe historical habitat loss; richness alone is insufficient. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Demand decoding:** State the 2030/2050 architecture, then map verified Indian commitments and
+initiatives; do not convert targets into achievements.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Repository model answer — not an official UPSC answer (limit 150 words):**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+Adopted under the CBD in 2022, the KMGBF seeks to halt and reverse biodiversity loss by 2030 and
+achieve harmony with nature by 2050. Its **four goals and 23 targets** cover ecosystem integrity,
+species/genetic diversity, sustainable use, benefit-sharing and implementation. Targets 2 and 3
+address restoration and at least 30% effective, representative, connected and equitable area
+conservation through protected areas and OECMs.
 
-**How to improve this answer:** For “Explain the dual biodiversity-hotspot criteria and why richness alone is insufficient. Answer…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+India launched its updated **NBSAP 2024-2030** at COP16 with 23 aligned national targets.
+Implementation routes include protected and community-conserved landscapes, wetland/mangrove and
+degraded-ecosystem restoration, species-recovery programmes, on-farm/gene-bank agrobiodiversity
+conservation, and the NBA-SBB-BMC/PBR/ABS architecture. The current DSI benefit-sharing debate
+also links genetic information to equity.
 
-### ORIGINAL MAINS 5 — 20 MARKS
+Success requires finance, credible indicators, ecological representation, connectivity and
+community rights; notified area or target adoption alone cannot prove biodiversity recovery.
 
-**Question:** Hotspot-based conservation is necessary but not sufficient for India. Critically examine. Answer in about 300 words.
+**Why this earns marks:** It names the framework's architecture, gives Indian mechanisms and
+adds the decisive target-versus-outcome qualification.
 
-**Model thesis:** **Claim:** India-linked hotspots. **Named evidence/example:** The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Hotspot triage and non-hotspot value. **Named evidence/example:** Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Megadiverse and LMMC distinction. **Named evidence/example:** India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** KMGBF, OECMs and status boundary. **Named evidence/example:** The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**How to improve:** In the exam, add one dated Indian restoration or OECM example only if its
+status is officially verified.
 
-**Claim → named evidence → analysis → qualification:**
+## ORIGINAL MAINS PRACTICE
 
-- The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary.
-- Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important.
-- India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions.
-- The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions.
+### ORIGINAL MAINS 1 — 10 MARKS — LIMIT 150 WORDS
 
-**Qualified conclusion:** **Claim:** India-linked hotspots. **Named evidence/example:** The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Hotspot triage and non-hotspot value. **Named evidence/example:** Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Megadiverse and LMMC distinction. **Named evidence/example:** India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** KMGBF, OECMs and status boundary. **Named evidence/example:** The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Question:** Distinguish genetic, species and ecosystem diversity. Why can a single-species
+conservation programme not by itself conserve biodiversity?
 
-**Demand decoding:** The directive **critically examine** requires a direct position on “Hotspot-based conservation is necessary but not sufficient for India. Critically examine.…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Demand decoding:** Define all three levels, give linked Indian evidence and explain the
+insufficiency of a one-level response.
 
-**Detailed examiner-grade model answer:**
+**Model answer (limit 150 words):**
 
-**Introduction and thesis:** **Claim:** India-linked hotspots. **Named evidence/example:** The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Hotspot triage and non-hotspot value. **Named evidence/example:** Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Megadiverse and LMMC distinction. **Named evidence/example:** India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** KMGBF, OECMs and status boundary. **Named evidence/example:** The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Biodiversity comprises variability **within species, between species and of ecosystems**.
+Genetic diversity includes alleles and population structure; India's farmer-maintained rice
+landraces illustrate adaptive variation within one crop. Species diversity combines richness,
+evenness and composition; Western Ghats endemic communities illustrate geographically
+irreplaceable species assemblages. Ecosystem diversity is the variety of habitats and ecological
+processes, such as a landscape containing forest, grassland, wetland and river systems.
 
-**Analytical body:**
+A single-species programme can prevent immediate disappearance, but it may conserve neither the
+species' genetic breadth nor the ecosystem interactions that sustain it. Captive breeding can
+retain individuals while losing natural selection, prey, pollinators, disease exposure and
+migration. Likewise, habitat protection without viable, connected populations can leave
+genetic erosion unresolved.
 
-1. **Claim and named evidence:** The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Therefore, recovery should maintain genetically representative populations, control
+species-specific threats and restore connected habitat/processes, using ex-situ measures only as
+insurance for in-situ conservation.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Why this earns marks:** It defines each level, uses three Indian/ecological examples and
+demonstrates causal interdependence.
 
-**Qualified conclusion:** **Claim:** India-linked hotspots. **Named evidence/example:** The owners identify Himalaya, Indo-Burma, Western Ghats-Sri Lanka and Sundaland represented in India by the Nicobar Islands; each name denotes a wider biogeographic unit, not necessarily India's political boundary. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Hotspot triage and non-hotspot value. **Named evidence/example:** Hotspots prioritise scarce conservation resources where endemism and habitat loss coincide, but non-hotspot grasslands, wetlands, cold deserts or other ecosystems can remain nationally important. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Megadiverse and LMMC distinction. **Named evidence/example:** India is carried by the owner as a megadiverse country and participates in the Like-Minded Megadiverse Countries grouping; that political label and a hotspot designation answer different questions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** KMGBF, OECMs and status boundary. **Named evidence/example:** The owner carries the Kunming-Montreal Global Biodiversity Framework Target 3 area-based conservation commitment and OECMs; the live CBD Secretariat guidance says its guidance does not replace COP decisions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**How to improve:** Add a compact nested-level diagram before the body.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+---
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+### ORIGINAL MAINS 2 — 10 MARKS — LIMIT 150 WORDS
 
-**How to improve this answer:** For “Hotspot-based conservation is necessary but not sufficient for India. Critically examine.…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Question:** Explain richness, evenness and alpha-beta-gamma diversity. State two precautions
+needed when comparing biodiversity indices across sites.
 
-### ORIGINAL MAINS 6 — 20 MARKS
+**Demand decoding:** Define components and scales, then supply methodological cautions.
 
-**Question:** Assess how biodiversity levels connect with India's NBA-SBB-BMC, ABS and PBR architecture. Answer in about 300 words.
+**Model answer (limit 150 words):**
 
-**Model thesis:** **Claim:** Genetic diversity. **Named evidence/example:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem diversity. **Named evidence/example:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NBA, SBB and BMC levels. **Named evidence/example:** The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Access, benefit sharing and PBRs. **Named evidence/example:** Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Verified PYQ and current-claim boundary. **Named evidence/example:** Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Richness** is the number of species recorded; **evenness** is the equality of their relative
+abundances. Thus, two four-species sites can have equal richness but different diversity if one
+is dominated by a single species.
 
-**Claim → named evidence → analysis → qualification:**
+**Alpha diversity** describes diversity within a local sampling unit. **Beta diversity**
+describes turnover or differentiation among units. **Gamma diversity** is the total regional
+diversity. High beta diversity can occur even where each site has modest alpha diversity, as
+along an altitudinal gradient with different species bands.
 
-- Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used.
-- Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank.
-- The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level.
-- Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation.
-- Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys.
+Comparisons require, first, standardised area, season, effort and detectability; otherwise the
+better-sampled site appears richer. Second, the index convention must be named: larger Simpson
+`D` means greater dominance, whereas larger `1-D` means greater diversity. Rarefaction or
+coverage-based comparison can reduce effort bias, but taxonomic error and scale dependence
+remain. Therefore, report composition and uncertainty alongside one composite index.
 
-**Qualified conclusion:** **Claim:** Genetic diversity. **Named evidence/example:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem diversity. **Named evidence/example:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NBA, SBB and BMC levels. **Named evidence/example:** The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Access, benefit sharing and PBRs. **Named evidence/example:** Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Verified PYQ and current-claim boundary. **Named evidence/example:** Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Why this earns marks:** It integrates component and scale vocabulary with two precise
+measurement controls.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess how biodiversity levels connect with India's NBA-SBB-BMC, ABS and PBR architecture.…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**How to improve:** Write `β=γ/mean α` only after stating that this is the multiplicative form.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** **Claim:** Genetic diversity. **Named evidence/example:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem diversity. **Named evidence/example:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NBA, SBB and BMC levels. **Named evidence/example:** The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Access, benefit sharing and PBRs. **Named evidence/example:** Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Verified PYQ and current-claim boundary. **Named evidence/example:** Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+### ORIGINAL MAINS 3 — 15 MARKS — LIMIT 250 WORDS
 
-**Analytical body:**
+**Question:** “HIPPCO is a useful memory aid but an incomplete causal model of biodiversity
+loss.” Analyse, with reference to extinction debt and biotic homogenisation.
 
-1. **Claim and named evidence:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Demand decoding:** Critique the mnemonic, replace it with a causal hierarchy and explain two
+advanced outcomes.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Model answer (limit 250 words):**
 
-**Qualified conclusion:** **Claim:** Genetic diversity. **Named evidence/example:** Genetic diversity is variation within a species or population and supports adaptive capacity; crop landraces are the owner's Indian example, but no unsupported count of varieties is used. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem diversity. **Named evidence/example:** Ecosystem diversity is variation among habitats, communities and ecological processes across a landscape; it is an ecological level and not another taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NBA, SBB and BMC levels. **Named evidence/example:** The Biological Diversity Act architecture uses the National Biodiversity Authority, State Biodiversity Boards and local Biodiversity Management Committees; institutional level must not be confused with biodiversity level. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Access, benefit sharing and PBRs. **Named evidence/example:** Access and benefit sharing links use of biological resources or associated knowledge to benefit sharing, while Biodiversity Management Committees prepare People's Biodiversity Registers; legal design does not prove uniform local implementation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Verified PYQ and current-claim boundary. **Named evidence/example:** Routed concepts include human drivers of mass extinction, the IUCN Invasive Species Specialist Group and the EU Nature Restoration Law; they are external or institutional comparators, not Indian legal designations or inferred answer keys. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+HIPPCO recalls habitat loss, invasive species, pollution, population pressure, climate change
+and overexploitation. It is useful for rapid coverage, but it mixes **direct** ecological drivers
+with **indirect** socio-economic pressures. IPBES (2019) ranks direct global drivers as
+land/sea-use change, direct exploitation, climate change, pollution and invasive alien species;
+demography and consumption operate through institutions, technology, trade and unequal demand.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+The drivers also interact. Habitat conversion reduces area, while fragmentation increases edge
+effects and isolates small populations. Overharvest then acts on a smaller demographic base;
+climate shifts suitable ranges, but roads or farms block movement; invasive species exploit
+disturbed habitat.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+Two outcomes expose why a simple list is insufficient. **Extinction debt** is delayed future
+loss caused by past habitat destruction. Long-lived adults may persist after recruitment or
+gene flow has failed, so present presence exaggerates long-term security. Restoration and
+reconnection may avert part of the debt; it is not a fixed prediction.
 
-**How to improve this answer:** For “Assess how biodiversity levels connect with India's NBA-SBB-BMC, ABS and PBR architecture.…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Biotic homogenisation** occurs when widespread winners replace endemic or local losers.
+Introductions can raise alpha richness in individual cities while reducing beta diversity and
+regional identity. Homogenisation may be taxonomic, functional or genetic.
+
+Policy must therefore address underlying consumption/governance, protect core habitat and
+connectivity, control exploitation/invasives and monitor recruitment, composition and function
+over time—not merely count currently present species.
+
+**Why this earns marks:** It moves from mnemonic to driver hierarchy, interaction and
+time/scale-specific outcomes.
+
+**How to improve:** Add one verified Indian fragmentation or invasion case without turning it
+into anecdotal name-dropping.
+
+---
+
+### ORIGINAL MAINS 4 — 15 MARKS — LIMIT 250 WORDS
+
+**Question:** Map India's four biodiversity-hotspot portions and distinguish a hotspot from a
+megadiverse country, a centre of endemism and a centre of origin/diversity.
+
+**Demand decoding:** Supply exact India-linked boundaries, then compare unit, criterion and
+purpose.
+
+**Model answer (limit 250 words):**
+
+A Conservation International hotspot is a biogeographic region with at least **1,500 endemic
+vascular plant species** and at least **70% loss of original natural vegetation**. India
+intersects four transboundary hotspots:
+
+1. **Himalaya** — the Indian Himalayan arc from northwest to northeast;
+2. **Indo-Burma** — non-Himalayan Northeast India plus the **Andaman Islands**;
+3. **Western Ghats-Sri Lanka** — the Western Ghats chain through Maharashtra, Goa, Karnataka,
+   Kerala and Tamil Nadu; and
+4. **Sundaland** — represented in India by the **Nicobar Islands**.
+
+The Andaman-Nicobar administrative unit therefore straddles two hotspot systems. Whole-state
+lists are approximate because boundaries are ecological.
+
+A **megadiverse country** is a sovereign-country portfolio label based on exceptional national
+richness and endemism; India belongs to the widely cited 17-country set. It neither applies the
+hotspot loss threshold nor makes the whole country a hotspot.
+
+A **centre of endemism** is an area where restricted-range taxa concentrate; it need not have
+lost 70% of habitat. A **centre of origin** concerns where a crop was domesticated, whereas a
+**centre of diversity** concerns where high crop genetic variation occurs. Continued farmer
+selection can create a secondary diversity centre away from origin.
+
+Thus, the four labels differ by spatial unit, evidence and policy purpose. None automatically
+creates a legally protected area.
+
+**Why this earns marks:** It gives the exact island split, both hotspot thresholds and a
+four-way designation firewall.
+
+**How to improve:** Draw a four-arrow India sketch and underline “region”, “country” and
+“domestication”.
+
+---
+
+### ORIGINAL MAINS 5 — 20 MARKS — LIMIT 300 WORDS
+
+**Question:** Critically evaluate hotspot-based conservation and design an integrated in-situ
+and ex-situ strategy for India's biodiversity.
+
+**Demand decoding:** Assess strengths and biases, then build a multi-level conservation design
+with institutions, examples and safeguards.
+
+**Model answer (limit 300 words):**
+
+Hotspots combine irreplaceability—at least 1,500 endemic vascular plants—with urgency—at least
+70% loss of original vegetation. For India, the Himalaya, Indo-Burma, Western Ghats-Sri Lanka
+and Sundaland/Nicobar framework helps direct scarce finance toward globally unique, heavily
+reduced regions. It is transparent, transboundary and useful for preventing irreversible loss.
+
+However, hotspot triage is not a complete national strategy. Its vascular-plant threshold can
+underrepresent faunal, freshwater, marine or open-ecosystem value. Grasslands, wetlands, cold
+deserts and coasts may fail the global test yet sustain threatened species, livelihoods and
+regulating services. A hotspot label neither notifies a protected area nor measures management
+effectiveness. Climate-driven range shifts also require connectivity beyond fixed boundaries.
+
+India therefore needs a layered design:
+
+- **Represent ecosystems:** protect ecologically representative forests, grasslands, wetlands,
+  rivers, coasts and islands, not hotspots alone.
+- **Maintain processes:** secure core habitat, corridors, hydrology, disturbance regimes and
+  community stewardship; restore degraded links before extinction debt is paid.
+- **Conserve genes:** retain viable connected wild populations and on-farm landraces; use
+  ICAR-NBPGR seed, field, in-vitro and cryo collections as insurance.
+- **Recover species:** control causal threats; use CZA-regulated conservation breeding only with
+  genetic management, habitat repair and monitored reintroduction.
+- **Govern fairly:** connect NBA-SBB-BMC/PBR/ABS institutions to local rights and benefits.
+- **Measure outcomes:** track composition, recruitment, functional diversity and connectivity,
+  not only area or flagship counts.
+
+KMGBF Target 3 and India's updated NBSAP can organise this network, but 30% notification is not
+30% effective conservation. The defensible model is hotspot priority within a representative,
+connected and community-backed national system.
+
+**Why this earns marks:** It gives a balanced verdict and converts critique into a genetic-
+species-ecosystem implementation plan.
+
+**How to improve:** Add a small priority matrix: irreplaceability × threat × feasibility ×
+connectivity.
+
+---
+
+### ORIGINAL MAINS 6 — 20 MARKS — LIMIT 300 WORDS
+
+**Question:** Biodiversity measurement and valuation shape conservation priorities, but both can
+mislead. Discuss with reference to indices, ecosystem services and governance.
+
+**Demand decoding:** Explain the utility and limits of measurement/valuation, then show how a
+better decision framework works.
+
+**Model answer (limit 300 words):**
+
+Measurement makes biodiversity change visible. Species richness is transparent; Shannon
+combines richness and evenness; Simpson emphasises common species/dominance; alpha-beta-gamma
+separate local inventory, turnover and regional total. Allelic richness and heterozygosity
+measure different parts of genetic variation, while functional and phylogenetic metrics capture
+traits and evolutionary history.
+
+Yet no index is neutral. Richness rises with area and effort; unseen rare species distort
+comparisons; larger Simpson `D` means lower diversity whereas larger `1-D` means higher
+diversity; beta values change with grain, extent and formula. Neutral genetic markers may not
+represent adaptive capacity, and a land-cover map may not measure ecosystem function.
+Rarefaction, sample coverage, named conventions and uncertainty are therefore essential.
+
+Valuation similarly broadens policy. Direct-use goods, regulating services, option value,
+existence value and bequest value reveal losses ignored by market prices. Indian mangroves, for
+example, provide biomass, nursery habitat and coastal buffering. Crop wild relatives retain
+future breeding options.
+
+However, monetisation can double-count services, discount future generations and marginalise
+sacred, relational or intrinsic values. A high aggregate service value can also hide who bears
+conservation costs or loses access.
+
+Governance should therefore use a dashboard:
+
+1. ecological condition—composition, function, connectivity and genetic representation;
+2. comparable sampling and transparent uncertainty;
+3. ecosystem-service and option-value evidence without double counting;
+4. rights, distribution and community knowledge through BMC/PBR/ABS processes; and
+5. legal thresholds that protect irreplaceable biodiversity even when monetary estimates are
+   low.
+
+Thus, metrics and valuation should inform plural, precautionary decisions—not replace ecological
+limits or democratic choice.
+
+**Why this earns marks:** It integrates formulas, sampling limits, values, distribution and an
+operational governance dashboard.
+
+**How to improve:** Add one two-column table contrasting “indicator says” with “indicator cannot
+prove”.

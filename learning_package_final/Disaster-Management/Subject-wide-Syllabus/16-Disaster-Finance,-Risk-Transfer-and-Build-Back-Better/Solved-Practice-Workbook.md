@@ -1,1152 +1,790 @@
 ---
-title: "Disaster Finance, Risk Transfer and Build Back Better — Solved Practice Workbook"
+title: "Disaster Management 16 — Disaster Finance, Risk Transfer and Build Back Better — Solved Practice Workbook"
 topic_key: disaster-management-16
+reviewed: 2026-09-27
 ---
+
 # Disaster Finance, Risk Transfer and Build Back Better — Solved Practice Workbook
+
+## PRACTICE AUDIT
+
+- **Original MCQs:** exactly 40; strict `ABCD` rotation repeated ten times.
+- **Coverage:** four funds, ex-ante/ex-post finance, layering, insurance, pools/bonds, social protection, assessments, BBB, fiscal federalism and equity.
+- **Cue control:** 20 concept-elimination items plus 20 application scenarios; every option is plausible and explained.
+- **PYQs:** no direct routed PYQ; shared/application routes are clearly labelled.
+- **Original Mains:** six solved questions—two each at 10, 15 and 20 marks.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Ex-ante finance?
+### MCQ 1. Which statement best defines Ex-ante finance?
 
-A. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-B. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-C. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-D. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
+A. Ex-ante finance is arranged before an event for mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make it risk reducing.
+B. Budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on access, replenishment and loss scale.
+C. Parametric insurance pays when an agreed index crosses a threshold rather than after exact loss assessment; it is fast but creates basis risk.
+D. Fiscal protection preserves timely government financing and essential services after shocks through assessment, layered instruments, rules and debt/budget safeguards.
 
-**Answer: A.**
-**Explanation:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q2. Which option preserves the risk or institutional boundary of Ex-ante finance?
+- **A:** Correct: This is the precise meaning of **Ex-ante finance**.
+- **B:** Incorrect: This describes **Budgetary and contingency reserves**, not the concept asked.
+- **C:** Incorrect: This describes **Parametric insurance**, not the concept asked.
+- **D:** Incorrect: This describes **Fiscal protection**, not the concept asked.
 
-A. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-B. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-C. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-D. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
+### MCQ 2. Which option preserves the timing of Ex-post finance?
 
-**Answer: B.**
-**Explanation:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Pre-arranged finance fixes eligibility, trigger, amount or drawdown before disaster; speed does not ensure adequate volume, targeting or risk reduction.
+B. Ex-post finance is mobilised after impact through reallocation, grants, borrowing, response funds or appeals; it may be necessary but slow and fiscally disruptive.
+C. Basis risk is mismatch between parametric payout and actual loss, including severe local harm without adequate payout or payout despite limited loss.
+D. Damage, economic loss and recovery needs use different purposes and baselines; one monetary estimate cannot substitute for the others.
 
-### Q3. Which statement uses Ex-ante finance without changing its hazard, mandate or status?
+**Answer: B**
 
-A. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-B. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-C. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-D. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
+- **A:** Incorrect: This describes **Pre-arranged finance**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **Ex-post finance**.
+- **C:** Incorrect: This describes **Basis risk**, not the concept asked.
+- **D:** Incorrect: This describes **Damage, loss and needs assessment**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 3. Which formulation accurately states Four-fund statutory grid?
 
-### Q4. Which option avoids the standard UPSC close-option trap about Ex-ante finance?
+A. Risk layering matches frequent, medium and rare severe losses with retention, reserves, contingent credit, insurance, pools and external support.
+B. A risk pool combines participants and exposures to spread volatility; correlation, governance, pricing and entry rules determine real diversification.
+C. The Act separates NDRF fund under section 46, NDMF under section 47, and State response and mitigation funds under section 48; fund and force are different.
+D. BBB uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods.
 
-A. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-B. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-C. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-D. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Risk layering**, not the concept asked.
+- **B:** Incorrect: This describes **Risk pools**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **Four-fund statutory grid**.
+- **D:** Incorrect: This describes **Build Back Better**, not the concept asked.
 
-### Q5. Which statement correctly identifies Ex-post finance?
+### MCQ 4. Which statement distinguishes Response versus mitigation funds from an adjacent instrument?
 
-A. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-B. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-C. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-D. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
+A. Union, States, local bodies, utilities, firms and households have different fiscal capacity and loss; sovereign cover does not automatically protect uninsured households.
+B. A catastrophe bond transfers a specified catastrophe layer to investors through defined triggers and potential loss of principal or interest; deployment must be verified.
+C. BBB requires participation, tenure/livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed hazardous rebuilding.
+D. Response funds meet eligible post-event immediate needs, while mitigation funds finance ex-ante risk reduction; response payment is not proof of future risk reduction.
 
-**Answer: A.**
-**Explanation:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q6. Which option preserves the risk or institutional boundary of Ex-post finance?
+- **A:** Incorrect: This describes **Sovereign, subnational and household layers**, not the concept asked.
+- **B:** Incorrect: This describes **Catastrophe bonds**, not the concept asked.
+- **C:** Incorrect: This describes **BBB safeguards**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **Response versus mitigation funds**.
 
-A. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-B. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-C. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-D. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
+### MCQ 5. Which option gives the correct fiscal meaning of Budgetary and contingency reserves?
 
-**Answer: B.**
-**Explanation:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on access, replenishment and loss scale.
+B. Indemnity insurance pays verified covered loss subject to exclusions, deductibles and limits; assessment aligns payment but can delay settlement.
+C. Moral hazard is behaviour changing after protection lowers perceived loss cost; adverse selection is higher-risk participants being more likely to seek cover.
+D. Deductibles, co-financing and risk signals may reduce moral hazard, but unaffordable pricing can exclude high-risk poor households and local bodies.
 
-### Q7. Which statement uses Ex-post finance without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-B. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-C. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-D. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
+- **A:** Correct: This is the precise meaning of **Budgetary and contingency reserves**.
+- **B:** Incorrect: This describes **Indemnity insurance**, not the concept asked.
+- **C:** Incorrect: This describes **Moral hazard and adverse selection**, not the concept asked.
+- **D:** Incorrect: This describes **Incentive and affordability balance**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 6. Which statement captures Pre-arranged finance without overstating outcome?
 
-### Q8. Which option avoids the standard UPSC close-option trap about Ex-post finance?
+A. Parametric insurance pays when an agreed index crosses a threshold rather than after exact loss assessment; it is fast but creates basis risk.
+B. Pre-arranged finance fixes eligibility, trigger, amount or drawdown before disaster; speed does not ensure adequate volume, targeting or risk reduction.
+C. Fiscal protection preserves timely government financing and essential services after shocks through assessment, layered instruments, rules and debt/budget safeguards.
+D. A corpus, allocation, premium, bond, payout, sanction or reconstruction budget proves finance only; coverage, timeliness, safer rebuilding and reduced loss need separate evidence.
 
-A. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-B. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-C. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-D. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Parametric insurance**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **Pre-arranged finance**.
+- **C:** Incorrect: This describes **Fiscal protection**, not the concept asked.
+- **D:** Incorrect: This describes **Finance–outcome firewall**, not the concept asked.
 
-### Q9. Which statement correctly identifies Four-fund statutory grid?
+### MCQ 7. Which formulation correctly applies Risk layering?
 
-A. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-B. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-C. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-D. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
+A. Basis risk is mismatch between parametric payout and actual loss, including severe local harm without adequate payout or payout despite limited loss.
+B. Damage, economic loss and recovery needs use different purposes and baselines; one monetary estimate cannot substitute for the others.
+C. Risk layering matches frequent, medium and rare severe losses with retention, reserves, contingent credit, insurance, pools and external support.
+D. Ex-ante finance is arranged before an event for mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make it risk reducing.
 
-**Answer: A.**
-**Explanation:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q10. Which option preserves the risk or institutional boundary of Four-fund statutory grid?
+- **A:** Incorrect: This describes **Basis risk**, not the concept asked.
+- **B:** Incorrect: This describes **Damage, loss and needs assessment**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **Risk layering**.
+- **D:** Incorrect: This describes **Ex-ante finance**, not the concept asked.
 
-A. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-B. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-C. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-D. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
+### MCQ 8. Which option preserves the distributional boundary of Sovereign, subnational and household layers?
 
-**Answer: B.**
-**Explanation:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. A risk pool combines participants and exposures to spread volatility; correlation, governance, pricing and entry rules determine real diversification.
+B. BBB uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods.
+C. Ex-post finance is mobilised after impact through reallocation, grants, borrowing, response funds or appeals; it may be necessary but slow and fiscally disruptive.
+D. Union, States, local bodies, utilities, firms and households have different fiscal capacity and loss; sovereign cover does not automatically protect uninsured households.
 
-### Q11. Which statement uses Four-fund statutory grid without changing its hazard, mandate or status?
+**Answer: D**
 
-A. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-B. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-C. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-D. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
+- **A:** Incorrect: This describes **Risk pools**, not the concept asked.
+- **B:** Incorrect: This describes **Build Back Better**, not the concept asked.
+- **C:** Incorrect: This describes **Ex-post finance**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **Sovereign, subnational and household layers**.
 
-**Answer: C.**
-**Explanation:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 9. Which statement best describes Indemnity insurance?
 
-### Q12. Which option avoids the standard UPSC close-option trap about Four-fund statutory grid?
+A. Indemnity insurance pays verified covered loss subject to exclusions, deductibles and limits; assessment aligns payment but can delay settlement.
+B. A catastrophe bond transfers a specified catastrophe layer to investors through defined triggers and potential loss of principal or interest; deployment must be verified.
+C. BBB requires participation, tenure/livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed hazardous rebuilding.
+D. The Act separates NDRF fund under section 46, NDMF under section 47, and State response and mitigation funds under section 48; fund and force are different.
 
-A. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-B. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-C. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-D. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Correct: This is the precise meaning of **Indemnity insurance**.
+- **B:** Incorrect: This describes **Catastrophe bonds**, not the concept asked.
+- **C:** Incorrect: This describes **BBB safeguards**, not the concept asked.
+- **D:** Incorrect: This describes **Four-fund statutory grid**, not the concept asked.
 
-### Q13. Which statement correctly identifies Response versus mitigation funds?
+### MCQ 10. Which option states Parametric insurance precisely?
 
-A. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-B. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-C. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-D. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
+A. Moral hazard is behaviour changing after protection lowers perceived loss cost; adverse selection is higher-risk participants being more likely to seek cover.
+B. Parametric insurance pays when an agreed index crosses a threshold rather than after exact loss assessment; it is fast but creates basis risk.
+C. Deductibles, co-financing and risk signals may reduce moral hazard, but unaffordable pricing can exclude high-risk poor households and local bodies.
+D. Response funds meet eligible post-event immediate needs, while mitigation funds finance ex-ante risk reduction; response payment is not proof of future risk reduction.
 
-**Answer: A.**
-**Explanation:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q14. Which option preserves the risk or institutional boundary of Response versus mitigation funds?
+- **A:** Incorrect: This describes **Moral hazard and adverse selection**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **Parametric insurance**.
+- **C:** Incorrect: This describes **Incentive and affordability balance**, not the concept asked.
+- **D:** Incorrect: This describes **Response versus mitigation funds**, not the concept asked.
 
-A. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-B. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-C. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-D. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
+### MCQ 11. Which account of Basis risk is correct?
 
-**Answer: B.**
-**Explanation:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Fiscal protection preserves timely government financing and essential services after shocks through assessment, layered instruments, rules and debt/budget safeguards.
+B. A corpus, allocation, premium, bond, payout, sanction or reconstruction budget proves finance only; coverage, timeliness, safer rebuilding and reduced loss need separate evidence.
+C. Basis risk is mismatch between parametric payout and actual loss, including severe local harm without adequate payout or payout despite limited loss.
+D. Budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on access, replenishment and loss scale.
 
-### Q15. Which statement uses Response versus mitigation funds without changing its hazard, mandate or status?
+**Answer: C**
 
-A. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-B. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-C. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-D. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
+- **A:** Incorrect: This describes **Fiscal protection**, not the concept asked.
+- **B:** Incorrect: This describes **Finance–outcome firewall**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **Basis risk**.
+- **D:** Incorrect: This describes **Budgetary and contingency reserves**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 12. Which statement gives the soundest meaning of Risk pools?
 
-### Q16. Which option avoids the standard UPSC close-option trap about Response versus mitigation funds?
+A. Damage, economic loss and recovery needs use different purposes and baselines; one monetary estimate cannot substitute for the others.
+B. Ex-ante finance is arranged before an event for mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make it risk reducing.
+C. Pre-arranged finance fixes eligibility, trigger, amount or drawdown before disaster; speed does not ensure adequate volume, targeting or risk reduction.
+D. A risk pool combines participants and exposures to spread volatility; correlation, governance, pricing and entry rules determine real diversification.
 
-A. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-B. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-C. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-D. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Damage, loss and needs assessment**, not the concept asked.
+- **B:** Incorrect: This describes **Ex-ante finance**, not the concept asked.
+- **C:** Incorrect: This describes **Pre-arranged finance**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **Risk pools**.
 
-### Q17. Which statement correctly identifies Budgetary and contingency reserves?
+### MCQ 13. Which formulation preserves the trigger logic of Catastrophe bonds?
 
-A. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-B. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-C. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-D. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
+A. A catastrophe bond transfers a specified catastrophe layer to investors through defined triggers and potential loss of principal or interest; deployment must be verified.
+B. BBB uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods.
+C. Ex-post finance is mobilised after impact through reallocation, grants, borrowing, response funds or appeals; it may be necessary but slow and fiscally disruptive.
+D. Risk layering matches frequent, medium and rare severe losses with retention, reserves, contingent credit, insurance, pools and external support.
 
-**Answer: A.**
-**Explanation:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q18. Which option preserves the risk or institutional boundary of Budgetary and contingency reserves?
+- **A:** Correct: This is the precise meaning of **Catastrophe bonds**.
+- **B:** Incorrect: This describes **Build Back Better**, not the concept asked.
+- **C:** Incorrect: This describes **Ex-post finance**, not the concept asked.
+- **D:** Incorrect: This describes **Risk layering**, not the concept asked.
 
-A. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-B. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-C. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-D. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
+### MCQ 14. Which option correctly distinguishes Moral hazard and adverse selection?
 
-**Answer: B.**
-**Explanation:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. BBB requires participation, tenure/livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed hazardous rebuilding.
+B. Moral hazard is behaviour changing after protection lowers perceived loss cost; adverse selection is higher-risk participants being more likely to seek cover.
+C. The Act separates NDRF fund under section 46, NDMF under section 47, and State response and mitigation funds under section 48; fund and force are different.
+D. Union, States, local bodies, utilities, firms and households have different fiscal capacity and loss; sovereign cover does not automatically protect uninsured households.
 
-### Q19. Which statement uses Budgetary and contingency reserves without changing its hazard, mandate or status?
+**Answer: B**
 
-A. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-B. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-C. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-D. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
+- **A:** Incorrect: This describes **BBB safeguards**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **Moral hazard and adverse selection**.
+- **C:** Incorrect: This describes **Four-fund statutory grid**, not the concept asked.
+- **D:** Incorrect: This describes **Sovereign, subnational and household layers**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 15. Which statement best captures Fiscal protection?
 
-### Q20. Which option avoids the standard UPSC close-option trap about Budgetary and contingency reserves?
+A. Deductibles, co-financing and risk signals may reduce moral hazard, but unaffordable pricing can exclude high-risk poor households and local bodies.
+B. Response funds meet eligible post-event immediate needs, while mitigation funds finance ex-ante risk reduction; response payment is not proof of future risk reduction.
+C. Fiscal protection preserves timely government financing and essential services after shocks through assessment, layered instruments, rules and debt/budget safeguards.
+D. Indemnity insurance pays verified covered loss subject to exclusions, deductibles and limits; assessment aligns payment but can delay settlement.
 
-A. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-B. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-C. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-D. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Incentive and affordability balance**, not the concept asked.
+- **B:** Incorrect: This describes **Response versus mitigation funds**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **Fiscal protection**.
+- **D:** Incorrect: This describes **Indemnity insurance**, not the concept asked.
 
-### Q21. Which statement correctly identifies Pre-arranged finance?
+### MCQ 16. Which description keeps Damage, loss and needs assessment methodologically precise?
 
-A. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-B. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-C. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-D. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
+A. A corpus, allocation, premium, bond, payout, sanction or reconstruction budget proves finance only; coverage, timeliness, safer rebuilding and reduced loss need separate evidence.
+B. Budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on access, replenishment and loss scale.
+C. Parametric insurance pays when an agreed index crosses a threshold rather than after exact loss assessment; it is fast but creates basis risk.
+D. Damage, economic loss and recovery needs use different purposes and baselines; one monetary estimate cannot substitute for the others.
 
-**Answer: A.**
-**Explanation:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q22. Which option preserves the risk or institutional boundary of Pre-arranged finance?
+- **A:** Incorrect: This describes **Finance–outcome firewall**, not the concept asked.
+- **B:** Incorrect: This describes **Budgetary and contingency reserves**, not the concept asked.
+- **C:** Incorrect: This describes **Parametric insurance**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **Damage, loss and needs assessment**.
 
-A. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-B. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-C. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-D. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
+### MCQ 17. Which statement defines Build Back Better in Sendai terms?
 
-**Answer: B.**
-**Explanation:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. BBB uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods.
+B. Ex-ante finance is arranged before an event for mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make it risk reducing.
+C. Pre-arranged finance fixes eligibility, trigger, amount or drawdown before disaster; speed does not ensure adequate volume, targeting or risk reduction.
+D. Basis risk is mismatch between parametric payout and actual loss, including severe local harm without adequate payout or payout despite limited loss.
 
-### Q23. Which statement uses Pre-arranged finance without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-B. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-C. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-D. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
+- **A:** Correct: This is the precise meaning of **Build Back Better**.
+- **B:** Incorrect: This describes **Ex-ante finance**, not the concept asked.
+- **C:** Incorrect: This describes **Pre-arranged finance**, not the concept asked.
+- **D:** Incorrect: This describes **Basis risk**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 18. Which option states the safeguards for BBB safeguards?
 
-### Q24. Which option avoids the standard UPSC close-option trap about Pre-arranged finance?
+A. Ex-post finance is mobilised after impact through reallocation, grants, borrowing, response funds or appeals; it may be necessary but slow and fiscally disruptive.
+B. BBB requires participation, tenure/livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed hazardous rebuilding.
+C. Risk layering matches frequent, medium and rare severe losses with retention, reserves, contingent credit, insurance, pools and external support.
+D. A risk pool combines participants and exposures to spread volatility; correlation, governance, pricing and entry rules determine real diversification.
 
-A. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-B. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-C. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-D. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Ex-post finance**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **BBB safeguards**.
+- **C:** Incorrect: This describes **Risk layering**, not the concept asked.
+- **D:** Incorrect: This describes **Risk pools**, not the concept asked.
 
-### Q25. Which statement correctly identifies Risk layering?
+### MCQ 19. Which formulation captures the trade-off in Incentive and affordability balance?
 
-A. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-B. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-C. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-D. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
+A. The Act separates NDRF fund under section 46, NDMF under section 47, and State response and mitigation funds under section 48; fund and force are different.
+B. Union, States, local bodies, utilities, firms and households have different fiscal capacity and loss; sovereign cover does not automatically protect uninsured households.
+C. Deductibles, co-financing and risk signals may reduce moral hazard, but unaffordable pricing can exclude high-risk poor households and local bodies.
+D. A catastrophe bond transfers a specified catastrophe layer to investors through defined triggers and potential loss of principal or interest; deployment must be verified.
 
-**Answer: A.**
-**Explanation:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q26. Which option preserves the risk or institutional boundary of Risk layering?
+- **A:** Incorrect: This describes **Four-fund statutory grid**, not the concept asked.
+- **B:** Incorrect: This describes **Sovereign, subnational and household layers**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **Incentive and affordability balance**.
+- **D:** Incorrect: This describes **Catastrophe bonds**, not the concept asked.
 
-A. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-B. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-C. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-D. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
+### MCQ 20. Which option applies the Finance–outcome firewall?
 
-**Answer: B.**
-**Explanation:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Response funds meet eligible post-event immediate needs, while mitigation funds finance ex-ante risk reduction; response payment is not proof of future risk reduction.
+B. Indemnity insurance pays verified covered loss subject to exclusions, deductibles and limits; assessment aligns payment but can delay settlement.
+C. Moral hazard is behaviour changing after protection lowers perceived loss cost; adverse selection is higher-risk participants being more likely to seek cover.
+D. A corpus, allocation, premium, bond, payout, sanction or reconstruction budget proves finance only; coverage, timeliness, safer rebuilding and reduced loss need separate evidence.
 
-### Q27. Which statement uses Risk layering without changing its hazard, mandate or status?
+**Answer: D**
 
-A. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-B. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-C. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-D. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
+- **A:** Incorrect: This describes **Response versus mitigation funds**, not the concept asked.
+- **B:** Incorrect: This describes **Indemnity insurance**, not the concept asked.
+- **C:** Incorrect: This describes **Moral hazard and adverse selection**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **Finance–outcome firewall**.
 
-**Answer: C.**
-**Explanation:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 21. A contingent credit line is negotiated before cyclone season, while physical exposure remains unchanged. Which concept is illustrated?
 
-### Q28. Which option avoids the standard UPSC close-option trap about Risk layering?
+A. Ex-ante finance
+B. Response versus mitigation funds
+C. Indemnity insurance
+D. Moral hazard and adverse selection
 
-A. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-B. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-C. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-D. Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Correct: The scenario directly illustrates **Ex-ante finance**: Ex-ante finance is arranged before an event for mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make it risk reducing.
+- **B:** Incorrect: **Response versus mitigation funds** instead means: Response funds meet eligible post-event immediate needs, while mitigation funds finance ex-ante risk reduction; response payment is not proof of future risk reduction.
+- **C:** Incorrect: **Indemnity insurance** instead means: Indemnity insurance pays verified covered loss subject to exclusions, deductibles and limits; assessment aligns payment but can delay settlement.
+- **D:** Incorrect: **Moral hazard and adverse selection** instead means: Moral hazard is behaviour changing after protection lowers perceived loss cost; adverse selection is higher-risk participants being more likely to seek cover.
 
-### Q29. Which statement correctly identifies Sovereign subnational household layers?
+### MCQ 22. After a flood, a State reallocates budgets and seeks supplementary assistance, delaying other programmes. Which concept is illustrated?
 
-A. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-B. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-C. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-D. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
+A. Budgetary and contingency reserves
+B. Ex-post finance
+C. Parametric insurance
+D. Fiscal protection
 
-**Answer: A.**
-**Explanation:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q30. Which option preserves the risk or institutional boundary of Sovereign subnational household layers?
+- **A:** Incorrect: **Budgetary and contingency reserves** instead means: Budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on access, replenishment and loss scale.
+- **B:** Correct: The scenario directly illustrates **Ex-post finance**: Ex-post finance is mobilised after impact through reallocation, grants, borrowing, response funds or appeals; it may be necessary but slow and fiscally disruptive.
+- **C:** Incorrect: **Parametric insurance** instead means: Parametric insurance pays when an agreed index crosses a threshold rather than after exact loss assessment; it is fast but creates basis risk.
+- **D:** Incorrect: **Fiscal protection** instead means: Fiscal protection preserves timely government financing and essential services after shocks through assessment, layered instruments, rules and debt/budget safeguards.
 
-A. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-B. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-C. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-D. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
+### MCQ 23. An answer places the national response fund in section 46 and refuses to confuse it with the specialist force. Which concept is illustrated?
 
-**Answer: B.**
-**Explanation:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Pre-arranged finance
+B. Basis risk
+C. Four-fund statutory grid
+D. Damage, loss and needs assessment
 
-### Q31. Which statement uses Sovereign subnational household layers without changing its hazard, mandate or status?
+**Answer: C**
 
-A. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-B. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-C. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-D. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
+- **A:** Incorrect: **Pre-arranged finance** instead means: Pre-arranged finance fixes eligibility, trigger, amount or drawdown before disaster; speed does not ensure adequate volume, targeting or risk reduction.
+- **B:** Incorrect: **Basis risk** instead means: Basis risk is mismatch between parametric payout and actual loss, including severe local harm without adequate payout or payout despite limited loss.
+- **C:** Correct: The scenario directly illustrates **Four-fund statutory grid**: The Act separates NDRF fund under section 46, NDMF under section 47, and State response and mitigation funds under section 48; fund and force are different.
+- **D:** Incorrect: **Damage, loss and needs assessment** instead means: Damage, economic loss and recovery needs use different purposes and baselines; one monetary estimate cannot substitute for the others.
 
-**Answer: C.**
-**Explanation:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 24. A relief payment replaces food and shelter needs but is not presented as a drainage or retrofit investment. Which concept is illustrated?
 
-### Q32. Which option avoids the standard UPSC close-option trap about Sovereign subnational household layers?
+A. Risk layering
+B. Risk pools
+C. Build Back Better
+D. Response versus mitigation funds
 
-A. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-B. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-C. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-D. The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: **Risk layering** instead means: Risk layering matches frequent, medium and rare severe losses with retention, reserves, contingent credit, insurance, pools and external support.
+- **B:** Incorrect: **Risk pools** instead means: A risk pool combines participants and exposures to spread volatility; correlation, governance, pricing and entry rules determine real diversification.
+- **C:** Incorrect: **Build Back Better** instead means: BBB uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods.
+- **D:** Correct: The scenario directly illustrates **Response versus mitigation funds**: Response funds meet eligible post-event immediate needs, while mitigation funds finance ex-ante risk reduction; response payment is not proof of future risk reduction.
 
-### Q33. Which statement correctly identifies Indemnity insurance?
+### MCQ 25. A government keeps a readily accessible reserve and replenishment rule rather than transferring the loss. Which concept is illustrated?
 
-A. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-B. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-C. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-D. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
+A. Budgetary and contingency reserves
+B. Sovereign, subnational and household layers
+C. Catastrophe bonds
+D. BBB safeguards
 
-**Answer: A.**
-**Explanation:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q34. Which option preserves the risk or institutional boundary of Indemnity insurance?
+- **A:** Correct: The scenario directly illustrates **Budgetary and contingency reserves**: Budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on access, replenishment and loss scale.
+- **B:** Incorrect: **Sovereign, subnational and household layers** instead means: Union, States, local bodies, utilities, firms and households have different fiscal capacity and loss; sovereign cover does not automatically protect uninsured households.
+- **C:** Incorrect: **Catastrophe bonds** instead means: A catastrophe bond transfers a specified catastrophe layer to investors through defined triggers and potential loss of principal or interest; deployment must be verified.
+- **D:** Incorrect: **BBB safeguards** instead means: BBB requires participation, tenure/livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed hazardous rebuilding.
 
-A. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-B. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-C. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-D. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
+### MCQ 26. A contract sets a rainfall trigger and drawdown steps before the monsoon, but coverage may still be too small. Which concept is illustrated?
 
-**Answer: B.**
-**Explanation:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Indemnity insurance
+B. Pre-arranged finance
+C. Moral hazard and adverse selection
+D. Incentive and affordability balance
 
-### Q35. Which statement uses Indemnity insurance without changing its hazard, mandate or status?
+**Answer: B**
 
-A. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-B. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-C. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-D. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
+- **A:** Incorrect: **Indemnity insurance** instead means: Indemnity insurance pays verified covered loss subject to exclusions, deductibles and limits; assessment aligns payment but can delay settlement.
+- **B:** Correct: The scenario directly illustrates **Pre-arranged finance**: Pre-arranged finance fixes eligibility, trigger, amount or drawdown before disaster; speed does not ensure adequate volume, targeting or risk reduction.
+- **C:** Incorrect: **Moral hazard and adverse selection** instead means: Moral hazard is behaviour changing after protection lowers perceived loss cost; adverse selection is higher-risk participants being more likely to seek cover.
+- **D:** Incorrect: **Incentive and affordability balance** instead means: Deductibles, co-financing and risk signals may reduce moral hazard, but unaffordable pricing can exclude high-risk poor households and local bodies.
 
-**Answer: C.**
-**Explanation:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 27. Routine local losses are retained, medium losses insured and rare catastrophic losses backed by sovereign/external finance. Which concept is illustrated?
 
-### Q36. Which option avoids the standard UPSC close-option trap about Indemnity insurance?
+A. Parametric insurance
+B. Fiscal protection
+C. Risk layering
+D. Finance–outcome firewall
 
-A. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-B. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-C. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-D. Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: **Parametric insurance** instead means: Parametric insurance pays when an agreed index crosses a threshold rather than after exact loss assessment; it is fast but creates basis risk.
+- **B:** Incorrect: **Fiscal protection** instead means: Fiscal protection preserves timely government financing and essential services after shocks through assessment, layered instruments, rules and debt/budget safeguards.
+- **C:** Correct: The scenario directly illustrates **Risk layering**: Risk layering matches frequent, medium and rare severe losses with retention, reserves, contingent credit, insurance, pools and external support.
+- **D:** Incorrect: **Finance–outcome firewall** instead means: A corpus, allocation, premium, bond, payout, sanction or reconstruction budget proves finance only; coverage, timeliness, safer rebuilding and reduced loss need separate evidence.
 
-### Q37. Which statement correctly identifies Parametric insurance?
+### MCQ 28. A national payout restores fiscal liquidity but an uninsured street vendor still lacks household recovery support. Which concept is illustrated?
 
-A. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-B. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-C. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-D. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
+A. Basis risk
+B. Damage, loss and needs assessment
+C. Ex-ante finance
+D. Sovereign, subnational and household layers
 
-**Answer: A.**
-**Explanation:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q38. Which option preserves the risk or institutional boundary of Parametric insurance?
+- **A:** Incorrect: **Basis risk** instead means: Basis risk is mismatch between parametric payout and actual loss, including severe local harm without adequate payout or payout despite limited loss.
+- **B:** Incorrect: **Damage, loss and needs assessment** instead means: Damage, economic loss and recovery needs use different purposes and baselines; one monetary estimate cannot substitute for the others.
+- **C:** Incorrect: **Ex-ante finance** instead means: Ex-ante finance is arranged before an event for mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make it risk reducing.
+- **D:** Correct: The scenario directly illustrates **Sovereign, subnational and household layers**: Union, States, local bodies, utilities, firms and households have different fiscal capacity and loss; sovereign cover does not automatically protect uninsured households.
 
-A. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-B. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-C. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-D. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
+### MCQ 29. An insurer verifies repair loss under policy terms before paying. Which concept is illustrated?
 
-**Answer: B.**
-**Explanation:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Indemnity insurance
+B. Risk pools
+C. Build Back Better
+D. Ex-post finance
 
-### Q39. Which statement uses Parametric insurance without changing its hazard, mandate or status?
+**Answer: A**
 
-A. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-B. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-C. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-D. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
+- **A:** Correct: The scenario directly illustrates **Indemnity insurance**: Indemnity insurance pays verified covered loss subject to exclusions, deductibles and limits; assessment aligns payment but can delay settlement.
+- **B:** Incorrect: **Risk pools** instead means: A risk pool combines participants and exposures to spread volatility; correlation, governance, pricing and entry rules determine real diversification.
+- **C:** Incorrect: **Build Back Better** instead means: BBB uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods.
+- **D:** Incorrect: **Ex-post finance** instead means: Ex-post finance is mobilised after impact through reallocation, grants, borrowing, response funds or appeals; it may be necessary but slow and fiscally disruptive.
 
-**Answer: C.**
-**Explanation:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 30. A payout is released from a measured wind-speed trigger without adjusting to each claimant’s actual loss. Which concept is illustrated?
 
-### Q40. Which option avoids the standard UPSC close-option trap about Parametric insurance?
+A. Catastrophe bonds
+B. Parametric insurance
+C. BBB safeguards
+D. Four-fund statutory grid
 
-A. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-B. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-C. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-D. Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: **Catastrophe bonds** instead means: A catastrophe bond transfers a specified catastrophe layer to investors through defined triggers and potential loss of principal or interest; deployment must be verified.
+- **B:** Correct: The scenario directly illustrates **Parametric insurance**: Parametric insurance pays when an agreed index crosses a threshold rather than after exact loss assessment; it is fast but creates basis risk.
+- **C:** Incorrect: **BBB safeguards** instead means: BBB requires participation, tenure/livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed hazardous rebuilding.
+- **D:** Incorrect: **Four-fund statutory grid** instead means: The Act separates NDRF fund under section 46, NDMF under section 47, and State response and mitigation funds under section 48; fund and force are different.
 
-### Q41. Which statement correctly identifies Basis risk?
+### MCQ 31. A village suffers major crop loss although the index at the reference station stays below the trigger. Which concept is illustrated?
 
-A. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-B. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-C. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-D. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
+A. Moral hazard and adverse selection
+B. Incentive and affordability balance
+C. Basis risk
+D. Response versus mitigation funds
 
-**Answer: A.**
-**Explanation:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q42. Which option preserves the risk or institutional boundary of Basis risk?
+- **A:** Incorrect: **Moral hazard and adverse selection** instead means: Moral hazard is behaviour changing after protection lowers perceived loss cost; adverse selection is higher-risk participants being more likely to seek cover.
+- **B:** Incorrect: **Incentive and affordability balance** instead means: Deductibles, co-financing and risk signals may reduce moral hazard, but unaffordable pricing can exclude high-risk poor households and local bodies.
+- **C:** Correct: The scenario directly illustrates **Basis risk**: Basis risk is mismatch between parametric payout and actual loss, including severe local harm without adequate payout or payout despite limited loss.
+- **D:** Incorrect: **Response versus mitigation funds** instead means: Response funds meet eligible post-event immediate needs, while mitigation funds finance ex-ante risk reduction; response payment is not proof of future risk reduction.
 
-A. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-B. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-C. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-D. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
+### MCQ 32. Several States combine premiums, but all face the same cyclone corridor and therefore high correlation. Which concept is illustrated?
 
-**Answer: B.**
-**Explanation:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Fiscal protection
+B. Finance–outcome firewall
+C. Budgetary and contingency reserves
+D. Risk pools
 
-### Q43. Which statement uses Basis risk without changing its hazard, mandate or status?
+**Answer: D**
 
-A. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-B. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-C. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-D. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
+- **A:** Incorrect: **Fiscal protection** instead means: Fiscal protection preserves timely government financing and essential services after shocks through assessment, layered instruments, rules and debt/budget safeguards.
+- **B:** Incorrect: **Finance–outcome firewall** instead means: A corpus, allocation, premium, bond, payout, sanction or reconstruction budget proves finance only; coverage, timeliness, safer rebuilding and reduced loss need separate evidence.
+- **C:** Incorrect: **Budgetary and contingency reserves** instead means: Budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on access, replenishment and loss scale.
+- **D:** Correct: The scenario directly illustrates **Risk pools**: A risk pool combines participants and exposures to spread volatility; correlation, governance, pricing and entry rules determine real diversification.
 
-**Answer: C.**
-**Explanation:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 33. Assertion (A): An SDRF relief payment is not evidence that future disaster risk was reduced. Reason (R): Response funds and mitigation funds have different triggers and purposes.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Basis risk?
+A. Both A and R are true, and R explains A.
+B. Both A and R are true, but R does not explain A.
+C. A is true, but R is false.
+D. A is false, but R is true.
 
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-B. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-C. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-D. Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Correct: R explains why relief cannot be counted as mitigation.
+- **B:** Incorrect: R directly explains A.
+- **C:** Incorrect: both are true.
+- **D:** Incorrect: A is true.
 
-### Q45. Which statement correctly identifies Risk pools?
+### MCQ 34. Which sequence correctly tracks a mitigation-finance claim?
 
-A. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-B. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-C. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-D. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
+A. Outcome → sanction → release → project
+B. Approval/sanction → release/procurement → delivered and maintained measure → verified risk outcome
+C. Premium → loss avoided automatically → audit
+D. Fund corpus → completed project → allocation
 
-**Answer: A.**
-**Explanation:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q46. Which option preserves the risk or institutional boundary of Risk pools?
+- **A:** Incorrect: the sequence begins with authorisation, not outcome.
+- **B:** Correct: each evidence rung is distinct and ordered.
+- **C:** Incorrect: a premium does not prove avoided loss.
+- **D:** Incorrect: a corpus precedes allocation and delivery.
 
-A. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-B. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-C. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-D. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
+### MCQ 35. Match the statutory provision and fund: 1. s.46; 2. s.47; 3. s.48(a); 4. s.48(c). a. SDMF; b. NDRF fund; c. NDMF; d. SDRF.
 
-**Answer: B.**
-**Explanation:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. 1-a, 2-b, 3-c, 4-d
+B. 1-d, 2-a, 3-b, 4-c
+C. 1-b, 2-c, 3-d, 4-a
+D. 1-c, 2-d, 3-a, 4-b
 
-### Q47. Which statement uses Risk pools without changing its hazard, mandate or status?
+**Answer: C**
 
-A. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-B. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-C. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
+- **A:** Incorrect: the funds are mismatched.
+- **B:** Incorrect: s.46 is not SDRF.
+- **C:** Correct: s.46 NDRF; s.47 NDMF; s.48(a) SDRF; s.48(c) SDMF.
+- **D:** Incorrect: no complete match.
 
-**Answer: C.**
-**Explanation:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 36. A district suffers major crop loss, but the rainfall index at the reference station remains below the insurance trigger. What is the best diagnosis?
 
-### Q48. Which option avoids the standard UPSC close-option trap about Risk pools?
+A. Adverse selection.
+B. Moral hazard.
+C. Indemnity overpayment.
+D. Basis risk under parametric insurance.
 
-A. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-B. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-C. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-D. A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: applicant composition is not the issue.
+- **B:** Incorrect: behaviour after cover is not the issue.
+- **C:** Incorrect: parametric products do not indemnify exact loss.
+- **D:** Correct: local loss and index payout have diverged.
 
-### Q49. Which statement correctly identifies Catastrophe bonds?
+### MCQ 37. What is the strongest inference from the FC16 80:20 State response–mitigation split?
 
-A. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-B. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-C. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-D. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
+A. Dedicated mitigation exists, but ex-post response retains the larger formula share.
+B. India has no mitigation finance.
+C. SDRF can always be transferred to SDMF.
+D. The split proves reduced disaster loss.
 
-**Answer: A.**
-**Explanation:** A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q50. Which option preserves the risk or institutional boundary of Catastrophe bonds?
+- **A:** Correct: the architecture includes mitigation but weights response more heavily.
+- **B:** Incorrect: SDMF/NDMF exist.
+- **C:** Incorrect: FC16 bars SDRF-to-SDMF transfer.
+- **D:** Incorrect: allocation is not an outcome.
 
-A. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-B. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-C. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
+### MCQ 38. Which statement is incorrect?
 
-**Answer: B.**
-**Explanation:** A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. NDRF under section 46 is a fund.
+B. The National Disaster Response Fund and the National Disaster Response Force are the same institution.
+C. SDMF finances mitigation.
+D. National assistance supplements inadequate State response resources under procedure.
 
-### Q51. Which statement uses Catastrophe bonds without changing its hazard, mandate or status?
+**Answer: B**
 
-A. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-B. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-C. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
+- **A:** Incorrect as requested: this is true.
+- **B:** Correct: fund and specialist force are legally distinct.
+- **C:** Incorrect as requested: this is true.
+- **D:** Incorrect as requested: this states the escalation logic.
 
-**Answer: C.**
-**Explanation:** A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 39. Consider: 1. FC16 State funds total ₹2,04,401 crore. 2. SDRF is ₹1,63,521 crore. 3. SDMF is ₹40,880 crore. Which is correct?
 
-### Q52. Which option avoids the standard UPSC close-option trap about Catastrophe bonds?
+A. 1 only
+B. 1 and 2 only
+C. 1, 2 and 3
+D. 2 and 3 only
 
-A. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-B. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-C. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-D. A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** A catastrophe bond transfers a defined layer of catastrophe risk to capital-market investors through specified triggers and loss of principal or interest; it should be used conceptually unless a dated official deployment is verified. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: all three figures are correct.
+- **B:** Incorrect: statement 3 is also correct.
+- **C:** Correct: the official MHA page records all three.
+- **D:** Incorrect: statement 1 is also correct.
 
-### Q53. Which statement correctly identifies Moral hazard and adverse selection?
+### MCQ 40. A housing grant requires rapid rebuilding in the old hazard zone and excludes tenants without title. Which BBB assessment is best?
 
-A. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-B. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-C. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-D. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
+A. The grant is automatically BBB because it funds reconstruction.
+B. Speed alone proves recovery quality.
+C. Tenure and siting are outside finance analysis.
+D. The design risks reproducing exposure and exclusion; BBB needs safer siting, participation and tenure/livelihood safeguards.
 
-**Answer: A.**
-**Explanation:** Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q54. Which option preserves the risk or institutional boundary of Moral hazard and adverse selection?
-
-A. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-B. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-C. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-D. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-
-**Answer: B.**
-**Explanation:** Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q55. Which statement uses Moral hazard and adverse selection without changing its hazard, mandate or status?
-
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-B. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-C. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-D. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-
-**Answer: C.**
-**Explanation:** Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Moral hazard and adverse selection?
-
-A. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-B. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-C. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-D. Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-
-**Answer: D.**
-**Explanation:** Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q57. Which statement correctly identifies Fiscal protection?
-
-A. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-B. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-C. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-
-**Answer: A.**
-**Explanation:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q58. Which option preserves the risk or institutional boundary of Fiscal protection?
-
-A. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-B. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-C. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-
-**Answer: B.**
-**Explanation:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q59. Which statement uses Fiscal protection without changing its hazard, mandate or status?
-
-A. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-B. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-C. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-D. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-
-**Answer: C.**
-**Explanation:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Fiscal protection?
-
-A. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-B. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-C. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-D. Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-
-**Answer: D.**
-**Explanation:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q61. Which statement correctly identifies Damage loss and needs assessment?
-
-A. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-B. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-C. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-
-**Answer: A.**
-**Explanation:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q62. Which option preserves the risk or institutional boundary of Damage loss and needs assessment?
-
-A. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-B. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-C. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-D. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-
-**Answer: B.**
-**Explanation:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q63. Which statement uses Damage loss and needs assessment without changing its hazard, mandate or status?
-
-A. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-B. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-C. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-D. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-
-**Answer: C.**
-**Explanation:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Damage loss and needs assessment?
-
-A. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-B. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-C. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-D. Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-
-**Answer: D.**
-**Explanation:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q65. Which statement correctly identifies Build Back Better?
-
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-B. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-C. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-D. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-
-**Answer: A.**
-**Explanation:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q66. Which option preserves the risk or institutional boundary of Build Back Better?
-
-A. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-B. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-C. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-D. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-
-**Answer: B.**
-**Explanation:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q67. Which statement uses Build Back Better without changing its hazard, mandate or status?
-
-A. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-B. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-C. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-D. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-
-**Answer: C.**
-**Explanation:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Build Back Better?
-
-A. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-B. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-C. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-
-**Answer: D.**
-**Explanation:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q69. Which statement correctly identifies BBB safeguards?
-
-A. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-B. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-C. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-D. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-
-**Answer: A.**
-**Explanation:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q70. Which option preserves the risk or institutional boundary of BBB safeguards?
-
-A. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-B. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-C. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-D. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-
-**Answer: B.**
-**Explanation:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q71. Which statement uses BBB safeguards without changing its hazard, mandate or status?
-
-A. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-B. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-C. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-D. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-
-**Answer: C.**
-**Explanation:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about BBB safeguards?
-
-A. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-B. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-C. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-D. Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-
-**Answer: D.**
-**Explanation:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q73. Which statement correctly identifies Incentive and affordability balance?
-
-A. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-B. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-C. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-D. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-
-**Answer: A.**
-**Explanation:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q74. Which option preserves the risk or institutional boundary of Incentive and affordability balance?
-
-A. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-B. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-C. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-D. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-
-**Answer: B.**
-**Explanation:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q75. Which statement uses Incentive and affordability balance without changing its hazard, mandate or status?
-
-A. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-B. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-C. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-D. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-
-**Answer: C.**
-**Explanation:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Incentive and affordability balance?
-
-A. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-B. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-C. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-D. Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-
-**Answer: D.**
-**Explanation:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q77. Which statement correctly identifies Finance-outcome firewall?
-
-A. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-B. Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-C. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-D. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-
-**Answer: A.**
-**Explanation:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q78. Which option preserves the risk or institutional boundary of Finance-outcome firewall?
-
-A. Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-B. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-C. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-D. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-
-**Answer: B.**
-**Explanation:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q79. Which statement uses Finance-outcome firewall without changing its hazard, mandate or status?
-
-A. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-B. The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-C. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-D. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-
-**Answer: C.**
-**Explanation:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Finance-outcome firewall?
-
-A. Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-B. Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-C. Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-D. A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-
-**Answer: D.**
-**Explanation:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: reconstruction spending alone is insufficient.
+- **B:** Incorrect: speed can worsen risk.
+- **C:** Incorrect: both are BBB safeguards.
+- **D:** Correct: BBB must reduce exposure and protect affected persons, tenure and livelihoods.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### PYQ OWNERSHIP AND KEY AUDIT
 
-No audited 2024-2025 GS-III question directly owns disaster finance. The 2024 resilience question is the closest conceptual route; the 2020 proactive-management and 2024 urban-flood cards are bounded adjacent applications.
+No direct Topic-16 PYQ was found. The following are shared/application routes. All are Mains: **options not applicable; answer key not applicable**.
 
-### PYQ DEMAND CARD 1 — 2024 GS-III
+### SHARED PYQ 1 — 2024 GS-III Q17 — 15 marks, 250 words
 
-**Demand:** Describe disaster resilience, how it is determined and the elements of the Sendai Framework.
+**Question:** What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also mention the global targests of Sendai Framework for Disaster Risk Reduction (2015-2030).
 
-**Status:** Verified support route: disaster finance contributes investment, fiscal protection, continuity and Build Back Better but is not itself the complete resilience definition.
+**Provenance:** Local official UPSC 2024 GS-III extract; Topic 01 primary, Topic 16 owns the finance/BBB support layer.
 
-**Model solution:** **Ex-ante finance:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Response versus mitigation funds:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Budgetary and contingency reserves:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Risk layering:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Fiscal protection:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Build Back Better:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **BBB safeguards:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Finance-outcome firewall:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Options:** Not applicable — Mains.
+**Key:** Not applicable — Mains.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2024 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Model answer (181 words):**
 
-**Detailed examiner-grade model answer:**
+Disaster resilience is the capacity to resist, absorb, adapt to and recover from hazards while preserving essential functions. It is determined through hazard, exposure, vulnerability and capacity, including fiscal capacity, continuity finance, insured/uninsured loss and restoration time.
 
-**Introduction and thesis:** **Ex-ante finance:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Response versus mitigation funds:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Budgetary and contingency reserves:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Risk layering:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Fiscal protection:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Build Back Better:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **BBB safeguards:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Finance-outcome firewall:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+A resilience framework needs risk assessment; governance; risk-sensitive planning and standards; warning and preparedness; robust services; inclusive response; and finance across the cycle. Ex-ante SDMF/NDMF investment reduces risk, reserves and contingent finance provide liquidity, insurance or pools transfer defined financial layers, and scalable social protection reaches households. Ex-post SDRF/NDRF relief remains necessary but is not mitigation. Recovery should apply Build Back Better to safer siting, assets, institutions and livelihoods.
 
-**Analytical body:**
+Sendai targets reduce mortality, affected people, economic loss relative to GDP, and critical-infrastructure/basic-service disruption; and increase national/local DRR strategies, international cooperation, and access to multi-hazard warning/risk information. Target E used 2020; others use 2030.
 
-1. **Claim:** Demand: Describe disaster resilience, how it is determined and the elements of the Sendai Framework. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified support route: disaster finance contributes investment, fiscal protection, continuity and Build Back Better but is not itself the complete resilience definition. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+Finance is an enabling element, not proof of resilience. A corpus, payout or reconstruction budget must be traced to timely, equitable coverage, maintained service, safer rebuilding and reduced future loss. Sendai is voluntary and non-binding.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Why this earns marks:** It uses exact finance instruments and status verbs, links money to risk/service outcomes and preserves the primary-topic boundary.
 
-**Qualified conclusion:** **Ex-ante finance:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Response versus mitigation funds:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Budgetary and contingency reserves:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Risk layering:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Fiscal protection:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Build Back Better:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **BBB safeguards:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Finance-outcome firewall:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### APPLICATION PYQ 1 — 2024 GS-III Q18 — 15 marks, 250 words
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Question:** Flooding in urban areas is as emerging climate-induced disaster. Discuss the causes of this disaster. Mention the features of two major floods in the last two decades in India. Describe the policies and frameworks in India that aim at tackling such floods.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Provenance:** Local official UPSC 2024 GS-III extract; Topic 08 primary, Topic 16 supplies finance/status application.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2024 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Options:** Not applicable — Mains.
+**Key:** Not applicable — Mains.
 
-### PYQ DEMAND CARD 2 — 2020 GS-III
+**Model answer (184 words):**
 
-**Demand:** Discuss the shift from reactive to proactive disaster management in India.
+Urban flooding combines intense rainfall or river/tidal influence with impervious surfaces, lost wetlands, blocked drains, floodplain occupation and dense exposure. Mumbai 2005 and Chennai 2015 show how exceptional rainfall interacted with drainage, reclaimed/low-lying land and altered wetlands/waterways.
 
-**Status:** Verified adjacent governance route; ex-ante mitigation, reserves, pre-arranged finance and risk transfer illustrate proactivity without claiming adequacy or outcome.
+Finance must match the cycle. ULB budgets and maintenance prevent blockage; SDMF/NDMF support ex-ante mitigation; contingency arrangements finance warning, pumping and continuity; SDRF/NDRF meet eligible immediate relief; and recovery finance should rebuild drains, utilities, housing and ecosystems to safer standards. The NDMF-financed Urban Flood Risk Management Programme is a named mitigation route. Phase 2 for 11 cities was approved in October 2025 for ₹2,444.42 crore.
 
-**Model solution:** **Ex-ante finance:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Ex-post finance:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. **Four-fund statutory grid:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Response versus mitigation funds:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Budgetary and contingency reserves:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Pre-arranged finance:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Fiscal protection:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Finance-outcome firewall:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The status verb matters: approval is not release, procurement, completion, maintenance or avoided loss. Insurance may transfer property loss but cannot replace land-use control or protect uninsured informal households. Social protection and accessible services are needed for equity. Section 41A UDMAs, where notified, can coordinate plans, but do not create finance automatically.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2020 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Thus the correct framework combines risk-informed investment, pre-arranged liquidity, relief and BBB, judged by drainage performance, service continuity, restoration time and distributional outcomes.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It uses exact finance instruments and status verbs, links money to risk/service outcomes and preserves the primary-topic boundary.
 
-**Introduction and thesis:** **Ex-ante finance:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Ex-post finance:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. **Four-fund statutory grid:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Response versus mitigation funds:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Budgetary and contingency reserves:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Pre-arranged finance:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Fiscal protection:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Finance-outcome firewall:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### APPLICATION PYQ 2 — 2023 GS-III Q7 — 10 marks, 150 words
 
-**Analytical body:**
+**Question:** Dam failures are always catastrophic, especially on the downstream side, resulting in a colossal loss of life and property. Analyze the various causes of dam failures. Give two examples of large dam failures.
 
-1. **Claim:** Demand: Discuss the shift from reactive to proactive disaster management in India. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified adjacent governance route; ex-ante mitigation, reserves, pre-arranged finance and risk transfer illustrate proactivity without claiming adequacy or outcome. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Provenance:** Repository-verified 2023 GS-III routed wording; Topic 08 primary, Topic 16 contributes finance/BBB application.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Options:** Not applicable — Mains.
+**Key:** Not applicable — Mains.
 
-**Qualified conclusion:** **Ex-ante finance:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Ex-post finance:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. **Four-fund statutory grid:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Response versus mitigation funds:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Budgetary and contingency reserves:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Pre-arranged finance:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Fiscal protection:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Finance-outcome firewall:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer (142 words):**
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+Dam failures arise from overtopping and inadequate spillway capacity; structural, foundation or seepage defects; ageing and maintenance failure; operational or gate error; external hazards; and weak surveillance, warning and emergency planning. Machhu II, Morbi (1979), illustrates extreme inflow, discharge-capacity, overtopping and warning lessons; Banqiao, China (1975), illustrates extreme rainfall and cascading dam-system failure.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+Finance should not begin after breach. Ex-ante mitigation funds can support instrumentation, maintenance, inundation maps and warning; contingency arrangements finance evacuation and emergency works. Post-event response funds meet immediate relief, while recovery-needs assessment should finance safer reconstruction and alternate lifelines under BBB.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2020 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+Insurance or a payout transfers financial loss but does not reduce downstream exposure. Likewise, an allocated corpus or inspection budget proves only an input. Accountability requires transparent damage, loss and needs assessments, timely household support, restored services and evidence that rebuilt structures and operations reduce repeat risk.
 
-### PYQ DEMAND CARD 3 — 2024 GS-III
+**Why this earns marks:** It uses exact finance instruments and status verbs, links money to risk/service outcomes and preserves the primary-topic boundary.
 
-**Demand:** Discuss urban flooding as a climate-induced disaster and the policies and frameworks in India that aim at tackling it.
+### APPLICATION PYQ 3 — 2026 GS-III Q7 — 10 marks, 150 words
 
-**Status:** Verified cross-owned route led by Topic 08; this card contributes only mitigation finance, fiscal layering and BBB safeguards for urban assets.
+**Question:** Discuss how the contradiction between "rapid infrastructure development" and "disaster-risk reduction" in ecologically-sensitive areas of India can be managed, with suitable examples.
 
-**Model solution:** **Ex-ante finance:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Four-fund statutory grid:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Response versus mitigation funds:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Budgetary and contingency reserves:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Fiscal protection:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Build Back Better:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **BBB safeguards:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Finance-outcome firewall:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Provenance:** Repository-verified `_PYQ-GS3-2026.md`; Topic 10 primary, Topic 16 application through finance and lifecycle incentives.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2024 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Options:** Not applicable — Mains.
+**Key:** Not applicable — Mains.
 
-**Detailed examiner-grade model answer:**
+**Model answer (141 words):**
 
-**Introduction and thesis:** **Ex-ante finance:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Four-fund statutory grid:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Response versus mitigation funds:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Budgetary and contingency reserves:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Fiscal protection:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Build Back Better:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **BBB safeguards:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Finance-outcome firewall:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The contradiction persists when project finance rewards construction but externalises lifecycle risk. In Himalayan roads or hydropower, financing should require cumulative slope, drainage, seismic and cascade assessment; coastal projects should account for surge, erosion and ecosystem buffers.
 
-**Analytical body:**
+Ex-ante mitigation grants, risk-informed appraisal, independent design review, maintenance escrow, performance-linked disbursement and transparent contingency plans align incentives. Insurance or catastrophe cover can transfer a severe financial layer, but should not substitute for safe siting and standards. Local participation and livelihood safeguards reduce inequitable risk transfer.
 
-1. **Claim:** Demand: Discuss urban flooding as a climate-induced disaster and the policies and frameworks in India that aim at tackling it. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified cross-owned route led by Topic 08; this card contributes only mitigation finance, fiscal layering and BBB safeguards for urban assets. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+Public finance should compare avoided loss and service continuity, not only capital cost. Contracts must allocate monitoring, repair and decommissioning duties; emergency finance and alternate lifelines should be pre-arranged. However, sanction, insurance and environmental conditions are inputs. Resilience is demonstrated only when infrastructure remains safe, essential services recover quickly and downstream communities do not bear uncompensated residual risk.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Why this earns marks:** It uses exact finance instruments and status verbs, links money to risk/service outcomes and preserves the primary-topic boundary.
 
-**Qualified conclusion:** **Ex-ante finance:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Four-fund statutory grid:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Response versus mitigation funds:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Budgetary and contingency reserves:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Fiscal protection:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Build Back Better:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **BBB safeguards:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Finance-outcome firewall:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### APPLICATION PYQ 4 — 2020 GS-III Q18 — 15 marks, 250 words
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Question:** Discuss the shift from reactive to proactive disaster management in India.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Provenance:** Repository-verified routed demand; Topic 02 primary. Topic 16 supplies the ex-ante finance application.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2024 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Options:** Not applicable — Mains.
+**Key:** Not applicable — Mains.
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**Model answer (181 words):**
 
-**Question:** Distinguish ex-ante finance, ex-post finance, response funds and mitigation funds. Answer in about 150 words.
+India's shift from reactive relief to proactive risk management is visible in law, planning, warning, mitigation investment and preparedness. The DM Act created institutions across levels; hazard guidelines, warning systems, plans, drills and pre-positioning move action before impact.
 
-**Model thesis:** **Claim:** Ex-ante finance. **Named evidence/example:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ex-post finance. **Named evidence/example:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Four-fund statutory grid. **Named evidence/example:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Response versus mitigation funds. **Named evidence/example:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Finance shows the same transition. SDRF/NDRF remain essential ex-post response funds, but commencement of the national mitigation provision and FC15/FC16 SDMF–NDMF windows created dedicated ex-ante funding. FC16 retains an 80:20 State response–mitigation split; contingent reserves, pre-arranged credit, insurance or pools can add rapid liquidity, while social protection reaches households.
 
-**Claim → named evidence → analysis → qualification:**
+Proactivity also requires risk-informed appraisal, codes, ecosystem measures, continuity plans and transparent loss data. Recovery should use BBB rather than reproduce unsafe siting and services. The 2025 disaster-database provisions can strengthen allocation/expenditure records.
 
-- Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-- Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive.
-- The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-- Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
+However, a mitigation corpus, warning or insurance contract does not prove reduced risk. Mitigation remains the smaller window, State/local capacity varies, and risk transfer cannot replace physical reduction. The shift is therefore institutionally real but should be evaluated through timely warning action, maintained services, equitable protection, safer reconstruction and lower future fiscal loss—not expenditure alone.
 
-**Qualified conclusion:** **Claim:** Ex-ante finance. **Named evidence/example:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ex-post finance. **Named evidence/example:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Four-fund statutory grid. **Named evidence/example:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Response versus mitigation funds. **Named evidence/example:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Why this earns marks:** It connects the governance shift to exact ex-ante/ex-post finance instruments and preserves the finance-to-outcome boundary.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish ex-ante finance, ex-post finance, response funds and mitigation funds. Answer in…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+## ORIGINAL MAINS PRACTICE
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL 1 — 10 marks, 150 words
 
-**Introduction and thesis:** **Claim:** Ex-ante finance. **Named evidence/example:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ex-post finance. **Named evidence/example:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Four-fund statutory grid. **Named evidence/example:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Response versus mitigation funds. **Named evidence/example:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Question:** Distinguish the four statutory disaster funds and their triggers. Answer in about 150 words.
 
-**Analytical body:**
+**Model answer (142 words):**
 
-1. **Claim:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+The Disaster Management Act creates a purpose-and-level grid. Section 46 provides the National Disaster Response Fund, which supplements a State when a severe disaster exceeds available SDRF resources. Section 47 provides the National Disaster Mitigation Fund for ex-ante risk reduction. Section 48 provides the State Disaster Response Fund for eligible immediate relief and the State Disaster Mitigation Fund for State-level mitigation.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Thus NDRF/SDRF are event-triggered response funds; NDMF/SDMF are plan- or project-triggered mitigation funds. The current FC16 State split is 80% response and 20% mitigation. The national ₹79,406-crore pool uses a 75% NDRF and maximum 25% NDMF rule.
 
-**Qualified conclusion:** **Claim:** Ex-ante finance. **Named evidence/example:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ex-post finance. **Named evidence/example:** Ex-post finance is mobilised after impact through budget reallocation, supplementary grants, borrowing, relief funds, appeals or other measures; it can be necessary but may be slow and fiscally disruptive. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Four-fund statutory grid. **Named evidence/example:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Response versus mitigation funds. **Named evidence/example:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Three cautions matter: NDRF fund is not the response Force; relief payment is not proof of mitigation or complete recovery; and corpus/allocation is not expenditure or outcome. A sound answer names section, level, purpose and trigger before citing any amount.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and respects the stated limit.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+### ORIGINAL 2 — 10 marks, 150 words
 
-**How to improve this answer:** For ‘Distinguish ex-ante finance, ex-post finance, response funds and mitigation funds. Answer in…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Question:** Explain ex-ante, ex-post and risk-transfer finance through a risk-layering framework. Answer in about 150 words.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+**Model answer (146 words):**
 
-**Question:** Differentiate indemnity and parametric insurance and explain basis risk. Answer in about 150 words.
+Ex-ante finance is arranged before disaster for mitigation, preparedness, contingent response or pre-agreed recovery. Ex-post finance is mobilised after impact through reallocation, grants, borrowing, response funds or appeals. Risk transfer shifts a defined financial layer to an insurer, pool or capital-market investor.
 
-**Model thesis:** **Claim:** Indemnity insurance. **Named evidence/example:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Parametric insurance. **Named evidence/example:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Basis risk. **Named evidence/example:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Risk layering matches instruments to loss frequency. Frequent smaller losses may be retained through household, utility or budget reserves. Medium losses may use contingent credit, insurance or diversified pools. Rare severe losses may require sovereign support, reinsurance, catastrophe bonds or international assistance.
 
-**Claim → named evidence → analysis → qualification:**
+The layers solve different problems. A reserve or credit line improves liquidity but does not reduce physical risk. Indemnity cover aligns payout to verified loss but may be slow; parametric cover is rapid but creates basis risk. Ex-post relief protects life but can disrupt budgets. Therefore finance should accompany mitigation, social protection and BBB, with transparent triggers, affordable access and outcome monitoring.
 
-- Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-- Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-- Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and respects the stated limit.
 
-**Qualified conclusion:** **Claim:** Indemnity insurance. **Named evidence/example:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Parametric insurance. **Named evidence/example:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Basis risk. **Named evidence/example:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+### ORIGINAL 3 — 15 marks, 250 words
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Differentiate indemnity and parametric insurance and explain basis risk. Answer in about 150…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Question:** Assess India's current disaster-finance architecture under the Sixteenth Finance Commission. Answer in about 250 words.
 
-**Detailed examiner-grade model answer:**
+**Model answer (227 words):**
 
-**Introduction and thesis:** **Claim:** Indemnity insurance. **Named evidence/example:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Parametric insurance. **Named evidence/example:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Basis risk. **Named evidence/example:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+India has moved from a response-dominant system to a statutory four-fund architecture, but the balance remains asymmetric. For 2026–31 the official MHA page records ₹2,04,401 crore for State disaster funds: SDRF ₹1,63,521 crore and SDMF ₹40,880 crore, an 80:20 split. The national NDRF+NDMF pool is ₹79,406 crore, with 75% earmarked for response and a maximum 25% for mitigation.
 
-**Analytical body:**
+Strengths include predictable State allocations; 75:25 and 90:10 Centre–State sharing; retention of dedicated mitigation windows; a 30% Disaster Risk Index component in inter-State allocation; and project financing such as UFRMP and wetland restoration. The current notified list also includes heatwave and lightning, while the 10% local-disaster window preserves limited State flexibility.
 
-1. **Claim:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+Limitations are structural. Mitigation receives the smaller share and is project/HLC dependent; SDRF cannot be transferred to SDMF. Past expenditure carries 70% allocation weight, which may reward response spending more than avoided loss. Immediate relief is not full recovery or BBB. State assessment and implementation capacity vary. Corpus figures reveal neither timely release nor household coverage.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+The 2025 Amendment's disaster-database provisions can improve fund-allocation and expenditure records, but operational/public availability must be verified. Reform should strengthen risk-based appraisal, local capacity, transparent damage/loss/needs assessment, social protection and outcome metrics. The architecture is necessary; adequacy depends on whether finance reduces future risk and restores services equitably.
 
-**Qualified conclusion:** **Claim:** Indemnity insurance. **Named evidence/example:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Parametric insurance. **Named evidence/example:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Basis risk. **Named evidence/example:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and respects the stated limit.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+### ORIGINAL 4 — 15 marks, 250 words
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Question:** Evaluate insurance, catastrophe bonds, risk pools and social protection as disaster-risk financing tools. Answer in about 250 words.
 
-**How to improve this answer:** For ‘Differentiate indemnity and parametric insurance and explain basis risk. Answer in about 150…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Model answer (226 words):**
 
-### ORIGINAL MAINS 3 — 15 MARKS
+These tools address different layers and beneficiaries. Indemnity insurance pays verified covered loss and can align payment with damage, but exclusions, deductibles and assessment delay matter. Parametric insurance pays on an index trigger, providing speed while creating basis risk. Risk pools spread volatility across participants only when exposures are sufficiently diversified and governance and pricing are credible.
 
-**Question:** Explain disaster-risk layering across sovereign, subnational, utility and household levels. Answer in about 250 words.
+Catastrophe bonds transfer a defined severe-loss layer to investors through specified triggers and possible loss of principal or interest. They can add capacity beyond insurance markets, but require reliable hazard/loss data, specialist transaction costs and transparent triggers. CDRI names catastrophe bonds conceptually; widespread Indian use should not be assumed without dated evidence.
 
-**Model thesis:** **Claim:** Budgetary and contingency reserves. **Named evidence/example:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Pre-arranged finance. **Named evidence/example:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk layering. **Named evidence/example:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereign subnational household layers. **Named evidence/example:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk pools. **Named evidence/example:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Social protection reaches uninsured households through scalable cash, food, employment, health or housing support. It requires inclusive registries, portable payments, contingency rules and grievance redress; otherwise migrants and informal workers may be excluded.
 
-**Claim → named evidence → analysis → qualification:**
+Trade-offs are unavoidable. Risk-based premiums support incentives but can price out the poor; subsidies improve access but need targeting. Deductibles reduce moral hazard but burden households without savings. Sovereign cover may protect the treasury while failing local services or families.
 
-- Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-- Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-- Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-- The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-- A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
+A layered system should retain predictable small losses, insure/pool suitable medium layers, transfer rare severe layers and guarantee social protection. All instruments must complement mitigation and BBB. Success is timely, adequate and equitable recovery—not premium volume, bond issuance or payout alone.
 
-**Qualified conclusion:** **Claim:** Budgetary and contingency reserves. **Named evidence/example:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Pre-arranged finance. **Named evidence/example:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk layering. **Named evidence/example:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereign subnational household layers. **Named evidence/example:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk pools. **Named evidence/example:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and respects the stated limit.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain disaster-risk layering across sovereign, subnational, utility and household levels.…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+### ORIGINAL 5 — 20 marks, 300 words
 
-**Detailed examiner-grade model answer:**
+**Question:** Explain how disaster finance can operationalise Build Back Better without reproducing pre-disaster vulnerability. Answer in about 300 words.
 
-**Introduction and thesis:** **Claim:** Budgetary and contingency reserves. **Named evidence/example:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Pre-arranged finance. **Named evidence/example:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk layering. **Named evidence/example:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereign subnational household layers. **Named evidence/example:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk pools. **Named evidence/example:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (263 words):**
 
-**Analytical body:**
+Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than restore the pre-disaster condition. Finance operationalises it only when assessment, allocation, design, delivery and maintenance are linked.
 
-1. **Claim:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+First, damage, economic loss and recovery needs must be assessed separately. A destroyed building value does not reveal lost income, service dependencies or resources required for safer relocation. Baselines, unit costs, indirect loss and distribution should be transparent.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Second, finance should support safe siting, updated codes, retrofit, resilient utilities, ecosystem buffers and continuity systems. CDRI's source framework explicitly applies BBB to management systems as well as structures. Pre-arranged contracts, spares and contingent finance can reduce recovery delay.
 
-**Qualified conclusion:** **Claim:** Budgetary and contingency reserves. **Named evidence/example:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Pre-arranged finance. **Named evidence/example:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk layering. **Named evidence/example:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereign subnational household layers. **Named evidence/example:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk pools. **Named evidence/example:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Third, owner and community participation must shape housing, livelihood and service choices. Tenure security, accessibility, gender and disability needs, host-community effects and grievance remedy prevent “safer” reconstruction from becoming exclusionary displacement. Cash and social protection should bridge livelihood recovery while infrastructure is rebuilt.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+Fourth, incentives matter. Insurance claims or public grants can require feasible mitigation, but unaffordable deductibles and rigid conditions may exclude poor households. Debt-financed recovery can threaten fiscal sustainability. Rapid visible construction can crowd out planning and maintenance.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+Fifth, accountability must follow the evidence ladder: budget approved, funds released, procurement completed, asset delivered, service restored, maintenance financed and future risk reduced. The 2025 disaster-database provisions can record allocation and expenditure, but public access and outcome use require verification.
 
-**How to improve this answer:** For ‘Explain disaster-risk layering across sovereign, subnational, utility and household levels.…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+BBB therefore needs an integrated recovery plan, not a construction slogan. Finance earns the label only when rebuilt settlements, lifelines, institutions and livelihoods are safer, inclusive, maintainable and demonstrably less vulnerable to the next hazard.
 
-### ORIGINAL MAINS 4 — 15 MARKS
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and respects the stated limit.
 
-**Question:** Analyse moral hazard, adverse selection, affordability and fiscal-protection safeguards. Answer in about 250 words.
+### ORIGINAL 6 — 20 marks, 300 words
 
-**Model thesis:** **Claim:** Moral hazard and adverse selection. **Named evidence/example:** Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incentive and affordability balance. **Named evidence/example:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Question:** Critically examine the fiscal, federal and equity trade-offs in India's disaster-finance system. Answer in about 300 words.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (280 words):**
 
-- Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems.
-- Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-- Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-- A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
+India's federal design makes the SDRF the primary State response fund and the national fund supplementary when a severe disaster exceeds available State resources. This promotes State responsibility and predictable cost sharing, but assumes comparable risk assessment, administrative capacity and fiscal space across States.
 
-**Qualified conclusion:** **Claim:** Moral hazard and adverse selection. **Named evidence/example:** Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incentive and affordability balance. **Named evidence/example:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+FC16 improves predictability through ₹2,04,401 crore in State funds for 2026–31 and 75:25/90:10 sharing. Yet the 80:20 response–mitigation split preserves ex-post dominance. Mitigation is project-approval-dependent and cannot be topped up from SDRF, while preparedness now also draws on the smaller mitigation window. The 70% past-expenditure weight may reward spending rather than avoided loss; the 30% Disaster Risk Index is only a partial correction.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse moral hazard, adverse selection, affordability and fiscal-protection safeguards.…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Fiscal trade-offs extend beyond corpus size. Reserves provide liquidity but retain sovereign risk; contingent credit may increase debt; insurance and bonds transfer selected layers but require premiums, data and clear triggers. Immediate relief cannot finance complete rehabilitation and BBB. Debt-financed reconstruction can shift burdens to future taxpayers.
 
-**Detailed examiner-grade model answer:**
+Equity is equally important. Risk-based premiums may exclude high-risk poor households whose exposure reflects historical planning failures. Deductibles and digital claims can delay support; sovereign insurance may protect budgets without protecting informal workers or municipal services. Scalable social protection, accessible grievance systems and targeted premium support are therefore necessary.
 
-**Introduction and thesis:** **Claim:** Moral hazard and adverse selection. **Named evidence/example:** Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incentive and affordability balance. **Named evidence/example:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+The 14-disaster list and 10% local window improve eligibility flexibility, but listing does not ensure adequate relief or prevention. The 2025 disaster database can support transparency, yet allocation, expenditure, public disclosure and outcome remain separate.
 
-**Analytical body:**
+A better system should increase stable ex-ante investment, strengthen State/local capacity, use risk and vulnerability—not only expenditure—to allocate, layer instruments transparently, protect the uninsured and evaluate continuity, safer recovery and reduced future liability.
 
-1. **Claim:** Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Moral hazard and adverse selection. **Named evidence/example:** Moral hazard is changed behaviour after protection reduces the perceived cost of loss, while adverse selection arises when higher-risk participants are more likely to seek cover; design, pricing and safeguards address different problems. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incentive and affordability balance. **Named evidence/example:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Analyse moral hazard, adverse selection, affordability and fiscal-protection safeguards.…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Design a pre-arranged disaster-finance strategy combining reserves, contingent finance, insurance and transparent assessment. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Ex-ante finance. **Named evidence/example:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Budgetary and contingency reserves. **Named evidence/example:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Pre-arranged finance. **Named evidence/example:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk layering. **Named evidence/example:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereign subnational household layers. **Named evidence/example:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Indemnity insurance. **Named evidence/example:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Parametric insurance. **Named evidence/example:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Basis risk. **Named evidence/example:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk pools. **Named evidence/example:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Damage loss and needs assessment. **Named evidence/example:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing.
-- Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss.
-- Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction.
-- Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support.
-- The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services.
-- Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement.
-- Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk.
-- Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited.
-- A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real.
-- Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-- Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-- A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-
-**Qualified conclusion:** **Claim:** Ex-ante finance. **Named evidence/example:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Budgetary and contingency reserves. **Named evidence/example:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Pre-arranged finance. **Named evidence/example:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk layering. **Named evidence/example:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereign subnational household layers. **Named evidence/example:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Indemnity insurance. **Named evidence/example:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Parametric insurance. **Named evidence/example:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Basis risk. **Named evidence/example:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk pools. **Named evidence/example:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Damage loss and needs assessment. **Named evidence/example:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on ‘Design a pre-arranged disaster-finance strategy combining reserves, contingent finance,…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Ex-ante finance. **Named evidence/example:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Budgetary and contingency reserves. **Named evidence/example:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Pre-arranged finance. **Named evidence/example:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk layering. **Named evidence/example:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereign subnational household layers. **Named evidence/example:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Indemnity insurance. **Named evidence/example:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Parametric insurance. **Named evidence/example:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Basis risk. **Named evidence/example:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk pools. **Named evidence/example:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Damage loss and needs assessment. **Named evidence/example:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-9. **Claim:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-10. **Claim:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-11. **Claim:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-12. **Claim:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Ex-ante finance. **Named evidence/example:** Ex-ante disaster finance is arranged before an event for prevention, mitigation, preparedness, contingent response or pre-agreed recovery; timing alone does not make an instrument risk reducing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Budgetary and contingency reserves. **Named evidence/example:** Annual budget provisions and contingency reserves retain risk on the public balance sheet but improve liquidity; adequacy depends on rules, replenishment, accessibility and the scale and timing of loss. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Pre-arranged finance. **Named evidence/example:** Pre-arranged finance fixes eligibility, trigger, amount or drawdown procedure before a disaster so funds can arrive faster; speed does not ensure good targeting, sufficient volume or risk reduction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk layering. **Named evidence/example:** Risk layering matches frequent lower-severity losses, less frequent medium losses and rare severe losses with different combinations of retention, reserves, contingent credit, insurance and external support. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereign subnational household layers. **Named evidence/example:** The Union, States, local bodies, utilities, firms and households face different fiscal capacities and loss types; transferring sovereign risk does not automatically protect uninsured households or municipal services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Indemnity insurance. **Named evidence/example:** Indemnity insurance pays for verified covered loss subject to policy terms, exclusions, deductibles and limits; loss assessment supports alignment but may delay settlement. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Parametric insurance. **Named evidence/example:** Parametric insurance pays when a pre-agreed measurable index crosses a threshold, regardless of exact realised loss; it can be rapid but creates basis risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Basis risk. **Named evidence/example:** Basis risk is the mismatch between a parametric payout and actual loss, including no or low payout despite severe local harm or a payout where losses are limited. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk pools. **Named evidence/example:** A risk pool combines diversified participants or exposures and common financing arrangements to spread volatility; correlation, governance, pricing and entry rules determine whether diversification is real. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Damage loss and needs assessment. **Named evidence/example:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Design a pre-arranged disaster-finance strategy combining reserves, contingent finance,…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Critically evaluate Build Back Better as a financial and governance principle rather than a reconstruction slogan. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Four-fund statutory grid. **Named evidence/example:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Response versus mitigation funds. **Named evidence/example:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Damage loss and needs assessment. **Named evidence/example:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Build Back Better. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** BBB safeguards. **Named evidence/example:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incentive and affordability balance. **Named evidence/example:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused.
-- Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced.
-- Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards.
-- Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate.
-- Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability.
-- Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations.
-- Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies.
-- A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence.
-
-**Qualified conclusion:** **Claim:** Four-fund statutory grid. **Named evidence/example:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Response versus mitigation funds. **Named evidence/example:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Damage loss and needs assessment. **Named evidence/example:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Build Back Better. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** BBB safeguards. **Named evidence/example:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incentive and affordability balance. **Named evidence/example:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Critically evaluate Build Back Better as a financial and governance principle rather than a…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Four-fund statutory grid. **Named evidence/example:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Response versus mitigation funds. **Named evidence/example:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Damage loss and needs assessment. **Named evidence/example:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Build Back Better. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** BBB safeguards. **Named evidence/example:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incentive and affordability balance. **Named evidence/example:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Four-fund statutory grid. **Named evidence/example:** The Disaster Management Act separates the National Disaster Response Fund under section 46, National Disaster Mitigation Fund under section 47, and State response and mitigation funds under section 48; fund and force must never be confused. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Response versus mitigation funds. **Named evidence/example:** Response funds meet eligible post-event response and relief needs, whereas mitigation funds finance ex-ante risk reduction; a response payment is not proof that future risk was reduced. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fiscal protection. **Named evidence/example:** Fiscal protection aims to preserve timely government financing and essential public services after shocks through risk assessment, layered instruments, transparent rules and debt or budget safeguards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Damage loss and needs assessment. **Named evidence/example:** Transparent damage, economic-loss and recovery-needs assessments serve different purposes and baselines; none should be substituted for another merely because each produces a monetary estimate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Build Back Better. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk through safer location, standards, services, institutions and livelihoods rather than recreating pre-disaster vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** BBB safeguards. **Named evidence/example:** Build Back Better requires participation, tenure and livelihood safeguards, environmental assessment, accessibility, maintenance finance and avoidance of rushed rebuilding in hazardous locations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incentive and affordability balance. **Named evidence/example:** Deductibles, co-financing, risk-based signals and mitigation conditions can reduce moral hazard, but unaffordable pricing can exclude high-risk low-income households and local bodies. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance-outcome firewall. **Named evidence/example:** A fund corpus, allocation rule, policy, premium, bond, pool, payout, sanction or reconstruction budget proves finance or transfer only; coverage, timeliness, equity, safer rebuilding and reduced fiscal loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Critically evaluate Build Back Better as a financial and governance principle rather than a…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and respects the stated limit.

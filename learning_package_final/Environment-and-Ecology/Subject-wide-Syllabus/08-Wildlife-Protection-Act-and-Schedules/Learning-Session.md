@@ -1,2931 +1,810 @@
-# Wildlife Protection Act and Schedules — Learner-v2 Complete Learning Session
+# Wildlife Protection Act and Schedules — Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.
+> **Review repair:** 28 September 2026
+> **Syllabus ownership:** Prelims — environmental ecology and biodiversity; GS-III — conservation; GS-II linkage — statutory design, institutions and rights
+> **Core rule:** Fix the legal date first. The pre-2022 six-schedule structure is historical; the four-schedule structure has operated since **1 April 2023**.
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+## Evidence and legal-currency control
 
-- **Generation date:** 2026-09-06.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision, ecological rate, species count or current status was inferred.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited ledgers route the 2020 old Schedule VI plant demand, 2022 protected-animal provisions and 2024 Indian Flying Fox vermin framing. They remain answer-free objective demands. The package fixes the legal time point and does not infer a species placement, penalty, notification or option key.
-- **Live-link boundary:** India Code returned HTTP 403 on 2026-09-06. Official state forest department copies of the 2022 amendment were retrievable only as raw or image PDF bytes and were not text-mined. MoEFCC's wildlife page was used narrowly for WCCB sections 38Y and 38Z; its stale or erroneous material was excluded. No species schedule, penalty or later amendment was inferred.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+### Repository owners and routing checked
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\08_Wildlife-Protection-Act-and-Schedules.md`
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\08_Wildlife-Protection-Act-and-Schedules.md`
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\00_Master-Framework.md`
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
+- Prelims routing ledgers for 2018–2023, 2024–2025 and 2026
+- Mains routing ledgers for 2018–2023 and 2024–2025
+- Local official papers for the routed 2018, 2020, 2022 and 2024 questions
+- Local official 2024 Set-A key; official keys are not held locally for the routed 2018, 2020 or 2022 questions
 
-The checks below were made on 2026-09-06. Substantive official text is used only for the proposition it supports. Stubs, access failures, unrelated pages and thin landing pages are recorded and are not converted into ecological or current-status claims.
+### Authoritative legal and institutional sources used
 
-- https://www.indiacode.nic.in/indiacode/handle/123456789/12931?view_type=browse — attempted 2026-09-06; India Code returned HTTP 403, so no schedule placement, penalty or provision was imported.
-- https://hpforest.gov.in/storage/files/1/Acts/Wild%20Life%20Act%20%202022%20New%20amendments.pdf — attempted 2026-09-06; an official state forest department copy of the 2022 amendment was retrievable only as raw PDF bytes, so it was logged but not text-mined.
-- https://www.forests.tn.gov.in/frontend/gos/The_Wild_Life_(Protection)_Amendment_Act,_2022_123.pdf — attempted 2026-09-06; the official state forest department PDF was image/raw-byte content, so no section, schedule or penalty was transcribed.
-- https://moef.gov.in/wildlife — attempted 2026-09-06; substantive MoEFCC text expressly linked WCCB to sections 38Y and 38Z. The page also contained visibly stale or erroneous material, so no species count, reserve count, penalty or schedule placement was taken from it.
-- https://moef.gov.in/wildlife-wl — attempted 2026-09-06; substantive MoEFCC text confirmed the Wildlife Division's legal-policy role and the four protected-area categories. It was not used to infer a species schedule or a current legal amendment.
+| ID | Source | Controlled use |
+|---|---|---|
+| INDIA-CODE | India Code, *Wild Life (Protection) Act, 1972*: `https://www.indiacode.nic.in/indiacode/handle/123456789/12931?view_type=browse` | Current section architecture. Direct fetch returned HTTP 403 during review, so section text was reconciled with the official Gazette amendment and government-hosted copies. |
+| GAZ-2022 | Gazette of India, Act 18 of 2022: `https://egazette.gov.in/WriteReadData/2022/241252.pdf` | Exact 2022 amendments, substituted Schedules and penalty changes |
+| COMMENCEMENT | MoEFCC, S.O. 1394(E), 22 March 2023: `https://moef.gov.in/storage/tender/SO1394(E).pdf` | **1 April 2023** commencement |
+| MOEF-WL | MoEFCC Wildlife Division: `https://moef.gov.in/wildlife-wl` | Ministry role and protected-area implementation context |
+| WCCB | MoEFCC, Wildlife Crime Control Bureau: `https://moef.gov.in/wildlife-crime-control-bureau` | Sections 38Y–38Z mandate |
+| NTCA | National Tiger Conservation Authority: `https://ntca.gov.in/about-us/` | Tiger-specific statutory and technical mandate |
+| CZA | WPA Sections 38A–38J in the India Code/Gazette text | Zoo recognition, standards and conservation-breeding role |
+| CITES | CITES country profile and Appendices: `https://cites.org/eng/cms/index.php/component/cp/country/IN` and `https://cites.org/eng/app/index.php` | Treaty architecture; direct access was Cloudflare-blocked, so no unstable contact detail was imported |
+| SCI-AUTH | MoEFCC Gazette notification reproduced by ICAR-CMFRI, S.O. 3548(E), 8 August 2023: `https://eprints.cmfri.org.in/17356/` | Dated designation of 23 Scientific Authority institutes |
+| TRADE-RULES | Gazette, *Wild Life (Protection) International Trade of Specimens Rules, 2023*: `https://egazette.gov.in/WriteReadData/2023/250841.pdf` | Permit/certificate procedures under Chapter VB |
+| LIVE-RULES | Gazette/Parivesh, *Living Animal Species (Reporting and Registration) Rules, 2024*: `https://cpc.parivesh.nic.in/writereaddata/Exotic_Live_Species_Rules.pdf` | Schedule IV living-animal reporting and registration |
+| ELEPHANT-RULES | MoEFCC, *Captive Elephant (Transfer or Transport) Rules, 2024*: `https://moef.gov.in/storage/tender/GSR-191(E)-Captive-Elephant-%28Transfer-or-Transport%29-Rules-2024.pdf` | Current transfer/transport procedure |
+
+### Current-law firewall
+
+| Proposition | Exam-safe statement |
+|---|---|
+| Amendment date | Act 18 of 2022 received Presidential assent on **19 December 2022** and was published on 20 December 2022. |
+| Commencement | S.O. 1394(E), dated **22 March 2023**, brought it into force on **1 April 2023**. |
+| Present schedule structure | **Schedule I and II — animals; Schedule III — specified plants; Schedule IV — CITES scheduled specimens.** |
+| Old structure | The six-schedule scheme and old Schedule V vermin list belong to the law before 1 April 2023. |
+| Species placement | Section 61 permits Schedule amendment by notification. Never infer a present species placement from an old textbook or from IUCN/CITES status alone. |
+| Bounded currency finding | No later amendment Act or wholesale schedule-substitution instrument was located in the official-source check completed on 28 September 2026. Species-level and delegated-authority claims remain notification-sensitive. |
+
+### Verified PYQ boundary
+
+- **Direct objective routes:** 2020 Q81, 2022 Q89 and 2024 Q20.
+- **Shared/application routes retained:** 2018 Q86 (invasive-species ecology), 2018 Q98 (Critical Wildlife Habitat/rights) and 2024 Q30 (native-status versus legal-status boundary).
+- **No direct Mains PYQ** is assigned to Topic 08 in the audited 2018–2025 Mains routing ledgers.
+- 2024 Q20 was **officially dropped** (`X`) in the local Set-A key; it must not be given an invented answer letter.
+- The workbook reproduces every retained objective question with full options, paper provenance and key label.
+
+---
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
+### Roadmap
 
-| Control | Binding rule for this package |
+```text
+PURPOSE + LEGAL VINTAGE
+        ↓
+1972 statute → major amendments → 2022 Act → 1 April 2023 commencement
+        ↓
+CURRENT SCHEDULES
+I animals (highest consequence) • II animals • III plants • IV CITES specimens
+        ↓
+SUBSTANTIVE CONTROLS
+hunting • specified plants • possession • trophies • trade • transport
+        ↓
+PLACE-BASED LAYER
+sanctuary • national park • conservation/community reserve • tiger reserve
+        ↓
+INSTITUTIONAL LAYER
+NBWL/SBWL • CWLW • CZA • NTCA • WCCB • CITES authorities
+        ↓
+ENFORCEMENT
+search/seizure → complaint → prosecution → penalty/forfeiture → appeal
+        ↓
+OUTCOME TEST
+notification ≠ implementation ≠ deterrence ≠ ecological recovery
+```
+
+### 1. Purpose, scope and the correct statutory name
+
+**Answer-grabbing line**
+
+> The Wild Life (Protection) Act, 1972 is not merely a species list: it links species protection, habitat governance, possession and trade control, specialised institutions and criminal enforcement in one statute.
+
+**Must-write keywords:** ecological and environmental security · wild and captive animals · specified plants · habitat · protected areas · domestic trade · CITES trade
+
+| Axis | Current legal position |
 |---|---|
-| Syllabus boundary | Complete Environment and Ecology Basic/Core is answer-complete before optional Advanced depth. |
-| Ecology boundary | System boundary, scale, trophic level, stock/flow, pool/flux, gross/net, unit and time interval are explicit. |
-| Species boundary | Taxon, range, habitat, population trend, IUCN assessment, Indian legal schedule, CITES/CMS listing and endemism remain distinct. |
-| Law/status boundary | Act, amendment, rule, notification, draft, judgment, policy, target, implementation and observed outcome remain distinct and dated. |
-| Institution boundary | Legal form, parent authority, mandate, jurisdiction, standard, consent, enforcement, science and adjudication are not conflated. |
-| Treaty boundary | Membership, annex/appendix, amendment acceptance, target, COP decision, national instrument and outcome remain distinct. |
-| Climate boundary | Emission flow, concentration stock, cumulative budget, forcing, scenario, baseline, unit, mitigation, adaptation, loss-and-damage, avoidance and removal are exact. |
-| Pollution boundary | Source, emission/load, ambient concentration, exposure, parameter, averaging period, unit, standard and jurisdiction are explicit. |
-| Causal method | Chronology, designation, expenditure, capacity, registration and correlation are not promoted into ecological or policy outcomes without mechanism and evidence. |
-| Practice contract | Every solved item has demand decoding, detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
+| Long title after 2022 | Conservation, protection and management of wild life, with a view to ecological and environmental security |
+| Territorial extent | Whole of India |
+| Species layer | Animals in Schedules I–II; specified plants in Schedule III |
+| Place layer | Sanctuaries, National Parks, Conservation Reserves, Community Reserves and tiger-reserve provisions |
+| Use/trade layer | Hunting, possession, ownership certificates, trophies/articles, transport, domestic commerce and CITES trade |
+| Institution layer | National/State Boards, Chief Wild Life Warden, CZA, NTCA, WCCB and CITES authorities |
 
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\08_Wildlife-Protection-Act-and-Schedules.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\learning-sessions\v2\subject-wide-syllabus\environment-and-ecology-08_Learning-Session.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\08_Wildlife-Protection-Act-and-Schedules.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Environment-and-Ecology\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
+The definition of **hunting** is wider than killing. It includes attempts to kill or poison, capture, course, snare, trap, drive or bait; it also covers injury, taking body parts and damage to birds’ or reptiles’ eggs or nests.
 
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
+**How to write the paragraph**
 
-- Ecological mechanisms retain direction, pool, flux, limiting factor, spatial scale and time scale.
-- Current species/news claims retain taxon, source, event/publication date, assessment/listing date and access date.
-- IUCN category never substitutes for Wildlife Protection Act schedule, CITES appendix, CMS appendix or endemism.
-- Protected-area categories, treaty designations and institution mandates retain exact legal character.
-- Acts, amendments, rules, draft instruments, notifications and judgments retain operative status and date.
-- Climate figures retain unit, baseline, period, scenario and stock-flow character; global evidence is not silently downscaled to India.
-- Mitigation, adaptation and loss-and-damage remain separate; allowance, offset, avoidance, removal, capture and storage remain separate.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile targets, standards, schedules, species status, treaty outcomes and programme claims retain source/date/status.
+> The Act’s post-2022 long title supplies its governing purpose—conservation, protection and management of wildlife for ecological and environmental security. That purpose is operationalised through species schedules, protected-area chapters, controls over hunting and commerce, and specialised bodies such as WCCB and NTCA. The statute is therefore both a conservation law and an enforcement law; however, a legal category alone does not establish ecological recovery.
 
-**Generation-local live/current sources:**
-- `https://www.indiacode.nic.in/indiacode/handle/123456789/12931?view_type=browse — attempted 2026-09-06; India Code returned HTTP 403, so no schedule placement, penalty or provision was imported.`
-- `https://hpforest.gov.in/storage/files/1/Acts/Wild%20Life%20Act%20%202022%20New%20amendments.pdf — attempted 2026-09-06; an official state forest department copy of the 2022 amendment was retrievable only as raw PDF bytes, so it was logged but not text-mined.`
-- `https://www.forests.tn.gov.in/frontend/gos/The_Wild_Life_(Protection)_Amendment_Act,_2022_123.pdf — attempted 2026-09-06; the official state forest department PDF was image/raw-byte content, so no section, schedule or penalty was transcribed.`
-- `https://moef.gov.in/wildlife — attempted 2026-09-06; substantive MoEFCC text expressly linked WCCB to sections 38Y and 38Z. The page also contained visibly stale or erroneous material, so no species count, reserve count, penalty or schedule placement was taken from it.`
-- `https://moef.gov.in/wildlife-wl — attempted 2026-09-06; substantive MoEFCC text confirmed the Wildlife Division's legal-policy role and the four protected-area categories. It was not used to infer a species schedule or a current legal amendment.`
+---
 
-**Topic 26 dedicated Disaster Management cross-owners (scope boundary):**
-- Not applicable to this topic.
+### 2. Major amendment chronology
 
-### SESSION 1 — FOUNDATION — Legal vintage and six-to-four restructuring
+**Answer-grabbing line**
 
-#### DEFINITION / WHAT THIS IS CALLED
+> The Act evolved from a hunting-and-species statute into a wider conservation, protected-area, tiger-governance, crime-control and treaty-implementation code.
 
-**Plain-language definition:** Legal vintage and six-to-four restructuring explains how Legal vintage first and Six schedules to four fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Legal vintage and six-to-four restructuring separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Legal vintage and six-to-four restructuring must be read through Legal vintage first and Six schedules to four, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Legal**
-- **vintage**
-- **six-to-four**
-- **restructuring**
-- **first**
-- **schedules**
-
-**How to use them:** Define Legal, vintage, six-to-four; attach restructuring to its source, ecological scale and status; then qualify the answer with this limit: Do not answer a pre-2022 question with the post-2022 schedule count without qualification.
-
-#### VISUAL FIRST
+**Must-write keywords:** 1972 baseline · 1986 Chapter VA · 1991 plants/CZA · 2002–03 Boards/reserves/forfeiture · 2006 NTCA/WCCB · 2022–23 CITES/four schedules
 
 ```text
-LEGAL VINTAGE AND SIX-TO-FOUR RESTRUCTURING
-01. Legal vintage first
-    |
-    v
-02. Six schedules to four
-BOUNDARY -> Do not answer a pre-2022 question with the post-2022 schedule count without qualification.
+1972
+  └─ national wildlife statute; schedules, hunting, protected areas and trade controls
+1986 — Act 28 of 1986
+  └─ Chapter VA: tighter prohibition on commerce in trophies/articles from scheduled animals
+1991 — Act 44 of 1991
+  ├─ stronger hunting prohibition
+  ├─ Chapter IIIA for specified plants
+  └─ Central Zoo Authority and zoo-recognition architecture
+2002 amendment — Act 16 of 2003
+  ├─ National and State Boards for Wild Life
+  ├─ Conservation and Community Reserves
+  └─ Chapter VIA forfeiture of property derived from illegal hunting/trade
+2006 — Act 39 of 2006
+  ├─ National Tiger Conservation Authority and tiger-reserve framework
+  └─ Wildlife Crime Control Bureau
+2022 — Act 18 of 2022; effective 1 April 2023
+  ├─ six schedules → four
+  ├─ Chapter VB for CITES trade
+  ├─ Management and Scientific Authorities
+  ├─ invasive alien species power
+  ├─ management-plan/rights changes
+  └─ revised penalties and enforcement reach
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+**How to write the paragraph**
 
-#### CORE EXPLANATION
+> The amendment history shows widening legal ambition. The 1991 amendment brought specified plants and zoo regulation into the statute; the 2002 amendment created national/state boards, community-oriented reserve categories and proceeds-of-crime forfeiture; the 2006 amendment added tiger and organised-crime institutions. Act 18 of 2022, effective from 1 April 2023, then aligned domestic law with CITES and restructured the schedules. Thus, “1972 Act” describes the parent statute, not an unchanged 1972 design.
 
-Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
+---
 
-#### NAMED EVIDENCE AND MECHANISM
+### 3. Pre-2022 six schedules versus current four schedules
 
-- Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-- The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
+**Answer-grabbing line**
 
-#### EXAMINER CAUTION
+> The schedule number is meaningful only after the legal date is fixed: old Schedule VI and current Schedule III perform the plant function, while old Schedule V has no present counterpart as a standing vermin list.
 
-- Do not answer a pre-2022 question with the post-2022 schedule count without qualification.
+**Must-write keywords:** historical six · current four · Schedule I/II animals · Schedule III plants · Schedule IV trade · Section 61 notification
 
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Open by fixing the pre- or post-2022 legal structure.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Legal vintage first -> Six schedules to four
-- **Qualified use:** Open by fixing the pre- or post-2022 legal structure.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Legal vintage and six-to-four restructuring
-EXACT TERMS: Legal | vintage | six-to-four | restructuring | first | schedules
-MECHANISM / ARGUMENT: connect Legal vintage first and Six schedules to four through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Open by fixing the pre- or post-2022 legal structure.
-UPSC TRAP / ANSWER-USE: Do not answer a pre-2022 question with the post-2022 schedule count without qualification.
-ANSWER-GRABBING FORMULATION: Legal vintage and six-to-four restructuring converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — Schedule I animals
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Schedule I animals explains how Schedule I fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Schedule I animals separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Schedule I animals must be read through Schedule I, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Schedule**
-- **animals**
-- **Under**
-- **post-**
-- **framework**
-- **lists**
-
-**How to use them:** Define Schedule, animals, Under; attach post- to its source, ecological scale and status; then qualify the answer with this limit: Do not say the current Act still has six schedules.
-
-#### VISUAL FIRST
-
-```text
-SCHEDULE I ANIMALS
-01. Schedule I
-BOUNDARY -> Do not say the current Act still has six schedules.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-
-#### EXAMINER CAUTION
-
-- Do not say the current Act still has six schedules.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** State the highest animal-protection schedule without guessing species placement.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Schedule I
-- **Qualified use:** State the highest animal-protection schedule without guessing species placement.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Schedule I animals
-EXACT TERMS: Schedule | animals | Under | post- | framework | lists
-MECHANISM / ARGUMENT: connect Schedule I through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: State the highest animal-protection schedule without guessing species placement.
-UPSC TRAP / ANSWER-USE: Do not say the current Act still has six schedules.
-ANSWER-GRABBING FORMULATION: Schedule I animals converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — Schedule II animals
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Schedule II animals explains how Schedule II fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Schedule II animals separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Schedule II animals must be read through Schedule II, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Schedule**
-- **animals**
-- **lists**
-- **receiving**
-- **lesser**
-- **degree**
-
-**How to use them:** Define Schedule, animals, lists; attach receiving to its source, ecological scale and status; then qualify the answer with this limit: Do not assign a species to Schedule I from memory without checking the current text.
-
-#### VISUAL FIRST
-
-```text
-SCHEDULE II ANIMALS
-01. Schedule II
-BOUNDARY -> Do not assign a species to Schedule I from memory without checking the current text.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-
-#### EXAMINER CAUTION
-
-- Do not assign a species to Schedule I from memory without checking the current text.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Contrast Schedule II with Schedule I while retaining legal protection.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Schedule II
-- **Qualified use:** Contrast Schedule II with Schedule I while retaining legal protection.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Schedule II animals
-EXACT TERMS: Schedule | animals | lists | receiving | lesser | degree
-MECHANISM / ARGUMENT: connect Schedule II through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Contrast Schedule II with Schedule I while retaining legal protection.
-UPSC TRAP / ANSWER-USE: Do not assign a species to Schedule I from memory without checking the current text.
-ANSWER-GRABBING FORMULATION: Schedule II animals converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — Schedule III plants
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Schedule III plants explains how Schedule III fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Schedule III plants separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Schedule III plants must be read through Schedule III, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Schedule**
-- **plants**
-- **Post-**
-- **specified**
-- **plant**
-- **third**
-
-**How to use them:** Define Schedule, plants, Post-; attach specified to its source, ecological scale and status; then qualify the answer with this limit: Do not describe Schedule II as unprotected wildlife.
-
-#### VISUAL FIRST
-
-```text
-SCHEDULE III PLANTS
-01. Schedule III
-BOUNDARY -> Do not describe Schedule II as unprotected wildlife.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-
-#### EXAMINER CAUTION
-
-- Do not describe Schedule II as unprotected wildlife.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Identify the plant schedule and its old Schedule VI lineage.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Schedule III
-- **Qualified use:** Identify the plant schedule and its old Schedule VI lineage.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Schedule III plants
-EXACT TERMS: Schedule | plants | Post- | specified | plant | third
-MECHANISM / ARGUMENT: connect Schedule III through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Identify the plant schedule and its old Schedule VI lineage.
-UPSC TRAP / ANSWER-USE: Do not describe Schedule II as unprotected wildlife.
-ANSWER-GRABBING FORMULATION: Schedule III plants converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — Schedule IV CITES specimens
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Schedule IV CITES specimens explains how Schedule IV fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Schedule IV CITES specimens separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Schedule IV CITES specimens must be read through Schedule IV, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Schedule**
-- **CITES**
-- **specimens**
-- **Post-**
-- **covers**
-- **CITES-listed**
-
-**How to use them:** Define Schedule, CITES, specimens; attach Post- to its source, ecological scale and status; then qualify the answer with this limit: Do not call post-2022 Schedule III an animal-protection tier.
-
-#### VISUAL FIRST
-
-```text
-SCHEDULE IV CITES SPECIMENS
-01. Schedule IV
-BOUNDARY -> Do not call post-2022 Schedule III an animal-protection tier.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-
-#### EXAMINER CAUTION
-
-- Do not call post-2022 Schedule III an animal-protection tier.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Describe Schedule IV as trade regulation, not a protection rung.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Schedule IV
-- **Qualified use:** Describe Schedule IV as trade regulation, not a protection rung.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Schedule IV CITES specimens
-EXACT TERMS: Schedule | CITES | specimens | Post- | covers | CITES-listed
-MECHANISM / ARGUMENT: connect Schedule IV through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Describe Schedule IV as trade regulation, not a protection rung.
-UPSC TRAP / ANSWER-USE: Do not call post-2022 Schedule III an animal-protection tier.
-ANSWER-GRABBING FORMULATION: Schedule IV CITES specimens converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — Species placement and vermin time point
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Species placement and vermin time point explains how Species placement discipline and Vermin time point fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Species placement and vermin time point separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Species placement and vermin time point must be read through Species placement discipline and Vermin time point, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Species**
-- **placement**
-- **vermin**
-- **time**
-- **point**
-- **discipline**
-
-**How to use them:** Define Species, placement, vermin; attach time to its source, ecological scale and status; then qualify the answer with this limit: Do not call Schedule IV the highest domestic protection category.
-
-#### VISUAL FIRST
-
-```text
-SPECIES PLACEMENT AND VERMIN TIME POINT
-01. Species placement discipline
-    |
-    v
-02. Vermin time point
-BOUNDARY -> Do not call Schedule IV the highest domestic protection category.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-- The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-
-#### EXAMINER CAUTION
-
-- Do not call Schedule IV the highest domestic protection category.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Verify current notification and treat vermin through the correct legal vintage.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Species placement discipline -> Vermin time point
-- **Qualified use:** Verify current notification and treat vermin through the correct legal vintage.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Species placement and vermin time point
-EXACT TERMS: Species | placement | vermin | time | point | discipline
-MECHANISM / ARGUMENT: connect Species placement discipline and Vermin time point through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Verify current notification and treat vermin through the correct legal vintage.
-UPSC TRAP / ANSWER-USE: Do not call Schedule IV the highest domestic protection category.
-ANSWER-GRABBING FORMULATION: Species placement and vermin time point converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — Hunting prohibition
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Hunting prohibition explains how Hunting prohibition fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Hunting prohibition separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Hunting prohibition must be read through Hunting prohibition, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Hunting**
-- **prohibition**
-- **Act's**
-- **baseline**
-- **protected**
-- **wild**
-
-**How to use them:** Define Hunting, prohibition, Act's; attach baseline to its source, ecological scale and status; then qualify the answer with this limit: Do not treat CITES Appendix change as an instantaneous Indian schedule amendment.
-
-#### VISUAL FIRST
-
-```text
-HUNTING PROHIBITION
-01. Hunting prohibition
-BOUNDARY -> Do not treat CITES Appendix change as an instantaneous Indian schedule amendment.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-
-#### EXAMINER CAUTION
-
-- Do not treat CITES Appendix change as an instantaneous Indian schedule amendment.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Start from prohibition rather than exception.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Hunting prohibition
-- **Qualified use:** Start from prohibition rather than exception.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Hunting prohibition
-EXACT TERMS: Hunting | prohibition | Act's | baseline | protected | wild
-MECHANISM / ARGUMENT: connect Hunting prohibition through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Start from prohibition rather than exception.
-UPSC TRAP / ANSWER-USE: Do not treat CITES Appendix change as an instantaneous Indian schedule amendment.
-ANSWER-GRABBING FORMULATION: Hunting prohibition converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — Permit and exception architecture
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Permit and exception architecture explains how Permit and exception fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Permit and exception architecture separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Permit and exception architecture must be read through Permit and exception, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Permit**
-- **exception**
-- **architecture**
-- **Scientific**
-- **educational**
-- **collection**
-
-**How to use them:** Define Permit, exception, architecture; attach Scientific to its source, ecological scale and status; then qualify the answer with this limit: Do not say the old Schedule V vermin list still exists.
-
-#### VISUAL FIRST
-
-```text
-PERMIT AND EXCEPTION ARCHITECTURE
-01. Permit and exception
-BOUNDARY -> Do not say the old Schedule V vermin list still exists.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-
-#### EXAMINER CAUTION
-
-- Do not say the old Schedule V vermin list still exists.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Name the purpose, permit, authority and statutory condition.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Permit and exception
-- **Qualified use:** Name the purpose, permit, authority and statutory condition.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Permit and exception architecture
-EXACT TERMS: Permit | exception | architecture | Scientific | educational | collection
-MECHANISM / ARGUMENT: connect Permit and exception through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Name the purpose, permit, authority and statutory condition.
-UPSC TRAP / ANSWER-USE: Do not say the old Schedule V vermin list still exists.
-ANSWER-GRABBING FORMULATION: Permit and exception architecture converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — Dangerous or beyond-recovery route
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Dangerous or beyond-recovery route explains how Dangerous or beyond recovery route fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Dangerous or beyond-recovery route separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Dangerous or beyond-recovery route must be read through Dangerous or beyond recovery route, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Dangerous**
-- **beyond-recovery**
-- **route**
-- **beyond**
-- **recovery**
-- **records**
-
-**How to use them:** Define Dangerous, beyond-recovery, route; attach beyond to its source, ecological scale and status; then qualify the answer with this limit: Do not convert a hunting exception into a general permission.
-
-#### VISUAL FIRST
-
-```text
-DANGEROUS OR BEYOND-RECOVERY ROUTE
-01. Dangerous or beyond recovery route
-BOUNDARY -> Do not convert a hunting exception into a general permission.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-
-#### EXAMINER CAUTION
-
-- Do not convert a hunting exception into a general permission.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Use the narrow condition without converting it into a general culling power.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Dangerous or beyond recovery route
-- **Qualified use:** Use the narrow condition without converting it into a general culling power.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Dangerous or beyond-recovery route
-EXACT TERMS: Dangerous | beyond-recovery | route | beyond | recovery | records
-MECHANISM / ARGUMENT: connect Dangerous or beyond recovery route through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Use the narrow condition without converting it into a general culling power.
-UPSC TRAP / ANSWER-USE: Do not convert a hunting exception into a general permission.
-ANSWER-GRABBING FORMULATION: Dangerous or beyond-recovery route converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — CITES Management Authority
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** CITES Management Authority explains how CITES Management Authority fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, CITES Management Authority separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> CITES Management Authority must be read through CITES Management Authority, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **CITES**
-- **Management**
-- **Authority**
-- **post-**
-- **framework**
-- **requires**
-
-**How to use them:** Define CITES, Management, Authority; attach post- to its source, ecological scale and status; then qualify the answer with this limit: Do not omit the competent authority and written-permission requirement.
-
-#### VISUAL FIRST
-
-```text
-CITES MANAGEMENT AUTHORITY
-01. CITES Management Authority
-BOUNDARY -> Do not omit the competent authority and written-permission requirement.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-
-#### EXAMINER CAUTION
-
-- Do not omit the competent authority and written-permission requirement.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Assign permits and certificates to the Management Authority.
-
-#### MINI RECAP
-
-- **Mechanism chain:** CITES Management Authority
-- **Qualified use:** Assign permits and certificates to the Management Authority.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: CITES Management Authority
-EXACT TERMS: CITES | Management | Authority | post- | framework | requires
-MECHANISM / ARGUMENT: connect CITES Management Authority through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Assign permits and certificates to the Management Authority.
-UPSC TRAP / ANSWER-USE: Do not omit the competent authority and written-permission requirement.
-ANSWER-GRABBING FORMULATION: CITES Management Authority converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — Scientific Authority and Chapter VB
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Scientific Authority and Chapter VB explains how CITES Scientific Authority and Chapter VB trade architecture fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Scientific Authority and Chapter VB separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Scientific Authority and Chapter VB must be read through CITES Scientific Authority and Chapter VB trade architecture, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Scientific**
-- **Authority**
-- **Chapter**
-- **CITES**
-- **trade**
-- **architecture**
-
-**How to use them:** Define Scientific, Authority, Chapter; attach CITES to its source, ecological scale and status; then qualify the answer with this limit: Do not merge Management Authority and Scientific Authority functions.
-
-#### VISUAL FIRST
-
-```text
-SCIENTIFIC AUTHORITY AND CHAPTER VB
-01. CITES Scientific Authority
-    |
-    v
-02. Chapter VB trade architecture
-BOUNDARY -> Do not merge Management Authority and Scientific Authority functions.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-- The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-
-#### EXAMINER CAUTION
-
-- Do not merge Management Authority and Scientific Authority functions.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Separate scientific advice from Chapter VB's wider trade machinery.
-
-#### MINI RECAP
-
-- **Mechanism chain:** CITES Scientific Authority -> Chapter VB trade architecture
-- **Qualified use:** Separate scientific advice from Chapter VB's wider trade machinery.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Scientific Authority and Chapter VB
-EXACT TERMS: Scientific | Authority | Chapter | CITES | trade | architecture
-MECHANISM / ARGUMENT: connect CITES Scientific Authority and Chapter VB trade architecture through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Separate scientific advice from Chapter VB's wider trade machinery.
-UPSC TRAP / ANSWER-USE: Do not merge Management Authority and Scientific Authority functions.
-ANSWER-GRABBING FORMULATION: Scientific Authority and Chapter VB converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — Invasive alien species power
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Invasive alien species power explains how Invasive alien species fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Invasive alien species power separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Invasive alien species power must be read through Invasive alien species, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Invasive**
-- **alien**
-- **species**
-- **power**
-- **amendment**
-- **empowered**
-
-**How to use them:** Define Invasive, alien, species; attach power to its source, ecological scale and status; then qualify the answer with this limit: Do not use WCCB as the authority for every wildlife-law decision.
-
-#### VISUAL FIRST
-
-```text
-INVASIVE ALIEN SPECIES POWER
-01. Invasive alien species
-BOUNDARY -> Do not use WCCB as the authority for every wildlife-law decision.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-
-#### EXAMINER CAUTION
-
-- Do not use WCCB as the authority for every wildlife-law decision.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** State the Central Government power without inventing a listed species.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Invasive alien species
-- **Qualified use:** State the Central Government power without inventing a listed species.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Invasive alien species power
-EXACT TERMS: Invasive | alien | species | power | amendment | empowered
-MECHANISM / ARGUMENT: connect Invasive alien species through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: State the Central Government power without inventing a listed species.
-UPSC TRAP / ANSWER-USE: Do not use WCCB as the authority for every wildlife-law decision.
-ANSWER-GRABBING FORMULATION: Invasive alien species power converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — WCCB statutory role
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** WCCB statutory role explains how WCCB statutory role fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, WCCB statutory role separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> WCCB statutory role must be read through WCCB statutory role, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **WCCB**
-- **statutory**
-- **role**
-- **MoEFCC's**
-- **retrievable**
-- **page**
-
-**How to use them:** Define WCCB, statutory, role; attach MoEFCC's to its source, ecological scale and status; then qualify the answer with this limit: Do not attach a penalty amount without the applicable amendment and offence provision.
-
-#### VISUAL FIRST
-
-```text
-WCCB STATUTORY ROLE
-01. WCCB statutory role
-BOUNDARY -> Do not attach a penalty amount without the applicable amendment and offence provision.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-
-#### EXAMINER CAUTION
-
-- Do not attach a penalty amount without the applicable amendment and offence provision.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Use sections 38Y and 38Z only for the WCCB role confirmed by MoEFCC.
-
-#### MINI RECAP
-
-- **Mechanism chain:** WCCB statutory role
-- **Qualified use:** Use sections 38Y and 38Z only for the WCCB role confirmed by MoEFCC.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: WCCB statutory role
-EXACT TERMS: WCCB | statutory | role | MoEFCC's | retrievable | page
-MECHANISM / ARGUMENT: connect WCCB statutory role through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Use sections 38Y and 38Z only for the WCCB role confirmed by MoEFCC.
-UPSC TRAP / ANSWER-USE: Do not attach a penalty amount without the applicable amendment and offence provision.
-ANSWER-GRABBING FORMULATION: WCCB statutory role converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — State, Chief Wildlife Warden, NBWL and NTCA roles
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** State, Chief Wildlife Warden, NBWL and NTCA roles explains how State and Chief Wildlife Warden and NBWL and NTCA fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, State, Chief Wildlife Warden, NBWL and NTCA roles separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> State, Chief Wildlife Warden, NBWL and NTCA roles must be read through State and Chief Wildlife Warden and NBWL and NTCA, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **State**
-- **Chief**
-- **Wildlife**
-- **Warden**
-- **NBWL**
-- **NTCA**
-
-**How to use them:** Define State, Chief, Wildlife; attach Warden to its source, ecological scale and status; then qualify the answer with this limit: Do not equate an IUCN category, domestic schedule and CITES Appendix.
-
-#### VISUAL FIRST
-
-```text
-STATE, CHIEF WILDLIFE WARDEN, NBWL AND NTCA ROLES
-01. State and Chief Wildlife Warden
-    |
-    v
-02. NBWL and NTCA
-BOUNDARY -> Do not equate an IUCN category, domestic schedule and CITES Appendix.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-- NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-
-#### EXAMINER CAUTION
-
-- Do not equate an IUCN category, domestic schedule and CITES Appendix.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Map each domestic authority to its own jurisdiction.
-
-#### MINI RECAP
-
-- **Mechanism chain:** State and Chief Wildlife Warden -> NBWL and NTCA
-- **Qualified use:** Map each domestic authority to its own jurisdiction.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: State, Chief Wildlife Warden, NBWL and NTCA roles
-EXACT TERMS: State | Chief | Wildlife | Warden | NBWL | NTCA
-MECHANISM / ARGUMENT: connect State and Chief Wildlife Warden and NBWL and NTCA through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Map each domestic authority to its own jurisdiction.
-UPSC TRAP / ANSWER-USE: Do not equate an IUCN category, domestic schedule and CITES Appendix.
-ANSWER-GRABBING FORMULATION: State, Chief Wildlife Warden, NBWL and NTCA roles converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — Science-law-trade and audited PYQ boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Science-law-trade and audited PYQ boundary explains how Science, law and trade and Audited PYQ vintage boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Science-law-trade and audited PYQ boundary separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Science-law-trade and audited PYQ boundary must be read through Science, law and trade and Audited PYQ vintage boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Science-law-trade**
-- **audited**
-- **boundary**
-- **Science**
-- **trade**
-- **vintage**
-
-**How to use them:** Define Science-law-trade, audited, boundary; attach Science to its source, ecological scale and status; then qualify the answer with this limit: Do not infer an objective answer key from a routed PYQ demand.
-
-#### VISUAL FIRST
-
-```text
-SCIENCE-LAW-TRADE AND AUDITED PYQ BOUNDARY
-01. Science, law and trade
-    |
-    v
-02. Audited PYQ vintage boundary
-BOUNDARY -> Do not infer an objective answer key from a routed PYQ demand.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-- Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-
-#### EXAMINER CAUTION
-
-- Do not infer an objective answer key from a routed PYQ demand.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Close by separating IUCN science, domestic law, CITES trade and PYQ vintage.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Science, law and trade -> Audited PYQ vintage boundary
-- **Qualified use:** Close by separating IUCN science, domestic law, CITES trade and PYQ vintage.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Science-law-trade and audited PYQ boundary
-EXACT TERMS: Science-law-trade | audited | boundary | Science | trade | vintage
-MECHANISM / ARGUMENT: connect Science, law and trade and Audited PYQ vintage boundary through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Close by separating IUCN science, domestic law, CITES trade and PYQ vintage.
-UPSC TRAP / ANSWER-USE: Do not infer an objective answer key from a routed PYQ demand.
-ANSWER-GRABBING FORMULATION: Science-law-trade and audited PYQ boundary converts a precise ecological distinction into a qualified conclusion
-```
-
-### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims, with GS-II legal/governance linkage.
-> **Core area:** Domestic wildlife law architecture.
-> **Grounded in:** Wildlife Protection Act, 1972, as amended by the Wildlife (Protection) Amendment Act, 2022 (India Code); MoEFCC notifications; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
-> *Companion: `advanced/08_Wildlife-Protection-Act-and-Schedules.md`.*
-
-#### 1. Visual foundation
-
-```text
-WILDLIFE PROTECTION ACT, 1972 (AS AMENDED 2022) - SCHEDULE STRUCTURE
-Schedule I    -> ANIMALS given the greatest degree of protection; most severe penalties
-Schedule II   -> ANIMALS given a lesser degree of protection than Schedule I
-Schedule III  -> PLANTS (specified plant species protected under the Act)
-Schedule IV   -> SCHEDULED SPECIMENS: species listed in CITES Appendices I, II and III
-                 (the trade-regulation schedule, not a protection tier)
-
-PRE-2022 STRUCTURE HAD SIX SCHEDULES (I-VI). THE 2022 AMENDMENT REDUCED THEM TO FOUR:
-  - the old Schedule V ("vermin") schedule was OMITTED altogether;
-  - plants moved from the old Schedule VI to the new Schedule III;
-  - a brand-new CITES-mirroring Schedule IV was created, with Chapter VB inserted to
-    regulate international trade in scheduled specimens.
-```
-
-**Core proposition:** The Wildlife Protection Act, 1972 is India's core domestic species-
-protection statute, using a graded Schedule system to set differentiated penalties and
-protections; the 2022 amendment specifically restructured the Schedules to align India's
-domestic law with its CITES international-trade obligations.
-
-#### 2. Essential definitions
-
-| Concept | Exam-ready meaning |
+| Legal vintage | Schedule architecture |
 |---|---|
-| ✅ **Wildlife Protection Act, 1972** | India's principal law for protection of wild animals, birds and plants, and for regulating hunting and trade. |
-| ✅ **Schedule** | A graded list within the Act assigning a species a specific protection level and penalty regime. |
-| ✅ **Schedule I** | **Animals** given the greatest degree of protection under the Act, with the most stringent penalties for offences. |
-| ✅ **Schedule II** | **Animals** given a lesser degree of protection than Schedule I. |
-| ✅ **Schedule III (post-2022)** | **Plants** — the specified plant species protected under the Act (this was Schedule VI before the 2022 amendment). |
-| ✅ **Schedule IV (post-2022)** | **Scheduled specimens** — species listed in CITES Appendices I, II and III, directly linking domestic law to international trade regulation. It is a *trade* schedule, not a higher protection tier. |
-| ✅ **Vermin** | A wild animal declared, for a specified area and period, to be vermin so that it may be hunted. ⚠️ The old Schedule V vermin list was **omitted** in 2022; the power now operates through a central-government notification, and a Schedule I animal can never be declared vermin. |
-| ✅ **Poaching** | Illegal hunting/killing/capturing of protected wildlife under the Act. |
-| ✅ **Wildlife Crime Control Bureau (WCCB)** | Statutory multi-disciplinary body under MoEFCC combating organised wildlife crime, including trafficking. |
+| **Before 1 April 2023** | Schedule I and Part II of Schedule II attracted the strictest protection/penalty structure; the remaining protected-animal entries were in the rest of Schedule II and Schedules III–IV; Schedule V listed vermin; Schedule VI listed specified plants. |
+| **From 1 April 2023** | Schedule I and II list animals; Schedule III lists specified plants; Schedule IV incorporates CITES Appendix I, II and III scheduled specimens. |
 
-#### 3. Topic mechanism
+#### Current schedule map
 
-1. The Act empowers the central and state governments to declare protected areas, regulate
-   hunting, and control trade in wild animals, parts and derivatives, backed by a graded
-   Schedule classification assigning each species a specific protection tier.
-2. Higher Schedules carry more stringent penalties and near-total prohibition on hunting.
-   Hunting is permitted only in narrow statutory situations — chiefly where an animal has
-   become **dangerous to human life, or is disabled or diseased beyond recovery**, with the
-   permission of the **Chief Wildlife Warden** (for a Schedule I animal) or of an authorised
-   officer, and for specified scientific/education/collection purposes under permit.
-3. The Wildlife (Protection) Amendment Act, 2022 restructured the earlier six-schedule
-   system into four schedules — animals (I and II), plants (III) and CITES-listed scheduled
-   specimens (IV) — and **omitted the old vermin schedule**, meaning a change in a species'
-   international CITES Appendix listing can now be reflected more directly in Indian
-   domestic law.
-4. The 2022 amendment inserted a dedicated chapter on the **regulation of international trade
-   in scheduled specimens**, requiring the central government to designate a **Management
-   Authority** (permits and certificates) and a **Scientific Authority** (advice on trade
-   impact) — the exact institutional design CITES requires of every party (Topic 09).
-5. The 2022 amendment also empowered the central government to regulate or prohibit the
-   **import, trade, possession or proliferation of invasive alien species**, strengthened
-   penalties, and provided for management plans for sanctuaries and national parks.
-6. Enforcement runs through state forest/wildlife departments for on-ground action and
-   through the Wildlife Crime Control Bureau (WCCB) for organised, cross-border wildlife
-   crime and intelligence coordination.
+| Schedule | What it contains | Legal consequence | Illustrative entries/status |
+|---|---|---|---|
+| **I** | Protected animals | Section 9 hunting ban plus the most stringent ordinary species-linked penalty under Section 51 | Tiger, Asiatic elephant, one-horned rhinoceros and Great Indian Bustard appear in the substituted schedule |
+| **II** | Other protected animals | Section 9 hunting ban; Section 62 can temporarily remove the schedule consequence for a notified animal, area and period | Nilgai, chital and Indian Flying Fox appear in the substituted schedule |
+| **III** | Specified plants | Chapter IIIA controls picking, possession, cultivation, dealing and transport | Neelakurinji, Himalayan yew, Khasi pitcher plant, blue vanda, cycads and *Ceropegia* spp. are examples |
+| **IV** | Species in CITES Appendices I, II and III, incorporated as scheduled specimens | Chapter VB regulates international trade, documents and certain living-specimen possession/breeding | It is a trade schedule containing fauna and flora from across the CITES system, not only Indian species |
 
-#### 4. Institutions and policy tools
+#### Close-option implications
 
-- ✅ **MoEFCC:** administers the Act and notifies Schedule amendments.
-- ✅ **Wildlife Crime Control Bureau (WCCB):** statutory body coordinating action against
-  organised wildlife crime, including trafficking networks and international smuggling.
-- ✅ **National Tiger Conservation Authority (NTCA):** statutory authority under the Act for
-  tiger conservation (cross-refer Topic 06).
-- ✅ **National Board for Wildlife (NBWL) / State Boards for Wildlife:** advisory/approving
-  bodies on wildlife-related matters, including projects affecting protected areas.
+1. Schedule IV is **not above** Schedule I.
+2. Schedule III is **not** a third animal-protection tier.
+3. A Schedule II animal remains protected unless a valid Section 62 notification operates for the stated area and period.
+4. If the same species is in Schedule I/II and IV, Section 49R makes the Schedule I/II regime prevail.
+5. A CITES Appendix change does not silently rewrite Indian law; the domestic Schedule must be legally updated.
 
-#### 5. Indian applications and examples
+**How to write the paragraph**
 
-- ⚠️ Species such as the tiger and elephant hold Schedule I status, reflecting the highest
-  protection level and driving the strictest enforcement priority.
-- ⚠️ The 2022 amendment's alignment of Schedule IV with CITES Appendices directly affects how
-  India regulates international trade in listed plants and animals (cross-refer Topic 09).
-- ⚠️ Invasive alien species provisions introduced in 2022 give the central government explicit
-  authority to regulate species like certain introduced flora/fauna that threaten native
-  ecosystems.
+> Act 18 of 2022 replaced the historical six schedules with a functional four-part design. Schedules I–II now classify protected animals, Schedule III carries specified plants and Schedule IV domesticates the CITES trade list. The key analytical gain is separation: domestic protection tier and international trade status are related but not interchangeable. Section 49R confirms this by applying the Schedule I/II regime where a species is dual-listed.
 
-#### 6. Must-Know Facts for Prelims
+---
 
-- ✅ The Wildlife Protection Act, 1972 is India's principal wildlife-protection statute.
-- ✅ Schedule I provides the highest/most stringent protection level under the Act.
-- ✅ The Wildlife (Protection) Amendment Act, 2022 restructured the earlier six-schedule
-  system into four schedules.
-- ✅ Post-2022 mapping to memorise: **Schedule I and II = animals** (greater and lesser
-  protection), **Schedule III = plants**, **Schedule IV = CITES-listed scheduled specimens**.
-  The old **Schedule V (vermin) was omitted**.
-- ✅ The 2022 amendment requires the Centre to designate a **Management Authority** and a
-  **Scientific Authority** for CITES implementation, and empowers it to regulate **invasive
-  alien species**.
-- ✅ Hunting is permissible only in narrow statutory circumstances — notably where an animal
-  is **dangerous to human life or disabled/diseased beyond recovery** — and, for Schedule I
-  animals, only on the written permission of the **Chief Wildlife Warden**.
-- ✅ The Wildlife Crime Control Bureau (WCCB) is the statutory body coordinating action
-  against organised wildlife crime in India.
+### 4. The four-status firewall
 
-#### 7. UPSC traps
+**Answer-grabbing line**
 
-- ❌ The Wildlife Protection Act still has six schedules today. -> The 2022 amendment
-  restructured it into four schedules.
-- ❌ Schedule IV (post-2022) is India's highest protection category. -> Schedule I remains
-  the highest protection category; Schedule IV specifically mirrors CITES Appendices for
-  trade-regulation alignment.
-- ❌ CITES itself is enforced directly in India without domestic legislation. -> CITES
-  obligations are given domestic legal effect through instruments like the Wildlife
-  Protection Act's Schedule IV structure.
-- ❌ WCCB is a state-level body. -> It is a central, statutory, multi-disciplinary body under
-  MoEFCC.
-- ❌ The Wildlife Protection Act only covers animals. -> It also covers specified plants,
-  which after 2022 are listed in **Schedule III**.
-- ❌ Post-2022 Schedule III is a third tier of animal protection. -> Schedule III is the
-  **plant** schedule; only Schedules I and II grade animal protection.
-- ❌ The vermin schedule still exists. -> The old Schedule V was **omitted** in 2022; vermin
-  declaration now proceeds by central notification for a specified area and period, and can
-  never apply to a Schedule I animal.
-- ❌ Schedule IV listing gives a species higher protection than Schedule II. -> Schedule IV is
-  a **trade-control** schedule mirroring CITES Appendices, not a rung on the protection
-  ladder.
+> Extinction risk, domestic legal protection and international trade control answer different questions; one label never proves another.
 
-#### 8. 📰 Current anchor
+**Must-write keywords:** IUCN ≠ WPA ≠ CITES ≠ CMS · scientific assessment · domestic offence · trade documentation · migratory cooperation
 
-- 📰 The Wildlife (Protection) Amendment Act, 2022 remains the current governing legal text;
-  verify any further amendment or Schedule notification against the latest MoEFCC gazette
-  notification before citing an updated Schedule list in an answer.
+| System | Question answered |
+|---|---|
+| IUCN Red List | What is the assessed extinction risk? |
+| WPA Schedule I/II/III | What domestic legal controls and offence consequences apply? |
+| CITES Appendix/Schedule IV | What international trade documents and conditions apply? |
+| CMS Appendix | What international cooperation is required for a migratory species? |
 
-⚠️ **Interpretation caution:** exact species-to-Schedule mappings are subject to periodic
-notification updates — cite the amendment year (2022) as the structural reference point
-rather than assuming a static, unchanging species list.
+The 2024 Indian Flying Fox question exposes the danger. The current substituted Schedule places it in **Schedule II**, while the old law had a vermin schedule. Its ecological diet is a separate zoological fact. UPSC’s official Set-A key dropped the question because both printed statements were false and no option captured that combination.
 
-#### 9. PYQ application
+**How to write the paragraph**
 
-- ⚠️ Recurring Prelims pattern: identify the correct number of schedules post-2022 and match
-  the CITES-alignment feature to Schedule IV specifically.
-- ⚠️ Mains linkage: the domestic-law-to-international-obligation alignment (Schedule IV/
-  CITES) is used to argue for coherent, enforceable wildlife-trade governance.
+> A species can simultaneously possess an IUCN category, a WPA schedule placement and a CITES Appendix status, but each produces a different consequence. IUCN informs conservation priority, the WPA creates domestic offences and CITES regulates international trade. Therefore, a strong answer verifies the legal instrument and date instead of treating “endangered,” “Schedule I” and “Appendix I” as synonyms.
 
-#### 10. Mains angles
+---
 
-- ⚠️ Argue that aligning domestic Schedules with CITES Appendices strengthens India's
-  enforcement credibility in international wildlife-trade cooperation.
-- ⚠️ Use the invasive-alien-species provision to argue for proactive, not just reactive,
-  wildlife governance.
-- ⚠️ Conclude with an enforcement-capacity thesis: legal restructuring (2022 amendment) is
-  necessary but insufficient without adequately resourced WCCB and state-level enforcement.
+### 5. Hunting prohibition and the legal meaning of hunting
 
-> **Answer thesis:** Treat the 2022-restructured Schedule system as India's mechanism for aligning domestic wildlife protection with international CITES obligations, and judge its real effectiveness by enforcement capacity (WCCB, state departments), not by the elegance of the legal restructuring alone.
+**Answer-grabbing line**
 
-#### 11. Probable questions
+> Section 9 establishes prohibition; Sections 11 and 12 create narrow, reasoned and authority-controlled departures—not a general wildlife-control licence.
 
-- ⚠️ **Prelims:** State the number and structure of Schedules under the Wildlife Protection
-  Act after the 2022 amendment and their relationship to CITES.
-- ⚠️ **Mains (10 marks):** Explain how the Wildlife (Protection) Amendment Act, 2022 aligned
-  India's domestic wildlife law with its CITES obligations.
-- ⚠️ **Mains (15 marks):** Discuss the significance of empowering the central government to
-  regulate invasive alien species under the 2022 amendment.
+**Must-write keywords:** Section 9 · Schedules I–II · attempt included · written order · reasons · competent authority
 
-#### 12. Study links
+```text
+WILD ANIMAL IN SCHEDULE I OR II
+              ↓
+      SECTION 9 PROHIBITION
+              ↓
+Is an exact Section 11 or 12 route proved?
+       ┌──────┴──────┐
+      NO             YES
+      ↓               ↓
+ offence risk   condition + authority + written reasons/permit
+```
 
-- ✅ Advanced companion: `advanced/08_Wildlife-Protection-Act-and-Schedules.md`.
-- ✅ `09_CITES-and-Wildlife-Trade.md` — the international treaty this Schedule IV structure
-  now mirrors.
-- ✅ `06_Protected-Area-Network-India.md` — the protected-area provisions of the same Act.
-- ✅ `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` — WCCB and NTCA institutional
-  detail.
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+The prohibition applies wherever the scheduled wild animal occurs; it is not confined to a National Park or Sanctuary. Protected-area location may create an additional, more serious offence consequence, but it does not create the underlying species protection.
 
-#### Recent PYQ Integration (2024-2025)
+**How to write the paragraph**
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+> Section 9 protects listed wild animals across the country by prohibiting hunting except under Sections 11 and 12. Because “hunting” includes capture, trapping, baiting, attempts and damage to eggs or nests, the provision reaches conduct well before a carcass is recovered. Protected-area location intensifies the offence but is not a precondition for species protection.
 
-- **Years represented:** 2024
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+---
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 20 | Indian Flying Fox 'vermin' category under the Wild Life (Protection) Act, 1972 | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+### 6. Section 11 exceptions, self-defence and Section 12 permits
 
-##### What this owner must now support
+**Answer-grabbing line**
 
-- Indian Flying Fox 'vermin' category under the Wild Life (Protection) Act, 1972
+> Danger must be legally established, not merely feared; Schedule, harm, authority, written reasons and the least-harm route determine legality.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Must-write keywords:** dangerous to human life · property/crops · beyond recovery · capture–tranquilise–translocate · self-defence · special-purpose permit
 
-#### 13. Core answer architecture (10/15/20-mark support)
-
-##### 13.1 Demand decoder and thesis
-
-- State the legal time point first: **pre-2022 six-schedule structure** versus **post-2022 four-schedule structure**. Then separate domestic protection from CITES trade control.
-- **Thesis:** the 2022 reform is a domestic enforcement and treaty-alignment mechanism whose effectiveness still depends on notification, forensics and state-level enforcement.
-
-##### 13.2 Reusable evidence units
-
-| Claim | Named evidence/example → significance | Qualification |
+| Route | Schedule I | Schedule II |
 |---|---|---|
-| The schedules have distinct functions. | **Schedules I–II animals; III plants; IV CITES scheduled specimens** → Schedule IV is a trade-control alignment, not a higher conservation rung. | Species mapping changes by notification; do not memorise a stale list as current law. |
-| CITES alignment is not automatic incorporation. | **2022 Management Authority/Scientific Authority and Chapter VB architecture** → gives domestic machinery for international trade control. | A later CITES decision still needs the applicable Indian legal update. |
-| “Vermin” requires time-sensitive reading. | **Old Schedule V was omitted in 2022; Section 62 notification mechanism remains** → avoids treating an old schedule as current law. | Do not retrofit post-2022 law to a historical question such as an older Indian Flying Fox classification. |
-
-##### 13.3 Mark-scaled spines
-
-- **10 marks:** state the four schedules, explain Schedule IV and one enforcement institution (WCCB).
-- **15/20 marks:** sequence statute → CITES alignment → enforcement chain → invasive-species/rights trade-off; conclude with capacity, not merely a schedule-count claim.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2020, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | Prelims GS-I | 81 | Schedule VI Wildlife Protection Act plant species implications | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 89 | Indian wildlife protection laws and protected animal provisions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Schedule VI Wildlife Protection Act plant species implications
-- Indian wildlife protection laws and protected animal provisions
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### Semantic-completeness ownership and PYQ control
-
-- **Official syllabus/index and owned core:** social empowerment expands
-  capability, agency, resources, recognition, representation, accessibility and
-  institutional voice. Welfare input, legal entitlement, capability-conversion
-  factor and lived outcome are separate stages; formal mobility is not
-  substantive equality.
-- **Indispensable sociology and owned group map:** Scheduled Castes, Scheduled Tribes, socially and
-  educationally backward classes/OBCs, notified religious and linguistic
-  minorities, persons with disabilities, transgender persons and wider
-  LGBTQIA+ communities, and elderly persons are analysed separately before
-  intersectional overlap. None is a homogeneous or legally interchangeable
-  category.
-- **SC/ST/OBC precision:** Articles 338, 338A and 338B establish distinct national
-  commissions; Articles 341, 342 and 342A govern distinct notified/list fields.
-  Article 17 and the Protection of Civil Rights Act 1955 concern untouchability;
-  the SC/ST (Prevention of Atrocities) Act 1989 has a separate protective field.
-  Detailed reservation doctrine and benefit administration remain Polity/Social
-  Justice-owned.
-- **Minority precision:** Articles 29-30 protect cultural and educational
-  interests through constitutional categories that are not identical to the six
-  centrally notified religious communities administered under the National
-  Commission for Minorities Act 1992. Article 350B separately concerns linguistic
-  minorities.
-- **Disability, gender-identity and ageing precision:** the Rights of Persons with
-  Disabilities Act 2016 is an equality, accessibility and specified-disability
-  framework; benchmark disability is a statutory subcategory, not a synonym for
-  every person with disability. The Transgender Persons (Protection of Rights)
-  Act 2019 applies to transgender persons and is not a complete LGBTQIA+ equality
-  code; constitutional sexual-orientation equality and marriage recognition are
-  separate legal questions. The Maintenance and Welfare of Parents and Senior
-  Citizens Act 2007 creates maintenance/welfare duties but not proof of universal
-  pension, care access or family support.
-- **Intersectional mechanism:** caste/tribe, class, gender, disability, sexuality,
-  religion, age, region and rural-urban location change conversion factors such
-  as schooling, documentation, mobility, accessibility, language, stigma and
-  digital access. A group-level entitlement cannot establish equal uptake or
-  outcome within that group.
-- **Data/source control:** use dated commission, ministry and
-  statutory sources to establish mandate or legal status; use social evidence to
-  analyse conversion and outcome. Detailed scheme inventories, reservation
-  quantum, litigation and departmental implementation remain Social Justice or
-  Polity-owned.
-- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
-  taxonomy and PYQs were checked separately for every owned group, constitutional
-  and statutory category, capability-conversion mechanism, intersectional
-  overlap, implementation boundary and data limitation.
-- **Verified PYQ ownership, 2018-2026:** the owner's direct answer routes cover
-  the 2024 affirmative-action outcome gap and the 2025 Phule demand, with
-  cross-owner routing disclosed. No official 2026 demand, group prevalence or
-  scheme success rate is invented.
-
-### ENVIRONMENT AND ECOLOGY DEEP-REVIEW CORE CONTROL
-
-- **Must remember:** The Wildlife Protection Act creates species schedules, protected areas, authorities, offences and trade controls; the 2022 amendment restructured schedules and added CITES implementation provisions.
-- **Close distinction:** Current schedules must not be replaced by pre-2022 six-schedule memory; schedule status is not IUCN, CITES or CMS status, and legal protection does not prove population recovery.
-- **Mechanism / status / evidence limit:** State Act/amendment commencement and current schedule, taxon and competent authority; distinguish enacted provision, notified rule, enforcement action, conviction and conservation outcome.
-
-## BASIC MCQS / REMEDIATION
-
-### Q1. Which statement correctly identifies Legal vintage first?
-
-A. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-B. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-C. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-D. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-
-**Answer: A.**
-**Explanation:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+| Dangerous animal | Chief Wild Life Warden (CWLW) must be satisfied it **has become dangerous to human life** | CWLW or authorised officer may act where it has become dangerous to human life **or property, including standing crops** |
+| Disabled/diseased | Disabled or diseased beyond recovery | Same |
+| Form | Written order stating reasons | Written order stating reasons; may concern an animal or group in a specified area |
+| Lethal action | No order to kill unless CWLW is satisfied capture, tranquillisation or translocation is not possible | The section does not create a free-standing public right to kill |
 
-### Q2. Which option preserves the ecological boundary of Legal vintage first?
+#### Self-defence
 
-A. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-B. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-C. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-D. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
+- Good-faith killing or wounding in defence of oneself or another person is not an offence.
+- The defence does not protect a person whose own contravention created the necessity.
+- The animal killed or wounded becomes Government property.
 
-**Answer: B.**
-**Explanation:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+#### Special-purpose permits under Section 12
 
-### Q3. Which statement uses Legal vintage first without changing its scale, parameter or status?
+- education;
+- scientific research;
+- scientific management—translocation or population management **without killing, poisoning or destroying** animals;
+- collection for a recognised zoo, museum or similar institution; and
+- snake-venom work for life-saving drugs.
 
-A. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-B. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-C. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-D. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
+Schedule I requires previous Central Government permission; another listed animal requires previous State Government permission.
 
-**Answer: C.**
-**Explanation:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**How to write the paragraph**
 
-### Q4. Which option avoids the standard UPSC close-option trap about Legal vintage first?
+> The Act balances human safety with non-arbitrariness. For a Schedule I animal, the CWLW must record that it has become dangerous to human life or is beyond recovery and must reject killing where capture, tranquillisation or translocation is feasible. Schedule II additionally recognises danger to property and crops. The statutory sequence—evidence, schedule, authority, reasons and least-harm option—prevents “conflict” from becoming an open-ended hunting exception.
 
-A. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-B. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-C. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-D. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
+---
 
-**Answer: D.**
-**Explanation:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### 7. Vermin after the 2022 restructuring
 
-### Q5. Which statement correctly identifies Six schedules to four?
+**Answer-grabbing line**
 
-A. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-B. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-C. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-D. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
+> Vermin is now a temporary notification status, not a permanent fifth schedule.
 
-**Answer: A.**
-**Explanation:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Must-write keywords:** Section 62 · Central Government · Schedule II only · specified area · specified period · deemed exclusion
 
-### Q6. Which option preserves the ecological boundary of Six schedules to four?
+```text
+Schedule II animal
+      + Central Government notification
+      + named area
+      + stated period
+             ↓
+deemed not included in Schedule II for that area and period
+```
 
-A. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-B. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-C. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-D. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
+Schedule I animals are outside Section 62. An ecological description such as “invasive,” “crop-raiding” or “abundant” does not itself make an animal vermin. Likewise, an old question using the former Schedule V must be answered with its historical legal date.
 
-**Answer: B.**
-**Explanation:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**How to write the paragraph**
 
-### Q7. Which statement uses Six schedules to four without changing its scale, parameter or status?
+> The 2022 amendment omitted old Schedule V but retained an area-and-time-specific control mechanism in Section 62. The Central Government may notify a Schedule II animal as vermin for a stated area and period, during which it is deemed outside Schedule II there. This is a temporary legal effect, not a nationwide ecological reclassification.
 
-A. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-B. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-C. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-D. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
+---
 
-**Answer: C.**
-**Explanation:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### 8. Specified plants: Schedule III and Chapter IIIA
 
-### Q8. Which option avoids the standard UPSC close-option trap about Six schedules to four?
+**Answer-grabbing line**
 
-A. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-B. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-C. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-D. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
+> Plant protection under the Act regulates extraction, possession, cultivation and commerce; it does not mean that every listed plant can never be cultivated.
 
-**Answer: D.**
-**Explanation:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Must-write keywords:** Section 17A · forest land/notified area · licence · permit · stock declaration · Scheduled Tribe personal use proviso
 
-### Q9. Which statement correctly identifies Schedule I?
+| Provision | Core rule |
+|---|---|
+| Section 17A | No wilful picking, uprooting, damage, destruction, acquisition or collection from forest land/centrally notified area; no unauthorised possession, sale, gift or transport |
+| Section 17B | Permit route for education, research, herbarium collection/display and approved propagation |
+| Section 17C | Cultivation requires a licence |
+| Section 17D | Dealing in a specified plant or derivative requires a licence |
+| Sections 17E–17F | Stock declaration and lawful-possession controls |
 
-A. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-B. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-C. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-D. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
+Section 17A preserves a narrow proviso for a Scheduled Tribe member to pick, collect or possess a specified plant in the district of residence for bona fide personal use, subject to Chapter IV.
 
-**Answer: A.**
-**Explanation:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Historical PYQ rule:** In 2020, “Schedule VI” meant the then-current specified-plant schedule. The correct implication was that cultivation required a licence—not that cultivation was absolutely impossible or that the plant was necessarily GM/invasive.
 
-### Q10. Which option preserves the ecological boundary of Schedule I?
+**How to write the paragraph**
 
-A. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-B. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-C. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-D. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
+> Chapter IIIA combines conservation with regulated propagation. Section 17A restrains extraction and dealing, while Sections 17B–17D create permit and licensing routes for science, herbarium work, propagation, cultivation and business. The design therefore distinguishes illegal removal from authorised ex-situ or cultivated supply, while retaining a narrow bona fide personal-use proviso for Scheduled Tribe members.
 
-**Answer: B.**
-**Explanation:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q11. Which statement uses Schedule I without changing its scale, parameter or status?
+### 9. Government property, possession and ownership certificates
 
-A. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-B. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-C. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-D. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
+**Answer-grabbing line**
 
-**Answer: C.**
-**Explanation:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+> “All wildlife belongs to Government” is an overstatement; Section 39 specifies the circumstances in which an animal, article, trophy, meat, weapon or vehicle becomes Government property.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Schedule I?
+**Must-write keywords:** Section 39 · 48-hour report · Schedule I possession · written permission · certificate of ownership · seven-working-day surrender
 
-A. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-B. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-C. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-D. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
+#### Section 39 chain
 
-**Answer: D.**
-**Explanation:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+```text
+animal/article falls within Section 39
+              ↓
+State/Central Government property, as applicable
+              ↓
+person obtaining possession reports within 48 hours
+              ↓
+no acquisition/transfer/destruction without written permission
+```
 
-### Q13. Which statement correctly identifies Schedule II?
+Section 40 controls Schedule I animals and specified derived items. It restricts acquisition, receipt, possession, sale, transfer and transport without previous written permission, and links lawful captive holdings/articles to declarations and certificates of ownership.
 
-A. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-B. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-C. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-D. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
+Section 42 permits the CWLW to issue a certificate of ownership after assessing lawful possession and, for a captive animal, adequate housing, maintenance and upkeep.
 
-**Answer: A.**
-**Explanation:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Section 42A, inserted in 2022, allows a certificate-holder to surrender a captive animal, article, trophy, meat or specified ivory item after **seven working days’ notice** to the CWLW. No compensation is payable; the surrendered property vests in the State Government.
 
-### Q14. Which option preserves the ecological boundary of Schedule II?
+**How to write the paragraph**
 
-A. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-B. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-C. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-D. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
+> The Act does not treat every free-ranging animal as automatically owned by Government. Section 39 instead identifies legally significant situations—such as unlawful hunting, specified captivity, death or seizure—when wildlife property vests in Government. Sections 40–42 then regulate Schedule I possession through permission, declaration, identification and ownership certification, closing the route by which an illegal object could be normalised through private custody.
 
-**Answer: B.**
-**Explanation:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q15. Which statement uses Schedule II without changing its scale, parameter or status?
+### 10. Domestic trade, trophies, transport and captive elephants
 
-A. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-B. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-C. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-D. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
+**Answer-grabbing line**
 
-**Answer: C.**
-**Explanation:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+> Lawful possession does not create an unrestricted right to sell, transport or commercialise wildlife.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Schedule II?
+**Must-write keywords:** trophy · uncured trophy · Chapter VA · licensed dealer · lawful acquisition · interstate report · due care by transporter
 
-A. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-B. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-C. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-D. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
+| Area | Rule |
+|---|---|
+| Certificate-holder transfer | Section 43 bars transfer for sale or other commercial consideration of covered captive animals/articles/trophies |
+| Inter-State movement | Transfer or transport must be reported within 30 days to the competent CWLW/authorised officer |
+| Dealers/taxidermists | Sections 44–49 require licensing, declared stock, records and lawful acquisition |
+| Transporter | Section 48A requires due care to ascertain that the necessary permission exists |
+| Scheduled-animal commerce | Chapter VA prohibits specified commercial dealings in scheduled-animal articles, trophies, captive animals and meat, subject to narrow statutory exceptions |
+| Captive elephant | Section 43’s 2022 proviso makes transfer/transport subject to Central rules; the 2024 Rules require ownership certification, inquiry, veterinary assessment and CWLW permission/permit |
 
-**Answer: D.**
-**Explanation:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A **trophy** is a preserved whole or part; an **uncured trophy** has not undergone taxidermy and includes a freshly killed animal and specified animal products. These terms are legal categories, not decorative vocabulary.
 
-### Q17. Which statement correctly identifies Schedule III?
+**How to write the paragraph**
 
-A. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-B. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-C. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-D. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
+> The possession-to-commerce firewall is deliberate. A certificate may establish lawful custody, yet Section 43 still restricts commercial transfer, Sections 44–49 regulate dealers and taxidermists, and Section 48A imposes due diligence on transporters. The 2024 captive-elephant rules add veterinary and facility verification to the CWLW permission process. Thus, ownership documentation is a compliance starting point, not a market licence.
 
-**Answer: A.**
-**Explanation:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q18. Which option preserves the ecological boundary of Schedule III?
+### 11. Protected-area links and rights safeguards
 
-A. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-B. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-C. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-D. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
+**Answer-grabbing line**
 
-**Answer: B.**
-**Explanation:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+> Species schedules regulate animals and plants; protected-area chapters regulate land, rights and activities. Durable conservation needs both layers to operate lawfully.
 
-### Q19. Which statement uses Schedule III without changing its scale, parameter or status?
+**Must-write keywords:** sanctuary management plan · Gram Sabha consultation · rights settlement · alternative fuel/fodder · critical tiger habitat · Critical Wildlife Habitat
 
-A. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-B. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-C. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-D. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
+The Act contains the legal framework for Sanctuaries, National Parks, Conservation Reserves and Community Reserves. Topic 06 owns their full declaration and activity regimes; Topic 08 must retain four links:
 
-**Answer: C.**
-**Explanation:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+1. **Section 33 after 2022:** sanctuaries must be managed under approved plans. In Scheduled Areas or areas where the Forest Rights Act applies, the sanctuary management plan must be prepared after due consultation with the concerned Gram Sabha.
+2. **Section 35(3B):** while affected persons’ rights are being finally settled for a proposed National Park, the State must make alternative arrangements for fuel, fodder and other recorded forest-produce rights.
+3. **Section 38V:** a tiger reserve is a tiger-specific statutory overlay. Critical tiger habitat/core and buffer have scientific, livelihood and Gram Sabha requirements.
+4. **Relocation safeguard:** except voluntary relocation on mutually agreed terms, Scheduled Tribes/other forest dwellers cannot be resettled or have rights adversely affected until rights determination, damage/coexistence tests, livelihood package, informed Gram Sabha/person consent and resettlement facilities are satisfied.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Schedule III?
+> **Do not mix:** **critical tiger habitat** under the WPA is not **Critical Wildlife Habitat** under Section 2(b)/4(2) of the Forest Rights Act. The latter is a separate FRA process.
 
-A. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-B. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-C. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-D. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
+**How to write the paragraph**
 
-**Answer: D.**
-**Explanation:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+> The wildlife-rights interface is procedural, not a slogan. The 2022 amendment requires Gram Sabha consultation for sanctuary plans in FRA/Scheduled Areas, while Section 38V sets demanding conditions before involuntary rights interference in a tiger core. These safeguards neither make conservation optional nor permit automatic displacement; they require scientific necessity, completed rights processes, informed consent and workable rehabilitation.
 
-### Q21. Which statement correctly identifies Schedule IV?
+---
 
-A. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-B. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-C. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-D. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
+### 12. Authority map: do not interchange mandates
 
-**Answer: A.**
-**Explanation:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer-grabbing line**
 
-### Q22. Which option preserves the ecological boundary of Schedule IV?
+> Boards advise, the CWLW executes State-level statutory powers, specialist authorities regulate zoos or tigers, and WCCB coordinates organised-crime enforcement.
 
-A. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-B. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-C. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-D. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
+**Must-write keywords:** advisory versus executive · species-neutral versus specialist · field authority · intelligence coordination · recognition/standards
 
-**Answer: B.**
-**Explanation:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+| Body | Statutory mandate | What it is not |
+|---|---|---|
+| **NBWL** | National policy/advice; poaching and illegal-trade advice; recommendations on protected areas; wildlife-impact assessment; national progress review/status reporting | Routine field-enforcement or possession-certificate office |
+| **SBWL** | Advises State on protected-area selection/management, conservation policy, schedule amendment and harmonising tribal/forest-dweller needs | National schedule-setter or prosecution bureau |
+| **CWLW** | State executive authority for hunting orders/permits, ownership and licensing functions, sanctuary management and field enforcement | Merely an advisory-board member |
+| **WCCB** | Organised-wildlife-crime intelligence, data bank, inter-agency coordination, international cooperation, investigative capacity and prosecution assistance | Universal permit issuer or zoo regulator |
+| **CZA** | Zoo standards, evaluation, recognition/derecognition, captive-breeding coordination, studbooks and technical assistance | Authority for every private possession or international-trade permit |
+| **NTCA** | Tiger Conservation Plans, tiger-reserve standards, research/monitoring, sustainable-land-use scrutiny and tiger-specific directions | General authority for all wildlife species or all protected areas |
 
-### Q23. Which statement uses Schedule IV without changing its scale, parameter or status?
+**How to write the paragraph**
 
-A. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-B. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-C. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-D. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
+> Institutional precision improves both Prelims elimination and Mains analysis. NBWL and SBWL are principally policy/advisory bodies; the CWLW exercises State-level statutory and field powers. CZA’s field is zoos, NTCA’s field is tiger conservation and WCCB’s field is organised wildlife crime. Assigning every wildlife function to MoEFCC or WCCB erases the Act’s specialised design.
 
-**Answer: C.**
-**Explanation:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q24. Which option avoids the standard UPSC close-option trap about Schedule IV?
+### 13. CITES implementation: Schedule IV and the two-authority split
 
-A. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-B. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-C. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-D. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
+**Answer-grabbing line**
 
-**Answer: D.**
-**Explanation:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+> CITES implementation separates the decision to issue trade documents from the scientific judgment on whether trade is non-detrimental.
 
-### Q25. Which statement correctly identifies Species placement discipline?
+**Must-write keywords:** Chapter VB · Management Authority · Scientific Authority · permit/certificate · non-detriment · Appendix I/II/III
 
-A. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-B. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-C. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-D. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
+```text
+IDENTIFY SPECIMEN + APPENDIX + LEGAL ORIGIN
+                    ↓
+SCIENTIFIC AUTHORITY
+advice • non-detriment • export monitoring • recommend limits
+                    ↓
+MANAGEMENT AUTHORITY
+permit/certificate • legal-acquisition/welfare checks • reports
+                    ↓
+DESIGNATED PORT + CUSTOMS/WCCB/FOREST ENFORCEMENT
+```
 
-**Answer: A.**
-**Explanation:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+#### Mandate distinction
 
-### Q26. Which option preserves the ecological boundary of Species placement discipline?
+| Authority | Section | Core role |
+|---|---|---|
+| Management Authority | 49E | Officer not below Additional Director General of Forests rank; issues permits/certificates, submits reports and implements the Convention |
+| Scientific Authority | 49F | One or more research institutes; advises the Management Authority, monitors Appendix II export permits/actual exports and recommends export limits where required |
 
-A. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-B. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-C. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-D. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
+S.O. 3548(E) of 8 August 2023 designated **23 institutes** as Scientific Authorities at that date. The personal holder of the Management Authority is notification-sensitive; remember the statutory office and function, not a stale name.
 
-**Answer: B.**
-**Explanation:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+#### Appendix-linked document logic under Chapter VB
 
-### Q27. Which statement uses Species placement discipline without changing its scale, parameter or status?
+- **Appendix I export:** export permit, Scientific Authority non-detriment advice and destination-country import permit.
+- **Appendix I import:** Indian import permit plus export/re-export document; not primarily commercial; scientific advice and suitable care for a living specimen.
+- **Appendix II import:** prior export permit or re-export certificate from the exporting country.
+- **Appendix III import:** certificate of origin, or the document linked to the listing/re-export country.
 
-A. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-B. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-C. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-D. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
+**How to write the paragraph**
 
-**Answer: C.**
-**Explanation:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+> Chapter VB supplies CITES’ domestic machinery. The Scientific Authority determines conservation compatibility and monitors trade, while the Management Authority verifies legal origin, welfare/document conditions and issues permits or certificates. Customs, WCCB and State enforcement then police the border and domestic chain. The split prevents an administrative permit from substituting for a scientific non-detriment finding.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Species placement discipline?
+---
 
-A. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-B. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-C. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-D. Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
+### 14. Schedule IV possession, breeding and later rules
 
-**Answer: D.**
-**Explanation:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer-grabbing line**
 
-### Q29. Which statement correctly identifies Vermin time point?
+> Schedule IV regulates more than border trade: living animal specimens also enter a reporting, registration and breeding-control chain.
 
-A. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-B. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-C. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-D. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
+**Must-write keywords:** Section 49M · living animal · possession/transfer/birth/death · registration · Appendix I breeder licence · Section 49R
 
-**Answer: A.**
-**Explanation:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+| Provision/instrument | Operational rule |
+|---|---|
+| Section 49M | Possession, transfer, birth and death of living Schedule IV animal specimens must be reported/registered |
+| Living Animal Species Rules, 2024 | Electronic registration; six-month transitional window and subsequent event-linked reporting; verification, welfare records and appeal |
+| Sections 49N–49O | Appendix I captive breeders/artificial propagators require a CWLW licence; hearing and appeal safeguards apply |
+| Breeders of Species Licence Rules, 2023 | Application, facility verification, licence and cancellation procedure |
+| International Trade Rules, 2023 | Electronic applications, legal-procurement documents, scientific advice and permit/certificate procedure |
+| Section 49R | Where a species is also in Schedule I/II, that domestic regime prevails; Sections 49M–49O do not apply to the dual-listed species |
 
-### Q30. Which option preserves the ecological boundary of Vermin time point?
+**How to write the paragraph**
 
-A. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-B. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-C. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-D. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
+> The 2022 amendment created traceability beyond customs clearance. Section 49M follows living Schedule IV animals through possession, transfer, offspring and death, while Appendix I breeding requires a licence. Yet Section 49R prevents duplication where the same species already falls in Schedule I or II. The exam trap is to assume that every Schedule IV living-animal rule also governs a dual-listed native protected species.
 
-**Answer: B.**
-**Explanation:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q31. Which statement uses Vermin time point without changing its scale, parameter or status?
+### 15. Invasive alien species under Section 62A
 
-A. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-B. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-C. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-D. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
+**Answer-grabbing line**
 
-**Answer: C.**
-**Explanation:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+> Section 62A is an enabling notification power: ecological invasiveness does not itself prove that a species is currently subject to a statutory prohibition.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Vermin time point?
+**Must-write keywords:** non-native to India · threat to wildlife/habitat · notification · import · trade · possession · proliferation · seizure/disposal
 
-A. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-B. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-C. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-D. The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
+The 2022 amendment defines an invasive alien species as a non-native animal or plant whose introduction or spread may threaten or adversely affect wildlife or habitat.
 
-**Answer: D.**
-**Explanation:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+The Central Government may, by notification:
 
-### Q33. Which statement correctly identifies Hunting prohibition?
+- regulate or prohibit import;
+- regulate or prohibit trade;
+- regulate or prohibit possession;
+- regulate or prohibit proliferation; and
+- authorise seizure and disposal, including destruction, of a notified species.
 
-A. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-B. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-C. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-D. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
+```text
+ecologically invasive
+        ≠
+automatically notified under Section 62A
+        ≠
+automatically listed in Schedule III or IV
+```
 
-**Answer: A.**
-**Explanation:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**How to write the paragraph**
 
-### Q34. Which option preserves the ecological boundary of Hunting prohibition?
+> Section 62A widens the Act from protection of native wildlife to ecosystem-risk control. Its reach, however, depends on a Central notification identifying the regulated species and legal action. Therefore, *Prosopis juliflora* can illustrate invasive ecological impact, but that fact alone does not establish a current Section 62A notification or a particular Schedule placement.
 
-A. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-B. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-C. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-D. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
+---
 
-**Answer: B.**
-**Explanation:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### 16. Penalties: exact current structure
 
-### Q35. Which statement uses Hunting prohibition without changing its scale, parameter or status?
+**Answer-grabbing line**
 
-A. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-B. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-C. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-D. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
+> Penalty severity follows the offence category, species schedule, protected-place context and repeat status—not a single universal wildlife sentence.
 
-**Answer: C.**
-**Explanation:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Must-write keywords:** Section 51 · general offence · Schedule I · Appendix I of Schedule IV · Chapter VA · tiger core · repeat offence
 
-### Q36. Which option avoids the standard UPSC close-option trap about Hunting prohibition?
+| Offence category | Current statutory punishment |
+|---|---|
+| General contravention (except Chapter VA/Section 38J) | Imprisonment up to **3 years**, or fine up to **₹1 lakh**, or both |
+| Schedule I animal/derivative; hunting in Sanctuary/NP; altering Sanctuary/NP boundaries; Appendix I Schedule IV specimen | **3–7 years** imprisonment and fine of at least **₹25,000** |
+| Second/subsequent offence in the preceding category | **3–7 years** and fine of at least **₹1 lakh** |
+| Chapter VA contravention | **3–7 years** and fine of at least **₹25,000** |
+| First offence concerning tiger-reserve core, hunting in tiger reserve or altering its boundaries | **3–7 years** and fine **₹50,000–₹2 lakh** |
+| Repeat tiger-reserve offence | At least **7 years** and fine **₹5 lakh–₹50 lakh** |
 
-A. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-B. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-C. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-D. The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
+On conviction, the court may additionally forfeit the animal/article/trophy/meat/plant and the trap, tool, vehicle, vessel or weapon, cancel licences/permits and direct cancellation of the relevant arms licence.
 
-**Answer: D.**
-**Explanation:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**How to write the paragraph**
 
-### Q37. Which statement correctly identifies Permit and exception?
+> The 2022 amendment increased key monetary thresholds but retained differentiated sentencing. A general offence may attract up to three years or a fine up to ₹1 lakh, whereas a Schedule I, protected-area or Appendix I Schedule IV offence carries a three-to-seven-year term and a minimum fine. Tiger-reserve offences have their own higher fine bands. The correct answer must identify the exact offence class before quoting punishment.
 
-A. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-B. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-C. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-D. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
+---
 
-**Answer: A.**
-**Explanation:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### 17. Bail, compounding, search, complaint and presumption
 
-### Q38. Which option preserves the ecological boundary of Permit and exception?
+**Answer-grabbing line**
 
-A. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-B. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-C. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-D. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
+> Strong enforcement powers coexist with express thresholds, production before a Magistrate, complaint gates, hearing rights and appellate review.
 
-**Answer: B.**
-**Explanation:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Must-write keywords:** reasonable grounds · forthwith before Magistrate · previous conviction · Public Prosecutor · non-compoundable minimum term · 60-day notice · reverse presumption
 
-### Q39. Which statement uses Permit and exception without changing its scale, parameter or status?
+#### Section 50 enforcement and safeguards
 
-A. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-B. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-C. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-D. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
+- Authorised officers may inspect, stop/search, seize and arrest without warrant where there are **reasonable grounds** to believe an offence occurred.
+- A detained person or seized thing must be taken **forthwith before a Magistrate**.
+- Evidence recorded by an empowered investigating officer under Section 50(8) is admissible only if recorded **in the presence of the accused**.
+- Section 53 separately punishes vexatious and unnecessary seizure.
 
-**Answer: C.**
-**Explanation:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+#### Bail under Section 51A
 
-### Q40. Which option avoids the standard UPSC close-option trap about Permit and exception?
+The special restriction is not universal. It applies where:
 
-A. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-B. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-C. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-D. Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
+1. the accusation concerns Schedule I, hunting inside a National Park/Sanctuary or altering those boundaries; **and**
+2. the accused had been previously convicted under the Act.
 
-**Answer: D.**
-**Explanation:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+The Public Prosecutor must be allowed to oppose bail; if opposed, the court must find reasonable grounds to believe the accused is not guilty and is unlikely to offend while on bail.
 
-### Q41. Which statement correctly identifies Dangerous or beyond recovery route?
+#### Compounding and cognizance
 
-A. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-B. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-C. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-D. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
+- Section 54 permits authorised composition up to **₹5 lakh**.
+- An offence carrying a minimum prison term under Section 51 **cannot be compounded**.
+- Section 55 limits cognizance to complaints by specified statutory authorities, or a person who has given at least **60 days’ notice** of the offence and intended complaint.
+- Section 57 creates a rebuttable presumption of unlawful possession once possession/custody/control of covered wildlife property is established; the contrary burden lies on the accused.
 
-**Answer: A.**
-**Explanation:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**How to write the paragraph**
 
-### Q42. Which option preserves the ecological boundary of Dangerous or beyond recovery route?
+> The Act is stringent but not procedure-free. Section 50 requires reasonable grounds and prompt production before a Magistrate; Section 51A’s enhanced bail test is confined to a previously convicted accused in specified serious cases. Minimum-term offences cannot be compounded, while Section 55 controls who may initiate a complaint and preserves a 60-day citizen-notice route. These details prevent the inaccurate claim that every wildlife offence is automatically non-bailable or uncompoundable.
 
-A. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-B. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-C. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-D. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
+---
 
-**Answer: B.**
-**Explanation:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### 18. Proceeds-of-crime forfeiture and safeguards
 
-### Q43. Which statement uses Dangerous or beyond recovery route without changing its scale, parameter or status?
+**Answer-grabbing line**
 
-A. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-B. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-C. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-D. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
+> Chapter VIA targets property derived from serious wildlife crime, but freezing and forfeiture require confirmation, notice, hearing and appeal.
 
-**Answer: C.**
-**Explanation:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Must-write keywords:** conviction of 3+ year offence · associate/holder · 48 hours · 30-day confirmation · show-cause · hearing · burden · appellate tribunal
 
-### Q44. Which option avoids the standard UPSC close-option trap about Dangerous or beyond recovery route?
+```text
+serious conviction / covered associate or holder
+                  ↓
+identify allegedly illegal property
+                  ↓
+seize or freeze to prevent concealment/transfer
+  ├─ copy to competent authority within 48 hours
+  └─ no effect unless confirmed within 30 days
+                  ↓
+Section 58H notice: 30 days to explain source + evidence
+                  ↓
+hearing and reasoned finding under Section 58I
+          ├─ lawful source proved → release
+          └─ illegal property → forfeiture to State, free of encumbrances
+                  ↓
+appeal within 45 days; possible admission up to 60 days for sufficient cause
+```
 
-A. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-B. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-C. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-D. The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
+Chapter VIA applies to a person convicted of an offence punishable with at least three years, specified associates and certain later holders, subject to the good-faith purchaser rule. Section 58J places the burden of proving that noticed property is not illegally acquired on the affected person. Section 58K permits a market-value fine in lieu where only part of the source remains unproved, after hearing.
 
-**Answer: D.**
-**Explanation:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**How to write the paragraph**
 
-### Q45. Which statement correctly identifies CITES Management Authority?
+> Wildlife-law forfeiture is distinct from the court’s offence-specific forfeiture under Section 51. Chapter VIA traces assets linked to serious illegal hunting or trade. Its coercive reach is checked by a 48-hour reporting requirement, 30-day confirmation of freezing, written show-cause notice, reasonable hearing and an appellate tribunal. A balanced answer should state both the reverse burden and these procedural protections.
 
-A. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-B. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-C. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-D. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
+---
 
-**Answer: A.**
-**Explanation:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### 19. Notification, enforcement and outcome are three different stages
 
-### Q46. Which option preserves the ecological boundary of CITES Management Authority?
+**Answer-grabbing line**
 
-A. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-B. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-C. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-D. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
+> A Gazette entry changes legal status; it does not by itself create staff, evidence, prosecution, deterrence or ecological recovery.
 
-**Answer: B.**
-**Explanation:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Must-write keywords:** announced/notified/enforced/achieved · legal input · capacity · forensics · prosecution · ecological indicator
 
-### Q47. Which statement uses CITES Management Authority without changing its scale, parameter or status?
+| Instrument/action | What it proves | What it does not prove |
+|---|---|---|
+| Section 61 schedule notification | Legal classification changed | Population recovered or trade stopped |
+| Section 62 vermin notification | Temporary area/time legal effect | Nationwide or permanent vermin status |
+| Section 62A notification | Named invasive-species controls became operative | Eradication or ecosystem recovery |
+| Protected-area notification | Statutory place category exists | Rights settled, plan funded or habitat secured |
+| CITES permit/certificate | A documented trade transaction was authorised | Permit integrity, legal source beyond doubt or zero laundering |
+| WCCB intelligence/action | Enforcement input/coordination occurred | Conviction or deterrence unless outcome evidence follows |
 
-A. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-B. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-C. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-D. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
+```text
+LAW/NOTIFICATION
+      ↓
+rules • authority • staff • budget • intelligence • forensics
+      ↓
+seizure • investigation • chain of custody • complaint • trial
+      ↓
+conviction/forfeiture/compliance
+      ↓
+measured reduction in illegal take/trade + species/habitat recovery
+```
 
-**Answer: C.**
-**Explanation:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**How to write the paragraph**
 
-### Q48. Which option avoids the standard UPSC close-option trap about CITES Management Authority?
+> The 2022 amendment improves legal coherence by aligning schedules, institutions and CITES procedures. Its conservation effect, however, depends on scientific advice, species identification, lawful search and seizure, chain of custody, authorised complaints, timely trial and habitat governance. Hence legal alignment is a necessary input, while deterrence and ecological recovery are outcomes requiring separate evidence.
 
-A. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-B. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-C. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-D. The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
+---
 
-**Answer: D.**
-**Explanation:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### 20. PYQ map and reusable answer architecture
 
-### Q49. Which statement correctly identifies CITES Scientific Authority?
+| PYQ cluster | What UPSC tests |
+|---|---|
+| 2020 Schedule VI | Historical legal vintage and plant-licensing implication |
+| 2022 wildlife-law statements | Government-property overstatement; protection outside PAs; danger threshold |
+| 2024 Indian Flying Fox | Post-2022 schedule currency, old vermin memory and biological fact |
+| 2018 *Prosopis* | Ecological invasiveness versus current legal notification |
+| 2018 Critical Wildlife Habitat/Baiga | Wildlife law–FRA boundary and competent ministry/process |
+| 2024 red sanders | Native status is not a Schedule/CITES answer |
 
-A. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-B. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-C. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-D. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
+#### Reusable 10/15/20-mark spine
 
-**Answer: A.**
-**Explanation:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+```text
+FIX LEGAL DATE
+      ↓
+DEFINE the provision/category precisely
+      ↓
+CLASSIFY: species schedule • plant • CITES specimen • protected place
+      ↓
+TRACE prohibition → exception/permit → authority → procedure
+      ↓
+ADD institution and enforcement chain
+      ↓
+TEST rights, notice, hearing, burden and appeal where relevant
+      ↓
+SEPARATE notification from enforcement and ecological outcome
+      ↓
+CONCLUDE with lawful, science-based and rights-aware capacity
+```
 
-### Q50. Which option preserves the ecological boundary of CITES Scientific Authority?
-
-A. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-B. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-C. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-D. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-
-**Answer: B.**
-**Explanation:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q51. Which statement uses CITES Scientific Authority without changing its scale, parameter or status?
-
-A. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-B. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-C. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-D. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-
-**Answer: C.**
-**Explanation:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q52. Which option avoids the standard UPSC close-option trap about CITES Scientific Authority?
-
-A. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-B. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-C. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-D. The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-
-**Answer: D.**
-**Explanation:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q53. Which statement correctly identifies Chapter VB trade architecture?
-
-A. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-B. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-C. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-D. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-
-**Answer: A.**
-**Explanation:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q54. Which option preserves the ecological boundary of Chapter VB trade architecture?
-
-A. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-B. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-C. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-D. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-
-**Answer: B.**
-**Explanation:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q55. Which statement uses Chapter VB trade architecture without changing its scale, parameter or status?
-
-A. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-B. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-C. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-D. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-
-**Answer: C.**
-**Explanation:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Chapter VB trade architecture?
-
-A. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-B. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-C. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-D. The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-
-**Answer: D.**
-**Explanation:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q57. Which statement correctly identifies Invasive alien species?
-
-A. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-B. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-C. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-D. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-
-**Answer: A.**
-**Explanation:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q58. Which option preserves the ecological boundary of Invasive alien species?
-
-A. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-B. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-C. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-D. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-
-**Answer: B.**
-**Explanation:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q59. Which statement uses Invasive alien species without changing its scale, parameter or status?
-
-A. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-B. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-C. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-D. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-
-**Answer: C.**
-**Explanation:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Invasive alien species?
-
-A. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-B. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-C. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-D. The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-
-**Answer: D.**
-**Explanation:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q61. Which statement correctly identifies WCCB statutory role?
-
-A. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-B. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-C. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-D. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-
-**Answer: A.**
-**Explanation:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q62. Which option preserves the ecological boundary of WCCB statutory role?
-
-A. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-B. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-C. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-D. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-
-**Answer: B.**
-**Explanation:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q63. Which statement uses WCCB statutory role without changing its scale, parameter or status?
-
-A. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-B. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-C. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-D. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-
-**Answer: C.**
-**Explanation:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q64. Which option avoids the standard UPSC close-option trap about WCCB statutory role?
-
-A. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-B. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-C. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-D. MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-
-**Answer: D.**
-**Explanation:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q65. Which statement correctly identifies State and Chief Wildlife Warden?
-
-A. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-B. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-C. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-D. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-
-**Answer: A.**
-**Explanation:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q66. Which option preserves the ecological boundary of State and Chief Wildlife Warden?
-
-A. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-B. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-C. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-D. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-
-**Answer: B.**
-**Explanation:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q67. Which statement uses State and Chief Wildlife Warden without changing its scale, parameter or status?
-
-A. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-B. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-C. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-D. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-
-**Answer: C.**
-**Explanation:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q68. Which option avoids the standard UPSC close-option trap about State and Chief Wildlife Warden?
-
-A. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-B. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-C. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-D. State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-
-**Answer: D.**
-**Explanation:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q69. Which statement correctly identifies NBWL and NTCA?
-
-A. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-B. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-C. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-D. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-
-**Answer: A.**
-**Explanation:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q70. Which option preserves the ecological boundary of NBWL and NTCA?
-
-A. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-B. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-C. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-D. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-
-**Answer: B.**
-**Explanation:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q71. Which statement uses NBWL and NTCA without changing its scale, parameter or status?
-
-A. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-B. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-C. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-D. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-
-**Answer: C.**
-**Explanation:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q72. Which option avoids the standard UPSC close-option trap about NBWL and NTCA?
-
-A. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-B. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-C. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-D. NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-
-**Answer: D.**
-**Explanation:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q73. Which statement correctly identifies Science, law and trade?
-
-A. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-B. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-C. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-D. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-
-**Answer: A.**
-**Explanation:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q74. Which option preserves the ecological boundary of Science, law and trade?
-
-A. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-B. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-C. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-D. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-
-**Answer: B.**
-**Explanation:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q75. Which statement uses Science, law and trade without changing its scale, parameter or status?
-
-A. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-B. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-C. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-D. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-
-**Answer: C.**
-**Explanation:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Science, law and trade?
-
-A. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-B. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-C. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-D. IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-
-**Answer: D.**
-**Explanation:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q77. Which statement correctly identifies Audited PYQ vintage boundary?
-
-A. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-B. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-C. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-D. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-
-**Answer: A.**
-**Explanation:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q77. Which statement correctly identifies Audited PYQ vintage boundary?”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q77. Which statement correctly identifies Audited PYQ vintage boundary?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q77. Which statement correctly identifies Audited PYQ vintage boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q77. Which statement correctly identifies Audited PYQ vintage boundary?”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Q77. Which statement correctly identifies Audited PYQ vintage boundary?”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### Q78. Which option preserves the ecological boundary of Audited PYQ vintage boundary?
-
-A. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-B. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-C. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-D. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-
-**Answer: B.**
-**Explanation:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-**Demand decoding:** Treat “Q78. Which option preserves the ecological boundary of Audited PYQ vintage boundary?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q78. Which option preserves the ecological boundary of Audited PYQ vintage boundary?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q78. Which option preserves the ecological boundary of Audited PYQ vintage boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q78. Which option preserves the ecological boundary of Audited PYQ vintage boundary?”.
-
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
-
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
-
-**How to improve this answer:** For “Q78. Which option preserves the ecological boundary of Audited PYQ vintage boundary?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
-
-### Q79. Which statement uses Audited PYQ vintage boundary without changing its scale, parameter or status?
-
-A. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-B. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-C. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-D. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-
-**Answer: C.**
-**Explanation:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q79. Which statement uses Audited PYQ vintage boundary without changing its scale, parameter…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q79. Which statement uses Audited PYQ vintage boundary without changing its scale, parameter or status?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q79. Which statement uses Audited PYQ vintage boundary without changing its scale, parameter or status? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q79. Which statement uses Audited PYQ vintage boundary without changing its scale, parameter or status?”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Q79. Which statement uses Audited PYQ vintage boundary without changing its scale, parameter…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ vintage boundary?
-
-A. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-B. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-C. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-D. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-
-**Answer: D.**
-**Explanation:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-## PYQS AND ANSWER PRACTICE
-
-**Demand decoding:** Treat “Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ vintage…” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ vintage boundary?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ vintage boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ vintage boundary?”.
-
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
-
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
-
-**How to improve this answer:** For “Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ vintage…”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
-
-### VERIFIED OBJECTIVE-ONLY PYQ OWNERSHIP AUDIT
-
-Audited ledgers route the 2020 old Schedule VI plant demand, 2022 protected-animal provisions and 2024 Indian Flying Fox vermin framing. They remain answer-free objective demands. The package fixes the legal time point and does not infer a species placement, penalty, notification or option key.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 9. PYQ application
-
-- ⚠️ Recurring Prelims pattern: identify the correct number of schedules post-2022 and match
-  the CITES-alignment feature to Schedule IV specifically.
-- ⚠️ Mains linkage: the domestic-law-to-international-obligation alignment (Schedule IV/
-  CITES) is used to argue for coherent, enforceable wildlife-trade governance.
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
-
-- **Years represented:** 2024
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 20 | Indian Flying Fox 'vermin' category under the Wild Life (Protection) Act, 1972 | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Indian Flying Fox 'vermin' category under the Wild Life (Protection) Act, 1972
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2020, 2022
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | Prelims GS-I | 81 | Schedule VI Wildlife Protection Act plant species implications | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 89 | Indian wildlife protection laws and protected animal provisions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Schedule VI Wildlife Protection Act plant species implications
-- Indian wildlife protection laws and protected animal provisions
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ Prelims statement-based questions on the 2022 amendment typically test the schedule-
-  count change and the CITES-alignment feature — apply the "four schedules, Schedule IV
-  mirrors CITES" rule to eliminate incorrect options quickly.
-- ⚠️ Mains answers should connect the 2022 amendment explicitly to India's CITES compliance
-  narrative (Topic 09) and to enforcement-capacity critique, rather than describing it as an
-  isolated domestic legal change.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Explain the post-2022 four-schedule structure. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Legal vintage first. **Named evidence/example:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Six schedules to four. **Named evidence/example:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule I. **Named evidence/example:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule II. **Named evidence/example:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule III. **Named evidence/example:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-- The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-- Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-- Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-- Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-- Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-
-**Qualified conclusion:** **Claim:** Legal vintage first. **Named evidence/example:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Six schedules to four. **Named evidence/example:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule I. **Named evidence/example:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule II. **Named evidence/example:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule III. **Named evidence/example:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the post-2022 four-schedule structure. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Legal vintage first. **Named evidence/example:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Six schedules to four. **Named evidence/example:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule I. **Named evidence/example:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule II. **Named evidence/example:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule III. **Named evidence/example:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Legal vintage first. **Named evidence/example:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Six schedules to four. **Named evidence/example:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule I. **Named evidence/example:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule II. **Named evidence/example:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule III. **Named evidence/example:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain the post-2022 four-schedule structure. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Distinguish Schedule IV trade control from animal protection tiers. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Schedule I. **Named evidence/example:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule II. **Named evidence/example:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science, law and trade. **Named evidence/example:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-- Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-- Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-- IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-
-**Qualified conclusion:** **Claim:** Schedule I. **Named evidence/example:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule II. **Named evidence/example:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science, law and trade. **Named evidence/example:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish Schedule IV trade control from animal protection tiers. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Schedule I. **Named evidence/example:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule II. **Named evidence/example:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science, law and trade. **Named evidence/example:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Schedule I. **Named evidence/example:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule II. **Named evidence/example:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science, law and trade. **Named evidence/example:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish Schedule IV trade control from animal protection tiers. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain hunting prohibition and narrow statutory exceptions. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Hunting prohibition. **Named evidence/example:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit and exception. **Named evidence/example:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Dangerous or beyond recovery route. **Named evidence/example:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State and Chief Wildlife Warden. **Named evidence/example:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-- Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-- The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-- State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-
-**Qualified conclusion:** **Claim:** Hunting prohibition. **Named evidence/example:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit and exception. **Named evidence/example:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Dangerous or beyond recovery route. **Named evidence/example:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State and Chief Wildlife Warden. **Named evidence/example:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain hunting prohibition and narrow statutory exceptions. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Hunting prohibition. **Named evidence/example:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit and exception. **Named evidence/example:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Dangerous or beyond recovery route. **Named evidence/example:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State and Chief Wildlife Warden. **Named evidence/example:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Hunting prohibition. **Named evidence/example:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permit and exception. **Named evidence/example:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Dangerous or beyond recovery route. **Named evidence/example:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State and Chief Wildlife Warden. **Named evidence/example:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain hunting prohibition and narrow statutory exceptions. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Explain CITES alignment through Schedule IV and the two authorities. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES Management Authority. **Named evidence/example:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES Scientific Authority. **Named evidence/example:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Chapter VB trade architecture. **Named evidence/example:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-- The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-- The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-- The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-
-**Qualified conclusion:** **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES Management Authority. **Named evidence/example:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES Scientific Authority. **Named evidence/example:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Chapter VB trade architecture. **Named evidence/example:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain CITES alignment through Schedule IV and the two authorities. Answer in about 250…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES Management Authority. **Named evidence/example:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES Scientific Authority. **Named evidence/example:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Chapter VB trade architecture. **Named evidence/example:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Schedule IV. **Named evidence/example:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES Management Authority. **Named evidence/example:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CITES Scientific Authority. **Named evidence/example:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Chapter VB trade architecture. **Named evidence/example:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain CITES alignment through Schedule IV and the two authorities. Answer in about 250…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Assess the 2022 amendment as treaty-alignment and enforcement reform. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Six schedules to four. **Named evidence/example:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species placement discipline. **Named evidence/example:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Chapter VB trade architecture. **Named evidence/example:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Invasive alien species. **Named evidence/example:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB statutory role. **Named evidence/example:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NBWL and NTCA. **Named evidence/example:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-- Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-- The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-- The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-- MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-- NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-
-**Qualified conclusion:** **Claim:** Six schedules to four. **Named evidence/example:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species placement discipline. **Named evidence/example:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Chapter VB trade architecture. **Named evidence/example:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Invasive alien species. **Named evidence/example:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB statutory role. **Named evidence/example:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NBWL and NTCA. **Named evidence/example:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the 2022 amendment as treaty-alignment and enforcement reform. Answer in about 300…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Six schedules to four. **Named evidence/example:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species placement discipline. **Named evidence/example:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Chapter VB trade architecture. **Named evidence/example:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Invasive alien species. **Named evidence/example:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB statutory role. **Named evidence/example:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NBWL and NTCA. **Named evidence/example:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Six schedules to four. **Named evidence/example:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species placement discipline. **Named evidence/example:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Chapter VB trade architecture. **Named evidence/example:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Invasive alien species. **Named evidence/example:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** WCCB statutory role. **Named evidence/example:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NBWL and NTCA. **Named evidence/example:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Assess the 2022 amendment as treaty-alignment and enforcement reform. Answer in about 300…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Why must wildlife-law answers be time-sensitive and jurisdiction-specific? Answer in about 300 words.
-
-**Model thesis:** **Claim:** Legal vintage first. **Named evidence/example:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species placement discipline. **Named evidence/example:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Vermin time point. **Named evidence/example:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State and Chief Wildlife Warden. **Named evidence/example:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science, law and trade. **Named evidence/example:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ vintage boundary. **Named evidence/example:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-- Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-- The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-- State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-- IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-- Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
-
-**Qualified conclusion:** **Claim:** Legal vintage first. **Named evidence/example:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species placement discipline. **Named evidence/example:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Vermin time point. **Named evidence/example:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State and Chief Wildlife Warden. **Named evidence/example:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science, law and trade. **Named evidence/example:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ vintage boundary. **Named evidence/example:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why must wildlife-law answers be time-sensitive and jurisdiction-specific? Answer in about…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Legal vintage first. **Named evidence/example:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species placement discipline. **Named evidence/example:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Vermin time point. **Named evidence/example:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State and Chief Wildlife Warden. **Named evidence/example:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science, law and trade. **Named evidence/example:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ vintage boundary. **Named evidence/example:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Legal vintage first. **Named evidence/example:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Species placement discipline. **Named evidence/example:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Vermin time point. **Named evidence/example:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State and Chief Wildlife Warden. **Named evidence/example:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science, law and trade. **Named evidence/example:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ vintage boundary. **Named evidence/example:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Why must wildlife-law answers be time-sensitive and jurisdiction-specific? Answer in about…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims, with GS-II legal/governance linkage.
-> **Core area:** Domestic wildlife law architecture.
-> **Grounded in:** Wildlife (Protection) Amendment Act, 2022 (India Code); PRS Legislative Research bill analysis; MoEFCC notifications; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
-> *Companion: `basic/08_Wildlife-Protection-Act-and-Schedules.md`.*
+### A. Schedule IV is incorporation, not automatic treaty monism
 
-#### 1. Why the 2022 amendment is a treaty-compliance statute, not merely a tidy-up
+The statute defines a scheduled specimen as a CITES-listed species **incorporated as such in Schedule IV**. Section 61 supplies the domestic notification route to amend a Schedule. Therefore, an international Appendix decision and its Indian legal effect are linked but not procedurally identical.
 
-⚠️ The restructuring from six schedules to four was not primarily a simplification exercise —
-its central legal-policy driver was closing gaps flagged in India's CITES compliance
-(bringing domestic schedules into direct correspondence with CITES Appendices I/II/III via
-the new Schedule IV) and empowering more effective enforcement against wildlife trafficking,
-which had been identified as a persistent gap between India's international commitments and
-its enforceable domestic provisions. Mains answers should present the 2022 amendment as a
-compliance-and-enforcement reform, not just a schedule count reduction.
+### B. Dual-listing prevents the trade chapter from diluting domestic protection
 
-#### 2. Key substantive changes introduced by the 2022 amendment
+Section 49R makes Schedule I/II provisions prevail where the same species is also in Schedule IV. It also removes dual-listed species from Sections 49M–49O. The result is a hierarchy of application, not a hierarchy of schedule numbers.
 
-| Change | Legal/governance significance |
-|---|---|
-| ✅ Schedule restructuring (6 → 4): Schedules I and II for **animals**, Schedule III for **plants** (formerly Schedule VI), Schedule IV for **CITES-listed scheduled specimens**; the old **Schedule V (vermin) omitted** | Directly operationalises CITES Appendix listings in domestic law, closing the enforcement gap where a CITES-listed species lacked an exact domestic equivalent — and removes a standing statutory vermin list that had drawn criticism for enabling blanket culling declarations. |
-| ✅ New chapter on **regulation of international trade in scheduled specimens**, with statutory designation of a **Management Authority** and a **Scientific Authority** | Gives India the exact two-authority institutional architecture CITES requires of every Party, moving the designation from administrative practice to statute (Topic 09). |
-| ✅ Central government empowered to regulate/manage **invasive alien species** | Extends wildlife law beyond native-species protection to proactive control of ecologically damaging introduced species — a notable conceptual widening of the Act's scope. |
-| ✅ Statutory backing for **management plans** for sanctuaries and national parks | Strengthens the administrative backbone of the protected-area network (Topic 06) by making the plan, rather than ad hoc administrative decision, the operative instrument. |
-| ✅ Provision for **voluntary surrender** of captive animals/derivatives to the Chief Wildlife Warden, which then vest in the government | A pragmatic amnesty-style route to bring undeclared holdings into the legal system rather than driving them underground. |
-| ⚠️ Strengthened penalty and enforcement framework, intended to support international cooperation on trafficking | Aims to improve India's standing and effectiveness in CITES-related enforcement cooperation, though outcomes depend on state-level implementation capacity. |
+### C. Current rules complete the 2022 framework
 
-#### 3. The CITES-alignment mechanism in legal-technical detail
+- **Breeders of Species Licence Rules, 2023:** Appendix I breeding/artificial propagation.
+- **International Trade of Specimens Rules, 2023:** electronic permit/certificate workflow and scientific advice.
+- **Living Animal Species Rules, 2024:** reporting/registration of Schedule IV living animals.
+- **Captive Elephant Rules, 2024:** verified transfer/transport under the Section 43 proviso.
 
-1. ✅ Schedule IV under the amended Act is structured with parts corresponding to CITES
-   Appendices I, II and III, meaning a species newly added to a CITES Appendix (via CITES
-   Conference of Parties decisions) can, in principle, be reflected in Indian domestic law
-   through a corresponding Schedule IV update rather than requiring an entirely separate
-   domestic classification exercise.
-2. ⚠️ **Analytical caution:** this "mirroring" is a structural alignment mechanism, not an
-   automatic, instantaneous incorporation — actual domestic legal effect still requires the
-   relevant Indian notification process to update Schedule IV following a CITES Appendix
-   change; the two processes are linked in design but not procedurally instantaneous.
-3. ⚠️ This is the concrete answer to why India's 2022 amendment is frequently cited in the
-   same breath as CITES (Topic 09) — the reform exists specifically to make Indian law's
-   species classification legible and directly comparable to CITES' international trade-
-   regulation categories.
+These are delegated rules. Do not call them fresh amendments to the Act.
 
-#### 4. Enforcement architecture and implementation gaps
+### D. Institutional overlap should be drawn as a chain
 
-- ✅ **Wildlife Crime Control Bureau (WCCB):** coordinates intelligence, investigation
-  support and international liaison (e.g., with INTERPOL environmental-crime mechanisms) on
-  organised wildlife trafficking.
-- ⚠️ **Implementation gap:** wildlife-crime prosecution in India has faced documented
-  challenges including low conviction rates, capacity constraints in forensic wildlife
-  identification (species/part identification for prosecution), and jurisdictional
-  coordination difficulties across state forest departments, police and customs when
-  trafficking crosses state or international borders.
-- ⚠️ Invasive-alien-species regulation is a newly empowered but still maturing governance
-  area — identifying, listing and effectively controlling invasive species (which may
-  already be economically entrenched, e.g., certain ornamental or agricultural species)
-  involves a genuine trade-off between ecological risk management and existing economic use,
-  a nuance Mains answers should acknowledge rather than treating invasive-species control as
-  administratively simple.
+```text
+Scientific Authority → conservation advice
+Management Authority → CITES document
+Customs/Coast Guard → border control
+WCCB → intelligence and coordination
+State forest/police → investigation and field action
+authorised complainant → prosecution
+court/competent authority → sentence and forfeiture
+```
 
-#### 5. Data and conceptual limitations
+No single institution owns the whole chain.
 
-- ⚠️ Comprehensive, real-time national data on wildlife-crime prosecution outcomes
-  (conviction rates, case backlogs) is not centrally published in a single standardised
-  dataset; analytical claims about enforcement effectiveness should be qualified as
-  indicative rather than precisely quantified unless a specific WCCB/NCRB report is cited.
-- ⚠️ The exact, current species-to-Schedule mapping is subject to periodic gazette
-  notification and is not static — any specific species-Schedule claim beyond well-
-  established flagship examples (tiger, elephant in Schedule I) should be verified against
-  the latest MoEFCC notification before being treated as settled fact.
+### E. Rights safeguards are part of conservation legality
 
-#### 6. Recurring UPSC analytical tensions
+Section 38V’s tiger-core safeguards, Section 33’s Gram Sabha consultation and the FRA’s separate Critical Wildlife Habitat process show that conservation legitimacy depends on jurisdiction and procedure. “Rights” cannot be used to erase conservation duties; “conservation” cannot be used to bypass completed-rights, consent and rehabilitation requirements.
 
-| Tension | Balanced framing |
-|---|---|
-| Legal alignment with CITES vs actual enforcement capacity | Structural alignment (Schedule IV) is necessary but must be matched with forensic, prosecutorial and cross-border coordination capacity to translate into real deterrence. |
-| Native-species protection focus vs invasive-species control mandate | The 2022 amendment's invasive-species provision reflects a maturing, ecosystem-level (not just single-species) view of wildlife law, but implementation must weigh existing economic dependencies. |
-| Central Schedule-setting vs state-level enforcement variability | Uniform national Schedules do not guarantee uniform state-level enforcement outcomes — capacity-building remains state-dependent. |
+### F. Legal-source caution
 
-#### 7. Must-Know Facts for Advanced Prelims
+- Reproduce the Act’s penalty or procedure only with the exact offence category.
+- Do not infer “non-bailable” from seriousness alone.
+- Do not infer a present Section 62/62A notification from ecological reputation.
+- Do not use an old schedule number without the question date.
+- Do not infer species recovery from notification, seizure or permit count.
 
-- ✅ The Wildlife (Protection) Amendment Act, 2022 restructured six schedules into four and
-  introduced a CITES Appendix-mirroring Schedule IV.
-- ✅ Post-2022 schedule content: I and II = animals (greater/lesser protection), III =
-  plants, IV = CITES scheduled specimens; the vermin schedule was **omitted**.
-- ✅ The 2022 amendment empowered the central government to regulate/manage invasive alien
-  species — a scope extension beyond native-species protection.
-- ✅ The amendment gave **statutory** footing to India's CITES **Management Authority** and
-  **Scientific Authority**, and to **management plans** for sanctuaries and national parks.
-- ✅ The Wildlife Crime Control Bureau (WCCB) coordinates intelligence and enforcement
-  against organised wildlife trafficking, including international liaison.
-- ✅ Schedule IV's CITES-mirroring structure is a legal-alignment mechanism, not an automatic,
-  instantaneous incorporation of every CITES Appendix change.
-
-#### 8. Advanced Prelims traps
-
-- ❌ CITES Appendix changes automatically and instantly amend India's Schedule IV without any
-  domestic notification process. -> Domestic legal effect still requires an Indian
-  notification updating Schedule IV following a CITES Appendix change.
-- ❌ The invasive-alien-species provision under the 2022 amendment applies only to plants. ->
-  It is designed to cover invasive species broadly, extending the Act's ecosystem-level
-  scope.
-- ❌ Wildlife-crime enforcement challenges in India are purely a legal-drafting problem. ->
-  Documented challenges include forensic capacity, prosecutorial resources and cross-
-  jurisdictional coordination, not only statutory text.
-- ❌ All Indian states have uniformly strong wildlife-crime enforcement capacity. -> Capacity
-  varies significantly by state, despite uniform national Schedule classification.
-
-#### 9. 📰 Current anchor — analytical use
-
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 Wildlife (Protection) Amendment Act, 2022 — current governing legal structure (4 schedules, CITES-mirroring Schedule IV, invasive-species provision). | Use as the baseline legal framework for any question on India's wildlife-trade law; verify any subsequent notification/amendment before citing further updates. |
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ Prelims statement-based questions on the 2022 amendment typically test the schedule-
-  count change and the CITES-alignment feature — apply the "four schedules, Schedule IV
-  mirrors CITES" rule to eliminate incorrect options quickly.
-- ⚠️ Mains answers should connect the 2022 amendment explicitly to India's CITES compliance
-  narrative (Topic 09) and to enforcement-capacity critique, rather than describing it as an
-  isolated domestic legal change.
-
-#### 11. Mains-ready framework
-
-**Central thesis:** The Wildlife (Protection) Amendment Act, 2022 is best understood as a
-treaty-compliance and enforcement reform — restructuring domestic Schedules to mirror CITES
-Appendices and widening the Act's scope to invasive species — but its real conservation
-impact depends on closing the enforcement-capacity gap (forensic, prosecutorial, cross-
-jurisdictional) that has historically limited Indian wildlife-crime deterrence.
-
-1. State the 2022 amendment's structural changes (four schedules, CITES-mirroring Schedule
-   IV, invasive-species empowerment).
-2. Explain the CITES-alignment mechanism precisely, including that it requires a domestic
-   notification step, not automatic incorporation.
-3. Identify the enforcement-architecture bodies (WCCB, state departments) and their
-   documented capacity constraints.
-4. Flag the invasive-species economic-use trade-off as a genuine implementation nuance.
-5. Conclude with a capacity-building, not just legal-restructuring, recommendation.
-
-#### 12. Probable questions
-
-- ⚠️ **Prelims:** Identify correct statements on the number of schedules and the CITES-
-  mirroring feature introduced by the 2022 amendment.
-- ⚠️ **Mains (10 marks):** How does Schedule IV of the amended Wildlife Protection Act align
-  with CITES Appendices, and what are the limits of this alignment mechanism?
-- ⚠️ **Mains (15 marks):** Critically evaluate whether the Wildlife (Protection) Amendment
-  Act, 2022 has meaningfully strengthened India's enforcement capacity against wildlife
-  trafficking.
-
-#### 13. Study links
-
-- ✅ Foundation companion: `basic/08_Wildlife-Protection-Act-and-Schedules.md`.
-- ✅ `09_CITES-and-Wildlife-Trade.md` — the international treaty this reform aligns with.
-- ✅ `06_Protected-Area-Network-India.md` — protected-area provisions strengthened by the
-  same amendment.
-- ✅ `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` — WCCB's full institutional
-  mandate.
+---
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Wildlife Protection Act and Schedules: LEGAL VINTAGE, SCHEDULE AND AUTHORITY MAP
+### Legal vintage and chronology
 
-1. **Legal vintage first:** Every answer must identify whether it uses the pre-2022 six-schedule structure or the post-2022 four-schedule structure of the Wildlife Protection Act.
-2. **Six schedules to four:** The Wildlife Protection Amendment Act 2022 restructured the earlier six schedules into four; an older PYQ may still test the law in force at its own time point.
-3. **Schedule I:** Under the post-2022 owner framework, Schedule I lists animals receiving the greatest degree of protection; no species placement is assumed without the current schedule.
-4. **Schedule II:** Schedule II lists animals receiving a lesser degree of protection than Schedule I, while still remaining protected under the Act.
-5. **Schedule III:** Post-2022 Schedule III is the specified plant schedule; it is not a third animal-protection tier and replaces the function of old Schedule VI.
-6. **Schedule IV:** Post-2022 Schedule IV covers CITES-listed scheduled specimens for international trade regulation; it is not a higher protection rung than Schedule I or II.
-7. **Species placement discipline:** Exact species-to-schedule placement can change through the applicable legal process and must be checked against the current consolidated schedule or notification.
-8. **Vermin time point:** The old Schedule V vermin list was omitted in 2022; the owner records a central notification route for a specified area and period and excludes Schedule I animals.
-9. **Hunting prohibition:** The Act's baseline is prohibition of hunting protected wild animals; a legal exception must be traced to its statutory condition, authority and written permission.
-10. **Permit and exception:** Scientific, educational, collection or management purposes do not create a free-standing right to hunt; the applicable permit and statutory conditions remain necessary.
-11. **Dangerous or beyond recovery route:** The owner records narrow action where an animal is dangerous to human life or disabled or diseased beyond recovery, with the competent authority depending on schedule and provision.
-12. **CITES Management Authority:** The post-2022 framework requires a Management Authority for permits and certificates in international trade in scheduled specimens.
-13. **CITES Scientific Authority:** The Scientific Authority advises on the conservation consequences of trade; it performs a different function from the permit-issuing Management Authority.
-14. **Chapter VB trade architecture:** The 2022 amendment inserted a dedicated international-trade chapter for scheduled specimens, translating CITES obligations into domestic legal machinery.
-15. **Invasive alien species:** The amendment empowered the Central Government to regulate or prohibit the import, trade, possession or proliferation of invasive alien species under the applicable provision.
-16. **WCCB statutory role:** MoEFCC's retrievable page states that WCCB was constituted under section 38Y and lists section 38Z functions including intelligence, coordination, capacity and international cooperation.
-17. **State and Chief Wildlife Warden:** State wildlife departments and the Chief Wildlife Warden perform on-ground authorisation and enforcement functions; their jurisdiction must not be assigned to WCCB.
-18. **NBWL and NTCA:** NBWL and NTCA exercise protected-area and tiger-specific roles under their respective provisions; they do not replace the Chief Wildlife Warden or CITES authorities.
-19. **Science, law and trade:** IUCN category assesses extinction risk, Wildlife Protection Act schedules create domestic legal consequences, and CITES regulates international trade; the three systems are related but distinct.
-20. **Audited PYQ vintage boundary:** Routed demands cover old Schedule VI plant implications, protected-animal provisions and a 2024 Indian Flying Fox vermin question; each must be answered at its legal time point without inferring an option key.
+- Parent statute: Wild Life (Protection) Act, 1972; current long title includes conservation, protection and management for ecological/environmental security.
+- Major milestones: 1986 trade prohibition; 1991 plants/CZA; 2002–03 Boards, Conservation/Community Reserves and forfeiture; 2006 NTCA/WCCB; 2022 reform effective **1 April 2023**.
+- Historical six schedules must never be stated as current law.
 
-### Wildlife Protection Act and Schedules: PROHIBITION, EXCEPTION, VERMIN AND TRADE TRAPS
+### Current schedules
 
-- Do not answer a pre-2022 question with the post-2022 schedule count without qualification.
-- Do not say the current Act still has six schedules.
-- Do not assign a species to Schedule I from memory without checking the current text.
-- Do not describe Schedule II as unprotected wildlife.
-- Do not call post-2022 Schedule III an animal-protection tier.
-- Do not call Schedule IV the highest domestic protection category.
-- Do not treat CITES Appendix change as an instantaneous Indian schedule amendment.
-- Do not say the old Schedule V vermin list still exists.
-- Do not convert a hunting exception into a general permission.
-- Do not omit the competent authority and written-permission requirement.
-- Do not merge Management Authority and Scientific Authority functions.
-- Do not use WCCB as the authority for every wildlife-law decision.
-- Do not attach a penalty amount without the applicable amendment and offence provision.
-- Do not equate an IUCN category, domestic schedule and CITES Appendix.
-- Do not infer an objective answer key from a routed PYQ demand.
+- **I:** animals; strongest ordinary schedule-linked penalty.
+- **II:** protected animals; Section 62 notification can operate only for a stated animal, area and period.
+- **III:** specified plants; Chapter IIIA.
+- **IV:** CITES Appendices I–III scheduled specimens; international-trade function.
+- Schedule IV is not “higher” than I; Section 49R makes I/II prevail on dual listing.
+- Section 61 makes species placement notification-sensitive.
 
-### Wildlife Protection Act and Schedules: STATUTE-TO-ENFORCEMENT ANSWER SPINE
+### Hunting and vermin
 
-```text
-FIX THE LEGAL TIME POINT: PRE-2022 OR POST-2022
--> STATE THE FUNCTION OF SCHEDULE I, II, III OR IV
--> VERIFY THE SPECIES PLACEMENT OR NOTIFICATION
--> START WITH PROHIBITION, THEN TEST THE NARROW EXCEPTION
--> NAME THE COMPETENT AUTHORITY, PERMIT AND JURISDICTION
--> SEPARATE IUCN SCIENCE, DOMESTIC LAW AND CITES TRADE
--> CONCLUDE WITH FORENSICS, COORDINATION AND ENFORCEMENT CAPACITY
-```
+- Section 9 prohibition covers Schedules I–II throughout India.
+- Hunting includes attempts, capture, trapping, baiting, injury and egg/nest damage.
+- Schedule I danger route: CWLW, written reasons, human-life danger/beyond recovery, least-harm test before killing.
+- Schedule II additionally covers danger to property/crops and may concern a group in a specified area.
+- Good-faith self-defence is narrow; animal becomes Government property.
+- Section 12 permits: education, research, non-lethal scientific management, recognised zoo/museum collection and snake venom for life-saving drugs.
+- Vermin is a Section 62 notification status, not a current schedule.
 
-### Wildlife Protection Act and Schedules: LIVE STATUTE, NOTIFICATION, PENALTY AND SPECIES-PLACEMENT BOUNDARY
+### Plants, possession and commerce
 
-India Code returned HTTP 403 on 2026-09-06. Official state forest department copies of the 2022 amendment were retrievable only as raw or image PDF bytes and were not text-mined. MoEFCC's wildlife page was used narrowly for WCCB sections 38Y and 38Z; its stale or erroneous material was excluded. No species schedule, penalty or later amendment was inferred.
+- Schedule III plants: extraction/possession/sale/transport controls plus permit/licence routes.
+- 2020 old Schedule VI PYQ: cultivation required a licence.
+- Section 39 specifies Government property; report possession within 48 hours.
+- Schedule I possession/transfer/transport is permission/certificate controlled.
+- Section 42A surrender: seven working days’ notice; no compensation; State property.
+- Certificate of ownership does not authorise unrestricted sale or transport.
+- Chapter VA controls commercial trade in scheduled-animal articles/trophies.
 
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+### Institutions
 
-#### ASCII MASTER FLOW — PANEL 1/12: Legal-vintage timeline
+- **NBWL:** national policy, PA recommendations, impact assessment and review.
+- **SBWL:** State advice, including PA management and harmonising forest-dweller needs.
+- **CWLW:** State executive/field authority.
+- **CZA:** zoos.
+- **NTCA:** tigers and tiger reserves.
+- **WCCB:** organised-crime intelligence, coordination and international cooperation.
+- **Management Authority:** CITES permits/certificates/reports.
+- **Scientific Authority:** advice, non-detriment and export monitoring.
 
-```ascii-master
-1972 ACT -> original wildlife-protection framework
-PRE-2022 -> six schedules
-2022 AMENDMENT -> restructuring
-POST-2022 -> four schedules
-RULE -> answer the law applicable to the question's time point
-MUST REMEMBER: The Wildlife Protection Act creates species schedules, protected areas,...
-```
+### CITES and invasive species
 
-#### ASCII MASTER FLOW — PANEL 2/12: Post-2022 schedule map
+- Chapter VB: export, import, re-export and introduction from the sea.
+- Appendix I is the strictest trade route; Appendix II needs controlled export/non-detriment; Appendix III uses origin/listing-country documentation.
+- Schedule IV living animals enter reporting/registration; Appendix I breeding needs a licence.
+- Section 62A: non-native species + threat to wildlife/habitat + Central notification for operative control.
 
-```ascii-master
-SCHEDULE I -> animals, greatest degree of protection
-SCHEDULE II -> animals, lesser degree than Schedule I
-SCHEDULE III -> specified plants
-SCHEDULE IV -> CITES scheduled specimens and trade control
-RULE -> Schedule IV is not another protection rung
-```
+### Penalty and process
 
-#### ASCII MASTER FLOW — PANEL 3/12: Species-placement gate
+- General: up to 3 years / up to ₹1 lakh / both.
+- Serious Schedule I/PA/Appendix I Schedule IV: 3–7 years + minimum ₹25,000.
+- Repeat serious offence: minimum ₹1 lakh fine.
+- Chapter VA: 3–7 years + minimum ₹25,000.
+- Special bail test under Section 51A is limited to a previously convicted accused in specified serious cases.
+- Compounding cap: ₹5 lakh; minimum-term offences cannot be compounded.
+- Search/seizure needs reasonable grounds; person/things go forthwith before Magistrate.
+- Section 55 complaint gate includes a 60-day citizen-notice route.
+- Section 57 creates a rebuttable possession presumption.
+- Chapter VIA: 48-hour reporting, 30-day confirmation, notice, hearing, reverse burden and appeal.
 
-```ascii-master
-NAME A SPECIES -> identify legal date
-CHECK -> current consolidated schedule or notification
-IUCN STATUS -> separate scientific field
-CITES APPENDIX -> separate trade field
-NO MEMORY SHORTCUT -> placement can change
-```
+### Rights and outcome
 
-#### ASCII MASTER FLOW — PANEL 4/12: Vermin time-point map
-
-```ascii-master
-OLD STRUCTURE -> Schedule V vermin list
-2022 CHANGE -> old Schedule V omitted
-CURRENT OWNER ROUTE -> central notification
-LIMITS -> specified area and period; Schedule I excluded
-PYQ RULE -> use the law in force when the question is framed
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Prohibition and exception gate
-
-```ascii-master
-BASELINE -> hunting prohibited
-CLAIMED EXCEPTION -> identify statutory purpose or condition
-AUTHORITY -> Chief Wildlife Warden or other authorised officer
-FORM -> applicable written permission or permit
-RULE -> exception never becomes general permission
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Narrow animal-action route
-
-```ascii-master
-DANGEROUS TO HUMAN LIFE -> test statutory condition
-DISABLED OR DISEASED BEYOND RECOVERY -> test evidence
-SCHEDULE -> determines applicable authority route
-WRITTEN PERMISSION -> retain in the answer
-NO EXTENSION -> do not invent a population-control exception
-CLOSE DISTINCTION: Current schedules must not be replaced by pre-2022 six-schedule...
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: CITES authority split
-
-```ascii-master
-MANAGEMENT AUTHORITY -> permits and certificates
-SCIENTIFIC AUTHORITY -> conservation advice on trade
-CHAPTER VB -> domestic international-trade machinery
-SCHEDULE IV -> scheduled specimens
-RULE -> advice, permission and species listing are separate functions
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: CITES incorporation firewall
-
-```ascii-master
-CITES COP OR APPENDIX -> international decision
-INDIAN LEGAL PROCESS -> applicable domestic update
-SCHEDULE IV -> domestic scheduled-specimen status
-PERMIT SYSTEM -> Management Authority action
-NO AUTOMATICITY -> international change is not instant domestic text
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Invasive alien species power
-
-```ascii-master
-IDENTIFY -> species claimed to be invasive
-VERIFY -> applicable legal notification or order
-CENTRAL POWER -> regulate or prohibit listed activities
-IMPLEMENT -> trade, possession and proliferation controls as applicable
-CAUTION -> no species list is inferred from the enabling power
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: WCCB statutory map
-
-```ascii-master
-SECTION 38Y -> constitution of WCCB on MoEFCC page
-SECTION 38Z -> functions on MoEFCC page
-INTELLIGENCE -> collection, collation and dissemination
-COORDINATION -> enforcement and international cooperation
-LIMIT -> WCCB does not replace every statutory decision-maker
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Domestic authority matrix
-
-```ascii-master
-CHIEF WILDLIFE WARDEN -> state authorisation and enforcement route
-WCCB -> organised wildlife-crime intelligence and coordination
-NBWL -> protected-area governance role
-NTCA -> tiger-specific statutory role
-CITES AUTHORITIES -> international scheduled-specimen trade
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: PYQ and answer spine
-
-```ascii-master
-DATE -> pre-2022 or post-2022 structure
-CLASSIFY -> Schedule I, II, III or IV function
-TRACE -> prohibition, exception, authority and permit
-SEPARATE -> IUCN risk, domestic schedule and CITES trade
-QUALIFY -> verify current placement, penalty and objective key
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State Act/amendment commencement and...
-```
+- Sanctuary plans in FRA/Scheduled Areas require Gram Sabha consultation.
+- Critical tiger habitat is not FRA Critical Wildlife Habitat.
+- Tiger-core rights interference requires completed rights, scientific/social tests, consent, package and facilities.
+- Notification → enforcement capacity → lawful prosecution → deterrence → ecological recovery.
+- **Final answer line:** The 2022 reform clarifies India’s treaty-aligned wildlife-law architecture, but credible conservation still depends on current notifications, scientific advice, rights-compliant field action, forensic/prosecutorial capacity and measurable species–habitat outcomes.

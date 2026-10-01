@@ -1,3095 +1,1483 @@
 ---
-title: "Disaster Management Framework and Sendai — Learner-v2 Refreshed"
+title: "Environment and Ecology 26 — Disaster Management Framework and Sendai"
 topic_key: environment-and-ecology-26
-cover_image: assets/Teaching-Navigation.png
+reviewed: 2026-09-30
 ---
-# Disaster Management Framework and Sendai — Learner-v2 Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.
+# Disaster Management Framework and Sendai — Complete Learning Session
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
-
-- **Generation date:** 2026-09-03.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision, ecological rate, species count, pollution standard, rule threshold, mission outcome or current status was inferred.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited ledgers route the verified 2024 resilience, Sendai-target and urban-flood demands plus related disaster-management questions. No objective key, loss figure, target progress or official model answer is inferred.
-- **Live-link boundary:** UNDRR supplied substantive Sendai framework text. Indian official routes did not yield substantive current legal or plan text in this check, so no disaster loss, target progress, indicator, warning coverage, amended power or plan-status claim is asserted.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
-
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
-
-The checks below were made on 2026-09-03. Substantive official text is used only for the proposition it supports. Stubs, access failures, unrelated pages and thin landing pages are recorded and are not converted into ecological or current-status claims.
-
-- https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030 — attempted 2026-09-03; substantive official text confirmed four priorities, seven targets, adoption context and the Build Back Better wording.
-- https://nidm.gov.in/DMAct.asp — attempted 2026-09-03; the fetched route returned only contact information, so no statutory role, amendment or section claim was imported.
-- https://ndma.gov.in/Governance/DM-Act-2005 — attempted 2026-09-03; the official route returned HTTP 404, so no current Act or institutional wording was imported.
-- https://ndma.gov.in/ — attempted 2026-09-03; no dated plan revision, disaster loss, warning-coverage value or institutional outcome was imported from the general route.
+> **Ownership:** Environment and Ecology cross-cutting frontier; GS-III Disaster Management support.
+> **Canonical owners checked:** Basic 26, Advanced 26 and Environment Master Framework.
+> **Prior art used read-only:** accepted Disaster Management Topics 01 and 02, with hazard applications from Topics 06, 08 and 09.
+> **Current-law rule:** distinguish enacted text, commencement, notification/constitution, delivery and outcome.
+> **Evidence rule:** ✅ verified fact · ⚠️ analytical inference/qualification · ❌ examiner trap.
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Environment and Ecology Basic/Core is answer-complete before optional Advanced depth. |
-| Ecology boundary | System boundary, scale, trophic level, stock/flow, pool/flux, gross/net, unit and time interval are explicit. |
-| Species boundary | Taxon, range, habitat, population trend, IUCN assessment, Indian legal schedule, CITES/CMS listing and endemism remain distinct. |
-| Law/status boundary | Act, amendment, rule, notification, draft, judgment, policy, target, implementation and observed outcome remain distinct and dated. |
-| Institution boundary | Legal form, parent authority, mandate, jurisdiction, standard, consent, enforcement, science and adjudication are not conflated. |
-| Treaty boundary | Membership, annex/appendix, amendment acceptance, target, COP decision, national instrument and outcome remain distinct. |
-| Climate boundary | Emission flow, concentration stock, cumulative budget, forcing, scenario, baseline, unit, mitigation, adaptation, loss-and-damage, avoidance and removal are exact. |
-| Pollution boundary | Source, emission/load, ambient concentration, exposure, parameter, averaging period, unit, standard and jurisdiction are explicit. |
-| Causal method | Chronology, designation, expenditure, capacity, registration and correlation are not promoted into ecological or policy outcomes without mechanism and evidence. |
-| Practice contract | Every solved item has demand decoding, detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\26_Disaster-Management-Framework-and-Sendai.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\learning-sessions\v2\subject-wide-syllabus\environment-and-ecology-26_Learning-Session.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\26_Disaster-Management-Framework-and-Sendai.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Environment-and-Ecology\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- Ecological mechanisms retain direction, pool, flux, limiting factor, spatial scale and time scale.
-- Current species/news claims retain taxon, source, event/publication date, assessment/listing date and access date.
-- IUCN category never substitutes for Wildlife Protection Act schedule, CITES appendix, CMS appendix or endemism.
-- Protected-area categories, treaty designations and institution mandates retain exact legal character.
-- Acts, amendments, rules, draft instruments, notifications and judgments retain operative status and date.
-- Climate figures retain unit, baseline, period, scenario and stock-flow character; global evidence is not silently downscaled to India.
-- Mitigation, adaptation and loss-and-damage remain separate; allowance, offset, avoidance, removal, capture and storage remain separate.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-03:** volatile targets, standards, schedules, species status, treaty outcomes and programme claims retain source/date/status.
-
-**Generation-local live/current sources:**
-- `https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030 — attempted 2026-09-03; substantive official text confirmed four priorities, seven targets, adoption context and the Build Back Better wording.`
-- `https://nidm.gov.in/DMAct.asp — attempted 2026-09-03; the fetched route returned only contact information, so no statutory role, amendment or section claim was imported.`
-- `https://ndma.gov.in/Governance/DM-Act-2005 — attempted 2026-09-03; the official route returned HTTP 404, so no current Act or institutional wording was imported.`
-- `https://ndma.gov.in/ — attempted 2026-09-03; no dated plan revision, disaster loss, warning-coverage value or institutional outcome was imported from the general route.`
-
-**Topic 26 dedicated Disaster Management cross-owners (scope boundary):**
-- `upsc-ai-kit\knowledge\Disaster-Management\basic\01_Concepts-Risk-Resilience-and-Sendai.md`
-- `upsc-ai-kit\knowledge\Disaster-Management\basic\02_Indian-Legal-and-Institutional-Architecture.md`
-- `upsc-ai-kit\knowledge\Disaster-Management\README.md`
-
-
-
-![Refreshed teaching navigation](assets/Teaching-Navigation.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
-
-### SESSION 1 — FOUNDATION — HAZARD EXPOSURE VULNERABILITY CAPACITY AND RISK
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-
-**Technical definition:** Mechanism chain: Hazard boundary - Exposure boundary Qualified use: Define risk through hazard, exposure, vulnerability and capacity.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mechanism chain: Hazard boundary - Exposure boundary Qualified use: Define risk through hazard, exposure, vulnerability and capacity.
-
-#### MUST-WRITE KEYWORDS
-
-- **FOUNDATION**
-- **Hazard exposure vulnerability capacity**
-- **risk**
-- **Mechanism chain**
-- **Qualified use**
-- **A hazard**
-
-**How to use them:** Frame the answer through FOUNDATION; define Hazard exposure vulnerability capacity, connect risk with Mechanism chain to explain the mechanism, and use Qualified use for the decisive comparison or qualification.
-
-#### VISUAL FIRST
+### Learning map
 
 ```text
-HAZARD EXPOSURE VULNERABILITY CAPACITY AND RISK
-01. Hazard boundary
-    |
-    v
-02. Exposure boundary
-BOUNDARY -> Do not merge hazard with disaster.
+risk grammar → whole cycle → resilience/BBB → Sendai → current Indian law
+     → local/inclusive delivery → early warning → EbDRR → hazard applications
+     → PYQ and answer architecture
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+The session teaches the core in that order. The optional block then adds systemic-risk, accountability and implementation depth. Practice is kept in the separate solved workbook rather than duplicated here.
 
-#### CORE EXPLANATION
+### PART I — RISK, CYCLE, RESILIENCE AND SENDAI
 
-A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
 
-#### NAMED EVIDENCE AND MECHANISM
-
-- A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-- Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-
-#### EXAMINER CAUTION
-
-- Do not merge hazard with disaster.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Define risk through hazard, exposure, vulnerability and capacity.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Hazard boundary -> Exposure boundary
-- **Qualified use:** Define risk through hazard, exposure, vulnerability and capacity.
-
-#### CLOSING RECALL FLOW — FOUNDATION — HAZARD EXPOSURE VULNERABILITY CAPACITY AND RISK
+### I.1. The governing idea: hazards do not automatically become disasters
 
 ```text
-START / CONCEPT: FOUNDATION — Hazard exposure vulnerability capacity and risk
-        |
-        v
-EXACT TERMS: FOUNDATION · Hazard exposure vulnerability capacity · risk · Mechanism chain · Qualified use · A hazard
-        |
-        v
-MECHANISM / ARGUMENT: A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-        |
-        v
-CONSEQUENCE / CONTRAST: Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge hazard with disaster.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mechanism chain: Hazard boundary - Exposure boundary Qualified use: Define risk through hazard, exposure, vulnerability and capacity.
+HAZARD
+   + people/assets in harm's way (EXPOSURE)
+   + susceptibility to harm (VULNERABILITY)
+   - usable strengths and resources (CAPACITY)
+                         |
+                         v
+                    DISASTER RISK
+                         |
+             hazardous event actually occurs
+                         |
+        serious disruption exceeds coping ability
+                         |
+                         v
+                      DISASTER
 ```
-### SESSION 2 — FOUNDATION — HAZARD EVENT DISASTER AND COPING THRESHOLD
 
-#### DEFINITION / WHAT THIS IS CALLED
+✅ A **hazard** is a process, phenomenon or human activity capable of causing death, injury, damage, disruption or environmental degradation. It describes *potential*, not the completed social outcome.
 
-**Plain-language definition:** Mechanism chain: Vulnerability boundary Qualified use: Show why an event becomes a disaster only through disruption and coping limits.
+✅ **Exposure** is the presence of people, housing, infrastructure, livelihoods, production capacity and other assets in hazard-prone places. Exposure answers: **who or what is located where harm may occur?**
 
-**Technical definition:** Mains: Show why an event becomes a disaster only through disruption and coping limits.
+✅ **Vulnerability** is the set of physical, social, economic and environmental conditions or processes that increase susceptibility to hazard impacts. It answers: **why are exposed persons or assets likely to suffer unequal harm?**
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+✅ **Capacity** is the combination of strengths, attributes and resources available within an organisation, community or society to manage and reduce risk and strengthen resilience. It includes usable institutions, skills, finance, infrastructure, knowledge, social networks and leadership—not merely assets listed on paper.
 
-> Mechanism chain: Vulnerability boundary Qualified use: Show why an event becomes a disaster only through disruption and coping limits.
+✅ **Disaster risk** is the potential loss of life, injury, or damaged or destroyed assets that could occur in a defined period. UNDRR treats it probabilistically as a function of hazard, exposure, vulnerability and capacity.
 
-#### MUST-WRITE KEYWORDS
+✅ A **disaster** is a serious disruption produced when hazardous events interact with exposure, vulnerability and capacity, causing human, material, economic or environmental losses that exceed or severely test the affected community’s ability to cope.
 
-- **FOUNDATION**
-- **Hazard event disaster**
-- **coping threshold**
-- **Mechanism chain**
-- **Qualified use**
-- **Vulnerability**
+> **Answer-grabbing line:** A hazard is physical potential; a disaster is the socially differentiated outcome of hazard, exposure and vulnerability interacting with inadequate capacity.
 
-**How to use them:** Frame the answer through FOUNDATION; define Hazard event disaster, connect coping threshold with Mechanism chain to explain the mechanism, and use Qualified use for the decisive comparison or qualification.
+**Must-write keywords:** hazard potential · exposure location · vulnerability susceptibility · capacity usable ability · disaster risk · coping threshold.
 
-#### VISUAL FIRST
+**How to write the paragraph:**
+**Claim:** Identical hazards need not produce identical disasters.
+**Named evidence:** A flood striking an unoccupied floodplain has little exposure, whereas the same flood in a dense settlement combines exposure with unsafe housing and livelihood insecurity.
+**Analysis:** Loss changes even if hazard intensity is unchanged because vulnerability and capacity differ.
+**Qualification:** The relation is analytical; disaster losses cannot be calculated from a slogan-like equation without event-specific data.
+
+**Examiner traps**
+
+- Hazard ≠ disaster.
+- Exposure ≠ vulnerability: location is different from susceptibility.
+- Capacity ≠ resilience: capacity is an input; resilience is a system-level ability and outcome across time.
+- A large event need not become a disaster if exposure is low and capacity is adequate.
+- A moderate recurring event can cumulatively be highly damaging.
+
+---
+
+### I.2. Risk equation: a disciplined heuristic, not a universal numerical law
+
+Two formulations appear in the checked sources:
 
 ```text
-HAZARD EVENT DISASTER AND COPING THRESHOLD
-01. Vulnerability boundary
-BOUNDARY -> Do not merge exposure with vulnerability.
+VisionIAS working relation:
+Risk = Probability of Hazard × Degree of Vulnerability
+
+Expanded analytical heuristic used across the subject:
+Risk = f(Hazard, Exposure, Vulnerability, Capacity)
+often visualised as:
+Hazard × Exposure × Vulnerability
+─────────────────────────────────
+             Capacity
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+✅ The first relation is source-grounded. ⚠️ The four-component version is a teaching heuristic that makes exposure and capacity explicit. Neither should be presented as a universally precise arithmetic formula.
 
-#### CORE EXPLANATION
+Risk can be reduced through different levers:
 
-Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-
-#### EXAMINER CAUTION
-
-- Do not merge exposure with vulnerability.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Show why an event becomes a disaster only through disruption and coping limits.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Vulnerability boundary
-- **Qualified use:** Show why an event becomes a disaster only through disruption and coping limits.
-
-#### CLOSING RECALL FLOW — FOUNDATION — HAZARD EVENT DISASTER AND COPING THRESHOLD
-
-```text
-START / CONCEPT: FOUNDATION — Hazard event disaster and coping threshold
-        |
-        v
-EXACT TERMS: FOUNDATION · Hazard event disaster · coping threshold · Mechanism chain · Qualified use · Vulnerability
-        |
-        v
-MECHANISM / ARGUMENT: Mains: Show why an event becomes a disaster only through disruption and coping limits.
-        |
-        v
-CONSEQUENCE / CONTRAST: Do not merge exposure with vulnerability.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility...
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mechanism chain: Vulnerability boundary Qualified use: Show why an event becomes a disaster only through disruption and coping limits.
-```
-### SESSION 3 — FOUNDATION — PREVENTION AND MITIGATION
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mechanism chain: Capacity boundary Qualified use: Separate avoiding risk from reducing unavoidable impact.
-
-**Technical definition:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Do not omit capacity from a risk analysis.
-
-#### MUST-WRITE KEYWORDS
-
-- **FOUNDATION**
-- **Prevention**
-- **mitigation**
-- **Mechanism chain**
-- **Qualified use**
-- **Capacity**
-
-**How to use them:** Frame the answer through FOUNDATION; define Prevention, connect mitigation with Mechanism chain to explain the mechanism, and use Qualified use for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-PREVENTION AND MITIGATION
-01. Capacity boundary
-BOUNDARY -> Do not omit capacity from a risk analysis.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-
-#### EXAMINER CAUTION
-
-- Do not omit capacity from a risk analysis.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Separate avoiding risk from reducing unavoidable impact.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Capacity boundary
-- **Qualified use:** Separate avoiding risk from reducing unavoidable impact.
-
-#### CLOSING RECALL FLOW — FOUNDATION — PREVENTION AND MITIGATION
-
-```text
-START / CONCEPT: FOUNDATION — Prevention and mitigation
-        |
-        v
-EXACT TERMS: FOUNDATION · Prevention · mitigation · Mechanism chain · Qualified use · Capacity
-        |
-        v
-MECHANISM / ARGUMENT: Mechanism chain: Capacity boundary Qualified use: Separate avoiding risk from reducing unavoidable impact.
-        |
-        v
-CONSEQUENCE / CONTRAST: Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: separate avoiding risk from reducing unavoidable impact.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Do not omit capacity from a risk analysis.
-```
-### SESSION 4 — CORE — PREPAREDNESS AND EARLY ACTION
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mechanism chain: Risk relation Qualified use: Place warnings, plans, drills and readiness before the event.
-
-**Technical definition:** Technically, CORE — Preparedness and early action is analysed by relating Preparedness to early action, then testing the relationship through Mechanism chain and Qualified use.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Do not infer risk from hazard intensity alone.
-
-#### MUST-WRITE KEYWORDS
-
-- **Preparedness**
-- **early action**
-- **Mechanism chain**
-- **Qualified use**
-- **Risk**
-- **Qualified**
-
-**How to use them:** Frame the answer through Preparedness; define early action, connect Mechanism chain with Qualified use to explain the mechanism, and use Risk for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-PREPAREDNESS AND EARLY ACTION
-01. Risk relation
-BOUNDARY -> Do not infer risk from hazard intensity alone.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-
-#### EXAMINER CAUTION
-
-- Do not infer risk from hazard intensity alone.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Place warnings, plans, drills and readiness before the event.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Risk relation
-- **Qualified use:** Place warnings, plans, drills and readiness before the event.
-
-#### CLOSING RECALL FLOW — CORE — PREPAREDNESS AND EARLY ACTION
-
-```text
-START / CONCEPT: CORE — Preparedness and early action
-        |
-        v
-EXACT TERMS: Preparedness · early action · Mechanism chain · Qualified use · Risk · Qualified
-        |
-        v
-MECHANISM / ARGUMENT: Mechanism chain: Risk relation Qualified use: Place warnings, plans, drills and readiness before the event.
-        |
-        v
-CONSEQUENCE / CONTRAST: The resulting consequence is that do not infer risk from hazard intensity alone.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: do not infer risk from hazard intensity alone.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Do not infer risk from hazard intensity alone.
-```
-### SESSION 5 — CORE — RESPONSE AND IMMEDIATE NEEDS
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-
-**Technical definition:** Mechanism chain: Disaster boundary Qualified use: Confine response to immediate life-saving and basic-needs action.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-
-#### MUST-WRITE KEYWORDS
-
-- **Response**
-- **immediate needs**
-- **Mechanism chain**
-- **Qualified use**
-- **A disaster**
-- **Disaster**
-
-**How to use them:** Frame the answer through Response; define immediate needs, connect Mechanism chain with Qualified use to explain the mechanism, and use A disaster for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-RESPONSE AND IMMEDIATE NEEDS
-01. Disaster boundary
-BOUNDARY -> Do not call every hazard event a disaster.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-
-#### EXAMINER CAUTION
-
-- Do not call every hazard event a disaster.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Confine response to immediate life-saving and basic-needs action.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Disaster boundary
-- **Qualified use:** Confine response to immediate life-saving and basic-needs action.
-
-#### CLOSING RECALL FLOW — CORE — RESPONSE AND IMMEDIATE NEEDS
-
-```text
-START / CONCEPT: CORE — Response and immediate needs
-        |
-        v
-EXACT TERMS: Response · immediate needs · Mechanism chain · Qualified use · A disaster · Disaster
-        |
-        v
-MECHANISM / ARGUMENT: Mechanism chain: Disaster boundary Qualified use: Confine response to immediate life-saving and basic-needs action.
-        |
-        v
-CONSEQUENCE / CONTRAST: Do not call every hazard event a disaster.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: a disaster is serious disruption and loss that exceeds or severely tests the affected...
-        |
-        v
-ANSWER-GRABBING FORMULATION: A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-```
-### SESSION 6 — CORE — RECOVERY REHABILITATION AND RECONSTRUCTION
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mechanism chain: Prevention-mitigation distinction - Preparedness boundary Qualified use: Separate recovery, rehabilitation and reconstruction before applying Build Back Better.
-
-**Technical definition:** Mains: Separate recovery, rehabilitation and reconstruction before applying Build Back Better.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mechanism chain: Prevention-mitigation distinction - Preparedness boundary Qualified use: Separate recovery, rehabilitation and reconstruction before applying Build Back Better.
-
-#### MUST-WRITE KEYWORDS
-
-- **Recovery rehabilitation**
-- **reconstruction**
-- **Mechanism chain**
-- **Qualified use**
-- **Preparedness**
-- **Separate**
-
-**How to use them:** Frame the answer through Recovery rehabilitation; define reconstruction, connect Mechanism chain with Qualified use to explain the mechanism, and use Preparedness for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-RECOVERY REHABILITATION AND RECONSTRUCTION
-01. Prevention-mitigation distinction
-    |
-    v
-02. Preparedness boundary
-BOUNDARY -> Do not merge prevention with mitigation.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-- Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-
-#### EXAMINER CAUTION
-
-- Do not merge prevention with mitigation.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Separate recovery, rehabilitation and reconstruction before applying Build Back Better.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Prevention-mitigation distinction -> Preparedness boundary
-- **Qualified use:** Separate recovery, rehabilitation and reconstruction before applying Build Back Better.
-
-#### CLOSING RECALL FLOW — CORE — RECOVERY REHABILITATION AND RECONSTRUCTION
-
-```text
-START / CONCEPT: CORE — Recovery rehabilitation and reconstruction
-        |
-        v
-EXACT TERMS: Recovery rehabilitation · reconstruction · Mechanism chain · Qualified use · Preparedness · Separate
-        |
-        v
-MECHANISM / ARGUMENT: Mains: Separate recovery, rehabilitation and reconstruction before applying Build Back Better.
-        |
-        v
-CONSEQUENCE / CONTRAST: Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge prevention with mitigation.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mechanism chain: Prevention-mitigation distinction - Preparedness boundary Qualified use: Separate recovery, rehabilitation and reconstruction before applying Build Back Better.
-```
-### SESSION 7 — CORE — BUILD BACK BETTER AND RISK FEEDBACK
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mechanism chain: Response boundary Qualified use: Use recovery to reduce future risk rather than reproduce vulnerability.
-
-**Technical definition:** Mains: Use recovery to reduce future risk rather than reproduce vulnerability.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mechanism chain: Response boundary Qualified use: Use recovery to reduce future risk rather than reproduce vulnerability.
-
-#### MUST-WRITE KEYWORDS
-
-- **Build Back Better**
-- **risk feedback**
-- **Mechanism chain**
-- **Qualified use**
-- **Response**
-- **Qualified**
-
-**How to use them:** Frame the answer through Build Back Better; define risk feedback, connect Mechanism chain with Qualified use to explain the mechanism, and use Response for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-BUILD BACK BETTER AND RISK FEEDBACK
-01. Response boundary
-BOUNDARY -> Do not call preparedness a response activity.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-
-#### EXAMINER CAUTION
-
-- Do not call preparedness a response activity.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Use recovery to reduce future risk rather than reproduce vulnerability.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Response boundary
-- **Qualified use:** Use recovery to reduce future risk rather than reproduce vulnerability.
-
-#### CLOSING RECALL FLOW — CORE — BUILD BACK BETTER AND RISK FEEDBACK
-
-```text
-START / CONCEPT: CORE — Build Back Better and risk feedback
-        |
-        v
-EXACT TERMS: Build Back Better · risk feedback · Mechanism chain · Qualified use · Response · Qualified
-        |
-        v
-MECHANISM / ARGUMENT: Mains: Use recovery to reduce future risk rather than reproduce vulnerability.
-        |
-        v
-CONSEQUENCE / CONTRAST: Do not call preparedness a response activity.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: use recovery to reduce future risk rather than reproduce vulnerability.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mechanism chain: Response boundary Qualified use: Use recovery to reduce future risk rather than reproduce vulnerability.
-```
-### SESSION 8 — CORE — CONTINUOUS DISASTER-MANAGEMENT CYCLE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mechanism chain: Recovery boundary Qualified use: Link every phase through feedback rather than a one-way cycle.
-
-**Technical definition:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mechanism chain: Recovery boundary Qualified use: Link every phase through feedback rather than a one-way cycle.
-
-#### MUST-WRITE KEYWORDS
-
-- **Continuous disaster-management cycle**
-- **Mechanism chain**
-- **Qualified use**
-- **Recovery**
-- **Qualified**
-- **CORE — Continuous disaster-management cycle**
-
-**How to use them:** Frame the answer through Continuous disaster-management cycle; define Mechanism chain, connect Qualified use with Recovery to explain the mechanism, and use Qualified for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-CONTINUOUS DISASTER-MANAGEMENT CYCLE
-01. Recovery boundary
-BOUNDARY -> Do not call emergency response long-term recovery.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-
-#### EXAMINER CAUTION
-
-- Do not call emergency response long-term recovery.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Link every phase through feedback rather than a one-way cycle.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Recovery boundary
-- **Qualified use:** Link every phase through feedback rather than a one-way cycle.
-
-#### CLOSING RECALL FLOW — CORE — CONTINUOUS DISASTER-MANAGEMENT CYCLE
-
-```text
-START / CONCEPT: CORE — Continuous disaster-management cycle
-        |
-        v
-EXACT TERMS: Continuous disaster-management cycle · Mechanism chain · Qualified use · Recovery · Qualified · CORE — Continuous disaster-management cycle
-        |
-        v
-MECHANISM / ARGUMENT: Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-        |
-        v
-CONSEQUENCE / CONTRAST: Do not call emergency response long-term recovery.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: recovery restores and improves livelihoods, systems and assets after emergency response.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mechanism chain: Recovery boundary Qualified use: Link every phase through feedback rather than a one-way cycle.
-```
-### SESSION 9 — CORE — DISASTER MANAGEMENT ACT DOMESTIC ARCHITECTURE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mechanism chain: Build-Back-Better boundary Qualified use: Anchor domestic roles in the Disaster Management Act.
-
-**Technical definition:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mechanism chain: Build-Back-Better boundary Qualified use: Anchor domestic roles in the Disaster Management Act.
-
-#### MUST-WRITE KEYWORDS
-
-- **Disaster Management Act domestic architecture**
-- **Mechanism chain**
-- **Qualified use**
-- **Build Back Better**
-- **Qualified**
-- **Anchor**
-
-**How to use them:** Frame the answer through Disaster Management Act domestic architecture; define Mechanism chain, connect Qualified use with Build Back Better to explain the mechanism, and use Qualified for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-DISASTER MANAGEMENT ACT DOMESTIC ARCHITECTURE
-01. Build-Back-Better boundary
-BOUNDARY -> Do not reduce recovery to rebuilding identical assets.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-
-#### EXAMINER CAUTION
-
-- Do not reduce recovery to rebuilding identical assets.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Anchor domestic roles in the Disaster Management Act.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Build-Back-Better boundary
-- **Qualified use:** Anchor domestic roles in the Disaster Management Act.
-
-#### CLOSING RECALL FLOW — CORE — DISASTER MANAGEMENT ACT DOMESTIC ARCHITECTURE
-
-```text
-START / CONCEPT: CORE — Disaster Management Act domestic architecture
-        |
-        v
-EXACT TERMS: Disaster Management Act domestic architecture · Mechanism chain · Qualified use · Build Back Better · Qualified · Anchor
-        |
-        v
-MECHANISM / ARGUMENT: Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-        |
-        v
-CONSEQUENCE / CONTRAST: Do not reduce recovery to rebuilding identical assets.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: anchor domestic roles in the Disaster Management Act.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mechanism chain: Build-Back-Better boundary Qualified use: Anchor domestic roles in the Disaster Management Act.
-```
-### SESSION 10 — CORE — NDMA AND NATIONAL EXECUTIVE COMMITTEE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mechanism chain: Cycle-continuum boundary Qualified use: Differentiate policy authority from executive coordination.
-
-**Technical definition:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mechanism chain: Cycle-continuum boundary Qualified use: Differentiate policy authority from executive coordination.
-
-#### MUST-WRITE KEYWORDS
-
-- **NDMA**
-- **National Executive Committee**
-- **Mechanism chain**
-- **Qualified use**
-- **Prevention, mitigation, preparedness, response and recovery**
-- **Prevention**
-
-**How to use them:** Frame the answer through NDMA; define National Executive Committee, connect Mechanism chain with Qualified use to explain the mechanism, and use Prevention, mitigation, preparedness, response and recovery for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-NDMA AND NATIONAL EXECUTIVE COMMITTEE
-01. Cycle-continuum boundary
-BOUNDARY -> Do not make the disaster cycle a one-way sequence.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-
-#### EXAMINER CAUTION
-
-- Do not make the disaster cycle a one-way sequence.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Differentiate policy authority from executive coordination.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Cycle-continuum boundary
-- **Qualified use:** Differentiate policy authority from executive coordination.
-
-#### CLOSING RECALL FLOW — CORE — NDMA AND NATIONAL EXECUTIVE COMMITTEE
-
-```text
-START / CONCEPT: CORE — NDMA and National Executive Committee
-        |
-        v
-EXACT TERMS: NDMA · National Executive Committee · Mechanism chain · Qualified use · Prevention, mitigation, preparedness, response and recovery · Prevention
-        |
-        v
-MECHANISM / ARGUMENT: Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-        |
-        v
-CONSEQUENCE / CONTRAST: Do not make the disaster cycle a one-way sequence.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: prevention, mitigation, preparedness, response and recovery are linked phases with feedback.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mechanism chain: Cycle-continuum boundary Qualified use: Differentiate policy authority from executive coordination.
-```
-### SESSION 11 — CORE — NIDM NDRF AND OPERATIONAL BOUNDARIES
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mechanism chain: Domestic-law boundary - NDMA-NEC boundary Qualified use: Differentiate training and research from specialised response operations.
-
-**Technical definition:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mechanism chain: Domestic-law boundary - NDMA-NEC boundary Qualified use: Differentiate training and research from specialised response operations.
-
-#### MUST-WRITE KEYWORDS
-
-- **NIDM NDRF**
-- **operational boundaries**
-- **Mechanism chain**
-- **Qualified use**
-- **India's Disaster Management Act**
-- **Sendai Framework**
-
-**How to use them:** Frame the answer through NIDM NDRF; define operational boundaries, connect Mechanism chain with Qualified use to explain the mechanism, and use India's Disaster Management Act for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-NIDM NDRF AND OPERATIONAL BOUNDARIES
-01. Domestic-law boundary
-    |
-    v
-02. NDMA-NEC boundary
-BOUNDARY -> Do not derive domestic legal powers from Sendai.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-- NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-
-#### EXAMINER CAUTION
-
-- Do not derive domestic legal powers from Sendai.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Differentiate training and research from specialised response operations.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Domestic-law boundary -> NDMA-NEC boundary
-- **Qualified use:** Differentiate training and research from specialised response operations.
-
-#### CLOSING RECALL FLOW — CORE — NIDM NDRF AND OPERATIONAL BOUNDARIES
-
-```text
-START / CONCEPT: CORE — NIDM NDRF and operational boundaries
-        |
-        v
-EXACT TERMS: NIDM NDRF · operational boundaries · Mechanism chain · Qualified use · India's Disaster Management Act · Sendai Framework
-        |
-        v
-MECHANISM / ARGUMENT: India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-        |
-        v
-CONSEQUENCE / CONTRAST: NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not derive domestic legal powers from Sendai.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mechanism chain: Domestic-law boundary - NDMA-NEC boundary Qualified use: Differentiate training and research from specialised response operations.
-```
-### SESSION 12 — CORE — SDMA DDMA AND JURISDICTIONAL SCALE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-
-**Technical definition:** Mechanism chain: NIDM-NDRF boundary Qualified use: Attribute state and district roles only to their owned jurisdiction.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-
-#### MUST-WRITE KEYWORDS
-
-- **SDMA DDMA**
-- **jurisdictional scale**
-- **Mechanism chain**
-- **Qualified use**
-- **NIDM**
-- **NDRF**
-
-**How to use them:** Frame the answer through SDMA DDMA; define jurisdictional scale, connect Mechanism chain with Qualified use to explain the mechanism, and use NIDM for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-SDMA DDMA AND JURISDICTIONAL SCALE
-01. NIDM-NDRF boundary
-BOUNDARY -> Do not merge NDMA with NEC.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-
-#### EXAMINER CAUTION
-
-- Do not merge NDMA with NEC.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Attribute state and district roles only to their owned jurisdiction.
-
-#### MINI RECAP
-
-- **Mechanism chain:** NIDM-NDRF boundary
-- **Qualified use:** Attribute state and district roles only to their owned jurisdiction.
-
-#### CLOSING RECALL FLOW — CORE — SDMA DDMA AND JURISDICTIONAL SCALE
-
-```text
-START / CONCEPT: CORE — SDMA DDMA and jurisdictional scale
-        |
-        v
-EXACT TERMS: SDMA DDMA · jurisdictional scale · Mechanism chain · Qualified use · NIDM · NDRF
-        |
-        v
-MECHANISM / ARGUMENT: Mechanism chain: NIDM-NDRF boundary Qualified use: Attribute state and district roles only to their owned jurisdiction.
-        |
-        v
-CONSEQUENCE / CONTRAST: Do not merge NDMA with NEC.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: nIDM focuses on training, research and capacity development.
-        |
-        v
-ANSWER-GRABBING FORMULATION: NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-```
-### SESSION 13 — CORE SYNTHESIS — SENDAI IDENTITY AND FOUR PRIORITIES
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mechanism chain: State-district boundary Qualified use: State Sendai's global non-binding identity before its priorities.
-
-**Technical definition:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mechanism chain: State-district boundary Qualified use: State Sendai's global non-binding identity before its priorities.
-
-#### MUST-WRITE KEYWORDS
-
-- **CORE SYNTHESIS**
-- **Sendai identity**
-- **four priorities**
-- **Mechanism chain**
-- **Qualified use**
-- **SDMA**
-
-**How to use them:** Frame the answer through CORE SYNTHESIS; define Sendai identity, connect four priorities with Mechanism chain to explain the mechanism, and use Qualified use for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-SENDAI IDENTITY AND FOUR PRIORITIES
-01. State-district boundary
-BOUNDARY -> Do not merge NIDM training with NDRF operations.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-
-#### EXAMINER CAUTION
-
-- Do not merge NIDM training with NDRF operations.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** State Sendai's global non-binding identity before its priorities.
-
-#### MINI RECAP
-
-- **Mechanism chain:** State-district boundary
-- **Qualified use:** State Sendai's global non-binding identity before its priorities.
-
-#### CLOSING RECALL FLOW — CORE SYNTHESIS — SENDAI IDENTITY AND FOUR PRIORITIES
-
-```text
-START / CONCEPT: CORE SYNTHESIS — Sendai identity and four priorities
-        |
-        v
-EXACT TERMS: CORE SYNTHESIS · Sendai identity · four priorities · Mechanism chain · Qualified use · SDMA
-        |
-        v
-MECHANISM / ARGUMENT: SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-        |
-        v
-CONSEQUENCE / CONTRAST: Do not merge NIDM training with NDRF operations.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: state Sendai's global non-binding identity before its priorities.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mechanism chain: State-district boundary Qualified use: State Sendai's global non-binding identity before its priorities.
-```
-### SESSION 14 — CORE SYNTHESIS — SEVEN GLOBAL TARGETS AND MONITORING BOUNDARY
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-
-**Technical definition:** Mechanism chain: Sendai identity - Priorities-targets boundary Qualified use: List global targets separately from action priorities.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-
-#### MUST-WRITE KEYWORDS
-
-- **CORE SYNTHESIS**
-- **Seven global targets**
-- **monitoring boundary**
-- **Mechanism chain**
-- **Qualified use**
-- **2015-2030**
-
-**How to use them:** Frame the answer through CORE SYNTHESIS; define Seven global targets, connect monitoring boundary with Mechanism chain to explain the mechanism, and use Qualified use for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-SEVEN GLOBAL TARGETS AND MONITORING BOUNDARY
-01. Sendai identity
-    |
-    v
-02. Priorities-targets boundary
-BOUNDARY -> Do not move national roles automatically to a DDMA.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-- Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-
-#### EXAMINER CAUTION
-
-- Do not move national roles automatically to a DDMA.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** List global targets separately from action priorities.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Sendai identity -> Priorities-targets boundary
-- **Qualified use:** List global targets separately from action priorities.
-
-#### CLOSING RECALL FLOW — CORE SYNTHESIS — SEVEN GLOBAL TARGETS AND MONITORING BOUNDARY
-
-```text
-START / CONCEPT: CORE SYNTHESIS — Seven global targets and monitoring boundary
-        |
-        v
-EXACT TERMS: CORE SYNTHESIS · Seven global targets · monitoring boundary · Mechanism chain · Qualified use · 2015-2030
-        |
-        v
-MECHANISM / ARGUMENT: Mechanism chain: Sendai identity - Priorities-targets boundary Qualified use: List global targets separately from action priorities.
-        |
-        v
-CONSEQUENCE / CONTRAST: The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not move national roles automatically to a DDMA.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-```
-### SESSION 15 — CORE SYNTHESIS — SENDAI DOMESTIC ALIGNMENT AND CURRENT EVIDENCE AUDIT
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** CORE SYNTHESIS — Sendai domestic alignment and current evidence audit comprises CORE SYNTHESIS, Sendai domestic alignment and current evidence audit as its core connected dimensions.
-
-**Technical definition:** Mechanism chain: Global-domestic boundary - Current evidence boundary Qualified use: Close with dated domestic law, plan, indicator and UNDRR evidence.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-
-#### MUST-WRITE KEYWORDS
-
-- **CORE SYNTHESIS**
-- **Sendai domestic alignment**
-- **current evidence audit**
-- **Mechanism chain**
-- **Qualified use**
-- **Subject**
-
-**How to use them:** Frame the answer through CORE SYNTHESIS; define Sendai domestic alignment, connect current evidence audit with Mechanism chain to explain the mechanism, and use Qualified use for the decisive comparison or qualification.
-
-#### VISUAL FIRST
-
-```text
-SENDAI DOMESTIC ALIGNMENT AND CURRENT EVIDENCE AUDIT
-01. Global-domestic boundary
-    |
-    v
-02. Current evidence boundary
-BOUNDARY -> Do not call Sendai a binding treaty.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-- Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-
-#### EXAMINER CAUTION
-
-- Do not call Sendai a binding treaty.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Close with dated domestic law, plan, indicator and UNDRR evidence.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Global-domestic boundary -> Current evidence boundary
-- **Qualified use:** Close with dated domestic law, plan, indicator and UNDRR evidence.
-#### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Disaster Management) + Prelims.
-> **Core area:** Disaster-risk-reduction governance architecture.
-> **Grounded in:** Disaster Management Act, 2005 (India Code); Sendai Framework for Disaster Risk Reduction 2015-2030 (UNDRR); NDMA guidelines; audited UPSC Environment/Disaster Management PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
-> *Companion: `advanced/26_Disaster-Management-Framework-and-Sendai.md`.*
-
-#### 1. Visual foundation
-
-```text
-DISASTER MANAGEMENT CYCLE (four linked phases, not a single event response)
-   MITIGATION -> PREPAREDNESS -> RESPONSE -> RECOVERY -> (feeds back into MITIGATION)
-
-INDIA'S THREE-TIER INSTITUTIONAL STRUCTURE (Disaster Management Act, 2005)
-   NDMA (National) -> chaired by the Prime Minister
-   SDMA (State)     -> chaired by the Chief Minister
-   DDMA (District)  -> chaired by the District Magistrate/Collector
-
-SENDAI FRAMEWORK (2015-2030) - FOUR PRIORITIES FOR ACTION
-   1. Understanding disaster risk
-   2. Strengthening disaster-risk governance to manage risk
-   3. Investing in disaster-risk reduction for resilience
-   4. Enhancing disaster preparedness for effective response, and to
-      "Build Back Better" in recovery, rehabilitation and reconstruction
-```
-
-**Core proposition:** Effective disaster management is a continuous cycle (mitigation,
-preparedness, response, recovery), not a single reactive event-response — India's
-Disaster Management Act, 2005 established a three-tier institutional structure (NDMA-SDMA-
-DDMA) that operationalises this cycle, aligned globally with the Sendai Framework's
-shift from disaster *management* to disaster *risk reduction* as the guiding philosophy.
-
-#### 2. Essential definitions
-
-| Concept | Exam-ready meaning |
-|---|---|
-| ✅ **Disaster Management Act, 2005** | India's principal law establishing the institutional framework (NDMA, SDMA, DDMA) for disaster prevention, mitigation, preparedness, response and recovery. |
-| ✅ **National Disaster Management Authority (NDMA)** | Apex national body, chaired by the Prime Minister, laying down disaster-management policies and guidelines. |
-| ✅ **State Disaster Management Authority (SDMA)** | State-level body, chaired by the Chief Minister, responsible for state-level disaster-management planning. |
-| ✅ **District Disaster Management Authority (DDMA)** | District-level body, chaired by the District Magistrate/Collector, responsible for district-level plan implementation. |
-| ✅ **Sendai Framework for Disaster Risk Reduction 2015-2030** | A voluntary, non-binding UN framework (successor to the Hyogo Framework for Action), adopted in Sendai, Japan, in 2015, guiding global disaster-risk-reduction efforts. |
-| ✅ **"Build Back Better"** | A Sendai Framework principle emphasising that post-disaster recovery/reconstruction should reduce future risk and improve resilience, not merely restore pre-disaster conditions. |
-
-#### 3. Topic mechanism
-
-1. The Disaster Management Act, 2005 (enacted following the 2004 Indian Ocean tsunami's
-   demonstration of gaps in India's disaster-response coordination) created a formal
-   three-tier institutional structure — NDMA at the national level, SDMA at the state
-   level, and DDMA at the district level — each responsible for disaster-management
-   planning and coordination at its respective level.
-2. The Act mandates a shift from a purely reactive, relief-and-response orientation
-   (historically dominant in Indian disaster governance) toward a comprehensive approach
-   covering the full cycle: prevention, mitigation, capacity-building, preparedness,
-   response, and rehabilitation/reconstruction.
-3. The Sendai Framework (2015-2030), adopted at the UN's Third World Conference on Disaster
-   Risk Reduction in Sendai, Japan, succeeded the earlier Hyogo Framework for Action and
-   articulated four priorities for action: understanding disaster risk; strengthening
-   disaster-risk governance; investing in disaster-risk reduction for resilience; and
-   enhancing preparedness for effective response paired with "Build Back Better" recovery.
-4. India, as a Sendai Framework signatory, aligns its National Disaster Management Plan with
-   Sendai's priorities, emphasising risk understanding (hazard mapping, vulnerability
-   assessment), governance strengthening (institutional coordination), and resilience
-   investment (disaster-resilient infrastructure) as core strategic pillars.
-5. The Sendai Framework's emphasis on "Build Back Better" reflects a conceptual shift from
-   viewing disaster recovery as simple restoration to viewing it as an opportunity to reduce
-   future vulnerability — for example, rebuilding damaged infrastructure to higher
-   resilience standards rather than replicating pre-disaster vulnerabilities.
-
-#### 4. Institutions and policy tools
-
-- ✅ **NDMA:** apex national disaster-management policy body, chaired by the Prime Minister.
-- ✅ **National Institute of Disaster Management (NIDM):** provides training, capacity-
-  building and research support for disaster-management professionals.
-- ✅ **National Disaster Response Force (NDRF):** specialised, trained force for disaster
-  response operations.
-- ✅ **India Meteorological Department (IMD):** provides early-warning data (cyclone,
-  extreme-weather forecasting) central to disaster preparedness.
-
-#### 5. Indian applications and examples
-
-- ⚠️ India's cyclone early-warning and evacuation systems (particularly on the east coast,
-  e.g., Odisha's documented improvements since major historical cyclone events) illustrate
-  substantial preparedness-capacity improvement over time, contributing to significantly
-  reduced casualty figures in more recent major cyclone events compared to historical
-  precedents.
-- ⚠️ Post-disaster reconstruction efforts (e.g., following major flood or cyclone events)
-  have increasingly incorporated resilience-focused rebuilding principles, reflecting the
-  Sendai Framework's "Build Back Better" influence on Indian disaster-recovery practice.
-- ⚠️ India's National Disaster Management Plan explicitly references alignment with the
-  Sendai Framework's four priorities for action.
-
-#### 6. Must-Know Facts for Prelims
-
-- ✅ The Disaster Management Act, 2005 established a three-tier structure: NDMA (chaired by
-  the Prime Minister), SDMA (chaired by the Chief Minister) and DDMA (chaired by the
-  District Magistrate/Collector).
-- ✅ The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted in 2015 at the
-  UN's Third World Conference on Disaster Risk Reduction in Sendai, Japan, succeeding the
-  Hyogo Framework for Action.
-- ✅ The Sendai Framework articulates four priorities for action: understanding disaster
-  risk, strengthening disaster-risk governance, investing in disaster-risk reduction for
-  resilience, and enhancing preparedness for effective response and "Build Back Better."
-- ✅ Sendai also sets **seven global targets (A-G)** — substantially **reduce** (A) disaster
-  mortality, (B) the number of affected people, (C) direct economic loss relative to global
-  GDP, and (D) damage to critical infrastructure and disruption of basic services; and
-  substantially **increase** (E) the number of countries with national and local DRR
-  strategies, (F) international cooperation to developing countries, and (G) availability of
-  and access to multi-hazard early warning systems and disaster risk information. ⚠️ Four
-  priorities **and** seven targets — a question asking for "the global targets of the Sendai
-  Framework" is asking for the second set, not the first.
-- ✅ The **World Conference on Disaster Risk Reduction** has been held three times, each
-  hosted by **Japan**: **Yokohama (1994)**, **Kobe (2005)** and **Sendai (2015)**. Yokohama
-  produced the *Yokohama Strategy for a Safer World* (10 principles, arising from the
-  mid-term review of the International Decade for Natural Disaster Reduction); Kobe produced
-  the **Hyogo Framework for Action 2005-2015** with **five priorities** and launched an
-  International Early Warning Programme; Sendai produced the current framework — the **first
-  major agreement of the post-2015 development agenda**.
-- ✅ India's **National Disaster Management Plan, 2016** was the country's first such plan.
-  It is aligned with the Sendai Framework, the SDGs and the Paris Agreement, and organises
-  action under **five thematic areas**: understanding risk; inter-agency coordination;
-  investing in DRR through **structural** measures; investing in DRR through **non-structural**
-  measures; and capacity development. ⚠️ A documented critique is that, unlike Sendai or the
-  SDGs, the NDMP sets **no goals, targets, timeframes or funding projections** of its own.
-- ✅ The **Prime Minister's Ten-Point Agenda on Disaster Risk Reduction** was enunciated at
-  the **Asian Ministerial Conference on Disaster Risk Reduction (AMCDRR), New Delhi, 2016**;
-  each point maps to one or more Sendai priorities for action.
-- ✅ The disaster-management cycle comprises mitigation, preparedness, response and
-  recovery as continuously linked phases, not a single reactive event.
-- ✅ The National Disaster Response Force (NDRF) is India's specialised disaster-response
-  operational force.
-
-#### 7. UPSC traps
-
-- ❌ Disaster management refers only to post-disaster relief and response. -> It
-  encompasses the full cycle: mitigation, preparedness, response and recovery.
-- ❌ The Sendai Framework is a legally binding international treaty. -> It is a voluntary,
-  non-binding UN framework guiding national disaster-risk-reduction policy.
-- ❌ NDMA is chaired by the Union Home Minister. -> It is chaired by the Prime Minister.
-- ❌ The Sendai Framework was the first global disaster-risk-reduction framework. -> It
-  succeeded the earlier Hyogo Framework for Action (2005-2015), which itself followed the
-  Yokohama Strategy (1994).
-- ❌ The Sendai Framework's "global targets" and its "priorities for action" are the same
-  list. -> There are **four priorities for action** and **seven global targets (A-G)** — a
-  distinction UPSC has tested directly.
-- ❌ India's National Disaster Management Plan sets its own quantified targets like Sendai
-  does. -> The NDMP is aligned with Sendai and the SDGs but does **not** set its own goals,
-  targets, timeframes or funding projections — a documented critique.
-- ❌ "Build Back Better" means restoring exactly pre-disaster conditions as quickly as
-  possible. -> It specifically means rebuilding to reduce future vulnerability and improve
-  resilience, not merely replicating the pre-disaster state.
-
-#### 8. 📰 Current anchor
-
-- 📰 **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)** came
-  into force on **9 April 2025**. It updates the statutory architecture,
-  including disaster databases and provisions concerning national crisis/high-
-  level bodies and urban authorities.
-- ✅ Use `../../Disaster-Management/basic/02_Indian-Legal-and-Institutional-Architecture.md`
-  for detail rather than duplicating it here. [NIDM/official text](https://nidm.gov.in/DMAct.asp).
-
-- 📰 India's National Disaster Management Plan continues to be updated in alignment with the
-  Sendai Framework's 2015-2030 priorities; verify the latest NDMA plan revision and any
-  updated early-warning-system capability (e.g., for cyclones, floods, or heatwaves) against
-  the most recent NDMA/IMD publication before citing specific implementation details.
-
-⚠️ **Interpretation caution:** casualty-reduction figures for specific disaster events
-(e.g., comparing cyclone-related fatalities across different years/events) should be
-attributed to their specific source and event for precise, defensible citation.
-
-#### 9. PYQ application
-
-- ✅ **2024 GS-III direct PYQ (250 words):** “What is disaster resilience? How is it
-  determined? Describe various elements of a resilience framework. Also mention the global
-  targets of the Sendai Framework for Disaster Risk Reduction (2015-2030).” ⚠️ Three distinct
-  demands. For "elements of a resilience framework", use the standard DRR fields of action:
-  a **policy framework** backed by legal and institutional mechanisms; **risk assessment**
-  based on hazard and community resilience; **risk awareness** among stakeholders and
-  decision-makers; **implementation** through environmental management and urban planning;
-  **early-warning systems**; and **use of knowledge** through informed stakeholder
-  participation and accessible communication. Then list the **seven global targets (A-G)** —
-  the question asks for targets, not the four priorities.
-- ✅ **2024 GS-III direct PYQ (250 words):** “Flooding in urban areas is an emerging
-  climate-induced disaster. Discuss the causes of this disaster. Mention the features of two
-  major floods in the last two decades in India. Describe the policies and frameworks aimed
-  at dealing with such floods.” ⚠️ The question demands **two named Indian urban floods with
-  their features** — a factual requirement most answers skip. The documented challenges to
-  cite are: inadequate comprehensive urban-flood risk assessment before mitigation planning;
-  failure to map city-specific risk factors into development planning; weak inter-agency
-  coordination; poor information sharing; disintegrated investment decisions; and lack of
-  stakeholder consultation.
-- ⚠️ Recurring Prelims pattern: correctly identify the NDMA-SDMA-DDMA chairing structure and
-  the Sendai Framework's four priorities for action.
-- ⚠️ Mains linkage: the "Build Back Better" principle is used to argue for resilience-
-  focused (not merely restorative) post-disaster reconstruction policy.
-
-#### 10. Mains angles
-
-- ⚠️ Argue that effective disaster governance requires treating mitigation and preparedness
-  (proactive, risk-reduction-oriented) as equally important to response and recovery
-  (reactive), reflecting the full disaster-management-cycle logic.
-- ⚠️ Use the "Build Back Better" principle to argue that post-disaster reconstruction should
-  be an opportunity for resilience investment, not simple restoration.
-- ⚠️ Conclude with a risk-governance thesis: disaster resilience depends on institutional
-  coordination (NDMA-SDMA-DDMA) working effectively at every level, especially the often
-  under-resourced district level where actual implementation occurs.
-
-> **Answer thesis:** Treat disaster management as a continuous, four-phase cycle (not a single reactive response), and use the Sendai Framework's four priorities and "Build Back Better" principle as the analytical benchmark for evaluating India's disaster-risk-governance effectiveness at every institutional tier (NDMA-SDMA-DDMA).
-
-#### 11. Probable questions
-
-- ⚠️ **Prelims:** Identify the correct chairing structure of NDMA, SDMA and DDMA, and the
-  Sendai Framework's four priorities for action.
-- ⚠️ **Mains (10 marks):** Explain the "Build Back Better" principle and its significance
-  for India's post-disaster reconstruction policy.
-- ⚠️ **Mains (15 marks):** Discuss the institutional strengths and implementation challenges
-  of India's three-tier disaster-management structure under the Disaster Management Act,
-  2005.
-
-#### 12. Study links
-
-- ✅ Advanced companion: `advanced/26_Disaster-Management-Framework-and-Sendai.md`.
-- ✅ `17_Climate-Change-Science-Greenhouse-Effect.md` — climate change's role in intensifying
-  certain disaster-risk categories (extreme weather events).
-- ✅ `24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md` — coastal-disaster-risk linkages
-  relevant to cyclone preparedness.
-- ✅ `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` — NDMA's institutional
-  relationship with other environmental governance bodies.
-
-#### 13. Core answer architecture (10/15/20-mark support)
-
-##### 13.1 Direct demand A — resilience framework and Sendai targets (2024 GS-III, 15 marks)
-
-**Thesis:** disaster resilience is the capacity of people, systems and infrastructure to anticipate, absorb, adapt and recover without recreating risk; it is determined by hazard exposure, vulnerability, coping capacity, institutions, information and the quality of recovery.
-
-**Answer spine:** definition/measurement logic → resilience elements (risk assessment and land-use; legal/institutional coordination; resilient infrastructure and finance; ecosystem buffers; early warning and inclusive participation; preparedness/Build Back Better) → seven Sendai global targets **A–D reduce mortality, affected people, economic loss and critical-infrastructure/basic-service disruption; E–G increase national/local strategies, international cooperation and multi-hazard early-warning/risk-information access** → DDMA/ULB implementation verdict. Do not substitute the four priorities for the seven targets.
-
-##### 13.2 Direct demand B — urban floods (2024 GS-III, 15 marks)
-
-| Demand part | Core material |
-|---|---|
-| Causes | Extreme rainfall/climate signal interacting with sealed surfaces, encroached wetlands/floodplains, inadequate or blocked drainage, construction/land-use decisions, upstream releases and tidal/backflow where relevant. |
-| Two cases | **Mumbai 2005:** exceptionally intense rainfall met drainage, low-lying/reclaimed-land and waste-blockage vulnerabilities. **Chennai 2015:** northeast-monsoon extreme rainfall combined with altered wetlands/waterways and urban drainage/land-use stress. Use each as a causal feature, not a decorative name. |
-| Frameworks | NDMA **Guidelines on Management of Urban Flooding (2010)**; floodplain/zoning and drainage-catchment design; CWC–IMD warning/nowcasting; ULB/EOC response; Urban Flood Risk Management Programme; wetland restoration and risk-sensitive urban planning. |
-
-**250-word spine:** climate-risk framing → physical and governance causes → two compact cases → structural/non-structural/institutional tools → conclusion: restore storage and govern land use before relying on emergency pumping.
-
-##### 13.3 General 10/15/20 architecture
-
-Use the Sendai shift from response to risk reduction, then map NDMA–SDMA–DDMA responsibilities, show a named ecosystem-based measure (mangrove/wetland/forest), identify the district/ULB capacity gap and end with a targeted, inclusive resilience verdict. Disaster-Management `basic/08` supplies deeper flood evidence; this Core contains a complete answer route.
-
-#### CLOSING RECALL FLOW — CORE SYNTHESIS — SENDAI DOMESTIC ALIGNMENT AND CURRENT EVIDENCE AUDIT
-
-```text
-START / CONCEPT: CORE SYNTHESIS — Sendai domestic alignment and current evidence audit
-        |
-        v
-EXACT TERMS: CORE SYNTHESIS · Sendai domestic alignment · current evidence audit · Mechanism chain · Qualified use · Subject
-        |
-        v
-MECHANISM / ARGUMENT: Mechanism chain: Global-domestic boundary - Current evidence boundary Qualified use: Close with dated domestic law, plan, indicator and UNDRR evidence.
-        |
-        v
-CONSEQUENCE / CONTRAST: Do not call Sendai a binding treaty.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Core proposition: Effective disaster management is a continuous cycle (mitigation, preparedness, response, recovery), not a single reactive event-response — India's Disaster Management Act, 2005 established a three-tier institutional structure (NDMA-SDMA DDMA) that operationalises this cycle, aligned globally with the Sendai Framework's shift from disaster management to disaster risk reduction as the guiding philosophy.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-```
-### ENVIRONMENT AND ECOLOGY DEEP-REVIEW CORE CONTROL
-
-- **Must remember:** Environment Topic 26 owns the climate-ecosystem-Sendai overlap: hazard, exposure, vulnerability and capacity produce risk, while the full disaster cycle and institutional architecture remain cross-owned by Disaster Management.
-- **Close distinction:** Hazard is not disaster, resilience is not mere recovery, NDMA is not NEC, Sendai priorities are not its seven global targets, and global framework language is not a domestic statutory power.
-- **Mechanism / status / evidence limit:** Preserve dedicated Disaster Management ownership; map prevention, mitigation, preparedness, response, recovery and build-back-better with exact national/state/district mandates and dated Sendai indicators.
-
-### TRANSITION EVIDENCE AND PERIODIZATION LEDGER — TOPIC 26
-
-#### Models and criteria
-
-| Model | Core use | Limit |
+| Lever | Question asked | Illustrative action |
 |---|---|---|
-| Colonial Hindu/Muslim/British division | history of periodization | communal ruler-religion label cannot explain social transition |
-| Dynastic chronology | orders Gupta, post-Gupta and regional polities | ruler change is not simultaneous structural change |
-| Indian feudalism | grants, intermediaries, immunities, labour and exchange contraction | outcomes and commerce vary by region |
-| Segmentary state | graded ritual/political control beyond a core | derived mainly from later-south debates; not universal |
-| Integrative/regional state | chiefs, grants, cults and local elites build regional power | integration remains unequal and coercive |
+| Hazard | Can intensity/probability be altered or monitored? | slope drainage; reservoir operation; surveillance |
+| Exposure | Can people/assets be kept away from danger? | land-use zoning; relocation; protected evacuation space |
+| Vulnerability | Can susceptibility be reduced? | safer construction; livelihood diversification; inclusion |
+| Capacity | Can anticipation, coping and recovery improve? | warning, drills, trained responders, redundancy, finance |
 
-Test transition through polity, agrarian relations, revenue/labour, settlement,
-exchange, institutions, social classification, religion, language and material
-culture. The c. 300-550, 550-750 and 750-1000 phases are heuristics, not universal
-ruptures.
+✅ VisionIAS distinguishes four ways of dealing with risk:
 
-#### Grant rights and ground effects
+1. **Risk acceptance:** an informed decision to retain possible consequences.
+2. **Risk avoidance:** not entering or continuing the risk-generating activity.
+3. **Risk reduction:** lowering likelihood or consequences through appropriate measures.
+4. **Risk transfer:** shifting part of the financial burden, for example through insurance.
 
-| Recipient/right | Historical question | Source caution |
+Risk transfer does **not** remove the physical hazard or vulnerability. It changes who bears specified losses.
+
+> **Answer-grabbing line:** Risk analysis becomes policy-relevant only when each component is tied to a controllable lever—avoid exposure, reduce vulnerability, strengthen capacity and manage residual risk.
+
+**Must-write keywords:** probability · expected loss · heuristic · controllable lever · acceptance · avoidance · reduction · transfer.
+
+---
+
+### I.3. Classifying hazards and disasters without confusing categories
+
+#### 3.1 By origin
+
+| Category | Meaning | Illustrative examples |
 |---|---|---|
-| Brahmana, temple, monastery, official or retainer | why was revenue or land assigned? | recipient classes vary by region and date |
-| taxes and produce | who collected which dues? | exemption formula is not proof of enforcement |
-| labour (vishti) | who supplied transport, construction or provisioning? | incidence must be locally evidenced |
-| judicial/fiscal immunity | were fines, officials or policing functions restricted? | specified right is not total sovereignty |
-| water, pasture, trees and forest | which older users were affected? | charter silence does not mean empty land |
+| **Natural hazard** | Primarily produced by natural processes | earthquake, tsunami, cyclone, drought, epidemic |
+| **Anthropogenic hazard** | Produced by human action, inaction, negligence or technological activity | chemical spill, industrial explosion, pollution, dam failure |
+| **Socio-natural hazard** | Natural processes whose probability or impact is intensified by human action | flooding worsened by blocked drainage; landslides worsened by unsafe slope cutting |
 
-### REGIONAL CONTINUITY-CHANGE LEDGER — TOPIC 26
+Natural hazards may be:
 
-| Region | Transition pattern | Anti-universalization rule |
+- **geophysical:** earthquakes, volcanoes, landslides;
+- **hydrological:** floods and related water-driven events;
+- **meteorological:** cyclones, storms and storm surges;
+- **climatological:** drought, extreme temperature and wildfire conditions;
+- **biological:** epidemics and pest outbreaks.
+
+#### 3.2 By onset
+
+| Rapid-onset | Slow-onset / “creeping emergency” |
+|---|---|
+| Sudden, acute impact over a short period | Develops over months or years |
+| Earthquake, cyclone, flood, tsunami | Drought, desertification, soil degradation, long-term climate stress |
+| Emphasis on warning, evacuation and immediate response | Emphasis on monitoring, livelihood protection and anticipatory adaptation |
+
+✅ Slow-onset risks belong in preparedness even when there is no single dramatic impact moment.
+
+#### 3.3 Damage, loss and disruption
+
+- **Damage** commonly records physical destruction, such as damaged housing or kilometres of road.
+- **Loss** includes wider human, livelihood, economic and environmental consequences.
+- **Disruption** concerns interruption of essential community or system functions.
+
+> **Answer-grabbing line:** Classification matters because onset, origin and impact pathway determine the appropriate information, institution, time horizon and intervention.
+
+**Trap:** Do not call every flood or drought purely “natural” where land use, drainage, ecosystem degradation or livelihood policy materially amplifies risk.
+
+---
+
+### I.4. Vulnerability and capacity: the distributive core of disaster risk
+
+#### 4.1 Five vulnerability dimensions in the canonical source
+
+| Dimension | What makes harm more likely? | India-centric illustration |
 |---|---|---|
-| North | post-Gupta courts, samantas, grants and selected urban contraction | no instantaneous anarchy |
-| East | agrarian expansion, Pala-Sena formations and mahavihara networks | no uniform Buddhist society |
-| Western India | regional lineages, ports and Jain/Brahmanical institutions | genealogy is not literal ethnicity |
-| Deccan | Vakataka-Chalukya-Rashtrakuta grants, temples, irrigation and exchange | no one feudal sequence |
-| South | Pallava/Pandya and Chola-boundary brahmadeyas, tanks, temples and local bodies | full Imperial Chola system belongs to Topic 27 |
-| Forest/hill frontiers | chiefs, products, cultivation, cults, resistance and peasantization | incorporation is not passive assimilation |
+| **Physical** | unsafe siting, weak structures, fragile lifelines | non-engineered housing in a seismic area |
+| **Social** | age, disability, health, gendered burdens, marginalisation, weak networks | an evacuation message inaccessible to a person with hearing impairment |
+| **Economic** | poverty, narrow livelihoods, weak savings/credit/insurance | a daily-wage household unable to absorb prolonged closure |
+| **Environmental** | degraded ecosystems and loss of protective services | wetland loss increasing urban runoff |
+| **Attitudinal** | distrust, fatalism, risk denial or resistance to change | refusal to evacuate because warnings lack credibility |
+
+Vulnerabilities can **compound**. A physically exposed household may also be economically insecure and excluded from warning or transport. The resulting disadvantage is more than a generic label of “the vulnerable.”
 
-#### Social, institutional and knowledge controls
+#### 4.2 Capacity is multidimensional
 
-- Samanta changed from neighbouring ruler to varied subordinate/intermediary
-  usage; it was not one legal class.
-- Temples and monasteries could be landholders, employers, redistributors,
-  archives, schools and political nodes, but functions varied locally.
-- Varna prescription, jati process, occupation, untouchability and exclusion
-  must be separated by source, region and date.
-- Gender analysis must include property, marriage, labour, donor/political and
-  religious agency without one all-India status verdict.
-- Bhakti was not uniformly egalitarian; Buddhism and Jainism transformed
-  regionally rather than simply disappearing.
-- Sanskrit cosmopolitan continuity coexisted with vernacular literary and
-  epigraphic growth.
-- Incoming peoples affected political and cultural formation, but invasion alone
-  did not cause the transition.
+```text
+ANTICIPATORY → know and foresee risk
+ABSORPTIVE   → withstand and cope during shock
+ADAPTIVE     → adjust behaviour, livelihoods and systems
+TRANSFORMATIVE → change structures that repeatedly create risk
+```
 
-#### PYQ ownership control
+Examples include risk maps, trained local volunteers, enforceable building controls, redundant lifelines, accessible shelters, emergency finance, public-health capacity and trusted communication.
 
-The repository routes **zero direct PYQs** to Topic 26. The ten retained
-questions belong to Topics 10, 20, 22, 23, 27 or Indian Art and Culture and are
-adjacent continuity/change practice only.
+> **Answer-grabbing line:** Vulnerability explains unequal susceptibility; capacity explains the ability to anticipate, withstand, respond and recover—therefore both must be assessed at the household, community and system levels.
 
-**Final method:** model -> evidence class -> regional case -> continuity ->
-transformation -> source limit -> qualified verdict.
+**Must-write keywords:** physical · social · economic · environmental · attitudinal · compounding disadvantage · anticipatory · absorptive · adaptive · transformative.
 
-## BASIC MCQS / REMEDIATION
+**Paragraph demonstration:**
+**Claim:** Social vulnerability converts an accessible warning into unequal action.
+**Evidence:** The canonical source identifies elderly persons, children, pregnant or lactating women and persons with disabilities as groups facing distinct constraints.
+**Analysis:** A technically accurate warning fails if transport, language, accessibility or trusted intermediaries are absent.
+**Qualification:** Group identity alone does not determine vulnerability; local exposure, resources and agency must be assessed.
 
-### Q1. Which statement correctly identifies Hazard boundary?
+---
 
-A. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-B. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-C. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-D. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
+### I.5. Risk patterns and disaster-risk-management modes
 
-**Answer: A.**
-**Explanation:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+#### 5.1 Intensive, extensive and systemic risk
 
-### Q2. Which option preserves the ecological boundary of Hazard boundary?
+| Risk form | Defining pattern | Policy implication |
+|---|---|---|
+| **Intensive disaster risk** | high-severity, mid- to low-frequency disasters associated mainly with major hazards; often concentrated in dense, highly vulnerable areas | scenario planning for catastrophic failure; robust lifelines; surge capacity |
+| **Extensive disaster risk** | low-severity, high-frequency events, often localised and worsened by poverty, urbanisation or environmental degradation | record recurrent losses; strengthen municipal maintenance and household resilience |
+| **Systemic risk** | cascading effects travel across interconnected sectors, places and networks | govern interdependence, not isolated hazards; test power-water-health-telecom supply chains together |
+
+⚠️ **Systemic** does not mean merely “very large.” It refers to propagation through interdependence. A local power failure can become systemic when it disables water pumping, hospitals, communications and payments.
+
+#### 5.2 Prospective, corrective and compensatory disaster risk management
 
-A. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-B. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-C. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-D. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
+✅ UNDRR’s official terminology distinguishes:
 
-**Answer: B.**
-**Explanation:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+1. **Prospective DRM:** prevents **new or increased risk** from being created—for example, risk-sensitive land-use planning or disaster-resistant new water systems.
+2. **Corrective DRM:** removes or reduces **existing risk**—for example, retrofitting a hospital or relocating assets already exposed.
+3. **Compensatory DRM / residual-risk management:** strengthens the ability to manage risk that cannot be effectively eliminated—preparedness, response, recovery, contingency funds, insurance, reinsurance and safety nets.
+
+```text
+Future development decision ──> PROSPECTIVE: avoid creating risk
+Existing unsafe condition  ───> CORRECTIVE: reduce embedded risk
+Risk that still remains    ───> COMPENSATORY: prepare, finance, respond, recover
+```
+
+> **Answer-grabbing line:** A complete strategy prevents tomorrow’s risk, corrects yesterday’s accumulated risk and finances or manages the residual risk that remains.
+
+**Trap:** Compensatory management is not compensation alone; it includes preparedness, response, recovery and financial protection.
 
-### Q3. Which statement uses Hazard boundary without changing its scale, parameter or status?
+---
 
-A. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-B. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-C. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-D. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
+### I.6. Disaster-management cycle: exact distinctions
 
-**Answer: C.**
-**Explanation:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+```text
+PRE-DISASTER RISK MANAGEMENT
+Prevention → Mitigation → Preparedness
+                       |
+                  event/impact
+                       |
+POST-IMPACT CRISIS AND RECOVERY
+Response/Relief → Rehabilitation → Reconstruction → Recovery
+                                             |
+                                      BUILD BACK BETTER
+                                             |
+                                   lower risk in next cycle
+```
+
+| Term | Exact function | What it is not |
+|---|---|---|
+| **Prevention** | activities and measures intended to avoid existing and new disaster risks where feasible | not merely reducing impact |
+| **Mitigation** | lessening or minimising adverse impacts through structural or non-structural measures | not immediate response |
+| **Preparedness** | knowledge and capacities for anticipation, response and recovery: plans, training, drills, stocks and warning protocols | not proof that action will occur |
+| **Response** | action directly before, during or immediately after disaster to save life, reduce impacts and meet basic needs | not long-term restoration |
+| **Relief** | immediate assistance such as shelter, food, medicine and essential services | not complete rehabilitation |
+| **Rehabilitation** | restoring basic services and enabling affected people and communities to resume functioning | not necessarily full rebuilding |
+| **Reconstruction** | rebuilding damaged infrastructure, housing and systems | not automatically safer rebuilding |
+| **Recovery** | restoring or improving livelihoods, health, assets and systems in line with sustainable development and risk reduction | not a return to the same unsafe baseline |
+
+✅ The canonical source contrasts the older relief-centred “3 Rs”—rescue, relief, restoration—with the preventive “3 Ps”—prevention, preparedness and proofing.
+
+✅ **Disaster risk reduction (DRR)** is the concept and practice of preventing new risk, reducing existing risk and managing residual risk. Its field of action includes:
+
+```text
+policy/legal/institutional framework
+        → risk assessment
+        → risk awareness
+        → plan implementation
+        → early warning
+        → use and exchange of knowledge
+        → feedback and revision
+```
 
-### Q4. Which option avoids the standard UPSC close-option trap about Hazard boundary?
+> **Answer-grabbing line:** Disaster management is not a linear march from relief to normalcy; it is a continuous risk-governance cycle in which recovery must lower the next round of exposure and vulnerability.
+
+**Must-write keywords:** structural · non-structural · preparedness capacity · immediate life safety · rehabilitation · reconstruction · recovery · residual risk.
+
+---
+
+### I.7. Resilience: meaning, determination and framework
 
-A. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-B. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-C. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-D. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
+✅ **Resilience** is the ability of a system, community or society exposed to hazards to resist, absorb, accommodate, adapt to, transform and recover in a timely and efficient manner, including by preserving and restoring essential structures and functions.
 
-**Answer: D.**
-**Explanation:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Resilience is determined through a baseline and a stress test:
 
-### Q5. Which statement correctly identifies Exposure boundary?
+```text
+1. KNOW THE RISK
+   hazard + exposure + vulnerability + capacity
+              ↓
+2. TEST SYSTEM PERFORMANCE
+   can critical functions continue during disruption?
+              ↓
+3. TEST RECOVERY
+   how quickly, inclusively and safely are services restored?
+              ↓
+4. TEST ADAPTATION
+   does recovery reduce future risk or reproduce it?
+```
+
+#### A usable resilience framework
 
-A. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-B. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-C. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-D. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
+| Element | Exam meaning | Evidence question |
+|---|---|---|
+| **Risk knowledge** | shared, updated understanding of hazards, exposure and vulnerability | Are maps and assessments current and usable locally? |
+| **Robustness** | ability of assets and institutions to withstand stress | Do hospitals, bridges and communications meet risk conditions? |
+| **Redundancy** | substitutes and backup routes when one component fails | Is there alternate power, water, access or communication? |
+| **Resourcefulness** | ability to mobilise information, people, finance and leadership | Can authorities and communities improvise without losing coordination? |
+| **Inclusive preparedness** | plans, drills, warnings and shelters usable by different groups | Can the last person receive, understand and act? |
+| **Rapid, equitable recovery** | timely restoration of essential functions and livelihoods | Are the most affected restored, not only aggregate output? |
+| **Adaptive/transformative capacity** | ability to change practices or systems that create risk | Are unsafe siting and design rules corrected? |
 
-**Answer: A.**
-**Explanation:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+#### Measuring resilience without false precision
 
-### Q6. Which option preserves the ecological boundary of Exposure boundary?
+Use a dashboard rather than one unsupported score:
 
-A. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-B. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-C. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-D. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
+- continuity and restoration time of essential services;
+- redundancy of lifelines and supply routes;
+- warning receipt, comprehension and action;
+- preparedness and institutional coordination;
+- fiscal and household capacity to absorb loss;
+- inclusion of high-risk groups;
+- whether reconstruction meets safer standards;
+- whether repeated losses decline.
 
-**Answer: B.**
-**Explanation:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+⚠️ An investment, plan, platform, drill or warning proves an **input or process**. It does not by itself prove reduced mortality, avoided loss or resilience.
 
-### Q7. Which statement uses Exposure boundary without changing its scale, parameter or status?
+> **Answer-grabbing line:** Resilience is demonstrated not by the existence of a plan but by continuity under stress, inclusive coping, rapid restoration and adaptation that prevents reconstruction of the same risk.
 
-A. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-B. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-C. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-D. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
+---
 
-**Answer: C.**
-**Explanation:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### I.8. Risk-informed development and Build Back Better
 
-### Q8. Which option avoids the standard UPSC close-option trap about Exposure boundary?
+```text
+UNINFORMED DEVELOPMENT
+unsafe land use / weak construction / ecosystem loss / concentrated lifelines
+        ↓
+new exposure + new vulnerability
+        ↓
+risk accumulation
+        ↓
+hazard becomes disaster
+        ↓
+RECOVERY CHOICE
+   ├─ rebuild as before → recreated risk
+   └─ Build Back Better → safer standards + restored livelihoods + lower future risk
+```
 
-A. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-B. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-C. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-D. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
+⚠️ Development can produce disaster risk even when hazard frequency is unchanged. The canonical Advanced owner illustrates this through urban construction that ignores natural topography and roads or settlements that ignore slope stability.
 
-**Answer: D.**
-**Explanation:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ **Build Back Better (BBB)** is embedded in Sendai Priority 4. It uses recovery, rehabilitation and reconstruction as an opportunity to integrate risk reduction into development.
 
-### Q9. Which statement correctly identifies Vulnerability boundary?
+BBB therefore requires:
 
-A. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-B. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-C. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-D. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
+- safer location and design, not cosmetic reconstruction;
+- restoration of services and livelihoods, not infrastructure alone;
+- protection of ecosystems where they reduce risk;
+- accessible and inclusive rebuilding;
+- financing and maintenance;
+- monitoring of actual outcomes.
 
-**Answer: A.**
-**Explanation:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+> **Answer-grabbing line:** Recovery becomes resilience only when it restores essential functions while changing the conditions that converted the hazard into disaster.
 
-### Q10. Which option preserves the ecological boundary of Vulnerability boundary?
+---
 
-A. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-B. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-C. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-D. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
+### I.9. Sendai Framework: origin, status, outcome and guiding logic
 
-**Answer: B.**
-**Explanation:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+#### 9.1 Timeline
 
-### Q11. Which statement uses Vulnerability boundary without changing its scale, parameter or status?
+```text
+2005–2015  Hyogo Framework for Action
+18 Mar 2015 Sendai Framework adopted at Third UN World Conference on DRR
+2015–2030  Sendai implementation period
+2020       deadline attached to Target E
+18 May 2023 UNGA resolution 77/289: Midterm Review Political Declaration
+2030       framework horizon and deadlines for Targets A–D, F and G
+```
 
-A. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-B. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-C. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-D. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
+✅ The **Sendai Framework for Disaster Risk Reduction 2015–2030** was adopted on 18 March 2015 at the Third UN World Conference on Disaster Risk Reduction in Sendai, Japan.
 
-**Answer: C.**
-**Explanation:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ It is a **voluntary, non-binding framework**, not a treaty creating enforceable international obligations. The State has the primary responsibility to reduce disaster risk, while responsibility is shared with local government, the private sector, civil society, communities and other stakeholders according to their roles.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Vulnerability boundary?
+✅ Its expected outcome is the substantial reduction of disaster risk and losses in lives, livelihoods, health and economic, physical, social, cultural and environmental assets.
 
-A. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-B. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-C. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-D. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
+#### 9.2 The guiding logic
 
-**Answer: D.**
-**Explanation:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+```text
+UNDERSTAND RISK
+      ↓
+GOVERN RISK
+      ↓
+INVEST BEFORE LOSS
+      ↓
+PREPARE, RESPOND AND BUILD BACK BETTER
+      ↓
+REDUCE LOSS + PREVENT NEW RISK + STRENGTHEN RESILIENCE
+```
 
-### Q13. Which statement correctly identifies Capacity boundary?
+The four priorities are therefore causal, not decorative:
 
-A. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-B. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-C. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-D. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
+1. **Understanding disaster risk**
+   Risk management must be based on vulnerability, capacity, exposure, hazard characteristics and environment. Knowledge supports assessment, prevention, mitigation, preparedness and response.
 
-**Answer: A.**
-**Explanation:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+2. **Strengthening disaster risk governance to manage disaster risk**
+   Clear mandates, coordination, participation and accountability are needed across national, regional and global levels and across the whole cycle.
 
-### Q14. Which option preserves the ecological boundary of Capacity boundary?
+3. **Investing in disaster risk reduction for resilience**
+   Public and private investment in structural and non-structural prevention and reduction protects people, assets, services and ecosystems.
 
-A. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-B. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-C. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-D. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
+4. **Enhancing disaster preparedness for effective response and to “Build Back Better” in recovery, rehabilitation and reconstruction**
+   Preparedness, anticipatory action and response capacity reduce immediate harm; recovery is used to avoid recreating risk.
 
-**Answer: B.**
-**Explanation:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+> **Answer-grabbing line:** Sendai’s priorities move from knowledge to governance to investment to prepared response and safer recovery; omitting any link weakens the entire risk-reduction chain.
 
-### Q15. Which statement uses Capacity boundary without changing its scale, parameter or status?
+---
 
-A. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-B. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-C. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-D. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
+### I.10. Sendai’s seven global targets
 
-**Answer: C.**
-**Explanation:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+| Target | Exact examinable substance | Deadline/measure |
+|---|---|---|
+| **A** | substantially reduce global disaster **mortality** | by 2030; lower average per 100,000 in 2020–2030 compared with 2005–2015 |
+| **B** | substantially reduce the number of **affected people** globally | by 2030; same decadal per-100,000 comparison |
+| **C** | reduce direct disaster **economic loss in relation to global GDP** | by 2030 |
+| **D** | substantially reduce damage to **critical infrastructure** and disruption of **basic services**, including health and education, by developing resilience | by 2030 |
+| **E** | substantially increase countries with **national and local DRR strategies** | by **2020** |
+| **F** | substantially enhance **international cooperation to developing countries** through adequate and sustainable support | by 2030 |
+| **G** | substantially increase availability of and access to **multi-hazard early warning systems** and disaster-risk information and assessments | by 2030 |
 
-### Q16. Which option avoids the standard UPSC close-option trap about Capacity boundary?
+**Indicator architecture:** The Open-ended Intergovernmental Expert Working Group (**OIEWG**) developed **38 global indicators** for the seven targets. The UN General Assembly endorsed them through resolution **71/276 on 2 February 2017**, and reporting is conducted through the **Sendai Framework Monitor**.
 
-A. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-B. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-C. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-D. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
+```text
+TARGET = agreed result or direction
+INDICATOR = one of the 38 defined measures
+REPORTED VALUE = submitted observation for an indicator
+PROGRESS JUDGMENT = interpretation against a baseline or trajectory
+```
 
-**Answer: D.**
-**Explanation:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Memory architecture:
 
-### Q17. Which statement correctly identifies Risk relation?
+```text
+A–D = LOSS / OUTCOME SIDE
+A mortality | B affected people | C economic loss/GDP | D infrastructure/services
 
-A. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-B. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-C. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-D. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
+E–G = MEANS / CAPACITY SIDE
+E strategies | F international cooperation | G warning + risk information
+```
 
-**Answer: A.**
-**Explanation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Critical qualifications**
 
-### Q18. Which option preserves the ecological boundary of Risk relation?
+- Target E alone had a 2020 deadline; a passed deadline is not proof of achievement.
+- Global targets are not identical to a binding quota for each country.
+- A national strategy, investment or warning system does not itself prove reduced losses.
+- Current progress claims require dated Sendai Framework Monitor, UNDRR or competent national evidence.
 
-A. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-B. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-C. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-D. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
+---
 
-**Answer: B.**
-**Explanation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### I.11. Hyogo to Sendai: continuity and change
 
-### Q19. Which statement uses Risk relation without changing its scale, parameter or status?
+| Dimension | Hyogo Framework for Action 2005–2015 | Sendai Framework 2015–2030 |
+|---|---|---|
+| Structure | five priorities for action | four priorities plus seven global targets |
+| First move | make DRR a national and local priority | understand risk in all dimensions |
+| Information | identify, assess and monitor risk; enhance warning | risk knowledge remains foundational and explicitly includes hazard, exposure, vulnerability and capacity |
+| Governance | institutional basis appears chiefly through priority setting | risk governance is a distinct priority |
+| Investment | underlying risk factors addressed | public/private structural and non-structural investment is a distinct priority |
+| Preparedness | strengthen preparedness for effective response | preparedness plus explicit Build Back Better in recovery, rehabilitation and reconstruction |
+| Monitoring | action priorities | globally stated outcome and means targets A–G |
 
-A. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-B. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-C. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-D. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
+✅ Continuity matters: Sendai succeeds rather than repudiates Hyogo. ⚠️ The strongest analytical comparison is the movement toward explicit risk governance, investment, measurable global targets and recovery as a risk-reduction opportunity.
 
-**Answer: C.**
-**Explanation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+---
 
-### Q20. Which option avoids the standard UPSC close-option trap about Risk relation?
+### I.12. India’s policy bridge
 
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-B. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-C. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-D. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
+✅ India’s pre-Sendai architecture includes the **Disaster Management Act, 2005** and **National Policy on Disaster Management, 2009**.
 
-**Answer: D.**
-**Explanation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ The first **National Disaster Management Plan, 2016** aligned planning with Sendai’s priorities. The canonical source records criticism of that first edition as generic and lacking precise time frames, projected fund requirements and its own goals or targets.
 
-### Q21. Which statement correctly identifies Disaster boundary?
+✅ The 2016 plan translated the Sendai priorities into five thematic areas for action: **Understanding Risk; Inter-Agency Coordination; Investing in DRR—Structural Measures; Investing in DRR—Non-Structural Measures; and Capacity Development**.
 
-A. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-B. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-C. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-D. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
+✅ A **revised NDMP, 2019** was published. Use “NDMP 2019” for the revised plan; do not silently transfer every critique of the 2016 edition to the revision without a document comparison.
 
-**Answer: A.**
-**Explanation:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ The Prime Minister’s **ten-point agenda on DRR** was announced at the Asian Ministerial Conference on Disaster Risk Reduction in New Delhi in November 2016. The checked source states that each point aligns with one or more Sendai priorities and spans community preparedness, technology and international cooperation.
 
-### Q22. Which option preserves the ecological boundary of Disaster boundary?
+⚠️ These facts establish institutional and planning alignment. They do **not** establish uniform implementation or measured achievement of Sendai targets across India.
 
-A. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-B. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-C. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-D. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
+> **Answer-grabbing line:** India’s post-Sendai architecture shows normative alignment, but an examiner-grade answer must distinguish an adopted framework from financed implementation and verified loss reduction.
 
-**Answer: B.**
-**Explanation:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+---
 
-### Q23. Which statement uses Disaster boundary without changing its scale, parameter or status?
+### I.13. Current official anchors checked on 30 September 2026
 
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-B. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-C. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-D. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
+#### 13.1 Sendai Midterm Review
 
-**Answer: C.**
-**Explanation:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ The High-Level Meeting on the Midterm Review was held on **17–19 May 2023**. UNDRR identifies its Political Declaration as **UN General Assembly resolution 77/289**, adopted on **18 May 2023**. It renewed political commitment; it did not convert Sendai into a binding treaty.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Disaster boundary?
+✅ India has a **Voluntary National Report** on the Midterm Review platform. Its existence supports the statement that India participated in the voluntary review process. No numerical claim about India’s target performance is made here.
 
-A. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-B. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-C. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-D. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
+#### 13.2 Early Warnings for All
 
-**Answer: D.**
-**Explanation:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ WMO states that **Early Warnings for All (EW4All)** seeks protection for everyone on Earth from hazardous weather, water or climate events through early-warning systems by the **end of 2027**.
 
-### Q25. Which statement correctly identifies Prevention-mitigation distinction?
+✅ The initiative followed the UN Secretary-General’s call on World Meteorological Day in **March 2022** and was launched at **COP27 in November 2022**.
 
-A. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-B. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-C. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-D. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
+✅ WMO and UNDRR co-lead the initiative. The four end-to-end pillars are:
 
-**Answer: A.**
-**Explanation:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+1. disaster-risk knowledge;
+2. detection, observation, monitoring, analysis and forecasting;
+3. warning dissemination and communication;
+4. preparedness and response capability.
 
-### Q26. Which option preserves the ecological boundary of Prevention-mitigation distinction?
+⚠️ EW4All operationalises the logic of Sendai Target G, but an initiative and its deadline are not proof of universal coverage or last-mile action.
 
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-B. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-C. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-D. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
+#### 13.3 Making Cities Resilient 2030
 
-**Answer: B.**
-**Explanation:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ UNDRR states that **Making Cities Resilient 2030 (MCR2030)** was launched on **28 October 2020**. It is a cross-stakeholder initiative supporting local resilience through advocacy, knowledge exchange, technical expertise, partnerships and a three-stage roadmap:
 
-### Q27. Which statement uses Prevention-mitigation distinction without changing its scale, parameter or status?
+```text
+STAGE A — CITIES KNOW BETTER
+risk awareness and stakeholder mobilisation
+                 ↓
+STAGE B — CITIES PLAN BETTER
+assessment, diagnostics and risk-informed DRR/resilience strategy
+                 ↓
+STAGE C — CITIES IMPLEMENT BETTER
+implementation, finance, resilient infrastructure, inclusion and mainstreaming
+```
 
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-B. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-C. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-D. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
+✅ The roadmap is flexible and iterative; cities may enter at the stage appropriate to their progress. It aims to contribute to SDG 11 and links with Sendai, the Paris Agreement and the New Urban Agenda.
 
-**Answer: C.**
-**Explanation:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Volatility boundary:** the live city dashboard changes. This package does not freeze a count of participating Indian cities or claim that registration proves resilience outcomes.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Prevention-mitigation distinction?
+---
 
-A. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-B. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-C. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-D. Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
+### I.14. Basic answer architecture
 
-**Answer: D.**
-**Explanation:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+#### For a concept question
 
-### Q29. Which statement correctly identifies Preparedness boundary?
+```text
+define exact term
+→ distinguish nearest concepts
+→ show hazard–exposure–vulnerability–capacity mechanism
+→ attach one India-centric example
+→ identify intervention and residual risk
+→ qualified conclusion
+```
 
-A. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-B. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-C. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-D. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
+#### For a resilience question
 
-**Answer: A.**
-**Explanation:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+```text
+definition
+→ determination: risk baseline + capacity + performance under stress
+→ elements: knowledge, robustness, redundancy, resourcefulness,
+   inclusion, rapid recovery, adaptation/transformation
+→ Sendai link
+→ evidence/outcome caveat
+```
 
-### Q30. Which option preserves the ecological boundary of Preparedness boundary?
+#### For a Sendai question
 
-A. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-B. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-C. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-D. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
+```text
+status + date + outcome
+→ four priorities in causal order
+→ seven targets A–G
+→ Hyogo continuity/change where asked
+→ India framework alignment
+→ voluntary/non-binding + implementation/data qualification
+```
 
-**Answer: B.**
-**Explanation:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### Basic-session mini recap
 
-### Q31. Which statement uses Preparedness boundary without changing its scale, parameter or status?
+1. Hazard is potential; disaster is serious disruption after risk materialises.
+2. Exposure is location; vulnerability is susceptibility; capacity is usable ability.
+3. Risk equations are organising heuristics, not universal calculators.
+4. Prevention avoids risk; mitigation reduces impact; preparedness readies action.
+5. Response saves life and meets immediate needs; recovery restores or improves systems.
+6. Prospective DRM prevents new risk; corrective DRM reduces existing risk; compensatory DRM manages residual risk.
+7. Intensive = severe/infrequent; extensive = recurrent/localised; systemic = cascading through interdependence.
+8. Resilience combines resistance, absorption, accommodation, adaptation, transformation and recovery.
+9. Sendai has four priorities and seven targets; A–D concern losses, E–G means.
+10. Sendai is voluntary and non-binding; plans and targets are not outcomes.
 
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-B. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-C. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-D. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
+### PART II — CURRENT INDIAN LEGAL AND INSTITUTIONAL ARCHITECTURE
 
-**Answer: C.**
-**Explanation:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### II.1. From relief administration to a statutory risk-governance system
 
-### Q32. Which option avoids the standard UPSC close-option trap about Preparedness boundary?
+```text
+1990s
+Disaster Management Cell in Ministry of Agriculture
+        │
+        ▼
+2005
+Disaster Management Act
+NDMA → SDMA → DDMA → local authorities
+        │
+        ├── 2009 National Policy on Disaster Management
+        ├── 2016 first National Disaster Management Plan
+        ├── 2019 revised National Disaster Management Plan
+        └── 2025 Amendment Act
+             gazetted 29 March 2025
+             commenced 9 April 2025
+```
 
-A. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-B. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-C. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-D. Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
+✅ The canonical source describes India’s movement from an activity-based, reactive arrangement towards a proactive, institutionalised structure. The Disaster Management Act, 2005 is the central statutory anchor; policy, plans, specialised institutions and funds make the shift operational across the disaster-management cycle.
 
-**Answer: D.**
-**Explanation:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ “Disaster management” is not a separately named subject in the Seventh Schedule. The canonical owner traces the Act’s constitutional basis to Concurrent List Entry 23, concerning social security and social insurance, and Entry 29, concerning prevention of the interstate spread of infectious or contagious diseases affecting people, animals or plants.
 
-### Q33. Which statement correctly identifies Response boundary?
+⚠️ This does not mean every disaster question is legally identical to a public-health emergency. The entries explain legislative competence; the Act then creates a general disaster-management framework.
 
-A. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-B. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-C. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
+> **Answer-grabbing line:** India’s post-2005 shift is not merely from relief to response, but from episodic administration to a permanent, multi-level system for prevention, mitigation, preparedness, response and recovery.
 
-**Answer: A.**
-**Explanation:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Must-write keywords:** statutory architecture · whole-cycle management · Concurrent List · vertical cascade · proactive risk reduction · implementation capacity.
 
-### Q34. Which option preserves the ecological boundary of Response boundary?
+**How to write the paragraph**
 
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-B. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-C. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-D. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
+- **Claim:** The 2005 Act institutionalised a proactive approach.
+- **Named evidence:** It created NDMA, SDMA and DDMA and linked them to plans, executive committees, specialist institutions and statutory funds.
+- **Analysis:** Responsibility therefore exists before impact, not only after loss.
+- **Qualification:** A legal structure proves authority and duty; it does not by itself prove local capacity or reduced losses.
 
-**Answer: B.**
-**Explanation:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+---
 
-### Q35. Which statement uses Response boundary without changing its scale, parameter or status?
+### II.2. Read the architecture by function, not as an organisation chart
 
-A. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-B. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-C. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-D. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
+```text
+POLICY / APPROVAL             COORDINATION / MONITORING
+NDMA                          NEC
+  │                             │
+  ▼                             ▼
+SDMA                          SEC
+  │                             │
+  └──────────────┬──────────────┘
+                 ▼
+          DDMA + local authorities
+                 │
+                 ▼
+        last-mile plans and execution
 
-**Answer: C.**
-**Explanation:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+SPECIALISED ARMS
+NDRF = specialist response force
+NIDM = training, research and capacity building
 
-### Q36. Which option avoids the standard UPSC close-option trap about Response boundary?
+ESCALATION / FINANCE
+NCMC = major disasters with serious or national ramifications
+HLC  = specified response and mitigation financial assistance
 
-A. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-B. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-C. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-D. Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
+ADVISORY CONVENING
+NPDRR = Union Home Minister-chaired multi-stakeholder platform
+```
 
-**Answer: D.**
-**Explanation:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+The most useful exam distinction is:
 
-### Q37. Which statement correctly identifies Recovery boundary?
+| Institutional type | What it establishes | What it does not establish |
+|---|---|---|
+| Authority | policy, plan, guideline, approval or oversight mandate | field delivery merely because the authority exists |
+| Executive committee | coordination, monitoring, directions and implementation support | independent apex policy status |
+| Specialist body | trained response or capacity-building capability | the entire disaster-management mandate |
+| Fund | a financing window governed by norms | automatic release, expenditure or outcome |
+| Enabling section | legal power to constitute an institution | actual constitution in every eligible jurisdiction |
 
-A. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-B. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-C. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
+✅ The **National Platform for Disaster Risk Reduction (NPDRR)** is chaired by the Union Home Minister. It reviews progress and advises on coordination across governments and stakeholders; it is advisory, not a substitute for statutory executive command.
 
-**Answer: A.**
-**Explanation:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+> **Answer-grabbing line:** The Act separates policy, coordination, field execution, specialist capacity and finance; collapsing these functions into “the government” conceals accountability.
 
-### Q38. Which option preserves the ecological boundary of Recovery boundary?
+**Must-write keywords:** authority–executive distinction · mandate · coordination · execution · specialist arm · fund · enabling power.
 
-A. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-B. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-C. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-D. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
+---
 
-**Answer: B.**
-**Explanation:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### II.3. Union tier: NDMA and NEC
 
-### Q39. Which statement uses Recovery boundary without changing its scale, parameter or status?
+#### 3.1 National Disaster Management Authority
 
-A. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-B. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-C. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-D. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
+✅ **NDMA** is the apex statutory authority. The Prime Minister is its ex officio Chairperson. Under the current Act, it lays down national policy and guidelines, coordinates preparation and approval of the National Plan, approves relevant plans and exercises general superintendence, direction and control over the National Disaster Response Force.
 
-**Answer: C.**
-**Explanation:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+NDMA should therefore be associated with:
 
-### Q40. Which option avoids the standard UPSC close-option trap about Recovery boundary?
+- national policy and standards;
+- plan coordination and approval;
+- technical guidance to States and State Authorities;
+- national disaster-database responsibility under the amended Act;
+- oversight rather than routine district field command.
 
-A. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-B. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-C. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-D. Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
+#### 3.2 National Executive Committee
 
-**Answer: D.**
-**Explanation:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ **NEC**, chaired by the Union Home Secretary, is the national coordinating and monitoring body. The 2025 amendment clarifies its role in coordinating disaster management, monitoring implementation of national and Union-ministry plans, evaluating preparedness, coordinating response and issuing directions for a threatening disaster situation or disaster.
 
-### Q41. Which statement correctly identifies Build-Back-Better boundary?
+❌ **Trap:** NDMA and NEC are not interchangeable. NDMA is the apex policy/approval authority; NEC is the executive coordination and monitoring mechanism.
 
-A. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-B. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-C. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-D. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
+> **Answer-grabbing line:** At the Union level, NDMA supplies policy authority while NEC supplies executive coordination; effective governance requires both rule-setting and operational follow-through.
 
-**Answer: A.**
-**Explanation:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Must-write keywords:** Prime Minister · Union Home Secretary · policy and guidelines · National Plan · monitoring · preparedness · response coordination.
 
-### Q42. Which option preserves the ecological boundary of Build-Back-Better boundary?
+**How to write the paragraph**
 
-A. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-B. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-C. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-D. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
+- **Claim:** National-level institutional differentiation prevents a single body from carrying every function.
+- **Named evidence:** NDMA approves policy and plans, whereas NEC monitors implementation and coordinates response.
+- **Analysis:** This creates a chain from norm-setting to execution.
+- **Qualification:** Direction from the Centre must still be translated through State, district and local capacity.
 
-**Answer: B.**
-**Explanation:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+---
 
-### Q43. Which statement uses Build-Back-Better boundary without changing its scale, parameter or status?
+### II.4. State tier: SDMA and SEC
 
-A. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-B. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-C. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-D. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
+✅ **SDMA** is chaired by the Chief Minister. It lays down State disaster-management policy, coordinates preparation of the State Plan and approves that plan. Under the amended section 18, it also coordinates and monitors implementation, lays down planning guidelines, supports lower tiers, maintains the State disaster database and feeds the national database.
 
-**Answer: C.**
-**Explanation:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ **SEC** is chaired by the Chief Secretary. It is the State executive mechanism for coordination, monitoring, preparedness and response. The 2025 amendment added the State Director General of Police as an ex officio member.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Build-Back-Better boundary?
+```text
+NATIONAL POLICY / PLAN
+          │
+          ▼
+SDMA: adapt policy + approve State Plan
+          │
+          ▼
+SEC: coordinate + monitor + direct implementation
+          │
+          ▼
+departments / districts / urban authorities / local authorities
+```
 
-A. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-B. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-C. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-D. Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
+❌ **Trap:** a Chief Minister-chaired SDMA does not make the Chief Minister the operational incident commander for every disaster. Policy leadership and field command are different functions.
 
-**Answer: D.**
-**Explanation:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+> **Answer-grabbing line:** The State tier is the constitutional and administrative hinge of India’s disaster system because it converts national norms into hazard-specific, territorially adapted action.
 
-### Q45. Which statement correctly identifies Cycle-continuum boundary?
+**Must-write keywords:** Chief Minister · Chief Secretary · State Plan · adaptation · monitoring · DGP ex officio · vertical coordination.
 
-A. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-B. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-C. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-D. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
+---
 
-**Answer: A.**
-**Explanation:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### II.5. District and local tier: where legal design becomes delivery
 
-### Q46. Which option preserves the ecological boundary of Cycle-continuum boundary?
+✅ **DDMA** is the district planning, coordinating and implementing authority. It is headed by the District Collector, District Magistrate or Deputy Commissioner. The elected representative of the local authority is Co-Chairperson, subject to the Act’s special arrangements.
 
-A. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-B. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-C. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-D. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
+Its core role includes:
 
-**Answer: B.**
-**Explanation:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- preparing and implementing the District Plan;
+- coordinating district departments and local authorities;
+- ensuring compliance with NDMA and SDMA guidelines;
+- preparing for and responding to threatening disaster situations;
+- connecting warnings, evacuation, relief and recovery to local conditions.
 
-### Q47. Which statement uses Cycle-continuum boundary without changing its scale, parameter or status?
+✅ Under the amended section 31, the District Plan must be reviewed at least once every two years, or earlier when necessary.
 
-A. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-B. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-C. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-D. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
+✅ **Local authorities** include Panchayati Raj institutions, municipalities and other statutory local bodies within the Act’s definition. They must train staff, maintain resources and undertake assigned prevention, mitigation, preparedness, relief, rehabilitation and reconstruction functions. The 2025 amendment also requires a local-authority disaster-management plan referred to in section 32.
 
-**Answer: C.**
-**Explanation:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+```text
+national guideline
+      ↓
+State adaptation
+      ↓
+District risk and resource plan
+      ↓
+ULB / PRI / line department / community
+      ↓
+warning received → evacuation → relief → restoration
+```
 
-### Q48. Which option avoids the standard UPSC close-option trap about Cycle-continuum boundary?
+⚠️ The DDMA’s elected Co-Chairperson is an institutional entry point for local accountability, but it does not guarantee meaningful community participation. Administrative leadership remains dominant and actual participation must be demonstrated.
 
-A. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-B. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-C. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-D. Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
+> **Answer-grabbing line:** The district is the decisive conversion point where a national mandate either becomes an actionable local plan or remains a paper promise.
 
-**Answer: D.**
-**Explanation:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Must-write keywords:** District Plan · Collector/DM/DC · elected Co-Chairperson · subsidiarity · local authority · last mile · implementation.
 
-### Q49. Which statement correctly identifies Domestic-law boundary?
+---
 
-A. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-B. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-C. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-D. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
+### II.6. Urban Disaster Management Authority: permission is not constitution
 
-**Answer: A.**
-**Explanation:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ Section 41A, inserted in 2025, permits a State Government, by Gazette notification, to constitute a separate **Urban Disaster Management Authority (UDMA)** for the State capital and every city having a Municipal Corporation, except the National Capital Territory of Delhi and the Union territory of Chandigarh.
 
-### Q50. Which option preserves the ecological boundary of Domestic-law boundary?
+| Element | Current statutory position |
+|---|---|
+| Legal verb | State Government **may** constitute |
+| Chairperson | Municipal Commissioner, ex officio |
+| Vice-Chairperson | District Collector concerned, ex officio |
+| Core output | Urban Plan |
+| Plan approval | State Authority |
+| Delivery role | coordination of Urban Plan implementation |
 
-A. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-B. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-C. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-D. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
+✅ In an MHA Rajya Sabha reply dated **11 February 2026**, the Union Government stated that, on information then available, **Karnataka alone had constituted a UDMA for Bruhat Bengaluru Mahanagara Palike**.
 
-**Answer: B.**
-**Explanation:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+❌ Do not infer that every eligible city already has a UDMA. Section 41A is an enabling power; a State notification proves constitution.
 
-### Q51. Which statement uses Domestic-law boundary without changing its scale, parameter or status?
+> **Answer-grabbing line:** Section 41A creates an urban-governance opportunity, not automatic nationwide institutional coverage.
 
-A. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-B. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-C. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-D. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
+**Must-write keywords:** section 41A · may constitute · Gazette notification · Municipal Commissioner · District Collector · Urban Plan · implementation evidence.
 
-**Answer: C.**
-**Explanation:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+---
 
-### Q52. Which option avoids the standard UPSC close-option trap about Domestic-law boundary?
+### II.7. Specialist institutions: NDRF, State force and NIDM
 
-A. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-B. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-C. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-D. India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
+#### 7.1 National Disaster Response Force
 
-**Answer: D.**
-**Explanation:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ The **National Disaster Response Force** is the specialist national response force. General superintendence, direction and control vest in NDMA, while command and supervision vest in its Director General.
 
-### Q53. Which statement correctly identifies NDMA-NEC boundary?
+✅ An MHA Lok Sabha reply dated **22 July 2025** recorded **16 operational battalions** and a total sanctioned strength of **18,581**. The older canonical book figure of 12 battalions is document-period evidence, not the current figure.
 
-A. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-B. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-C. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-D. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
+✅ The same reply states that primary responsibility for rescue, relief and rehabilitation rests with State Governments; the Union supplements State effort when required. It also records joint conferences, mock exercises, community-capacity programmes and NDRF assistance to State forces.
 
-**Answer: A.**
-**Explanation:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+#### 7.2 State Disaster Response Force
 
-### Q54. Which option preserves the ecological boundary of NDMA-NEC boundary?
+✅ Section 44A permits a State Government, by Gazette notification, to constitute a specialist **State Disaster Response Force**. Its composition, functions and service conditions are to be prescribed by that State.
 
-A. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-B. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-C. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-D. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
+❌ The section 44A force is not the **State Disaster Response Fund** under section 48. They share the acronym “SDRF” but perform different functions.
 
-**Answer: B.**
-**Explanation:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+#### 7.3 National Institute of Disaster Management
 
-### Q55. Which statement uses NDMA-NEC boundary without changing its scale, parameter or status?
+✅ **NIDM** is the statutory capacity-building institution for training, human-resource development, research, documentation and policy advocacy within NDMA’s policy framework. The 2025 amendment substituted section 43 to enable recruitment of experts; it did **not** abolish NIDM.
 
-A. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-B. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-C. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-D. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
+> **Answer-grabbing line:** Response capability depends on trained forces, but resilient governance also requires the knowledge, training and institutional learning supplied by NIDM.
 
-**Answer: C.**
-**Explanation:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Must-write keywords:** specialist response · general superintendence · Director General · section 44A · force–fund distinction · training · research · capacity building.
 
-### Q56. Which option avoids the standard UPSC close-option trap about NDMA-NEC boundary?
+---
 
-A. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-B. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-C. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-D. NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
+### II.8. Escalation bodies: NCMC, HLC and the security boundary
 
-**Answer: D.**
-**Explanation:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ Section 8A gives statutory recognition to the pre-existing **National Crisis Management Committee (NCMC)**. It is chaired by the Cabinet Secretary and is the nodal body for major disasters having serious or national ramifications.
 
-### Q57. Which statement correctly identifies NIDM-NDRF boundary?
+✅ Section 8B gives statutory recognition to the pre-existing **High Level Committee (HLC)**. It provides financial assistance to State Governments under section 46 and approves financial assistance for mitigation needs under section 47. The Union Minister in charge of the ministry or department administering disaster management chairs it.
 
-A. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-B. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-C. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-D. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
+✅ The **Cabinet Committee on Security** may become relevant where a disaster has serious security implications. This is a parallel escalation channel, not a substitute for NDMA–SDMA–DDMA.
 
-**Answer: A.**
-**Explanation:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ The amended definition of “disaster” excludes a law-and-order matter or a situation arising from it from “man made causes” under the Act.
 
-### Q58. Which option preserves the ecological boundary of NIDM-NDRF boundary?
+| Body | Trigger / purpose | Do not confuse with |
+|---|---|---|
+| NCMC | major disaster with serious or national ramifications | routine apex policy-making by NDMA |
+| HLC | specified response and mitigation financial assistance | day-to-day fund administration or field response |
+| CCS | security implications | ordinary disaster coordination |
 
-A. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-B. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-C. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-D. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
+> **Answer-grabbing line:** Crisis escalation is layered: NDMA governs the risk framework, NCMC coordinates major national ramifications, HLC decides specified assistance and CCS addresses the security dimension.
 
-**Answer: B.**
-**Explanation:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Must-write keywords:** sections 8A and 8B · Cabinet Secretary · serious or national ramifications · financial assistance · security boundary.
 
-### Q59. Which statement uses NIDM-NDRF boundary without changing its scale, parameter or status?
+---
 
-A. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-B. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-C. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-D. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
+### II.9. Policy and plan architecture after the 2025 amendment
 
-**Answer: C.**
-**Explanation:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+#### 9.1 Policy and plans
 
-### Q60. Which option avoids the standard UPSC close-option trap about NIDM-NDRF boundary?
+- ✅ **National Policy on Disaster Management, 2009:** aims at a safe and disaster-resilient India through a culture of prevention, mitigation, preparedness and response.
+- ✅ **NDMP 2016:** India’s first National Disaster Management Plan; aligned with Sendai, the SDGs and the Paris Agreement.
+- ✅ **Revised NDMP 2019:** the latest official published National Disaster Management Plan checked for this review.
 
-A. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-B. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-C. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-D. NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
+The first plan organised action through five broad thematic areas:
 
-**Answer: D.**
-**Explanation:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+1. understanding risk;
+2. inter-agency coordination;
+3. investing in structural DRR;
+4. investing in non-structural DRR;
+5. capacity development.
 
-### Q61. Which statement correctly identifies State-district boundary?
+The canonical source also records eighteen broad response activities in a scalable role-responsibility matrix extending to Panchayat and ULB level.
 
-A. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-B. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-C. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-D. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
+#### 9.2 Who prepares and reviews plans now?
 
-**Answer: A.**
-**Explanation:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+| Plan | Current lead after Act 10 of 2025 | Review/update rule |
+|---|---|---|
+| National Plan | NDMA coordinates preparation and approval in consultation with governments and stakeholders | review once every 3 years; update at least once every 5 years |
+| State Plan | SDMA coordinates preparation and approves it | review once every 3 years; update at least once every 5 years |
+| District Plan | DDMA | review at least once every 2 years, or earlier as necessary |
+| Urban Plan | UDMA where constituted; approved by SDMA | implementation coordinated by UDMA |
 
-### Q62. Which option preserves the ecological boundary of State-district boundary?
+✅ NEC and SEC retain executive coordination, monitoring and response roles. The amendment shifted plan preparation/approval responsibility; it did not remove these committees from implementation.
 
-A. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-B. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-C. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-D. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
+❌ Do not write that NDMP 2016 is the current plan or that NEC still prepares the National Plan under the unamended arrangement.
 
-**Answer: B.**
-**Explanation:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+> **Answer-grabbing line:** The 2025 amendment relocates plan ownership towards the Authorities while preserving Executive Committees as the implementation and coordination layer.
 
-### Q63. Which statement uses State-district boundary without changing its scale, parameter or status?
+**Must-write keywords:** NPDM 2009 · NDMP 2016 first edition · revised NDMP 2019 · plan ownership · three-year review · five-year update · two-year district review.
 
-A. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-B. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-C. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-D. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
+---
 
-**Answer: C.**
-**Explanation:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### II.10. Data, hazard departments and regulatory powers
 
-### Q64. Which option avoids the standard UPSC close-option trap about State-district boundary?
+✅ The 2025 amendment defines a **disaster database** in section 2(da). It covers disaster assessment, fund allocation and expenditure, preparedness and mitigation plans, risk registers by type and severity, and other matters fixed by Central policy.
 
-A. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-B. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-C. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-D. SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
+✅ Section 6(2)(v) assigns NDMA the duty to create the national disaster database. Section 18(2)(p) requires SDMAs to maintain State disaster databases and provide inputs to the national database.
 
-**Answer: D.**
-**Explanation:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ Amended sections 35 and 38 provide for hazard-wise nodal departments at Union and State levels for monitoring, early warning, prevention, mitigation, preparedness and capacity building.
 
-### Q65. Which statement correctly identifies Sendai identity?
+✅ Section 60A permits the Central or State Government, by Gazette notification, to require a person to take or refrain from hazard-related action to reduce disaster impact. Such a notification lasts for the specified period or six months, whichever is earlier; the notified penalty cannot exceed **₹10,000**.
 
-A. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-B. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-C. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-D. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
+✅ Section 76A permits NDMA, with previous Central Government approval, to make regulations by Gazette notification consistent with the Act and rules.
 
-**Answer: A.**
-**Explanation:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ The amendment also substituted section 5 to strengthen NDMA’s staffing route and section 43 to permit NIDM to recruit experts. These are enabling capacity provisions, not proof that every sanctioned post is filled.
 
-### Q66. Which option preserves the ecological boundary of Sendai identity?
+⚠️ A legal duty to create a database is not proof that a complete, public, interoperable database is operational. The Act itself does not turn every data field into a published dashboard or prescribe a public-release periodicity.
 
-A. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-B. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-C. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-D. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
+> **Answer-grabbing line:** The amendment strengthens the information and regulatory spine, but database mandate, data quality, interoperability, disclosure and use remain separate implementation tests.
 
-**Answer: B.**
-**Explanation:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Must-write keywords:** section 2(da) · sections 6(2)(v), 18(2)(p) · risk register · hazard-wise nodal department · section 60A · section 76A.
 
-### Q67. Which statement uses Sendai identity without changing its scale, parameter or status?
+---
 
-A. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-B. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-C. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-D. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
+### II.11. Disaster-finance architecture: identify the instrument before evaluating it
 
-**Answer: C.**
-**Explanation:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+```text
+RESPONSE / RELIEF                         MITIGATION
+National Disaster Response Fund          National Disaster Mitigation Fund
+section 46                               section 47
+        │                                       │
+        └────────────── HLC ────────────────────┘
 
-### Q68. Which option avoids the standard UPSC close-option trap about Sendai identity?
+STATE / DISTRICT WINDOWS UNDER SECTION 48
+State response + State mitigation
+District response + District mitigation
+```
 
-A. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-B. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-C. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-D. The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
+✅ Section 46 creates the National Disaster Response Fund. Section 47 creates the National Disaster Mitigation Fund. Section 48 requires State-level response and mitigation funds and contemplates district-level response and mitigation funds.
 
-**Answer: D.**
-**Explanation:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ Section 48 commenced on **1 August 2007**, whereas section 47(1) commenced on **5 February 2021**. The chronology helps explain why a dedicated mitigation-fund architecture became operational much later than the response-fund framework.
 
-### Q69. Which statement correctly identifies Priorities-targets boundary?
+⚠️ Statutory provision does not prove that each fund is constituted, adequately resourced, released, spent or effective.
 
-A. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-B. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-C. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-D. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
+✅ The Sixteenth Finance Commission’s official report for 2026–31 states that Union- and State-level statutory funds had been constituted, while district-level response and mitigation funds were the exception. It recommended an **80:20** split of the combined State corpus between SDRF and SDMF and used past expenditure plus a Disaster Risk Index based on hazard, exposure and vulnerability.
 
-**Answer: A.**
-**Explanation:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+✅ A 2019 Standing Committee on Finance had recommended stronger response assistance, a separate mitigation fund, earmarking 10% of centrally sponsored scheme allocations for permanent restoration and a 15% annual SDRF-corpus increase for 2020–25. Use these as document-period recommendations, not as the source for current allocations.
 
-### Q70. Which option preserves the ecological boundary of Priorities-targets boundary?
+❌ **Double acronym trap**
 
-A. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-B. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-C. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-D. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
+- **NDRF force** = specialist responders.
+- **NDRF fund** = national financing window.
+- **SDRF force** = optional section 44A State force.
+- **SDRF fund** = section 48 State response fund.
 
-**Answer: B.**
-**Explanation:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+> **Answer-grabbing line:** Disaster finance must be read through a four-step test—legal window, allocation, release and verified expenditure/outcome.
 
-### Q71. Which statement uses Priorities-targets boundary without changing its scale, parameter or status?
+**Must-write keywords:** sections 46–48 · response versus mitigation · HLC · 80:20 · Disaster Risk Index · district-fund gap · force–fund firewall.
 
-A. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-B. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-C. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-D. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
+---
 
-**Answer: C.**
-**Explanation:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### II.12. How the architecture supports the disaster-management cycle
 
-### Q72. Which option avoids the standard UPSC close-option trap about Priorities-targets boundary?
+| Cycle stage | Institutional contribution |
+|---|---|
+| Prevention / mitigation | policies, hazard departments, land-use and safety guidelines, mitigation funds |
+| Preparedness | plans, risk databases, NIDM training, exercises, pre-positioning |
+| Response | NEC/SEC/DDMA coordination, NCMC escalation, NDRF/State force, local authorities |
+| Relief | State primary responsibility, Union supplementation, response funds and HLC assistance |
+| Recovery / reconstruction | statutory plans, financing, local implementation and Build Back Better |
 
-A. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-B. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-C. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-D. Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
+✅ NDRF pre-positioning before a threatening disaster is a concrete example of movement away from purely post-impact relief.
 
-**Answer: D.**
-**Explanation:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+⚠️ The architecture becomes proactive only when risk assessment changes development, plans are rehearsed, funds are usable and warnings trigger action. Renaming institutions or publishing plans is insufficient.
 
-### Q73. Which statement correctly identifies Global-domestic boundary?
+> **Answer-grabbing line:** Proactivity is demonstrated when institutions reduce risk before impact and preserve learning through recovery, not merely when response becomes faster.
 
-A. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-B. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-C. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-D. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
+**Must-write keywords:** whole-cycle · pre-positioning · prevention · preparedness · recovery · Build Back Better · measurable outcome.
 
-**Answer: A.**
-**Explanation:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+---
 
-### Q74. Which option preserves the ecological boundary of Global-domestic boundary?
+### II.13. Four evidentiary rungs: law, status, delivery and impact
 
-A. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-B. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-C. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-D. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
+```text
+RUNG 1 — LEGAL MANDATE
+Act / section / rule / guideline
+        ↓ does not prove
+RUNG 2 — INSTITUTIONAL STATUS
+authority constituted / plan approved / fund allocated
+        ↓ does not prove
+RUNG 3 — DELIVERY
+staff trained / data entered / drill held / money released and spent
+        ↓ does not prove
+RUNG 4 — IMPACT
+warning acted upon / service continuity / lower loss / equitable recovery
+```
 
-**Answer: B.**
-**Explanation:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Use this ladder for every current claim:
 
-### Q75. Which statement uses Global-domestic boundary without changing its scale, parameter or status?
+- section 41A **permits** a UDMA;
+- a Gazette notification **constitutes** one;
+- staffing and an approved Urban Plan show greater readiness;
+- tested coordination and reduced loss are outcome evidence.
 
-A. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-B. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-C. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-D. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
+Likewise:
 
-**Answer: C.**
-**Explanation:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- section 6(2)(v) creates a database duty;
+- a functioning platform is implementation;
+- usable, timely, disaggregated data are delivery quality;
+- better decisions and loss reduction are impact.
 
-### Q76. Which option avoids the standard UPSC close-option trap about Global-domestic boundary?
+> **Answer-grabbing line:** The recurring governance error is to climb from mandate directly to impact without proving constitution, capacity, delivery or outcome.
 
-A. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-B. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-C. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-D. Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
+**Must-write keywords:** mandate · commencement · notification · constitution · staffing · delivery · outcome · attribution.
 
-**Answer: D.**
-**Explanation:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+---
 
-### Q77. Which statement correctly identifies Current evidence boundary?
+### II.14. Current official-status box — checked 30 September 2026
 
-A. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-B. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-C. A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-D. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
+| Claim | Verified status | Use in an answer |
+|---|---|---|
+| Act 10 of 2025 | gazetted 29 March 2025; all provisions commenced 9 April 2025 | cite as operative law, not a pending Bill |
+| Current consolidated Act | India Code edition as on 15 May 2026 | check current sections rather than quoting original 2005 text alone |
+| UDMA rollout | MHA reported only Karnataka’s BBMP UDMA on 11 February 2026 | evidence of one constitution, not national coverage |
+| NDRF capacity | MHA reported 16 operational battalions and sanctioned strength 18,581 on 22 July 2025 | input/capacity evidence, not proof of outcomes |
+| National database | statutory creation duty exists; the February 2026 reply describes the mandate and forecasting integration | do not claim a complete public national rollout without separate proof |
+| National Plan | revised NDMP 2019 is the latest official published plan checked | distinguish it from the first 2016 edition |
+| Disaster finance | Sixteenth Finance Commission award period is 2026–31 | use current award design; do not recycle historical corpus figures |
 
-**Answer: A.**
-**Explanation:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Official sources**
 
-### Q78. Which option preserves the ecological boundary of Current evidence boundary?
+- India Code, consolidated Disaster Management Act, 2005, as on 15 May 2026: <https://www.indiacode.nic.in/indiacode/bitstream/123456789/2045/1/A200553.pdf>
+- Gazette of India, Disaster Management (Amendment) Act, 2025: <https://ndmindia.mha.gov.in/ndmi/images/262126.pdf>
+- MHA commencement notification S.O. 1648(E), 8 April 2025: <https://ndmindia.mha.gov.in/ndmi/images/laws-plans-and-policies/2025-04-08-1617.pdf>
+- MHA Lok Sabha Unstarred Question 284, 22 July 2025: <https://www.mha.gov.in/MHA1/Par2017/pdfs/par2025-pdfs/LS22072025/284.pdf>
+- MHA Rajya Sabha Unstarred Question 1336, 11 February 2026: <https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/RS11022026/1336.pdf>
+- NDMA, revised National Disaster Management Plan, November 2019: <https://ndma.gov.in/sites/default/files/PDF/ndmp-2019.pdf>
+- Sixteenth Finance Commission, Volume I, Chapter 11: <https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/reports/Vol1-Main-Report.pdf>
 
-A. Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-B. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-C. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-D. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
+---
 
-**Answer: B.**
-**Explanation:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### II.15. Basic answer architecture
 
-### Q79. Which statement uses Current evidence boundary without changing its scale, parameter or status?
+#### A 10-mark “who does what?” answer
 
-A. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-B. Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-C. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-D. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
+1. Open with the 2005 Act and 2025 amendment.
+2. Draw NDMA/NEC → SDMA/SEC → DDMA/local authority.
+3. Give one exact mandate for each tier.
+4. Add NDRF and NIDM as specialist bodies.
+5. Close with the policy–coordination–delivery distinction.
 
-**Answer: C.**
-**Explanation:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+#### A 15-mark “proactive approach” answer
 
-### Q80. Which option avoids the standard UPSC close-option trap about Current evidence boundary?
+1. Contrast relief administration with whole-cycle risk management.
+2. Use the Act, NPDM 2009 and revised NDMP 2019.
+3. Explain plans, mitigation, preparedness, pre-positioning and recovery.
+4. Add a current institutional reform from Act 10 of 2025.
+5. Qualify with the district/local implementation gap.
 
-A. A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-B. Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-C. Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-D. Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
+#### A 20-mark governance evaluation
 
-**Answer: D.**
-**Explanation:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Organise the body under:
 
-## PYQS AND ANSWER PRACTICE
+- legal clarity;
+- vertical and horizontal coordination;
+- planning and data;
+- specialist response and capacity building;
+- finance;
+- urban/local delivery;
+- accountability and outcomes.
 
-### AUDITED DISASTER RISK, RESILIENCE, SENDAI AND URBAN-FLOOD PYQ OWNERSHIP
+Conclude with measurable, funded and locally testable reform rather than another institution list.
 
-Audited ledgers route the verified 2024 resilience, Sendai-target and urban-flood demands plus related disaster-management questions. No objective key, loss figure, target progress or official model answer is inferred.
+### Basic-session mini recap
 
-**Demand decoding:** The directive **answer** requires a direct position on “AUDITED DISASTER RISK, RESILIENCE, SENDAI AND URBAN-FLOOD PYQ OWNERSHIP”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+- The Act establishes a multi-level, whole-cycle framework.
+- NDMA/SDMA are policy and plan authorities; NEC/SEC are executive coordination layers.
+- DDMA and local authorities convert plans into delivery.
+- NCMC and HLC are now statutory under sections 8A and 8B.
+- UDMA and State Disaster Response Force are enabling provisions.
+- NDRF force, NDRF fund, State force and State fund are distinct.
+- Plan ownership and review cycles changed in 2025.
+- Database duty is not database performance.
+- Finance must be traced from statute to outcome.
+- The weakest implementation tier bounds the system.
 
-**Detailed examiner-grade model answer:**
+### PART III — ENVIRONMENTAL AND LOCAL IMPLEMENTATION
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “AUDITED DISASTER RISK, RESILIENCE, SENDAI AND URBAN-FLOOD PYQ OWNERSHIP”.
 
-**Analytical body:**
+### III.1. Environment–climate–disaster bridge
 
-1. **Claim and named evidence:** AUDITED DISASTER RISK, RESILIENCE, SENDAI AND URBAN-FLOOD PYQ OWNERSHIP **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Audited ledgers route the verified 2024 resilience, Sendai-target and urban-flood demands plus related disaster-management questions. No objective key, loss figure, target progress or official model answer is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+```text
+CLIMATE / GEO-PHYSICAL / TECHNOLOGICAL HAZARD
+                    │
+                    ▼
+      exposure created by siting and urban form
+                    +
+ vulnerability created by poverty, weak buildings,
+ ecosystem loss and unequal access to information
+                    −
+ usable capacity: warnings, local institutions,
+ safe infrastructure, social protection and finance
+                    │
+                    ▼
+          realised loss or avoided disaster
+                    │
+                    ▼
+ recovery choice ──┬── restore old risk
+                   └── Build Back Better → lower next-cycle risk
+```
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+A changing climate can alter the probability, intensity, duration or spatial pattern of some hydro-meteorological hazards. It does not eliminate the need to analyse exposure, vulnerability and capacity. Earthquakes illustrate the same principle without a climate driver: unsafe siting, non-engineered buildings and fragile lifelines convert shaking into disaster.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “AUDITED DISASTER RISK, RESILIENCE, SENDAI AND URBAN-FLOOD PYQ OWNERSHIP”.
+> **Answer-grabbing line:** Climate may amplify the hazard, but planning, ecosystems, infrastructure and inequality decide how much hazard becomes disaster.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Must-write keywords:** climate-risk multiplier · exposure · differentiated vulnerability · residual risk · maladaptation · risk-informed development.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+### III.2. Ecosystem-based disaster-risk reduction (EbDRR)
 
-**How to improve this answer:** For “AUDITED DISASTER RISK, RESILIENCE, SENDAI AND URBAN-FLOOD PYQ OWNERSHIP”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+| Ecosystem | Risk-reduction service | Governance use | Qualification |
+|---|---|---|---|
+| Mangroves and coastal vegetation | attenuate waves and surge energy; support livelihoods | conserve buffers alongside shelters, warnings and safe siting | not a universal wall against every cyclone or tsunami |
+| Urban wetlands, lakes and floodplains | store and slow runoff | protect catchments, reconnect drains, prohibit risk-creating encroachment | storage varies by hydrology and maintenance |
+| Forests and healthy slopes | interception, soil binding and runoff moderation | catchment treatment and risk-sensitive roads | cannot prevent every landslide under extreme triggers |
+| Dunes, reefs and coastal ecosystems | reduce erosion/wave energy in suitable settings | combine nature-based and engineered measures | site-specific science is essential |
 
-### OWNER PYQ LEDGER EXTRACTS
+EbDRR is not an ornamental “green” addition. It acts on hazard pathways, exposure and vulnerability while delivering biodiversity, water and livelihood co-benefits. Grey infrastructure remains necessary where residual risk is high; the defensible position is **green–grey–social complementarity**.
 
-#### 9. PYQ application
+> **Answer-grabbing line:** Destroying a wetland or mangrove is simultaneously an ecological loss and a decision to manufacture disaster risk.
 
-- ✅ **2024 GS-III direct PYQ (250 words):** “What is disaster resilience? How is it
-  determined? Describe various elements of a resilience framework. Also mention the global
-  targets of the Sendai Framework for Disaster Risk Reduction (2015-2030).” ⚠️ Three distinct
-  demands. For "elements of a resilience framework", use the standard DRR fields of action:
-  a **policy framework** backed by legal and institutional mechanisms; **risk assessment**
-  based on hazard and community resilience; **risk awareness** among stakeholders and
-  decision-makers; **implementation** through environmental management and urban planning;
-  **early-warning systems**; and **use of knowledge** through informed stakeholder
-  participation and accessible communication. Then list the **seven global targets (A-G)** —
-  the question asks for targets, not the four priorities.
-- ✅ **2024 GS-III direct PYQ (250 words):** “Flooding in urban areas is an emerging
-  climate-induced disaster. Discuss the causes of this disaster. Mention the features of two
-  major floods in the last two decades in India. Describe the policies and frameworks aimed
-  at dealing with such floods.” ⚠️ The question demands **two named Indian urban floods with
-  their features** — a factual requirement most answers skip. The documented challenges to
-  cite are: inadequate comprehensive urban-flood risk assessment before mitigation planning;
-  failure to map city-specific risk factors into development planning; weak inter-agency
-  coordination; poor information sharing; disintegrated investment decisions; and lack of
-  stakeholder consultation.
-- ⚠️ Recurring Prelims pattern: correctly identify the NDMA-SDMA-DDMA chairing structure and
-  the Sendai Framework's four priorities for action.
-- ⚠️ Mains linkage: the "Build Back Better" principle is used to argue for resilience-
-  focused (not merely restorative) post-disaster reconstruction policy.
+### III.3. Early warning, anticipatory action and preparedness
 
-#### 10. PYQ-based analytical application
+```text
+RISK KNOWLEDGE
+hazard + exposure + vulnerability + capacity
+        ↓
+DETECTION / MONITORING / FORECAST
+        ↓
+AUTHORITATIVE, IMPACT-BASED WARNING
+        ↓
+ACCESSIBLE LAST-MILE COMMUNICATION
+        ↓
+PRE-AGREED EARLY ACTION
+closure · evacuation · pre-positioning · cash/support
+        ↓
+RESPONSE + FEEDBACK + THRESHOLD REVISION
+```
 
-- ⚠️ Prelims questions on the Sendai Framework's priorities or India's three-tier structure
-  should be answered by applying the precise priority-order and chairing-structure facts.
-- ⚠️ Mains answers on "strengthening disaster management in India" should explicitly engage
-  the DDMA-capacity-gap critique and the ecosystem-based-risk-reduction integration point to
-  demonstrate analytical depth beyond describing the institutional structure.
+- **Preparedness** creates plans, capability, drills, stocks, routes and decision protocols.
+- **Anticipatory or early action** is the pre-agreed protective action taken before impact when a forecast or threshold is reached.
+- **Response** acts directly before, during or immediately after impact to save life and meet basic needs.
+- Warning issuance is an input. Receipt, comprehension, trust, authority to act, transport, shelters and livelihood protection determine the outcome.
 
-### PYQ DEMAND CARD 1 — 2024 GS-III
+The **Early Warnings for All** initiative seeks protection for everyone from hazardous weather, water or climate events through early-warning systems by the end of **2027**. WMO and UNDRR co-lead its four end-to-end pillars: risk knowledge; detection/forecasting; dissemination/communication; and preparedness/response. It operationalises Sendai Target G but does not change Target G's 2030 wording or prove universal coverage.
 
-**Demand:** Define disaster resilience, explain its determination and elements, and mention Sendai global targets.
+### III.4. Hazard applications: use the common framework without erasing hazard specificity
 
-**Status:** Verified direct Mains demand; four priorities are not substituted for seven targets.
+| Application | Hazard and exposure | Vulnerability/capacity test | Priority intervention |
+|---|---|---|---|
+| Urban flood | extreme rain, river/tide/backflow; dense built exposure | sealed surfaces, blocked drains, wetland loss, fragmented agencies | catchment planning, blue-green storage, drainage, warning, ULB/DDMA/UDMA coordination |
+| Heat | temperature, humidity, hot nights; outdoor and indoor exposure | work intensity, housing, water, health and cooling access | Heat Action Plans, targeted warnings, rest-water-shade, health readiness, cool design |
+| Cyclone | wind, rain and storm surge; coastal settlements/lifelines | shelter and evacuation access, housing, ecosystem buffers | IMD warning, pre-positioning, evacuation, shelters, resilient services, mangrove protection |
+| Earthquake | ground shaking; buildings and lifelines in seismic zones | construction quality, code enforcement, non-structural hazards | safe siting/design, retrofit, drills, lifeline redundancy; prediction claims avoided |
+| Multi-hazard city | hazards interact with common networks | single points of failure and cascading outages | all-hazard risk register, continuity plans, redundant power-water-health-telecom links |
 
-**Model solution:** **Hazard boundary:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Exposure boundary:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Vulnerability boundary:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Capacity boundary:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Risk relation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Build-Back-Better boundary:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Priorities-targets boundary:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. **Global-domestic boundary:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Urban-flood PYQ cases:** **Mumbai 2005** combined exceptionally intense rainfall with tidal/drainage constraints, low-lying or reclaimed exposure and obstructed natural channels. **Chennai 2015** combined heavy northeast-monsoon rainfall with altered wetlands and waterways, drainage stress and reservoir/urban-planning problems. The cases support a causal argument; they should not be cited as decorative names. NDMA's **2010 Guidelines on Management of Urban Flooding**, revised NDMP 2019, catchment/drainage mapping, wetland protection, impact-based warning, DDMA/ULB coordination and notification-dependent UDMAs form the policy route. The **Urban Flood Risk Management Programme (UFRMP)** is an NDMF-financed mitigation programme; sanction is not completed or maintained resilience.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2024 GS-III”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Critical infrastructure** must be assessed as a network, not isolated assets. A hospital with a strong building but no backup power, water, access road, communications or supply chain is not resilient. Sendai Target D therefore links infrastructure damage with disruption of basic services.
 
-**Detailed examiner-grade model answer:**
+> **Answer-grabbing line:** Urban flooding is climate-amplified but governance-mediated: rainfall becomes disaster through accumulated exposure, lost storage, inadequate drainage and fragmented authority.
 
-**Introduction and thesis:** **Hazard boundary:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Exposure boundary:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Vulnerability boundary:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Capacity boundary:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Risk relation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Build-Back-Better boundary:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Priorities-targets boundary:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. **Global-domestic boundary:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Must-write keywords:** catchment · blue-green-grey system · impermeable surface · wetland/floodplain · drainage outfall · impact-based warning · service continuity.
 
-**Analytical body:**
+### III.5. Inclusion and local capacity
 
-1. **Claim and named evidence:** Demand: Define disaster resilience, explain its determination and elements, and mention Sendai global targets. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified direct Mains demand; four priorities are not substituted for seven targets. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Risk is socially distributed. Last-mile governance must identify persons with disabilities, older persons, children, pregnant women, migrants, informal workers, tenants, remote settlements and livelihood-dependent households without treating them as passive categories.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+A locally usable plan requires:
 
-**Qualified conclusion:** **Hazard boundary:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Exposure boundary:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Vulnerability boundary:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Capacity boundary:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Risk relation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Build-Back-Better boundary:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Priorities-targets boundary:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. **Global-domestic boundary:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+1. ward/village risk maps and resource inventories;
+2. warnings in accessible formats and trusted languages;
+3. transport, shelters and continuity of medicines, care and assistive devices;
+4. community volunteers and local knowledge integrated with official science;
+5. livelihood and social-protection triggers that make evacuation feasible;
+6. grievance, compensation and recovery participation;
+7. drills and after-action reviews that revise the next plan.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+> **Answer-grabbing line:** Inclusion is not a list of vulnerable groups; it is the removal of barriers between warning, protective action and equitable recovery.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+### III.6. Current law and status firewall — checked 30 September 2026
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2024 GS-III”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+```text
+ENACTED TEXT → COMMENCED PROVISION → NOTIFICATION / CONSTITUTION
+             → STAFFING + PLAN + FINANCE → DELIVERY → VERIFIED OUTCOME
+```
 
-### PYQ DEMAND CARD 2 — 2024 GS-III
+- **Act 10 of 2025** received assent and was gazetted on **29 March 2025**; the commencement notification brought all its provisions into force on **9 April 2025**.
+- Sections **8A** and **8B** give statutory recognition to the pre-existing **NCMC** and **HLC**. Statutory recognition is not the same as creating a new field force.
+- Section **41A** says a State Government **may**, by Gazette notification, constitute a UDMA for the State capital and each Municipal Corporation city, excluding Delhi and Chandigarh. MHA reported on **11 February 2026** that Karnataka had constituted one for BBMP; this proves one notified authority, not universal rollout.
+- Section **44A** similarly enables a State Disaster Response Force; it does not establish one in every State. The force is distinct from the State Disaster Response Fund.
+- The amended Act defines a **disaster database** and assigns national/State duties. A statutory duty is not proof of a complete, public, interoperable database.
+- National and State Plans are reviewed every three years and updated at least every five years; District Plans are reviewed at least every two years or earlier when needed. The current checked national plan is the revised **NDMP 2019**, not the first 2016 edition.
+- The amendment omitted sections **12, 13 and 19**. It did not remove powers over minimum relief standards: substituted section **6(2)(w)** places national standard-setting with NDMA, while substituted section **18(2)** authorises State minimum standards that cannot be below those laid down by the National Authority.
+- Sections 46–48 continue the response/mitigation fund architecture. The 2025 amendment did not itself create a new general national disaster fund; the HLC is a decision body, not a fund.
+- The amended definition excludes a law-and-order matter, or a situation arising from it, from “man made causes” for this Act.
 
-**Demand:** Discuss causes, cases and policy frameworks for urban flooding in India.
+### III.7. Sendai status in 2026: target, indicator and progress are different statements
 
-**Status:** Verified direct Mains demand; no disaster-loss value is inferred.
+As of 30 September 2026, Sendai remains the operative global DRR framework for 2015–2030. The 2023 Midterm Review and UNGA Political Declaration renewed and accelerated commitment; they did not make the framework binding or replace its four priorities and seven targets.
 
-**Model solution:** **Hazard boundary:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Exposure boundary:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Vulnerability boundary:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Capacity boundary:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Risk relation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Prevention-mitigation distinction:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Preparedness boundary:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Domestic-law boundary:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **State-district boundary:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Current evidence boundary:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+```text
+TARGET = agreed result or direction
+INDICATOR = one of 38 OIEWG-developed measures
+REPORTED VALUE = dated observation submitted through the Monitor
+PROGRESS JUDGMENT = interpretation, not the reported value itself
+```
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2024 GS-III”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+Do not convert a strategy count, budget, platform membership, warning installation or midterm declaration into proof that mortality, affected people or economic loss have fallen. Use source-specific dated data or retain uncertainty.
 
-**Detailed examiner-grade model answer:**
+### III.8. PYQ application map
 
-**Introduction and thesis:** **Hazard boundary:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Exposure boundary:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Vulnerability boundary:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Capacity boundary:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Risk relation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Prevention-mitigation distinction:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Preparedness boundary:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Domestic-law boundary:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **State-district boundary:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Current evidence boundary:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+| PYQ | Ownership in this workbook | Answer route |
+|---|---|---|
+| 2018 GS-III Q18 | shared/application; primary owner Disaster Management Topic 01 | India before/after Sendai → Hyogo comparison → implementation qualification |
+| 2019 GS-III Q8 | shared/application; primary owner Topic 01 | define vulnerability → five dimensions → exposure/capacity distinction |
+| 2020 GS-III Q18 | shared/application; primary owner Topic 02 | reactive-to-proactive chronology → institutions/plans/preparedness → local gap |
+| 2024 GS-III Q17 | shared/application; primary owner Topic 01 | resilience definition/determination/elements → seven targets A–G |
+| 2024 GS-III Q18 | application; primary owner Topic 08 | causes → Mumbai 2005 + Chennai 2015 → frameworks → urban governance |
+| 2025 Prelims Q64 | shared concept; primary owner Topic 09 | official Set-A key **C**; retain the scientific caveat that statement 1 is contested and 35°C wet bulb is not an IMD heat-wave criterion |
+| 2026 GS-III Q7 | application; primary owner Topic 10, support Topic 14 | ecologically sensitive infrastructure → zonation/cumulative assessment → lifecycle safeguards |
+| 2026 GS-III Q18 | application; primary owner Topic 03 | community knowledge/volunteers → inclusion barriers → institutionalised participation |
+| 2026 Prelims Q23 | shared EbDRR application; primary owner Environment Topic 24 | mangrove bio-shield + livelihood function; provisional key status retained |
 
-**Analytical body:**
+### III.9. Answer frameworks
 
-1. **Claim and named evidence:** Demand: Discuss causes, cases and policy frameworks for urban flooding in India. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified direct Mains demand; no disaster-loss value is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**10 marks:** define precisely → distinguish nearest terms → one mechanism visual → one Indian example → qualified conclusion.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**15 marks:** thesis → legal/global framework → 4–6 analytical dimensions → named evidence → implementation gap → targeted reform.
 
-**Qualified conclusion:** **Hazard boundary:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Exposure boundary:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Vulnerability boundary:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Capacity boundary:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Risk relation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Prevention-mitigation distinction:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Preparedness boundary:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Domestic-law boundary:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **State-district boundary:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Current evidence boundary:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**20 marks:** risk diagnosis → institutions and law → prevention/mitigation/preparedness → hazard applications → finance/data/inclusion → recovery/BBB → outcome-based conclusion.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2024 GS-III”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish hazard, exposure, vulnerability, capacity, risk and disaster. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Hazard boundary. **Named evidence/example:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Exposure boundary. **Named evidence/example:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Vulnerability boundary. **Named evidence/example:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity boundary. **Named evidence/example:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Risk relation. **Named evidence/example:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Disaster boundary. **Named evidence/example:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-- Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-- Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-- Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-- Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-- A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-
-**Qualified conclusion:** **Claim:** Hazard boundary. **Named evidence/example:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Exposure boundary. **Named evidence/example:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Vulnerability boundary. **Named evidence/example:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity boundary. **Named evidence/example:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Risk relation. **Named evidence/example:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Disaster boundary. **Named evidence/example:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish hazard, exposure, vulnerability, capacity, risk and disaster. Answer in about 150…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Hazard boundary. **Named evidence/example:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Exposure boundary. **Named evidence/example:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Vulnerability boundary. **Named evidence/example:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity boundary. **Named evidence/example:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Risk relation. **Named evidence/example:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Disaster boundary. **Named evidence/example:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Hazard boundary. **Named evidence/example:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Exposure boundary. **Named evidence/example:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Vulnerability boundary. **Named evidence/example:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity boundary. **Named evidence/example:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Risk relation. **Named evidence/example:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Disaster boundary. **Named evidence/example:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish hazard, exposure, vulnerability, capacity, risk and disaster. Answer in about 150…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Explain prevention, mitigation and preparedness as distinct phases. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Prevention-mitigation distinction. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Preparedness boundary. **Named evidence/example:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Cycle-continuum boundary. **Named evidence/example:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-- Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-- Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-
-**Qualified conclusion:** **Claim:** Prevention-mitigation distinction. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Preparedness boundary. **Named evidence/example:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Cycle-continuum boundary. **Named evidence/example:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain prevention, mitigation and preparedness as distinct phases. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Prevention-mitigation distinction. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Preparedness boundary. **Named evidence/example:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Cycle-continuum boundary. **Named evidence/example:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Prevention-mitigation distinction. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Preparedness boundary. **Named evidence/example:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Cycle-continuum boundary. **Named evidence/example:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain prevention, mitigation and preparedness as distinct phases. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain response, recovery and Build Back Better. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Response boundary. **Named evidence/example:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Recovery boundary. **Named evidence/example:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Build-Back-Better boundary. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Cycle-continuum boundary. **Named evidence/example:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-- Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-- Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-- Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-
-**Qualified conclusion:** **Claim:** Response boundary. **Named evidence/example:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Recovery boundary. **Named evidence/example:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Build-Back-Better boundary. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Cycle-continuum boundary. **Named evidence/example:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain response, recovery and Build Back Better. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Response boundary. **Named evidence/example:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Recovery boundary. **Named evidence/example:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Build-Back-Better boundary. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Cycle-continuum boundary. **Named evidence/example:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Response boundary. **Named evidence/example:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Recovery boundary. **Named evidence/example:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Build-Back-Better boundary. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Cycle-continuum boundary. **Named evidence/example:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain response, recovery and Build Back Better. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Map NDMA, NEC, NIDM, NDRF, SDMA and DDMA by role. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Domestic-law boundary. **Named evidence/example:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NDMA-NEC boundary. **Named evidence/example:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NIDM-NDRF boundary. **Named evidence/example:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** State-district boundary. **Named evidence/example:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-- NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-- NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-- SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-
-**Qualified conclusion:** **Claim:** Domestic-law boundary. **Named evidence/example:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NDMA-NEC boundary. **Named evidence/example:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NIDM-NDRF boundary. **Named evidence/example:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** State-district boundary. **Named evidence/example:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Map NDMA, NEC, NIDM, NDRF, SDMA and DDMA by role. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Domestic-law boundary. **Named evidence/example:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NDMA-NEC boundary. **Named evidence/example:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NIDM-NDRF boundary. **Named evidence/example:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** State-district boundary. **Named evidence/example:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Domestic-law boundary. **Named evidence/example:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NDMA-NEC boundary. **Named evidence/example:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NIDM-NDRF boundary. **Named evidence/example:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** State-district boundary. **Named evidence/example:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Map NDMA, NEC, NIDM, NDRF, SDMA and DDMA by role. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Compare Sendai's global framework with India's domestic legal architecture. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Domestic-law boundary. **Named evidence/example:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NDMA-NEC boundary. **Named evidence/example:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** State-district boundary. **Named evidence/example:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sendai identity. **Named evidence/example:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Priorities-targets boundary. **Named evidence/example:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Global-domestic boundary. **Named evidence/example:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-- NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-- SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-- The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-- Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-- Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-
-**Qualified conclusion:** **Claim:** Domestic-law boundary. **Named evidence/example:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NDMA-NEC boundary. **Named evidence/example:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** State-district boundary. **Named evidence/example:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sendai identity. **Named evidence/example:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Priorities-targets boundary. **Named evidence/example:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Global-domestic boundary. **Named evidence/example:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Sendai's global framework with India's domestic legal architecture. Answer in about…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Domestic-law boundary. **Named evidence/example:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NDMA-NEC boundary. **Named evidence/example:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** State-district boundary. **Named evidence/example:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sendai identity. **Named evidence/example:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Priorities-targets boundary. **Named evidence/example:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Global-domestic boundary. **Named evidence/example:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Domestic-law boundary. **Named evidence/example:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NDMA-NEC boundary. **Named evidence/example:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** State-district boundary. **Named evidence/example:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sendai identity. **Named evidence/example:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Priorities-targets boundary. **Named evidence/example:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Global-domestic boundary. **Named evidence/example:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Compare Sendai's global framework with India's domestic legal architecture. Answer in about…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Design a risk-reduction framework using the full disaster-management continuum. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Hazard boundary. **Named evidence/example:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Exposure boundary. **Named evidence/example:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Vulnerability boundary. **Named evidence/example:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity boundary. **Named evidence/example:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Risk relation. **Named evidence/example:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Prevention-mitigation distinction. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Preparedness boundary. **Named evidence/example:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Response boundary. **Named evidence/example:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Recovery boundary. **Named evidence/example:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Build-Back-Better boundary. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Current evidence boundary. **Named evidence/example:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-- Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-- Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-- Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-- Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-- Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-- Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-- Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-- Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-- Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-- Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
-
-**Qualified conclusion:** **Claim:** Hazard boundary. **Named evidence/example:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Exposure boundary. **Named evidence/example:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Vulnerability boundary. **Named evidence/example:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity boundary. **Named evidence/example:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Risk relation. **Named evidence/example:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Prevention-mitigation distinction. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Preparedness boundary. **Named evidence/example:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Response boundary. **Named evidence/example:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Recovery boundary. **Named evidence/example:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Build-Back-Better boundary. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Current evidence boundary. **Named evidence/example:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Design a risk-reduction framework using the full disaster-management continuum. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Hazard boundary. **Named evidence/example:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Exposure boundary. **Named evidence/example:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Vulnerability boundary. **Named evidence/example:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity boundary. **Named evidence/example:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Risk relation. **Named evidence/example:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Prevention-mitigation distinction. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Preparedness boundary. **Named evidence/example:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Response boundary. **Named evidence/example:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Recovery boundary. **Named evidence/example:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Build-Back-Better boundary. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Current evidence boundary. **Named evidence/example:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-8. **Claim and named evidence:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-9. **Claim and named evidence:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-10. **Claim and named evidence:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-11. **Claim and named evidence:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Hazard boundary. **Named evidence/example:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Exposure boundary. **Named evidence/example:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Vulnerability boundary. **Named evidence/example:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity boundary. **Named evidence/example:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Risk relation. **Named evidence/example:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Prevention-mitigation distinction. **Named evidence/example:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Preparedness boundary. **Named evidence/example:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Response boundary. **Named evidence/example:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Recovery boundary. **Named evidence/example:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Build-Back-Better boundary. **Named evidence/example:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Current evidence boundary. **Named evidence/example:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Design a risk-reduction framework using the full disaster-management continuum. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Disaster Management) + Prelims.
-> **Core area:** Disaster-risk-reduction governance architecture.
-> **Grounded in:** Disaster Management Act, 2005 full text; Sendai Framework for Disaster Risk Reduction 2015-2030 (UNDRR) monitoring indicators; National Disaster Management Plan revisions; audited UPSC Environment/Disaster Management PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
-> *Companion: `basic/26_Disaster-Management-Framework-and-Sendai.md`.*
+### A. Conceptual and Sendai depth
 
-#### 1. The paradigm shift Sendai represents: from "disaster management" to "disaster risk reduction"
+### A. Risk is produced through development choices
 
-⚠️ The single most important advanced-level conceptual point: the global disaster-policy
-field underwent a genuine paradigm shift — from the Yokohama Strategy (1994) and Hyogo
-Framework (2005-2015) era's focus on *managing* disasters as they occur, toward the Sendai
-Framework's (2015-2030) explicit focus on *reducing existing disaster risk* and *preventing
-the creation of new risk* through development planning itself (e.g., land-use planning,
-building codes, ecosystem-based approaches) — treating disaster risk as a systemic
-development-planning issue rather than solely an emergency-response issue. This reframing is
-why Sendai's four priorities emphasise "understanding risk" and "risk governance" ahead of
-"preparedness for effective response" — response capability remains essential, but is
-positioned as the framework's fourth priority, not its starting point.
+⚠️ Treat risk as a stock that can accumulate. Unregulated construction, floodplain encroachment, deforestation, damaged drainage, unsafe industrial siting and infrastructure concentration can increase exposure or vulnerability while the underlying hazard remains unchanged.
 
-#### 2. India's DDMA-level implementation gap: the recurring, examinable weak link
+The key feedback is:
 
-1. ✅ The Disaster Management Act, 2005's three-tier structure places DDMA (District
-   Disaster Management Authority) as the primary implementing body closest to actual
-   disaster events, chaired by the District Magistrate/Collector.
-2. ⚠️ **Documented implementation critique:** district-level disaster-management capacity
-   (dedicated staffing, technical expertise, updated hazard/vulnerability mapping, and
-   resourcing for mitigation infrastructure) has been repeatedly flagged by various
-   parliamentary and expert reviews as the weakest link in India's disaster-governance
-   chain — District Magistrates typically hold disaster-management responsibilities
-   alongside numerous other administrative duties, without always having a dedicated,
-   full-time, technically specialised disaster-management team comparable to state or
-   national-level bodies.
-3. ⚠️ **Analytical synthesis:** this creates a structural mismatch — the institutional tier
-   with the most detailed local knowledge and the fastest initial-response role (DDMA) is
-   often the least resourced tier in practice, while national/state bodies (NDMA/SDMA) with
-   greater resources and policy authority are geographically and administratively more
-   distant from the actual disaster event — a recurring theme when Mains questions ask
-   about strengthening India's disaster-governance architecture.
+```text
+risk-blind development
+→ accumulated exposure/vulnerability
+→ disaster loss
+→ recovery decision
+   ├─ restore previous pattern → lock-in and recreate risk
+   └─ change siting/design/governance → reduce future risk
+```
 
-#### 3. Ecosystem-based disaster-risk reduction: a cross-topic integration point
+This converts “natural disaster” narration into governance analysis.
 
-- ⚠️ The Sendai Framework and India's evolving disaster policy increasingly recognise
-  ecosystem-based approaches — healthy mangroves buffering cyclone storm surge (Topic 24),
-  intact wetlands absorbing flood peaks (Topic 07), and stable forest cover reducing
-  landslide/erosion risk (Topics 03, 11-12) — as disaster-risk-reduction infrastructure in
-  their own right, not merely as separate "environmental" concerns.
-- ⚠️ **Analytical significance:** this framing directly integrates disaster-management
-  policy with the ecosystem-services concept introduced in Topic 01 — degrading a mangrove
-  forest for short-term coastal development is not just a biodiversity loss but a
-  disaster-risk-increasing decision, since it removes a "regulating service" (storm-surge
-  buffering) that has quantifiable value in disaster-risk terms. A sophisticated Mains
-  answer on disaster management should explicitly cite ecosystem-based measures alongside
-  conventional "grey" (engineered) infrastructure as part of a comprehensive risk-reduction
-  strategy.
+### B. Resilience is a measurable system property
 
-#### 4. Early-warning systems: documented success and continuing gaps
+⚠️ Resilience should be tested at several levels:
 
-- ✅ India's cyclone early-warning and evacuation capability (led by IMD forecasting combined
-  with NDMA/state-government coordinated evacuation protocols) has been credited with
-  substantially reducing cyclone-related casualties in more recent major events compared to
-  historical precedents from decades earlier — a genuine institutional success story
-  worth citing with specific event comparisons where reliably documented.
-- ⚠️ **Continuing gaps:** early-warning and preparedness capability is markedly stronger for
-  well-studied, more predictable hazards (cyclones, seasonal floods) than for less
-  predictable or more localised hazards (flash floods, urban flooding, landslides, and
-  heatwave-specific early-action protocols), which have received comparatively newer and
-  less mature institutional attention — heatwave action plans, for instance, are a more
-  recently developed instrument compared to the decades-long evolution of cyclone-
-  preparedness systems.
+- **asset:** does a bridge, hospital or power station remain functional?
+- **network:** can alternate routes or suppliers compensate for failure?
+- **institution:** can decisions, information and finance move quickly?
+- **community:** can diverse groups understand warnings and act?
+- **recovery:** are functions restored quickly and equitably?
+- **adaptation:** are recurring risk drivers corrected?
 
-#### 5. Data and conceptual limitations
+A single preparedness drill or infrastructure project is insufficient evidence. Meaningful assessment requires baselines, disaggregated indicators, restoration times, service continuity and repeated measurement.
 
-- ⚠️ Comparative casualty-reduction claims across different disaster events (e.g., citing
-  that a specific recent cyclone caused markedly fewer deaths than a historical
-  comparator) should always cite the specific events and official casualty figures being
-  compared, since disaster-mortality data can vary in reporting completeness and definition
-  across different events and time periods.
-- ⚠️ District-level disaster-management capacity assessments (staffing, resourcing,
-  technical capability) are not comprehensively, uniformly published in a single national
-  dataset; specific capacity claims should be attributed to the relevant parliamentary
-  committee report, NDMA assessment, or academic study cited.
-- ⚠️ Quantifying the specific risk-reduction value of ecosystem-based measures (e.g., exact
-  storm-surge-height reduction attributable to a specific mangrove belt) requires
-  site-specific scientific studies rather than a single universal figure.
+### C. Compound, cascading and systemic risk
 
-#### 6. Recurring UPSC analytical tensions
+- **Compound risk:** multiple drivers or hazards combine.
+- **Cascading risk:** one failure triggers another in sequence.
+- **Systemic risk:** disruption propagates across interconnected systems and sectors.
 
-| Tension | Balanced framing |
-|---|---|
-| National/state disaster-policy authority vs district-level implementation capacity | Genuine disaster resilience requires resourcing the DDMA tier commensurate with its critical, closest-to-ground implementation role, not just strengthening national/state policy frameworks. |
-| Engineered ("grey") disaster infrastructure vs ecosystem-based ("green") risk reduction | Both are valuable and increasingly viewed as complementary; ecosystem-based measures (mangroves, wetlands, forests) should be integrated into disaster-risk-reduction planning, not treated as a separate environmental-policy silo. |
-| Mature hazard-specific preparedness (cyclones) vs newer, less-developed hazard preparedness (heatwaves, urban flooding) | India's disaster-preparedness capability is uneven across hazard types; newer instruments (heatwave action plans) require continued institutional development comparable to the decades-long maturation of cyclone-preparedness systems. |
+⚠️ Example logic: extreme rainfall → urban flooding → electricity failure → water-pumping and hospital disruption → communication/payment failures. The analysis must identify interdependencies and recovery priorities, not simply list hazards.
 
-#### 7. Must-Know Facts for Advanced Prelims
+### D. Equity and attitudinal vulnerability
 
-- ✅ The Sendai Framework represents a paradigm shift from "disaster management" (managing
-  events as they occur) to "disaster risk reduction" (preventing/reducing risk through
-  development planning itself), succeeding the Hyogo Framework for Action (2005-2015).
-- ✅ District Disaster Management Authorities (DDMAs), chaired by the District Magistrate/
-  Collector, have been repeatedly flagged in reviews as the least-resourced tier in India's
-  three-tier disaster-governance structure despite their critical, closest-to-ground
-  implementation role.
-- ✅ Ecosystem-based disaster-risk reduction (mangroves, wetlands, forests as risk-reduction
-  infrastructure) is an increasingly recognised complement to engineered disaster
-  infrastructure under both Sendai Framework principles and evolving Indian policy.
-- ✅ India's cyclone early-warning/evacuation capability has matured substantially further
-  than its preparedness capability for hazards like heatwaves or urban flooding, which are
-  comparatively newer areas of institutional focus.
+The five-fold vulnerability typology supports equity-sensitive assessment. Physical exposure, poverty, marginalisation, ecosystem degradation and distrust can coincide. “Community capacity” should therefore be disaggregated: who controls resources, who receives warnings, who can evacuate, whose livelihood can survive closure and who participates in recovery decisions?
 
-#### 8. Advanced Prelims traps
+Attitudinal vulnerability is not a claim that affected people are to blame. It directs attention to trust, risk perception, prior experience and the credibility of institutions.
 
-- ❌ The Sendai Framework primarily emphasises improving emergency response capability as its
-  first priority. -> Its first priority is "understanding disaster risk," reflecting the
-  paradigm shift toward risk reduction and prevention rather than response-first framing.
-- ❌ India's three-tier disaster-management structure is uniformly well-resourced across all
-  levels. -> DDMA (district level) has been repeatedly flagged as comparatively under-
-  resourced relative to its critical implementation role.
-- ❌ Ecosystem-based disaster-risk reduction (mangroves, wetlands) is considered separate
-  from and unrelated to formal disaster-management policy. -> It is increasingly integrated
-  as a recognised risk-reduction approach under Sendai Framework principles and evolving
-  Indian policy.
-- ❌ India's disaster-preparedness capability is uniformly mature across all hazard types. ->
-  It is notably stronger for well-studied hazards like cyclones than for newer areas like
-  heatwave action planning or urban-flood preparedness.
+Slow-onset risk also exposes an institutional bias toward visible rapid-onset emergencies. Drought, soil degradation and desertification require monitoring and livelihood protection before a single dramatic “event” activates response machinery.
 
-#### 9. 📰 Current anchor — analytical use
+### E. Prevention-response trade-off
 
-📰 **Disaster Management (Amendment) Act, 2025**, in force 9 April 2025,
-is the current legal update. Route institutional detail to
-`../../Disaster-Management/advanced/02_Indian-Legal-and-Institutional-Architecture.md`
-instead of duplicating it. [NIDM/official text](https://nidm.gov.in/DMAct.asp).
+⚠️ Prevention and response are complementary but compete for limited finance and administrative attention. Retrofitting, land-use control and ecosystem restoration reduce expected loss; shelters, rescue forces, stocks and emergency communication preserve response capability. Priority 3 supports investment before loss, but residual risk makes preparedness indispensable.
 
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 India's National Disaster Management Plan, aligned with Sendai Framework priorities, continues to be updated (verify the latest NDMA plan revision and hazard-specific action-plan development, e.g., heatwave action plans, before citing specific current details). | Use as the current institutional baseline while pairing it with the DDMA-capacity-gap critique and the ecosystem-based-risk-reduction integration point for full analytical depth. |
-| ✅ **The Hyogo-to-Sendai shift is the analytical core.** Hyogo (2005-2015) set **five priorities** framed around *managing disasters*; Sendai (2015-2030) set **four priorities plus seven measurable global targets** framed around *managing risk*, and extended explicitly to **"Build Back Better" in recovery, rehabilitation and reconstruction**. | The examinable proposition: Sendai's decisive innovation was not new priorities but **measurable targets with a baseline period**, converting DRR from exhortation into something auditable. India's NDMP inherits the priorities but not the targets — which is precisely where the accountability gap sits. |
-| ✅ **Heatwave governance** is the fastest-moving gap: heatwaves are currently treated largely as **local** disasters, while their intensifying severity argues for a broader national approach; documented weaknesses include the absence of sub-district-level data to build separate urban and rural heat indices, thin intra-city ward-level vulnerability analysis, and the lack of a settled financing arrangement for Heat Action Plans. | The single best contemporary illustration of the **hazard-classification-drives-financing** problem: how a hazard is legally and administratively categorised determines which fund pays for it. Use alongside Topic 17's SLCF/urban-heat science for a science-to-governance chain. |
-| ✅ **Ecosystem-based disaster risk reduction is now explicit in Indian fiscal policy** — MISHTI (mangroves as surge buffers), NPCA-expanded wetlands as flood-moderation buffers, and the National Coastal Mission (Economic Survey 2025-26, Ch. 10). | Lets a disaster-management answer draw directly on Topics 01, 07 and 24: the cheapest disaster infrastructure is often an intact ecosystem, and the Government now says so in its own budget documents. |
+### F. Sendai accountability and monitoring
 
-#### 10. PYQ-based analytical application
+The seven targets create a global monitoring vocabulary, but:
 
-- ⚠️ Prelims questions on the Sendai Framework's priorities or India's three-tier structure
-  should be answered by applying the precise priority-order and chairing-structure facts.
-- ⚠️ Mains answers on "strengthening disaster management in India" should explicitly engage
-  the DDMA-capacity-gap critique and the ecosystem-based-risk-reduction integration point to
-  demonstrate analytical depth beyond describing the institutional structure.
+- Sendai is non-binding;
+- A–D outcomes are influenced by hazard occurrence and development conditions;
+- E–G mainly track strategies, cooperation, warning and information;
+- standardised national data are needed for mortality, affected people, economic loss, infrastructure damage and service disruption;
+- a target deadline, policy announcement or platform registration is not evidence of achievement.
 
-#### 11. Mains-ready framework
+⚠️ The 2023 Political Declaration renewed commitment rather than supplying an enforcement mechanism. This is the defensible form of the “accountability gap” argument.
 
-**Central thesis:** India's disaster-governance architecture reflects the Sendai
-Framework's paradigm shift toward risk reduction and prevention, but its real effectiveness
-is constrained by a persistent capacity gap at the district level — the tier closest to
-actual disaster events — and by uneven institutional maturity across hazard types; genuine
-resilience requires resourcing DDMAs commensurately, integrating ecosystem-based risk-
-reduction measures alongside engineered infrastructure, and extending the same institutional
-maturity seen in cyclone preparedness to newer hazard categories like heatwaves and urban
-flooding.
+The four priorities should therefore be used diagnostically. In a specific case, identify whether the binding constraint is weak risk knowledge, fragmented governance, inadequate preventive investment, or a preparedness/recovery failure instead of reciting all four without analysis.
 
-1. Explain the Sendai Framework's paradigm shift from disaster management to disaster risk
-   reduction, and its four priorities.
-2. Present India's three-tier structure (NDMA-SDMA-DDMA) and the documented DDMA-capacity
-   gap as the central implementation critique.
-3. Integrate ecosystem-based risk-reduction measures (mangroves, wetlands, forests) as a
-   cross-topic analytical point connecting disaster policy to ecosystem-services concepts.
-4. Compare mature (cyclone) versus newer (heatwave, urban flooding) hazard-preparedness
-   institutional development.
-5. Conclude with a DDMA-resourcing and ecosystem-integration recommendation as the genuine
-   determinants of improved disaster resilience.
+### G. MCR2030 as local implementation logic
 
-#### 12. Probable questions
+MCR2030 translates resilience into an urban progression from **knowledge** to **planning** to **implementation**. Its analytical value is the insistence that city resilience needs:
 
-- ⚠️ **Prelims:** Identify the Sendai Framework's four priorities for action in correct order
-  and India's three-tier disaster-management chairing structure.
-- ⚠️ **Mains (10 marks):** Why has the District Disaster Management Authority been
-  identified as the weakest link in India's disaster-governance structure?
-- ⚠️ **Mains (15 marks):** Discuss the role of ecosystem-based approaches (mangroves,
-  wetlands, forests) in disaster-risk reduction, integrating this with India's formal
-  disaster-management framework.
+- vertical links between national and local government;
+- horizontal coordination across municipal sectors and stakeholders;
+- risk-informed development plans;
+- access to finance and resilient infrastructure;
+- nature-based solutions and inclusion;
+- monitoring, learning and peer exchange.
 
-#### 13. Study links
+⚠️ Membership or self-assessment is an enabling input. The outcome test remains reduced risk, service continuity, equitable recovery and avoided creation of new risk.
 
-- ✅ Foundation companion: `basic/26_Disaster-Management-Framework-and-Sendai.md`.
-- ✅ `24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md` — mangrove-based storm-surge
-  buffering as ecosystem-based disaster-risk reduction.
-- ✅ `07_Biosphere-Reserves-and-Ramsar-Sites.md` — wetlands' flood-buffering ecosystem
-  service.
-- ✅ `01_Ecosystem-Structure-and-Function.md` — the ecosystem-services framework
-  underlying this topic's ecosystem-based risk-reduction integration.
+### H. Cross-framework boundary
+
+Sendai, the Sustainable Development Goals, climate adaptation under the UN climate regime and the New Urban Agenda converge around risk-informed development, but they remain distinct frameworks. Do not call Sendai a climate treaty or treat all climate loss as a disaster-management indicator.
+
+### I. Advanced conclusion
+
+> Disaster resilience is a continuously governed capability: it depends on preventing new risk, correcting accumulated risk and managing residual risk through institutions, investment, inclusion, preparedness and safer recovery. Sendai supplies a common global logic, but verified outcomes depend on implementation, finance and credible data.
+
+### B. Institutional and accountability depth
+
+### A. The weakest-tier proposition
+
+⚠️ India’s architecture is a cascade, but its result is controlled by the weakest operational tier. A sophisticated national guideline can coexist with inadequate district staff, stale inventories, unrehearsed plans and weak local coordination. Institutional quality should therefore be tested downward from NDMA to the affected settlement.
+
+```text
+national design quality
+        × State adaptation
+        × district capability
+        × local execution
+        × community access
+        = realised protection
+```
+
+If any link is near zero, the practical result falls sharply.
+
+### B. Generic flexibility versus accountable specificity
+
+✅ The canonical source records criticism of NDMP 2016 for generic activities, absence of precise time frames, missing fund projections and lack of its own targets. The revised NDMP 2019 is the current plan, so these criticisms should be attributed to the first edition rather than casually presented as a current audit finding.
+
+⚠️ The deeper dilemma remains: a national plan must permit State and district variation, but excessive generality weakens responsibility. The remedy is not rigid central micromanagement; it is a common outcome framework with locally costed actions, named owners, deadlines and audit trails.
+
+### C. Federalism: central standards, State responsibility, local execution
+
+The 2020 GS-II PYQ exposes the tension:
+
+- a national disaster may create interstate externalities and require uniform coordination;
+- central authorities and directions can concentrate power;
+- State Governments retain primary responsibility for rescue, relief and rehabilitation;
+- SDMAs, SECs, DDMAs and local bodies are statutory, not optional administrative appendages;
+- legitimacy therefore depends on consultation, subsidiarity and transparent assignment.
+
+⚠️ The architecture is best described as **centrally framed but federally delivered**, not simply centralised or decentralised.
+
+### D. Statutory recognition versus statutory compulsion
+
+The 2025 amendment made different legal moves:
+
+| Provision | Legal move | Analytical consequence |
+|---|---|---|
+| sections 8A and 8B | recognises pre-existing NCMC and HLC in statute | clearer legal accountability at national escalation level |
+| section 41A | permits State constitution of UDMA | urban institution remains notification-dependent |
+| section 44A | permits State constitution of specialist force | professional State response remains uneven unless notified and resourced |
+| database duties | assigns creation/maintenance responsibility | data quality, access and interoperability still require implementation |
+| plan amendments | shifts preparation/approval to Authorities | clearer ownership, but monitoring must remain effective |
+
+### E. Data as an accountability infrastructure
+
+⚠️ A national database can support:
+
+- comparable loss and damage assessment;
+- fund-allocation and expenditure tracking;
+- risk registers;
+- plan monitoring;
+- Sendai reporting;
+- learning across disasters.
+
+But it can also fail through incompatible definitions, delayed State inputs, missing local data, aggregation that hides vulnerable groups and restricted public access. The statutory verb “create” does not itself guarantee publication, periodic reporting or independent audit.
+
+### F. Equity and democratic accountability
+
+⚠️ The DDMA’s elected local-authority Co-Chairperson and State-plan consultation provisions create channels for representation. However, representation must be tested in:
+
+- accessible warnings;
+- ward and village planning;
+- disability and gender inclusion;
+- informal-settlement and migrant coverage;
+- grievance and compensation access;
+- transparent recovery priorities.
+
+Formal membership is an input; influence over decisions and equitable protection are outcomes.
+
+### G. Capacity and finance mismatch
+
+⚠️ Districts carry immediate planning and coordination duties, but finance is predominantly organised through Union and State funds. Section 48 contemplates district funds, while the Sixteenth Finance Commission reported their constitution as the exception. This is an implementation gap, not an absence of statutory text.
+
+The current Finance Commission design improves risk sensitivity through a Disaster Risk Index and preserves a mitigation window. Yet allocation must still become timely release, technically sound projects, expenditure and measurable risk reduction.
+
+### H. Reform agenda
+
+1. Cost each national, State, district and urban plan.
+2. Name the accountable department, deadline and output.
+3. Staff DDMAs and UDMAs with permanent technical capacity.
+4. Link State and national databases through common definitions and auditable metadata.
+5. Publish plan, fund, drill and post-event performance dashboards.
+6. Build interoperable NDRF–State-force training and command protocols.
+7. Make local plans participatory and accessible.
+8. Audit service continuity, warning action, recovery time and distributional outcomes.
+
+> **Advanced conclusion:** The next reform frontier is not another apex body; it is the conversion of legal authority into funded, data-visible and locally accountable protection.
+
+
+### C. Environment-specific synthesis
+
+⚠️ **Risk creation is an environmental-governance choice.** Wetland conversion, floodplain occupation, unsafe slope cutting, heat-trapping urban form and removal of coastal buffers can increase risk before any emergency authority acts. Environmental clearance, land-use regulation, building control and ecosystem restoration are therefore prospective disaster-risk management.
+
+⚠️ **Adaptation and DRR overlap but are not identical.** Climate adaptation addresses climate-related present and future harm; DRR covers climate, geophysical, biological and technological hazards. A heat plan or floodplain restoration can serve both, while earthquake retrofitting is DRR without being climate adaptation.
+
+⚠️ **Multi-hazard governance must test interactions.** A cyclone can produce surge, rain, flooding, power failure, contamination and health emergencies. A city plan should identify common exposed networks and cascading consequences rather than keep hazard files in administrative silos.
+
+⚠️ **Outcome discipline:** reduced deaths in one event cannot be attributed solely to one warning system without considering event intensity, exposure, evacuation, shelters, timing and reporting. Use source-specific event data or state the causal claim cautiously.
+
+
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Disaster Management Framework and Sendai: HAZARD, EXPOSURE, VULNERABILITY, CAPACITY AND CYCLE MAP
+### Risk grammar
 
-1. **Hazard boundary:** A hazard is a potentially damaging process, phenomenon or human activity; it is not the same as a disaster or the complete measure of risk.
-2. **Exposure boundary:** Exposure identifies people, infrastructure, livelihoods, ecosystems and assets located where hazards may occur; it does not describe their susceptibility.
-3. **Vulnerability boundary:** Vulnerability is the set of physical, social, economic and environmental conditions that increase susceptibility to harm; it is distinct from exposure.
-4. **Capacity boundary:** Capacity comprises strengths, resources, institutions and abilities available to manage and reduce risk; low capacity can magnify vulnerability and losses.
-5. **Risk relation:** Disaster risk emerges from the interaction of hazard, exposure, vulnerability and capacity across a stated place and time; it cannot be inferred from hazard intensity alone.
-6. **Disaster boundary:** A disaster is serious disruption and loss that exceeds or severely tests the affected community's ability to cope; a hazard event need not become a disaster.
-7. **Prevention-mitigation distinction:** Prevention seeks to avoid existing and new disaster risk where possible, while mitigation reduces adverse impacts where risk cannot be fully prevented.
-8. **Preparedness boundary:** Preparedness develops knowledge, plans, warnings, training, stocks and coordination for effective action before an event; it is not post-event response.
-9. **Response boundary:** Response covers immediate and short-term actions to save lives, protect health and meet basic needs during or just after a disaster.
-10. **Recovery boundary:** Recovery restores and improves livelihoods, systems and assets after emergency response, while rehabilitation and reconstruction are related but distinct components.
-11. **Build-Back-Better boundary:** Build Back Better uses recovery, rehabilitation and reconstruction to reduce future risk rather than merely recreate pre-disaster vulnerability.
-12. **Cycle-continuum boundary:** Prevention, mitigation, preparedness, response and recovery are linked phases with feedback; disaster management is not a linear one-time sequence.
-13. **Domestic-law boundary:** India's Disaster Management Act creates domestic legal and institutional duties; it must not be treated as the legal implementation text of the Sendai Framework.
-14. **NDMA-NEC boundary:** NDMA is the national authority for policy and guidelines, while the National Executive Committee supports coordination, implementation and national planning under the domestic framework.
-15. **NIDM-NDRF boundary:** NIDM focuses on training, research and capacity development, while NDRF is a specialised response force; neither should be substituted for the other.
-16. **State-district boundary:** SDMA and DDMA operate at state and district levels within domestic law; their plans and implementation roles must be attributed to the applicable statutory text.
-17. **Sendai identity:** The Sendai Framework 2015-2030 is a global, voluntary and non-binding disaster-risk-reduction framework, not a domestic statute or operational response agency.
-18. **Priorities-targets boundary:** Sendai has four priorities for action and seven global targets; the priorities describe fields of action, while the targets describe global reduction or increase directions.
-19. **Global-domestic boundary:** Sendai's global targets guide international monitoring, while Indian institutions, plans, funds and legal powers arise from domestic law and policy; alignment does not erase this distinction.
-20. **Current evidence boundary:** Disaster losses, mortality, affected people, target progress, indicators, warning coverage, institutional powers and plan status require dated official NDMA, India Code, UNDRR or sector-agency evidence.
+- Hazard = potentially damaging process, phenomenon or human activity; disaster = serious realised disruption beyond or severely testing coping ability.
+- Exposure = presence in harm's way; vulnerability = susceptibility; capacity = usable strengths/resources; resilience = system ability across stress and recovery.
+- Working relation: `Risk = f(hazard, exposure, vulnerability, capacity)`; the fraction-style equation is a heuristic, not a universal calculator.
+- Coping-capacity threshold matters: severe hazard without exposure may not be disaster; moderate recurring hazards can cumulatively overwhelm capacity.
 
-### Disaster Management Framework and Sendai: PHASE, INSTITUTION, PRIORITY, TARGET AND JURISDICTION TRAPS
+### Whole-cycle distinctions
 
-- Do not merge hazard with disaster.
-- Do not merge exposure with vulnerability.
-- Do not omit capacity from a risk analysis.
-- Do not infer risk from hazard intensity alone.
-- Do not call every hazard event a disaster.
-- Do not merge prevention with mitigation.
-- Do not call preparedness a response activity.
-- Do not call emergency response long-term recovery.
-- Do not reduce recovery to rebuilding identical assets.
-- Do not make the disaster cycle a one-way sequence.
-- Do not derive domestic legal powers from Sendai.
-- Do not merge NDMA with NEC.
-- Do not merge NIDM training with NDRF operations.
-- Do not move national roles automatically to a DDMA.
-- Do not call Sendai a binding treaty.
-- Do not replace four priorities with seven targets.
-- Do not replace seven global targets with four priorities.
-- Do not equate global monitoring with domestic enforcement.
-- Do not invent losses, indicators or institutional powers.
-- Do not state a current plan or amendment status without dated official text.
+- Prevention avoids new/existing risk where feasible; mitigation lessens impacts.
+- Preparedness builds capability; anticipatory action activates pre-agreed protection before impact.
+- Response saves life and meets basic needs; relief is immediate assistance.
+- Rehabilitation restores basic functioning; reconstruction rebuilds assets; recovery restores or improves systems and livelihoods.
+- BBB means recovery that changes unsafe siting, design, institutions and vulnerability; the cycle feeds back rather than ending linearly.
 
-### Disaster Management Framework and Sendai: DISASTER-RISK-REDUCTION ANSWER SPINE
+### Current Indian architecture
+
+- NDMA/Prime Minister: apex policy, guidelines, National Plan coordination/approval, NDRF superintendence, national database.
+- NEC/Union Home Secretary: national coordination, monitoring, preparedness and response directions.
+- SDMA/Chief Minister: State policy/plan and State database; SEC/Chief Secretary: executive coordination; DGP added ex officio in 2025.
+- DDMA/Collector-DM-DC: district plan, coordination and implementation; elected local representative is Co-Chairperson.
+- NIDM = training/research/capacity; NDRF = specialist response force; force ≠ fund.
+- NCMC section 8A = Cabinet Secretary, major national ramifications; HLC section 8B = specified response/mitigation assistance.
+- UDMA section 41A and State force section 44A are enabling: `may constitute` + Gazette notification.
+- Act 10 of 2025: gazetted 29 March; commenced 9 April 2025. BBMP UDMA was the sole constitution reported by MHA on 11 February 2026.
+- Database mandate, notified body, staff, plan, delivery and outcome are separate evidentiary rungs.
+- Revised NDMP 2019 is the latest checked national plan; 2016 was the first edition.
+
+### Sendai rapid recall
+
+- Adopted 18 March 2015; period 2015–2030; voluntary, non-binding; successor to Hyogo 2005–2015.
+- Priorities: understand risk → govern risk → invest in DRR/resilience → prepare/respond/BBB.
+- Targets: A mortality; B affected people; C direct economic loss/global GDP; D critical infrastructure/basic services; E national/local strategies; F cooperation to developing countries; G warning/risk information.
+- A–D chiefly loss outcomes; E–G means/capacity. Target E had a 2020 deadline; others use 2030.
+- Midterm Review Political Declaration: UNGA resolution 77/289, adopted 18 May 2023; recommitment, not enforcement.
+- EW4All: end-2027 universal-protection aim; four end-to-end pillars; operationalises Target G but does not prove coverage.
+
+### Environment and local implementation
+
+- EbDRR: mangroves, wetlands, floodplains, forests, dunes/reefs as risk-reduction infrastructure; use green–grey–social complementarity.
+- Urban floods: rainfall trigger + impermeability + wetland/drainage/land-use failures + fragmented governance.
+- Critical infrastructure: robustness + redundancy + continuity + recovery time; one strong asset does not secure the network.
+- Inclusion means accessible warning, transport, shelter, health continuity, livelihood protection and participation.
+- DDMA/ULB capacity is the decisive last-mile test; plans and funds are inputs, not outcomes.
+
+### Examiner traps
+
+- Hazard ≠ disaster; exposure ≠ vulnerability; capacity ≠ resilience.
+- Prevention ≠ mitigation; preparedness ≠ response; rehabilitation ≠ reconstruction; reconstruction ≠ BBB.
+- Four Sendai priorities ≠ seven targets; target ≠ indicator ≠ achieved progress.
+- Sendai ≠ treaty; EW4All 2027 ≠ Sendai Target G deadline.
+- NDMA ≠ NEC; SDMA ≠ SEC; NCMC ≠ HLC; force ≠ fund.
+- Enacted/commenced provision ≠ notified institution ≠ operational outcome.
+- Climate-induced framing must not erase land use, infrastructure, ecosystem and inequality drivers.
+
+### PYQ and answer spine
 
 ```text
-DEFINE HAZARD EXPOSURE VULNERABILITY CAPACITY RISK AND DISASTER
--> SEPARATE PREVENTION MITIGATION PREPAREDNESS RESPONSE AND RECOVERY
--> USE BUILD BACK BETTER TO REDUCE FUTURE RISK
--> MAP NDMA NEC NIDM NDRF SDMA AND DDMA ONLY BY OWNED ROLE
--> SEPARATE SENDAI FOUR PRIORITIES FROM SEVEN GLOBAL TARGETS
--> SEPARATE GLOBAL FRAMEWORK FROM DOMESTIC LAW INSTITUTIONS AND FUNDS
--> CONCLUDE WITH DATED LAW PLAN LOSS INDICATOR AND WARNING EVIDENCE
+define and distinguish
+→ diagnose hazard/exposure/vulnerability/capacity
+→ map prevention–mitigation–preparedness–response–recovery
+→ attach Indian law and local institution
+→ use Sendai priority/target only where demanded
+→ add ecosystem/inclusion/critical-infrastructure dimension
+→ separate input from verified outcome
+→ conclude with funded, local and measurable resilience
 ```
 
-### Disaster Management Framework and Sendai: LIVE LAW, PLAN, LOSS, INDICATOR, WARNING AND TARGET EVIDENCE BOUNDARY
+**Qualified conclusion:** Disaster resilience is produced continuously through risk-informed development, capable institutions, inclusive warning and safer recovery. Law and Sendai provide architecture; only local delivery and verified outcomes establish protection.
 
-UNDRR supplied substantive Sendai framework text. Indian official routes did not yield substantive current legal or plan text in this check, so no disaster loss, target progress, indicator, warning coverage, amended power or plan-status claim is asserted.
+### Source and freshness record
 
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
-
-#### ASCII MASTER FLOW — PANEL 1/12: Disaster-risk equation
-
-```ascii-master
-HAZARD -> potentially damaging process or event
-EXPOSURE -> people assets systems in harm's way
-VULNERABILITY -> susceptibility to damage
-CAPACITY -> resources and ability to manage risk
-RISK -> interaction across a stated place and time
-MUST REMEMBER: Environment Topic 26 owns the climate-ecosystem-Sendai overlap: hazard,...
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: Hazard-to-disaster threshold
-
-```ascii-master
-HAZARD OCCURS -> physical or human-induced event
-EXPOSED SYSTEM -> contact with people assets or ecosystems
-VULNERABILITY AND LOW CAPACITY -> losses amplify
-COPING ABILITY SEVERELY TESTED -> serious disruption
-DISASTER -> not every hazard crosses this threshold
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: Risk-reduction ladder
-
-```ascii-master
-PREVENTION -> avoid creation or existence of risk where possible
-MITIGATION -> reduce adverse impact of remaining risk
-PREPAREDNESS -> ready plans warnings skills and resources
-RESPONSE -> immediate life-saving and basic needs
-RECOVERY -> restore and improve while reducing future risk
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: Build Back Better loop
-
-```ascii-master
-DAMAGE AND NEEDS ASSESSMENT -> establish recovery baseline
-REHABILITATION -> restore essential functions
-RECONSTRUCTION -> rebuild assets and systems
-RISK-INFORMED IMPROVEMENT -> avoid old vulnerability
-FEEDBACK -> prevention mitigation and preparedness improve
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Domestic architecture firewall
-
-```ascii-master
-DISASTER MANAGEMENT ACT -> domestic legal base
-NDMA -> national policy and guidelines
-NEC -> executive coordination and implementation support
-SDMA AND DDMA -> state and district statutory levels
-RULE -> roles come from domestic law, not Sendai text
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Training-response split
-
-```ascii-master
-NIDM -> training research documentation capacity development
-NDRF -> specialised disaster response operations
-NDMA -> policy and guidance
-DDMA -> district planning and implementation context
-RULE -> institution type determines the answer
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Sendai identity card
-
-```ascii-master
-PERIOD -> 2015 to 2030
-NATURE -> global voluntary non-binding framework
-PURPOSE -> prevent new and reduce existing disaster risk
-SCOPE -> people livelihoods health assets and systems
-NOT -> Indian statute fund or response force
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Four priorities rail
-
-```ascii-master
-PRIORITY 1 -> understand disaster risk
-PRIORITY 2 -> strengthen risk governance
-PRIORITY 3 -> invest in resilience
-PRIORITY 4 -> preparedness response and Build Back Better
-RULE -> fields of action, not the seven global targets
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Seven-target logic
-
-```ascii-master
-TARGETS A TO D -> substantially reduce specified losses
-MORTALITY AND AFFECTED PEOPLE -> human impact directions
-ECONOMIC AND CRITICAL-SERVICE LOSS -> system impact directions
-TARGETS E TO G -> substantially increase strategies cooperation warnings
-RULE -> indicator values require official monitoring metadata
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Global-domestic bridge
-
-```ascii-master
-SENDAI -> global principles priorities and targets
-INDIAN LAW -> authorities powers duties and funds
-NATIONAL AND STATE PLANS -> domestic implementation choices
-SECTOR AGENCIES -> warnings infrastructure health and relief
-ALIGNMENT -> policy bridge, not legal identity
-CLOSE DISTINCTION: Hazard is not disaster, resilience is not mere recovery, NDMA is not...
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Evidence status screen
-
-```ascii-master
-LOSS FIGURE -> event date definition and reporting source
-TARGET PROGRESS -> indicator baseline and period
-EARLY WARNING -> hazard geography reach and access
-INSTITUTIONAL POWER -> current statutory provision
-PLAN STATUS -> dated official edition or amendment
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve dedicated Disaster Management...
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Disaster answer spine
-
-```ascii-master
-DEFINE -> hazard exposure vulnerability capacity risk and disaster
-SEQUENCE -> prevention mitigation preparedness response recovery
-MAP -> NDMA NEC NIDM NDRF SDMA and DDMA by owned role
-SEPARATE -> four Sendai priorities from seven global targets
-VERIFY -> domestic law plan loss indicator and warning evidence
-```
+- Canonical read-only owners: Environment and Ecology Basic 26, Advanced 26 and Master Framework.
+- Routed ledgers: Mains 2018–2023 and 2024–2025; Prelims 2018–2023, 2024–2025 and 2026. The 2026 Mains items use the locally held official GS-III paper and catalogue ownership because no separate 2026 Mains routing-ledger file is present.
+- Read-only prior art: accepted Disaster Management Topics 01, 02, 06, 08 and 09.
+- Official anchors: India Code consolidated Act; Gazette Act 10 of 2025 and S.O. 1648(E); MHA replies dated 22 July 2025 and 11 February 2026; NDMP 2019; UNDRR Sendai and Midterm Review; WMO/UNDRR EW4All.
+- Current-status claims checked for this repair on 30 September 2026. No unsourced national Sendai-progress percentage, EW4All coverage rate or UDMA rollout count is claimed.

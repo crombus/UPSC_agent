@@ -1,2870 +1,1367 @@
-# IPCC Assessment Reports — Learner-v2 Complete Learning Session
+# IPCC Assessment Reports — Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.
+> **Topic repair date:** 29 September 2026 (IST)
+> **Current-status cut-off:** 29 September 2026. AR6, completed on 20 March 2023, remains the latest completed assessment. AR7 is an assessment cycle in progress; its drafts, outlines and meetings are not published findings.
+> **Syllabus route:** Prelims — climate change; GS-III — environment; GS-II linkage — international institutions and science-policy interfaces.
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+### Evidence and provenance control
 
-- **Generation date:** 2026-09-06.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision, ecological rate, species count, pollution standard, rule threshold, mission outcome or current status was inferred.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited ledgers route the verified 2023 GS-III demand on an IPCC sea-level-rise prediction and Indian Ocean impacts. Recurring objective distinctions concern founding institutions, Working Group mandates, inventory methodology and the assess-not-research boundary. No unverified question, key, projection or model answer is inferred.
-- **Live-link boundary:** The official IPCC About page and AR7 page returned substantive process information. The AR6 landing page and glossary response were thin, and a Working Group URL redirected to an unrelated event. AR7 is recorded only as a cycle in progress; no planned report, outline, date, confidence term, likelihood threshold, scenario or projection was treated as a finding.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+**Read-only repository owners used**
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\18_IPCC-Assessment-Reports.md`
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\18_IPCC-Assessment-Reports.md`
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\00_Master-Framework.md`
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
+- `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`
+- `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`
+- Local official papers under `..\upsc-agent\books\more_previous_papers\` and `..\upsc-agent\books\mains\`; locally held official keys were used where relevant and available.
 
-The checks below were made on 2026-09-06. Substantive official text is used only for the proposition it supports. Stubs, access failures, unrelated pages and thin landing pages are recorded and are not converted into ecological or current-status claims.
+**Authoritative IPCC sources used**
 
-- https://www.ipcc.ch/about/ — attempted 2026-09-06; substantive IPCC text confirms creation by WMO and UNEP in 1988, assessment of published science, open expert-and-government review and that the IPCC does not conduct its own research.
-- https://www.ipcc.ch/assessment-report/ar7/ — attempted 2026-09-06; substantive IPCC text states that AR7 is under way, that three Working Group contributions will be produced and that the Synthesis Report is planned after them. Planned products were not treated as published findings.
-- https://www.ipcc.ch/report/ar6/syr/ — attempted 2026-09-06; the official landing page returned only the title 'Climate Change 2023'. No headline figure or calibrated finding was reconstructed from the stub.
-- https://apps.ipcc.ch/glossary/ — attempted 2026-09-06; the official glossary application returned only its copyright/version footer. No confidence or likelihood threshold was transcribed from that thin response.
-- https://www.ipcc.ch/working-group/ — attempted 2026-09-06; the URL redirected to an unrelated Working Group II outreach-event page. It was not used to define Working Group mandates.
+- Institutional mandate and structure: `https://www.ipcc.ch/about/`, `/about/structure/`, `/bureau/`, `/secretariat/`, and Working Group/TFI pages.
+- Report process and endorsement terms: `https://www.ipcc.ch/about/preparingreports/`, the Principles Governing IPCC Work, and Appendix A procedures.
+- AR chronology and products: `https://www.ipcc.ch/about/history/` and `https://www.ipcc.ch/assessment-report/ar6/`.
+- AR6 findings: official WGI, WGII, WGIII and Synthesis Report Summaries for Policymakers.
+- AR7 snapshot: official AR7 page and dated IPCC releases of 8 May, 13 August and 28 September 2026. All URLs were checked on 29 September 2026.
+
+> **Evidence rule:** Every number below retains its report, baseline, probability/confidence, and date. Global IPCC findings are not silently converted into India-specific observations or forecasts.
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Environment and Ecology Basic/Core is answer-complete before optional Advanced depth. |
-| Ecology boundary | System boundary, scale, trophic level, stock/flow, pool/flux, gross/net, unit and time interval are explicit. |
-| Species boundary | Taxon, range, habitat, population trend, IUCN assessment, Indian legal schedule, CITES/CMS listing and endemism remain distinct. |
-| Law/status boundary | Act, amendment, rule, notification, draft, judgment, policy, target, implementation and observed outcome remain distinct and dated. |
-| Institution boundary | Legal form, parent authority, mandate, jurisdiction, standard, consent, enforcement, science and adjudication are not conflated. |
-| Treaty boundary | Membership, annex/appendix, amendment acceptance, target, COP decision, national instrument and outcome remain distinct. |
-| Climate boundary | Emission flow, concentration stock, cumulative budget, forcing, scenario, baseline, unit, mitigation, adaptation, loss-and-damage, avoidance and removal are exact. |
-| Pollution boundary | Source, emission/load, ambient concentration, exposure, parameter, averaging period, unit, standard and jurisdiction are explicit. |
-| Causal method | Chronology, designation, expenditure, capacity, registration and correlation are not promoted into ecological or policy outcomes without mechanism and evidence. |
-| Practice contract | Every solved item has demand decoding, detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\18_IPCC-Assessment-Reports.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\learning-sessions\v2\subject-wide-syllabus\environment-and-ecology-18_Learning-Session.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\18_IPCC-Assessment-Reports.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Environment-and-Ecology\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- Ecological mechanisms retain direction, pool, flux, limiting factor, spatial scale and time scale.
-- Current species/news claims retain taxon, source, event/publication date, assessment/listing date and access date.
-- IUCN category never substitutes for Wildlife Protection Act schedule, CITES appendix, CMS appendix or endemism.
-- Protected-area categories, treaty designations and institution mandates retain exact legal character.
-- Acts, amendments, rules, draft instruments, notifications and judgments retain operative status and date.
-- Climate figures retain unit, baseline, period, scenario and stock-flow character; global evidence is not silently downscaled to India.
-- Mitigation, adaptation and loss-and-damage remain separate; allowance, offset, avoidance, removal, capture and storage remain separate.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile targets, standards, schedules, species status, treaty outcomes and programme claims retain source/date/status.
-
-**Generation-local live/current sources:**
-- `https://www.ipcc.ch/about/ — attempted 2026-09-06; substantive IPCC text confirms creation by WMO and UNEP in 1988, assessment of published science, open expert-and-government review and that the IPCC does not conduct its own research.`
-- `https://www.ipcc.ch/assessment-report/ar7/ — attempted 2026-09-06; substantive IPCC text states that AR7 is under way, that three Working Group contributions will be produced and that the Synthesis Report is planned after them. Planned products were not treated as published findings.`
-- `https://www.ipcc.ch/report/ar6/syr/ — attempted 2026-09-06; the official landing page returned only the title 'Climate Change 2023'. No headline figure or calibrated finding was reconstructed from the stub.`
-- `https://apps.ipcc.ch/glossary/ — attempted 2026-09-06; the official glossary application returned only its copyright/version footer. No confidence or likelihood threshold was transcribed from that thin response.`
-- `https://www.ipcc.ch/working-group/ — attempted 2026-09-06; the URL redirected to an unrelated Working Group II outreach-event page. It was not used to define Working Group mandates.`
-
-**Topic 26 dedicated Disaster Management cross-owners (scope boundary):**
-- Not applicable to this topic.
-
-### SESSION 1 — FOUNDATION — IPCC identity origin and institutional boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** IPCC identity origin and institutional boundary explains how IPCC identity and WMO-UNEP origin fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, IPCC identity origin and institutional boundary separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> IPCC identity origin and institutional boundary must be read through IPCC identity and WMO-UNEP origin, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **IPCC**
-- **identity**
-- **origin**
-- **institutional**
-- **boundary**
-- **WMO-UNEP**
-
-**How to use them:** Define IPCC, identity, origin; attach institutional to its source, scale, instrument and status; then qualify the answer with this limit: Do not call the IPCC a negotiating body, treaty secretariat or climate regulator.
-
-#### VISUAL FIRST
+### 1. The institutional map: what the IPCC is, and what it is not
 
 ```text
-IPCC IDENTITY ORIGIN AND INSTITUTIONAL BOUNDARY
-01. IPCC identity
-    |
-    v
-02. WMO-UNEP origin
-BOUNDARY -> Do not call the IPCC a negotiating body, treaty secretariat or climate regulator.
+WMO + UNEP create IPCC (1988); UN General Assembly endorses the action
+                         │
+                         v
+PANEL / PLENARY = member governments, working by consensus
+  ├─ elects Bureau and Task Force Bureau
+  ├─ decides work programme, scope and report outlines
+  └─ approves / adopts / accepts products under defined procedures
+                         │
+          ┌──────────────┼──────────────┐
+          v              v              v
+       WG I            WG II          WG III
+ physical science   impacts, risk,   mitigation options,
+ and attribution    adaptation,      pathways and enabling
+                    vulnerability    conditions
+                         │
+                         ├─ TFI: inventory methodologies
+                         ├─ Bureau/TFB: scientific-technical guidance
+                         ├─ authors + Review Editors: assessment text
+                         ├─ TSUs: scientific/technical/organisational support
+                         └─ Secretariat: coordination and administration
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+The IPCC is the **United Nations body for assessing climate-change science**. WMO and UNEP created it in 1988. It is intergovernmental because member governments constitute the Panel, decide its programme and formally endorse its products; it is scientific because expert author teams assess published scientific, technical and socio-economic literature through transparent review.
 
-#### CORE EXPLANATION
+The Principles define its role as a **comprehensive, objective, open and transparent assessment** of climate risks, impacts and response options. Reports must be **neutral with respect to policy**, while objectively assessing factors relevant to policies. The IPCC therefore supplies an evidence base; it does not choose a country's policy.
 
-The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-- The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-
-#### EXAMINER CAUTION
-
-- Do not call the IPCC a negotiating body, treaty secretariat or climate regulator.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Define the IPCC and separate assessment from UNFCCC negotiation.
-
-#### MINI RECAP
-
-- **Mechanism chain:** IPCC identity -> WMO-UNEP origin
-- **Qualified use:** Define the IPCC and separate assessment from UNFCCC negotiation.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: IPCC identity origin and institutional boundary
-EXACT TERMS: IPCC | identity | origin | institutional | boundary | WMO-UNEP
-MECHANISM / ARGUMENT: connect IPCC identity and WMO-UNEP origin through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Define the IPCC and separate assessment from UNFCCC negotiation.
-UPSC TRAP / ANSWER-USE: Do not call the IPCC a negotiating body, treaty secretariat or climate regulator.
-ANSWER-GRABBING FORMULATION: IPCC identity origin and institutional boundary converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — Assessing literature rather than conducting research
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Assessing literature rather than conducting research explains how Assess-not-research mandate fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Assessing literature rather than conducting research separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Assessing literature rather than conducting research must be read through Assess-not-research mandate, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Assessing**
-- **literature**
-- **rather**
-- **than**
-- **conducting**
-- **research**
-
-**How to use them:** Define Assessing, literature, rather; attach than to its source, scale, instrument and status; then qualify the answer with this limit: Do not say the IPCC conducts its own primary experiments or observations.
-
-#### VISUAL FIRST
-
-```text
-ASSESSING LITERATURE RATHER THAN CONDUCTING RESEARCH
-01. Assess-not-research mandate
-BOUNDARY -> Do not say the IPCC conducts its own primary experiments or observations.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-
-#### EXAMINER CAUTION
-
-- Do not say the IPCC conducts its own primary experiments or observations.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Explain literature synthesis, author assessment and knowledge-gap identification.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Assess-not-research mandate
-- **Qualified use:** Explain literature synthesis, author assessment and knowledge-gap identification.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Assessing literature rather than conducting research
-EXACT TERMS: Assessing | literature | rather | than | conducting | research
-MECHANISM / ARGUMENT: connect Assess-not-research mandate through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Explain literature synthesis, author assessment and knowledge-gap identification.
-UPSC TRAP / ANSWER-USE: Do not say the IPCC conducts its own primary experiments or observations.
-ANSWER-GRABBING FORMULATION: Assessing literature rather than conducting research converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — Working Group I physical science basis
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Working Group I physical science basis explains how Working Group I fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Working Group I physical science basis separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Working Group I physical science basis must be read through Working Group I, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Working**
-- **Group**
-- **physical**
-- **science**
-- **basis**
-- **assesses**
-
-**How to use them:** Define Working, Group, physical; attach science to its source, scale, instrument and status; then qualify the answer with this limit: Do not swap the mandates of Working Groups I, II and III.
-
-#### VISUAL FIRST
-
-```text
-WORKING GROUP I PHYSICAL SCIENCE BASIS
-01. Working Group I
-BOUNDARY -> Do not swap the mandates of Working Groups I, II and III.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-
-#### EXAMINER CAUTION
-
-- Do not swap the mandates of Working Groups I, II and III.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Use Working Group I only for physical science, attribution and projections.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Working Group I
-- **Qualified use:** Use Working Group I only for physical science, attribution and projections.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Working Group I physical science basis
-EXACT TERMS: Working | Group | physical | science | basis | assesses
-MECHANISM / ARGUMENT: connect Working Group I through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Use Working Group I only for physical science, attribution and projections.
-UPSC TRAP / ANSWER-USE: Do not swap the mandates of Working Groups I, II and III.
-ANSWER-GRABBING FORMULATION: Working Group I physical science basis converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — Working Group II impacts adaptation vulnerability
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Working Group II impacts adaptation vulnerability explains how Working Group II fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Working Group II impacts adaptation vulnerability separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Working Group II impacts adaptation vulnerability must be read through Working Group II, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Working**
-- **Group**
-- **impacts**
-- **adaptation**
-- **vulnerability**
-- **assesses**
-
-**How to use them:** Define Working, Group, impacts; attach adaptation to its source, scale, instrument and status; then qualify the answer with this limit: Do not call the Task Force on Inventories a fourth Working Group.
-
-#### VISUAL FIRST
-
-```text
-WORKING GROUP II IMPACTS ADAPTATION VULNERABILITY
-01. Working Group II
-BOUNDARY -> Do not call the Task Force on Inventories a fourth Working Group.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-
-#### EXAMINER CAUTION
-
-- Do not call the Task Force on Inventories a fourth Working Group.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Use Working Group II for impacts, vulnerability, adaptation and limits.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Working Group II
-- **Qualified use:** Use Working Group II for impacts, vulnerability, adaptation and limits.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Working Group II impacts adaptation vulnerability
-EXACT TERMS: Working | Group | impacts | adaptation | vulnerability | assesses
-MECHANISM / ARGUMENT: connect Working Group II through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Use Working Group II for impacts, vulnerability, adaptation and limits.
-UPSC TRAP / ANSWER-USE: Do not call the Task Force on Inventories a fourth Working Group.
-ANSWER-GRABBING FORMULATION: Working Group II impacts adaptation vulnerability converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — Working Group III mitigation assessment
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Working Group III mitigation assessment explains how Working Group III fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Working Group III mitigation assessment separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Working Group III mitigation assessment must be read through Working Group III, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Working**
-- **Group**
-- **mitigation**
-- **assessment**
-- **assesses**
-- **climate**
-
-**How to use them:** Define Working, Group, mitigation; attach assessment to its source, scale, instrument and status; then qualify the answer with this limit: Do not merge a Working Group report with the Synthesis Report.
-
-#### VISUAL FIRST
-
-```text
-WORKING GROUP III MITIGATION ASSESSMENT
-01. Working Group III
-BOUNDARY -> Do not merge a Working Group report with the Synthesis Report.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-
-#### EXAMINER CAUTION
-
-- Do not merge a Working Group report with the Synthesis Report.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Use Working Group III for mitigation pathways and enabling conditions.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Working Group III
-- **Qualified use:** Use Working Group III for mitigation pathways and enabling conditions.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Working Group III mitigation assessment
-EXACT TERMS: Working | Group | mitigation | assessment | assesses | climate
-MECHANISM / ARGUMENT: connect Working Group III through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Use Working Group III for mitigation pathways and enabling conditions.
-UPSC TRAP / ANSWER-USE: Do not merge a Working Group report with the Synthesis Report.
-ANSWER-GRABBING FORMULATION: Working Group III mitigation assessment converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — TFI and Synthesis Report boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** TFI and Synthesis Report boundary explains how TFI boundary and Synthesis Report fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, TFI and Synthesis Report boundary separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> TFI and Synthesis Report boundary must be read through TFI boundary and Synthesis Report, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Synthesis**
-- **Report**
-- **boundary**
-- **Task**
-- **Force**
-- **National**
-
-**How to use them:** Define Synthesis, Report, boundary; attach Task to its source, scale, instrument and status; then qualify the answer with this limit: Do not treat a Special Report or Methodology Report as a full assessment cycle.
-
-#### VISUAL FIRST
-
-```text
-TFI AND SYNTHESIS REPORT BOUNDARY
-01. TFI boundary
-    |
-    v
-02. Synthesis Report
-BOUNDARY -> Do not treat a Special Report or Methodology Report as a full assessment cycle.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-- A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-
-#### EXAMINER CAUTION
-
-- Do not treat a Special Report or Methodology Report as a full assessment cycle.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Separate TFI inventory methodology from the integrative Synthesis Report.
-
-#### MINI RECAP
-
-- **Mechanism chain:** TFI boundary -> Synthesis Report
-- **Qualified use:** Separate TFI inventory methodology from the integrative Synthesis Report.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: TFI and Synthesis Report boundary
-EXACT TERMS: Synthesis | Report | boundary | Task | Force | National
-MECHANISM / ARGUMENT: connect TFI boundary and Synthesis Report through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Separate TFI inventory methodology from the integrative Synthesis Report.
-UPSC TRAP / ANSWER-USE: Do not treat a Special Report or Methodology Report as a full assessment cycle.
-ANSWER-GRABBING FORMULATION: TFI and Synthesis Report boundary converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — Special Reports and Methodology Reports
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Special Reports and Methodology Reports explains how Special and methodology reports fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Special Reports and Methodology Reports separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Special Reports and Methodology Reports must be read through Special and methodology reports, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Special**
-- **Reports**
-- **Methodology**
-- **assess**
-- **defined**
-- **policy-relevant**
-
-**How to use them:** Define Special, Reports, Methodology; attach assess to its source, scale, instrument and status; then qualify the answer with this limit: Do not convert an outline, scoping decision or workplan into a published finding.
-
-#### VISUAL FIRST
-
-```text
-SPECIAL REPORTS AND METHODOLOGY REPORTS
-01. Special and methodology reports
-BOUNDARY -> Do not convert an outline, scoping decision or workplan into a published finding.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-
-#### EXAMINER CAUTION
-
-- Do not convert an outline, scoping decision or workplan into a published finding.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Distinguish topic-specific assessments from inventory-method guidance.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Special and methodology reports
-- **Qualified use:** Distinguish topic-specific assessments from inventory-method guidance.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Special Reports and Methodology Reports
-EXACT TERMS: Special | Reports | Methodology | assess | defined | policy-relevant
-MECHANISM / ARGUMENT: connect Special and methodology reports through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Distinguish topic-specific assessments from inventory-method guidance.
-UPSC TRAP / ANSWER-USE: Do not convert an outline, scoping decision or workplan into a published finding.
-ANSWER-GRABBING FORMULATION: Special Reports and Methodology Reports converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — Assessment-cycle sequence and status gates
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Assessment-cycle sequence and status gates explains how Assessment-cycle sequence fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Assessment-cycle sequence and status gates separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Assessment-cycle sequence and status gates must be read through Assessment-cycle sequence, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Assessment-cycle**
-- **sequence**
-- **status**
-- **gates**
-- **assessment**
-- **cycle**
-
-**How to use them:** Define Assessment-cycle, sequence, status; attach gates to its source, scale, instrument and status; then qualify the answer with this limit: Do not describe government SPM consideration as government authorship of the science.
-
-#### VISUAL FIRST
-
-```text
-ASSESSMENT-CYCLE SEQUENCE AND STATUS GATES
-01. Assessment-cycle sequence
-BOUNDARY -> Do not describe government SPM consideration as government authorship of the science.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-
-#### EXAMINER CAUTION
-
-- Do not describe government SPM consideration as government authorship of the science.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Move through scope, draft, review, revision and plenary status without skipping gates.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Assessment-cycle sequence
-- **Qualified use:** Move through scope, draft, review, revision and plenary status without skipping gates.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Assessment-cycle sequence and status gates
-EXACT TERMS: Assessment-cycle | sequence | status | gates | assessment | cycle
-MECHANISM / ARGUMENT: connect Assessment-cycle sequence through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Move through scope, draft, review, revision and plenary status without skipping gates.
-UPSC TRAP / ANSWER-USE: Do not describe government SPM consideration as government authorship of the science.
-ANSWER-GRABBING FORMULATION: Assessment-cycle sequence and status gates converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — Authors review rounds and evidence traceability
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Authors review rounds and evidence traceability explains how Author-review architecture fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Authors review rounds and evidence traceability separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Authors review rounds and evidence traceability must be read through Author-review architecture, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Authors**
-- **review**
-- **rounds**
-- **traceability**
-- **Author-review**
-- **architecture**
-
-**How to use them:** Define Authors, review, rounds; attach traceability to its source, scale, instrument and status; then qualify the answer with this limit: Do not treat policy-relevant as policy-prescriptive.
-
-#### VISUAL FIRST
-
-```text
-AUTHORS REVIEW ROUNDS AND EVIDENCE TRACEABILITY
-01. Author-review architecture
-BOUNDARY -> Do not treat policy-relevant as policy-prescriptive.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-
-#### EXAMINER CAUTION
-
-- Do not treat policy-relevant as policy-prescriptive.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Show how review improves traceability without implying reviewer authorship.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Author-review architecture
-- **Qualified use:** Show how review improves traceability without implying reviewer authorship.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Authors review rounds and evidence traceability
-EXACT TERMS: Authors | review | rounds | traceability | Author-review | architecture
-MECHANISM / ARGUMENT: connect Author-review architecture through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Show how review improves traceability without implying reviewer authorship.
-UPSC TRAP / ANSWER-USE: Do not treat policy-relevant as policy-prescriptive.
-ANSWER-GRABBING FORMULATION: Authors review rounds and evidence traceability converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — Approval and acceptance distinction
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Approval and acceptance distinction explains how Approval-acceptance distinction fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Approval and acceptance distinction separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Approval and acceptance distinction must be read through Approval-acceptance distinction, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Approval**
-- **acceptance**
-- **distinction**
-- **Approval-acceptance**
-- **Summaries**
-- **Policymakers**
-
-**How to use them:** Define Approval, acceptance, distinction; attach Approval-acceptance to its source, scale, instrument and status; then qualify the answer with this limit: Do not use confidence and likelihood as interchangeable labels.
-
-#### VISUAL FIRST
-
-```text
-APPROVAL AND ACCEPTANCE DISTINCTION
-01. Approval-acceptance distinction
-BOUNDARY -> Do not use confidence and likelihood as interchangeable labels.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-
-#### EXAMINER CAUTION
-
-- Do not use confidence and likelihood as interchangeable labels.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Separate SPM approval from the applicable status of the underlying report.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Approval-acceptance distinction
-- **Qualified use:** Separate SPM approval from the applicable status of the underlying report.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Approval and acceptance distinction
-EXACT TERMS: Approval | acceptance | distinction | Approval-acceptance | Summaries | Policymakers
-MECHANISM / ARGUMENT: connect Approval-acceptance distinction through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Separate SPM approval from the applicable status of the underlying report.
-UPSC TRAP / ANSWER-USE: Do not use confidence and likelihood as interchangeable labels.
-ANSWER-GRABBING FORMULATION: Approval and acceptance distinction converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — Policy relevance and confidence-likelihood boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Policy relevance and confidence-likelihood boundary explains how Policy-relevant boundary and Confidence-likelihood distinction fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Policy relevance and confidence-likelihood boundary separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Policy relevance and confidence-likelihood boundary must be read through Policy-relevant boundary and Confidence-likelihood distinction, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **relevance**
-- **confidence-likelihood**
-- **boundary**
-- **Policy-relevant**
-- **distinction**
-- **IPCC**
-
-**How to use them:** Define relevance, confidence-likelihood, boundary; attach Policy-relevant to its source, scale, instrument and status; then qualify the answer with this limit: Do not transfer calibrated language from one finding or scale to another.
-
-#### VISUAL FIRST
-
-```text
-POLICY RELEVANCE AND CONFIDENCE-LIKELIHOOD BOUNDARY
-01. Policy-relevant boundary
-    |
-    v
-02. Confidence-likelihood distinction
-BOUNDARY -> Do not transfer calibrated language from one finding or scale to another.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-- Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-
-#### EXAMINER CAUTION
-
-- Do not transfer calibrated language from one finding or scale to another.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Keep policy relevance and calibrated uncertainty distinct from prescription.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Policy-relevant boundary -> Confidence-likelihood distinction
-- **Qualified use:** Keep policy relevance and calibrated uncertainty distinct from prescription.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Policy relevance and confidence-likelihood boundary
-EXACT TERMS: relevance | confidence-likelihood | boundary | Policy-relevant | distinction | IPCC
-MECHANISM / ARGUMENT: connect Policy-relevant boundary and Confidence-likelihood distinction through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Keep policy relevance and calibrated uncertainty distinct from prescription.
-UPSC TRAP / ANSWER-USE: Do not transfer calibrated language from one finding or scale to another.
-ANSWER-GRABBING FORMULATION: Policy relevance and confidence-likelihood boundary converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — Confidence attachment discipline
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Confidence attachment discipline explains how Confidence discipline fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Confidence attachment discipline separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Confidence attachment discipline must be read through Confidence discipline, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Confidence**
-- **attachment**
-- **discipline**
-- **term**
-- **must**
-- **remain**
-
-**How to use them:** Define Confidence, attachment, discipline; attach term to its source, scale, instrument and status; then qualify the answer with this limit: Do not call a scenario a forecast.
-
-#### VISUAL FIRST
-
-```text
-CONFIDENCE ATTACHMENT DISCIPLINE
-01. Confidence discipline
-BOUNDARY -> Do not call a scenario a forecast.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-
-#### EXAMINER CAUTION
-
-- Do not call a scenario a forecast.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Attach confidence only to the exact assessed statement and evidence base.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Confidence discipline
-- **Qualified use:** Attach confidence only to the exact assessed statement and evidence base.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Confidence attachment discipline
-EXACT TERMS: Confidence | attachment | discipline | term | must | remain
-MECHANISM / ARGUMENT: connect Confidence discipline through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Attach confidence only to the exact assessed statement and evidence base.
-UPSC TRAP / ANSWER-USE: Do not call a scenario a forecast.
-ANSWER-GRABBING FORMULATION: Confidence attachment discipline converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — Likelihood attachment discipline
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Likelihood attachment discipline explains how Likelihood discipline fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Likelihood attachment discipline separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Likelihood attachment discipline must be read through Likelihood discipline, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Likelihood**
-- **attachment**
-- **discipline**
-- **term**
-- **meaningful**
-- **only**
-
-**How to use them:** Define Likelihood, attachment, discipline; attach term to its source, scale, instrument and status; then qualify the answer with this limit: Do not present AR7 process milestones as replacement evidence for AR6.
-
-#### VISUAL FIRST
-
-```text
-LIKELIHOOD ATTACHMENT DISCIPLINE
-01. Likelihood discipline
-BOUNDARY -> Do not present AR7 process milestones as replacement evidence for AR6.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-
-#### EXAMINER CAUTION
-
-- Do not present AR7 process milestones as replacement evidence for AR6.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Attach likelihood only to the defined outcome and verified calibration.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Likelihood discipline
-- **Qualified use:** Attach likelihood only to the defined outcome and verified calibration.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Likelihood attachment discipline
-EXACT TERMS: Likelihood | attachment | discipline | term | meaningful | only
-MECHANISM / ARGUMENT: connect Likelihood discipline through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Attach likelihood only to the defined outcome and verified calibration.
-UPSC TRAP / ANSWER-USE: Do not present AR7 process milestones as replacement evidence for AR6.
-ANSWER-GRABBING FORMULATION: Likelihood attachment discipline converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — Scenario assessment and literature cut-off
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Scenario assessment and literature cut-off explains how Scenario-not-forecast and Assessment-lag boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Scenario assessment and literature cut-off separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Scenario assessment and literature cut-off must be read through Scenario-not-forecast and Assessment-lag boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Scenario**
-- **assessment**
-- **literature**
-- **cut-off**
-- **Scenario-not-forecast**
-- **Assessment-lag**
-
-**How to use them:** Define Scenario, assessment, literature; attach cut-off to its source, scale, instrument and status; then qualify the answer with this limit: Do not invent a report publication date, status, confidence or likelihood threshold.
-
-#### VISUAL FIRST
-
-```text
-SCENARIO ASSESSMENT AND LITERATURE CUT-OFF
-01. Scenario-not-forecast
-    |
-    v
-02. Assessment-lag boundary
-BOUNDARY -> Do not invent a report publication date, status, confidence or likelihood threshold.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-- Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-
-#### EXAMINER CAUTION
-
-- Do not invent a report publication date, status, confidence or likelihood threshold.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** State scenario assumptions and literature cut-off before using a projection.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Scenario-not-forecast -> Assessment-lag boundary
-- **Qualified use:** State scenario assumptions and literature cut-off before using a projection.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Scenario assessment and literature cut-off
-EXACT TERMS: Scenario | assessment | literature | cut-off | Scenario-not-forecast | Assessment-lag
-MECHANISM / ARGUMENT: connect Scenario-not-forecast and Assessment-lag boundary through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: State scenario assumptions and literature cut-off before using a projection.
-UPSC TRAP / ANSWER-USE: Do not invent a report publication date, status, confidence or likelihood threshold.
-ANSWER-GRABBING FORMULATION: Scenario assessment and literature cut-off converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — AR6 AR7 and science-policy synthesis
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** AR6 AR7 and science-policy synthesis explains how AR6-AR7 status and Science-policy evidence boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, AR6 AR7 and science-policy synthesis separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> AR6 AR7 and science-policy synthesis must be read through AR6-AR7 status and Science-policy evidence boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **science-policy**
-- **synthesis**
-- **status**
-- **boundary**
-- **latest**
-- **completed**
-
-**How to use them:** Define science-policy, synthesis, status; attach boundary to its source, scale, instrument and status; then qualify the answer with this limit: Do not convert IPCC assessment language into a legal obligation for a Party.
-
-#### VISUAL FIRST
-
-```text
-AR6 AR7 AND SCIENCE-POLICY SYNTHESIS
-01. AR6-AR7 status
-    |
-    v
-02. Science-policy evidence boundary
-BOUNDARY -> Do not convert IPCC assessment language into a legal obligation for a Party.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-- An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-
-#### EXAMINER CAUTION
-
-- Do not convert IPCC assessment language into a legal obligation for a Party.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Use AR6 findings and label AR7 only as an in-progress assessment cycle.
-
-#### MINI RECAP
-
-- **Mechanism chain:** AR6-AR7 status -> Science-policy evidence boundary
-- **Qualified use:** Use AR6 findings and label AR7 only as an in-progress assessment cycle.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: AR6 AR7 and science-policy synthesis
-EXACT TERMS: science-policy | synthesis | status | boundary | latest | completed
-MECHANISM / ARGUMENT: connect AR6-AR7 status and Science-policy evidence boundary through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Use AR6 findings and label AR7 only as an in-progress assessment cycle.
-UPSC TRAP / ANSWER-USE: Do not convert IPCC assessment language into a legal obligation for a Party.
-ANSWER-GRABBING FORMULATION: AR6 AR7 and science-policy synthesis converts a precise environmental distinction into a qualified conclusion
-```
-
-### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims, with GS-II international-institutions linkage.
-> **Core area:** Global climate-science assessment architecture.
-> **Grounded in:** IPCC official structure and AR6 (2021-2023) reports; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
-> *Companion: `advanced/18_IPCC-Assessment-Reports.md`.*
-
-#### 1. Visual foundation
-
-```text
-IPCC STRUCTURE (established 1988, by WMO and UNEP jointly)
-   Working Group I  -> The Physical Science Basis
-   Working Group II -> Impacts, Adaptation and Vulnerability
-   Working Group III -> Mitigation of Climate Change
-        |
-        v
-   SYNTHESIS REPORT (integrates all three Working Group reports + Special Reports)
-
-ASSESSMENT CYCLE: IPCC does NOT conduct its own original research ->
-   it ASSESSES and SYNTHESISES existing published scientific literature ->
-   producing periodic Assessment Reports (AR1 through AR6, roughly every 5-7 years)
-```
-
-**Core proposition:** The IPCC is a scientific assessment body, not a research institution
-or a policy-making/negotiating body — it synthesises existing peer-reviewed climate science
-into policy-relevant (but not policy-prescriptive) reports through three Working Groups,
-providing the scientific foundation on which UNFCCC negotiations (Topic 19) are built.
-
-#### 2. Essential definitions
-
-| Concept | Exam-ready meaning |
-|---|---|
-| ✅ **IPCC** | Intergovernmental Panel on Climate Change — established in 1988 by the World Meteorological Organization (WMO) and UN Environment Programme (UNEP) to assess climate-change science for policymakers. |
-| ✅ **Working Group I** | Assesses the physical science basis of climate change (e.g., observed warming, greenhouse gas concentrations, projections). |
-| ✅ **Working Group II** | Assesses climate-change impacts, vulnerability and adaptation options. |
-| ✅ **Working Group III** | Assesses mitigation options and pathways for reducing greenhouse gas emissions. |
-| ✅ **Task Force on National Greenhouse Gas Inventories (TFI)** | The IPCC's **fourth body** alongside the three Working Groups. It develops and refines the methodologies countries use to compile national GHG inventories — the technical rulebook that makes UNFCCC reporting comparable across countries. |
-| ✅ **Special Report / Methodology Report** | Reports produced between full assessments on a specific theme (e.g., the Special Report on Global Warming of 1.5°C) or on inventory methodology (produced by the TFI). |
-| ✅ **Synthesis Report** | Integrates findings from all three Working Group reports (and relevant Special Reports) into a single overarching assessment at the end of an assessment cycle. |
-| ✅ **Summary for Policymakers (SPM)** | A concise, line-by-line government-approved summary of each report's key findings, the most frequently cited document in policy and exam contexts. |
-
-#### 3. Topic mechanism
-
-1. The IPCC does not conduct its own primary climate research; instead, it assesses and
-   synthesises the vast body of existing published, peer-reviewed scientific literature to
-   provide policymakers with a comprehensive, authoritative summary of current climate
-   knowledge — a "policy-relevant but not policy-prescriptive" mandate.
-2. Each assessment cycle (numbered AR1 through the current AR6, roughly every five to seven
-   years) produces three Working Group reports plus a Synthesis Report, alongside periodic
-   Special Reports on specific topics (e.g., the widely cited Special Report on Global
-   Warming of 1.5°C).
-3. The Summary for Policymakers for each report is negotiated and approved line-by-line by
-   government representatives in session with the report's scientist-authors, giving it
-   both scientific credibility and government-endorsed authority — a distinctive
-   institutional design feature.
-4. IPCC AR6 Synthesis Report (2023) confirmed with high confidence that human activities
-   have unequivocally caused global warming of approximately 1.1°C above pre-industrial
-   levels, and that risks escalate substantially with every additional increment of warming.
-5. IPCC findings directly underpin the scientific basis for UNFCCC negotiations (Topic 19),
-   national climate policies (Topic 20), and international climate-finance/mitigation-target
-   discussions, functioning as the common scientific reference point across the entire
-   global climate-governance architecture.
-
-#### 4. Institutions and policy tools
-
-- ✅ **IPCC Secretariat (hosted by WMO, Geneva):** coordinates the assessment process and
-  report production.
-- ✅ **World Meteorological Organization (WMO) and UN Environment Programme (UNEP):**
-  co-founding parent organisations of the IPCC.
-- ✅ **National governments (through their delegations):** participate in approving Summary
-  for Policymakers text, giving the IPCC's outputs an intergovernmental-endorsement
-  dimension alongside their scientific basis.
-- ⚠️ India's Ministry of Earth Sciences and various national scientific institutions
-  contribute author expertise and review input to IPCC assessment cycles.
-
-#### 5. Indian applications and examples
-
-- ⚠️ IPCC assessment findings on South Asian monsoon variability, Himalayan glacier retreat
-  and sea-level rise risk to India's coastline are frequently cited in Indian climate-policy
-  documents and Economic Survey climate chapters.
-- ⚠️ India's climate negotiators reference IPCC's carbon-budget and equity-relevant findings
-  (e.g., historical cumulative-emissions data) to support its positions in UNFCCC
-  negotiations on differentiated responsibility.
-- ⚠️ Indian scientists have served as authors and reviewers across IPCC Working Groups,
-  reflecting India's substantive participation in the assessment process beyond being a
-  policy recipient.
-
-#### 6. Must-Know Facts for Prelims
-
-- ✅ The IPCC was established in 1988 by the WMO and UNEP.
-- ✅ The IPCC has three Working Groups: I (Physical Science Basis), II (Impacts, Adaptation
-  and Vulnerability), III (Mitigation of Climate Change).
-- ✅ The IPCC does not conduct its own original research; it assesses and synthesises
-  existing published scientific literature.
-- ✅ The Summary for Policymakers is approved line-by-line by government representatives in
-  conjunction with the report's scientist-authors.
-- ✅ IPCC AR6 Synthesis Report (2023) confirmed observed warming of approximately 1.1°C above
-  pre-industrial levels, attributed to human influence.
-- ✅ The IPCC has a **fourth body** besides the three Working Groups — the **Task Force on
-  National Greenhouse Gas Inventories (TFI)**, which writes the methodology countries use to
-  report emissions to the UNFCCC.
-- ✅ The **AR7 cycle** (agreed at IPCC-60, Istanbul, January 2024) comprises three Working
-  Group reports plus a Synthesis Report **due by late 2029**, a **Special Report on Climate
-  Change and Cities**, a **2027 Methodology Report on Short-Lived Climate Forcers**, and a
-  **2027 Methodology Report on Carbon Dioxide Removal Technologies, CCUS**.
-- ✅ AR7 Working Group **outlines were agreed at IPCC-62 (Hangzhou, China, February 2025)**;
-  the CDR/CCUS methodology report's scientific content was agreed at **IPCC-63 (Lima, Peru,
-  October 2025)**.
-
-#### 7. UPSC traps
-
-- ❌ The IPCC conducts its own climate experiments and data collection like a research
-  laboratory. -> It assesses and synthesises existing published literature; it does not
-  conduct primary research itself.
-- ❌ The IPCC is a negotiating or policy-making body like the UNFCCC Conference of the
-  Parties. -> It is a scientific-assessment body; policy negotiation happens separately
-  under the UNFCCC process (Topic 19).
-- ❌ IPCC reports are written entirely by scientists with no government involvement. -> The
-  Summary for Policymakers specifically undergoes government-approved, line-by-line
-  negotiation alongside the scientist-authors.
-- ❌ The IPCC has only one working group covering all climate topics. -> It has three
-  distinct Working Groups (science, impacts/adaptation, mitigation) plus a Synthesis Report.
-- ❌ AR6 is the first IPCC assessment report. -> AR6 is the sixth in a series beginning with
-  AR1, each roughly five to seven years apart.
-- ❌ The IPCC has only three bodies. -> It has three Working Groups **plus the Task Force on
-  National Greenhouse Gas Inventories**.
-- ❌ AR7 has replaced AR6 as the citable scientific baseline. -> As of 2 August 2026 the AR7
-  Working Group reports are in preparation (outlines agreed 2025, Synthesis Report due by
-  late 2029); **AR6 (2023) remains the latest completed assessment**.
-
-#### 8. 📰 Current anchor
-
-- 📰 **The AR6 Synthesis Report (2023) is the latest completed full assessment; the seventh
-  assessment cycle (AR7) is under way.** Verified from ipcc.ch on **2 August 2026**, the AR7
-  timeline is:
-  - **IPCC-60, Istanbul, Türkiye (January 2024):** the Panel agreed to produce the three
-    Working Group contributions to AR7 (Physical Science Basis; Impacts, Adaptation and
-    Vulnerability; Mitigation of Climate Change).
-  - **IPCC-61, Sofia, Bulgaria (27 July - 2 August 2024):** agreed the outline of the
-    **Special Report on Climate Change and Cities** (Decision IPCC-LXI-5), following a
-    scoping meeting in Riga, Latvia in April 2024. It is being developed under the joint
-    scientific leadership of Working Groups I, II and III.
-  - **IPCC-62, Hangzhou, China (February 2025):** agreed the **outlines of the three AR7
-    Working Group contributions**.
-  - **IPCC-63, Lima, Peru (October 2025):** agreed the scientific content of the **2027
-    Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization
-    and Storage** for national greenhouse gas inventories, and agreed the **2026 workplan**
-    for the three Working Group contributions.
-  - The **AR7 Synthesis Report is to be released by late 2029**.
-  - The cycle also includes a **2027 Methodology Report on Inventories for Short-Lived
-    Climate Forcers**.
-- ⚠️ **Status discipline:** an *agreed outline* and an *approved workplan* are not published
-  findings. Until an AR7 Working Group report is released and its Summary for Policymakers
-  approved, AR6 remains the citable scientific baseline.
-
-⚠️ **Interpretation caution:** always cite the specific assessment report (e.g., "AR6
-Synthesis Report, 2023") rather than referring to "the IPCC report" generically, since
-findings and confidence levels can be refined across cycles.
-
-#### 9. PYQ application
-
-- ⚠️ Recurring Prelims pattern: identify the IPCC's founding organisations, its three
-  Working Groups' distinct focus areas, and its non-research, assessment-only mandate.
-- ⚠️ Mains linkage: IPCC findings are used as the scientific evidentiary basis when
-  constructing any climate-policy analysis answer.
-
-#### 10. Mains angles
-
-- ⚠️ Argue that the IPCC's distinctive "scientist-authored, government-approved summary"
-  design gives its findings unusual dual authority (scientific credibility plus political
-  buy-in), strengthening their role as the common reference point for global climate
-  negotiations.
-- ⚠️ Use the three-Working-Group structure to organise any comprehensive climate-policy
-  answer around science, impacts/adaptation and mitigation as distinct analytical layers.
-- ⚠️ Conclude with a science-policy-interface thesis: the IPCC provides the evidentiary
-  foundation, but translating its findings into binding action remains the separate,
-  harder political task of the UNFCCC process.
-
-> **Answer thesis:** Treat the IPCC strictly as a scientific-assessment body (not a negotiating body) whose three-Working-Group structure and government-approved Summary for Policymakers give its findings unique scientific-and-political authority as the common evidentiary foundation for all subsequent global climate policy.
-
-#### 11. Probable questions
-
-- ⚠️ **Prelims:** Identify the IPCC's founding year, founding organisations and the focus of
-  each of its three Working Groups.
-- ⚠️ **Mains (10 marks):** Explain why the IPCC's Summary for Policymakers approval process
-  gives its findings unique scientific and political authority.
-- ⚠️ **Mains (15 marks):** Discuss the relationship between IPCC scientific assessments and
-  the UNFCCC policy-negotiation process.
-
-#### 12. Study links
-
-- ✅ Advanced companion: `advanced/18_IPCC-Assessment-Reports.md`.
-- ✅ `17_Climate-Change-Science-Greenhouse-Effect.md` — the physical-science content
-  assessed by Working Group I.
-- ✅ `19_UNFCCC-COP-Kyoto-Paris-Agreement.md` — the policy-negotiation process this science
-  feeds into.
-- ✅ `20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` — India's domestic policy response
-  informed by IPCC findings.
-
-#### 13. Core answer architecture (10/15/20-mark support)
-
-##### 13.1 Demand decoder and thesis
-
-- Answer **what IPCC is**, **how it makes a finding** and **what it cannot do**. Keep scientific assessment distinct from UNFCCC negotiation and national implementation.
-- **Thesis:** IPCC’s assess-not-research and policy-relevant-not-prescriptive design provides a shared evidence base, while its calibrated uncertainty and assessment-cycle lag require precise, dated use.
-
-##### 13.2 Reusable evidence units
-
-| Claim | Named evidence/example → significance | Qualification |
+| Actor/body | Exact role | Close-option trap |
 |---|---|---|
-| Institutional design creates dual authority. | **WMO–UNEP, three Working Groups, TFI and line-by-line SPM approval** → combines scientific synthesis with government ownership. | Approval is not political authorship of the underlying report; it can, however, create cautious consensus wording. |
-| Special reports bridge policy-relevant themes. | **SR1.5, SROCC and SRCCL** → connect 1.5°C, oceans/cryosphere and land/food to live policy questions. | Cite the particular report/year, not “IPCC” generically. |
-| AR7 is a process, not a source of findings yet. | **AR6 (2023) remains the completed assessment; AR7 products/workplans and 2027 methodology reports are scheduled process milestones.** | An outline, workplan or agreed methodology scope is not an AR7 scientific conclusion. |
+| **Panel / Plenary** | Representatives of member governments; works by consensus; decides budget, work programme, report scope/outlines and institutional mandates; elects the Bureau; formally endorses reports. | The Panel is not an author team or a treaty COP. |
+| **IPCC Bureau** | Chair, Vice-Chairs, Working Group Co-Chairs/Vice-Chairs and TFI Co-Chairs; gives scientific/technical guidance and handles defined management and strategic matters for an assessment cycle. | Bureau guidance is not national climate policy. |
+| **Working Group I** | Physical science basis: observations, drivers, attribution, models, carbon cycle, scenarios and projections. | It does not assess adaptation policy implementation as its primary mandate. |
+| **Working Group II** | Impacts, vulnerability, risk, adaptation options/capacities/limits and climate-resilient development. | It is not the mitigation-options Working Group. |
+| **Working Group III** | Mitigation pathways and options across sectors, costs, feasibility, governance, finance and enabling conditions. | It assesses options; it does not negotiate NDCs or advocate one national choice. |
+| **TFI / Task Force Bureau** | Develops and refines methods for estimating and reporting national greenhouse-gas emissions and removals; supports software and the Emission Factor Database. | TFI is not “Working Group IV”; countries compile their own inventories. |
+| **Authors and Review Editors** | CLAs/LAs assess literature and draft; CAs contribute; Review Editors ensure substantive comments receive appropriate consideration. | Reviewers do not become report authors merely by commenting. |
+| **Secretariat** | Coordinates Panel, Bureau and Executive Committee meetings; provides administrative, legal, financial, archival and liaison support from Geneva. | It does not write scientific findings. |
+| **Technical Support Units** | Support each Working Group/TFI and, where created, the Synthesis Report team. | A TSU supports production; it does not approve the report. |
+| **National Focal Points** | Link member governments to the IPCC, coordinate nominations and integrated government review comments. | A focal point does not replace the Bureau's author-selection role. |
 
-##### 13.3 Mark-scaled spines
+#### What the IPCC does not do
 
-- **10 marks:** mandate, three Working Groups and assess-versus-negotiate distinction.
-- **15/20 marks:** add SPM consensus trade-off, calibrated confidence/likelihood language, Special Reports and the science-to-policy gap; conclude that IPCC evidence informs but cannot compel a treaty outcome.
+- It does **not conduct its own primary research**, run a global observing system or issue day-to-day weather forecasts.
+- It does **not negotiate treaties**, determine NDCs, impose emissions targets, allocate a remaining carbon budget among countries or enforce compliance.
+- It does **not prepare a country's inventory**; TFI provides common methodologies and tools.
+- It does **not certify that a particular project, market, technology or national policy is “IPCC-approved”.**
+- It does **not turn a global or regional assessment into a local Indian forecast without location-specific evidence**.
 
-##### 13.4 Sea-level and Indian Ocean demand route
+> **Answer line:** The IPCC is an intergovernmental assessment body at the science-policy interface: scientist-authored and transparently reviewed, with government endorsement under rules that preserve consistency with the underlying assessment.
 
-**Mechanism:** warming ocean water expands; glacier/ice-sheet mass loss adds water; regional sea level and impacts vary with ocean dynamics, land motion and local exposure.
-**Answer spine:** use **SROCC (2019)** and AR6 as the assessment anchors → explain impacts on low-lying coasts/islands, freshwater salinisation, ecosystems, ports and livelihoods → combine emissions mitigation with risk-sensitive coastal planning, early warning and ecosystem buffers.
-**Qualification:** do not invent a single India-wide sea-level figure or present a global projection as a local forecast; cite the specific IPCC scenario/report and a location-specific Indian source when a number is required.
+### 2. Assessment cycle and report families
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+```text
+Panel selects programme
+  → scoping meeting
+  → Panel approves outline
+  → governments/observers/Bureau nominate experts
+  → relevant Bureau selects balanced author teams
+  → First Order Draft (expert review)
+  → Second Order Draft + first SPM draft (government + expert review)
+  → authors revise; Review Editors audit treatment of comments
+  → final draft + final government comments on SPM
+  → Working Group / Task Force / Panel plenary endorsement
+  → publication of report, review comments and author responses
+```
 
-#### Historical PYQ Integration (2018-2023)
+Priority is given to peer-reviewed literature, but other credible literature may be assessed when necessary; authors carry an additional responsibility to test its quality. The IPCC is therefore an **assessment of available knowledge**, not a vote on truth and not a new research project.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+| Product | Purpose | Normal place in the architecture |
+|---|---|---|
+| **Assessment Report (AR)** | Periodic comprehensive assessment, normally built from three Working Group contributions. | The numbered cycle: FAR/AR1 through AR6 completed; AR7 in progress. |
+| **Working Group contribution** | Full assessment within one mandate, usually with chapters, Technical Summary and SPM. | WGI science; WGII impacts/adaptation; WGIII mitigation. |
+| **Synthesis Report (SYR)** | Integrates the Working Group contributions and relevant Special Reports in policy-relevant, non-technical form. | Produced after Working Group reports; not a fourth Working Group report. |
+| **Special Report** | Focused assessment of a defined cross-cutting or urgent topic. | Can be produced within a cycle; follows the same rigorous author/review process. |
+| **Methodology Report** | Practical inventory guidance, prepared under TFI. | Overview Chapter plus detailed volumes/chapters; supports comparability of national inventories. |
+| **Technical Paper** | Focused synthesis based on material already in IPCC Assessment and Special Reports. | It does not create a new assessment cycle or new independent findings. |
 
-- **Years represented:** 2023
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
+### 3. Approval, adoption and acceptance are not synonyms
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2023 | GS-III | 18 | IPCC sea level rise prediction and impact on Indian Ocean | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+| IPCC term | Procedure | Main use |
+|---|---|---|
+| **Approval** | Detailed **line-by-line** discussion and agreement. | Summary for Policymakers. |
+| **Adoption** | **Section-by-section** endorsement, not line by line. | Longer Synthesis Report; Overview Chapters of Methodology Reports. |
+| **Acceptance** | The material is not agreed line by line or section by section, but is accepted as a comprehensive, objective and balanced assessment. | Underlying Working Group/Special Reports and underlying Methodology Reports. |
 
-##### What this owner must now support
+**Normal Working Group route:** the Working Group approves its SPM line by line and accepts the underlying report. The approved SPM must remain consistent with the factual material in the accepted report; Coordinating Lead Authors are consulted to protect that consistency. The Panel then formally accepts the Working Group product as an IPCC report and cannot rewrite the already approved SPM.
 
-- IPCC sea level rise prediction and impact on Indian Ocean
+**Synthesis route:** the Panel approves the SPM line by line and adopts the longer report section by section.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Methodology route:** the Panel adopts the Overview Chapter section by section and accepts the underlying Methodology Report.
 
-### ENVIRONMENT AND ECOLOGY DEEP-REVIEW CORE CONTROL
+Governments therefore have a real role—scope, nomination, review and plenary endorsement—but they do not conduct the underlying science. Consensus is institutional endorsement, not a claim that every sentence in the literature is unanimous. The procedures also require authors to record scientifically or technically valid views that cannot be reconciled with a consensus view.
 
-- **Must remember:** IPCC assesses published evidence through Working Groups and synthesis reports using calibrated uncertainty language; it does not conduct climate negotiations or prescribe national policy.
-- **Close distinction:** Assessment report is not treaty decision, scenario is not forecast, likelihood is not confidence, global warming level is not a calendar-year prediction, and global evidence cannot be downscaled to India without Indian evidence.
-- **Mechanism / status / evidence limit:** Name report, working group, release date, baseline, scenario and calibrated term; preserve observed/projected and global/regional distinctions.
+### 4. Calibrated language: confidence is not likelihood
+
+```text
+EVIDENCE (type, amount, quality, consistency)
+                    +
+AGREEMENT across the assessed literature
+                    ↓
+CONFIDENCE in the validity of a finding
+
+Quantified probability for a defined outcome
+                    ↓
+LIKELIHOOD term
+```
+
+**Confidence** is qualitative and uses five levels: **very low, low, medium, high, very high**. It is based on evidence and agreement. It is not a probability and is not the same as statistical confidence.
+
+**Likelihood** expresses assessed probability for a defined outcome:
+
+| Term | AR6 probability range |
+|---|---:|
+| Virtually certain | 99–100% |
+| Very likely | 90–100% |
+| Likely | 66–100% |
+| About as likely as not | 33–66% |
+| Unlikely | 0–33% |
+| Very unlikely | 0–10% |
+| Exceptionally unlikely | 0–1% |
+| Additional: extremely likely / more likely than not / extremely unlikely | 95–100% / >50–100% / 0–5% |
+
+A key finding may also be stated as a fact without a qualifier—for example, AR6 WGI's statement that human influence has warmed the atmosphere, ocean and land is expressed as **unequivocal**. Never detach a confidence or likelihood term from the precise proposition, report, scale, baseline and time period to which it belongs.
+
+### 5. Assessment chronology: policy links and conceptual deepening
+
+| Assessment | Completion | High-value development |
+|---|---:|---|
+| **FAR / AR1** | 1990 | Framed climate change as a global cooperation problem and played a decisive role in creation of the UNFCCC. |
+| **SAR / AR2** | 1995 | Supplied important material for negotiations leading to the 1997 Kyoto Protocol. |
+| **TAR / AR3** | 2001 | Brought impacts and the need for adaptation into sharper focus. |
+| **AR4** | 2007 | Supported post-Kyoto debate and focused attention on limiting warming to 2°C. |
+| **AR5** | 2013–2014 | Supplied scientific input to the Paris Agreement and consolidated carbon-budget and pathway reasoning. |
+| **AR6** | 2021–2023 | Joined stronger attribution, SSP-based physical futures, escalating risk/adaptation limits, sectoral mitigation pathways and an integrated climate-resilient-development synthesis. |
+
+Do not write that an assessment report **created** the UNFCCC, Kyoto Protocol or Paris Agreement. It informed governments; treaties and decisions were negotiated under the UNFCCC process.
+
+### 6. AR6 architecture and exactly attributed findings
+
+AR6 comprised three Working Group contributions, three AR6-cycle Special Reports and a Synthesis Report. WGI was released on 9 August 2021, WGII on 28 February 2022, WGIII on 4 April 2022 and the Synthesis Report on 20 March 2023.
+
+| AR6 product | Architecture | Selected official finding and attribution |
+|---|---|---|
+| **WGI — Physical Science Basis** | Observed climate, human influence, future climate, regional information and limiting human-induced change. | **WGI SPM A.1:** human influence has unequivocally warmed the atmosphere, ocean and land. Its SSP scenarios are conditional futures; WGI explicitly did not assess the feasibility or likelihood of individual scenarios. |
+| **WGII — Impacts, Adaptation and Vulnerability** | Observed impacts; future risks; adaptation options, gaps and limits; climate-resilient development. | **WGII SPM B.1:** human-induced climate change has caused widespread adverse impacts and losses and damages beyond natural variability (**high confidence**). Adaptation progress exists but is uneven, with gaps; soft limits affect some human systems and hard limits have been reached in some ecosystems. |
+| **WGIII — Mitigation of Climate Change** | Emission trends and drivers; modelled pathways; sectoral and demand-side options; enabling conditions, finance and governance. | **WGIII SPM C.3:** pathways limiting warming to 1.5°C with no/limited overshoot or to 2°C involve rapid and deep, and in most cases immediate, reductions in all sectors (**high confidence**). CDR counterbalances residual emissions in net-zero pathways but has feasibility and sustainability constraints. |
+| **Synthesis Report** | Integrates the three WGs and SR1.5, SRCCL and SROCC. Its SPM has A: Current Status and Trends; B: Future Climate Change, Risks and Long-Term Responses; C: Responses in the Near Term. | **SYR SPM A.1:** human activities principally through GHG emissions unequivocally caused warming, reaching 1.1°C above 1850–1900 in 2011–2020. **B.1:** every increment of warming intensifies multiple concurrent hazards. **C.2:** deep, rapid and sustained mitigation plus accelerated adaptation this decade reduce projected losses and damages. |
+
+#### WGI scenarios are not forecasts
+
+AR6 WGI used five illustrative emissions scenarios: **SSP1-1.9, SSP1-2.6, SSP2-4.5, SSP3-7.0 and SSP5-8.5**. “SSP” denotes a Shared Socioeconomic Pathway family; the suffix indicates an approximate 2100 radiative-forcing level. A scenario is a conditional “if–then” input. It is not assigned a forecast probability by WGI.
+
+#### Remaining carbon budgets are dated estimates
+
+WGI Table SPM.2 calculated budgets **from the beginning of 2020** until global net-zero CO2, while accounting for non-CO2 warming:
+
+| Temperature limit | Likelihood | AR6 WGI estimate from start-2020 |
+|---|---:|---:|
+| 1.5°C | 50% | 500 GtCO2 |
+| 1.5°C | 67% | 400 GtCO2 |
+| 2.0°C | 67% | 1,150 GtCO2 |
+
+These are not “today's remaining budgets”. Subsequent emissions reduce the remainder, and estimates vary with non-CO2 emissions, Earth-system response and methodological choices. The IPCC does not allocate the global budget among countries.
+
+#### Sea-level projection discipline
+
+WGI SPM B.5.3 assessed a **likely** 2100 global mean sea-level rise of **0.63–1.01 m under SSP5-8.5 relative to 1995–2014**. It also treated higher low-likelihood outcomes separately because of deep ice-sheet uncertainty. A global mean, scenario-conditioned range is not a deterministic local Indian forecast. Regional relative sea level also depends on ocean dynamics, gravity/rotation effects, sediment supply and vertical land motion.
+
+#### WGII risk and adaptation logic
+
+```text
+climate-related hazard
+        × exposure of people/assets/ecosystems
+        × vulnerability / limited capacity
+        → risk, impacts, losses and damages
+        ↘ responses can reduce risk or create maladaptation
+```
+
+WGII estimated that approximately 3.3–3.6 billion people live in highly vulnerable contexts (**high confidence**), but vulnerability is uneven and shaped by development, inequity, governance and ecosystem degradation. **Soft limits** may be overcome by addressing constraints; **hard limits** cannot be avoided through existing adaptation actions. Climate-resilient development integrates adaptation and mitigation with sustainable development.
+
+#### WGIII mitigation logic
+
+```text
+gross emission cuts across sectors
+  + demand-side change and efficiency
+  + protection/enhancement of sinks
+  + CDR for residual emissions, with safeguards
+  + finance, institutions, technology and cooperation
+  → lower-emission pathways
+```
+
+WGIII assesses options and trade-offs; it does not endorse a technology or prescribe a national mix. CDR means anthropogenic removal of CO2 from the atmosphere with durable storage. CCS on fossil/process emissions can prevent some CO2 entering the atmosphere but is not automatically CDR. Tracked finance flows fell short of assessed mitigation needs, especially in developing countries.
+
+### 7. Special Reports, Methodology Reports and national inventories
+
+| Product | Date | Exact exam use |
+|---|---:|---|
+| **SR1.5 — Global Warming of 1.5°C** | 2018 | Compared impacts and pathways around 1.5°C; requested in the Paris Agreement context. |
+| **SRCCL — Climate Change and Land** | 2019 | Connected climate, desertification, land degradation, food security and land-sector GHG fluxes. |
+| **SROCC — Ocean and Cryosphere** | 2019 | Assessed oceans, ice, sea-level rise, coasts and cryosphere-linked risks. |
+| **2006 IPCC Guidelines for National GHG Inventories** | 2006 | Core methodology for estimating national emissions and removals. |
+| **2019 Refinement** | 2019 | Updates, supplements and elaborates the 2006 Guidelines; it does **not replace** them and is used with them. |
+
+Inventory methods support transparency and comparability, but a method is not an emissions target and an inventory is not a mitigation policy. Activity data, emission factors, uncertainty, quality assurance and national circumstances remain part of national compilation.
+
+### 8. India: participation, use and the report–policy firewall
+
+India participates as a member government through nominations, expert/government review and plenary decisions. Indian experts are present in official AR6 author lists; for example, Krishna Achuta Rao, Govindasamy Bala and Krishnan Raghavan are listed among AR6 WGI Technical Summary authors.
+
+| IPCC evidence can inform | It does not itself become |
+|---|---|
+| India's understanding of South Asian hazards and risks | An India-specific observation without Indian/regional evidence |
+| UNFCCC negotiating positions and equity arguments | A treaty obligation or an NDC |
+| National/state adaptation and mitigation planning | A domestic law, budget, scheme or project clearance |
+| Inventory improvement through TFI methods | India's inventory data or a compliance verdict |
+
+**Three-source rule for an India answer:** use the exact IPCC report for the global/regional assessment → use an Indian official source for India-specific observations or policy → explain the policy choice separately. Never write “the IPCC ordered India to…” or “IPCC policy requires…”.
+
+### 9. AR7 official status — snapshot at 29 September 2026
+
+| Product | Official status at the cut-off | Official timeline/status source |
+|---|---|---|
+| **AR7 WGI, WGII and WGIII contributions** | Cycle began July 2023; the Panel agreed at IPCC-60 (January 2024) to produce the three contributions and agreed their outlines at IPCC-62 (February 2025). Authoring is under way. WGIII's second Lead Author Meeting is taking place 28 September–1 October 2026; the First Order Draft follows. | IPCC AR7 page; IPCC release dated 28 September 2026. The consulted official pages do not give final publication dates for each WG report. |
+| **AR7 Synthesis Report** | Will follow the three WG reports. | Official release target: **late 2029**. |
+| **Special Report on Climate Change and Cities** | Second Order Draft underwent government/expert review 8 May–3 July 2026. It is the first report due in AR7 and the cycle's only Special Report. | Scheduled approval/publication: **March 2027** (IPCC release, 8 May 2026). |
+| **Methodology Report on Inventories for Short-lived Climate Forcers** | Government and Expert Review of the Second Order Draft is ongoing from **31 August to 25 October 2026**. | Scheduled publication: **second half of 2027** (IPCC release, 13 August 2026). |
+| **Methodology Report on CDR Technologies and CCUS for national inventories** | Outline agreed at IPCC-63 in October 2025; second Lead Author Meeting, 11–14 August 2026, advanced the First Order Draft. | Scheduled completion: **2027**. |
+| **Adaptation guidance product** | Revision of the 1994 Technical Guidelines on impacts/adaptation plus adaptation indicators, metrics and guidelines will be developed with WGII as a separate product. | Official AR7 programme; no more precise publication date is asserted here. |
+
+> **Current-status firewall:** an agreed outline, author meeting, review draft or workplan is a process milestone—not an AR7 scientific finding. Until a product is finalized and endorsed, cite AR6 for completed assessment findings.
+
+### 10. UPSC close-option traps and answer spine
+
+| Trap | Correct distinction |
+|---|---|
+| IPCC = UNFCCC | IPCC assesses evidence; UNFCCC Parties negotiate and adopt decisions. |
+| Intergovernmental = governments write chapters | Expert authors write; governments nominate, review and endorse under procedures. |
+| SPM approved = full report approved line by line | SPM is approved; the underlying WG report is accepted. |
+| “High confidence” = at least 90% probability | Confidence reflects evidence/agreement; “very likely” carries the 90–100% range. |
+| SSP5-8.5 = prediction of what will happen | It is a conditional very-high-emissions scenario, not an assigned forecast. |
+| Start-2020 budget = current budget | It is a dated AR6 estimate that subsequent emissions deplete. |
+| IPCC assesses CDR = IPCC recommends a CDR policy | WGIII assesses options/limits; governments choose policy. |
+| TFI = national inventory authority | TFI supplies methods; countries compile and report inventories. |
+| AR7 meeting = AR7 finding | Only finalized, endorsed products contain report findings. |
+
+```text
+MAINS ANSWER SPINE
+Define the IPCC and exact product
+  → identify WGI / WGII / WGIII / TFI ownership
+  → attach report, year, baseline, scenario and confidence
+  → explain assessment → risk/response mechanism
+  → separate IPCC evidence from UNFCCC/national policy
+  → add India-specific evidence only from an Indian source
+  → end with limits: uncertainty, assessment lag, regional variation, implementation
+```
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies IPCC identity?
+> **Key design:** 40 distinct questions; answer positions A, B, C and D occur exactly ten times each in strict rotation.
 
-A. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-B. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-C. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-D. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
+### MCQ 1
 
-**Answer: A.**
-**Explanation:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Select the most accurate description of the IPCC's institutional status.
 
-### Q2. Which option preserves the ecological boundary of IPCC identity?
+A. A UN body created by WMO and UNEP to assess climate-change knowledge for governments.
+B. A subsidiary treaty body of the UNFCCC that negotiates binding emissions commitments.
+C. A global laboratory that produces primary climate observations and model experiments.
+D. A climate-finance mechanism that funds national mitigation and adaptation projects.
 
-A. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-B. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-C. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-D. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Correct:** The IPCC is the UN assessment body created by WMO and UNEP in 1988.
+- **B — Incorrect:** The UNFCCC is the negotiating treaty framework; the IPCC is institutionally distinct.
+- **C — Incorrect:** The IPCC assesses published work and does not conduct its own primary research.
+- **D — Incorrect:** It assesses finance and policy evidence but does not operate a climate fund.
 
-### Q3. Which statement uses IPCC identity without changing its scale, parameter or status?
+### MCQ 2
 
-A. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-B. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-C. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-D. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
+Consider the following organ-function pairs: 1. Panel—decides report scope and formally endorses products; 2. Bureau—provides scientific and technical guidance; 3. Secretariat—selects all report authors. How many pairs are correctly matched?
 
-**Answer: C.**
-**Explanation:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Only one
+B. Only two
+C. All three
+D. None
 
-### Q4. Which option avoids the standard UPSC close-option trap about IPCC identity?
+**Answer: B**
 
-A. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-B. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-C. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-D. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
+- **A — Incorrect:** Pair 1 is not the only correct pair; Pair 2 is also correct.
+- **B — Correct:** Pairs 1 and 2 are correct; relevant Working Group or Task Force Bureaux, not the Secretariat, select authors.
+- **C — Incorrect:** Pair 3 is incorrect because the Secretariat performs coordination and administrative functions.
+- **D — Incorrect:** Pairs 1 and 2 accurately describe the Panel and Bureau.
 
-**Answer: D.**
-**Explanation:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 3
 
-### Q5. Which statement correctly identifies WMO-UNEP origin?
+With reference to the Task Force on National Greenhouse Gas Inventories (TFI), consider the following statements: 1. It develops and refines inventory methodologies. 2. It compiles every country's national inventory on that country's behalf. 3. It is a distinct IPCC Task Force, not a fourth thematic Working Group. Which statements are correct?
 
-A. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-B. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-C. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-D. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
+A. 1 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Answer: A.**
-**Explanation:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q6. Which option preserves the ecological boundary of WMO-UNEP origin?
+- **A — Incorrect:** Statement 3 is also correct.
+- **B — Incorrect:** Statement 2 is incorrect; countries compile their own inventories.
+- **C — Correct:** TFI develops methods and is institutionally distinct from the three Working Groups.
+- **D — Incorrect:** Statement 2 wrongly converts methodological support into national compilation.
 
-A. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-B. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-C. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-D. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
+### MCQ 4
 
-**Answer: B.**
-**Explanation:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Arrange the normal production stages of an IPCC assessment contribution by selecting the correct sequence.
 
-### Q7. Which statement uses WMO-UNEP origin without changing its scale, parameter or status?
+A. Author selection → Panel endorsement → scoping → expert review → final draft
+B. Scoping → final government review → author selection → First Order Draft → outline approval
+C. Outline approval → publication → author nomination → expert review → plenary
+D. Scoping → outline approval → author selection → First Order Draft expert review → Second Order Draft government/expert review → final plenary
 
-A. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-B. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-C. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-D. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Endorsement comes after drafting and review, not before scoping.
+- **B — Incorrect:** Authors are selected before drafts and final government review.
+- **C — Incorrect:** Publication follows, rather than precedes, review and plenary endorsement.
+- **D — Correct:** This is the official multi-stage assessment and review sequence.
 
-### Q8. Which option avoids the standard UPSC close-option trap about WMO-UNEP origin?
+### MCQ 5
 
-A. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-B. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-C. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-D. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
+The correct distinction between a Summary for Policymakers (SPM) and its underlying Working Group report is:
 
-**Answer: D.**
-**Explanation:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. The SPM is approved line by line; the underlying report is accepted as a comprehensive, objective and balanced assessment.
+B. Both documents are negotiated line by line by governments before authors see them.
+C. The underlying report is adopted section by section, while the SPM is merely noted.
+D. The SPM may introduce findings absent from the underlying report if governments agree.
 
-### Q9. Which statement correctly identifies Assess-not-research mandate?
+**Answer: A**
 
-A. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-B. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-C. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-D. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
+- **A — Correct:** Approval and acceptance are distinct procedures.
+- **B — Incorrect:** Authors draft both products and participate throughout; the underlying report is not line-by-line approved.
+- **C — Incorrect:** Section-by-section adoption is used for the longer Synthesis Report and methodology overview chapters.
+- **D — Incorrect:** The approved SPM must remain consistent with the accepted underlying report.
 
-**Answer: A.**
-**Explanation:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 6
 
-### Q10. Which option preserves the ecological boundary of Assess-not-research mandate?
+Consider the following matches: 1. Approval—line-by-line agreement; 2. Adoption—line-by-line agreement on an underlying Working Group report; 3. Acceptance—no line-by-line or section-by-section agreement; 4. Adoption—section-by-section endorsement of the longer Synthesis Report. Which are correct?
 
-A. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-B. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-C. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-D. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
+A. 1 and 2 only
+B. 1, 3 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
 
-**Answer: B.**
-**Explanation:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q11. Which statement uses Assess-not-research mandate without changing its scale, parameter or status?
+- **A — Incorrect:** Match 3 and Match 4 are also correct.
+- **B — Correct:** Match 2 is wrong because the underlying Working Group report is accepted, not adopted line by line.
+- **C — Incorrect:** Match 1 is correct and cannot be omitted.
+- **D — Incorrect:** Match 2 misstates both the product and the procedure.
 
-A. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-B. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-C. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-D. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
+### MCQ 7
 
-**Answer: C.**
-**Explanation:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Assertion (A): Governments and Observer Organizations may nominate experts for IPCC author roles. Reason (R): The relevant Working Group or Task Force Bureau selects the author team using expertise and balance criteria. Which option is correct?
 
-### Q12. Which option avoids the standard UPSC close-option trap about Assess-not-research mandate?
+A. Both A and R are correct, and R explains why every nominee becomes an author.
+B. Both A and R are correct, but selection is made by the Secretariat.
+C. Both A and R are correct; nomination creates a pool, while the relevant Bureau makes the selection.
+D. A is incorrect, but R is correct.
 
-A. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-B. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-C. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-D. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Nomination does not guarantee selection.
+- **B — Incorrect:** Selection is not a Secretariat function.
+- **C — Correct:** The two stages are nomination and Bureau selection.
+- **D — Incorrect:** Governments and Observer Organizations are official nominating channels.
 
-### Q13. Which statement correctly identifies Working Group I?
+### MCQ 8
 
-A. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-B. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-C. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-D. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
+Which activities lie outside the IPCC's mandate? 1. Conducting its own primary climate research; 2. Negotiating national emissions targets; 3. Enforcing treaty compliance; 4. Assessing published evidence on response options.
 
-**Answer: A.**
-**Explanation:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3 only
 
-### Q14. Which option preserves the ecological boundary of Working Group I?
+**Answer: D**
 
-A. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-B. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-C. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-D. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
+- **A — Incorrect:** Enforcement is also outside the mandate.
+- **B — Incorrect:** Primary research is also outside the mandate.
+- **C — Incorrect:** Negotiating targets is also outside the mandate.
+- **D — Correct:** Activity 4 is an IPCC function; Activities 1–3 are not.
 
-**Answer: B.**
-**Explanation:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 9
 
-### Q15. Which statement uses Working Group I without changing its scale, parameter or status?
+Identify the statement that correctly distinguishes confidence from likelihood in IPCC usage.
 
-A. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-B. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-C. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-D. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
+A. Confidence synthesises evidence and agreement; likelihood expresses assessed probability for a defined outcome.
+B. Confidence is a numerical probability, whereas likelihood records expert disagreement without probabilities.
+C. Both terms are interchangeable labels for statistical significance.
+D. Likelihood applies to policy preferences, whereas confidence applies only to observations.
 
-**Answer: C.**
-**Explanation:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q16. Which option avoids the standard UPSC close-option trap about Working Group I?
+- **A — Correct:** These are two different calibrated dimensions.
+- **B — Incorrect:** The definitions are reversed and oversimplified.
+- **C — Incorrect:** IPCC calibrated language is not a synonym for statistical significance.
+- **D — Incorrect:** Both may be used for assessed scientific findings, not policy preferences.
 
-A. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-B. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-C. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-D. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
+### MCQ 10
 
-**Answer: D.**
-**Explanation:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+In AR6 calibrated language, the term 'likely' corresponds to which assessed probability range?
 
-### Q17. Which statement correctly identifies Working Group II?
+A. 50–66%
+B. 66–100%
+C. 90–100%
+D. 99–100%
 
-A. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-B. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-C. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-D. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** This range does not match the AR6 likelihood table.
+- **B — Correct:** 'Likely' denotes 66–100%.
+- **C — Incorrect:** This is the range for 'very likely'.
+- **D — Incorrect:** This is the range for 'virtually certain'.
 
-### Q18. Which option preserves the ecological boundary of Working Group II?
+### MCQ 11
 
-A. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-B. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-C. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-D. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
+An AR6 SSP scenario should be interpreted as:
 
-**Answer: B.**
-**Explanation:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. It is the IPCC's forecast probability for one inevitable future.
+B. It is a national target endorsed by the Panel.
+C. It is a conditional emissions and socio-economic pathway used to explore climate responses under stated assumptions.
+D. It is an observed trend that replaces a baseline.
 
-### Q19. Which statement uses Working Group II without changing its scale, parameter or status?
+**Answer: C**
 
-A. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-B. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-C. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-D. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
+- **A — Incorrect:** WGI did not assign feasibility or likelihood to individual scenarios.
+- **B — Incorrect:** Scenarios are analytical inputs, not national commitments.
+- **C — Correct:** Their purpose is conditional exploration.
+- **D — Incorrect:** A scenario is not an observation or baseline.
 
-**Answer: C.**
-**Explanation:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 12
 
-### Q20. Which option avoids the standard UPSC close-option trap about Working Group II?
+Which statement about AR6 remaining carbon budgets is correct?
 
-A. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-B. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-C. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-D. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
+A. They are national entitlements allocated by the IPCC.
+B. They are fixed quantities unaffected by emissions after publication.
+C. They include only methane and exclude carbon dioxide.
+D. WGI Table SPM.2 estimated them from the beginning of 2020, so they are not present-day remainders.
 
-**Answer: D.**
-**Explanation:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q21. Which statement correctly identifies Working Group III?
+- **A — Incorrect:** The IPCC does not allocate the global budget among countries.
+- **B — Incorrect:** Subsequent CO2 emissions deplete a remaining budget.
+- **C — Incorrect:** The budgets concern CO2 while accounting for non-CO2 warming.
+- **D — Correct:** Date and methodological assumptions must accompany the number.
 
-A. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-B. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-C. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-D. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
+### MCQ 13
 
-**Answer: A.**
-**Explanation:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Select the correctly stated chronology-policy linkage.
 
-### Q22. Which option preserves the ecological boundary of Working Group III?
+A. FAR informed creation of the UNFCCC; SAR informed the Kyoto run-up; AR5 supplied scientific input to the Paris Agreement.
+B. SAR created the UNFCCC; TAR negotiated Kyoto; AR6 adopted the Paris Agreement.
+C. AR4 established WMO; AR5 established UNEP; AR6 created the IPCC.
+D. FAR was completed after AR4 and supplied the first Global Stocktake.
 
-A. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-B. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-C. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-D. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Correct:** The reports informed, but did not themselves negotiate, these instruments.
+- **B — Incorrect:** The chronology and institutional roles are incorrect.
+- **C — Incorrect:** WMO and UNEP pre-date the assessment reports and created the IPCC in 1988.
+- **D — Incorrect:** FAR was completed in 1990; the first Global Stocktake occurred decades later.
 
-### Q23. Which statement uses Working Group III without changing its scale, parameter or status?
+### MCQ 14
 
-A. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-B. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-C. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-D. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
+The accurate mapping of AR6 products is:
 
-**Answer: C.**
-**Explanation:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. WGI—adaptation limits; WGII—inventory methods; WGIII—physical attribution; SYR—national targets
+B. WGI—physical science; WGII—impacts/adaptation/vulnerability; WGIII—mitigation; SYR—integration
+C. WGI—treaty law; WGII—weather forecasts; WGIII—project approval; SYR—compliance
+D. WGI—finance allocation; WGII—NDC negotiation; WGIII—research experiments; SYR—inventory compilation
 
-### Q24. Which option avoids the standard UPSC close-option trap about Working Group III?
+**Answer: B**
 
-A. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-B. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-C. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-D. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
+- **A — Incorrect:** The Working Group mandates are mismatched.
+- **B — Correct:** This is the core AR6 architecture.
+- **C — Incorrect:** None of these are the primary mandates of the listed products.
+- **D — Incorrect:** These activities belong to governments, other institutions or researchers, not the stated AR6 products.
 
-**Answer: D.**
-**Explanation:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 15
 
-### Q25. Which statement correctly identifies TFI boundary?
+In the AR6 WGII risk framework, climate risk principally arises from the interaction of:
 
-A. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-B. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-C. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-D. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
+A. hazard and global mean temperature only.
+B. vulnerability and finance only.
+C. climate-related hazard, exposure and vulnerability.
+D. mitigation and inventory accounting only.
 
-**Answer: A.**
-**Explanation:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q26. Which option preserves the ecological boundary of TFI boundary?
+- **A — Incorrect:** Temperature can influence hazards but does not alone define risk.
+- **B — Incorrect:** Finance affects capacity but is not the complete risk formulation.
+- **C — Correct:** Risk is produced through the interaction of hazard, exposure and vulnerability.
+- **D — Incorrect:** These are response/accounting categories, not the WGII risk triad.
 
-A. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-B. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-C. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-D. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
+### MCQ 16
 
-**Answer: B.**
-**Explanation:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+AR6 WGIII is best represented by the statement that:
 
-### Q27. Which statement uses TFI boundary without changing its scale, parameter or status?
+A. It selects the least-cost national policy for each government.
+B. It treats carbon dioxide removal as a substitute for gross emission reductions in every pathway.
+C. It assigns probabilities to SSP scenarios and enforces the chosen pathway.
+D. It assesses sectoral pathways, options and enabling conditions; limiting pathways require rapid and deep reductions, with CDR used for residual emissions subject to constraints.
 
-A. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-B. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-C. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-D. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** WGIII is policy-neutral and does not choose a national package.
+- **B — Incorrect:** CDR does not remove the need for deep gross reductions.
+- **C — Incorrect:** WGIII neither assigns scenario probabilities nor enforces pathways.
+- **D — Correct:** This preserves both the finding and its qualification.
 
-### Q28. Which option avoids the standard UPSC close-option trap about TFI boundary?
+### MCQ 17
 
-A. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-B. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-C. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-D. The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
+The AR6 Synthesis Report:
 
-**Answer: D.**
-**Explanation:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. It integrates the three Working Group contributions and the three AR6-cycle Special Reports; its SPM is organised around status, future risks and near-term responses.
+B. It is a fourth Working Group report devoted only to physical science.
+C. It supersedes every underlying chapter and removes its confidence qualifications.
+D. It was completed before the Working Group contributions.
 
-### Q29. Which statement correctly identifies Synthesis Report?
+**Answer: A**
 
-A. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-B. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-C. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-D. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
+- **A — Correct:** This is the official integration and SPM architecture.
+- **B — Incorrect:** The Synthesis Report is not a Working Group.
+- **C — Incorrect:** It distils findings but does not erase underlying qualifications.
+- **D — Incorrect:** It followed the WGI, WGII and WGIII contributions.
 
-**Answer: A.**
-**Explanation:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 18
 
-### Q30. Which option preserves the ecological boundary of Synthesis Report?
+Consider the following Special Report-focus pairs: 1. SR1.5—impacts and pathways around 1.5°C; 2. SRCCL—land, degradation and food security; 3. SROCC—ocean and cryosphere. How many are correctly matched?
 
-A. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-B. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-C. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-D. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
+A. Only one
+B. All three
+C. Only two
+D. None
 
-**Answer: B.**
-**Explanation:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q31. Which statement uses Synthesis Report without changing its scale, parameter or status?
+- **A — Incorrect:** All three pairs are correct.
+- **B — Correct:** Each report is matched to its official focus.
+- **C — Incorrect:** No pair needs to be excluded.
+- **D — Incorrect:** The three official AR6-cycle Special Reports are accurately described.
 
-A. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-B. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-C. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-D. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
+### MCQ 19
 
-**Answer: C.**
-**Explanation:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+What is the correct relationship between the 2019 Refinement and the 2006 IPCC Guidelines for National Greenhouse Gas Inventories?
 
-### Q32. Which option avoids the standard UPSC close-option trap about Synthesis Report?
+A. The Refinement repealed the Guidelines and created binding national targets.
+B. The Refinement is a Special Report on climate impacts.
+C. The Refinement updates, supplements and elaborates the Guidelines and is used with them rather than replacing them.
+D. The Refinement is an AR6 Working Group contribution.
 
-A. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-B. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-C. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-D. A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** It neither repeals the Guidelines nor creates targets.
+- **B — Incorrect:** It is a Methodology Report, not an impacts Special Report.
+- **C — Correct:** This is the official relationship stated by the IPCC.
+- **D — Incorrect:** It belongs to the inventory-methodology stream under TFI.
 
-### Q33. Which statement correctly identifies Special and methodology reports?
+### MCQ 20
 
-A. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-B. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-C. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-D. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
+Which statement correctly separates inventory methodology from climate policy?
 
-**Answer: A.**
-**Explanation:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. An IPCC emission factor automatically becomes a country's mitigation target.
+B. A national inventory is prepared by the IPCC Secretariat and approved as an SPM.
+C. TFI methods determine which treaty sanctions a country must face.
+D. TFI supplies common estimation guidance; countries compile inventories, while policy targets and measures arise through separate national and treaty processes.
 
-### Q34. Which option preserves the ecological boundary of Special and methodology reports?
+**Answer: D**
 
-A. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-B. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-C. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-D. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
+- **A — Incorrect:** Methods support measurement; they do not set targets.
+- **B — Incorrect:** Countries prepare inventories; an inventory is not an SPM.
+- **C — Incorrect:** TFI has no treaty-enforcement function.
+- **D — Correct:** Measurement, reporting and policy choice remain distinct.
 
-**Answer: B.**
-**Explanation:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 21
 
-### Q35. Which statement uses Special and methodology reports without changing its scale, parameter or status?
+Which statement accurately describes government participation in an IPCC report?
 
-A. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-B. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-C. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-D. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
+A. Governments help set scope, nominate experts, review drafts and endorse products, while authors remain responsible for assessment content and consistency.
+B. Governments conduct the primary research and transfer it to authors after plenary approval.
+C. Governments may add an SPM finding that contradicts the accepted report if consensus is reached.
+D. Governments participate only after publication.
 
-**Answer: C.**
-**Explanation:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q36. Which option avoids the standard UPSC close-option trap about Special and methodology reports?
+- **A — Correct:** It captures the intergovernmental and scientific elements together.
+- **B — Incorrect:** The IPCC does not conduct primary research through governments.
+- **C — Incorrect:** SPM consistency with the underlying report is a procedural safeguard.
+- **D — Incorrect:** Government participation occurs throughout scoping, nomination, review and endorsement.
 
-A. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-B. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-C. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-D. Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
+### MCQ 22
 
-**Answer: D.**
-**Explanation:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which is a valid description of India's participation in the IPCC?
 
-### Q37. Which statement correctly identifies Assessment-cycle sequence?
+A. India receives reports but cannot nominate experts or comment on drafts.
+B. India participates as a member government, can nominate and review, joins plenary decisions, and Indian experts may serve in author teams.
+C. India's NDC is written and approved by the IPCC Bureau.
+D. India's national inventory is compiled by the IPCC Secretariat.
 
-A. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-B. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-C. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-D. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Member governments have formal nomination, review and plenary channels.
+- **B — Correct:** This captures governmental and expert participation without conflating their roles.
+- **C — Incorrect:** NDCs are national commitments under the UNFCCC/Paris framework.
+- **D — Incorrect:** India compiles its own inventory using applicable methods.
 
-### Q38. Which option preserves the ecological boundary of Assessment-cycle sequence?
+### MCQ 23
 
-A. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-B. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-C. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-D. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
+The report-policy distinction is preserved when:
 
-**Answer: B.**
-**Explanation:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. An assessed mitigation option becomes mandatory once it appears in an SPM.
+B. An IPCC projection automatically amends a country's environmental law.
+C. IPCC findings can inform an NDC or adaptation plan, but the legal or policy decision belongs to the relevant government or treaty process.
+D. A government-approved SPM is a treaty decision.
 
-### Q39. Which statement uses Assessment-cycle sequence without changing its scale, parameter or status?
+**Answer: C**
 
-A. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-B. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-C. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-D. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
+- **A — Incorrect:** Assessment does not create a mandate to adopt an option.
+- **B — Incorrect:** A report does not amend domestic law.
+- **C — Correct:** Evidence use and policy authority are separate.
+- **D — Incorrect:** SPM approval is an IPCC endorsement procedure, not treaty lawmaking.
 
-**Answer: C.**
-**Explanation:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 24
 
-### Q40. Which option avoids the standard UPSC close-option trap about Assessment-cycle sequence?
+How should a global IPCC finding be used in an India-specific answer?
 
-A. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-B. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-C. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-D. An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
+A. Apply the global average directly to every Indian district.
+B. Convert a global scenario into an Indian forecast without a regional source.
+C. Treat an IPCC confidence term as proof of a national programme's success.
+D. Cite the exact global/regional assessment, add Indian official evidence for the local claim, and analyse the policy choice separately.
 
-**Answer: D.**
-**Explanation:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q41. Which statement correctly identifies Author-review architecture?
+- **A — Incorrect:** Global averages do not establish uniform local conditions.
+- **B — Incorrect:** Regionalisation requires region- and location-specific evidence.
+- **C — Incorrect:** Scientific confidence does not evaluate programme implementation by itself.
+- **D — Correct:** This follows the Master Framework's global-versus-Indian evidence rule.
 
-A. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-B. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-C. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-D. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
+### MCQ 25
 
-**Answer: A.**
-**Explanation:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which use of the AR6 WGI sea-level assessment is accurate?
 
-### Q42. Which option preserves the ecological boundary of Author-review architecture?
+A. Under SSP5-8.5, WGI assessed a likely 0.63–1.01 m rise by 2100 relative to 1995–2014; local relative rise still depends on regional and land-motion factors.
+B. WGI predicted exactly one metre of rise at every Indian coast under all scenarios.
+C. The 0.63–1.01 m range is an observed 2020 Indian trend rather than a projection.
+D. The range is a WGII policy target approved for coastal states.
 
-A. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-B. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-C. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-D. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Correct:** It retains scenario, likelihood, year, baseline and local qualification.
+- **B — Incorrect:** The assessment is a range, not a uniform local deterministic value.
+- **C — Incorrect:** It is a future global-mean projection.
+- **D — Incorrect:** It is a WGI physical assessment, not a policy target.
 
-### Q43. Which statement uses Author-review architecture without changing its scale, parameter or status?
+### MCQ 26
 
-A. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-B. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-C. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-D. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
+Which statement correctly distinguishes carbon dioxide removal (CDR) from conventional CCS?
 
-**Answer: C.**
-**Explanation:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Every capture of CO2 from a fossil stack is automatically atmospheric removal.
+B. CDR removes CO2 from the atmosphere and stores it durably; capturing fossil/process CO2 before release can reduce emissions but is not automatically CDR.
+C. CDR is an inventory-review procedure with no physical carbon flow.
+D. CCS and CDR are names for the same national target.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Author-review architecture?
+**Answer: B**
 
-A. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-B. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-C. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-D. Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
+- **A — Incorrect:** Avoided release and atmospheric removal are different carbon-flow claims.
+- **B — Correct:** Source, removal pathway and storage durability determine the category.
+- **C — Incorrect:** CDR is a physical mitigation category assessed by WGIII.
+- **D — Incorrect:** Neither term is itself a national target.
 
-**Answer: D.**
-**Explanation:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 27
 
-### Q45. Which statement correctly identifies Approval-acceptance distinction?
+Which statement gives the correct AR7 status at the 29 September 2026 cut-off?
 
-A. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-B. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-C. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-D. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
+A. AR7 replaced AR6 when its Working Group outlines were agreed.
+B. The AR7 Synthesis Report was released for the 2023 Global Stocktake.
+C. AR7 is under preparation; AR6 remains the latest completed assessment and AR7 process milestones are not findings.
+D. All three AR7 Working Group SPMs have been approved.
 
-**Answer: A.**
-**Explanation:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q46. Which option preserves the ecological boundary of Approval-acceptance distinction?
+- **A — Incorrect:** An outline does not replace a completed assessment.
+- **B — Incorrect:** The AR6 Synthesis Report informed the first Global Stocktake.
+- **C — Correct:** This is the required current-status discipline.
+- **D — Incorrect:** The AR7 Working Group reports remain in preparation.
 
-A. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-B. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-C. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-D. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
+### MCQ 28
 
-**Answer: B.**
-**Explanation:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which pair of AR7 product-status statements is accurate at the cut-off?
 
-### Q47. Which statement uses Approval-acceptance distinction without changing its scale, parameter or status?
+A. Cities—published in 2025; SLCF—cancelled after First Order Draft review.
+B. Cities—an inventory Methodology Report; SLCF—a Special Report on urban risk.
+C. Cities—final SPM approved in May 2026; SLCF—underlying report accepted in August 2026.
+D. Cities—scheduled for March 2027 after its 2026 Second Order Draft review; SLCF—Second Order Draft under government/expert review through 25 October 2026.
 
-A. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-B. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-C. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-D. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Neither product had that status.
+- **B — Incorrect:** The product types are reversed and misstated.
+- **C — Incorrect:** Both remained pre-final at those dates.
+- **D — Correct:** The dates and stages come from official 2026 IPCC releases.
 
-### Q48. Which option avoids the standard UPSC close-option trap about Approval-acceptance distinction?
+### MCQ 29
 
-A. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-B. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-C. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-D. Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
+What was the official status of the AR7 CDR/CCUS inventory-methodology product by September 2026?
 
-**Answer: D.**
-**Explanation:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Its outline was agreed in October 2025; an August 2026 Lead Author Meeting advanced the First Order Draft; completion is scheduled for 2027.
+B. It was the completed AR7 Synthesis Report.
+C. It had already replaced the 2006 Guidelines in full.
+D. It was an adopted UNFCCC market mechanism.
 
-### Q49. Which statement correctly identifies Policy-relevant boundary?
+**Answer: A**
 
-A. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-B. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-C. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-D. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
+- **A — Correct:** These are process milestones, not findings.
+- **B — Incorrect:** The AR7 Synthesis Report is due only after the Working Group reports.
+- **C — Incorrect:** The forthcoming report provides additional guidance and has not replaced the Guidelines.
+- **D — Incorrect:** It is an IPCC methodology product, not a UNFCCC market mechanism.
 
-**Answer: A.**
-**Explanation:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 30
 
-### Q50. Which option preserves the ecological boundary of Policy-relevant boundary?
+At a plenary, the Overview Chapter of a Methodology Report is endorsed section by section and the underlying report is endorsed without line-by-line agreement. Which pair of terms applies?
 
-A. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-B. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-C. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-D. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
+A. Approval and adoption
+B. Adoption and acceptance
+C. Acceptance and approval
+D. Approval and acceptance
 
-**Answer: B.**
-**Explanation:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q51. Which statement uses Policy-relevant boundary without changing its scale, parameter or status?
+- **A — Incorrect:** The Overview Chapter is not approved line by line under the stated route.
+- **B — Correct:** Adoption applies to the Overview Chapter; acceptance applies to the underlying report.
+- **C — Incorrect:** The order and procedure are incorrect.
+- **D — Incorrect:** The first term mislabels section-by-section endorsement.
 
-A. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-B. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-C. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-D. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
+### MCQ 31
 
-**Answer: C.**
-**Explanation:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which statement best reflects consensus and dissent in the IPCC process?
 
-### Q52. Which option avoids the standard UPSC close-option trap about Policy-relevant boundary?
+A. Consensus means all assessed studies must reach identical conclusions.
+B. A minority scientific view is deleted whenever governments disagree with it.
+C. The Panel works by consensus, but authors must record scientifically valid views that cannot be reconciled with a consensus view.
+D. Consensus permits the SPM to contradict the underlying report.
 
-A. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-B. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-C. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-D. IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Assessment identifies agreement and disagreement in a diverse literature.
+- **B — Incorrect:** Procedures protect scientifically valid unreconciled views.
+- **C — Correct:** Institutional consensus and scientific unanimity are not synonyms.
+- **D — Incorrect:** Consistency with the accepted report remains mandatory.
 
-### Q53. Which statement correctly identifies Confidence-likelihood distinction?
+### MCQ 32
 
-A. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-B. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-C. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-D. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
+Why does an assessment-cycle lag arise?
 
-**Answer: A.**
-**Explanation:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Because the IPCC withholds observations until governments enact policy.
+B. Because only laboratory experiments conducted by the IPCC may be cited.
+C. Because reports are updated automatically each time a new article appears.
+D. Because authors assess literature available by defined cut-offs, while drafting, review and endorsement take time.
 
-### Q54. Which option preserves the ecological boundary of Confidence-likelihood distinction?
+**Answer: D**
 
-A. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-B. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-C. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-D. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
+- **A — Incorrect:** The process does not depend on prior policy enactment.
+- **B — Incorrect:** The IPCC does not conduct the experiments it assesses.
+- **C — Incorrect:** A completed report is time-bounded and not continuously rewritten.
+- **D — Correct:** Special Reports and later cycles can incorporate newer literature.
 
-**Answer: B.**
-**Explanation:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 33
 
-### Q55. Which statement uses Confidence-likelihood distinction without changing its scale, parameter or status?
+How should a low-likelihood, high-impact outcome be handled in an answer?
 
-A. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-B. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-C. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-D. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
+A. State its assessed low or deeply uncertain probability and explain the potentially severe consequence without presenting it as the central forecast.
+B. Omit it because low likelihood means zero risk.
+C. Present it as certain because its consequence is large.
+D. Convert it into a confidence level for an unrelated regional claim.
 
-**Answer: C.**
-**Explanation:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q56. Which option avoids the standard UPSC close-option trap about Confidence-likelihood distinction?
+- **A — Correct:** Risk depends on both probability and consequence.
+- **B — Incorrect:** Low probability is not impossibility.
+- **C — Incorrect:** Consequence magnitude does not make an outcome certain.
+- **D — Incorrect:** Calibrated language cannot be transferred across findings.
 
-A. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-B. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-C. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-D. Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
+### MCQ 34
 
-**Answer: D.**
-**Explanation:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which statement accurately assigns roles in the two formal draft reviews?
 
-### Q57. Which statement correctly identifies Confidence discipline?
+A. The First Order Draft is reviewed only by governments, and the Second Order Draft only by authors.
+B. The First Order Draft receives expert review; the Second Order Draft and first SPM draft receive government and expert review, with Review Editors checking treatment of comments.
+C. Both drafts are approved line by line before review comments are received.
+D. Review comments remain confidential after publication and need not be considered.
 
-A. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-B. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-C. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-D. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** The first review is expert review, not government-only review.
+- **B — Correct:** It states the official sequence and Review Editor function.
+- **C — Incorrect:** Approval follows review and revision.
+- **D — Incorrect:** Comments and author responses are published after report completion, and comments must be considered.
 
-### Q58. Which option preserves the ecological boundary of Confidence discipline?
+### MCQ 35
 
-A. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-B. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-C. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-D. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
+Which row correctly matches three IPCC components with their functions?
 
-**Answer: B.**
-**Explanation:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Panel—chapter drafting; Bureau—treaty enforcement; Secretariat—scenario modelling
+B. Panel—weather forecasting; Bureau—national inventory compilation; Secretariat—author nomination
+C. Panel—major institutional and endorsement decisions; Bureau—scientific/technical guidance; Secretariat—coordination and administration
+D. Panel—project finance; Bureau—NDC approval; Secretariat—government voting
 
-### Q59. Which statement uses Confidence discipline without changing its scale, parameter or status?
+**Answer: C**
 
-A. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-B. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-C. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-D. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
+- **A — Incorrect:** These are not the assigned functions.
+- **B — Incorrect:** Each function is institutionally misplaced.
+- **C — Correct:** It preserves the governance-support-authorship boundaries.
+- **D — Incorrect:** The IPCC does not perform these national/treaty functions.
 
-**Answer: C.**
-**Explanation:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 36
 
-### Q60. Which option avoids the standard UPSC close-option trap about Confidence discipline?
+Which conclusion best captures the evolution from earlier assessments to AR6?
 
-A. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-B. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-C. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-D. A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
+A. Each cycle abandons all earlier evidence and starts a new climate theory.
+B. The principal change is that governments replaced scientists as report authors.
+C. Later cycles turned the IPCC into a treaty compliance body.
+D. Successive cycles deepened attribution, impacts/adaptation, scenario and mitigation assessment while remaining evidence inputs to, not substitutes for, policymaking.
 
-**Answer: D.**
-**Explanation:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q61. Which statement correctly identifies Likelihood discipline?
+- **A — Incorrect:** Assessments build on and revise the evidence base.
+- **B — Incorrect:** Expert author teams remain central.
+- **C — Incorrect:** The IPCC has not acquired treaty-enforcement powers.
+- **D — Correct:** It states both conceptual development and institutional continuity.
 
-A. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-B. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-C. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-D. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
+### MCQ 37
 
-**Answer: A.**
-**Explanation:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+In AR6 language, 'extremely likely'—an additional term used where appropriate—corresponds to:
 
-### Q62. Which option preserves the ecological boundary of Likelihood discipline?
+A. 95–100%
+B. 90–100%
+C. 66–100%
+D. 99–100%
 
-A. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-B. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-C. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-D. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Correct:** AR6 lists 95–100% for 'extremely likely'.
+- **B — Incorrect:** This is 'very likely'.
+- **C — Incorrect:** This is 'likely'.
+- **D — Incorrect:** This is 'virtually certain'.
 
-### Q63. Which statement uses Likelihood discipline without changing its scale, parameter or status?
+### MCQ 38
 
-A. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-B. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-C. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-D. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
+Assertion (A): A Working Group SPM is approved through detailed line-by-line discussion and agreement. Reason (R): The underlying Working Group report is also approved line by line by governments. Choose the correct option.
 
-**Answer: C.**
-**Explanation:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Both A and R are correct, and R explains A.
+B. A is correct, but R is incorrect.
+C. A is incorrect, but R is correct.
+D. Both A and R are incorrect.
 
-### Q64. Which option avoids the standard UPSC close-option trap about Likelihood discipline?
+**Answer: B**
 
-A. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-B. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-C. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-D. A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
+- **A — Incorrect:** R is incorrect because the underlying report is accepted.
+- **B — Correct:** The SPM and underlying report use different endorsement procedures.
+- **C — Incorrect:** A accurately states the approval procedure.
+- **D — Incorrect:** A is not incorrect.
 
-**Answer: D.**
-**Explanation:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 39
 
-### Q65. Which statement correctly identifies Scenario-not-forecast?
+Which source-use practice is strongest for a claim about the current AR7 cycle?
 
-A. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-B. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-C. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-D. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
+A. Use an undated media summary and call every draft an assessment finding.
+B. Use an AR6 number but label it as an AR7 conclusion.
+C. Use the dated official IPCC product page or release, state the exact process stage, and avoid attributing findings before endorsement.
+D. Infer a publication date from the usual five-to-seven-year cycle.
 
-**Answer: A.**
-**Explanation:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q66. Which option preserves the ecological boundary of Scenario-not-forecast?
+- **A — Incorrect:** This loses both provenance and status discipline.
+- **B — Incorrect:** Assessment-cycle attribution must be exact.
+- **C — Correct:** Current institutional claims require dated first-party evidence.
+- **D — Incorrect:** A general cycle length cannot supply an official product date.
 
-A. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-B. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-C. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-D. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
+### MCQ 40
 
-**Answer: B.**
-**Explanation:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which sequence is the strongest way to answer an IPCC-based Mains question?
 
-### Q67. Which statement uses Scenario-not-forecast without changing its scale, parameter or status?
+A. Begin with a treaty target → list disasters → omit report and confidence → prescribe one technology
+B. Quote a global number → apply it uniformly to India → call the scenario a forecast → conclude with enforcement
+C. Describe the institution → reproduce an SPM phrase → treat it as domestic law → omit limitations
+D. Define institution/product → identify WG ownership → attach report/year/baseline/scenario/confidence → explain mechanism and India relevance → separate evidence from policy → qualify limits
 
-A. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-B. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-C. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-D. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Scenario-not-forecast?
-
-A. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-B. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-C. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-D. IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-
-**Answer: D.**
-**Explanation:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q69. Which statement correctly identifies Assessment-lag boundary?
-
-A. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-B. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-C. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-D. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-
-**Answer: A.**
-**Explanation:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q70. Which option preserves the ecological boundary of Assessment-lag boundary?
-
-A. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-B. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-C. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-D. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-
-**Answer: B.**
-**Explanation:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q71. Which statement uses Assessment-lag boundary without changing its scale, parameter or status?
-
-A. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-B. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-C. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-D. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-
-**Answer: C.**
-**Explanation:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Assessment-lag boundary?
-
-A. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-B. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-C. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-D. Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-
-**Answer: D.**
-**Explanation:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q73. Which statement correctly identifies AR6-AR7 status?
-
-A. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-B. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-C. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-D. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-
-**Answer: A.**
-**Explanation:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q74. Which option preserves the ecological boundary of AR6-AR7 status?
-
-A. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-B. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-C. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-D. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-
-**Answer: B.**
-**Explanation:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q75. Which statement uses AR6-AR7 status without changing its scale, parameter or status?
-
-A. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-B. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-C. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-D. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-
-**Answer: C.**
-**Explanation:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q76. Which option avoids the standard UPSC close-option trap about AR6-AR7 status?
-
-A. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-B. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-C. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-D. AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-
-**Answer: D.**
-**Explanation:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q77. Which statement correctly identifies Science-policy evidence boundary?
-
-A. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-B. The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-C. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-D. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-
-**Answer: A.**
-**Explanation:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q78. Which option preserves the ecological boundary of Science-policy evidence boundary?
-
-A. The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-B. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-C. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-D. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-
-**Answer: B.**
-**Explanation:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q79. Which statement uses Science-policy evidence boundary without changing its scale, parameter or status?
-
-A. The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-B. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-C. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-D. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-
-**Answer: C.**
-**Explanation:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Science-policy evidence boundary?
-
-A. Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-B. Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-C. Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-D. An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
-
-**Answer: D.**
-**Explanation:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** It confuses assessment, impacts and policy choice.
+- **B — Incorrect:** It commits global-to-local and scenario errors.
+- **C — Incorrect:** An assessment finding is not domestic law.
+- **D — Correct:** This is the complete evidence-to-answer spine.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED IPCC ARCHITECTURE, ASSESSMENT AND SEA-LEVEL PYQ OWNERSHIP
+### PYQ scope and provenance ledger
 
-Audited ledgers route the verified 2023 GS-III demand on an IPCC sea-level-rise prediction and Indian Ocean impacts. Recurring objective distinctions concern founding institutions, Working Group mandates, inventory methodology and the assess-not-research boundary. No unverified question, key, projection or model answer is inferred.
+> **Scope rule:** Included questions either name the IPCC directly, require a shared report-versus-treaty distinction, or provide a clear WGI/WGII/WGIII application. Generic climate questions without a material Topic 18 demand are left with their primary owners.
 
-**Demand decoding:** The directive **answer** requires a direct position on “AUDITED IPCC ARCHITECTURE, ASSESSMENT AND SEA-LEVEL PYQ OWNERSHIP”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+| PYQ | Exact local-paper provenance | Key/model label | Topic 18 ownership |
+|---|---|---|---|
+| 2019 Prelims GS-I Q25 | `..\upsc-agent\books\more_previous_papers\csp-p1.pdf` | Official key not held locally; **INFERRED D — high confidence** | Application: assessed response option ≠ IPCC prescription |
+| 2023 Prelims GS-I Q23 | `..\upsc-agent\books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, printed p. 11 | Official key not held locally; **INFERRED C — high confidence** | Application: WGIII assesses carbon markets; IPCC does not operate them |
+| 2025 Prelims GS-I Set A Q31 | `..\upsc-agent\books\prelima_question_paper_answers\2025-GS1-Set A.pdf` | **Official local Set A key B:** `Ans-2025-GS1.pdf` | Application: sectoral emissions evidence assessed by WGIII |
+| 2022 Mains GS-III Q17 | `..\upsc-agent\books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf`, printed p. 5 | No official model answer | Shared: WGI science + Topic 19 Kyoto law |
+| 2023 Mains GS-I Q4 | `..\upsc-agent\books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf`, printed p. 2 | No official model answer | Application: WGII impacts, vulnerability and adaptation |
+| 2023 Mains GS-III Q18 | `..\upsc-agent\books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf`, printed p. 4 | No official model answer | **Direct routed owner:** Topic 18 |
+| 2025 Mains GS-I Q4 | `..\upsc-agent\books\mains\UPSC Mains 2025 GS Paper 1.pdf`, printed p. 2 | No official model answer | Application: WGI sea level + WGII risk/limits |
+| 2025 Mains GS-III Q7 | `..\upsc-agent\books\mains\UPSC Mains 2025 GS Paper 3 3.pdf`, printed p. 2 | No official model answer | Application: WGIII option assessment + TFI accounting boundary |
 
-**Detailed examiner-grade model answer:**
+> No direct/routed Topic 18 Prelims question was found in the audited 2018–2026 routing and local papers. The two older objective application keys are explicitly inferred rather than presented as official.
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “AUDITED IPCC ARCHITECTURE, ASSESSMENT AND SEA-LEVEL PYQ OWNERSHIP”.
+### PRELIMS PYQ 1 — 2019 GS-I Q25 — APPLICATION
 
-**Analytical body:**
+**Question:** In the context of which of the following do some scientists suggest the use of cirrus cloud thinning technique and the injection of sulphate aerosol into stratosphere?
 
-1. **Claim and named evidence:** AUDITED IPCC ARCHITECTURE, ASSESSMENT AND SEA-LEVEL PYQ OWNERSHIP **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+A. Creating the artificial rains in some regions
+B. Reducing the frequency and intensity of tropical cyclones
+C. Reducing the adverse effects of solar wind on the Earth
+D. Reducing the global warming
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Key label: INFERRED ANSWER — NOT OFFICIALLY VERIFIED LOCALLY: D (high confidence)**
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “AUDITED IPCC ARCHITECTURE, ASSESSMENT AND SEA-LEVEL PYQ OWNERSHIP”.
+- **A — Incorrect:** Cloud seeding for rainfall is a different intervention.
+- **B — Incorrect:** The techniques are not principally cyclone-control methods.
+- **C — Incorrect:** Solar wind is unrelated to the proposed climate-radiation intervention.
+- **D — Correct:** These are proposed solar-radiation-modification approaches. Assessment of an option is not an IPCC recommendation to deploy it.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+### PRELIMS PYQ 2 — 2023 GS-I Q23 — APPLICATION
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Question:** Consider the following statements:
 
-**How to improve this answer:** For “AUDITED IPCC ARCHITECTURE, ASSESSMENT AND SEA-LEVEL PYQ OWNERSHIP”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Statement I:** Carbon markets are likely to be one of the most widespread tools in the fight against climate change.
+**Statement II:** Carbon markets transfer resources from the private sector to the State.
 
-### OWNER PYQ LEDGER EXTRACTS
+Which one of the following is correct in respect of the above statements?
 
-#### 9. PYQ application
+A. Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I
+B. Both Statement I and Statement II are correct and Statement II is not the correct explanation for Statement I
+C. Statement I is correct but Statement II is incorrect
+D. Statement I is incorrect but Statement II is correct
 
-- ⚠️ Recurring Prelims pattern: identify the IPCC's founding organisations, its three
-  Working Groups' distinct focus areas, and its non-research, assessment-only mandate.
-- ⚠️ Mains linkage: IPCC findings are used as the scientific evidentiary basis when
-  constructing any climate-policy analysis answer.
+**Key label: INFERRED ANSWER — NOT OFFICIALLY VERIFIED LOCALLY: C (high confidence)**
 
-#### Historical PYQ Integration (2018-2023)
+- **A — Incorrect:** Carbon-market transfers need not run from private actors to the State.
+- **B — Incorrect:** Statement II remains overbroad.
+- **C — Correct:** Markets are widely used mitigation instruments, but transactions may occur among private entities or other participants; the stated transfer direction is not defining.
+- **D — Incorrect:** Statement I is defensible as a description of their growing mitigation role.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+### PRELIMS PYQ 3 — 2025 GS-I SET A Q31 — APPLICATION
 
-- **Years represented:** 2023
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
+**Question:** Consider the following statements:
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2023 | GS-III | 18 | IPCC sea level rise prediction and impact on Indian Ocean | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Statement I:** Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.
+**Statement II:** Silica-bearing clay is mixed with limestone while manufacturing cement.
+**Statement III:** Limestone is converted into lime during clinker production for cement manufacturing.
 
-##### What this owner must now support
+Which one of the following is correct in respect of the above statements?
 
-- IPCC sea level rise prediction and impact on Indian Ocean
+A. Both Statement II and Statement III are correct and both of them explain Statement I
+B. Both Statement II and Statement III are correct but only one of them explains Statement I
+C. Only one of Statements II and III is correct and that explains Statement I
+D. Neither Statement II nor Statement III is correct
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Official local Set A key: B**
 
-#### 10. PYQ-based analytical application
+- **A — Incorrect:** Feed composition in Statement II does not itself explain CO2 release.
+- **B — Correct:** Both are correct, but limestone calcination in Statement III directly produces process CO2.
+- **C — Incorrect:** Both Statements II and III are correct.
+- **D — Incorrect:** Neither statement is false.
 
-- ⚠️ Prelims questions distinguishing IPCC's three Working Groups, its founding
-  organisations, and its non-research mandate should be answered by directly applying the
-  assess-don't-research and policy-relevant-not-prescriptive framings.
-- ⚠️ Mains answers on "the role of science in global climate governance" should explicitly
-  discuss the consensus-approval trade-off (Section 1) and the calibrated-uncertainty
-  language system (Section 2) to demonstrate advanced understanding of how IPCC findings
-  are constructed and communicated.
+### MAINS PYQ 1 — 2022 GS-III Q17 — 15 MARKS
 
-#### Historical PYQ Integration (2018-2023)
+**Question:** Discuss global warming and mention its effects on the global climate. Explain the control measures to bring down the level of greenhouse gases which cause global warming, in the light of the Kyoto Protocol, 1997. (Answer in 250 words)
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+**Ownership:** Shared. Topic 17 owns the physical mechanism; Topic 18 supplies exact IPCC attribution; Topic 19 owns Kyoto architecture.
 
-- **Years represented:** 2023
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
+**Model answer (207 words; limit 250):**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2023 | GS-III | 18 | IPCC sea level rise prediction and impact on Indian Ocean | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+Global warming is the long-term rise in global mean surface temperature caused mainly by anthropogenic enhancement of the natural greenhouse effect. Fossil-fuel use, cement production, land-use change and agriculture raise CO2, CH4 and N2O concentrations. IPCC AR6 WGI concluded that human influence has unequivocally warmed the atmosphere, ocean and land.
 
-##### What this owner must now support
+Its climatic effects include more frequent and intense hot extremes, a stronger water cycle with heavier precipitation in many regions, changing drought risk, glacier and ice-sheet loss, ocean warming and acidification, and sea-level rise through thermal expansion and land-ice melt. Individual events still require event-specific attribution; internal variability shapes regional and short-period outcomes.
 
-- IPCC sea level rise prediction and impact on Indian Ocean
+Control requires rapid CO2 reduction because warming is closely linked to cumulative emissions; methane abatement in energy, waste and agriculture; efficient nitrogen use to curb N2O; protection and restoration of durable sinks; energy efficiency and low-carbon supply; and limits on high-GWP gases. Adaptation cannot substitute for mitigation.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+The Kyoto Protocol, adopted in 1997 under the UNFCCC, gave developed Annex I Parties quantified commitments and created emissions trading, Joint Implementation and the Clean Development Mechanism. These instruments sought lower-cost reductions, but limited coverage and participation constrained their global effect. Thus, IPCC assessment explains the physical need for cuts, whereas Kyoto represents the negotiated legal response.
 
-### PYQ DEMAND CARD 1 — 2023 GS-III
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
 
-**Demand:** Discuss IPCC sea-level-rise assessment and impacts on the Indian Ocean region.
+### MAINS PYQ 2 — 2023 GS-I Q4 — 10 MARKS
 
-**Status:** Verified routed Mains demand; no unverified regional projection is supplied.
+**Question:** Discuss the consequences of climate change on the food security in tropical countries. (Answer in 150 words)
 
-**Model solution:** **IPCC identity:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Working Group I:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. **Working Group II:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. **Synthesis Report:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Confidence-likelihood distinction:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Scenario-not-forecast:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Assessment-lag boundary:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Science-policy evidence boundary:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Ownership:** Application. WGII supplies the impact-risk-adaptation framework; food-security ownership remains cross-topic.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2023 GS-III”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Model answer (130 words; limit 150):**
 
-**Detailed examiner-grade model answer:**
+Climate change affects four pillars of tropical food security. For availability, heat stress, drought and heavy rainfall can reduce crop and livestock productivity, while marine heatwaves and shifting fish stocks affect fisheries. For access, harvest losses and disrupted transport raise prices and erode poor households' incomes. Floods can contaminate water and food, harming utilisation; compound extremes undermine stability.
 
-**Introduction and thesis:** **IPCC identity:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Working Group I:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. **Working Group II:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. **Synthesis Report:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Confidence-likelihood distinction:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Scenario-not-forecast:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Assessment-lag boundary:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Science-policy evidence boundary:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+AR6 WGII assesses these outcomes through hazard, exposure and vulnerability: poverty, rain-fed farming and ecosystem degradation magnify the same climatic hazard. CO2 fertilisation is not a complete offset because water, nutrients, heat and crop quality constrain benefits.
 
-**Analytical body:**
+Responses include stress-tolerant crops, diversified farms, climate services, efficient water management, storage, social protection and resilient fisheries, combined with mitigation. Adaptation gaps and limits rise with warming, so development and emissions policy must proceed together.
 
-1. **Claim and named evidence:** Demand: Discuss IPCC sea-level-rise assessment and impacts on the Indian Ocean region. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; no unverified regional projection is supplied. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+### MAINS PYQ 3 — 2023 GS-III Q18 — 15 MARKS
 
-**Qualified conclusion:** **IPCC identity:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Working Group I:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. **Working Group II:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. **Synthesis Report:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Confidence-likelihood distinction:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Scenario-not-forecast:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Assessment-lag boundary:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Science-policy evidence boundary:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Question:** The Intergovernmental Panel on Climate Change (IPCC) has predicted a global sea level rise of about one metre by AD 2100. What would be its impact in India and the other countries in the Indian Ocean region? (Answer in 250 words)
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Ownership:** Direct routed owner. The model corrects “prediction” into a scenario-, baseline- and likelihood-bounded assessment without altering the official question.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Model answer (219 words; limit 250):**
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2023 GS-III”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+The question's “about one metre” should be read as a scenario-bounded global assessment, not a uniform forecast for every coast. AR6 WGI assessed a likely global mean rise of 0.63–1.01 m by 2100 under SSP5-8.5 relative to 1995–2014. Thermal expansion and loss of glaciers and ice sheets are the principal mechanisms; regional relative sea level also varies with ocean circulation, gravity, sediment supply and land subsidence.
+
+For India, a higher mean sea level allows tides, waves and storm surges to penetrate farther into low-lying deltas and cities. It accelerates erosion, saline intrusion into aquifers and soils, wetland squeeze, infrastructure damage and disruption of ports, fisheries and tourism. The Sundarbans, densely settled deltas and low-lying urban coasts face compound risk rather than sea-level rise alone.
+
+Other Indian Ocean states face similar but differentiated exposure. Low-lying atolls in the Maldives and small-island states confront freshwater-lens salinisation, loss of habitable land, reef degradation, livelihood stress and possible planned mobility. East African and South Asian coasts face deltaic and urban infrastructure risks.
+
+Responses require deep global mitigation plus risk-sensitive coastal zoning, restoration of mangroves and reefs, early warning, resilient infrastructure, freshwater security and, where necessary, planned relocation. The defensible conclusion is scenario-, baseline- and location-specific: global IPCC ranges frame risk, while local planning requires national and site evidence.
+
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
+
+### MAINS PYQ 4 — 2025 GS-I Q4 — 10 MARKS
+
+**Question:** How are climate change and the sea level rise affecting the very existence of many island nations? Discuss with examples. (Answer in 150 words)
+
+**Ownership:** Application. WGI supplies the physical projection; WGII supplies compound risk and adaptation limits.
+
+**Model answer (140 words; limit 150):**
+
+Climate change threatens island nations through compound risk. Ocean warming causes thermal expansion and land-ice loss adds water; a higher mean sea level lets tides, waves and storm surges flood farther inland. AR6 WGI projects sea-level rise under every assessed scenario, but the amount remains scenario- and baseline-dependent.
+
+Low-lying atoll states such as Tuvalu, Kiribati and the Maldives face erosion, saline intrusion into freshwater lenses and soils, infrastructure loss and shrinking habitable land. Marine heatwaves and acidification damage coral reefs that support fisheries, tourism, sediment supply and wave protection. Displacement may weaken culture, land tenure and effective sovereignty before complete inundation.
+
+Risk varies with elevation, reef health, subsidence, protection and migration options; “disappearance” is therefore not a single-date prediction. Adaptation includes freshwater security, ecosystem restoration, resilient infrastructure and planned mobility, but WGII's adaptation-limit framework shows why deep mitigation remains indispensable.
+
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
+
+### MAINS PYQ 5 — 2025 GS-III Q7 — 10 MARKS
+
+**Question:** What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change? (Answer in 150 words)
+
+**Ownership:** Application. Primary technology ownership is Topic 21; Topic 18 contributes WGIII assessment and TFI accounting distinctions.
+
+**Model answer (143 words; limit 150):**
+
+CCUS is a chain in which CO2 is separated from large point sources, compressed and transported, then used in products or injected into geological formations for long-term storage. It can reduce process and fuel emissions from hard-to-abate activities such as cement, chemicals and industrial heat where alternatives are limited.
+
+IPCC AR6 WGIII treats CCUS as one option within a portfolio, not a substitute for rapid gross emission cuts. Its value depends on capture rate, energy penalty, upstream emissions, transport networks, storage integrity, monitoring, cost and liability. Utilisation provides durable mitigation only when life-cycle accounting keeps CO2 out of the atmosphere for an appropriate period.
+
+CCS on fossil or process emissions is avoided release, not automatically carbon dioxide removal. CDR requires atmospheric CO2 removal and durable storage. India should therefore prioritise sector-specific use, credible accounting and monitored storage while expanding efficiency and zero-carbon alternatives.
+
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
+
+### ORIGINAL MAINS PRACTICE
+
+> **Distribution:** exactly two questions each at 10, 15 and 20 marks. Model answers stay within the stated UPSC-style word limits.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Explain the IPCC's assess-not-research mandate and institutional identity. Answer in about 150 words.
+**Question:** Explain the mandate, institutional status and principal components of the IPCC. Also state what it does not do. (Answer in 150 words)
 
-**Model thesis:** **Claim:** IPCC identity. **Named evidence/example:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** WMO-UNEP origin. **Named evidence/example:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assess-not-research mandate. **Named evidence/example:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Ownership:** Original Topic 18 core.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (147 words; limit 150):**
 
-- The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-- The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-- The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
+The IPCC is the UN body for assessing climate-change science, created by WMO and UNEP in 1988. It assesses scientific, technical and socio-economic literature comprehensively, objectively, openly and transparently; its reports are neutral with respect to policy.
 
-**Qualified conclusion:** **Claim:** IPCC identity. **Named evidence/example:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** WMO-UNEP origin. **Named evidence/example:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assess-not-research mandate. **Named evidence/example:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+The Panel of member governments sets the work programme, scope and formal endorsement. The Bureau gives scientific and technical guidance. WGI covers physical science, WGII impacts and adaptation, WGIII mitigation, and TFI inventory methods. Expert authors draft, Review Editors oversee comments, TSUs support production and the Secretariat coordinates administration.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the IPCC's assess-not-research mandate and institutional identity. Answer in about…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+Governments nominate, review and approve or accept products, but they do not become the scientific authors; SPM wording must remain consistent with the underlying report. The IPCC also does not conduct primary research, negotiate NDCs, enforce treaties, allocate carbon budgets or compile national inventories.
 
-**Detailed examiner-grade model answer:**
+Its authority therefore joins expert assessment, transparent review and government ownership without converting evidence into prescribed policy.
 
-**Introduction and thesis:** **Claim:** IPCC identity. **Named evidence/example:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** WMO-UNEP origin. **Named evidence/example:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assess-not-research mandate. **Named evidence/example:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** IPCC identity. **Named evidence/example:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** WMO-UNEP origin. **Named evidence/example:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assess-not-research mandate. **Named evidence/example:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain the IPCC's assess-not-research mandate and institutional identity. Answer in about…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Differentiate the three Working Groups, TFI and Synthesis Report. Answer in about 150 words.
+**Question:** Differentiate approval, adoption and acceptance in the IPCC report process. Why does the distinction matter? (Answer in 150 words)
 
-**Model thesis:** **Claim:** Working Group I. **Named evidence/example:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Working Group II. **Named evidence/example:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Working Group III. **Named evidence/example:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** TFI boundary. **Named evidence/example:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Synthesis Report. **Named evidence/example:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Ownership:** Original Topic 18 core.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (147 words; limit 150):**
 
-- Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-- Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-- Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-- The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-- A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
+IPCC endorsement uses three verbs. **Approval** is detailed line-by-line discussion and agreement, used for a Summary for Policymakers. **Adoption** is section-by-section endorsement, used for the longer Synthesis Report and Methodology Report Overview Chapters. **Acceptance** means a report was not agreed line by line or section by section but is accepted as comprehensive, objective and balanced.
 
-**Qualified conclusion:** **Claim:** Working Group I. **Named evidence/example:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Working Group II. **Named evidence/example:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Working Group III. **Named evidence/example:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** TFI boundary. **Named evidence/example:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Synthesis Report. **Named evidence/example:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+For a Working Group product, the SPM is approved while the underlying report is accepted. Coordinating Lead Authors protect consistency; the Panel later formally accepts the product without rewriting the approved SPM. For a Synthesis Report, the Panel approves the SPM and adopts the longer report. For a Methodology Report, it adopts the Overview Chapter and accepts the detailed report.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate the three Working Groups, TFI and Synthesis Report. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+The distinction shows that government participation is real but is not political authorship of the science. Consensus supplies intergovernmental legitimacy, while author responsibility, transparent review and recorded valid dissent protect scientific integrity.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Working Group I. **Named evidence/example:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Working Group II. **Named evidence/example:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Working Group III. **Named evidence/example:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** TFI boundary. **Named evidence/example:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Synthesis Report. **Named evidence/example:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Working Group I. **Named evidence/example:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Working Group II. **Named evidence/example:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Working Group III. **Named evidence/example:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** TFI boundary. **Named evidence/example:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Synthesis Report. **Named evidence/example:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Differentiate the three Working Groups, TFI and Synthesis Report. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Explain the assessment cycle, review process and Summary for Policymakers. Answer in about 250 words.
+**Question:** Examine how calibrated uncertainty language, scenarios and remaining carbon budgets should be interpreted in IPCC reports. (Answer in 250 words)
 
-**Model thesis:** **Claim:** Assessment-cycle sequence. **Named evidence/example:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Author-review architecture. **Named evidence/example:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Approval-acceptance distinction. **Named evidence/example:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Policy-relevant boundary. **Named evidence/example:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Ownership:** Original Topic 18 analytical.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (187 words; limit 250):**
 
-- An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-- Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-- Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-- IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
+IPCC calibrated language is a discipline for communicating uncertainty, not decorative vocabulary. **Confidence** evaluates a finding from the type, amount, quality and consistency of evidence plus agreement; it uses very low to very high levels. **Likelihood** gives an assessed probability for a defined outcome: likely means 66–100%, very likely 90–100% and virtually certain 99–100%.
 
-**Qualified conclusion:** **Claim:** Assessment-cycle sequence. **Named evidence/example:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Author-review architecture. **Named evidence/example:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Approval-acceptance distinction. **Named evidence/example:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Policy-relevant boundary. **Named evidence/example:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+The two cannot be interchanged. “High confidence” is not a 90% probability, and a likelihood term must remain attached to its precise outcome. Some findings are framed as statements of fact, such as AR6 WGI's “unequivocal” human influence.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the assessment cycle, review process and Summary for Policymakers. Answer in about…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+The same discipline governs scenarios. SSP1-1.9 to SSP5-8.5 are conditional futures under assumptions about society, emissions and forcing; WGI did not assess the probability of each scenario. Carbon budgets are conditional and dated. AR6 WGI's estimates began in 2020: 500 GtCO2 for a 50% chance of 1.5°C and 400 GtCO2 for 67%, subject to non-CO2 and Earth-system uncertainty.
 
-**Detailed examiner-grade model answer:**
+Therefore an answer must state report, baseline, time, scenario and qualifier. Detaching a term, treating a scenario as a forecast or presenting a start-2020 budget as current creates false precision.
 
-**Introduction and thesis:** **Claim:** Assessment-cycle sequence. **Named evidence/example:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Author-review architecture. **Named evidence/example:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Approval-acceptance distinction. **Named evidence/example:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Policy-relevant boundary. **Named evidence/example:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Assessment-cycle sequence. **Named evidence/example:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Author-review architecture. **Named evidence/example:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Approval-acceptance distinction. **Named evidence/example:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Policy-relevant boundary. **Named evidence/example:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain the assessment cycle, review process and Summary for Policymakers. Answer in about…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Distinguish IPCC confidence, likelihood, scenarios and projections. Answer in about 250 words.
+**Question:** Show how AR6 WGI, WGII, WGIII and the Synthesis Report form a connected science–risk–response architecture. Indicate its correct use for India. (Answer in 250 words)
 
-**Model thesis:** **Claim:** Confidence-likelihood distinction. **Named evidence/example:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Confidence discipline. **Named evidence/example:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Likelihood discipline. **Named evidence/example:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Ownership:** Original Topic 18 analytical.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (196 words; limit 250):**
 
-- Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-- A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-- A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-- IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
+AR6 is best read as a connected science–risk–response architecture. WGI establishes observed change, attribution and conditional futures: human influence has unequivocally warmed the atmosphere, ocean and land, and cumulative CO2 links emissions to warming. WGII translates climatic hazards into impacts through exposure and vulnerability. It finds widespread adverse impacts, uneven adaptation progress, adaptation gaps and soft or hard limits. WGIII assesses how emissions can be reduced through sectoral transitions, demand-side change, efficiency, sinks, carbon dioxide removal and enabling finance, institutions and technology.
 
-**Qualified conclusion:** **Claim:** Confidence-likelihood distinction. **Named evidence/example:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Confidence discipline. **Named evidence/example:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Likelihood discipline. **Named evidence/example:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+The Synthesis Report integrates these streams and the three Special Reports. Its logic is sequential: current status and trends; future change, risks and long-term responses; and near-term responses. Its central message is that every increment of warming intensifies hazards, while deep and sustained mitigation with accelerated adaptation reduces losses and damages.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish IPCC confidence, likelihood, scenarios and projections. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+For India, this architecture prevents category errors. WGI supports physical-risk framing; WGII structures vulnerability and adaptation; WGIII supplies an options menu. Yet an IPCC assessment is not an NDC, law or scheme. Indian answers must add Indian official evidence and then analyse national choices, equity and implementation.
 
-**Detailed examiner-grade model answer:**
+AR6 therefore strengthens policy by organising evidence, not by replacing democratic negotiation or administration.
 
-**Introduction and thesis:** **Claim:** Confidence-likelihood distinction. **Named evidence/example:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Confidence discipline. **Named evidence/example:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Likelihood discipline. **Named evidence/example:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Confidence-likelihood distinction. **Named evidence/example:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Confidence discipline. **Named evidence/example:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Likelihood discipline. **Named evidence/example:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish IPCC confidence, likelihood, scenarios and projections. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Evaluate the IPCC as a science-policy interface. Answer in about 300 words.
+**Question:** Trace the evolution of IPCC Assessment Reports and critically assess how the IPCC process creates authority while retaining limitations. (Answer in 250 words)
 
-**Model thesis:** **Claim:** IPCC identity. **Named evidence/example:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assess-not-research mandate. **Named evidence/example:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Synthesis Report. **Named evidence/example:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Author-review architecture. **Named evidence/example:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Approval-acceptance distinction. **Named evidence/example:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Policy-relevant boundary. **Named evidence/example:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Confidence-likelihood distinction. **Named evidence/example:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-lag boundary. **Named evidence/example:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Ownership:** Original Topic 18 evaluative.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (211 words; limit 250):**
 
-- The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-- The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-- A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-- Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-- Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-- IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-- Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-- Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
+The IPCC's evolution combines continuity of mandate with deepening assessment. FAR in 1990 framed climate change as a global cooperation problem and informed creation of the UNFCCC. SAR supplied evidence before Kyoto; TAR sharpened impacts and adaptation; AR4 focused post-Kyoto debate and the 2°C frame; AR5 informed Paris and consolidated carbon-budget reasoning; AR6 integrated stronger attribution, SSP-based futures, adaptation limits and sectoral mitigation pathways.
 
-**Qualified conclusion:** **Claim:** IPCC identity. **Named evidence/example:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assess-not-research mandate. **Named evidence/example:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Synthesis Report. **Named evidence/example:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Author-review architecture. **Named evidence/example:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Approval-acceptance distinction. **Named evidence/example:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Policy-relevant boundary. **Named evidence/example:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Confidence-likelihood distinction. **Named evidence/example:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-lag boundary. **Named evidence/example:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Its authority has four foundations. First, expert teams assess a broad literature rather than a single study. Second, two formal reviews expose drafts to experts and governments, with comments and responses later published. Third, calibrated confidence and likelihood reveal rather than conceal uncertainty. Fourth, government approval of SPMs gives findings shared political ownership while procedural safeguards keep them consistent with accepted reports.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the IPCC as a science-policy interface. Answer in about 300 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+The same design creates limitations. Literature cut-offs and multi-year review produce assessment lag. Global consensus wording can be cautious, and regional evidence is often less certain than global attribution. Scenario results remain conditional; low-likelihood high-impact outcomes require careful risk framing. Government consensus cannot compel national implementation, finance or treaty ambition.
 
-**Detailed examiner-grade model answer:**
+The balanced verdict is that IPCC legitimacy arises from disciplined synthesis and intergovernmental acceptance, not infallibility. Its reports are the common evidence floor for climate governance; policy ambition, distribution and enforcement remain political choices.
 
-**Introduction and thesis:** **Claim:** IPCC identity. **Named evidence/example:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assess-not-research mandate. **Named evidence/example:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Synthesis Report. **Named evidence/example:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Author-review architecture. **Named evidence/example:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Approval-acceptance distinction. **Named evidence/example:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Policy-relevant boundary. **Named evidence/example:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Confidence-likelihood distinction. **Named evidence/example:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-lag boundary. **Named evidence/example:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-8. **Claim and named evidence:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** IPCC identity. **Named evidence/example:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assess-not-research mandate. **Named evidence/example:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Synthesis Report. **Named evidence/example:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Author-review architecture. **Named evidence/example:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Approval-acceptance distinction. **Named evidence/example:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Policy-relevant boundary. **Named evidence/example:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Confidence-likelihood distinction. **Named evidence/example:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-lag boundary. **Named evidence/example:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Evaluate the IPCC as a science-policy interface. Answer in about 300 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Build a status-disciplined answer comparing completed and in-progress assessments. Answer in about 300 words.
+**Question:** Evaluate the official status and products of the Seventh Assessment Cycle as of 29 September 2026. Why must process milestones not be cited as findings? (Answer in 250 words)
 
-**Model thesis:** **Claim:** Special and methodology reports. **Named evidence/example:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-cycle sequence. **Named evidence/example:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-lag boundary. **Named evidence/example:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** AR6-AR7 status. **Named evidence/example:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Science-policy evidence boundary. **Named evidence/example:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Ownership:** Original Topic 18 current-status evaluative.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (213 words; limit 250):**
 
-- Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-- An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-- IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-- Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-- AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-- An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
+At 29 September 2026, AR7 is a programme of work, not a completed replacement for AR6. The cycle began in July 2023; the Panel agreed in January 2024 to produce three Working Group contributions and agreed their outlines in February 2025. Authoring is under way, with the WGIII second Lead Author Meeting running from 28 September to 1 October 2026 before First Order Draft review. The Synthesis Report is due after the Working Group reports, by late 2029; no unverified individual WG publication date should be supplied.
 
-**Qualified conclusion:** **Claim:** Special and methodology reports. **Named evidence/example:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-cycle sequence. **Named evidence/example:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-lag boundary. **Named evidence/example:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** AR6-AR7 status. **Named evidence/example:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Science-policy evidence boundary. **Named evidence/example:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+The cycle also has defined products. The Cities Special Report completed Second Order Draft review in July 2026 and is scheduled for March 2027. The Short-lived Climate Forcers Methodology Report is in government and expert review from 31 August to 25 October 2026, with publication planned for the second half of 2027. The CDR/CCUS inventory-methodology report advanced its First Order Draft at an August 2026 author meeting and is due in 2027. Adaptation guidelines and indicators will accompany WGII as a separate product.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Build a status-disciplined answer comparing completed and in-progress assessments. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+These milestones matter for cities, inventories and the next Global Stocktake, but they contain no final AR7 findings. Until endorsement, AR6 remains the assessment baseline. The correct policy lesson is to prepare data and institutions for forthcoming products without pre-judging their conclusions.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It answers every clause, uses named and correctly attributed evidence, explains the mechanism, preserves the report–policy boundary and ends with a qualification rather than a slogan.
 
-**Introduction and thesis:** **Claim:** Special and methodology reports. **Named evidence/example:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-cycle sequence. **Named evidence/example:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-lag boundary. **Named evidence/example:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** AR6-AR7 status. **Named evidence/example:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Science-policy evidence boundary. **Named evidence/example:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+### Remediation map
 
-**Analytical body:**
-
-1. **Claim and named evidence:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Special and methodology reports. **Named evidence/example:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-cycle sequence. **Named evidence/example:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment-lag boundary. **Named evidence/example:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** AR6-AR7 status. **Named evidence/example:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Science-policy evidence boundary. **Named evidence/example:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Build a status-disciplined answer comparing completed and in-progress assessments. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
+| If the error is… | Revisit |
+|---|---|
+| IPCC/UNFCCC conflation | Institutional map and report–policy firewall |
+| WG mandate swap | AR6 architecture table |
+| “High confidence = 90%” | Calibrated-language section |
+| Scenario treated as forecast | SSP conditionality |
+| SPM and full report treated alike | Approval/adoption/acceptance matrix |
+| Start-2020 budget called current | Carbon-budget date note |
+| Global figure applied uniformly to India | Three-source India rule |
+| AR7 outline called a finding | AR7 current-status firewall |
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims, with GS-II international-institutions linkage.
-> **Core area:** Global climate-science assessment architecture.
-> **Grounded in:** IPCC procedures and AR6 (2021-2023) Working Group/Synthesis reports; IPCC Special Reports (SR1.5, SROCC, SRCCL); audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
-> *Companion: `basic/18_IPCC-Assessment-Reports.md`.*
+### A. Consensus creates legitimacy, but not scientific unanimity
 
-#### 1. The IPCC's "consensus-through-negotiation" design and its analytical implications
+Government agreement on an SPM gives the assessment unusual political usability: states with divergent interests accept a shared summary. That does not mean delegates may manufacture a finding. The SPM must remain consistent with the accepted report, authors participate in the approval session, and scientifically valid unreconciled views must be recorded.
 
-⚠️ A sophisticated point often missed: the IPCC's Summary for Policymakers approval process
-is not merely a formality — it is a deliberate institutional design where government
-delegates (including those representing fossil-fuel-producing or climate-vulnerable
-economies with divergent interests) must reach line-by-line consensus with scientist-authors
-on the exact wording of key findings. This can, on one hand, occasionally lead to more
-cautious or conservative phrasing than some underlying scientific literature might support
-(a documented critique that IPCC reports can be "conservative by design" due to the need for
-unanimous government sign-off), while on the other hand giving the final text unmatched
-political legitimacy and buy-in across the full range of UN member states — a genuine
-trade-off between scientific boldness and political universality that advanced answers
-should articulate rather than treating IPCC reports as either purely objective science or
-purely political documents.
+A balanced critique is therefore possible: consensus and literature cut-offs can encourage cautious, time-bounded wording, but the same procedures supply transparency, common ownership and protection against selective use of single studies. Do not present “conservative by design” as an official IPCC finding; it is an analytical critique whose value depends on evidence in the case discussed.
 
-#### 2. Confidence and likelihood language: the IPCC's calibrated-uncertainty framework
+### B. Confidence, likelihood and risk tails answer different questions
 
-1. ✅ IPCC reports use a standardised, calibrated language system to communicate scientific
-   confidence: qualitative confidence levels (e.g., "high confidence," "medium confidence,"
-   "low confidence") based on the amount and quality of evidence and degree of expert
-   agreement, alongside quantitative likelihood terms (e.g., "virtually certain" ≥99%,
-   "extremely likely" ≥95%, "likely" ≥66%) for probabilistic findings.
-2. ⚠️ **Analytical point:** this calibrated-language system is itself an examinable feature —
-   a Mains or Prelims answer that correctly distinguishes "high confidence" (about the
-   strength of evidence/agreement) from "likely" (about a specific probabilistic estimate)
-   demonstrates a nuanced understanding of how IPCC communicates scientific uncertainty
-   precisely, rather than presenting all findings as uniformly "proven facts."
+- **Confidence:** How valid is the proposition, given evidence and agreement?
+- **Likelihood:** What assessed probability attaches to this defined outcome?
+- **Low-likelihood, high-impact storyline:** Even when probability is low or deeply uncertain, consequences may justify risk management.
+- **Deep uncertainty:** Probabilities, mechanisms or outcomes may not be sufficiently constrained for one numerical likelihood.
 
-#### 3. Special Reports: targeted deep-dives beyond the regular assessment cycle
+This is why a high-impact ice-sheet storyline may be reported outside the likely sea-level range. It should neither be omitted nor presented as the central forecast.
 
-| Special Report | Focus | Key contribution |
-|---|---|---|
-| ✅ Special Report on Global Warming of 1.5°C (SR1.5, 2018) | Impacts of and pathways to limiting warming to 1.5°C versus 2°C. | Provided the scientific basis widely cited in strengthening the Paris Agreement's 1.5°C aspirational goal (Topic 19). |
-| ✅ Special Report on the Ocean and Cryosphere in a Changing Climate (SROCC, 2019) | Ocean warming, sea-level rise, glacier/ice-sheet melt, permafrost thaw. | Directly relevant to India's Himalayan glacier and coastal/marine vulnerability analysis (cross-refer Topic 24). |
-| ✅ Special Report on Climate Change and Land (SRCCL, 2019) | Land degradation, desertification, food security and land-based mitigation. | Connects directly to India's land-degradation and agriculture-climate policy discussions (cross-refer Topic 23). |
+### C. Assessment lag is structural, not proof of irrelevance
 
-⚠️ **Analytical point:** these Special Reports demonstrate that the IPCC's assessment
-function extends beyond the regular multi-year Working Group cycle to address specific,
-policy-urgent questions between full assessment cycles — a useful fact when arguing that
-IPCC's institutional design is responsive, not purely mechanical/periodic.
+An IPCC report assesses literature accepted by specified cut-offs, then passes through review and endorsement. New studies can therefore post-date the assessment. The correct response is to cite the completed report for its assessed period, identify newer evidence separately, and wait for a Special Report or later cycle before calling it an IPCC conclusion.
 
-#### 4. The science-policy interface: IPCC's deliberate non-prescriptiveness
+Special Reports increase responsiveness by concentrating on a defined question between or within full assessments. Methodology Reports solve a different problem: consistent estimation and reporting rather than comprehensive assessment of climate risks.
 
-- ✅ The IPCC's mandate is explicitly to be "policy-relevant but not policy-prescriptive" —
-  it assesses the scientific evidence for various mitigation/adaptation pathways and their
-  associated costs/trade-offs, but deliberately does not recommend which specific policy a
-  government should adopt, preserving its role as a neutral scientific-assessment body
-  rather than a policy advocate.
-- ⚠️ **Analytical significance:** this design choice is precisely what allows the IPCC's
-  findings to be accepted as the common scientific reference point across UNFCCC
-  negotiations by countries with otherwise sharply divergent policy preferences (e.g.,
-  fossil-fuel-exporting versus climate-vulnerable island states) — its credibility as an
-  honest broker depends on this non-prescriptive stance being consistently maintained.
+### D. Scale discipline becomes harder at regional level
 
-#### 5. Data and conceptual limitations
+Global attribution can be stronger than a claim about a particular monsoon district, glacier, coastline or event. A regional result retains its model ensemble, baseline, time horizon and confidence. For India, combine:
 
-- ⚠️ IPCC assessment cycles are necessarily backward-looking to some degree, since they
-  synthesise already-published peer-reviewed literature, meaning the very latest emerging
-  research (published after an assessment's literature cut-off date) is not reflected until
-  the next cycle or a relevant Special Report — a structural, acknowledged lag between
-  cutting-edge science and the assessed consensus.
-- ⚠️ The "conservative by design" critique (Section 1) is a documented viewpoint among some
-  climate scientists and commentators, not a universally accepted characterisation; present
-  it as one recognised critique alongside the credibility benefits of the consensus-
-  approval process, rather than as an established fact discrediting IPCC findings.
-- ⚠️ Regional-scale projections (e.g., specific South Asian monsoon-shift magnitude) carry
-  greater uncertainty than global-average findings, reflecting the greater complexity and
-  data limitations of regional climate modelling — cite the confidence level explicitly when
-  using regional projections in an answer.
+```text
+IPCC global/regional assessment
+        + Indian observation / assessment
+        + exposure and vulnerability evidence
+        + identified policy instrument and implementation record
+        = defensible India-specific conclusion
+```
 
-#### 6. Recurring UPSC analytical tensions
+### E. AR7 and the Global Stocktake timing problem
 
-| Tension | Balanced framing |
-|---|---|
-| Political-consensus approval vs scientific-boldness of specific wording | Both create real value — universal government buy-in and rigorous, well-communicated uncertainty language — but can produce cautious phrasing relative to some underlying literature. |
-| Backward-looking literature-synthesis design vs the need for cutting-edge, real-time science | Special Reports and the next assessment cycle serve as the mechanism to incorporate newer findings; treat any single IPCC report as time-bound to its literature cut-off. |
-| Global-average confidence vs regional-projection uncertainty | Use global findings for high-confidence overarching claims; qualify regional (e.g., South Asian monsoon) claims with their specific, generally lower confidence level. |
+AR7's Synthesis Report is officially due by late 2029, after the 2028 second Global Stocktake. This creates a science-policy synchronisation issue: Working Group material may inform discussions at different stages, but the completed synthesis will not precede that stocktake. State this as a timing observation from official schedules—not as proof that AR7 is irrelevant or that unpublished drafts can be cited.
 
-#### 7. Must-Know Facts for Advanced Prelims
+The AR7 methodology products show another advanced point: **accounting architecture is governance power**. How countries estimate short-lived forcers, removals and CCUS affects comparability and claims, even though methodology itself neither sets a target nor proves mitigation performance.
 
-- ✅ IPCC uses a calibrated dual-language system: qualitative confidence levels (evidence/
-  agreement-based) and quantitative likelihood terms (probability-based) to communicate
-  uncertainty precisely.
-- ✅ The Special Report on Global Warming of 1.5°C (2018) directly informed the Paris
-  Agreement's strengthened 1.5°C goal.
-- ✅ The IPCC's mandate is explicitly "policy-relevant but not policy-prescriptive."
-- ✅ IPCC assessments are inherently time-bound to their literature cut-off date, creating an
-  acknowledged lag before newer research is incorporated in the next cycle or a Special
-  Report.
+### F. High-quality evaluative verdict
 
-#### 8. Advanced Prelims traps
-
-- ❌ "High confidence" and "likely" are interchangeable IPCC terms meaning the same thing. ->
-  "Confidence" reflects evidence/agreement strength; "likelihood" terms (e.g., "likely,"
-  "virtually certain") reflect specific quantitative probability ranges — they are distinct
-  calibration dimensions.
-- ❌ The IPCC recommends specific national policies for governments to adopt. -> Its mandate
-  is deliberately policy-relevant but non-prescriptive; it assesses evidence and options
-  without recommending specific policy choices.
-- ❌ IPCC Special Reports are simply shorter versions of the regular assessment cycle. ->
-  They are targeted, deep-dive assessments on specific urgent topics commissioned between
-  regular assessment cycles (e.g., SR1.5, SROCC, SRCCL).
-- ❌ Regional climate projections carry the same confidence level as global-average
-  findings. -> Regional projections generally carry greater uncertainty due to modelling
-  complexity and data limitations.
-
-#### 9. 📰 Current anchor — analytical use
-
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 IPCC AR6 Synthesis Report (2023) as the most recent completed full assessment cycle (verify whether a newer AR7-cycle report has been released before citing further updates). | Use as the current authoritative reference point, explicitly noting its literature cut-off limitation when discussing very recent developments not yet assessed. |
-| 📰 **AR7 cycle status, verified from ipcc.ch on 2 August 2026:** three Working Group reports agreed at IPCC-60 (Istanbul, January 2024); Special Report on **Climate Change and Cities** outlined at IPCC-61 (Sofia, July-August 2024, Decision IPCC-LXI-5); Working Group outlines agreed at IPCC-62 (Hangzhou, February 2025); the **2027 Methodology Report on Carbon Dioxide Removal Technologies, CCUS** agreed at IPCC-63 (Lima, October 2025); AR7 **Synthesis Report due by late 2029**; plus a **2027 Methodology Report on Inventories for Short-Lived Climate Forcers**. | Three distinct analytical uses. **(1) Timing versus the Global Stocktake:** an AR7 Synthesis Report arriving by late 2029 sits awkwardly against the UNFCCC's five-yearly Global Stocktake rhythm — a genuine science-policy-synchronisation critique (Topic 19). **(2) Methodology as power:** the CDR/CCUS and SLCF methodology reports decide *how removals and methane get counted*, which is often more consequential than headline findings — the accounting rulebook shapes what a country can claim (Topics 20, 21). **(3) Cities as a unit of climate science:** a dedicated Special Report on Cities validates urban local bodies as climate actors, a direct hook for GS-II governance and GS-I urbanisation answers. |
-
-⚠️ **Agreed-outline vs published-finding discipline:** IPCC plenary decisions on outlines,
-workplans and methodology scope are **process milestones**, not scientific conclusions. Never
-attribute a substantive finding to AR7 before its Summary for Policymakers is approved.
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ Prelims questions distinguishing IPCC's three Working Groups, its founding
-  organisations, and its non-research mandate should be answered by directly applying the
-  assess-don't-research and policy-relevant-not-prescriptive framings.
-- ⚠️ Mains answers on "the role of science in global climate governance" should explicitly
-  discuss the consensus-approval trade-off (Section 1) and the calibrated-uncertainty
-  language system (Section 2) to demonstrate advanced understanding of how IPCC findings
-  are constructed and communicated.
-
-#### 11. Mains-ready framework
-
-**Central thesis:** The IPCC's unique institutional design — synthesising (not conducting)
-climate science through three Working Groups, communicating findings via a calibrated
-confidence/likelihood language system, and securing government-negotiated consensus on its
-Summary for Policymakers — gives its assessments unmatched dual scientific-and-political
-authority as the common evidentiary foundation for global climate governance, even as this
-same consensus-driven design creates an acknowledged trade-off with scientific boldness and
-real-time responsiveness.
-
-1. Define the IPCC's assess-don't-research mandate and three-Working-Group structure.
-2. Explain the calibrated confidence/likelihood language system precisely.
-3. Introduce the consensus-approval trade-off (political legitimacy versus potential
-   phrasing conservatism) as a balanced critique.
-4. Cite relevant Special Reports (SR1.5, SROCC, SRCCL) as evidence of the IPCC's
-   responsiveness beyond the regular assessment cycle.
-5. Conclude with the IPCC's role as the science-policy interface underpinning, but distinct
-   from, the UNFCCC negotiation process.
-
-#### 12. Probable questions
-
-- ⚠️ **Prelims:** Distinguish IPCC's confidence-level language from its likelihood-term
-  language with examples.
-- ⚠️ **Mains (10 marks):** Why is the IPCC's Summary for Policymakers approval process
-  described as both a scientific and political achievement?
-- ⚠️ **Mains (15 marks):** Discuss the significance of IPCC Special Reports (e.g., SR1.5)
-  in shaping international climate-policy commitments.
-
-#### 13. Study links
-
-- ✅ Foundation companion: `basic/18_IPCC-Assessment-Reports.md`.
-- ✅ `17_Climate-Change-Science-Greenhouse-Effect.md` — the Working Group I science this
-  topic's assessment architecture organises.
-- ✅ `19_UNFCCC-COP-Kyoto-Paris-Agreement.md` — the policy-negotiation process informed by
-  IPCC assessments.
-- ✅ `24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md` — SROCC's ocean/cryosphere findings
-  relevant to India's coastal vulnerability.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-
-- **Years represented:** 2023
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2023 | GS-III | 18 | IPCC sea level rise prediction and impact on Indian Ocean | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-
-##### What this owner must now support
-
-- IPCC sea level rise prediction and impact on Indian Ocean
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+> The IPCC's strength is not that it eliminates uncertainty or compels action. Its strength is that it converts a vast, contested literature into a transparent, calibrated and government-endorsed evidence floor. Its limitation is the gap between assessed knowledge and political implementation, compounded by assessment lag and regional uncertainty.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### IPCC Assessment Reports: IPCC BODY, WORKING GROUP, TFI AND REPORT-FAMILY MAP
+### Institutional identity and role firewall
 
-1. **IPCC identity:** The Intergovernmental Panel on Climate Change is an intergovernmental scientific-assessment body that provides policy-relevant climate information; it is not the UNFCCC negotiating forum.
-2. **WMO-UNEP origin:** The IPCC was created in 1988 by the World Meteorological Organization and the United Nations Environment Programme; founding bodies, current members and report authors are distinct categories.
-3. **Assess-not-research mandate:** The IPCC assesses published scientific, technical and socio-economic literature and identifies agreement and knowledge gaps; it does not conduct its own original research.
-4. **Working Group I:** Working Group I assesses the physical science basis of climate change, including observations, drivers, attribution and conditional projections.
-5. **Working Group II:** Working Group II assesses impacts, adaptation and vulnerability; it is not the mitigation-options working group.
-6. **Working Group III:** Working Group III assesses mitigation of climate change, including pathways, sectors and enabling conditions; it does not negotiate national commitments.
-7. **TFI boundary:** The Task Force on National Greenhouse Gas Inventories develops and refines inventory methodologies; it is a distinct IPCC body, not a fourth thematic Working Group.
-8. **Synthesis Report:** A Synthesis Report integrates assessment-cycle findings across the Working Group contributions and relevant products; it is not simply another Working Group report.
-9. **Special and methodology reports:** Special Reports assess defined policy-relevant themes, while Methodology Reports support measurement and inventory methods; neither label means a completed full assessment cycle.
-10. **Assessment-cycle sequence:** An assessment cycle proceeds through scoped products, author selection, drafts, review, revision and plenary consideration; a planned outline or workplan is not a published scientific finding.
-11. **Author-review architecture:** Experts author reports and multiple rounds of expert and government review test completeness, balance and traceability; reviewers do not automatically become report authors.
-12. **Approval-acceptance distinction:** Summaries for Policymakers are considered line by line with governments and authors, while longer reports follow their applicable acceptance or approval procedure; government involvement must not be misdescribed as governments conducting the science.
-13. **Policy-relevant boundary:** IPCC assessments are policy-relevant but not policy-prescriptive: they assess evidence, risks and response options without selecting a national policy or negotiating a treaty target.
-14. **Confidence-likelihood distinction:** Confidence communicates the validity of a finding through evidence and agreement, whereas likelihood expresses an assessed probability for a well-defined outcome; the two calibrated dimensions are not synonyms.
-15. **Confidence discipline:** A confidence term must remain attached to the precise finding, evidence base, scale and report that used it; it cannot be transferred to a broader claim.
-16. **Likelihood discipline:** A likelihood term is meaningful only within the IPCC calibrated framework and the statement to which it applies; no probability threshold is quoted unless verified from the cited report guidance.
-17. **Scenario-not-forecast:** IPCC scenarios and pathways explore conditional futures under stated assumptions; an assessed scenario is not an unconditional forecast or a promise that policy will follow it.
-18. **Assessment-lag boundary:** Assessments synthesise literature available within defined cut-offs, so the completed report remains authoritative for its scope but does not automatically include later studies or events.
-19. **AR6-AR7 status:** AR6 is the latest completed assessment cycle in the official material checked, while AR7 is a cycle in progress with planned products; an AR7 outline or schedule is not an AR7 finding.
-20. **Science-policy evidence boundary:** An IPCC finding, UNFCCC decision, national NDC, media summary and model output have different authorship and legal status; every answer must cite the exact report, cycle, working group and status.
+- Created in **1988 by WMO and UNEP**; UN body for assessing climate-change science.
+- Panel = member governments; consensus; programme, scope, outlines, elections and formal endorsement.
+- Bureau = scientific/technical guidance and cycle management.
+- Secretariat = coordination/administration; TSUs = production support.
+- Authors assess literature; Review Editors audit treatment of comments.
+- Neutral with respect to policy; **assesses options, does not prescribe national policy**.
+- Not a research lab, treaty COP, regulator, fund, NDC setter, enforcement body or inventory compiler.
 
-### IPCC Assessment Reports: CYCLE, SPM, CONFIDENCE, LIKELIHOOD AND SCENARIO TRAPS
+### Three Working Groups plus TFI
 
-- Do not call the IPCC a negotiating body, treaty secretariat or climate regulator.
-- Do not say the IPCC conducts its own primary experiments or observations.
-- Do not swap the mandates of Working Groups I, II and III.
-- Do not call the Task Force on Inventories a fourth Working Group.
-- Do not merge a Working Group report with the Synthesis Report.
-- Do not treat a Special Report or Methodology Report as a full assessment cycle.
-- Do not convert an outline, scoping decision or workplan into a published finding.
-- Do not describe government SPM consideration as government authorship of the science.
-- Do not treat policy-relevant as policy-prescriptive.
-- Do not use confidence and likelihood as interchangeable labels.
-- Do not transfer calibrated language from one finding or scale to another.
-- Do not call a scenario a forecast.
-- Do not present AR7 process milestones as replacement evidence for AR6.
-- Do not invent a report publication date, status, confidence or likelihood threshold.
-- Do not convert IPCC assessment language into a legal obligation for a Party.
+- **WGI:** physical science, attribution, scenarios, carbon cycle, projections.
+- **WGII:** impacts, exposure, vulnerability, risk, adaptation, limits, climate-resilient development.
+- **WGIII:** mitigation pathways/options, sectors, demand, finance, governance and feasibility.
+- **TFI:** inventory methods, software and emission-factor support; not “WG IV”.
 
-### IPCC Assessment Reports: IPCC SCIENCE-POLICY ANSWER SPINE
+### Report-production rail
 
 ```text
-DEFINE THE IPCC AS AN ASSESSMENT BODY CREATED BY WMO AND UNEP
--> STATE THAT IT ASSESSES PUBLISHED LITERATURE AND DOES NOT RESEARCH
--> SEPARATE WG I, WG II, WG III, TFI AND THE SYNTHESIS REPORT
--> TRACE SCOPE, AUTHORS, REVIEW, SPM AND PRODUCT-SPECIFIC STATUS
--> DISTINGUISH CONFIDENCE FROM LIKELIHOOD
--> LABEL SCENARIOS AND PROJECTIONS AS CONDITIONAL, NOT FORECASTS
--> CONNECT IPCC EVIDENCE TO UNFCCC POLICY WITHOUT MERGING THEIR ROLES
+programme → scope/outline → nominations/selection
+→ FOD expert review → SOD + draft SPM government/expert review
+→ final SPM government comments → plenary → publication + review record
 ```
 
-### IPCC Assessment Reports: LIVE REPORT, PUBLICATION, STATUS AND CALIBRATION EVIDENCE BOUNDARY
+- Assessment Report = three WG contributions; Synthesis integrates them and relevant Special Reports.
+- Special Report = focused assessment; Methodology Report = inventory guidance.
+- Technical Paper = focused synthesis from existing IPCC reports.
 
-The official IPCC About page and AR7 page returned substantive process information. The AR6 landing page and glossary response were thin, and a Working Group URL redirected to an unrelated event. AR7 is recorded only as a cycle in progress; no planned report, outline, date, confidence term, likelihood threshold, scenario or projection was treated as a finding.
+### Endorsement vocabulary
 
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+- **Approval:** line by line → SPM.
+- **Adoption:** section by section → longer SYR; methodology Overview Chapter.
+- **Acceptance:** underlying comprehensive/objective/balanced report, not line/section agreed.
+- WG route: approve SPM + accept underlying report; consistency safeguard applies.
+- SYR route: Panel approves SPM + adopts longer report.
 
-#### ASCII MASTER FLOW — PANEL 1/12: Institutional identity map
+### Calibrated uncertainty
 
-```ascii-master
-IPCC -> scientific assessment by an intergovernmental body
-UNFCCC -> treaty framework and negotiation process
-COP OR CMA -> party decision-making forum
-NATIONAL GOVERNMENT -> policy and implementation
-RULE -> assessment evidence is not a negotiated obligation
-MUST REMEMBER: IPCC assesses published evidence through Working Groups and synthesis...
-MUST REMEMBER: IPCC assesses published evidence through Working Groups and synthesis...
-```
+- Confidence = evidence + agreement: very low / low / medium / high / very high.
+- Likelihood: virtually certain 99–100; very likely 90–100; likely 66–100; about as likely as not 33–66; unlikely 0–33; very unlikely 0–10; exceptionally unlikely 0–1.
+- Never transfer a qualifier to a broader claim.
+- Low-likelihood high-impact ≠ central forecast; ≠ zero risk.
 
-#### ASCII MASTER FLOW — PANEL 2/12: Assessment-production rail
+### Assessment chronology
 
-```ascii-master
-PUBLISHED LITERATURE -> assessed evidence base
-AUTHORS -> evaluate findings, agreement and gaps
-DRAFTS -> expert and government review
-REVISION -> comments addressed and traceability strengthened
-PLENARY STATUS -> product-specific approval or acceptance
-```
+- FAR 1990 → UNFCCC impetus.
+- SAR 1995 → Kyoto run-up.
+- TAR 2001 → impacts/adaptation focus.
+- AR4 2007 → post-Kyoto and 2°C focus.
+- AR5 2013–14 → Paris input; carbon-budget/pathway reasoning.
+- AR6 2021–23 → stronger attribution + SSP futures + adaptation limits + mitigation pathways.
+- Reports inform treaties; they do not negotiate them.
 
-#### ASCII MASTER FLOW — PANEL 3/12: Three-Working-Group matrix
+### AR6 evidence spine
 
-```ascii-master
-WG I -> physical science, observations, drivers and projections
-WG II -> impacts, adaptation and vulnerability
-WG III -> mitigation pathways and enabling conditions
-NO NEGOTIATION -> none sets a Party's NDC
-INTEGRATION -> Synthesis Report joins assessment findings
-```
+- **WGI:** human influence unequivocally warmed atmosphere, ocean and land.
+- SSPs are conditional; WGI did not assign individual scenario probability.
+- Start-2020 budgets: 1.5°C at 50% = 500 GtCO2; at 67% = 400; 2°C at 67% = 1,150.
+- SSP5-8.5 sea level by 2100: likely 0.63–1.01 m vs 1995–2014; local relative level varies.
+- **WGII:** widespread adverse impacts; risk = hazard × exposure × vulnerability; uneven adaptation, gaps, soft/hard limits.
+- **WGIII:** limiting pathways require rapid/deep cuts; CDR counterbalances residuals but has constraints; assessed option ≠ recommendation.
+- **SYR:** status/trends → future risks/long-term responses → near-term responses; every increment raises hazards.
 
-#### ASCII MASTER FLOW — PANEL 4/12: TFI firewall
+### Special reports and inventories
 
-```ascii-master
-IPCC BODY -> Task Force on National Greenhouse Gas Inventories
-FUNCTION -> methodology development and refinement
-OUTPUT -> inventory guidance and methodology reports
-NOT WG IV -> no fourth thematic assessment mandate
-LINK -> supports comparable national reporting methods
-```
+- SR1.5 (2018); SRCCL (2019); SROCC (2019).
+- 2006 Inventory Guidelines + 2019 Refinement used together.
+- Inventory method ≠ inventory result ≠ mitigation target ≠ policy outcome.
 
-#### ASCII MASTER FLOW — PANEL 5/12: Report-family hierarchy
+### India answer protocol
 
-```ascii-master
-ASSESSMENT CYCLE -> Working Group contributions
-SYNTHESIS REPORT -> integration across the cycle
-SPECIAL REPORT -> defined urgent theme
-METHODOLOGY REPORT -> measurement or inventory method
-STATUS -> title, outline and publication are different facts
-```
+- India participates through nomination, review and plenary; Indian experts serve as authors.
+- Cite IPCC for global/regional assessment.
+- Cite Indian official evidence for India-specific observation or policy.
+- An IPCC finding is not an NDC, law, scheme, budget or clearance.
 
-#### ASCII MASTER FLOW — PANEL 6/12: Cycle status gate
+### AR7 status at 29 September 2026
 
-```ascii-master
-SCOPING OR OUTLINE -> intended coverage
-AUTHORING -> draft evidence assessment
-REVIEW -> expert and government comments
-APPROVAL OR ACCEPTANCE -> product-specific plenary act
-PUBLICATION -> citable completed product
-```
+- Cycle began July 2023; production of three WG contributions agreed January 2024; outlines agreed February 2025.
+- WGIII Lead Author Meeting: 28 September–1 October 2026; no final finding.
+- Cities Special Report: due March 2027.
+- SLCF Methodology Report: SOD review 31 August–25 October 2026; due second half 2027.
+- CDR/CCUS Methodology Report: First Order Draft advanced August 2026; due 2027.
+- AR7 Synthesis Report: due late 2029.
+- **AR6 remains the latest completed assessment.**
 
-#### ASCII MASTER FLOW — PANEL 7/12: SPM governance ladder
+### PYQ and answer route
 
-```ascii-master
-SCIENTIST AUTHORS -> defend assessed basis
-GOVERNMENT DELEGATIONS -> consider wording line by line
-CONSISTENCY GATE -> summary must remain tied to report
-APPROVED SPM -> policy-relevant high-level text
-LIMIT -> not a treaty target or national law
-```
+- Direct anchor: **2023 GS-III Q18**, IPCC sea-level assessment and Indian Ocean impacts.
+- Correct the stem analytically: scenario + baseline + likelihood + regional-relative qualification.
+- Answer chain: mechanism → differentiated exposure → ecosystems/livelihoods/infrastructure → mitigation + adaptation → location-specific caveat.
 
-#### ASCII MASTER FLOW — PANEL 8/12: Calibrated-language matrix
+### Final examiner traps
 
-```ascii-master
-CONFIDENCE -> evidence and agreement supporting a finding
-LIKELIHOOD -> assessed probability of a defined outcome
-SCALE -> global, regional and local claims differ
-ATTACHMENT -> term stays with its exact sentence
-NO BORROWING -> one calibrated term cannot validate another claim
-```
+- Panel ≠ Bureau ≠ Secretariat ≠ authors.
+- WGs I/II/III ≠ TFI.
+- SPM approval ≠ underlying-report approval.
+- Confidence ≠ likelihood.
+- Scenario ≠ forecast.
+- Start-2020 budget ≠ current remainder.
+- Global mean ≠ Indian local projection.
+- Assessment ≠ treaty decision or national policy.
+- AR7 milestone ≠ AR7 finding.
 
-#### ASCII MASTER FLOW — PANEL 9/12: Scenario firewall
-
-```ascii-master
-ASSUMPTIONS -> socioeconomic or emissions pathway
-MODEL RESPONSE -> conditional climate projection
-RISK ASSESSMENT -> impacts under the stated pathway
-POLICY OPTION -> separately evaluated
-NOT FORECAST -> no unconditional prediction
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Assessment-lag timeline
-
-```ascii-master
-LITERATURE CUT-OFF -> evidence eligible for assessment
-DRAFT AND REVIEW -> synthesis takes time
-PUBLICATION -> completed assessment baseline
-NEW STUDIES -> may post-date the cut-off
-NEXT PRODUCT -> later incorporation is not automatic
-CLOSE DISTINCTION: Assessment report is not treaty decision, scenario is not forecast,...
-CLOSE DISTINCTION: Assessment report is not treaty decision, scenario is not forecast,...
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: AR6-AR7 status board
-
-```ascii-master
-AR6 -> completed assessment cycle
-AR7 -> cycle in progress in official material checked
-OUTLINE -> planned coverage, not evidence
-SCHEDULE -> intended timing, not publication
-EXAM RULE -> cite report, year, group and status exactly
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name report, working group, release date,...
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name report, working group, release date,...
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: IPCC answer spine
-
-```ascii-master
-DEFINE -> assessment body, origin and non-research mandate
-ORGANISE -> WG I, WG II, WG III, TFI and Synthesis
-TRACE -> authors, review, SPM and product status
-QUALIFY -> confidence, likelihood, scenario and cut-off
-CONNECT -> informs UNFCCC but does not negotiate policy
-```
+> **Qualified conclusion:** Use the IPCC as a dated, calibrated evidence architecture. Attribute every claim to the correct product and Working Group, then keep scientific assessment, treaty negotiation and Indian policy implementation institutionally separate.

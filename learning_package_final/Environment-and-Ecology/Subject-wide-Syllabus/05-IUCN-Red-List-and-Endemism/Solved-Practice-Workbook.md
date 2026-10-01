@@ -1,1227 +1,1295 @@
 # IUCN Red List and Endemism — Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-06. Uses the same source-bounded ecological distinctions and strict A-B-C-D rotation.
+> **Repaired:** 28 September 2026
+> **Practice inventory:** exactly 40 original MCQs; 10 verified direct/shared/application objective PYQs; six original Mains questions (`2 × 10`, `2 × 15`, `2 × 20`).
+> **Key discipline:** original MCQs rotate `A → B → C → D` ten times. Every option is explained.
+> **PYQ honesty:** 2018–2023 official local keys are unavailable; those answers are labelled inferred. The 2024 and 2025 Set-A keys are official. The 2026 local key is provisional.
+> **Dated species controls:** Western hoolock — assessed **12 September 2017**, published 2019; Narcondam Hornbill — assessed/published **20 August 2020**; Gooty tarantula — assessed/published **1 January 2008**. The IUCN records were checked on 28 September 2026.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Red List function?
+### MCQ 01 — Category sequence
 
-A. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-B. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-C. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-D. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
+Which sequence correctly arranges the assessed categories from lower to higher extinction risk?
 
-**Answer: A.**
-**Explanation:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. LC → NT → VU → EN → CR → EW → EX
+B. LC → VU → NT → EN → CR → EX → EW
+C. NT → LC → VU → CR → EN → EW → EX
+D. DD → LC → NT → VU → EN → CR → EX
 
-### Q2. Which option preserves the ecological boundary of Red List function?
+**Answer: A**
 
-A. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-B. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-C. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-D. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
+**Option analysis**
 
-**Answer: B.**
-**Explanation:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A — Correct.** This is the official risk order among these assessed categories.
+- **B — Incorrect.** NT precedes VU, and EW precedes EX.
+- **C — Incorrect.** LC is below NT, while EN is below CR.
+- **D — Incorrect.** DD is an information-deficiency category, not a low-risk rung that can be placed before LC.
 
-### Q3. Which statement uses Red List function without changing its scale, parameter or status?
+**Remediation:** Memorise the risk rail separately from NE and DD.
 
-A. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-B. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-C. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-D. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
+---
 
-**Answer: C.**
-**Explanation:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 02 — Threatened, evaluated and extinct
 
-### Q4. Which option avoids the standard UPSC close-option trap about Red List function?
+Consider the following statements:
 
-A. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-B. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-C. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-D. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
+1. “Threatened” collectively covers VU, EN and CR.
+2. DD is not a threatened category.
+3. EW is included within the threatened categories.
 
-**Answer: D.**
-**Explanation:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which of the statements given above are correct?
 
-### Q5. Which statement correctly identifies Nine assessment categories?
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-A. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-B. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-C. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-D. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q6. Which option preserves the ecological boundary of Nine assessment categories?
+- **A — Incorrect.** Statement 2 is also correct.
+- **B — Correct.** VU, EN and CR are threatened; DD is not.
+- **C — Incorrect.** EW records extinction in the wild and is not part of the threatened subset.
+- **D — Incorrect.** Statement 3 makes this combination wrong.
 
-A. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-B. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-C. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-D. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
+**Remediation:** Threatened is a three-category subset, not every serious-looking Red List label.
 
-**Answer: B.**
-**Explanation:** The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q7. Which statement uses Nine assessment categories without changing its scale, parameter or status?
+### MCQ 03 — Category definitions
 
-A. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-B. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-C. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-D. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
+Which set contains only correctly matched pairs?
 
-**Answer: C.**
-**Explanation:** The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+1. NE — criteria have not yet been applied
+2. DD — evidence is inadequate for a risk assessment
+3. NT — already within the threatened categories
+4. EW — survives only in captivity/cultivation or as a naturalised population outside the past range
 
-### Q8. Which option avoids the standard UPSC close-option trap about Nine assessment categories?
+A. 1 and 3 only
+B. 2 and 3 only
+C. 1, 2 and 4 only
+D. 1, 2, 3 and 4
 
-A. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-B. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-C. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-D. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q9. Which statement correctly identifies Threatened collective term?
+- **A — Incorrect.** Pair 3 is wrong; NT is not threatened.
+- **B — Incorrect.** Pair 3 is wrong, while pair 1 is correct.
+- **C — Correct.** NE, DD and EW are matched accurately.
+- **D — Incorrect.** It includes the incorrect NT pairing.
 
-A. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-B. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-C. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-D. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
+**Remediation:** “Close to qualifying” is not the same as “already threatened.”
 
-**Answer: A.**
-**Explanation:** Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q10. Which option preserves the ecological boundary of Threatened collective term?
+### MCQ 04 — Extinct in the Wild
 
-A. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-B. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-C. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-D. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
+A plant no longer occurs within its historic natural range but survives in botanical gardens and as a naturalised population on another continent. Which global category best fits this description, assuming the survey requirements are met?
 
-**Answer: B.**
-**Explanation:** Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Critically Endangered
+B. Regionally Extinct
+C. Extinct
+D. Extinct in the Wild
 
-### Q11. Which statement uses Threatened collective term without changing its scale, parameter or status?
+**Answer: D**
 
-A. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-B. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-C. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-D. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
+**Option analysis**
 
-**Answer: C.**
-**Explanation:** Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A — Incorrect.** CR still requires a wild population facing extremely high risk.
+- **B — Incorrect.** RE is a regional category; the stem describes the global condition.
+- **C — Incorrect.** The taxon still survives.
+- **D — Correct.** EW includes survival in cultivation/captivity or as a naturalised population well outside the past range.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Threatened collective term?
+**Remediation:** EX means no surviving individual; EW means no surviving wild population in the natural range.
 
-A. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-B. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-C. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-D. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
+---
 
-**Answer: D.**
-**Explanation:** Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 05 — Criteria A–E
 
-### Q13. Which statement correctly identifies Not Evaluated and Data Deficient?
+Which mapping is correct?
 
-A. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-B. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-C. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-D. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
+A. A—reduction; B—geographic range; C—small and declining population; D—very small/restricted population; E—quantitative extinction probability
+B. A—restricted range; B—population reduction; C—quantitative probability; D—trade exposure; E—small and declining population
+C. A—legal protection; B—habitat condition; C—endemic distribution; D—population rarity; E—long-term population trend
+D. A—population abundance; B—biome extent; C—climate niche; D—domestic legal status; E—international trade pressure
 
-**Answer: A.**
-**Explanation:** Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q14. Which option preserves the ecological boundary of Not Evaluated and Data Deficient?
+**Option analysis**
 
-A. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-B. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-C. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-D. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
+- **A — Correct.** It states the five official criterion families.
+- **B — Incorrect.** It swaps A and B and introduces trade pressure as a standalone criterion.
+- **C — Incorrect.** Legal protection and endemism are not Red List criteria.
+- **D — Incorrect.** Domestic law and international trade belong to different governance systems.
 
-**Answer: B.**
-**Explanation:** Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Use the mnemonic: **A decline, B range, C small+declining, D very small, E extinction model**.
 
-### Q15. Which statement uses Not Evaluated and Data Deficient without changing its scale, parameter or status?
+---
 
-A. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-B. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-C. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-D. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
+### MCQ 06 — Applying Criterion B
 
-**Answer: C.**
-**Explanation:** Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A taxon has an extent of occurrence of 4,000 km², occurs at four locations and is undergoing a continuing decline in habitat quality. On these facts alone, which conclusion is most accurate?
 
-### Q16. Which option avoids the standard UPSC close-option trap about Not Evaluated and Data Deficient?
+A. It qualifies as CR B1 because four locations automatically establish the highest-risk range route.
+B. It can meet EN B1 because the range threshold and two qualifying subconditions are satisfied.
+C. It cannot meet B1 until a percentage population reduction is separately demonstrated.
+D. It must use D2 because occurrence at four locations excludes assessment under Criterion B.
 
-A. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-B. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-C. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-D. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q17. Which statement correctly identifies Category and population trend?
+- **A — Incorrect.** The CR B1 EOO threshold is below 100 km², not 4,000 km².
+- **B — Correct.** EN B1 uses EOO below 5,000 km² plus at least two subconditions; four locations and continuing decline provide two.
+- **C — Incorrect.** Criterion B does not require a Criterion A percentage decline.
+- **D — Incorrect.** Small location number is a B subcondition; it does not force use of D.
 
-A. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-B. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-C. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-D. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
+**Remediation:** Range threshold **plus two of three** is the Criterion B gate.
 
-**Answer: A.**
-**Explanation:** A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q18. Which option preserves the ecological boundary of Category and population trend?
+### MCQ 07 — Criteria C and D
 
-A. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-B. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-C. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-D. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
+Which statement best distinguishes Criteria C and D?
 
-**Answer: B.**
-**Explanation:** A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. C uses restricted range with fragmentation, while D uses only a declining population trend.
+B. C is the small-population route for plants, while D is the equivalent route for animals.
+C. C combines small population with continuing decline; D can use very small population without that decline condition.
+D. C and D use the same thresholds but differ only in the evidence source accepted.
 
-### Q19. Which statement uses Category and population trend without changing its scale, parameter or status?
+**Answer: C**
 
-A. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-B. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-C. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-D. Criterion D addresses a very small or very restricted population under the applicable category threshold.
+**Option analysis**
 
-**Answer: C.**
-**Explanation:** A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A — Incorrect.** Range is principally Criterion B.
+- **B — Incorrect.** The criteria are taxon-neutral within their scope.
+- **C — Correct.** Continuing decline is central to C, whereas D1 is a very-small-population route.
+- **D — Incorrect.** Their structures and thresholds differ.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Category and population trend?
+**Remediation:** The word **continuing** should immediately suggest Criterion C.
 
-A. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-B. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-C. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-D. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
+---
 
-**Answer: D.**
-**Explanation:** A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 08 — Criterion E
 
-### Q21. Which statement correctly identifies Category and criterion?
+Which evidence belongs most directly to Criterion E?
 
-A. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-B. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-C. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-D. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
+A. A distribution map documenting severe fragmentation across a restricted range
+B. A census estimating fewer than 250 mature individuals in the population
+C. A time series documenting continuing deterioration in habitat quality
+D. A population-viability analysis estimating extinction probability over a specified horizon
 
-**Answer: A.**
-**Explanation:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q22. Which option preserves the ecological boundary of Category and criterion?
+**Option analysis**
 
-A. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-B. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-C. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-D. Criterion D addresses a very small or very restricted population under the applicable category threshold.
+- **A — Incorrect.** Fragmentation is principally a Criterion B subcondition.
+- **B — Incorrect.** A mature-individual threshold points to C or D.
+- **C — Incorrect.** Habitat decline can support A or B but is not itself E.
+- **D — Correct.** Criterion E is the quantitative extinction-probability route.
 
-**Answer: B.**
-**Explanation:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** E means a modelled probability, not merely any numerical ecological evidence.
 
-### Q23. Which statement uses Category and criterion without changing its scale, parameter or status?
+---
 
-A. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-B. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-C. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-D. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
+### MCQ 09 — A1 versus A2
 
-**Answer: C.**
-**Explanation:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which statement correctly distinguishes Criterion A1 from A2?
 
-### Q24. Which option avoids the standard UPSC close-option trap about Category and criterion?
+A. A1 uses higher reduction thresholds when causes are reversible, understood and ceased; A2 need not meet those causal conditions.
+B. A1 measures past global decline, whereas A2 measures only decline inside a national or regional population.
+C. A1 measures extent of occurrence, whereas A2 measures area of occupancy over the same period.
+D. A1 classifies threatened taxa with complete data, whereas A2 is reserved for Data Deficient assessments.
 
-A. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-B. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-C. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-D. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q25. Which statement correctly identifies Criterion A?
+- **A — Correct.** CR/EN/VU A1 thresholds are 90/70/50%, while A2 thresholds are 80/50/30%.
+- **B — Incorrect.** Both are parts of global Criterion A and can also be used in regional applications.
+- **C — Incorrect.** EOO and AOO belong to Criterion B.
+- **D — Incorrect.** DD is not assigned through a threatened-category criterion.
 
-A. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-B. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-C. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-D. Criterion D addresses a very small or very restricted population under the applicable category threshold.
+**Remediation:** A1’s stricter percentages accompany the more favourable causal condition.
 
-**Answer: A.**
-**Explanation:** Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q26. Which option preserves the ecological boundary of Criterion A?
+### MCQ 10 — Complete-route logic
 
-A. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-B. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-C. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-D. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
+Consider the following statements:
 
-**Answer: B.**
-**Explanation:** Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+1. Meeting any one complete criterion route can be sufficient for VU, EN or CR.
+2. Satisfying only the EOO threshold automatically completes Criterion B.
+3. Where more than one criterion is met, the qualifying criteria should be documented.
 
-### Q27. Which statement uses Criterion A without changing its scale, parameter or status?
+Which of the statements given above are correct?
 
-A. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-B. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-C. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-D. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
+A. 1 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-**Answer: C.**
-**Explanation:** Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q28. Which option avoids the standard UPSC close-option trap about Criterion A?
+**Option analysis**
 
-A. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-B. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-C. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-D. Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
+- **A — Incorrect.** Statement 3 is also correct.
+- **B — Correct.** One full route suffices, and multiple qualifying routes should be recorded.
+- **C — Incorrect.** Statement 2 omits Criterion B’s required subconditions.
+- **D — Incorrect.** It includes the incomplete-route error.
 
-**Answer: D.**
-**Explanation:** Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** “Any one criterion” never means “any one number from a criterion.”
 
-### Q29. Which statement correctly identifies Criterion B?
+---
 
-A. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-B. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-C. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-D. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
+### MCQ 11 — Assessment unit
 
-**Answer: A.**
-**Explanation:** Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which is the most defensible Red List assessment statement?
 
-### Q30. Which option preserves the ecological boundary of Criterion B?
+A. “The sanctuary is Endangered because it contains a globally threatened animal population.”
+B. “The Indian population is globally Critically Endangered regardless of the species’ wider natural range.”
+C. “The named taxon is globally EN under stated criteria in a dated assessment.”
+D. “Every regional population must carry the same category as the species’ global assessment.”
 
-A. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-B. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-C. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-D. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q31. Which statement uses Criterion B without changing its scale, parameter or status?
+- **A — Incorrect.** A sanctuary is a place, not the assessed taxon.
+- **B — Incorrect.** It mixes a regional population with a global label without clarifying the assessment.
+- **C — Correct.** It fixes taxon, scale, category/criteria and date.
+- **D — Incorrect.** Regional populations may have different regional categories.
 
-A. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-B. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-C. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-D. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
+**Remediation:** A bare category is incomplete evidence.
 
-**Answer: C.**
-**Explanation:** Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q32. Which option avoids the standard UPSC close-option trap about Criterion B?
+### MCQ 12 — Global and regional categories
 
-A. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-B. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-C. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-D. Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
+A species is widespread and stable globally but has a tiny, declining population at the edge of its range in one country. Which outcome is possible under IUCN guidance?
 
-**Answer: D.**
-**Explanation:** Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. The global assessment must become CR because one country’s population is small.
+B. The national assessment must equal the global assessment.
+C. The national population cannot be assessed because the species is not endemic.
+D. The species may be LC globally and CR in the national assessment.
 
-### Q33. Which statement correctly identifies Criterion C?
+**Answer: D**
 
-A. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-B. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-C. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-D. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
+**Option analysis**
 
-**Answer: A.**
-**Explanation:** Criterion C combines small population size with continuing decline and its applicable population structure conditions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A — Incorrect.** A marginal regional population does not dictate whole-range risk.
+- **B — Incorrect.** The scales answer different questions.
+- **C — Incorrect.** Non-endemic regional populations can be assessed.
+- **D — Correct.** IUCN expressly recognises this possible divergence.
 
-### Q34. Which option preserves the ecological boundary of Criterion C?
+**Remediation:** Always ask “risk where?”
 
-A. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-B. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-C. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-D. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
+---
 
-**Answer: B.**
-**Explanation:** Criterion C combines small population size with continuing decline and its applicable population structure conditions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 13 — Regional-only categories
 
-### Q35. Which statement uses Criterion C without changing its scale, parameter or status?
+Which pair is added for regional/national Red List work?
 
-A. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-B. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-C. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-D. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
+A. Regionally Extinct and Not Applicable
+B. Conservation Dependent and Rare
+C. Nationally Threatened and Legally Protected
+D. Extirpated and Unassessed
 
-**Answer: C.**
-**Explanation:** Criterion C combines small population size with continuing decline and its applicable population structure conditions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q36. Which option avoids the standard UPSC close-option trap about Criterion C?
+**Option analysis**
 
-A. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-B. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-C. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-D. Criterion C combines small population size with continuing decline and its applicable population structure conditions.
+- **A — Correct.** RE and NA are defined in the Regional Guidelines.
+- **B — Incorrect.** These are not the two current regional additions.
+- **C — Incorrect.** They are not formal IUCN regional categories.
+- **D — Incorrect.** The formal terms are RE and NE/NA, not this pair.
 
-**Answer: D.**
-**Explanation:** Criterion C combines small population size with continuing decline and its applicable population structure conditions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** RE concerns disappearance within the region; NA concerns assessment eligibility.
 
-### Q37. Which statement correctly identifies Criterion D?
+---
 
-A. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-B. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-C. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-D. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
+### MCQ 14 — Endemic and native
 
-**Answer: A.**
-**Explanation:** Criterion D addresses a very small or very restricted population under the applicable category threshold. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which statement is correct?
 
-### Q38. Which option preserves the ecological boundary of Criterion D?
+A. Every native species is restricted to the political country in which it naturally occurs.
+B. Endemic species are native to the stated area, but native species need not be restricted to it.
+C. Endemic and indigenous both denote species receiving automatic protection under domestic wildlife law.
+D. Endemic describes an introduced species that has persisted long enough to become naturalised.
 
-A. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-B. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-C. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-D. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
+**Answer: B**
 
-**Answer: B.**
-**Explanation:** Criterion D addresses a very small or very restricted population under the applicable category threshold. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q39. Which statement uses Criterion D without changing its scale, parameter or status?
+- **A — Incorrect.** Native ranges often cross political borders.
+- **B — Correct.** Endemic is the narrower distribution claim.
+- **C — Incorrect.** These are biogeographic, not legal, labels.
+- **D — Incorrect.** A naturalised introduction is not endemic merely because it persists.
 
-A. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-B. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-C. Criterion D addresses a very small or very restricted population under the applicable category threshold.
-D. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
+**Remediation:** Endemic = native **and only there**.
 
-**Answer: C.**
-**Explanation:** Criterion D addresses a very small or very restricted population under the applicable category threshold. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q40. Which option avoids the standard UPSC close-option trap about Criterion D?
+### MCQ 15 — Alien and invasive
 
-A. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-B. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-C. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-D. Criterion D addresses a very small or very restricted population under the applicable category threshold.
+Consider the following statements:
 
-**Answer: D.**
-**Explanation:** Criterion D addresses a very small or very restricted population under the applicable category threshold. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+1. An alien species occurs outside its natural distribution because of human introduction.
+2. Every alien species is invasive.
+3. An invasive alien species threatens biological diversity through its introduction or spread.
 
-### Q41. Which statement correctly identifies Criterion E?
+Which of the statements given above are correct?
 
-A. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-B. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-C. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-D. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
+A. 1 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Answer: A.**
-**Explanation:** Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q42. Which option preserves the ecological boundary of Criterion E?
+**Option analysis**
 
-A. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-B. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-C. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-D. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
+- **A — Incorrect.** Statement 3 is also correct.
+- **B — Incorrect.** Statement 2 is false; many alien species do not become invasive.
+- **C — Correct.** It preserves the alien/invasive subset relationship.
+- **D — Incorrect.** It treats all introductions as biologically harmful.
 
-**Answer: B.**
-**Explanation:** Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Invasive alien is a harmful subset of alien species.
 
-### Q43. Which statement uses Criterion E without changing its scale, parameter or status?
+---
 
-A. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-B. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-C. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-D. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
+### MCQ 16 — Range-restricted versus endemic
 
-**Answer: C.**
-**Explanation:** Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A species naturally occurs in a narrow mountain belt that crosses the boundary of two countries. It is found nowhere outside that belt. Which description is most precise?
 
-### Q44. Which option avoids the standard UPSC close-option trap about Criterion E?
+A. Endemic to each country separately because both countries contain part of its only natural range
+B. Exotic in both countries because a narrow range cannot naturally cross an international boundary
+C. Not range-restricted because political division creates two separate national distributions
+D. Range-restricted and endemic to the mountain belt, but not endemic to either country alone
 
-A. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-B. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-C. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-D. Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q45. Which statement correctly identifies One qualifying route?
+- **A — Incorrect.** Its natural range is not confined to either country.
+- **B — Incorrect.** It occurs naturally in both.
+- **C — Incorrect.** Political borders do not enlarge its ecological range.
+- **D — Correct.** Endemism depends on the named spatial unit.
 
-A. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-B. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-C. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-D. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
+**Remediation:** Always complete the phrase “endemic to ___.”
 
-**Answer: A.**
-**Explanation:** The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q46. Which option preserves the ecological boundary of One qualifying route?
+### MCQ 17 — Island vulnerability
 
-A. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-B. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-C. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-D. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
+Why can true island endemics face unusually high extinction vulnerability?
 
-**Answer: B.**
-**Explanation:** The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. One event, invader or disease can affect most of the range, while no outside natural population can recolonise it.
+B. Island endemics generally cannot reproduce in captivity or survive any managed translocation programme.
+C. IUCN places every species restricted to one island directly in CR without applying Criteria A–E.
+D. Island governments cannot notify protected areas large enough to conserve naturally restricted species.
 
-### Q47. Which statement uses One qualifying route without changing its scale, parameter or status?
+**Answer: A**
 
-A. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-B. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-C. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
-D. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
+**Option analysis**
 
-**Answer: C.**
-**Explanation:** The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A — Correct.** Range concentration and lack of rescue can turn a local shock into a global one.
+- **B — Incorrect.** Captive-breeding capacity varies by taxon.
+- **C — Incorrect.** Category still requires criteria and evidence.
+- **D — Incorrect.** Islands can and do contain protected areas.
 
-### Q48. Which option avoids the standard UPSC close-option trap about One qualifying route?
+**Remediation:** Isolation creates both evolutionary uniqueness and rescue limits.
 
-A. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-B. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-C. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-D. The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
+---
 
-**Answer: D.**
-**Explanation:** The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 18 — Montane vulnerability
 
-### Q49. Which statement correctly identifies Assessment scale?
+Which combination best explains the vulnerability of many montane endemics?
 
-A. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-B. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-C. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-D. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
+A. Deep-ocean dispersal and uniform climates
+B. Sky-island isolation, narrow climatic belts, upslope compression and fragmented habitat connections
+C. Unlimited elevational space and high immigration
+D. Automatic CITES Appendix I listing
 
-**Answer: A.**
-**Explanation:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q50. Which option preserves the ecological boundary of Assessment scale?
+**Option analysis**
 
-A. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-B. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-C. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-D. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
+- **A — Incorrect.** These are not montane mechanisms.
+- **B — Correct.** It captures spatial isolation and climate-space contraction.
+- **C — Incorrect.** Mountain summits impose hard spatial limits.
+- **D — Incorrect.** CITES listing is a separate trade-law question.
 
-**Answer: B.**
-**Explanation:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Mountains can create habitat islands even on a continent.
 
-### Q51. Which statement uses Assessment scale without changing its scale, parameter or status?
+---
 
-A. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-B. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-C. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-D. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
+### MCQ 19 — Centre of endemism
 
-**Answer: C.**
-**Explanation:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which statement best defines a centre of endemism?
 
-### Q52. Which option avoids the standard UPSC close-option trap about Assessment scale?
+A. A legally notified national park containing at least one species in a threatened category
+B. A geographic place recognised through a CITES Appendix because international trade is concentrated there
+C. A biogeographic area with an unusually high concentration of taxa naturally restricted to it
+D. A region in which every recorded plant and animal species is naturally restricted to that region
 
-A. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-B. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-C. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-D. Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q53. Which statement correctly identifies Endemic and native?
+- **A — Incorrect.** A protected area is a legal place category.
+- **B — Incorrect.** CITES lists species for trade control, not places.
+- **C — Correct.** It is a biogeographic concentration of irreplaceable taxa.
+- **D — Incorrect.** Centres contain native non-endemics as well.
 
-A. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-B. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-C. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-D. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
+**Remediation:** “Centre” describes concentration, not exclusivity of the whole biota.
 
-**Answer: A.**
-**Explanation:** Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q54. Which option preserves the ecological boundary of Endemic and native?
+### MCQ 20 — Endemism and threat
 
-A. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-B. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-C. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-D. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
+Which inference is valid?
 
-**Answer: B.**
-**Explanation:** Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Every species endemic to a small area necessarily qualifies for at least the Vulnerable category.
+B. Every species in a threatened category must have a natural range confined to one named region.
+C. Endemism alone fixes the category even when population trend and criterion subconditions are unknown.
+D. Endemism can raise irreplaceability and exposure, while category still depends on the criteria.
 
-### Q55. Which statement uses Endemic and native without changing its scale, parameter or status?
+**Answer: D**
 
-A. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-B. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-C. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-D. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
+**Option analysis**
 
-**Answer: C.**
-**Explanation:** Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A — Incorrect.** A stable endemic can be LC.
+- **B — Incorrect.** Many threatened taxa have transboundary or broad ranges.
+- **C — Incorrect.** Distribution alone does not replace a complete assessment.
+- **D — Correct.** It separates risk multiplier from risk classification.
 
-### Q56. Which option avoids the standard UPSC close-option trap about Endemic and native?
+**Remediation:** Endemism is an input to analysis, not a category shortcut.
 
-A. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-B. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-C. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-D. Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
+---
 
-**Answer: D.**
-**Explanation:** Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 21 — IUCN and Indian law
 
-### Q57. Which statement correctly identifies Endemic, rare and threatened?
+Which statement is correct?
 
-A. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-B. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-C. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-D. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
+A. The Red List assesses extinction risk, while the WPA creates Indian legal consequences; their classifications can diverge.
+B. Every IUCN uplisting automatically amends the corresponding WPA schedule after publication.
+C. The WPA’s current schedules determine the category used in the global IUCN assessment.
+D. A species absent from the WPA schedules is ineligible for scientific assessment by IUCN.
 
-**Answer: A.**
-**Explanation:** Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q58. Which option preserves the ecological boundary of Endemic, rare and threatened?
+**Option analysis**
 
-A. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-B. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-C. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-D. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
+- **A — Correct.** Science and domestic law are complementary but independent systems.
+- **B — Incorrect.** No automatic legal amendment follows an IUCN change.
+- **C — Incorrect.** IUCN applies its own criteria.
+- **D — Incorrect.** Global assessment does not depend on Indian statutory listing.
 
-**Answer: B.**
-**Explanation:** Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Never write “IUCN-protected under Schedule I.”
 
-### Q59. Which statement uses Endemic, rare and threatened without changing its scale, parameter or status?
+---
 
-A. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-B. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-C. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-D. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
+### MCQ 22 — IUCN and CITES
 
-**Answer: C.**
-**Explanation:** Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which statement most accurately distinguishes the two systems?
 
-### Q60. Which option avoids the standard UPSC close-option trap about Endemic, rare and threatened?
+A. IUCN and CITES maintain equivalent species lists under one international legal authority.
+B. IUCN estimates extinction risk; CITES regulates international trade, so an Appendix is not an IUCN category.
+C. CITES regulates habitat conversion, while IUCN issues the import and export permits required for specimens.
+D. Only species assessed as Critically Endangered can qualify for listing in a CITES Appendix.
 
-A. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-B. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-C. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-D. Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q61. Which statement correctly identifies Endemism as risk multiplier?
+- **A — Incorrect.** Their purposes and legal characters differ.
+- **B — Correct.** Risk assessment and trade control are separate.
+- **C — Incorrect.** CITES is the trade instrument; IUCN does not issue CITES permits.
+- **D — Incorrect.** Appendix criteria are not confined to CR taxa.
 
-A. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-B. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-C. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-D. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
+**Remediation:** Ask whether the question is about **risk** or **trade**.
 
-**Answer: A.**
-**Explanation:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q62. Which option preserves the ecological boundary of Endemism as risk multiplier?
+### MCQ 23 — Species status and protected areas
 
-A. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-B. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-C. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-D. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
+Which statement is correct?
 
-**Answer: B.**
-**Explanation:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. A species occurring inside a national park must receive a non-threatened global Red List category.
+B. A species assessed as CR can survive only where its complete range has been notified as protected area.
+C. Protected areas regulate places; they neither assign global category nor necessarily cover the whole range.
+D. Protected-area notification and Red List reassessment use the same authority, evidence and legal effect.
 
-### Q63. Which statement uses Endemism as risk multiplier without changing its scale, parameter or status?
+**Answer: C**
 
-A. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-B. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-C. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-D. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
+**Option analysis**
 
-**Answer: C.**
-**Explanation:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A — Incorrect.** Legal place protection does not erase extinction risk.
+- **B — Incorrect.** threatened species often use unprotected landscapes.
+- **C — Correct.** It preserves the place-versus-species distinction.
+- **D — Incorrect.** They have different authorities, evidence and effects.
 
-### Q64. Which option avoids the standard UPSC close-option trap about Endemism as risk multiplier?
+**Remediation:** PA = where; Red List = how risky for the taxon.
 
-A. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-B. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-C. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-D. Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
+---
 
-**Answer: D.**
-**Explanation:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 24 — Integrated status matrix
 
-### Q65. Which statement correctly identifies Assessment workflow?
+A globally EN species is in CITES Appendix II, receives high protection under Indian law and occurs partly outside protected areas. Which inference follows?
 
-A. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-B. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-C. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-D. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
+A. Appendix II is the legal cause of the global EN assessment and fixes its scientific criteria.
+B. High Indian legal protection proves that every population throughout the global range is declining.
+C. Occurrence outside a protected area suspends both domestic species protection and CITES control.
+D. The facts describe separate risk, trade, legal and spatial fields that must be analysed together.
 
-**Answer: A.**
-**Explanation:** The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q66. Which option preserves the ecological boundary of Assessment workflow?
+**Option analysis**
 
-A. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-B. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-C. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-D. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
+- **A — Incorrect.** CITES and IUCN decisions are independent.
+- **B — Incorrect.** Domestic legal protection cannot prove a global ecological trend.
+- **C — Incorrect.** Species law can operate outside PAs.
+- **D — Correct.** It is the required multi-layer reading.
 
-**Answer: B.**
-**Explanation:** The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Build a status matrix before writing a species answer.
 
-### Q67. Which statement uses Assessment workflow without changing its scale, parameter or status?
+---
 
-A. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-B. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-C. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-D. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
+### MCQ 25 — Downlisting rule
 
-**Answer: C.**
-**Explanation:** The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Under IUCN Version 3.1, which statement is correct?
 
-### Q68. Which option avoids the standard UPSC close-option trap about Assessment workflow?
+A. Normal downlisting needs five years outside the former criteria; a proven classification error can be corrected immediately.
+B. Any measured population increase requires immediate downlisting even if the former category’s criteria remain met.
+C. Every taxon must remain in its former category for ten years before any lower-risk transfer.
+D. Endemic taxa cannot be downlisted because restricted natural distribution is a permanent characteristic.
 
-A. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-B. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-C. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-D. The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q69. Which statement correctly identifies Green Status distinction?
+- **A — Correct.** It states the transfer rule and error exception.
+- **B — Incorrect.** The criteria and transfer rule still govern.
+- **C — Incorrect.** The specified normal interval is five years.
+- **D — Incorrect.** Endemism does not bar category transfer.
 
-A. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-B. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-C. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-D. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
+**Remediation:** Separate biological improvement from formal transfer rules.
 
-**Answer: A.**
-**Explanation:** IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q70. Which option preserves the ecological boundary of Green Status distinction?
+### MCQ 26 — Genuine or knowledge change
 
-A. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-B. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-C. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-D. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
+A new survey discovers a large, previously unknown subpopulation. The known old subpopulation has also grown, but that real growth alone would not cross the former category threshold. Why should the category change normally be coded?
 
-**Answer: B.**
-**Explanation:** IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Genuine improvement only
+B. Non-genuine new information
+C. Taxonomic revision
+D. No reassessment is permitted
 
-### Q71. Which statement uses Green Status distinction without changing its scale, parameter or status?
+**Answer: B**
 
-A. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-B. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-C. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-D. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
+**Option analysis**
 
-**Answer: C.**
-**Explanation:** IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **A — Incorrect.** The real growth alone is insufficient to cross the threshold.
+- **B — Correct.** Better knowledge is the decisive reason for the category movement.
+- **C — Incorrect.** No split, lump or taxonomic recognition change is described.
+- **D — Incorrect.** New evidence is a reason to reassess.
 
-### Q72. Which option avoids the standard UPSC close-option trap about Green Status distinction?
+**Remediation:** “More individuals known” and “more individuals exist” are different claims.
 
-A. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-B. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-C. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-D. IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
+---
 
-**Answer: D.**
-**Explanation:** IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 27 — Uplisting
 
-### Q73. Which statement correctly identifies Science-law-action chain?
+Which statement follows the IUCN transfer rules?
 
-A. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-B. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-C. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-D. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
+A. Uplisting must wait five years after evidence first shows that a higher-risk threshold has been crossed.
+B. Uplisting can occur only after a court or domestic wildlife authority confirms the ecological evidence.
+C. Transfer to higher risk should occur without delay when the assessment evidence supports it.
+D. Only global assessments can move upward; national and regional categories remain fixed between editions.
 
-**Answer: A.**
-**Explanation:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q74. Which option preserves the ecological boundary of Science-law-action chain?
+**Option analysis**
 
-A. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-B. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-C. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-D. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
+- **A — Incorrect.** The five-year rule concerns normal downlisting.
+- **B — Incorrect.** Red List reassessment is scientific, not judicial.
+- **C — Correct.** Delay would understate current risk.
+- **D — Incorrect.** Regional categories can also move.
 
-**Answer: B.**
-**Explanation:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Higher-risk evidence is acted on promptly; lower-risk transfer is deliberately conservative.
 
-### Q75. Which statement uses Science-law-action chain without changing its scale, parameter or status?
+---
 
-A. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-B. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-C. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-D. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
+### MCQ 28 — Changes counted in the RLI
 
-**Answer: C.**
-**Explanation:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which category movement should enter the Red List Index as a status trend?
 
-### Q76. Which option avoids the standard UPSC close-option trap about Science-law-action chain?
+A. A change caused solely by a taxonomic split
+B. A correction of an earlier data-entry error
+C. A move caused only by improved survey coverage
+D. A move across a category threshold caused by documented real deterioration
 
-A. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-B. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-C. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-D. The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-### Q77. Which statement correctly identifies Audited PYQ boundary?
+- **A — Incorrect.** Taxonomic changes are retrospectively corrected/excluded.
+- **B — Incorrect.** Error correction is non-genuine.
+- **C — Incorrect.** Improved knowledge alone is non-genuine.
+- **D — Correct.** The RLI is designed to track genuine improvement or deterioration.
 
-A. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-B. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-C. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-D. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
+**Remediation:** RLI asks whether nature changed, not merely whether knowledge changed.
 
-**Answer: A.**
-**Explanation:** Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q77. Which statement correctly identifies Audited PYQ boundary?”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+### MCQ 29 — Reading the RLI
 
-**Detailed examiner-grade model answer:**
+Which statement is correct?
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q77. Which statement correctly identifies Audited PYQ boundary?”.
+A. A falling RLI shows worsening aggregate risk in the included set, not decline in every species.
+B. A stable RLI proves that abundance and distribution are unchanged in every included population.
+C. The RLI counts species receiving domestic legal protection during each reporting period.
+D. Any selected subset of threatened species produces a representative RLI without repeated comprehensive assessment.
 
-**Analytical body:**
+**Answer: A**
 
-1. **Claim and named evidence:** Q77. Which statement correctly identifies Audited PYQ boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Option analysis**
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+- **A — Correct.** It gives the aggregate interpretation and its qualification.
+- **B — Incorrect.** Within-category declines may be invisible to the index.
+- **C — Incorrect.** It is based on Red List categories, not statutes.
+- **D — Incorrect.** Biased subsets undermine representativeness.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q77. Which statement correctly identifies Audited PYQ boundary?”.
+**Remediation:** Aggregate category trend is not population abundance.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+---
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+### MCQ 30 — Policy response to DD
 
-**How to improve this answer:** For “Q77. Which statement correctly identifies Audited PYQ boundary?”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+Which is the most defensible response to a DD taxon suspected to have a tiny range under active habitat pressure?
 
-### Q78. Which option preserves the ecological boundary of Audited PYQ boundary?
+A. Treat it as LC until a decline is counted.
+B. Fund targeted surveys and proportionate precaution without claiming that DD itself proves threatened status.
+C. Assign CR automatically because its range is suspected to be small.
+D. Exclude it from all conservation planning.
 
-A. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-B. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-C. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-D. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
+**Answer: B**
 
-**Answer: B.**
-**Explanation:** Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option analysis**
 
-**Demand decoding:** Treat “Q78. Which option preserves the ecological boundary of Audited PYQ boundary?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+- **A — Incorrect.** DD is not evidence of low risk.
+- **B — Correct.** It combines knowledge generation with calibrated precaution.
+- **C — Incorrect.** A category requires evidence and complete criteria.
+- **D — Incorrect.** This would convert ignorance into neglect.
 
-**Detailed examiner-grade model answer:**
+**Remediation:** DD supports research urgency, not invented certainty.
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q78. Which option preserves the ecological boundary of Audited PYQ boundary?”.
+---
 
-**Analytical body:**
+### MCQ 31 — Conservation priority
 
-1. **Claim and named evidence:** Q78. Which option preserves the ecological boundary of Audited PYQ boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Which set of factors is most suitable for conservation prioritisation?
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+A. The highest current IUCN category, used as the sole ranking and allocation variable
+B. Media visibility, body size and tourism value, used without ecological or legal evidence
+C. Risk, irreplaceability, urgency, feasibility, cost, ecological role, legal duties and equity
+D. The number of protected areas in which the species has ever been recorded
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q78. Which option preserves the ecological boundary of Audited PYQ boundary?”.
+**Answer: C**
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+**Option analysis**
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+- **A — Incorrect.** IUCN says threat category alone is insufficient.
+- **B — Incorrect.** These factors create charismatic-species bias.
+- **C — Correct.** It combines risk with action and social dimensions.
+- **D — Incorrect.** PA count says little about coverage quality or species response.
 
-**How to improve this answer:** For “Q78. Which option preserves the ecological boundary of Audited PYQ boundary?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+**Remediation:** Priority is a decision framework; category is one input.
 
-### Q79. Which statement uses Audited PYQ boundary without changing its scale, parameter or status?
+---
 
-A. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-B. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-C. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
-D. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
+### MCQ 32 — Category and funding
 
-**Answer: C.**
-**Explanation:** Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which statement is correct?
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q79. Which statement uses Audited PYQ boundary without changing its scale, parameter or…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+A. Every CR species must receive an equal budget regardless of threat, cost or feasible intervention.
+B. LC species can never justify preventive habitat action, even where decline is beginning.
+C. DD species should receive no survey or precautionary funds until a threatened category is assigned.
+D. Funding may combine DD surveys, preventive endemic-species action and multi-species habitat measures.
 
-**Detailed examiner-grade model answer:**
+**Answer: D**
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q79. Which statement uses Audited PYQ boundary without changing its scale, parameter or status?”.
+**Option analysis**
 
-**Analytical body:**
+- **A — Incorrect.** Costs, feasibility and interventions differ.
+- **B — Incorrect.** Prevention can avert later threat.
+- **C — Incorrect.** Survey funding can be the necessary first action.
+- **D — Correct.** It applies a portfolio rather than entitlement approach.
 
-1. **Claim and named evidence:** Q79. Which statement uses Audited PYQ boundary without changing its scale, parameter or status? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Remediation:** Do not translate a scientific category directly into a budget formula.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+---
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q79. Which statement uses Audited PYQ boundary without changing its scale, parameter or status?”.
+### MCQ 33 — Western hoolock gibbon
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+Which statement is supported by the dated IUCN assessment used here?
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+A. The 2019 assessment lists EN A4acd, and its transboundary range means it is not Indian-endemic.
+B. It is CR and its complete natural range is confined to one protected sanctuary in India.
+C. It is primarily terrestrial and combines a gorilla-like heavy build with occasional tree climbing.
+D. Its published IUCN category automatically determines the corresponding schedule under Indian law.
 
-**How to improve this answer:** For “Q79. Which statement uses Audited PYQ boundary without changing its scale, parameter or…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Answer: A**
 
-### Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ boundary?
+**Option analysis**
 
-A. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
-B. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-C. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-D. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
+- **A — Correct.** The 2019 assessment covers Bangladesh, north-eastern India and Myanmar.
+- **B — Incorrect.** It is EN in that assessment and transboundary.
+- **C — Incorrect.** Hoolock gibbons are specialised arboreal brachiators.
+- **D — Incorrect.** Indian legal listing is a separate process.
 
-**Answer: D.**
-**Explanation:** Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Current category, natural range and legal status are separate fields.
 
-## PYQS AND ANSWER PRACTICE
+---
 
-**Demand decoding:** Treat “Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ boundary?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+### MCQ 34 — Narcondam Hornbill
 
-**Detailed examiner-grade model answer:**
+What is the safest inference from its 2020 IUCN downlisting from EN to VU D1+2?
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ boundary?”.
+A. The category movement conclusively proves that conservation action alone produced a biological recovery.
+B. The larger estimate may reflect real increase, earlier underestimation or both; downlisting alone does not prove recovery.
+C. The category movement ended the species’ island endemism and created an outside rescue population.
+D. The VU category means no further habitat, disease or invasive-species management is required.
 
-**Analytical body:**
+**Answer: B**
 
-1. **Claim and named evidence:** Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Option analysis**
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+- **A — Incorrect.** The assessment expressly retains knowledge-change ambiguity.
+- **B — Correct.** It follows the assessment rationale.
+- **C — Incorrect.** Natural distribution did not change.
+- **D — Incorrect.** VU remains threatened and D1+2 records continuing vulnerability.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ boundary?”.
+**Remediation:** Always read the reason-for-change field.
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+---
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+### MCQ 35 — Gooty tarantula and Criterion B
 
-**How to improve this answer:** For “Q80. Which option avoids the standard UPSC close-option trap about Audited PYQ boundary?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+The 2008 IUCN assessment of *Poecilotheria metallica* classified it CR B1ab(iii). Which interpretation is correct?
 
-### VERIFIED OBJECTIVE-ONLY PYQ OWNERSHIP AUDIT
+A. International-trade volume alone satisfied the assessment without evidence on range or habitat.
+B. Endemism automatically placed it in CR without application of any criterion or subcriterion.
+C. Restricted EOO, location/fragmentation and continuing habitat-quality decline supported Criterion B.
+D. The 2008 assessment establishes its exact population size and trend in September 2026.
 
-Audited ledgers route 2019 Indian endemism and habitat matching, 2022 species identification, 2023 marsupial distribution, 2024 natural-habitat pairs and 2026 Western hoolock gibbon status, habitat and adaptation. They are carried as answer-free demands; no objective key or unstated current range, trend or assessment year is inferred.
+**Answer: C**
 
-### OWNER PYQ LEDGER EXTRACTS
+**Option analysis**
 
-#### 9. PYQ application
+- **A — Incorrect.** Trade volume is not the stated Criterion B basis.
+- **B — Incorrect.** Endemism is not an automatic category.
+- **C — Correct.** It reflects the documented B1ab(iii) reasoning.
+- **D — Incorrect.** A 2008 assessment is not a 2026 census.
 
-- ⚠️ Recurring Prelims pattern: order the Red List categories correctly and identify the
-  correct definition of "threatened" versus "Data Deficient."
-- ⚠️ Mains linkage: species-specific case studies (Great Indian Bustard, Gharial, various
-  Western Ghats amphibians) are used to illustrate the endemism-extinction risk link.
+**Remediation:** Preserve assessment date whenever using a species category.
 
-#### 2026 PYQ Integration
+---
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+### MCQ 36 — Great Indian Bustard: status to action
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+Which statement best reads the 19 December 2025 Supreme Court judgment?
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 22 | Western hoolock gibbon conservation status, habitat, and arboreal adaptation | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+A. The Court replaced IUCN and conducted a new global category assessment through the judgment.
+B. Issuing mitigation directions proves that the species’ population and habitat have already recovered.
+C. The judgment made every IUCN category directly binding as Indian wildlife law.
+D. The Court ordered spatial and power-line measures, but directions are not evidence of recovery.
 
-##### What this owner must now support
+**Answer: D**
 
-- Western hoolock gibbon conservation status, habitat, and arboreal adaptation
+**Option analysis**
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+- **A — Incorrect.** IUCN assessment and judicial adjudication are separate.
+- **B — Incorrect.** Orders are interventions, not measured outcomes.
+- **C — Incorrect.** The judgment did not convert the Red List into a statute.
+- **D — Correct.** It captures the science–law–monitoring chain.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+The judgment accepted revised priority areas of **14,013 km² in Rajasthan** and **740 km² in Gujarat**, and required treatment of **250 km** of critical power lines within two years.
 
-#### Recent PYQ Integration (2024-2025)
+**Remediation:** Announced or ordered action must not be written as achieved ecological recovery.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+---
 
-- **Years represented:** 2024
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+### MCQ 37 — Green Status
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 23 | Country-animal natural habitat pairs (Brazil-Indri, Indonesia-Elk, Madagascar-Bonobo) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+Which statement is correct?
 
-##### What this owner must now support
+A. Green Status assesses recovery and conservation impact, complementing the Red List’s extinction-risk assessment.
+B. Green Status is the name used when a Red List assessment reaches Least Concern.
+C. Green Status is a CITES trade category applied after an Appendix listing takes effect.
+D. Green Status automatically transfers a taxon to a lower Red List category.
 
-- Country-animal natural habitat pairs (Brazil-Indri, Indonesia-Elk, Madagascar-Bonobo)
+**Answer: A**
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Option analysis**
 
-#### Historical PYQ Integration (2018-2023)
+- **A — Correct.** Risk and recovery are related but distinct questions.
+- **B — Incorrect.** A taxon can have low extinction risk yet remain far from full ecological recovery.
+- **C — Incorrect.** It is an IUCN recovery framework.
+- **D — Incorrect.** Red List reassessment follows its own criteria.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+**Remediation:** Red asks “how close to extinction?”; Green asks “how recovered?”
 
-- **Years represented:** 2019, 2022, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 4
+---
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 22 | Wildlife species naturally found only in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 29 | Wildlife species and natural Indian habitats matching | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 47 | Species identification Golden Mahseer Nightjar Spoonbill Ibis | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 12 | Marsupials natural habitat and distribution in India | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+### MCQ 38 — Assessment bias
 
-##### What this owner must now support
+Which statement is most accurate?
 
-- Wildlife species naturally found only in India
-- Wildlife species and natural Indian habitats matching
-- Species identification Golden Mahseer Nightjar Spoonbill Ibis
-- Marsupials natural habitat and distribution in India
+A. NE and DD taxa can be omitted because missing evidence demonstrates negligible extinction risk.
+B. Uneven survey and taxonomic coverage can bias apparent threat patterns, especially in poorly studied groups.
+C. Vertebrate assessment patterns can be generalised directly to fungi, invertebrates and microorganisms.
+D. A rise in records necessarily represents genuine population increase rather than greater survey effort.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Answer: B**
 
-#### 10. PYQ-based analytical application
+**Option analysis**
 
-- ⚠️ Criterion-based Prelims questions (e.g., "a species with very small population size
-  even without decline can be classified as...") are best solved by recalling that any one
-  of Criteria A-E suffices for threatened-category qualification.
-- ⚠️ Mains answers on "species conservation strategy" should explicitly separate the
-  scientific-assessment layer (IUCN), the domestic legal layer (Wildlife Protection Act) and
-  the judicial-enforcement layer (courts), showing how they interact in a live case like the
-  bustard.
+- **A — Incorrect.** Knowledge gaps can conceal risk.
+- **B — Correct.** Assessment coverage shapes what the Red List can reveal.
+- **C — Incorrect.** Taxonomic groups differ in detectability, ecology and data.
+- **D — Incorrect.** Increased records may reflect effort or new information.
+
+**Remediation:** Evidence availability is itself a source of bias.
+
+---
+
+### MCQ 39 — Integrated conservation design
+
+Which sequence is most defensible?
+
+A. Allocate funding → choose a preferred category → search afterwards for supporting evidence
+B. Notify a protected area → assume species recovery → end population and threat monitoring
+C. Assess risk → diagnose threats/range → choose tools → fund → monitor → reassess
+D. Obtain a CITES listing → infer endemicity → treat extinction risk as permanently resolved
+
+**Answer: C**
+
+**Option analysis**
+
+- **A — Incorrect.** Evidence must precede classification and funding design.
+- **B — Incorrect.** A place designation is not an outcome.
+- **C — Correct.** It follows an assessment-to-action learning loop.
+- **D — Incorrect.** Trade listing neither proves endemism nor solves extinction risk.
+
+**Remediation:** Conservation is a feedback process, not a one-time label.
+
+---
+
+### MCQ 40 — Synthesis
+
+A country must choose between funding a new survey of a DD island endemic and expanding a recovery action for a well-studied EN species. Which principle is best?
+
+A. Fund only the EN species because DD taxa fall outside the Red List assessment framework.
+B. Divide resources equally because all Red List categories prescribe an identical conservation response.
+C. Fund only the DD survey because endemicity always outranks assessed extinction risk and feasibility.
+D. Compare risk, irreplaceability, urgency, actionability, costs and co-benefits; category informs rather than dictates allocation.
+
+**Answer: D**
+
+**Option analysis**
+
+- **A — Incorrect.** DD is a Red List category and may conceal high risk.
+- **B — Incorrect.** Equal treatment ignores intervention needs and returns.
+- **C — Incorrect.** Endemism does not automatically outrank assessed risk.
+- **D — Correct.** It applies a transparent multi-factor priority framework.
+
+**Remediation:** The correct policy answer usually preserves both scientific risk and decision context.
+
+---
+
+## VERIFIED OBJECTIVE PYQS
+
+### Provenance and key ledger
+
+| PYQ | Printed local paper | Local key status | Ownership |
+|---|---|---|---|
+| 2018 Q60 | `..\upsc-agent\books\more_previous_papers\QP-CSP-18-GS-I-C.pdf` | Not held locally | Shared/application |
+| 2019 Q22, Q29 | `..\upsc-agent\books\more_previous_papers\csp-p1.pdf` | Not held locally | Direct |
+| 2022 Q47 | `..\upsc-agent\books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` | Not held locally | Direct |
+| 2023 Q12, Q13 | `..\upsc-agent\books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf` | Not held locally | Direct; shared/application |
+| 2024 Q20, Q23 | `..\upsc-agent\books\prelima_question_paper_answers\2024-GS1-Set A.pdf` | `Ans-2024-GS1.pdf` official | Shared/application; direct |
+| 2025 Q37 | `..\upsc-agent\books\prelima_question_paper_answers\2025-GS1-Set A.pdf` | `Ans-2025-GS1.pdf` official | Shared/application |
+| 2026 Q22 | `..\upsc-agent\books\prelima_question_paper_answers\2026-GS1-Set A.pdf` | `Ans-2026-GS1-Provisional.pdf` | Direct |
+
+### PYQ 1 — 2018 Prelims GS-I Q60 — Shared/application
+
+The term “sixth mass extinction/sixth extinction” is often mentioned in the news in the context of the discussion of:
+
+A. Widespread monoculture practices in agriculture and large-scale commercial farming with indiscriminate use of chemicals in many parts of the world that may result in the loss of good native ecosystems
+B. Fears of a possible collision of a meteorite with the Earth in the near future in the manner it happened 65 million years ago that caused the mass extinction of many species including dinosaurs
+C. Large-scale cultivation of genetically modified crops in many parts of the world and promoting their cultivation in other parts of the world which may cause the disappearance of good native crop plants and the loss of food biodiversity
+D. Mankind’s over-exploitation/misuse of natural resources, fragmentation/loss of natural habitats, destruction of ecosystems, pollution and global climate change
+
+**Provenance:** official local paper, series code `CYRF-F-TXLI`, printed Q60.
+**Key label:** **INFERRED ANSWER — OFFICIAL KEY NOT HELD LOCALLY: D (high confidence).**
+
+**Solution**
+
+- **A:** describes important pressures but is too narrow to define the broad contemporary extinction crisis.
+- **B:** describes a possible impact-driven mass extinction, not the current human-driven “sixth extinction” usage.
+- **C:** again isolates one debated pathway rather than the full driver set.
+- **D:** correctly captures the interacting anthropogenic drivers.
+
+**Topic use:** It supplies the macro-context for species-level risk assessment; it does not itself assign an IUCN category.
+
+---
+
+### PYQ 2 — 2019 Prelims GS-I Q22 — Direct
+
+Consider the following statements:
+
+1. Asiatic lion is naturally found in India only.
+2. Double-humped camel is naturally found in India only.
+3. One-horned rhinoceros is naturally found in India only.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+**Provenance:** official local paper, code `BKL-F-GHP`, printed Q22.
+**Key label:** **INFERRED ANSWER — OFFICIAL KEY NOT HELD LOCALLY: A (high confidence).**
+
+**Solution**
+
+- **Statement 1:** correct in the question’s extant-natural-distribution sense; the wild Asiatic lion survives naturally in India.
+- **Statement 2:** incorrect; the natural range of the double-humped/Bactrian camel is not confined to India.
+- **Statement 3:** incorrect; the greater one-horned rhinoceros occurs naturally in India and Nepal.
+- Therefore **A** is the defensible answer.
+
+**Topic use:** “Found in India” and “endemic to India” are not interchangeable.
+
+---
+
+### PYQ 3 — 2019 Prelims GS-I Q29 — Direct
+
+Consider the following pairs:
+
+| Wildlife | Naturally found in |
+|---|---|
+| 1. Blue-finned Mahseer | Cauvery River |
+| 2. Irrawaddy Dolphin | Chambal River |
+| 3. Rusty-spotted Cat | Eastern Ghats |
+
+Which of the pairs given above are correctly matched?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+**Provenance:** official local paper, code `BKL-F-GHP`, printed Q29.
+**Key label:** **INFERRED ANSWER — OFFICIAL KEY NOT HELD LOCALLY: C (high confidence).**
+
+**Solution**
+
+- **Pair 1:** correct; the blue-finned mahseer is associated with the Cauvery system.
+- **Pair 2:** incorrect; the Chambal is associated with the Ganges river dolphin, not the Irrawaddy dolphin.
+- **Pair 3:** correct; the rusty-spotted cat occurs in the Eastern Ghats.
+- Therefore **C** follows.
+
+**Topic use:** Habitat matching tests natural range, not IUCN category.
+
+---
+
+### PYQ 4 — 2022 Prelims GS-I Q47 — Direct
+
+Which of the following is not a bird?
+
+A. Golden Mahseer
+B. Indian Nightjar
+C. Spoonbill
+D. White Ibis
+
+**Provenance:** official local paper, code `VGYH-U-FGT`, printed Q47.
+**Key label:** **INFERRED ANSWER — OFFICIAL KEY NOT HELD LOCALLY: A (high confidence).**
+
+**Solution**
+
+- **A:** Golden Mahseer is a fish.
+- **B:** Indian Nightjar is a bird.
+- **C:** Spoonbills are birds.
+- **D:** White Ibis is a bird.
+
+**Topic use:** Fix taxonomy before applying range or status information.
+
+---
+
+### PYQ 5 — 2023 Prelims GS-I Q12 — Direct
+
+Consider the following statements:
+
+**Statement I:** Marsupials are not naturally found in India.
+**Statement II:** Marsupials can thrive only in montane grasslands with no predators.
+
+Which one of the following is correct in respect of the above statements?
+
+A. Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I
+B. Both Statement I and Statement II are correct and Statement II is not the correct explanation for Statement I
+C. Statement I is correct but Statement II is incorrect
+D. Statement I is incorrect but Statement II is correct
+
+**Provenance:** official local paper, code `XDTG-F-GST`, printed Q12.
+**Key label:** **INFERRED ANSWER — OFFICIAL KEY NOT HELD LOCALLY: C (high confidence).**
+
+**Solution**
+
+- **Statement I:** correct; India has no naturally occurring marsupial fauna.
+- **Statement II:** incorrect; marsupials occupy diverse habitats and do not require predator-free montane grassland.
+- Hence **C**.
+
+**Topic use:** Natural distribution is a biogeographic fact, not a habitat stereotype.
+
+---
+
+### PYQ 6 — 2023 Prelims GS-I Q13 — Shared/application
+
+“Invasive Species Specialist Group” (that develops Global Invasive Species Database) belongs to which one of the following organizations?
+
+A. The International Union for Conservation of Nature
+B. The United Nations Environment Programme
+C. The United Nations World Commission for Environment and Development
+D. The World Wide Fund for Nature
+
+**Provenance:** official local paper, code `XDTG-F-GST`, printed Q13.
+**Key label:** **INFERRED ANSWER — OFFICIAL KEY NOT HELD LOCALLY: A (high confidence).**
+
+**Solution**
+
+- **A:** correct; the ISSG is within the IUCN Species Survival Commission network.
+- **B:** UNEP is not the parent organisation.
+- **C:** the named commission is not the institutional home.
+- **D:** WWF is a separate conservation organisation.
+
+**Topic use:** IUCN does more than maintain categories; specialist groups also organise species expertise. This does not make “alien” and “threatened” synonymous.
+
+---
+
+### PYQ 7 — 2024 Prelims GS-I Q20 — Shared/application
+
+Consider the following statements:
+
+**Statement I:** The Indian Flying Fox is placed under the “vermin” category in the Wild Life (Protection) Act, 1972.
+**Statement II:** The Indian Flying Fox feeds on the blood of other animals.
+
+Which one of the following is correct in respect of the above statements?
+
+A. Both Statement I and Statement II are correct and Statement II explains Statement I
+B. Both Statement I and Statement II are correct, but Statement II does not explain Statement I
+C. Statement I is correct, but Statement II is incorrect
+D. Statement I is incorrect, but Statement II is correct
+
+**Provenance:** official local Set-A paper, printed Q20.
+**Key label:** **OFFICIAL SET-A KEY: DROPPED (`X`).**
+
+**Solution**
+
+- The official scoring document drops the item; therefore no option should be presented as the official answer.
+- Statement II is biologically false: flying foxes are fruit/nectar feeders, not blood-feeding bats.
+- Statement I is a date-sensitive statutory proposition and must be checked against the operative Act/schedules for the examination date.
+- Do not speculate that one particular ambiguity was UPSC’s reason for dropping the question.
+
+**Topic use:** This is the strongest PYQ warning against equating biological identity, IUCN status and a domestic legal label.
+
+---
+
+### PYQ 8 — 2024 Prelims GS-I Q23 — Direct
+
+Consider the following pairs:
+
+| Country | Animal found in its natural habitat |
+|---|---|
+| 1. Brazil | Indri |
+| 2. Indonesia | Elk |
+| 3. Madagascar | Bonobo |
+
+How many of the pairs given above are correctly matched?
+
+A. Only one
+B. Only two
+C. All three
+D. None
+
+**Provenance:** official local Set-A paper, printed Q23.
+**Key label:** **OFFICIAL SET-A KEY: D.**
+
+**Solution**
+
+- **Pair 1:** incorrect; indris are native to Madagascar, not Brazil.
+- **Pair 2:** incorrect; elk are native to North America and parts of temperate Asia, not Indonesia.
+- **Pair 3:** incorrect; bonobos are native to the Democratic Republic of the Congo, not Madagascar.
+- Therefore **D**.
+
+**Topic use:** Country–species pairs test natural range; they do not ask whether the species is threatened.
+
+---
+
+### PYQ 9 — 2025 Prelims GS-I Q37 — Shared/application
+
+Regarding Peacock tarantula (Gooty tarantula), consider the following statements:
+
+1. It is an omnivorous crustacean.
+2. Its natural habitat in India is only limited to some forest areas.
+3. In its natural habitat, it is an arboreal species.
+
+Which of the statements given above is/are correct?
+
+A. 1 only
+B. 1 and 3
+C. 2 only
+D. 2 and 3
+
+**Provenance:** official local Set-A paper, printed Q37; options visually checked against the paper scan.
+**Key label:** **OFFICIAL SET-A KEY: D.**
+
+**Solution**
+
+- **Statement 1:** incorrect; it is an arachnid, not a crustacean.
+- **Statement 2:** correct; its natural range is highly restricted to forest habitat.
+- **Statement 3:** correct; it is arboreal in its natural habitat.
+- Therefore **D**.
+
+**Current-source discipline:** the IUCN assessment used for the CR B1ab(iii) illustration was published in 2008; that date must accompany the category claim.
+
+---
+
+### PYQ 10 — 2026 Prelims GS-I Q22 — Direct
+
+With respect to the Western Hoolock Gibbons, which of the following statements is/are correct?
+
+1. A Sanctuary in North-east India is home to this ape species listed as Endangered in the International Union for Conservation of Nature (IUCN) Red List.
+2. They have specialised brachiation and can easily swing between trees.
+3. They possess a strong and heavy build like gorillas, yet are remarkably agile tree climbers.
+
+Select the answer using the code given below:
+
+A. 1 only
+B. 1 and 2
+C. 2 and 3
+D. 3 only
+
+**Provenance:** official local 2026 Set-A scan, printed Q22.
+**Key label:** **LOCAL PROVISIONAL SET-A KEY: B — not a final official key.**
+
+**Solution**
+
+- **Statement 1:** correct; Hoollongapar Gibbon Sanctuary is a north-eastern Indian habitat, and the dated IUCN assessment used here lists *Hoolock hoolock* as EN.
+- **Statement 2:** correct; gibbons are specialised arboreal brachiators.
+- **Statement 3:** incorrect; a gorilla-like heavy build is not characteristic of gibbons.
+- The provisional answer is therefore **B**.
+
+**Qualification:** The 2019 IUCN publication covers a transboundary range; the species is native to India but not Indian-endemic.
+
+---
+
+## ORIGINAL MAINS PRACTICE
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish Red List category, criterion and population trend. Answer in about 150 words.
+**Question:** Distinguish “threatened,” “evaluated,” “Extinct in the Wild,” Data Deficient and Not Evaluated in the IUCN framework. Answer in 150 words.
 
-**Model thesis:** **Claim:** Red List function. **Named evidence/example:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Category and population trend. **Named evidence/example:** A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Category and criterion. **Named evidence/example:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+The IUCN categories form nested but distinct sets. **Evaluated** taxa include those placed in DD or in a risk/extinction category; **NE** means the criteria have not yet been applied. Within evaluated taxa, **threatened** is only the collective term for VU, EN and CR. NT and LC are evaluated but non-threatened. **EW** is not a threatened category: it means the taxon survives only in cultivation, captivity or as a naturalised population outside its past range. **DD** means available distribution or population evidence is inadequate for a direct or indirect risk assessment; it neither proves safety nor proves threat. Thus, each label answers a different question—whether assessment occurred, whether evidence is adequate, how high wild-extinction risk is, or whether any wild natural-range population survives. A complete answer must add the taxon, spatial scale and assessment date because global and regional categories, and later reassessments, may differ.
 
-- The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-- A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions.
-- Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
+**Why this earns marks:** It defines every requested term, maps their set relationship and adds the essential scale/date qualification.
 
-**Qualified conclusion:** **Claim:** Red List function. **Named evidence/example:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Category and population trend. **Named evidence/example:** A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Category and criterion. **Named evidence/example:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish Red List category, criterion and population trend. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Red List function. **Named evidence/example:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Category and population trend. **Named evidence/example:** A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Category and criterion. **Named evidence/example:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Red List function. **Named evidence/example:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Category and population trend. **Named evidence/example:** A Red List category states assessed extinction risk, whereas increasing, stable, decreasing or unknown describes population trend; the two fields answer different questions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Category and criterion. **Named evidence/example:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish Red List category, criterion and population trend. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain why Data Deficient is not evidence of low extinction risk. Answer in about 150 words.
+**Question:** Why is endemism a risk multiplier but not a synonym for threatened status? Illustrate from India. Answer in 150 words.
 
-**Model thesis:** **Claim:** Nine assessment categories. **Named evidence/example:** The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Threatened collective term. **Named evidence/example:** Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Not Evaluated and Data Deficient. **Named evidence/example:** Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Endemism means natural occurrence in a specified area and nowhere else; threatened status means assessment as VU, EN or CR. Endemism can multiply risk because the loss of one small range may become global loss, while isolation limits recolonisation. The Narcondam Hornbill illustrates island exposure: its entire natural range is one island, so disease, invasive mammals or a severe event can affect the whole species. Montane endemics such as the Nilgiri tahr also face fragmented “sky-island” habitat and possible upslope compression. Yet endemicity alone does not establish population decline, mature-individual thresholds or Criterion B subconditions. A stable endemic can be LC, while the EN Western hoolock gibbon is not Indian-endemic because its natural range also includes Bangladesh and Myanmar. Therefore, conservation should combine endemicity and irreplaceability with population, trend, range, threat and criterion evidence rather than convert a distribution label into an IUCN category.
 
-- The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct.
-- Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category.
-- Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe.
+**Why this earns marks:** It gives the distinction, mechanism, two Indian landscapes, a counterexample and a qualified conclusion.
 
-**Qualified conclusion:** **Claim:** Nine assessment categories. **Named evidence/example:** The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Threatened collective term. **Named evidence/example:** Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Not Evaluated and Data Deficient. **Named evidence/example:** Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why Data Deficient is not evidence of low extinction risk. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Nine assessment categories. **Named evidence/example:** The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Threatened collective term. **Named evidence/example:** Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Not Evaluated and Data Deficient. **Named evidence/example:** Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Nine assessment categories. **Named evidence/example:** The owner distinguishes Not Evaluated, Data Deficient, Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Threatened collective term. **Named evidence/example:** Threatened collectively covers Vulnerable, Endangered and Critically Endangered; it is not a separate tenth category. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Not Evaluated and Data Deficient. **Named evidence/example:** Not Evaluated means the criteria have not been applied, while Data Deficient means evidence is inadequate for a risk assessment; neither means safe. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain why Data Deficient is not evidence of low extinction risk. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Explain Criteria A-E without inventing taxon-specific thresholds. Answer in about 250 words.
+**Question:** Explain how Criteria A–E classify extinction risk. Why can a category name alone conceal the mechanism of risk? Answer in 250 words.
 
-**Model thesis:** **Claim:** Criterion A. **Named evidence/example:** Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion B. **Named evidence/example:** Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion C. **Named evidence/example:** Criterion C combines small population size with continuing decline and its applicable population structure conditions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion D. **Named evidence/example:** Criterion D addresses a very small or very restricted population under the applicable category threshold. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion E. **Named evidence/example:** Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** One qualifying route. **Named evidence/example:** The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+IUCN assigns VU, EN or CR when a taxon meets at least one complete quantitative route. **Criterion A** measures population reduction over a defined period; A1 uses higher thresholds where causes are reversible, understood and ceased, while A2–A4 address past, future or combined reductions where those conditions may not hold. **Criterion B** uses restricted extent of occurrence or area of occupancy, but also requires at least two of severe fragmentation/few locations, continuing decline and extreme fluctuations. **Criterion C** combines a small population with continuing decline and specified rate or population-structure conditions. **Criterion D** addresses very small populations; VU D2 also covers acutely restricted taxa vulnerable to a rapid event. **Criterion E** uses quantitative extinction-probability analysis.
 
-- Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it.
-- Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text.
-- Criterion C combines small population size with continuing decline and its applicable population structure conditions.
-- Criterion D addresses a very small or very restricted population under the applicable category threshold.
-- Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount.
-- The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions.
+The category alone conceals whether risk arises from rapid decline, narrow range, fragmentation, low mature-individual numbers or modelled probability. This matters for action. The 2008 Gooty tarantula assessment, CR B1ab(iii), points towards range and habitat-quality intervention; a taxon listed through A may instead require removal of a continuing exploitation or habitat-loss driver. Multiple criteria may also support one category.
 
-**Qualified conclusion:** **Claim:** Criterion A. **Named evidence/example:** Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion B. **Named evidence/example:** Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion C. **Named evidence/example:** Criterion C combines small population size with continuing decline and its applicable population structure conditions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion D. **Named evidence/example:** Criterion D addresses a very small or very restricted population under the applicable category threshold. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion E. **Named evidence/example:** Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** One qualifying route. **Named evidence/example:** The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Thus, an examiner-grade citation should state taxon, scale, category, criteria and assessment date. However, criteria diagnose risk; they do not themselves specify Indian legal protection, CITES trade controls or the optimal conservation budget.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain Criteria A-E without inventing taxon-specific thresholds. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Why this earns marks:** It covers all five routes, explains the one-route rule, links criterion to action and preserves the science–law boundary.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Criterion A. **Named evidence/example:** Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion B. **Named evidence/example:** Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion C. **Named evidence/example:** Criterion C combines small population size with continuing decline and its applicable population structure conditions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion D. **Named evidence/example:** Criterion D addresses a very small or very restricted population under the applicable category threshold. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion E. **Named evidence/example:** Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** One qualifying route. **Named evidence/example:** The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Criterion C combines small population size with continuing decline and its applicable population structure conditions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Criterion D addresses a very small or very restricted population under the applicable category threshold. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Criterion A. **Named evidence/example:** Criterion A concerns population-size reduction over the applicable assessment window; no percentage or assessment year is supplied unless the cited assessment provides it. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion B. **Named evidence/example:** Criterion B concerns restricted geographic range together with the applicable fragmentation, decline or fluctuation conditions; range restriction alone must be read with the criterion text. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion C. **Named evidence/example:** Criterion C combines small population size with continuing decline and its applicable population structure conditions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion D. **Named evidence/example:** Criterion D addresses a very small or very restricted population under the applicable category threshold. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Criterion E. **Named evidence/example:** Criterion E uses quantitative analysis of extinction probability; it is not a synonym for expert opinion or a simple headcount. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** One qualifying route. **Named evidence/example:** The owner records that meeting one applicable criterion can support a threatened category, but the taxon must meet that category's full threshold and subconditions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain Criteria A-E without inventing taxon-specific thresholds. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Distinguish endemic, native, rare and threatened species. Answer in about 250 words.
+**Question:** “Downlisting is not necessarily recovery, and uplisting is not necessarily recent deterioration.” Discuss with reference to reassessment and the Red List Index. Answer in 250 words.
 
-**Model thesis:** **Claim:** Endemic and native. **Named evidence/example:** Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic, rare and threatened. **Named evidence/example:** Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemism as risk multiplier. **Named evidence/example:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Reassessment reapplies the criteria using the best available evidence. A category may change because nature changed or because knowledge and classification changed. IUCN therefore separates **genuine recent** change and **genuine change since first assessment** from non-genuine reasons: new information, taxonomic revision, criteria revision, earlier misinterpretation or incorrect data.
 
-- Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic.
-- Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms.
-- Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
+A downlisting proves recovery only when a real improvement alone is sufficient to cross the threshold. The 2020 Narcondam Hornbill assessment moved the island endemic from EN to VU D1+2 because the population estimate was larger than previously believed, but expressly stated that numbers may have increased or earlier estimates may have been too low. The label “downlisted” therefore cannot, without its reason code and dates, establish conservation success. Conversely, a species can be uplisted when old deterioration is detected by new evidence; the publication date need not be the date when decline occurred.
 
-**Qualified conclusion:** **Claim:** Endemic and native. **Named evidence/example:** Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic, rare and threatened. **Named evidence/example:** Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemism as risk multiplier. **Named evidence/example:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+This distinction protects the **Red List Index**. The RLI tracks aggregate extinction-risk movement only from genuine category changes; taxonomy, error correction and improved knowledge are excluded or retrospectively corrected. Even then, it is coarse: a large decline within one category may not change the index.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish endemic, native, rare and threatened species. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+Hence answers should report previous and current category, criteria, assessment dates and reason for change. Category movement is evidence; biological interpretation requires the documented cause.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It answers both halves, uses a dated case, explains RLI treatment and adds the within-category limitation.
 
-**Introduction and thesis:** **Claim:** Endemic and native. **Named evidence/example:** Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic, rare and threatened. **Named evidence/example:** Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemism as risk multiplier. **Named evidence/example:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Endemic and native. **Named evidence/example:** Native means naturally occurring in the stated region; endemic means naturally restricted to the stated region, so every endemic is native there but not every native is endemic. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemic, rare and threatened. **Named evidence/example:** Endemism describes range restriction, rarity describes abundance or occurrence, and threatened status is an assessed extinction-risk class; they can overlap without being synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemism as risk multiplier. **Named evidence/example:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish endemic, native, rare and threatened species. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Assess the value and limits of the IUCN Red List for Indian conservation. Answer in about 300 words.
+**Question:** Examine the relationship among the IUCN Red List, CITES, India’s Wild Life (Protection) Act and protected areas in converting species-risk knowledge into conservation action. Answer in 250 words.
 
-**Model thesis:** **Claim:** Red List function. **Named evidence/example:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment scale. **Named evidence/example:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment workflow. **Named evidence/example:** The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Green Status distinction. **Named evidence/example:** IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science-law-action chain. **Named evidence/example:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+These instruments form a chain, not a single hierarchy. The **IUCN Red List** scientifically estimates extinction risk at a stated scale through Criteria A–E. It diagnoses urgency but creates no permit, offence or land-use restriction. **CITES** regulates international trade through Appendices so that trade does not threaten survival; Appendix placement is not an IUCN category. India’s **Wild Life (Protection) Act** creates binding domestic species and activity controls, while national parks, sanctuaries and other protected areas regulate defined places. A species may be globally LC yet highly protected in India, globally threatened yet absent from CITES, or dependent on habitat outside protected areas.
 
-- The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit.
-- Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-- The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment.
-- IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other.
-- The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
+The Great Indian Bustard shows translation from diagnosis to action. Its current IUCN record displays CR. On 19 December 2025, the Supreme Court accepted revised priority areas in Rajasthan and Gujarat and directed in-situ/ex-situ, monitoring and power-line mitigation, including time-bound treatment of critical lines. The judgment did not reassess the IUCN category; it used conservation evidence within domestic adjudication.
 
-**Qualified conclusion:** **Claim:** Red List function. **Named evidence/example:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment scale. **Named evidence/example:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment workflow. **Named evidence/example:** The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Green Status distinction. **Named evidence/example:** IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science-law-action chain. **Named evidence/example:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Effective policy therefore requires: dated risk assessment; threat and range mapping; appropriate trade and domestic legal controls; landscape connectivity beyond PA boundaries; funded implementation; community participation; and population, habitat and threat monitoring. Two cautions remain. First, legal listing or a court direction is an input, not proof of recovery. Second, independent revision cycles can create temporary divergence among IUCN, CITES and domestic schedules.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the value and limits of the IUCN Red List for Indian conservation. Answer in about 300…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+The correct synthesis is assessment-to-action-to-reassessment, with each instrument used for its own function.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It distinguishes every instrument, uses a current official case and evaluates implementation and boundary limits.
 
-**Introduction and thesis:** **Claim:** Red List function. **Named evidence/example:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment scale. **Named evidence/example:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment workflow. **Named evidence/example:** The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Green Status distinction. **Named evidence/example:** IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science-law-action chain. **Named evidence/example:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Red List function. **Named evidence/example:** The IUCN Red List is a criteria-based scientific assessment of extinction risk; it is not itself an Indian statute or permit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment scale. **Named evidence/example:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment workflow. **Named evidence/example:** The owner links specialist expertise, Species Survival Commission groups, assessment documentation and review; a published category must remain tied to its supporting assessment. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Green Status distinction. **Named evidence/example:** IUCN Green Status addresses recovery and conservation impact, while the Red List addresses extinction risk; one does not replace the other. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science-law-action chain. **Named evidence/example:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Assess the value and limits of the IUCN Red List for Indian conservation. Answer in about 300…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Show how scientific assessment should translate into law and habitat action. Answer in about 300 words.
+**Question:** Design a conservation-prioritisation framework for India’s endemic and range-restricted species without equating Red List category with funding entitlement. Answer in 250 words.
 
-**Model thesis:** **Claim:** Category and criterion. **Named evidence/example:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment scale. **Named evidence/example:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemism as risk multiplier. **Named evidence/example:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science-law-action chain. **Named evidence/example:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ boundary. **Named evidence/example:** Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+India should begin with extinction risk but use a transparent multi-factor portfolio. First, record each taxon’s global and, where available, national category, criteria, trend, assessment date and Data Deficient uncertainty. Second, measure **irreplaceability**: a Narcondam-type island endemic or a narrow Western/Eastern Ghats taxon represents global loss if its sole range fails. Third, map threat imminence—habitat conversion, invasive species, disease, hunting, infrastructure collision and climate-driven montane compression. Fourth, assess ecological function, legal duties, recovery feasibility, cost, community dependence and habitat co-benefits.
 
-- Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E.
-- Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year.
-- Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened.
-- The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred.
-- Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred.
+Funding should then cover three complementary windows. **Emergency recovery** supports high-risk taxa with actionable threats, such as power-line mitigation and grassland management for the Great Indian Bustard. **Preventive landscape finance** protects VU/NT or stable endemic assemblages before expensive collapse. **Knowledge finance** surveys DD and poorly studied taxa; uncertainty must not become neglect. Habitat restoration and connectivity should often accompany species-specific action because they benefit multiple taxa.
 
-**Qualified conclusion:** **Claim:** Category and criterion. **Named evidence/example:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment scale. **Named evidence/example:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemism as risk multiplier. **Named evidence/example:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science-law-action chain. **Named evidence/example:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ boundary. **Named evidence/example:** Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+The Red List Index can track genuine aggregate category change, but it cannot replace abundance, habitat-quality or implementation indicators. Nor should a charismatic CR taxon automatically absorb all funds: a lower-category endemic may offer greater, cheaper and more durable risk reduction. Conversely, feasibility must not justify abandoning species near extinction.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Show how scientific assessment should translate into law and habitat action. Answer in about…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+Decisions should publish criteria, weights, conflicts and monitoring targets, then trigger reassessment. This makes allocation risk-informed, irreplaceability-sensitive, equitable and accountable rather than mechanically category-driven.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Category and criterion. **Named evidence/example:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment scale. **Named evidence/example:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemism as risk multiplier. **Named evidence/example:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science-law-action chain. **Named evidence/example:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ boundary. **Named evidence/example:** Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Category and criterion. **Named evidence/example:** Category is the resulting risk class; criterion is the quantitative route used to justify it, so a category name must not be substituted for criterion A, B, C, D or E. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment scale. **Named evidence/example:** Global and regional or national assessments can differ because their geographic scope differs; every status claim must name the assessment scale and year. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Endemism as risk multiplier. **Named evidence/example:** Restricted range can remove spatial refuge and recolonisation options, but endemism does not automatically make a taxon threatened. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Science-law-action chain. **Named evidence/example:** The Great Indian Bustard route separates IUCN risk assessment, Indian legal protection and judicial or infrastructure mitigation; no current population count is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ boundary. **Named evidence/example:** Routed demands cover Indian endemism, habitat matching and Western hoolock gibbon status, habitat and adaptation; objective keys and unstated current ranges are not inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Show how scientific assessment should translate into law and habitat action. Answer in about…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It offers an operational framework, balanced funding windows, Indian examples, indicator limits and a qualified ethical verdict.

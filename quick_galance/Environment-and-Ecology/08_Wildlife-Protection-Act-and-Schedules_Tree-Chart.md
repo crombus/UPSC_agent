@@ -1,1097 +1,165 @@
-# Environment and Ecology 08 - Wildlife Protection Act and Schedules
+# Environment and Ecology 08 — Wildlife Protection Act and Schedules
 
 ## Quick-Glance Tree Chart
 
 ```text
-WILDLIFE PROTECTION ACT AND SCHEDULES
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-The Wildlife Protection Act, 1972 is India's principal domestic wildlife statute.
-Its current post-2022 structure separates animal-protection schedules, protected
-plants and CITES scheduled specimens, while its operative system combines hunting
-prohibitions, narrow exceptions, protected areas, trade controls, institutions,
-penalties and enforcement. Every answer must fix the legal time point before using
-a schedule, species placement, vermin claim or penalty.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-1972 Act;
-pre-2022 versus
-post-2022 schedules;
-Schedules I-IV;
-hunting prohibition;
-exceptions and
-permits;
-vermin time point;
-Chapter VB;
-CITES authorities;
-invasive alien
-species power;
-WCCB;
-NBWL /
-NTCA /
-Chief Wildlife
-Warden roles;
-legal-source caution.
-                              |
-                              v
-PROTECTED-AREA
-CATEGORY DETAIL:
-Topic 06.
-                              |
-                              v
-CITES TREATY
-MECHANICS:
-Topic 09.
-                              |
-                              v
-IUCN
-SCIENTIFIC STATUS:
-Topic 05.
-                              |
-                              v
-FOREST RIGHTS /
-CRITICAL WILDLIFE
-HABITAT:
-Topic 11.
-                              |
-                              v
-              BRANCH I: LEGAL-VINTAGE TIMELINE
-1972 ACT.
-                              |
-                              v
-national wildlife
-protection,
-hunting and
-trade-control
-framework.
-                              |
-                              v
-PRE-2022.
-                              |
-                              v
-SIX
-SCHEDULES.
-                              |
-                              v
-old Schedule I /
-Part II of II
-high-protection
-structure;
-other animal
-schedules;
-Schedule V
-vermin;
-Schedule VI
-plants.
-                              |
-                              v
-2002.
-                              |
-                              v
-Conservation /
-Community Reserves
-and institutional
-changes in wider Act.
-                              |
-                              v
-2006.
-                              |
-                              v
-NTCA /
-Tiger Reserve
-statutory architecture;
-WCCB framework.
-                              |
-                              v
-2022
-AMENDMENT.
-                              |
-                              v
-six schedules
-restructured
-to four.
-                              |
-                              v
-CITES trade
-chapter and
-authorities.
-                              |
-                              v
-invasive alien
-species power.
-                              |
-                              v
-management-plan
-strengthening.
-                              |
-                              v
-RULE:
-historical PYQ
-uses law at its
-question date;
-current answer uses
-current structure.
-                              |
-                              v
-              BRANCH II: POST-2022 SCHEDULE MAP
-SCHEDULE I.
-                              |
-                              v
-ANIMALS
-with greatest
-degree of protection.
-                              |
-                              v
-most stringent
-owner-described
-offence consequences.
-                              |
-                              v
-SCHEDULE II.
-                              |
-                              v
-ANIMALS
-with lesser degree
-than Schedule I,
-still protected.
-                              |
-                              v
-SCHEDULE III.
-                              |
-                              v
-SPECIFIED PLANTS.
-                              |
-                              v
-inherits function
-of old Schedule VI.
-                              |
-                              v
-NOT
-third animal tier.
-                              |
-                              v
-SCHEDULE IV.
-                              |
-                              v
-CITES-LISTED
-SCHEDULED
-SPECIMENS.
-                              |
-                              v
-international
-trade-control
-alignment.
-                              |
-                              v
-NOT
-highest domestic
-protection rung.
-                              |
-                              v
-              BRANCH III: SPECIES-PLACEMENT GATE
-SPECIES NAMED.
-                              |
-                              v
-FIX
-legal date.
-                              |
-                              v
-CHECK
-current consolidated
-schedule /
-gazette notification.
-                              |
-                              v
-SEPARATE:
-IUCN category.
-                              |
-                              v
-SEPARATE:
-Wildlife Act
-schedule.
-                              |
-                              v
-SEPARATE:
-CITES Appendix.
-                              |
-                              v
-SEPARATE:
-CMS Appendix.
-                              |
-                              v
-RULE:
-one status
-does not prove
-another.
-                              |
-                              v
-NO MEMORY
-SHORTCUT:
-species placement
-can change.
-                              |
-                              v
-                BRANCH IV: HUNTING BASELINE
-BASELINE:
-hunting of
-protected wild
-animals prohibited.
-                              |
-                              v
-HUNTING
-includes legally
-defined killing,
-capturing and
-related acts.
-                              |
-                              v
-CLAIMED
-EXCEPTION.
-                              |
-                              v
-identify exact
-statutory condition.
-                              |
-                              v
-identify schedule.
-                              |
-                              v
-identify competent
-authority.
-                              |
-                              v
-obtain applicable
-written permission /
-permit.
-                              |
-                              v
-RULE:
-exception is
-narrow,
-not general
-permission.
-                              |
-                              v
-              BRANCH V: NARROW ANIMAL-ACTION ROUTE
-DANGEROUS
-TO HUMAN LIFE.
-                              |
-                              v
-or
-DISABLED /
-DISEASED
-BEYOND RECOVERY.
-                              |
-                              v
-evidence-based
-determination.
-                              |
-                              v
-Schedule I route
-requires owner-
-recorded written
-permission of
-Chief Wildlife
-Warden.
-                              |
-                              v
-other schedule /
-provision route
-may involve
-authorised officer.
-                              |
-                              v
-scientific,
-educational,
-collection or
-management purpose
-also needs the
-applicable permit.
-                              |
-                              v
-DO NOT INVENT:
-open population-
-control exception.
-                              |
-                              v
-              BRANCH VI: VERMIN TIME-POINT MAP
-PRE-2022.
-                              |
-                              v
-old Schedule V
-contained vermin
-structure.
-                              |
-                              v
-2022 CHANGE.
-                              |
-                              v
-old Schedule V
-omitted.
-                              |
-                              v
-CURRENT OWNER
-ROUTE.
-                              |
-                              v
-Central Government
-notification under
-the applicable
-statutory power,
-identified in owner
-as Section 62.
-                              |
-                              v
-specified
-area.
-                              |
-                              v
-specified
-period.
-                              |
-                              v
-Schedule I animal
-excluded.
-                              |
-                              v
-PYQ RULE:
-do not retrofit
-post-2022 law
-onto a historical
-classification.
-                              |
-                              v
-              BRANCH VII: CITES DOMESTIC BRIDGE
-CITES
-international
-Appendix decision.
-                              |
-                              v
-INDIAN
-LEGAL UPDATE.
-                              |
-                              v
-Schedule IV
-scheduled specimen.
-                              |
-                              v
-CHAPTER VB.
-                              |
-                              v
-international trade
-in scheduled
-specimens.
-                              |
-                              v
-MANAGEMENT
-AUTHORITY.
-                              |
-                              v
-permits and
-certificates.
-                              |
-                              v
-SCIENTIFIC
-AUTHORITY.
-                              |
-                              v
-trade-impact /
-conservation
-advice.
-                              |
-                              v
-RULE:
-CITES change
-does not instantly
-rewrite Indian law;
-domestic notification
-step remains.
-                              |
-                              v
-              BRANCH VIII: SCIENCE-TRADE-ENFORCEMENT CHAIN
-SPECIMEN
-IDENTITY.
-                              |
-                              v
-source /
-origin /
-legal acquisition.
-                              |
-                              v
-Scientific Authority
-advice /
-non-detriment
-finding where
-applicable.
-                              |
-                              v
-Management Authority
-document.
-                              |
-                              v
-Customs /
-border inspection.
-                              |
-                              v
-WCCB intelligence
-and coordination.
-                              |
-                              v
-state investigation /
-forensics /
-prosecution.
-                              |
-                              v
-WEAKEST LINKS:
-misdeclaration,
-forged permits,
-species identification,
-data-poor science,
-jurisdictional gaps,
-case delay.
-                              |
-                              v
-              BRANCH IX: INVASIVE ALIEN SPECIES POWER
-2022
-AMENDMENT.
-                              |
-                              v
-Central Government
-empowered to
-regulate or
-prohibit:
-                              |
-                              v
-import.
-                              |
-                              v
-trade.
-                              |
-                              v
-possession.
-                              |
-                              v
-proliferation.
-                              |
-                              v
-FIRST VERIFY:
-applicable legal
-notification /
-species identification.
-                              |
-                              v
-ECOLOGICAL
-RATIONALE:
-competition,
-predation,
-disease,
-hybridisation,
-ecosystem change.
-                              |
-                              v
-IMPLEMENTATION
-TENSION:
-ecological risk
-vs established
-ornamental,
-agricultural or
-commercial use.
-                              |
-                              v
-ENABLING POWER
-does not prove
-a species is
-currently notified.
-                              |
-                              v
-              BRANCH X: PROTECTED-AREA LAW WITHIN ACT
-STATE
-GOVERNMENT /
-WILDLIFE
-DEPARTMENT.
-                              |
-                              v
-National Park,
-Sanctuary,
-Conservation Reserve,
-Community Reserve
-field governance.
-                              |
-                              v
-MANAGEMENT
-PLANS.
-                              |
-                              v
-post-2022
-statutory backing
-highlighted by
-owner.
-                              |
-                              v
-NBWL.
-                              |
-                              v
-protected-area
-governance /
-approval role.
-                              |
-                              v
-NTCA.
-                              |
-                              v
-tiger-specific
-statutory role.
-                              |
-                              v
-RULE:
-neither Board
-replaces the
-Chief Wildlife
-Warden's field
-jurisdiction.
-                              |
-                              v
-              BRANCH XI: INSTITUTION MAP
-MoEFCC.
-                              |
-                              v
-central
-administration,
-notifications and
-policy.
-                              |
-                              v
-CHIEF WILDLIFE
-WARDEN.
-                              |
-                              v
-state authorisation,
-custody,
-field enforcement.
-                              |
-                              v
-WCCB.
-                              |
-                              v
-constituted under
-Section 38Y
-on retrievable
-MoEFCC page.
-                              |
-                              v
-Section 38Z
-functions:
-intelligence,
-coordination,
-capacity building,
-international
-cooperation.
-                              |
-                              v
-CUSTOMS /
-POLICE /
-FOREST
-DEPARTMENTS.
-                              |
-                              v
-seizure,
-investigation,
-prosecution support.
-                              |
-                              v
-NBWL /
-STATE BOARDS.
-                              |
-                              v
-wildlife-policy and
-protected-area roles.
-                              |
-                              v
-NTCA.
-                              |
-                              v
-tiger-specific
-standards and
-oversight.
-                              |
-                              v
-              BRANCH XII: 2022 REFORM LOGIC
-CITES
-COMPLIANCE GAP.
-                              |
-                              v
-six-to-four
-schedule restructuring.
-                              |
-                              v
-Schedule IV
-mirroring architecture.
-                              |
-                              v
-Management /
-Scientific
-Authorities.
-                              |
-                              v
-trade chapter.
-                              |
-                              v
-invasive alien
-species power.
-                              |
-                              v
-management plans.
-                              |
-                              v
-stronger legal
-coherence.
-                              |
-                              v
-BUT:
-legal alignment
-!= forensic capacity.
-                              |
-                              v
-legal alignment
-!= uniform state
-enforcement.
-                              |
-                              v
-legal alignment
-!= lower trafficking
-by itself.
-                              |
-                              v
-              BRANCH XIII: SPECIES / EXAMPLE BANK
-TIGER /
-ELEPHANT.
-                              |
-                              v
-owner uses as
-well-established
-Schedule I examples,
-subject to current
-text verification.
-                              |
-                              v
-INDIAN
-FLYING FOX.
-                              |
-                              v
-historical vermin
-time-point PYQ;
-do not answer with
-current structure
-without qualification.
-                              |
-                              v
-OLD SCHEDULE VI
-PLANTS.
-                              |
-                              v
-historical plant-law
-PYQ route;
-current equivalent
-function sits in
-Schedule III.
-                              |
-                              v
-RED SANDERS.
-                              |
-                              v
-plant,
-trade,
-native-range and
-CITES cross-link;
-exact current
-placement requires
-verification.
-                              |
-                              v
-PROSOPIS
-JULIFLORA.
-                              |
-                              v
-invasive-impact
-adjacent route;
-legal notification
-must not be assumed
-from ecological label.
-                              |
-                              v
-              BRANCH XIV: OFFENCE-TO-RESPONSE CHAIN
-ILLEGAL
-HUNTING /
-CAPTURE.
-                              |
-                              v
-field detection /
-intelligence.
-                              |
-                              v
-seizure and
-species identification.
-                              |
-                              v
-chain of custody /
-forensics.
-                              |
-                              v
-investigation /
-charge.
-                              |
-                              v
-prosecution /
-penalty under
-applicable vintage.
-                              |
-                              v
-ORGANISED
-TRAFFICKING.
-                              |
-                              v
-WCCB,
-customs,
-police,
-states,
-international
-liaison.
-                              |
-                              v
-HABITAT
-LOSS.
-                              |
-                              v
-protected-area /
-forest /
-environmental-law
-response,
-not Schedule
-classification alone.
-                              |
-                              v
-              BRANCH XV: COMMUNITY AND RIGHTS BOUNDARY
-WILDLIFE
-PROTECTION.
-                              |
-                              v
-may overlap
-customary use,
-forest tenure,
-livelihoods.
-                              |
-                              v
-FOREST RIGHTS
-ACT processes
-remain legally
-distinct.
-                              |
-                              v
-CRITICAL TIGER
-HABITAT
-!= Critical
-Wildlife Habitat.
-                              |
-                              v
-relocation /
-rights extinguishment
-requires the
-applicable statutory
-route.
-                              |
-                              v
-RULE:
-do not use the
-Wildlife Act as
-an automatic eraser
-of recognised rights.
-                              |
-                              v
-              BRANCH XVI: DATA / SOURCE CRITICISM
-INDIA CODE
-returned HTTP 403
-during complete
-package audit
-on 3 September 2026.
-                              |
-                              v
-official state
-copies of 2022
-amendment were
-raw or image PDFs
-and not text-mined.
-                              |
-                              v
-retrievable MoEFCC
-material was used
-narrowly for
-WCCB Sections
-38Y and 38Z.
-                              |
-                              v
-stale or erroneous
-official-page material
-was excluded.
-                              |
-                              v
-NO INFERENCE
-of:
-current species
-schedule,
-penalty amount,
-later amendment,
-notification.
-                              |
-                              v
-RULE:
-exact schedule,
-penalty and
-species placement
-must be checked
-against current
-consolidated law.
-                              |
-                              v
-              BRANCH XVII: MAJOR DEBATES
-STRICT LAW
-vs ENFORCEMENT
-CAPACITY.
-                              |
-                              v
-answer:
-statute plus
-forensics,
-staff,
-coordination and
-prosecution.
-                              |
-                              v
-CENTRAL
-CLASSIFICATION
-vs STATE
-IMPLEMENTATION.
-                              |
-                              v
-answer:
-uniform law needs
-uneven-capacity
-correction.
-                              |
-                              v
-NATIVE-SPECIES
-PROTECTION
-vs INVASIVE
-CONTROL.
-                              |
-                              v
-answer:
-ecosystem-level
-mandate with
-evidence and
-economic transition.
-                              |
-                              v
-CITES
-ALIGNMENT
-vs AUTOMATICITY.
-                              |
-                              v
-answer:
-structural alignment,
-separate domestic
-legal effect.
-                              |
-                              v
-              HIGH-RISK UPSC TRAPS
-current Act !=
-six schedules;
-Schedule III !=
-animal tier;
-Schedule IV !=
-highest protection;
-old Schedule V !=
-current standing list;
-vermin claim needs
-area, period and
-legal vintage;
-hunting exception !=
-general permission;
-Management Authority
-!= Scientific Authority;
-WCCB != universal
-permit authority;
-CITES change !=
-instant Schedule IV
-change;
-IUCN != WPA !=
-CITES.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT PRELIMS 2020 Q81:
-old Schedule VI
-plant-species
-implications.
-Official key
-unavailable locally;
-answer must use
-historical legal
-vintage.
-                              |
-                              v
-DIRECT PRELIMS 2022 Q89:
-Indian wildlife-
-protection law and
-protected-animal
-provisions.
-Official key
-unavailable locally;
-no answer inferred.
-                              |
-                              v
-DIRECT PRELIMS 2024 Q20:
-Indian Flying Fox
-and vermin category
-under the Act.
-Official Set-A key
-available locally;
-answer not reproduced
-or inferred;
-question-date law
-controls.
-                              |
-                              v
-CROSS-ROUTED PRELIMS 2018 Q98:
-Forest Rights Act,
-Critical Wildlife
-Habitat and
-Baiga rights.
-Primary owner:
-Topic 11.
-Official key
-unavailable locally.
-                              |
-                              v
-ADJACENT PRELIMS 2018 Q86:
-Prosopis juliflora
-and invasive
-biodiversity impact.
-Primary owner:
-Topic 28.
-Official key
-unavailable locally;
-ecological invasiveness
-does not prove a
-current legal listing.
-                              |
-                              v
-BOUNDARY PRELIMS 2024 Q30:
-cashew,
-papaya and
-red sanders
-native-to-India
-comparison.
-Primary owner:
-Topic 11.
-Official Set-A key
-available locally;
-answer not reproduced
-or inferred.
-                              |
-                              v
-ADJACENT PRELIMS 2026 Q22:
-Western hoolock
-gibbon status,
-habitat and
-arboreal adaptation.
-Primary owner:
-Topic 05.
-Only provisional
-Set-A key present;
-no schedule placement
-or answer inferred.
-                              |
-                              v
-NO AUDITED
-DIRECT MAINS
-DEMAND
-is manufactured
-for this owner.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-legal vintage
--> six to four
--> Schedules I-II
--> Schedule III
--> Schedule IV
--> species-placement
-gate
--> hunting baseline
--> exceptions
--> vermin
--> Chapter VB
--> CITES authorities
--> invasive power
--> WCCB /
-NBWL /
-NTCA
--> source caution.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-FIX
-pre-2022 or
-post-2022 law.
-                              |
-                              v
-CLASSIFY
-the schedule's
-function.
-                              |
-                              v
-VERIFY
-species placement
-and notification.
-                              |
-                              v
-TRACE
-prohibition,
-exception,
-authority and
-permit.
-                              |
-                              v
-LINK
-CITES,
-trade enforcement,
-invasive control
-or protected areas
-as demanded.
-                              |
-                              v
-ADD
-forensic,
-state-capacity and
-coordination gaps.
-                              |
-                              v
-QUALIFY
-legal source,
-date,
-penalty and
-implementation.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-The 2022 restructuring gives India a clearer treaty-aligned wildlife-law
-architecture, but schedule design is only the legal starting point. Credible
-protection requires current notification discipline, narrow and reviewable
-exceptions, scientific and forensic capacity, coordinated state and border
-enforcement, and rights-aware habitat governance. The examiner-safe rule is
-simple: fix the legal vintage, identify the exact statutory function and never
-convert a label into an unverified species placement or conservation outcome.
+WILD LIFE (PROTECTION) ACT, 1972
+│  current four-schedule structure: 1 APRIL 2023
+│
+├─ CENTRAL RULE
+│  ├─ species + habitat + trade + offence law
+│  └─ DATE first; label ≠ enforcement ≠ recovery
+│
+├─ 1. EVOLUTION
+│  ├─ 1972 → schedules, hunting, PAs, trade
+│  ├─ 1986 → Chapter VA commerce controls
+│  ├─ 1991 → plants + CZA
+│  ├─ 2002–03 → Boards + new reserves + forfeiture
+│  ├─ 2006 → NTCA + WCCB
+│  └─ 2022 Act
+│     ├─ assent 19 Dec 2022
+│     ├─ effective 1 Apr 2023
+│     └─ four schedules + CITES + invasives + plan/penalty reform
+│
+├─ 2. CURRENT SCHEDULES
+│  ├─ SCHEDULE I — animals
+│  │  └─ strongest schedule-linked consequence
+│  ├─ SCHEDULE II — other protected animals
+│  │  └─ §9 applies; §62 vermin notification possible
+│  ├─ SCHEDULE III — specified plants
+│  │  └─ take • possess • cultivate • deal • transport controls
+│  └─ SCHEDULE IV — CITES scheduled specimens
+│     ├─ Appendices I • II • III
+│     └─ trade function, NOT higher protection
+│
+├─ HISTORICAL FIREWALL
+│  ├─ old V = vermin • old VI = plants
+│  └─ historical PYQ uses historical law
+│
+├─ SCHEDULE TRAPS
+│  ├─ III ≠ animal tier
+│  ├─ IV ≠ Schedule I+
+│  ├─ CITES ≠ WPA ≠ IUCN
+│  └─ §61 can amend; dual-listed I/II + IV → I/II prevails (§49R)
+│
+├─ 3. HUNTING
+│  ├─ §9: Schedule I/II hunting prohibited nationwide
+│  ├─ includes attempts, capture, snares, traps, bait,
+│  │  injury, body parts and egg/nest damage
+│  ├─ §11 Schedule I
+│  │  ├─ CWLW + written reasons
+│  │  ├─ human-life danger OR beyond recovery
+│  │  └─ kill only if capture/tranquillise/translocate infeasible
+│  ├─ §11 Schedule II
+│  │  └─ human life OR property/crops OR beyond recovery
+│  ├─ good-faith self-defence; own illegality defeats defence
+│  └─ §12 permits
+│     └─ education • research • non-lethal management
+│        • zoo/museum specimens • life-saving venom
+│
+├─ §62 VERMIN
+│  ├─ Central notification
+│  ├─ Schedule II only
+│  ├─ stated area + period
+│  └─ nuisance/invasive label alone ≠ vermin
+│
+├─ 4. SPECIFIED PLANTS — CHAPTER IIIA
+│  ├─ §17A: no unauthorised taking/possession/sale/transport
+│  ├─ §17B: science/herbarium/propagation permit
+│  ├─ §17C: cultivation licence
+│  ├─ §17D: dealer licence
+│  └─ narrow Scheduled Tribe personal-use proviso
+│
+├─ 5. POSSESSION → TRADE → TRANSPORT
+│  ├─ §39 Government property
+│  │  └─ possession obtained → report within 48 hours
+│  ├─ §§40–42 permission/declaration/ownership certificate
+│  ├─ §42A surrender
+│  │  └─ 7 working days • no compensation • State property
+│  ├─ §43 certificate ≠ unrestricted sale
+│  ├─ interstate movement → report within 30 days
+│  ├─ §§44–49 dealer/taxidermy licence + lawful source
+│  ├─ §48A transporter due care
+│  └─ captive elephant → 2024 inquiry + CWLW permit
+│
+├─ 6. PLACE + RIGHTS
+│  ├─ WLS • NP • Conservation • Community Reserve
+│  ├─ FRA/Scheduled-Area sanctuary plan
+│  │  └─ Gram Sabha consultation
+│  ├─ pending NP rights
+│  │  └─ alternative fuel/fodder/forest-produce arrangements
+│  ├─ critical tiger habitat = WPA §38V
+│  ├─ Critical Wildlife Habitat = separate FRA process
+│  └─ non-voluntary tiger-core relocation needs
+│     └─ completed rights + necessity + no coexistence option
+│        + package/facilities + informed consent
+│
+├─ 7. AUTHORITIES
+│  ├─ NBWL → national policy • PA/impact review
+│  ├─ SBWL → State advice • rights harmonisation
+│  ├─ CWLW → State permits • custody • enforcement
+│  ├─ CZA → zoos
+│  ├─ NTCA → tigers
+│  └─ WCCB → crime intelligence • coordination • support
+│
+├─ 8. CITES — CHAPTER VB
+│  ├─ Scientific Authority
+│  │  └─ advice • non-detriment • export monitoring
+│  ├─ Management Authority
+│  │  └─ permits/certificates • reports
+│  ├─ Appendix I → strict export/import
+│  ├─ Appendix II → controlled export
+│  ├─ Appendix III → origin/listing-country proof
+│  ├─ §49M → living-animal possession/transfer/birth/death
+│  ├─ §§49N–O → Appendix I breeder licence
+│  └─ 2023 trade/breeder rules + 2024 living-animal rules
+│
+├─ 9. INVASIVES — §62A
+│  ├─ non-native animal/plant
+│  ├─ threatens wildlife/habitat
+│  ├─ Central notification may regulate/prohibit
+│  │  └─ import • trade • possession • proliferation
+│  └─ notified species may be seized/disposed
+│
+├─ 10. PENALTY + PROCESS
+│  ├─ general: ≤3 years / ≤₹1 lakh / both
+│  ├─ Schedule I/PA/Appendix I of Schedule IV:
+│  │  └─ 3–7 years + minimum ₹25,000
+│  ├─ repeat serious → minimum fine ₹1 lakh
+│  ├─ tiger-core offences → separate higher bands
+│  ├─ §51A bail: specified offence + previous conviction
+│  ├─ compounding ≤₹5 lakh; minimum-term offence excluded
+│  ├─ §50 reasonable grounds + Magistrate
+│  ├─ §55 complaint gate / 60-day notice
+│  └─ §57 rebuttable unlawful-possession presumption
+│
+├─ CHAPTER VIA FORFEITURE
+│  ├─ serious convict + associates/certain holders
+│  ├─ freeze → authority 48 h → confirmation 30 days
+│  ├─ §58H notice + source evidence
+│  ├─ §58I hearing + finding
+│  ├─ §58J burden on affected person
+│  └─ appeal 45 days; up to 60 for sufficient cause
+│
+├─ 11. OUTCOME TEST
+│  ├─ schedule notification ≠ recovery
+│  ├─ vermin notification ≠ permanent national status
+│  ├─ permit ≠ perfect source • seizure ≠ conviction
+│  └─ PA notification ≠ rights/plan delivery
+│
+├─ PYQ ROUTE
+│  ├─ Direct: 2020 Q81 • 2022 Q89 • 2024 Q20 (dropped)
+│  ├─ Shared: 2018 Q86 • 2018 Q98
+│  ├─ Boundary: 2024 Q30
+│  └─ no routed direct Mains, 2018–2025
+│
+└─ 20-SECOND ANSWER SPINE
+   ├─ DATE law
+   ├─ IDENTIFY schedule/provision
+   ├─ TRACE prohibition → exception → authority → procedure
+   ├─ ADD CITES/institution/rights link
+   ├─ CHECK penalty + safeguards
+   └─ CONCLUDE: capacity + measured recovery
 ```
+
+**Final recall:** Four schedules clarify functions; notifications, competent authorities, due process, rights compliance and outcomes determine whether the law works.

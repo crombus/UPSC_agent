@@ -1,1156 +1,1196 @@
 ---
 title: "Terrorism and Counter-Terror Architecture — Solved Practice Workbook"
 topic_key: internal-security-02
+reviewed_on: 2026-09-27
 ---
+
 # Terrorism and Counter-Terror Architecture — Solved Practice Workbook
+
+## Evidence and use note
+
+This workbook is controlled by the Topic 02 Basic and Advanced owners, the Internal Security master framework and syllabus mapping, all 2018–2026 routing ledgers, locally held official UPSC papers/keys, and the authoritative legal/current checks recorded in the learning session. Original questions are not presented as PYQs. Official wording, OCR normalisation, ownership and answer status are stated item by item.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Terrorism definition?
+### Q1. Which formulation best captures the working concept of terrorism used in this topic?
 
-A. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-B. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-C. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-D. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-
-**Answer: A.**
-**Explanation:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q2. Which option preserves the legal or institutional boundary of Terrorism definition?
-
-A. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-B. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-C. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-D. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-
-**Answer: B.**
-**Explanation:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q3. Which statement uses Terrorism definition without changing its institution, law or status?
-
-A. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-B. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-C. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-D. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-
-**Answer: C.**
-**Explanation:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Terrorism definition?
-
-A. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-B. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-C. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-D. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-
-**Answer: D.**
-**Explanation:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q5. Which statement correctly identifies Terrorism-insurgency-Naxalism?
-
-A. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-B. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-C. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-D. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
+A. Organised violence used to coerce a wider audience for a political, religious or ideological purpose.
+B. A violent offence that frightens its immediate victims, irrespective of motive or intended audience.
+C. A radical belief that rejects prevailing policy despite involving no violent conduct or facilitation.
+D. An armed rebellion seeking territorial control through a claimed public base.
 
 **Answer: A.**
-**Explanation:** Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q6. Which option preserves the legal or institutional boundary of Terrorism-insurgency-Naxalism?
+**Option-specific explanation:**
+- **A — correct:** It identifies coercive purpose, organised violence and the wider audience without treating every offence as terrorism.
+- **B — incorrect:** Fear alone does not establish terrorism; ordinary violent crime can also create fear.
+- **C — incorrect:** Belief or dissent by itself is not the violent conduct captured by the working definition.
+- **D — incorrect:** That formulation describes an insurgency more closely and is too narrow for terrorism.
 
-A. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-B. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-C. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-D. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
+### Q2. Which statement most accurately distinguishes terrorism from insurgency?
+
+A. Terrorism is primarily international, whereas insurgency remains confined within one State.
+B. Terrorism is a coercive method; insurgency is a sustained armed political campaign.
+C. Insurgency is a criminal phenomenon, whereas terrorism is principally territorial secession.
+D. The two terms are legally and analytically interchangeable whenever firearms are used.
 
 **Answer: B.**
-**Explanation:** Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q7. Which statement uses Terrorism-insurgency-Naxalism without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** Either phenomenon may have domestic and cross-border dimensions.
+- **B — correct:** The categories can overlap, but method and broader political-military campaign are not identical.
+- **C — incorrect:** Insurgency is political, while terrorism can pursue several political or ideological objectives.
+- **D — incorrect:** Weapon choice cannot erase differences in organisation, objective and social base.
 
-A. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-B. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-C. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-D. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
+### Q3. A formally non-State group receives sanctuary, training and weapons from a foreign government but conducts attacks through local cells. What is the most defensible classification?
+
+A. A direct interstate war, because foreign assistance makes the group part of the sponsor State's armed forces.
+B. A domestic actor whose foreign support is irrelevant once local operatives carry out the attack.
+C. A State-sponsored proxy: the non-State actor operates while a foreign State supplies material support.
+D. An organised-crime syndicate because cross-border logistics establish a predominantly profit-seeking objective.
 
 **Answer: C.**
-**Explanation:** Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Terrorism-insurgency-Naxalism?
+**Option-specific explanation:**
+- **A — incorrect:** Support does not automatically make the group a formal organ of the sponsor State.
+- **B — incorrect:** This ignores the distinct financing, sanctuary and direction questions.
+- **C — correct:** This preserves both the group's formal identity and the sponsor's enabling role.
+- **D — incorrect:** Logistics may be criminal, but the dominant objective can remain political coercion.
 
-A. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-B. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-C. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-D. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
+### Q4. Which ordering moves from an early, non-judicial security claim to the strongest adjudicated criminal conclusion?
+
+A. Charge-sheet → intelligence assessment → conviction → investigation.
+B. Designation → conviction → arrest → judicial review.
+C. Search → conviction → seizure → prosecution sanction.
+D. Intelligence assessment → investigative allegation → charge-sheet → trial → conviction.
 
 **Answer: D.**
-**Explanation:** Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q9. Which statement correctly identifies State-proxy boundary?
+**Option-specific explanation:**
+- **A — incorrect:** It reverses the operational and evidentiary sequence.
+- **B — incorrect:** Executive designation does not itself precede every case or establish conviction.
+- **C — incorrect:** Search and seizure are investigative acts, while conviction follows trial.
+- **D — correct:** The sequence preserves the increasing evidentiary and judicial character of each stage.
 
-A. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-B. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-C. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-D. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
+### Q5. Which causal account of radicalisation is the most analytically sound?
+
+A. Recruiters and networks convert grievance into violent mobilisation.
+B. Unemployment by itself produces terrorism whenever a community is exposed to online media.
+C. Exposure to an extremist message is equivalent to joining a terrorist organisation.
+D. Counter-radicalisation should begin after an attack reveals the relevant network.
 
 **Answer: A.**
-**Explanation:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q10. Which option preserves the legal or institutional boundary of State-proxy boundary?
+**Option-specific explanation:**
+- **A — correct:** It avoids deterministic causation and identifies the organisational conversion mechanism.
+- **B — incorrect:** A structural condition is not a sufficient causal explanation and the statement profiles a community.
+- **C — incorrect:** Exposure, sympathy, facilitation and violent participation are distinct stages.
+- **D — incorrect:** Prevention acts before violence through intelligence, trust and off-ramps.
 
-A. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-B. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-C. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-D. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
+### Q6. Which counter-radicalisation measure best combines prevention with rights protection?
+
+A. Permanent mass surveillance of a religious community because identity predicts violent intent.
+B. Behaviour-based assessment, community referral, counselling and targeted lawful investigation with review.
+C. Criminal prosecution of policy critics whose posts display hostility to government.
+D. Exclusive reliance on content deletion without offline engagement or grievance channels.
 
 **Answer: B.**
-**Explanation:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q11. Which statement uses State-proxy boundary without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** Identity is not evidence, and indiscriminate surveillance can damage trust and legality.
+- **B — correct:** It focuses on the conversion pathway while preserving non-discrimination and accountability.
+- **C — incorrect:** Dissent is not equivalent to violent incitement or facilitation.
+- **D — incorrect:** Online removal alone does not address recruiters, networks or offline vulnerabilities.
 
-A. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-B. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-C. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-D. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
+### Q7. Which sequence best represents a terrorism ecosystem rather than only an attack event?
+
+A. Arrest → conviction → intelligence → recruitment → target selection.
+B. Grievance directly produces violence, public support and territorial control.
+C. Recruitment → finance → reconnaissance → attack → propaganda → recruitment.
+D. Border fencing → prosecution → ideology → recovery → financing.
 
 **Answer: C.**
-**Explanation:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q12. Which option avoids the standard UPSC close-option trap about State-proxy boundary?
+**Option-specific explanation:**
+- **A — incorrect:** It mixes State-response stages with the threat's operating sequence.
+- **B — incorrect:** The deterministic transitions omit organisation, choice and contestation.
+- **C — correct:** It captures enabling stages before and feedback effects after violence.
+- **D — incorrect:** The sequence combines unrelated response and threat elements.
 
-A. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-B. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-C. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-D. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
+### Q8. Which response is correctly matched to a terror-finance channel?
+
+A. Classify donations to a controversial organisation as terror finance without tracing their use.
+B. Use NSG hostage-rescue teams as the principal agency for analysing hawala transactions.
+C. Treat a provisional property attachment as final confiscation and conviction.
+D. Use financial intelligence and predicate-offence investigation, then separately prove the terrorism link.
 
 **Answer: D.**
-**Explanation:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q13. Which statement correctly identifies Manifestation categories?
+**Option-specific explanation:**
+- **A — incorrect:** Political controversy cannot replace transaction-specific evidence.
+- **B — incorrect:** NSG is a tactical contingency force, not a financial-investigation body.
+- **C — incorrect:** Attachment, adjudication, confiscation and conviction are separate legal stages.
+- **D — correct:** It matches the tool to the channel and preserves the proof requirement.
 
-A. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-B. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-C. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-D. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
+### Q9. Which activity belongs primarily to the prevention stage of the counter-terror lifecycle?
+
+A. Converting intelligence and community reports into pre-attack warning.
+B. Conducting a Special Court trial after a charge-sheet has been filed.
+C. Deploying a specialist assault team during an active hostage crisis.
+D. Restoring public services and assisting victims after an incident.
 
 **Answer: A.**
-**Explanation:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q14. Which option preserves the legal or institutional boundary of Manifestation categories?
+**Option-specific explanation:**
+- **A — correct:** Prevention acts on risk before the harmful event occurs.
+- **B — incorrect:** That is prosecution and adjudication.
+- **C — incorrect:** That is emergency response.
+- **D — incorrect:** That is recovery and resilience.
 
-A. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-B. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-C. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-D. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
+### Q10. Which indicator most directly tests prevention rather than visible enforcement output?
+
+A. Number of press releases issued after counter-terror operations.
+B. Reduced repeat recruitment, supported by referral and community-reporting evidence.
+C. Number of persons arrested in a year without case-stage or disposition data.
+D. Value of property provisionally attached without final adjudication.
 
 **Answer: B.**
-**Explanation:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q15. Which statement uses Manifestation categories without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** Public communication volume does not establish prevention.
+- **B — correct:** It examines whether an enabling pathway weakened rather than counting coercive acts.
+- **C — incorrect:** Arrest is an enforcement output, not proof of prevention or guilt.
+- **D — incorrect:** Attachment is an intermediate legal act, not a preventive outcome.
 
-A. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-B. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-C. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-D. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
+### Q11. Which statement correctly describes the post-26/11 institutional build-out?
+
+A. It placed counter-terror investigation, intelligence and response under NIA, displacing State police.
+B. It made NATGRID the national arresting agency for offences across State boundaries.
+C. It separated investigation, intelligence sharing, data support, specialist response and proposed coordination.
+D. It operationalised NCTC as the final judicial authority for terrorism trials.
 
 **Answer: C.**
-**Explanation:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Manifestation categories?
+**Option-specific explanation:**
+- **A — incorrect:** NIA did not become the sole first responder, intelligence body and court.
+- **B — incorrect:** NATGRID is a data-access and intelligence-support platform.
+- **C — correct:** NIA, MAC, NATGRID, NSG hubs and the NCTC proposal addressed different functions.
+- **D — incorrect:** NCTC was not operationalised as proposed and was never a court.
 
-A. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-B. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-C. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-D. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
+### Q12. Which is the most accurate description of the National Investigation Agency?
+
+A. A 24×7 intelligence-fusion platform confined to circulating alerts among agencies.
+B. A specialist assault force whose mandate is hostage rescue and counter-hijack response.
+C. A judicial body that designates individuals and determines guilt without trial.
+D. A statutory investigator and prosecutor for offences in the NIA Act Schedule.
 
 **Answer: D.**
-**Explanation:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q17. Which statement correctly identifies Funding architecture?
+**Option-specific explanation:**
+- **A — incorrect:** That describes MAC/SMAC rather than NIA.
+- **B — incorrect:** That describes NSG's contingency role.
+- **C — incorrect:** Designation is executive and guilt is judicial; NIA is not a court.
+- **D — correct:** This states its legal subject-matter mandate without making it a universal police force.
 
-A. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-B. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-C. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-D. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
+### Q13. What is the principal function of MAC and SMAC in the verified current architecture?
+
+A. Round-the-clock intelligence sharing among Central and State agencies.
+B. Trying scheduled offences through day-to-day criminal proceedings.
+C. Ordering attachment of property and issuing final confiscation judgments.
+D. Conducting exceptional hostage-rescue assaults throughout the country.
 
 **Answer: A.**
-**Explanation:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q18. Which option preserves the legal or institutional boundary of Funding architecture?
+**Option-specific explanation:**
+- **A — correct:** The MHA describes MAC/SMAC as intelligence-sharing arrangements.
+- **B — incorrect:** Trials belong to competent courts, including designated Special Courts.
+- **C — incorrect:** Those are statutory investigative and adjudicatory processes, not MAC functions.
+- **D — incorrect:** That is an NSG-type operational role, not intelligence fusion.
 
-A. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-B. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-C. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-D. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
+### Q14. Which statement about NATGRID is most accurate?
+
+A. It is a statutory court hearing NIA prosecutions across its jurisdiction.
+B. An authorised data-analysis platform without arrest or prosecution powers.
+C. It is the proposed NCTC operating under another name with nationwide search powers.
+D. It replaces source evaluation because a database match is admissible proof of guilt.
 
 **Answer: B.**
-**Explanation:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q19. Which statement uses Funding architecture without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** NATGRID is not a court.
+- **B — correct:** This preserves the platform-versus-agency distinction.
+- **C — incorrect:** The systems have different institutional histories and mandates.
+- **D — incorrect:** Data leads require lawful verification and evidentiary conversion.
 
-A. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-B. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-C. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-D. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
+### Q15. Which role belongs most directly to the National Security Guard?
+
+A. Routine registration and investigation of terrorism FIRs across the States.
+B. Continuous integration of government databases for authorised intelligence queries.
+C. Federal counter-terror, counter-hijack and hostage-rescue intervention.
+D. Executive designation of individuals in the Fourth Schedule to UAPA.
 
 **Answer: C.**
-**Explanation:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Funding architecture?
+**Option-specific explanation:**
+- **A — incorrect:** Ordinary policing remains with State police and statutory case allocation varies.
+- **B — incorrect:** That is NATGRID's support function.
+- **C — correct:** This is NSG's specialist operational function.
+- **D — incorrect:** The Central Government exercises the statutory designation power.
 
-A. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-B. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-C. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-D. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
+### Q16. Which statement best reflects the verified status and controversy of NCTC?
+
+A. It now operates as NIA's statutory successor and commands State police units.
+B. It is a data platform identical to NATGRID and therefore has no proposed operational powers.
+C. It is a Special Court created under the NIA Act to review UAPA designations.
+D. A proposed apex body kept in abeyance after federal and intelligence-power objections.
 
 **Answer: D.**
-**Explanation:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q21. Which statement correctly identifies Counter-terror chain?
+**Option-specific explanation:**
+- **A — incorrect:** No checked official source supports such operational status.
+- **B — incorrect:** The proposal involved much broader powers than a data platform.
+- **C — incorrect:** NCTC was neither a court nor the UAPA review mechanism.
+- **D — correct:** This captures both federal and institutional objections without calling it operational.
 
-A. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-B. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-C. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-D. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
+### Q17. Which constitutional pairing is correct for counter-terror federalism?
+
+A. State List Entries 1/2: public order/police; Union Entry 2A: aid to civil power.
+B. Public order is in the Union List, while police is in the Concurrent List.
+C. Entry 2A places ordinary police administration under Union direction during deployment.
+D. Article 355 abolishes State responsibility whenever an internal disturbance occurs.
 
 **Answer: A.**
-**Explanation:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q22. Which option preserves the legal or institutional boundary of Counter-terror chain?
+**Option-specific explanation:**
+- **A — correct:** These entries explain State primacy and a distinct Union-assistance route.
+- **B — incorrect:** Both are State List subjects.
+- **C — incorrect:** It concerns deployment in aid of civil power, not transfer of ordinary police administration.
+- **D — incorrect:** The Union duty does not by itself erase the federal distribution of functions.
 
-A. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-B. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-C. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-D. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
+### Q18. Union List Entry 2A is best understood as permitting:
+
+A. Creation of a nationwide criminal court controlled by the armed forces.
+B. Union forces may assist civil power without becoming the ordinary State police.
+C. Use a Central alert itself as the legal basis for transferring a public-order investigation to NIA.
+D. Suspension of fundamental rights during a terror investigation.
 
 **Answer: B.**
-**Explanation:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q23. Which statement uses Counter-terror chain without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** Entry 2A concerns deployment, not judicial institutions.
+- **B — correct:** The phrase 'in aid of' preserves the distinction between assistance and substitution.
+- **C — incorrect:** NIA jurisdiction follows its statute, not Entry 2A alone.
+- **D — incorrect:** No such automatic consequence follows from the entry.
 
-A. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-B. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-C. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-D. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
+**Recall link:** Left-Wing Extremism is a distinct Maoist revolutionary movement and has its own Topic 03 owner; the broad word “terrorism” does not erase that ownership.
+
+### Q19. Which statement correctly separates intelligence from evidence?
+
+A. An intelligence assessment is itself a conviction whenever it names a suspect.
+B. Collect evidence before intelligence assessment because warning has no independent preventive function.
+C. Intelligence may trigger action; guilt requires admissible evidence tested in court.
+D. A database match removes the need to verify identity, source and chain of custody.
 
 **Answer: C.**
-**Explanation:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Counter-terror chain?
+**Option-specific explanation:**
+- **A — incorrect:** Only a court can convict after due process.
+- **B — incorrect:** Intelligence often precedes and guides investigation.
+- **C — correct:** It preserves distinct operational and adjudicatory functions.
+- **D — incorrect:** Automated or database leads still require verification and lawful proof.
 
-A. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-B. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-C. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-D. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
+### Q20. After a major attack, which hand-off best preserves both national capability and case integrity?
+
+A. An intelligence body arrests, investigates, prosecutes and decides guilt to avoid delay.
+B. NSG retains control of the crime scene and conducts the criminal trial.
+C. Treat NATGRID data as a substitute for witness, forensic and documentary evidence.
+D. State police secure evidence; lawful hand-offs lead to investigation, prosecution and judgment.
 
 **Answer: D.**
-**Explanation:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q25. Which statement correctly identifies Post-26/11 build-out?
+**Option-specific explanation:**
+- **A — incorrect:** Concentrating incompatible functions weakens legality and accountability.
+- **B — incorrect:** NSG is a response force, not investigator, prosecutor and court.
+- **C — incorrect:** Data support cannot replace evidentiary proof.
+- **D — correct:** This sequence respects first response, statutory transfer and adjudication.
 
-A. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-B. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-C. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-D. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
+### Q21. Which chronological sequence is correct?
+
+A. UAPA 1967 → TADA → POTA → NIA Act 2008 → 2019 amendments → BNS 2024.
+B. TADA period → UAPA, 1967 → NIA Act, 2008 → POTA, 2002 → BNS, 2024.
+C. POTA, 2002 → TADA period → UAPA, 1967 → NIA amendment, 2019 → NIA Act, 2008.
+D. NIA Act, 2008 → UAPA, 1967 → POTA repeal, 2004 → BNS commencement, 2024.
 
 **Answer: A.**
-**Explanation:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q26. Which option preserves the legal or institutional boundary of Post-26/11 build-out?
+**Option-specific explanation:**
+- **A — correct:** The sequence preserves enactment and commencement order.
+- **B — incorrect:** UAPA predates TADA and POTA predates the NIA Act.
+- **C — incorrect:** Several enactments are reversed.
+- **D — incorrect:** The foundational statutes and repeal are out of order.
 
-A. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-B. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-C. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-D. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
+### Q22. The 2023 Prelims POTA statement is best evaluated how?
+
+A. Correct: POTA barred police confessions from evidence under its special procedure.
+B. Incorrect: POTA admitted qualifying confessions made to SP-rank-or-above officers.
+C. Correct: POTA contained no evidentiary provision concerning confessions.
+D. Incorrect because POTA continues as the governing anti-terror law.
 
 **Answer: B.**
-**Explanation:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q27. Which statement uses Post-26/11 build-out without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** That reverses the special provision tested by the question.
+- **B — correct:** The official question tests the unusual special-law departure from the ordinary rule.
+- **C — incorrect:** POTA expressly addressed the matter.
+- **D — incorrect:** POTA was repealed; its historical status is separate from the confession rule.
 
-A. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-B. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-C. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-D. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
+### Q23. Which UAPA schedule distinction is correct after the 2019 amendment?
+
+A. The First Schedule lists convicted individuals, while the Fourth Schedule lists Special Courts.
+B. Both schedules record judicial convictions following trial.
+C. First Schedule: organisations; Fourth Schedule: individuals after the 2019 amendment.
+D. The Fourth Schedule replaced the First Schedule and ended organisation proscription.
 
 **Answer: C.**
-**Explanation:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Post-26/11 build-out?
+**Option-specific explanation:**
+- **A — incorrect:** Neither schedule has those functions.
+- **B — incorrect:** Listing/designation is executive and distinct from conviction.
+- **C — correct:** The amendment added the individual-designation schedule without merging it with organisation listing.
+- **D — incorrect:** Organisation listing continues; the schedules coexist.
 
-A. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-B. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-C. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-D. After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
+### Q24. Which set correctly states key UAPA changes made in 2019?
+
+A. Creation of NIA, removal of Special Courts, and repeal of prior UAPA amendments.
+B. Transfer of State-police counter-terror powers to MAC and conversion of NATGRID into a court.
+C. Designation itself establishes conviction and permanent confiscation.
+D. Individual designation, Inspector-rank NIA investigation, and DG-NIA property approval.
 
 **Answer: D.**
-**Explanation:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q29. Which statement correctly identifies NIA boundary?
+**Option-specific explanation:**
+- **A — incorrect:** NIA was created in 2008 and Special Courts were not abolished.
+- **B — incorrect:** The amendment did neither.
+- **C — incorrect:** Designation and property action do not eliminate judicial process.
+- **D — correct:** These are distinct changes tied to designation, investigator rank and approval authority.
 
-A. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-B. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-C. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-D. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
+### Q25. Which statement correctly describes individual designation under UAPA?
+
+A. An executive Fourth-Schedule act with statutory removal/review, not a criminal judgment.
+B. It is a conviction entered by an NIA Special Court after a full criminal trial.
+C. It establishes alleged offences in pending cases without further adjudication.
+D. It is identical to arrest and requires the person to be in police custody.
 
 **Answer: A.**
-**Explanation:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q30. Which option preserves the legal or institutional boundary of NIA boundary?
+**Option-specific explanation:**
+- **A — correct:** This captures its legal character and safeguard.
+- **B — incorrect:** Designation precedes and is distinct from any prosecution.
+- **C — incorrect:** Listing does not satisfy criminal evidentiary burdens.
+- **D — incorrect:** Designation can occur independently of arrest.
 
-A. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-B. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-C. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-D. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
+### Q26. What is the significance of UAPA section 43D(5) in a rights analysis?
+
+A. It authorises the Central Government to add names to the Fourth Schedule.
+B. A stringent bail threshold where the accusation appears prima facie true.
+C. It empowers MAC to conduct searches without State-police involvement.
+D. Investigation delay requires acquittal after a short fixed period.
 
 **Answer: B.**
-**Explanation:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q31. Which statement uses NIA boundary without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** That designation power is addressed elsewhere in UAPA.
+- **B — correct:** The provision makes pre-trial liberty and timely adjudication central concerns.
+- **C — incorrect:** MAC is an intelligence-sharing platform and the section is a bail provision.
+- **D — incorrect:** The section does not create that rule.
 
-A. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-B. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-C. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-D. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
+### Q27. Which statement about UAPA section 45 is most accurate?
+
+A. It is the provision that defines NATGRID's data-access mandate.
+B. It converts an executive terrorist designation into a criminal conviction.
+C. A prior-sanction framework for cognisance of specified UAPA offences.
+D. It gives NSG authority to conduct routine State investigations.
 
 **Answer: C.**
-**Explanation:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q32. Which option avoids the standard UPSC close-option trap about NIA boundary?
+**Option-specific explanation:**
+- **A — incorrect:** NATGRID is not constituted by UAPA section 45.
+- **B — incorrect:** Sanction and conviction are different legal stages.
+- **C — correct:** Sanction is a procedural safeguard/condition and remains distinct from guilt.
+- **D — incorrect:** NSG's contingency role does not arise from this provision.
 
-A. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-B. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-C. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-D. The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
+### Q28. Which statement captures the 2019 NIA amendment most accurately?
+
+A. It converted NIA into the central intelligence agency and ended MAC's role.
+B. It displaced State investigation of scheduled offences once an FIR was filed.
+C. It placed the BNS as a whole within the NIA Schedule.
+D. Specified overseas reach, added scheduled offences and designation of Sessions Courts.
 
 **Answer: D.**
-**Explanation:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q33. Which statement correctly identifies MAC-SMAC boundary?
+**Option-specific explanation:**
+- **A — incorrect:** Investigation and intelligence sharing remain institutionally separate.
+- **B — incorrect:** The Act preserves a statutory process and State duties.
+- **C — incorrect:** NIA's jurisdiction remains tied to the statutory Schedule.
+- **D — correct:** These changes widened reach and trial infrastructure without making NIA a universal police force.
 
-A. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-B. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-C. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-D. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
+### Q29. Which statement about NIA Special Courts is correct?
+
+A. Designated trial courts, separate from investigators and prosecutors.
+B. They are intelligence centres that distribute alerts to State police.
+C. They issue UAPA Fourth-Schedule designations as an executive preventive measure.
+D. They remove High Court appellate scrutiny in scheduled-offence cases.
 
 **Answer: A.**
-**Explanation:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q34. Which option preserves the legal or institutional boundary of MAC-SMAC boundary?
+**Option-specific explanation:**
+- **A — correct:** The court determines guilt and is not an arm of the investigating agency.
+- **B — incorrect:** That is not a judicial function.
+- **C — incorrect:** The Central Government exercises designation under the statute.
+- **D — incorrect:** The NIA Act provides an appellate role for the High Court.
 
-A. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-B. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-C. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-D. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
+### Q30. What is the correct relationship between BNS section 113 and UAPA after 1 July 2024?
+
+A. BNS section 113 repealed UAPA and displaced its special-law procedure.
+B. BNS section 113 is a general offence; UAPA remains the special anti-terror law.
+C. UAPA governs conduct abroad, while BNS governs conduct within India.
+D. The two provisions are identical in procedure, bail, sanction and agency consequences.
 
 **Answer: B.**
-**Explanation:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q35. Which statement uses MAC-SMAC boundary without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** No such repeal occurred.
+- **B — correct:** The two legal routes coexist.
+- **C — incorrect:** That territorial split does not describe the statutes.
+- **D — incorrect:** Their legal frameworks differ even where conduct overlaps.
 
-A. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-B. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-C. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-D. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
+### Q31. Who decides, under the explanation to BNS section 113, whether to register the case under that section or UAPA?
+
+A. The Director General of NSG acting as the first responder.
+B. The chair of MAC after an intelligence-fusion meeting.
+C. An officer not below the rank of Superintendent of Police.
+D. A Special Court before the police may register the case.
 
 **Answer: C.**
-**Explanation:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q36. Which option avoids the standard UPSC close-option trap about MAC-SMAC boundary?
+**Option-specific explanation:**
+- **A — incorrect:** NSG does not make the statutory registration choice.
+- **B — incorrect:** MAC is not the registering authority.
+- **C — correct:** This is the express statutory forum-choice rule.
+- **D — incorrect:** The choice is assigned at the police-registration stage.
 
-A. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-B. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-C. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-D. MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
+### Q32. Why is the BNS–UAPA forum choice an advanced governance issue?
+
+A. It allows an SP to convict the accused without presenting evidence to a court.
+B. It invalidated UAPA individual designations made after July 2024.
+C. It ended Centre–State coordination by reserving action to one government.
+D. It affects procedure, sanction, bail and agency pathways, requiring reasoned consistency.
 
 **Answer: D.**
-**Explanation:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q37. Which statement correctly identifies NATGRID boundary?
+**Option-specific explanation:**
+- **A — incorrect:** Registration authority does not confer judicial power.
+- **B — incorrect:** The UAPA designation framework continues.
+- **C — incorrect:** The architecture remains cooperative and statute-dependent.
+- **D — correct:** The decision has legal consequences even though it proves nothing about guilt.
 
-A. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-B. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-C. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-D. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
+### Remedial and synthesis set
+
+Questions 33–40 revisit the errors most likely to survive a first pass: policy-versus-agency, current threat domains, international-to-domestic translation, nexus-versus-identity, evidentiary status, metrics and whole-chain allocation.
+
+### Q33. Which set contains only PRAHAAR's verified elements?
+
+A. Prevention, response, capacity, rule of law, enabling conditions, international alignment and resilience.
+B. Preventive detention; military courts; media censorship; border closure; asset confiscation; deportation; emergency rule.
+C. Investigation; conviction; sentencing; prison reform; extradition; deportation; compensation.
+D. NIA; NSG; MAC; NATGRID; NCTC; CBI; ED.
 
 **Answer: A.**
-**Explanation:** NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q38. Which option preserves the legal or institutional boundary of NATGRID boundary?
+**Option-specific explanation:**
+- **A — correct:** These are the seven elements in the official policy framework.
+- **B — incorrect:** These are not the seven policy elements.
+- **C — incorrect:** This is a legal-process list, not PRAHAAR's architecture.
+- **D — incorrect:** These are institutions or proposals, not the policy's seven elements.
 
-A. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-B. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-C. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-D. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
+### Q34. Which statement correctly describes PRAHAAR's institutional status?
+
+A. It replaced NIA and State police with a single policy-led investigator.
+B. A policy working through existing bodies, not a new arresting agency.
+C. It operationalised NCTC with nationwide search powers.
+D. It is a judicial code governing bail and conviction under UAPA.
 
 **Answer: B.**
-**Explanation:** NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q39. Which statement uses NATGRID boundary without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** The policy did not abolish statutory agencies or State competence.
+- **B — correct:** Policy architecture and institutional mandate are separate.
+- **C — incorrect:** No checked official source supports that claim.
+- **D — incorrect:** PRAHAAR is not a criminal procedure statute.
 
-A. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-B. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-C. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
-D. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
+### Q35. Which contemporary threat set is expressly consistent with PRAHAAR's widened threat-domain discussion?
+
+A. Conventional battlefield invasion by regular armed forces.
+B. Local extortion detached from communications and finance networks.
+C. Cyber attacks, drones, and dark-web or cryptocurrency misuse.
+D. Offences that have already ended in final conviction.
 
 **Answer: C.**
-**Explanation:** NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q40. Which option avoids the standard UPSC close-option trap about NATGRID boundary?
+**Option-specific explanation:**
+- **A — incorrect:** The policy addresses terrorism and newer hybrid enablers, not only conventional war.
+- **B — incorrect:** The verified frame is wider than one domestic funding method.
+- **C — correct:** These illustrate technology-enabled change without replacing classical threats.
+- **D — incorrect:** Threat recognition and prevention necessarily precede conviction.
 
-A. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-B. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-C. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-D. NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description.
+### Q36. What is the best use of the 2022 Delhi Declaration in this topic?
+
+A. As evidence that terrorist use of technology ended after the declaration.
+B. As the statute that created NIA Special Courts in India.
+C. As an executive order designating individuals under UAPA.
+D. As an international cooperation anchor; assess implementation separately.
 
 **Answer: D.**
-**Explanation:** NATGRID is an intelligence data-linkage architecture; its operational status and accessible datasets require a dated official source and must not be inferred from a book-period description. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q41. Which statement correctly identifies NCTC federalism issue?
+**Option-specific explanation:**
+- **A — incorrect:** A declaration does not establish eradication or implementation outcomes.
+- **B — incorrect:** Special Courts arise under the NIA Act.
+- **C — incorrect:** The Declaration has no such domestic listing function.
+- **D — correct:** It links international norm-setting to operational follow-through without conflating them.
 
-A. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-B. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-C. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-D. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
+### Q37. Which statement best describes the terrorism–organised crime relationship?
+
+A. They may share services and routes while retaining different dominant objectives.
+B. Shared use of violence makes an organised-crime group terrorist regardless of objective.
+C. A terrorist group ceases to be terrorist whenever it raises money through crime.
+D. Domestic organised crime and transnational terrorism operate in separate systems without exchange.
 
 **Answer: A.**
-**Explanation:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q42. Which option preserves the legal or institutional boundary of NCTC federalism issue?
+**Option-specific explanation:**
+- **A — correct:** The nexus is operational; terrorism seeks political coercion and organised crime ordinarily seeks profit.
+- **B — incorrect:** Violence alone does not establish a political coercive objective.
+- **C — incorrect:** Criminal financing does not erase the political objective.
+- **D — incorrect:** Both can operate domestically or transnationally and may collaborate.
 
-A. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-B. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-C. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-D. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
+### Q38. An NIA release says suspects were searched, arrested and chargesheeted in a terror conspiracy. Which conclusion is justified?
 
-**Answer: B.**
-**Explanation:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q43. Which statement uses NCTC federalism issue without changing its institution, law or status?
-
-A. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-B. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-C. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-D. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-
-**Answer: C.**
-**Explanation:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q44. Which option avoids the standard UPSC close-option trap about NCTC federalism issue?
-
-A. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-B. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-C. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-D. The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-
-**Answer: D.**
-**Explanation:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q45. Which statement correctly identifies State-police primacy?
-
-A. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-B. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-C. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-D. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-
-**Answer: A.**
-**Explanation:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q46. Which option preserves the legal or institutional boundary of State-police primacy?
-
-A. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-B. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-C. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-D. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
+A. A charge-sheet establishes guilt because it contains the investigation's allegations and evidence.
+B. The case reached stated investigative stages; guilt remains for judicial determination.
+C. The alleged sponsor State's responsibility is finally adjudicated by the press release.
+D. The policy response has prevented similar attacks across the system.
 
 **Answer: B.**
-**Explanation:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q47. Which statement uses State-police primacy without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** A charge-sheet presents the prosecution case; it is not judgment.
+- **B — correct:** The verbs should track the official procedural status.
+- **C — incorrect:** An agency release is not an international or criminal judgment.
+- **D — incorrect:** One case status cannot establish system-wide prevention.
 
-A. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-B. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-C. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-D. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
+### Q39. Which evaluation framework avoids confusing counter-terror outputs with outcomes?
 
-**Answer: C.**
-**Explanation:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q48. Which option avoids the standard UPSC close-option trap about State-police primacy?
-
-A. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-B. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-C. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-D. Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-
-**Answer: D.**
-**Explanation:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q49. Which statement correctly identifies UAPA 2019 designation?
-
-A. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-B. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-C. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-D. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-
-**Answer: A.**
-**Explanation:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q50. Which option preserves the legal or institutional boundary of UAPA 2019 designation?
-
-A. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-B. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-C. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-D. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-
-**Answer: B.**
-**Explanation:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q51. Which statement uses UAPA 2019 designation without changing its institution, law or status?
-
-A. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-B. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-C. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-D. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
+A. Treat the number of arrests as a complete measure of deterrence, justice and social trust.
+B. Treat legislation as sufficient evidence that implementing agencies possess operational capacity.
+C. Track readiness, disruption, evidence, adjudication, recruitment, recovery and trust separately.
+D. Treat the absence of an attack in one period as proof that one named programme caused it.
 
 **Answer: C.**
-**Explanation:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q52. Which option avoids the standard UPSC close-option trap about UAPA 2019 designation?
+**Option-specific explanation:**
+- **A — incorrect:** Arrests reveal activity, not the later outcomes.
+- **B — incorrect:** Legal authority and operational capability are distinct.
+- **C — correct:** It uses stage-appropriate indicators and avoids a single-count success claim.
+- **D — incorrect:** Prevention is counterfactual and requires cautious multi-indicator evaluation.
 
-A. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-B. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-C. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-D. The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
+### Q40. A State receives a credible warning about an online-recruited cell, followed by an active hostage incident and later prosecution. Which allocation is most appropriate?
 
-**Answer: D.**
-**Explanation:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q53. Which statement correctly identifies Designation-conviction firewall?
-
-A. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-B. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-C. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-D. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-
-**Answer: A.**
-**Explanation:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q54. Which option preserves the legal or institutional boundary of Designation-conviction firewall?
-
-A. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-B. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-C. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-D. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-
-**Answer: B.**
-**Explanation:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q55. Which statement uses Designation-conviction firewall without changing its institution, law or status?
-
-A. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-B. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-C. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-D. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-
-**Answer: C.**
-**Explanation:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Designation-conviction firewall?
-
-A. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-B. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-C. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-D. Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
+A. NATGRID conducts the assault, MAC files the charge-sheet, and NSG pronounces conviction.
+B. NCTC takes command of terrorism cases under the current operational structure.
+C. The Central Government's designation of a suspect completes the criminal process.
+D. MAC warns; police respond; NSG resolves the crisis; investigators prove; courts decide.
 
 **Answer: D.**
-**Explanation:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q57. Which statement correctly identifies NIA 2019 amendment?
+**Option-specific explanation:**
+- **A — incorrect:** Each named body is assigned a function it does not possess.
+- **B — incorrect:** NCTC was not operationalised as proposed.
+- **C — incorrect:** Designation cannot replace investigation, trial and judgment.
+- **D — correct:** The allocation matches warning, response, investigation and adjudication to distinct bodies.
 
-A. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-B. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-C. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-D. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
+### Answer key — rotation check
 
-**Answer: A.**
-**Explanation:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+`ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD`
 
-### Q58. Which option preserves the legal or institutional boundary of NIA 2019 amendment?
+**Count:** 40 original MCQs. **Distribution:** A=10, B=10, C=10, D=10.
 
-A. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-B. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-C. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-D. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-
-**Answer: B.**
-**Explanation:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q59. Which statement uses NIA 2019 amendment without changing its institution, law or status?
-
-A. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-B. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-C. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-D. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-
-**Answer: C.**
-**Explanation:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about NIA 2019 amendment?
-
-A. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-B. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-C. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-D. The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-
-**Answer: D.**
-**Explanation:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q61. Which statement correctly identifies BNS-UAPA concurrency?
-
-A. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-B. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-C. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-D. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-
-**Answer: A.**
-**Explanation:** BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q62. Which option preserves the legal or institutional boundary of BNS-UAPA concurrency?
-
-A. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-B. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-C. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-D. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-
-**Answer: B.**
-**Explanation:** BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q63. Which statement uses BNS-UAPA concurrency without changing its institution, law or status?
-
-A. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-B. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-C. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-D. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-
-**Answer: C.**
-**Explanation:** BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about BNS-UAPA concurrency?
-
-A. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-B. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-C. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-D. BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-
-**Answer: D.**
-**Explanation:** BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q65. Which statement correctly identifies UAPA bail boundary?
-
-A. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-B. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-C. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-D. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-
-**Answer: A.**
-**Explanation:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q66. Which option preserves the legal or institutional boundary of UAPA bail boundary?
-
-A. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-B. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-C. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-D. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-
-**Answer: B.**
-**Explanation:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q67. Which statement uses UAPA bail boundary without changing its institution, law or status?
-
-A. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-B. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-C. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-D. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-
-**Answer: C.**
-**Explanation:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about UAPA bail boundary?
-
-A. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-B. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-C. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-D. UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-
-**Answer: D.**
-**Explanation:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q69. Which statement correctly identifies TADA-POTA precedent?
-
-A. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-B. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-C. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-D. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-
-**Answer: A.**
-**Explanation:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q70. Which option preserves the legal or institutional boundary of TADA-POTA precedent?
-
-A. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-B. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-C. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-D. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-
-**Answer: B.**
-**Explanation:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q71. Which statement uses TADA-POTA precedent without changing its institution, law or status?
-
-A. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-B. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-C. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-D. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-
-**Answer: C.**
-**Explanation:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about TADA-POTA precedent?
-
-A. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-B. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-C. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-D. TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
-
-**Answer: D.**
-**Explanation:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q73. Which statement correctly identifies PRAHAAR policy?
-
-A. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-B. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-C. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-D. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-
-**Answer: A.**
-**Explanation:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q74. Which option preserves the legal or institutional boundary of PRAHAAR policy?
-
-A. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-B. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-C. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-D. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-
-**Answer: B.**
-**Explanation:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q75. Which statement uses PRAHAAR policy without changing its institution, law or status?
-
-A. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-B. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-C. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-D. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-
-**Answer: C.**
-**Explanation:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about PRAHAAR policy?
-
-A. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-B. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-C. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-D. PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-
-**Answer: D.**
-**Explanation:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q77. Which statement correctly identifies Policy-agency-outcome firewall?
-
-A. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-B. Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-C. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-D. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-
-**Answer: A.**
-**Explanation:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q78. Which option preserves the legal or institutional boundary of Policy-agency-outcome firewall?
-
-A. Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-B. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-C. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-D. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-
-**Answer: B.**
-**Explanation:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q79. Which statement uses Policy-agency-outcome firewall without changing its institution, law or status?
-
-A. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-B. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-C. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-D. A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-
-**Answer: C.**
-**Explanation:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Policy-agency-outcome firewall?
-
-A. Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-B. The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-C. The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-D. PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
-
-**Answer: D.**
-**Explanation:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
+---
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### Ownership and status ledger
 
-The owner and audited GS-III ledgers route the 2019 UAPA/NIA amendment demand, the 2021 terrorism-complexity demand and the 2025 manifestation/counter-measures demand here. No objective key or unverified contemporary incident attribution is supplied.
+| ID | Year/paper | Ownership | Wording/key status |
+|---|---|---|---|
+| O1 | 2023 Prelims GS-I Q77 | **APPLICATION**; primary Polity owner | Official wording; inferred answer, no final local key |
+| O2 | 2024 Prelims GS-I Q82 | **APPLICATION**; primary post-Independence/current-affairs owner | Official wording; official Set-A key D |
+| M1 | 2019 GS-III Q19 | **DIRECT** | Official wording; no official model answer |
+| M2 | 2021 GS-III Q20 | **DIRECT** | Official wording; no official model answer |
+| M3 | 2025 GS-III Q9 | **DIRECT** | Official wording; no official model answer |
+| M4 | 2021 GS-III Q19 | **SHARED**; primary Topic 01 | Official wording; no official model answer |
+| M5 | 2019 GS-III Q9 | **APPLICATION**; primary Topic 05 | Official wording; no official model answer |
+| M6 | 2022 GS-III Q9 | **SHARED**; primary Topic 11 | Official wording; no official model answer |
+| M7 | 2023 GS-III Q19 | **SHARED**; primary Topic 12 | Official wording; no official model answer |
+| M8 | 2023 GS-III Q20 | **APPLICATION**; primary Topic 10 | Official wording; no official model answer |
+| M9 | 2024 GS-III Q9 | **APPLICATION**; primary Topic 11 | Official wording with one OCR correction |
+| M10 | 2024 GS-II Q19 | **APPLICATION**; primary International Relations | Official wording with one OCR correction |
+| M11 | 2024 GS-IV Case 8 | **APPLICATION**; primary Ethics/Topic 09 | Condensed application extract; normalised from the official local paper, not an exact full reproduction |
+| M12 | 2026 GS-III Q20 | **APPLICATION**; primary Topic 10 | Official wording; no official model answer |
+| M13 | 2026 GS-IV Q2(b) | **SHARED**; primary Ethics | Official exact English line |
 
-### PYQ DEMAND CARD 1 — 2019 GS-III
+**No directly routed objective PYQ exists for Topic 02 in the audited 2018–2026 Prelims ledgers.** O1 and O2 are retained as clearly labelled applications; no answer is presented as official unless a local official key exists.
 
-**Demand:** UAPA and NIA Act amendments in the prevailing security environment.
+### Objective PYQ O1 — 2023 Prelims GS-I Q77 — APPLICATION
 
-**Status:** Audited neutral rendering; Analyse · 15 marks · 250 words. The owner and OCR paper verify the routed demand.
+**Ownership:** Primary routing owner: Polity/basic/Emergency-Provisions. Included because statement 3 directly tests POTA's anti-terror evidence rule and the item also tests Article 355.
 
-**Model solution:** **NIA boundary:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **NCTC federalism issue:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **State-police primacy:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **UAPA 2019 designation:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Designation-conviction firewall:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **NIA 2019 amendment:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. **UAPA bail boundary:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **TADA-POTA precedent:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks and obvious OCR punctuation normalised. No final official key is held locally.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2019 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Prelims PYQ\QP_CS_Pre_Exam_2023_280523.pdf.md`.
 
-**Detailed examiner-grade model answer:**
+> Consider the following statements:
+>
+> 1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances.
+> 2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention.
+> 3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence.
+>
+> How many of the above statements are correct?
+>
+> (a) Only one
+> (b) Only two
+> (c) All three
+> (d) None
 
-**Introduction and thesis:** **NIA boundary:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **NCTC federalism issue:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **State-police primacy:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **UAPA 2019 designation:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Designation-conviction firewall:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **NIA 2019 amendment:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. **UAPA bail boundary:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **TADA-POTA precedent:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Answer status:** INFERRED — NOT OFFICIALLY VERIFIED LOCALLY: (b) Only two. Confidence: high.
 
-**Analytical body:**
+1. **Correct.** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance.
+2. **Correct in the constitutional sense tested.** Article 22(3)(b) excludes preventive detention from the clause 22(1) guarantee of consulting and being defended by a legal practitioner.
+3. **Incorrect.** POTA created a special rule under which a qualifying confession to a police officer not below the rank of Superintendent of Police could be admissible, subject to statutory conditions.
 
-1. **Claim:** Demand: UAPA and NIA Act amendments in the prevailing security environment. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Audited neutral rendering; Analyse · 15 marks · 250 words. The owner and OCR paper verify the routed demand. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+- **(a) Only one — incorrect:** statements 1 and 2 are supported.
+- **(b) Only two — inferred correct:** statements 1 and 2 are correct; statement 3 reverses POTA's special rule.
+- **(c) All three — incorrect:** statement 3 is false.
+- **(d) None — incorrect:** the constitutional propositions in statements 1 and 2 are supported.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+**Transferable lesson:** historical special-law provisions must be read exactly; POTA is repealed, but its evidentiary rule remains examinable as history.
 
-**Qualified conclusion:** **NIA boundary:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **NCTC federalism issue:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **State-police primacy:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **UAPA 2019 designation:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Designation-conviction firewall:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **NIA 2019 amendment:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. **UAPA bail boundary:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **TADA-POTA precedent:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### Objective PYQ O2 — 2024 Prelims GS-I Q82 — APPLICATION
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Ownership:** Primary routing owner: Modern Indian History/Post-Independence synthesis. Included only for the counter-terror training objective; it does not establish an institutional mandate for NIA, NSG or MAC.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised; the locally held official Set-A key records D.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2019 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Prelims PYQ\2024-GS1-Set A.md; key: Ans-2024-GS1.md`.
 
-### PYQ DEMAND CARD 2 — 2021 GS-III
+> Which of the following statements about 'Exercise Mitra Shakti-2023' are correct?
+>
+> 1. This was a joint military exercise between India and Bangladesh.
+> 2. It commenced in Aundh (Pune).
+> 3. Joint response during counter-terrorism operations was a goal of this operation.
+> 4. Indian Air Force was a part of this exercise.
+>
+> Select the answer using the code given below:
+>
+> (a) 1, 2 and 3
+> (b) 1, 2 and 4
+> (c) 1, 3 and 4
+> (d) 2, 3 and 4
 
-**Demand:** Terrorism complexity, causes, linkages, nexus and measures for eradication.
+**Answer status:** OFFICIAL SET-A KEY: (d) 2, 3 and 4.
 
-**Status:** Audited neutral rendering; Analyse · 15 marks · 250 words.
+1. **Incorrect.** Mitra Shakti-2023 was an India–Sri Lanka exercise, not India–Bangladesh.
+2. **Correct.** The exercise commenced at Aundh, Pune.
+3. **Correct.** Joint response during counter-terrorism operations formed part of the exercise objective.
+4. **Correct.** Indian Air Force personnel participated.
 
-**Model solution:** **Terrorism definition:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **State-proxy boundary:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Manifestation categories:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Funding architecture:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. **Counter-terror chain:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **State-police primacy:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **UAPA bail boundary:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Policy-agency-outcome firewall:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+- **(a) — incorrect:** it includes false statement 1 and omits statement 4.
+- **(b) — incorrect:** it includes false statement 1 and omits statement 3.
+- **(c) — incorrect:** it includes false statement 1 and omits statement 2.
+- **(d) — correct:** statements 2, 3 and 4 match the keyed combination.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2021 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Transferable lesson:** an exercise may build counter-terror interoperability, but it is not itself a domestic investigating, intelligence or prosecuting institution.
 
-**Detailed examiner-grade model answer:**
+### Mains PYQ M1 — 2019 GS-III Q19 — DIRECT
 
-**Introduction and thesis:** **Terrorism definition:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **State-proxy boundary:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Manifestation categories:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Funding architecture:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. **Counter-terror chain:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **State-police primacy:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **UAPA bail boundary:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Policy-agency-outcome firewall:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Ownership:** Directly routed to Topic 02.
 
-**Analytical body:**
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised; the printed spelling 'Analyze' is retained.
 
-1. **Claim:** Demand: Terrorism complexity, causes, linkages, nexus and measures for eradication. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Audited neutral rendering; Analyse · 15 marks · 250 words. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM19-GeneralStudies-III.pdf.md`.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+> Indian Government has recently strengthened the anti-terrorism laws by amending the Unlawful Activities (Prevention) Act (UAPA), 1967 and the NIA Act. Analyze the changes in the context of prevailing security environment while discussing the scope and reasons for opposing the UAPA by human rights organizations. **(Answer in 250 words) 15**
 
-**Qualified conclusion:** **Terrorism definition:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **State-proxy boundary:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Manifestation categories:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Funding architecture:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. **Counter-terror chain:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **State-police primacy:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **UAPA bail boundary:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Policy-agency-outcome firewall:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Original model answer (217 words; limit 250):**
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+The 2019 amendments sought to make India's anti-terror framework respond to mobile networks, renamed organisations and offences with cross-border reach, but expanded power must remain reviewable.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2021 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+Under UAPA, the Central Government may designate an **individual**, not only an organisation, as a terrorist in the Fourth Schedule. NIA officers of Inspector rank or above may investigate specified UAPA offences, and the Director General of NIA approves seizure or attachment of property in NIA-investigated cases. The NIA amendment widened specified extra-territorial reach, added offences to the statutory Schedule and permitted Courts of Session to be designated Special Courts. These changes can reduce jurisdictional gaps and make investigation more agile.
 
-### PYQ DEMAND CARD 3 — 2025 GS-III
+Human-rights objections concern process and proportionality. Executive designation carries reputational and practical consequences before conviction. UAPA section 43D(5) imposes a stringent bail threshold, so prolonged pre-trial deprivation can become the operative penalty. Broad statutory language may also chill lawful association or dissent if applied without evidence-based screening.
 
-**Demand:** "Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain."
+Safeguards should therefore include reasoned designation, effective removal and Review Committee procedures, independent scrutiny of sanction and attachment, time-bound investigation and trial, disclosure sufficient for defence, and judicial review. State police must remain capable first responders.
 
-**Status:** Verbatim owner-preserved question; Elaborate/Explain · 10 marks · 150 words.
+Thus, stronger reach is defensible against networked terrorism only when designation, arrest, charge-sheet and conviction remain distinct and every coercive step is lawful, necessary and accountable.
 
-**Model solution:** **Terrorism definition:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **State-proxy boundary:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Manifestation categories:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Counter-terror chain:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Post-26/11 build-out:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. **NIA boundary:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **MAC-SMAC boundary:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **PRAHAAR policy:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Policy-agency-outcome firewall:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2025 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+### Mains PYQ M2 — 2021 GS-III Q20 — DIRECT
 
-**Detailed examiner-grade model answer:**
+**Ownership:** Directly routed to Topic 02.
 
-**Introduction and thesis:** **Terrorism definition:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **State-proxy boundary:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Manifestation categories:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Counter-terror chain:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Post-26/11 build-out:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. **NIA boundary:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **MAC-SMAC boundary:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **PRAHAAR policy:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Policy-agency-outcome firewall:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised.
 
-**Analytical body:**
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf.md`.
 
-1. **Claim:** Demand: "Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain." **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Verbatim owner-preserved question; Elaborate/Explain · 10 marks · 150 words. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+> Analyse the complexity and intensity of terrorism, its causes, linkages and obnoxious nexus. Also suggest measures required to be taken to eradicate the menace of terrorism. **(Answer in 250 words) 15**
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
 
-**Qualified conclusion:** **Terrorism definition:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **State-proxy boundary:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Manifestation categories:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Counter-terror chain:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Post-26/11 build-out:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. **NIA boundary:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **MAC-SMAC boundary:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **PRAHAAR policy:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Policy-agency-outcome firewall:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Original model answer (221 words; limit 250):**
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+Terrorism is complex because political violence is produced by an ecosystem, not by the visible attacker alone.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+Its causes vary: ideological mobilisation, identity conflict, perceived injustice, governance deficits and external strategic sponsorship. None is mechanically sufficient; recruiters and organisations convert susceptibility into violence. Linkages then multiply intensity. State sponsors may provide sanctuary, finance, training or weapons through proxies. Organised crime supplies documents, routes, contraband and laundering services. Hawala, front entities and counterfeit currency move resources. Encrypted communication, drones and online propaganda lower coordination, delivery and recruitment costs. Local facilitators connect the external network to targets and terrain.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2025 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+Measures must break each link. Community-based prevention, credible grievance redress and behaviour-based counter-radicalisation should reduce recruitment. MAC/SMAC intelligence sharing and capable State police should identify cells early. Border, financial and cyber measures should disrupt movement, funds and communication. NSG should remain an exceptional response force; NIA or State police should investigate under the applicable statute; competent courts should test admissible evidence. International cooperation should support sanctions, financial intelligence and legal assistance.
+
+“Eradication” cannot mean force alone. Overbroad coercion may weaken trust and create fresh recruitment narratives. Success should be measured through disrupted networks, lower repeat recruitment, timely fair trials, victim recovery and public confidence.
+
+A durable strategy therefore combines prevention, precise coercion, lawful prosecution and resilience while preserving federal roles and human rights.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M3 — 2025 GS-III Q9 — DIRECT
+
+**Ownership:** Directly routed to Topic 02.
+
+**Wording status:** OFFICIAL LOCAL PAPER — exact English wording with line-break normalisation.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\UPSC Mains 2025 GS Paper 3 3.md`.
+
+> Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (147 words; limit 150):**
+
+Terrorism coerces a wider political audience through organised violence. In India it appears through hinterland modules, cross-border proxy terrorism in Jammu and Kashmir, terror tactics within some insurgencies, and technology-enabled recruitment or delivery. NIA's 2025 Pahalgam case material is an **investigation/chargesheet** example, not a final conviction.
+
+The response should follow the lifecycle. MAC/SMAC and State intelligence support prevention; police protect targets and act as first responders; border, cyber and financial agencies disrupt infiltration, communications and funds; NSG provides exceptional tactical response; State police or NIA investigate; Special Courts adjudicate. UAPA, the NIA Act and BNS section 113 provide distinct legal routes.
+
+PRAHAAR, released on 23 February 2026, links prevention, response, capacity aggregation, rule of law, attenuation of enabling conditions, international cooperation and resilience. Its launch is a policy fact, not proof of reduced terrorism. Durable success requires targeted enforcement, fair trials, community trust and recovery.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M4 — 2021 GS-III Q19 — SHARED
+
+**Ownership:** Primary routing owner: Topic 01. Shared here for the external-State/non-State and proxy-terrorism limb.
+
+**Wording status:** OFFICIAL LOCAL PAPER — punctuation and line breaks normalised.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf.md`.
+
+> Analyse the multidimensional challenges posed by external state and non-state actors, to the internal security of India. Also discuss measures required to be taken to combat these threats. **(Answer in 250 words) 15**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (202 words; limit 250):**
+
+External State and non-State actors create a hybrid challenge because formal identity, operational control and domestic impact need not coincide.
+
+A hostile State may use proxies, sanctuary, training, finance, weapons, cyber operations and disinformation while retaining deniability. Non-State actors include terrorist organisations, insurgent networks, organised crime and cyber actors; their objectives range from political coercion and territorial influence to profit. Cross-border support becomes an internal-security threat when it exploits porous routes, identity grievances, illicit markets, weak local policing or insecure digital systems.
+
+Responses must be matched to the transmission channel. Diplomatic pressure and international cooperation address sponsors; border and coastal surveillance restrict movement; financial intelligence and predicate-offence investigation target funds; cyber resilience and lawful platform investigation address digital links. MAC/SMAC should fuse warning, while State police remain first responders and evidence collectors. NIA may investigate scheduled offences through the statutory route; courts alone determine guilt.
+
+Development, representation and grievance redress reduce exploitable vulnerabilities, but they cannot substitute for protection against imminent violence. Equally, coercion must be necessary, proportionate and reviewable; identity cannot substitute for evidence.
+
+India must therefore reduce the external actor's access, the domestic network's capability and the local vulnerability simultaneously, using cooperative federalism rather than an undifferentiated central response.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M5 — 2019 GS-III Q9 — APPLICATION
+
+**Ownership:** Primary routing owner: Topic 05. Included for the facilitator-network and evidentiary-status concepts.
+
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM19-GeneralStudies-III.pdf.md`.
+
+> The banning of 'Jamaat-e-Islami' in Jammu and Kashmir brought into focus the role of over-ground workers (OGWs) in assisting terrorist organizations. Examine the role played by OGWs in assisting terrorist organizations in insurgency affected areas. Discuss measures to neutralize influence of OGWs. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (147 words; limit 150):**
+
+Over-ground workers are alleged facilitators connecting an underground violent network to society without necessarily attacking. Roles may include reconnaissance, shelter, transport, communications, recruitment, propaganda, finance, procurement and warning about security movement.
+
+Neutralisation should be function-specific. Intelligence-led policing must identify conduct and network links; financial and digital investigation should trace funds and communications; witness protection and forensic capacity should convert leads into admissible evidence. Border and local policing should disrupt movement and safe houses. Community outreach, grievance channels, youth engagement and credible rehabilitation pathways can reduce recruitment and coercive dependence.
+
+Legal precision is essential. Membership, sympathy, political criticism, facilitation, conspiracy and violent participation are not interchangeable. Organisation proscription or an arrest does not prove an individual's guilt; evidence must establish the alleged role, followed by timely fair trial.
+
+The objective is to isolate the violent network while preserving community trust, not treat a population as its support base.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M6 — 2022 GS-III Q9 — SHARED
+
+**Ownership:** Primary routing owner: Topic 11. Shared here for the terrorism-ecosystem boundary.
+
+**Wording status:** OFFICIAL LOCAL PAPER — sentence and line-break normalisation only.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf.md`.
+
+> Discuss the types of organised crimes. Describe the linkages between terrorists and organised crime that exist at the national and transnational levels. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (150 words; limit 150):**
+
+Organised crime includes trafficking in drugs, arms and persons; smuggling; extortion; counterfeit currency; cyber-enabled fraud; illegal betting and laundering. Its dominant aim is durable illicit profit, unlike terrorism's political or ideological coercion.
+
+The two nevertheless form a service nexus. Criminal networks can provide routes, forged documents, weapons, safe houses, transport, corruption and laundering; terrorist groups can offer protection, territory or coercive capacity. At the national level, extortion and local smuggling may fund cells. Transnationally, hawala, maritime or land routes, virtual assets and front entities can move value and material across jurisdictions.
+
+Responses require joint financial, customs, police and intelligence work; beneficial-ownership and transaction analysis; border cooperation; controlled delivery where lawful; mutual legal assistance; and prosecution of both the predicate crime and terrorism link.
+
+The analytical safeguard is “nexus, not identity”: shared infrastructure does not make every criminal a terrorist, so the political purpose and evidentiary connection must be proved separately.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M7 — 2023 GS-III Q19 — SHARED
+
+**Ownership:** Primary routing owner: Topic 12; Topic 02 shares the counter-terror mandate distinctions.
+
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf.md`.
+
+> What are the internal security challenges being faced by India? Give out the role of Central Intelligence and Investigative Agencies tasked to counter such threats. **(Answer in 250 words) 15**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (193 words; limit 250):**
+
+India's challenges include terrorism and cross-border proxies, LWE, region-specific insurgency, organised crime and illicit finance, border and coastal infiltration, cyber attacks, online radicalisation and information operations. Their seriousness depends on the vulnerability and consequence, not merely the actor's presence.
+
+Central intelligence arrangements collect, assess and share warning. The MHA's 2024–2025 Annual Report describes MAC at the Centre and SMACs in States as 24×7 intelligence-sharing mechanisms. NATGRID supports authorised data access and analysis. Intelligence can trigger prevention or investigation, but it is not itself admissible proof.
+
+Central investigative agencies have a different role. NIA investigates and prosecutes offences in the NIA Act Schedule when the statutory route is invoked. It must convert leads into forensic, documentary, digital and witness evidence. Special Courts adjudicate; NSG is a tactical contingency force, not an investigator; State police remain first responders and ordinary public-order actors.
+
+Effectiveness requires interoperable systems, clear hand-offs, trained State units, forensic capacity, time-bound prosecution and feedback after each case. Federalism and rights are performance conditions: public order and police are State subjects, while Union agencies and forces supply lawful national reach.
+
+Therefore, mandate clarity and evidence continuity matter more than institutional proliferation.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M8 — 2023 GS-III Q20 — APPLICATION
+
+**Ownership:** Primary routing owner: Topic 10. Included for the financing link in the general terrorism ecosystem.
+
+**Wording status:** OFFICIAL LOCAL PAPER — words rejoined from OCR; no substantive wording change.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf.md`.
+
+> Give out the major sources of terror funding in India and the efforts being made to curtail these sources. In the light of this, also discuss the aim and objective of the 'No Money for Terror (NMFT)' Conference recently held at New Delhi in November 2022. **(Answer in 250 words) 15**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (190 words; limit 250):**
+
+Terror finance sustains recruitment, travel, safe houses, communications, weapons and propaganda. Sources may include external sponsorship, extortion, hawala, counterfeit currency, contraband, diversion through front entities or charities, and proceeds supplied by organised crime.
+
+India must attack each channel differently. Financial intelligence and suspicious-transaction analysis trace formal and informal transfers; investigation of predicate offences links criminal proceeds to terrorism; customs, border and narcotics agencies interdict cash and contraband; UAPA and PMLA processes may freeze or attach assets subject to their statutory safeguards; NIA or State police build the terrorism case. International sanctions, information exchange, mutual legal assistance and beneficial-ownership transparency reduce cross-border safe havens.
+
+The third NMFT Ministerial Conference in New Delhi in November 2022 sought stronger international cooperation against terror financing, including abuse of formal and informal channels and newer technologies. Its value lies in political coordination and exchange of practices; a conference declaration is not itself a domestic conviction or asset recovery.
+
+Effectiveness should be judged by traceable disruption, adjudicated confiscation, prosecution quality and reduced network regeneration—not by the number of searches or provisional attachments alone. Detailed FATF evaluation and AML/CFT compliance remain Topic 10's primary domain.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M9 — 2024 GS-III Q9 — APPLICATION
+
+**Ownership:** Primary routing owner: Topic 11. Included for one financing/logistics manifestation of terrorism.
+
+**Wording status:** OFFICIAL LOCAL PAPER — the OCR misspelling 'terrosrism' is transparently normalised to 'terrorism'.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\03 UPSC 2024 Paper-III.md`.
+
+> Explain how narco-terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter narco-terrorism. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (145 words; limit 150):**
+
+Narco-terrorism is the operational nexus in which drug proceeds, trafficking routes or coercive protection support terrorist activity. It threatens India by funding recruitment and weapons, corrupting institutions, exploiting land and maritime borders, and connecting domestic cells to transnational criminal markets.
+
+The response must join rather than merge mandates: intelligence-led mapping of routes and facilitators; coordinated action by State police, NCB, customs, border/coastal forces and NIA where scheduled offences arise; financial investigation of proceeds, front entities and suspicious transfers; forensic and digital evidence; international information and legal assistance; and treatment-oriented demand reduction.
+
+Seizure volume alone is an incomplete success metric. Agencies must prove the link between drugs, proceeds and terrorist purpose, pursue lawful attachment and final adjudication, and track whether networks regenerate.
+
+Thus, narco-terrorism is defeated by breaking the crime-to-finance-to-violence chain while preserving evidentiary standards and avoiding the assumption that every narcotics case is terrorism.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M10 — 2024 GS-II Q19 — APPLICATION
+
+**Ownership:** Primary routing owner: International Relations Topic 12. Included for the international-cooperation pillar of counter-terror architecture.
+
+**Wording status:** OFFICIAL LOCAL PAPER — 'effectivencess' is transparently normalised to 'effectiveness'; line breaks normalised.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\02 UPSC 2024 Paper-II.md`.
+
+> ‘Terrorism has become a significant threat to global peace and security.’ Evaluate the effectiveness of the United Nations Security Council's Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level. **(Answer in 250 words) 15**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (205 words; limit 250):**
+
+The Security Council's Counter-Terrorism Committee, established after resolution 1373, promotes implementation of binding counter-terror obligations rather than operating as a police or court.
+
+Its strengths are norm diffusion, country assessment and technical assistance. The Counter-Terrorism Committee Executive Directorate supports expert assessment and identifies capacity gaps; cooperation with UN bodies helps States strengthen border controls, legislation, finance safeguards and responses to new technologies. The 2022 Delhi Declaration gave a focused framework for terrorist misuse of information technologies, payment technologies and unmanned aerial systems.
+
+Effectiveness is nevertheless uneven. The Committee depends on member-state implementation, reliable reporting and domestic capacity. Political divisions can produce selective enforcement; differing definitions complicate consensus; sanctions and listings face due-process concerns; and norms do not automatically generate admissible evidence, extradition or conviction. Terrorist networks adapt faster than some regulatory systems and exploit weak jurisdictions.
+
+Improvement requires risk-based technical assistance, transparent listing and review, better coordination with FATF and regional bodies, assistance for digital evidence and mutual legal assistance, and systematic outcome evaluation rather than compliance paperwork alone.
+
+Thus, the CTC is valuable as a norm-setting, monitoring and capacity-building hub, but its impact is mediated by domestic law, institutions and political cooperation. International architecture complements; it cannot replace accountable national prevention, investigation and prosecution.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M11 — 2024 GS-IV Case 8 — APPLICATION
+
+**Ownership:** Primary routing owner: Ethics case-study method; Topic 09 owns platform mechanics. Included because it directly tests radicalisation prevention, intelligence, proportionality and community trust.
+
+**Wording status:** CONDENSED APPLICATION EXTRACT FROM THE OFFICIAL LOCAL PAPER — paragraphing, punctuation and obvious OCR glyph errors are normalised, and repeated narrative detail is omitted. This is not an exact full reproduction; the three subquestions are retained.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\05 UPSC 2024 Paper-IV_Final 1.md`.
+
+**Condensed case extract (not exact full wording):**
+
+> Raman is a senior IPS officer and has recently been posted as D.G. of a State. Among the various issues and problems/challenges which needed his immediate attention, the issue relating to recruitment of unemployed youth by an unknown terrorist group was a matter of grave concern.
+
+It was noted that unemployment was relatively high in the State. The problem of unemployment amongst graduates and those with higher education was much more grave. Thus, they were vulnerable and soft targets.
+
+In the review meeting taken by him with senior officers of DIG Range and above, it came to light that a new terrorist group has emerged at the global level. It has launched a massive drive to recruit young unemployed people. Special focus was to pick young people from a particular community. The organisation seemed to have the clear objective of using them for carrying out militant activities. It was also gathered that the new group is desperately trying to spread its tentacles in his State.
+
+A definite/reliable intelligence tip was received by the State CID and Cyber Cell that a large number of such unemployed youth have already been contacted by the terrorist outfit/group through social media, local communal organisations and other contacts. The need of the hour was to act swiftly and check these designs before they assume serious proportions.
+
+Discreet inquiries made by the police through the Cyber Cell revealed that good numbers of unemployed youth are very active on Facebook, Instagram and Twitter. On average, many of them were spending 6–8 hours each day using electronic devices/internet. It also came to light that such unemployed youth were showing sympathy and endorsing messages received from persons allegedly in contact with the global terrorist group. Their social-media accounts revealed strong affinity to such groups; many had started forwarding anti-national messages on WhatsApp and Facebook. It seemed that they succumbed to the group's ploy and started propagating secessionist ideology. Their posts were hyper-critical of government initiatives and policies, subscribed to extreme beliefs and promoted extremism.
+
+(a) What are the options available to Raman to tackle the above situation?
+(b) What measures would you suggest for strengthening the existing set-up to ensure that such groups do not succeed in penetrating and vitiating the atmosphere in the State?
+(c) In the above scenario, what action plan would you advise for enhancing the intelligence-gathering mechanism of the police force?
+
+**(Answer in 250 words) 20**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (211 words; limit 250):**
+
+Raman must protect the public while avoiding identity-based overreach. His options are: targeted investigation of specific accounts and facilitators under lawful authorisation; immediate disruption where evidence shows preparation or incitement to violence; engagement and counselling for susceptible youth not involved in crime; and coordinated action with families, educational institutions, community leaders and specialised agencies.
+
+He should create a threat-assessment cell joining CID, Cyber Cell, district police and prosecutors; preserve digital evidence and chain of custody; establish rapid referral and de-radicalisation pathways; train officers to distinguish dissent, extremist belief, unlawful incitement and terrorist facilitation; and provide transparent grievance and communication channels. Platform requests must follow law and be narrowly framed. Employment and education measures can reduce vulnerability but cannot replace investigation of violent plots.
+
+Intelligence reform should combine trained human sources, community liaison officers, multilingual open-source analysis, financial and travel leads, inter-State sharing through MAC/SMAC, and periodic red-team review. Every lead should record source reliability, corroboration and permitted dissemination. Oversight should audit false positives, profiling, retention and use of coercive powers.
+
+The ethical principles are legality, necessity, proportionality, non-discrimination, confidentiality, accountability and prevention of harm. Criticism of government is not proof of terrorism. The best plan isolates recruiters and violent facilitators while keeping ordinary youth and communities as partners in prevention.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M12 — 2026 GS-III Q20 — APPLICATION
+
+**Ownership:** Primary routing owner: Topic 10. Included for international terror-finance cooperation; detailed FATF mechanics remain there.
+
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised; 2026 paper has no official model answer.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf.md`.
+
+> Discuss counterfeit currency and money laundering as major sources of terror funding in India. State the actions being taken at International level to check these menaces. Highlight the role of Financial Action Task Force (FATF) and methods of compliance by its member states in preventing terror funding. **(Answer in 250 words) 15**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (202 words; limit 250):**
+
+Counterfeit currency can fund operations and undermine monetary confidence, while money laundering disguises the origin, ownership or destination of criminal value and allows it to enter usable channels. Their terrorism relevance must be proved transaction by transaction; neither every counterfeit case nor every laundering case is terror finance.
+
+Domestic action combines currency and border intelligence, customs and police interdiction, financial-intelligence analysis, investigation of predicate offences, suspicious-transaction reporting, beneficial-ownership checks, and lawful freezing, attachment, prosecution and confiscation. NIA may act where a scheduled-offence route is invoked, while other agencies retain their statutory fields.
+
+Internationally, States exchange financial intelligence, implement targeted sanctions, strengthen mutual legal assistance and extradition, cooperate on asset tracing, and regulate vulnerable payment and virtual-asset channels. FATF sets risk-based AML/CFT standards, evaluates jurisdictions through mutual evaluations and follow-up, and identifies strategic deficiencies. Members comply by criminalising terrorist financing, supervising reporting entities, identifying beneficial owners, freezing designated assets, supporting financial-intelligence units and demonstrating effective investigation and prosecution.
+
+Formal compliance is insufficient. Evaluation should distinguish suspicious reports, seizures and provisional attachments from adjudicated confiscation and conviction, while safeguarding due process and legitimate financial access.
+
+Counter-terror architecture succeeds when it makes funds traceable, unusable and prosecutable without converting preventive controls into presumed guilt.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Mains PYQ M13 — 2026 GS-IV Q2(b) — SHARED
+
+**Ownership:** Primary owner: Ethics. Shared because legality, proportionality and legitimacy are explicit parts of the Advanced counter-terror owner and PRAHAAR.
+
+**Wording status:** OFFICIAL LOCAL PAPER — exact English sentence.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-IV.pdf.md`.
+
+> Discuss how national security can be balanced with concerns of human rights. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer every limb of the directive; use the exact threat mechanism, competent institution or law, evidence/status boundary, and a qualified security–federalism–rights conclusion.
+
+**Original model answer (144 words; limit 150):**
+
+National security and human rights are mutually reinforcing: security protects life and liberty, while lawful treatment sustains legitimacy and the public cooperation needed for intelligence.
+
+Balance requires **legality**, so every coercive act has a clear statutory basis; **necessity**, so it addresses a demonstrated threat; and **proportionality**, so scope, duration and intrusion match risk. Non-discrimination prevents identity from replacing evidence. Arrest, designation, detention, attachment and surveillance need recorded reasons, independent oversight, access to courts and timely investigation and trial. Force against an imminent threat may be decisive, but punishment follows adjudication.
+
+Institutions should audit false positives, custodial abuse, delay and unequal impact; protect victims and witnesses; and publish aggregate accountability data without compromising operations. Community grievance and rehabilitation channels should accompany enforcement.
+
+The correct standard is neither impunity for violence nor unreviewable power. Rights-respecting precision improves evidence, trust and resilience, thereby making counter-terrorism more effective.
+
+**Why this earns marks:** It uses a direct thesis, named evidence, causal analysis and a qualification rather than an agency list or unsupported success claim.
+
+### Screened-out routing entries — DROPPED FROM THIS TOPIC'S SOLVED CORPUS
+
+- LWE-specific Mains questions remain with Topic 03; their use of violence does not transfer ownership to the general terrorism topic.
+- North-East peace-process questions remain with Topic 04; ceasefires, accords and ethnic-autonomy design require region-specific treatment.
+- J&K constitutional change, Hearts-and-Minds and CPEC questions remain with Topic 05/Polity except for the clearly labelled OGW application above.
+- Pure FATF, money-laundering and organised-crime questions are included only where they directly illuminate the terrorism ecosystem; their complete doctrine remains Topics 10 and 11.
+- No unverified coaching paraphrase, unofficial objective key or invented official model answer is included.
+
+---
+## ORIGINAL MAINS PRACTICE
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish terrorism, insurgency and Naxalism in India's internal-security discourse. Answer in about 150 words.
+**Question:** Distinguish proscription of an organisation, designation of an individual, arrest, charge-sheet and conviction in India's anti-terror framework. Answer in not more than 150 words.
 
-**Model thesis:** **Claim:** Terrorism definition. **Named evidence/example:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Terrorism-insurgency-Naxalism. **Named evidence/example:** Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Manifestation categories. **Named evidence/example:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the directive, define the relevant boundary, organise the body by mechanism and institution, and end with a qualified judgment.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (139 words; limit 150):**
 
-- Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-- Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms.
-- The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
+These are different legal and evidentiary acts. Under UAPA, an organisation may be listed in the **First Schedule**, while the 2019 amendment permits the Central Government to designate an individual in the **Fourth Schedule**. Both are executive statutory actions with prescribed challenge or review routes; neither is a criminal judgment.
 
-**Qualified conclusion:** **Claim:** Terrorism definition. **Named evidence/example:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Terrorism-insurgency-Naxalism. **Named evidence/example:** Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Manifestation categories. **Named evidence/example:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Arrest** restrains a person under legal authority based on the applicable threshold. A **charge-sheet** presents the investigating agency's accusation and evidence to court. **Conviction** is the court's finding after trial that guilt has been proved to the required standard.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish terrorism, insurgency and Naxalism in India's internal-security discourse. Answer…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+The distinction protects both effectiveness and fairness. Listing can disrupt networks before conviction, while judicial process prevents preventive suspicion from becoming punishment without proof. Answers should also separate seizure or attachment from final confiscation.
 
-**Detailed examiner-grade model answer:**
+Therefore, use precise verbs: “designated,” “arrested,” “chargesheeted” and “convicted” are not interchangeable indicators of counter-terror success.
 
-**Introduction and thesis:** **Claim:** Terrorism definition. **Named evidence/example:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Terrorism-insurgency-Naxalism. **Named evidence/example:** Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Manifestation categories. **Named evidence/example:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Terrorism definition. **Named evidence/example:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Terrorism-insurgency-Naxalism. **Named evidence/example:** Terrorism is the broad coercive category, insurgency is armed rebellion with a claimed social base, and Naxalism is Maoist guerrilla violence aimed at capturing state power; the terms are not synonyms. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Manifestation categories. **Named evidence/example:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Distinguish terrorism, insurgency and Naxalism in India's internal-security discourse. Answer…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Each paragraph names a legal or institutional anchor, explains why it matters, and states the limit on what that anchor proves.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain the prevention-to-prosecution counter-terror chain and the institutions at each stage. Answer in about 150 words.
+**Question:** Why should prevention and operational response be evaluated through different indicators in counter-terror policy? Answer in not more than 150 words.
 
-**Model thesis:** **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the directive, define the relevant boundary, organise the body by mechanism and institution, and end with a qualified judgment.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (137 words; limit 150):**
 
-- The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-- The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-- MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-- Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
+Operational response produces visible outputs: mobilisation time, lives rescued, sites secured, suspects arrested and evidence recovered. Prevention seeks an event that does not occur, so a simple incident count cannot identify which intervention caused the absence.
 
-**Qualified conclusion:** **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Prevention should therefore use a basket of indicators: intelligence-sharing timeliness, vulnerability reduction, community reporting, referral and off-ramp use, disrupted recruitment or finance pathways, and repeat-risk trends. Response should measure command clarity, proportionality, scene preservation, forensic continuity and victim assistance. Investigation and prosecution require separate measures such as charge quality, trial timeliness and adjudicated outcome.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain the prevention-to-prosecution counter-terror chain and the institutions at each…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+A policy launch, larger database or arrest total is an input or output, not proof of deterrence. Conversely, one attack does not by itself prove every preventive measure failed.
 
-**Detailed examiner-grade model answer:**
+Stage-specific measurement makes learning possible and prevents agencies from maximising countable coercion while neglecting trust, prevention and resilience.
 
-**Introduction and thesis:** **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Explain the prevention-to-prosecution counter-terror chain and the institutions at each…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Each paragraph names a legal or institutional anchor, explains why it matters, and states the limit on what that anchor proves.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Analyse the UAPA and NIA Act amendments in the prevailing security environment. Answer in about 250 words.
+**Question:** Examine how the post-26/11 counter-terror architecture distributes intelligence, response, investigation and prosecution functions. Answer in not more than 250 words.
 
-**Model thesis:** **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA 2019 designation. **Named evidence/example:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Designation-conviction firewall. **Named evidence/example:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA 2019 amendment. **Named evidence/example:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TADA-POTA precedent. **Named evidence/example:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the directive, define the relevant boundary, organise the body by mechanism and institution, and end with a qualified judgment.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (198 words; limit 250):**
 
-- The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-- The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-- Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-- The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-- Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-- The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts.
-- UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-- TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law.
+The post-26/11 architecture is a differentiated federal chain rather than a single command.
 
-**Qualified conclusion:** **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA 2019 designation. **Named evidence/example:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Designation-conviction firewall. **Named evidence/example:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA 2019 amendment. **Named evidence/example:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TADA-POTA precedent. **Named evidence/example:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Intelligence:** MAC and SMAC support round-the-clock sharing among Central and State participants; NATGRID supplies authorised data connectivity and analysis. These arrangements generate leads, not verdicts. **First response:** State police protect the public, secure the scene, preserve evidence and maintain order. **Specialist response:** NSG may be deployed for exceptional counter-terror, counter-hijack or hostage-rescue contingencies; it is not routine police. **Investigation:** State police retain ordinary competence, while NIA may investigate scheduled offences through the NIA Act process. **Prosecution and adjudication:** prosecutors present admissible evidence before competent or designated Special Courts; courts determine guilt and High Courts exercise appellate functions.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse the UAPA and NIA Act amendments in the prevailing security environment. Answer in…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+NCTC's stalled proposal demonstrates the design tension. Stronger coordination was needed, but States objected to independent search and arrest powers and to coercive authority in an intelligence body. The surviving model therefore relies more on cooperation and statutory case allocation.
 
-**Detailed examiner-grade model answer:**
+Gaps remain in interoperability, local capacity, forensic quality, hand-offs and trial delay. PRAHAAR's capacity-aggregation and rule-of-law elements can improve coherence, but policy release is not delivery.
 
-**Introduction and thesis:** **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA 2019 designation. **Named evidence/example:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Designation-conviction firewall. **Named evidence/example:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA 2019 amendment. **Named evidence/example:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TADA-POTA precedent. **Named evidence/example:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Reform should set clear protocols, common training, auditable access and feedback from prosecution to intelligence while preserving State responsibility and rights.
 
-**Analytical body:**
-
-1. **Claim:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA 2019 designation. **Named evidence/example:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Designation-conviction firewall. **Named evidence/example:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA 2019 amendment. **Named evidence/example:** The NIA (Amendment) Act, 2019 extends jurisdiction to specified offences outside India affecting Indian citizens or interests, expands scheduled coverage and permits Sessions Courts to be designated Special Courts. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TADA-POTA precedent. **Named evidence/example:** TADA operated from 1985 to 1995 and POTA from 2002 to 2004 before lapse or repeal amid misuse concerns, illustrating the recurring necessity-accountability tension in special anti-terror law. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Analyse the UAPA and NIA Act amendments in the prevailing security environment. Answer in…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Each paragraph names a legal or institutional anchor, explains why it matters, and states the limit on what that anchor proves.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Examine India's cooperative-federal counter-terror architecture with reference to the NCTC controversy. Answer in about 250 words.
+**Question:** A counter-radicalisation strategy that ignores rights can become counter-productive. Analyse. Answer in not more than 250 words.
 
-**Model thesis:** **Claim:** Post-26/11 build-out. **Named evidence/example:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the directive, define the relevant boundary, organise the body by mechanism and institution, and end with a qualified judgment.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (186 words; limit 250):**
 
-- After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions.
-- The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role.
-- MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-- The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-- Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
+Counter-radicalisation seeks to interrupt the movement from susceptibility and ideological exposure to organised support for violence. Rights are therefore part of operational design, not an external concession.
 
-**Qualified conclusion:** **Claim:** Post-26/11 build-out. **Named evidence/example:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Indiscriminate surveillance, identity profiling, criminalisation of dissent or opaque detention can create grievance, validate persecutory propaganda and reduce community reporting. False positives also divert investigative capacity from conduct-linked threats. By contrast, behaviour-based assessment, corroborated intelligence, narrow legal authorisation and independent review improve both legitimacy and signal quality.
 
-**Demand decoding:** The directive **examine** requires a direct position on ‘Examine India's cooperative-federal counter-terror architecture with reference to the NCTC…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+Prevention needs multiple off-ramps: family and community referral, counselling, education, livelihood support, credible religious or civic voices, prison disengagement where relevant, and responsive grievance institutions. Online intervention should preserve digital evidence and target recruitment, incitement or facilitation rather than mere criticism. Where an imminent violent plot exists, proportionate police action remains necessary.
 
-**Detailed examiner-grade model answer:**
+PRAHAAR's elements on attenuating enabling conditions and human-rights/rule-of-law process support this integrated approach. Results should be measured through disrupted recruitment pathways, voluntary disengagement, community trust and repeat-risk, not only arrests.
 
-**Introduction and thesis:** **Claim:** Post-26/11 build-out. **Named evidence/example:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The qualification is equally important: structural disadvantage does not excuse violence, and welfare cannot replace investigation. Effective policy combines social prevention with precise, reviewable enforcement against demonstrable violent conduct.
 
-**Analytical body:**
-
-1. **Claim:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Post-26/11 build-out. **Named evidence/example:** After the 2008 Mumbai attacks, NIA was created, MAC was strengthened, NATGRID was proposed, NCTC was debated, NSG hubs were added and coastal-security arrangements were revamped; these bodies have different functions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NIA boundary. **Named evidence/example:** The NIA Act, 2008 creates a central investigating agency for scheduled offences with concurrent jurisdiction; NIA does not replace the local police's first response, evidence preservation or ordinary policing role. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Examine India's cooperative-federal counter-terror architecture with reference to the NCTC…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Each paragraph names a legal or institutional anchor, explains why it matters, and states the limit on what that anchor proves.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Analyse terrorism's causes, linkages and finance-logistics nexus and suggest a calibrated response. Answer in about 300 words.
+**Question:** Critically evaluate the coexistence of UAPA and BNS section 113 as routes for prosecuting terrorist acts. What federal and rights safeguards should guide forum choice? Answer in not more than 300 words.
 
-**Model thesis:** **Claim:** Terrorism definition. **Named evidence/example:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-proxy boundary. **Named evidence/example:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Manifestation categories. **Named evidence/example:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Funding architecture. **Named evidence/example:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PRAHAAR policy. **Named evidence/example:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Policy-agency-outcome firewall. **Named evidence/example:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the directive, define the relevant boundary, organise the body by mechanism and institution, and end with a qualified judgment.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (235 words; limit 300):**
 
-- Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition.
-- A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record.
-- The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three.
-- Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10.
-- The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-- UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-- PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-- PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
+Since 1 July 2024, terrorist conduct may engage BNS section 113 in general penal law while UAPA remains the special anti-terror statute. The coexistence can widen access to an appropriate offence, but it also creates a consequential forum-choice problem.
 
-**Qualified conclusion:** **Claim:** Terrorism definition. **Named evidence/example:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-proxy boundary. **Named evidence/example:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Manifestation categories. **Named evidence/example:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Funding architecture. **Named evidence/example:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PRAHAAR policy. **Named evidence/example:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Policy-agency-outcome firewall. **Named evidence/example:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+UAPA contains a broader architecture: organisation and individual listing, terrorism-related property provisions, a stringent section 43D(5) bail threshold, section 45 sanction, and possible NIA scheduled-offence jurisdiction. BNS section 113 places the registration choice between itself and UAPA with an officer not below Superintendent of Police. That decision can affect procedure, investigating agency, bail and sanction, yet it is made before a court decides guilt.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse terrorism's causes, linkages and finance-logistics nexus and suggest a calibrated…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+Advantages include flexibility, State-police access to a general-law offence and the ability to reserve the special statute for networked or national-security cases. Risks include inconsistent classification across States, strategic selection of the harsher route, uncertainty for investigators and accused persons, duplicated charges and federal friction if central intervention appears automatic.
 
-**Detailed examiner-grade model answer:**
+Safeguards should include publicly available criteria focused on scale, network, cross-border or inter-State reach and statutory purpose; written reasons; early prosecutorial consultation; State–Centre coordination; judicial review; avoidance of duplicative prejudice; timely investigation; and periodic data on case route and disposition. Intelligence should guide but not replace evidence. Designation, arrest and charge-sheet must remain distinct from conviction.
 
-**Introduction and thesis:** **Claim:** Terrorism definition. **Named evidence/example:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-proxy boundary. **Named evidence/example:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Manifestation categories. **Named evidence/example:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Funding architecture. **Named evidence/example:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PRAHAAR policy. **Named evidence/example:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Policy-agency-outcome firewall. **Named evidence/example:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Coexistence is defensible only if forum choice is principled and reviewable. The aim should be the legally best-fitting route, not maximum severity by default.
 
-**Analytical body:**
-
-1. **Claim:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Terrorism definition. **Named evidence/example:** Terrorism is the planned, organised and systematic use of violence as coercion for political, religious or ideological purposes; the owner notes the absence of a universally agreed international definition. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-proxy boundary. **Named evidence/example:** A nominally non-state organisation may receive state finance, sanctuary, logistics or training; proxy use creates deniability but current attribution still requires a dated competent-agency record. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Manifestation categories. **Named evidence/example:** The owner's India framework separates hinterland terrorism, Jammu and Kashmir militancy, North-East insurgency and Left-Wing Extremism, with dedicated owners for the last three. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Funding architecture. **Named evidence/example:** Terror funding may involve state sponsorship, extortion, taxation, hawala, counterfeit currency, contraband, charities or organised-crime links; each channel requires separate evidence and belongs in detail to Topic 10. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PRAHAAR policy. **Named evidence/example:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Policy-agency-outcome firewall. **Named evidence/example:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Analyse terrorism's causes, linkages and finance-logistics nexus and suggest a calibrated…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Each paragraph names a legal or institutional anchor, explains why it matters, and states the limit on what that anchor proves.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Critically evaluate PRAHAAR as a policy framework for contemporary terrorism while preserving federalism and rights. Answer in about 300 words.
+**Question:** Design an integrated national counter-terror strategy for India that combines security, prevention, technology, international cooperation and rights. Answer in not more than 300 words.
 
-**Model thesis:** **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA 2019 designation. **Named evidence/example:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Designation-conviction firewall. **Named evidence/example:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** BNS-UAPA concurrency. **Named evidence/example:** BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PRAHAAR policy. **Named evidence/example:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Policy-agency-outcome firewall. **Named evidence/example:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the directive, define the relevant boundary, organise the body by mechanism and institution, and end with a qualified judgment.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (231 words; limit 300):**
 
-- The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience.
-- MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands.
-- The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation.
-- Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases.
-- The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route.
-- Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt.
-- BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked.
-- UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately.
-- PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience.
-- PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome.
+India's strategy should attack the terrorism ecosystem while protecting the legitimacy on which intelligence and prosecution depend.
 
-**Qualified conclusion:** **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA 2019 designation. **Named evidence/example:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Designation-conviction firewall. **Named evidence/example:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** BNS-UAPA concurrency. **Named evidence/example:** BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PRAHAAR policy. **Named evidence/example:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Policy-agency-outcome firewall. **Named evidence/example:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Prevent:** map actor, intent, vulnerability and consequence; strengthen MAC/SMAC warning; build behaviour-based community referral, counselling and disengagement pathways; address governance and grievance without treating them as excuses for violence. **Protect:** use risk-based security for critical infrastructure, crowded places, borders, coast and digital systems, with trained State first responders. **Disrupt:** target recruiters, facilitators, weapons, finance, drones, encrypted communications and illicit routes through joint financial, cyber, customs and police work.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Critically evaluate PRAHAAR as a policy framework for contemporary terrorism while preserving…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Respond:** maintain interoperable command, medical support and NSG availability for exceptional contingencies. **Investigate and prosecute:** preserve scenes and digital chain of custody; allocate NIA or State-police responsibility through statute; use UAPA or BNS section 113 on reasoned criteria; strengthen prosecutors and Special Courts; distinguish designation, attachment and arrest from conviction. **Recover:** assist victims, restore services, communicate verified facts and conduct after-action review.
 
-**Detailed examiner-grade model answer:**
+Internationally, combine UNSC CTC norms, sanctions, FATF standards, financial intelligence, mutual legal assistance and evidence-sharing. Translate commitments into domestic cases rather than counting declarations.
 
-**Introduction and thesis:** **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA 2019 designation. **Named evidence/example:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Designation-conviction firewall. **Named evidence/example:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** BNS-UAPA concurrency. **Named evidence/example:** BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PRAHAAR policy. **Named evidence/example:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Policy-agency-outcome firewall. **Named evidence/example:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+PRAHAAR's seven elements provide the policy umbrella, but delivery requires measurable responsibilities, State capacity and independent oversight. Indicators should cover warning time, disruption, evidence quality, trial outcome, repeat recruitment, victim recovery and community trust.
 
-**Analytical body:**
+The strategy must be firm against imminent violence and restrained against unsupported suspicion. Prevention, precision, prosecution and resilience—not indiscriminate coercion—form the durable end-state.
 
-1. **Claim:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-9. **Claim:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-10. **Claim:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Claim → evidence → analysis → qualification check:** Each paragraph names a legal or institutional anchor, explains why it matters, and states the limit on what that anchor proves.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+## Practice coverage and integrity declaration
 
-**Qualified conclusion:** **Claim:** Counter-terror chain. **Named evidence/example:** The response chain separates prevention and intelligence, containment and specialised response, investigation by NIA or State police, prosecution in competent courts, finance disruption, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MAC-SMAC boundary. **Named evidence/example:** MAC and SMAC are intelligence-sharing and coordination platforms, not arresting, investigating or prosecuting commands. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** NCTC federalism issue. **Named evidence/example:** The proposed NCTC faced objection because independent search, arrest and investigation powers under an intelligence body could bypass State policing competence; the coordination need did not automatically justify centralisation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State-police primacy. **Named evidence/example:** Local police ordinarily reach an attack first and secure the scene, witnesses, evidence and public order, making State capacity structurally irreplaceable even in nationally investigated cases. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA 2019 designation. **Named evidence/example:** The UAPA (Amendment) Act, 2019 permits the Central Government to designate an individual as a terrorist in the Fourth Schedule through executive notification and a statutory review or denotification route. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Designation-conviction firewall. **Named evidence/example:** Individual designation, arrest, charge-sheet, trial and conviction are five distinct legal and evidentiary events; designation is not a judicial finding of guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** BNS-UAPA concurrency. **Named evidence/example:** BNS section 113, in force from 1 July 2024, defines terrorist act in general penal law while UAPA remains the special law; an officer not below SP rank decides which route is invoked. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA bail boundary. **Named evidence/example:** UAPA section 43D(5) creates a stringent prima-facie-true bail threshold; pre-trial liberty, prosecution and conviction must be analysed separately. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PRAHAAR policy. **Named evidence/example:** PRAHAAR, released by MHA on 23 February 2026, is a national counter-terrorism policy and strategy organised around prevention, response, capacity aggregation, human rights and rule of law, attenuating conditions, international alignment, and recovery or resilience. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Policy-agency-outcome firewall. **Named evidence/example:** PRAHAAR is a policy framework working through existing institutions; a policy release, search, seizure, arrest or charge-sheet is not a new agency, conviction, reduced-incident figure or verified prevention outcome. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Critically evaluate PRAHAAR as a policy framework for contemporary terrorism while preserving…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+- **Original MCQs:** exactly 40.
+- **Key rotation:** ABCD repeated ten times; A=10, B=10, C=10, D=10.
+- **Options:** four substantive options per question with question-specific explanations for A, B, C and D.
+- **Original Mains:** exactly six — two 10-mark, two 15-mark and two 20-mark questions.
+- **PYQs:** official local wording or explicit OCR normalisation; ownership and answer/key status shown for every item.
+- **Evidence discipline:** designation, arrest, charge-sheet, seizure/attachment, trial, conviction, policy launch, delivery and impact are never treated as synonyms.

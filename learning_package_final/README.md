@@ -42,22 +42,20 @@ and SHA-256 checksum.
 
 ## Repository-wide review and repair scope
 
-For the sequential topic-by-topic review, modify artifacts only in these folders:
+For the sequential topic-by-topic review, use this active flow:
 
-1. `learning_package_final`
+1. Read canonical evidence from `upsc-ai-kit\knowledge\<Subject>\basic` and `advanced`.
+2. Verify PYQs through the routing ledgers and official locally held papers.
+3. Repair only `learning_package_final`:
    - Learning-session Markdown
    - Solved-practice workbook Markdown
-2. `notes\Final-Learning-Packages`
-   - Learning-session PDF
-   - Solved-practice workbook PDF
-   - ASCII flowchart
-   - Graphical flowchart
-3. `quick_galance`
+4. Repair only the matching `quick_galance` artifact:
    - Quick-glance tree-flowchart Markdown
 
-Do not modify canonical knowledge files, manifests, trackers, historical generation
-folders, or artifacts outside these three locations. Repair existing files in place;
-do not create new generation folders or suffixed parallel packages.
+Canonical knowledge and official papers are read-only evidence. Ignore PDFs,
+`notes\Final-Learning-Packages`, graphical/ASCII master-flow packages, manifests, trackers,
+historical generation folders and other duplicate artifacts unless explicitly requested.
+Repair existing Markdown files in place; do not create suffixed parallel packages.
 
 ### Review gates
 

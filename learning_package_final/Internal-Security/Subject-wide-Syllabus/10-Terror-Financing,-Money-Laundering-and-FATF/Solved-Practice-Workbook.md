@@ -1,1170 +1,1273 @@
 ---
 title: "Terror Financing, Money Laundering and FATF — Solved Practice Workbook"
 topic_key: internal-security-10
+reviewed_on: 2026-09-27
 ---
+
 # Terror Financing, Money Laundering and FATF — Solved Practice Workbook
+
+## Evidence and use note
+
+This workbook is controlled by Topic 10’s canonical Basic and Advanced owners, the Internal
+Security Master Framework and syllabus map, audited PYQ routing, local official UPSC-paper OCR,
+the current PMLA/PML Rules, official FIU-IND/MHA/RBI/SEBI material, Supreme Court judgments and
+FATF’s official 2024 India evaluation and June 2026 monitored-jurisdiction statements.
+
+The **40 newly authored MCQs** use genuinely different concepts and formats. Keys rotate
+`A → B → C → D` exactly ten times. Every option is explained. No direct or material Topic 10
+Prelims PYQ was found in the audited repository ledgers; therefore no official objective options
+or answer key are invented.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Terror-finance laundering distinction?
+### Q1. [Core distinction] Which comparison is legally and analytically sound?
 
-A. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-B. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-C. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-D. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-
-**Answer: A.**
-**Explanation:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q2. Which option preserves the legal or institutional boundary of Terror-finance laundering distinction?
-
-A. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-B. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-C. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-D. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-
-**Answer: B.**
-**Explanation:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q3. Which statement uses Terror-finance laundering distinction without changing its institution, law or status?
-
-A. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-B. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-C. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-D. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-
-**Answer: C.**
-**Explanation:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Terror-finance laundering distinction?
-
-A. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-B. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-C. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-D. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-
-**Answer: D.**
-**Explanation:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q5. Which statement correctly identifies Predicate-offence gateway?
-
-A. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-B. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-C. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-D. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
+A. Laundering requires scheduled-crime proceeds; terrorist financing depends on terrorist purpose
+or knowledge and may use lawful-origin funds.
+B. Both offences require scheduled-crime proceeds, but only terrorist financing requires a
+cross-border transfer to a designated organisation.
+C. Terrorist financing is the placement stage of laundering whenever value first enters a
+regulated bank, payment or securities account.
+D. A lawful donation becomes money laundering once a sanctions-screening alert identifies a
+controversial recipient, even without a proceeds link.
 
 **Answer: A.**
-**Explanation:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q6. Which option preserves the legal or institutional boundary of Predicate-offence gateway?
+**Option-by-option explanation:**
+- **A — correct:** Criminal origin is foundational to PMLA laundering; terrorist financing is
+  defined principally by intended use, beneficiary and knowledge.
+- **B — incorrect:** A lawful-origin salary or donation may still be used for terrorism.
+- **C — incorrect:** Placement is only a laundering typology; TF is a separate offence family.
+- **D — incorrect:** A controversial recipient is not enough; the statutory terror link and
+  mental element require proof.
 
-A. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-B. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-C. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-D. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
+**Question-specific trap:** Source of money and purpose of money are different axes.
+
+### Q2. [Typology limits] Consider the following statements about placement, layering and integration:
+
+1. Every completed money-laundering offence must display all three stages in that order.
+2. The three stages are an analytical typology rather than the statutory elements of section 3 PMLA.
+3. Some non-cash proceeds may already be inside a formal system, leaving no separately visible placement stage.
+
+Which of the statements given above are correct?
+
+A. 1 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 **Answer: B.**
-**Explanation:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q7. Which statement uses Predicate-offence gateway without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** Statement 1 wrongly converts a teaching model into a mandatory legal sequence.
+- **B — correct:** Statements 2 and 3 capture both the model’s usefulness and its limits.
+- **C — incorrect:** Statement 1 is false even though statement 3 is correct.
+- **D — incorrect:** A laundering case may overlap, reorder or lack a visible stage.
 
-A. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-B. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-C. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-D. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
+**Question-specific trap:** Do not test section 3 by mechanically ticking three textbook stages.
+
+### Q3. [Section 3 PMLA] Which proposition reflects the current statutory text?
+
+A. Projection as untainted must be proved together with concealment and use in every prosecution,
+even when another listed process is established.
+B. Any asset exceeding declared income becomes proceeds of crime once an authorised officer
+records suspicion, without a scheduled-offence link.
+C. Knowing involvement in concealment, possession, acquisition, use, projection or claim can
+engage section 3 when tied to proceeds of crime.
+D. Money laundering ends after the first transfer of criminal proceeds and cannot continue
+through their later possession, use or enjoyment.
 
 **Answer: C.**
-**Explanation:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Predicate-offence gateway?
+**Option-by-option explanation:**
+- **A — incorrect:** The current Explanation treats the listed processes as alternatives.
+- **B — incorrect:** The prosecution must establish the proceeds-of-crime and scheduled-offence link.
+- **C — correct:** It tracks section 3 and its 2019 clarificatory Explanation.
+- **D — incorrect:** The statutory Explanation describes the process/activity as continuing while
+  proceeds are enjoyed through the listed modes.
 
-A. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-B. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-C. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-D. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
+**Question-specific trap:** “Projecting as untainted” is not the sole possible section 3 act.
+
+### Q4. [Predicate-offence case] A person is not named in the scheduled-offence case but later
+knowingly helps conceal property generated by it. Which statement best applies?
+
+A. PMLA can apply only to a person charged and convicted in the predicate case; a later handler
+falls outside section 3.
+B. PMLA can proceed solely on ED’s suspicion even if no scheduled offence is registered,
+complained of or pending before a competent forum.
+C. Acquittal or discharge of every predicate accused can never affect a laundering case because
+section 3 is wholly source-independent.
+D. The person may face PMLA without being a predicate-case accused, but the case still needs
+proceeds derived from the scheduled offence.
 
 **Answer: D.**
-**Explanation:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q9. Which statement correctly identifies Placement typology?
+**Option-by-option explanation:**
+- **A — incorrect:** *Pavana Dibbur* rejects an identity requirement between the two accused sets.
+- **B — incorrect:** *Vijay Madanlal* bars a merely notional scheduled offence.
+- **C — incorrect:** Extinction of the predicate foundation can remove the linked proceeds basis.
+- **D — correct:** It preserves both the separate actor and derivative-property principles.
 
-A. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-B. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-C. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-D. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
+**Question-specific trap:** Separate the identity of the accused from the existence of proceeds.
+
+### Q5. [Proceeds of crime] Which asset most clearly falls within section 2(1)(u), subject to proof?
+
+A. Property bought with value derived from criminal activity relating to a scheduled offence.
+B. Any asset held by a person who cannot immediately explain its purchase.
+C. Every property used in an offence, even when no criminal proceeds generated it.
+D. Any property owned by a person against whom an STR has been filed.
 
 **Answer: A.**
-**Explanation:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q10. Which option preserves the legal or institutional boundary of Placement typology?
+**Option-by-option explanation:**
+- **A — correct:** It states the required criminal-activity and scheduled-offence genealogy.
+- **B — incorrect:** Suspicion or an income mismatch cannot replace the statutory link.
+- **C — incorrect:** “Property” and “proceeds of crime” are related but not identical definitions.
+- **D — incorrect:** An STR is an intelligence report, not proof that all property is tainted.
 
-A. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-B. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-C. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-D. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
+**Question-specific trap:** PMLA targets traceable criminal value, not unexplained wealth in the abstract.
+
+### Q6. [Process sequence] Which is the most accurate ordinary PMLA sequence?
+
+A. FIU-IND determines guilt, ED finally confiscates, police confirm the attachment and a regulator
+hears the criminal appeal.
+B. Predicate investigation → provisional attachment → adjudication → Special Court finding and
+final property order.
+C. FATF places the suspect on a country list, FIU arrests, NIA confiscates and a UN committee
+decides the domestic appeal.
+D. A bank files an STR, after which attachment, conviction and forfeiture follow automatically
+without independent statutory thresholds.
 
 **Answer: B.**
-**Explanation:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q11. Which statement uses Placement typology without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** FIU does not convict, ED does not finally confiscate and police do not confirm PMLA attachment.
+- **B — correct:** It keeps the investigative, property-adjudication and trial stages distinct.
+- **C — incorrect:** It assigns powers to institutions that do not exercise them.
+- **D — incorrect:** Each transition requires an independent legal and evidentiary threshold.
 
-A. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-B. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-C. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-D. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
+**Question-specific trap:** Institutional sequence is not administrative formality; each rung changes legal status.
+
+### Q7. [Attachment status] A provisional attachment order most accurately means:
+
+A. the Special Court has already convicted the owner and completed the criminal adjudication.
+B. title has finally vested in the Central Government with no further property proceeding.
+C. statutory restraint bars property transfer, conversion, disposition or movement pending
+review.
+D. the Adjudicating Authority has imposed criminal punishment and determined the custodial sentence.
 
 **Answer: C.**
-**Explanation:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Placement typology?
+**Option-by-option explanation:**
+- **A — incorrect:** Attachment can precede trial and conviction.
+- **B — incorrect:** Final confiscation, not provisional attachment, produces the statutory vesting consequence.
+- **C — correct:** This matches the PMLA definition and preservation purpose of attachment.
+- **D — incorrect:** The Authority adjudicates property status; the Special Court determines criminal guilt.
 
-A. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-B. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-C. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-D. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
+**Question-specific trap:** “Attached” is an interim status, not a synonym for “confiscated”.
+
+### Q8. [Confiscation nuance] Which statement is the most complete?
+
+A. Every confirmed attachment becomes final confiscation immediately, without completion of the
+criminal or exceptional statutory property process.
+B. The Adjudicating Authority both confirms the restraint and alone convicts and sentences the
+accused under section 4.
+C. Acquittal automatically converts the attached property into Central Government property
+because confirmation cannot later be reversed.
+D. Section 8(5) ordinarily follows a Special Court finding; section 8(7) permits a property
+decision where trial cannot be conducted.
 
 **Answer: D.**
-**Explanation:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q13. Which statement correctly identifies Layering typology?
+**Option-by-option explanation:**
+- **A — incorrect:** Confirmation continues restraint; it is not the final merits result.
+- **B — incorrect:** Criminal trial and sentence belong to the Special Court.
+- **C — incorrect:** Section 8(6) provides release where property is not involved.
+- **D — correct:** It states both the normal route and the limited statutory exception.
 
-A. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-B. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-C. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-D. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
+**Question-specific trap:** “Only after conviction in every circumstance” ignores section 8(7).
+
+### Q9. [FIU-IND mandate] What is FIU-IND’s principal operational role?
+
+A. Receive and analyse financial reports; disseminate useful intelligence.
+B. Register every scheduled-offence FIR and conduct the predicate trial.
+C. Confirm ED attachment orders and transfer title to the Government.
+D. Place jurisdictions on FATF’s monitored lists.
 
 **Answer: A.**
-**Explanation:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q14. Which option preserves the legal or institutional boundary of Layering typology?
+**Option-by-option explanation:**
+- **A — correct:** It follows FIU-IND’s official institutional description.
+- **B — incorrect:** Predicate investigations belong to competent police/specialised agencies.
+- **C — incorrect:** The Adjudicating Authority and Special Court perform those distinct functions.
+- **D — incorrect:** FATF’s plenary and review processes concern jurisdiction listing.
 
-A. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-B. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-C. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-D. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
+**Question-specific trap:** Financial intelligence is neither an FIR nor a judicial verdict.
+
+### Q10. [ED mandate] Which action belongs most directly to the Enforcement Directorate under PMLA?
+
+A. Rating India’s technical compliance and effectiveness against the FATF Recommendations and
+Immediate Outcomes.
+B. Investigating laundering, using statutory search/seizure/arrest powers, seeking provisional
+attachment and filing a prosecution complaint.
+C. Supervising bank capital adequacy, liquidity and monetary-policy transmission across the
+regulated financial system.
+D. Issuing a UN Security Council designation and directing every jurisdiction to execute the
+international asset freeze.
 
 **Answer: B.**
-**Explanation:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q15. Which statement uses Layering typology without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** Mutual evaluation is a FATF-led peer process.
+- **B — correct:** These are ED’s core PMLA functions, subject to statutory safeguards.
+- **C — incorrect:** Prudential banking supervision is a regulator function.
+- **D — incorrect:** UN sanctions bodies make UN designations; India implements them domestically.
 
-A. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-B. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-C. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-D. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
+**Question-specific trap:** ED investigates and seeks restraint; it does not adjudicate its own case.
+
+### Q11. [Agency allocation] Which allocation is most accurate?
+
+A. FIU-IND investigates UAPA offences and files the terror charge, while NIA confines itself to
+auditing banks’ reporting systems.
+B. ED registers and exclusively investigates every underlying narcotics, corruption, customs
+and cheating offence before considering PMLA.
+C. Competent agencies investigate predicate or terror offences; NIA may take Scheduled Offences,
+while ED investigates laundering.
+D. Sector regulators receive the STR, determine criminal guilt and direct the Special Court to
+confiscate the customer’s property.
 
 **Answer: C.**
-**Explanation:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Layering typology?
+**Option-by-option explanation:**
+- **A — incorrect:** FIU is the financial-intelligence unit; NIA is an investigating/prosecuting agency.
+- **B — incorrect:** Predicate offences remain with their legally competent agencies.
+- **C — correct:** It preserves jurisdiction and the parallel-investigation model.
+- **D — incorrect:** Regulators supervise compliance and may take regulatory action, not decide criminal guilt.
 
-A. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-B. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-C. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-D. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
+**Question-specific trap:** “Follow the money” still requires the correct statutory owner at each stage.
+
+### Q12. [Regulatory architecture] What is the best description of RBI, SEBI and IRDAI in AML/CFT?
+
+A. They replace FIU-IND as the national repository, analyse every STR and disseminate all
+financial intelligence to investigators.
+B. They prosecute every reporting entity that files a late or inaccurate report and determine
+the corresponding criminal sentence.
+C. They confirm ED attachment orders, decide whether property is involved in laundering and
+direct final confiscation.
+D. Regulators issue sector preventive directions; competent agencies and courts retain
+investigation and trial.
 
 **Answer: D.**
-**Explanation:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q17. Which statement correctly identifies Integration typology?
+**Option-by-option explanation:**
+- **A — incorrect:** FIU-IND remains the central reception and analysis point.
+- **B — incorrect:** Reporting errors may invite regulatory/statutory consequences, but prosecution is not automatic.
+- **C — incorrect:** Confirmation is the Adjudicating Authority’s role.
+- **D — correct:** Regulators translate the statutory framework into supervised sector duties.
 
-A. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-B. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-C. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-D. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
+**Question-specific trap:** Supervision, intelligence, investigation and adjudication are separate functions.
+
+### Q13. [STR evidentiary value] Which statement about a Suspicious Transaction Report is correct?
+
+A. An STR records suspicion and may generate intelligence; it is not an FIR, charge or conviction.
+B. It may be filed only after conviction for the scheduled offence and formal identification of
+all proceeds.
+C. It covers only completed cash transactions above one fixed threshold and excludes attempted
+or non-cash activity.
+D. It must be disclosed to the customer before filing so the customer can answer the suspicion
+in advance.
 
 **Answer: A.**
-**Explanation:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q18. Which option preserves the legal or institutional boundary of Integration typology?
+**Option-by-option explanation:**
+- **A — correct:** Suspicion initiates analysis and possible inquiry; later legal steps need evidence.
+- **B — incorrect:** Preventive reporting is designed to occur before final adjudication.
+- **C — incorrect:** Suspicious transactions may be attempted and need not be cash-based.
+- **D — incorrect:** Confidentiality and anti-tipping-off duties protect the process.
 
-A. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-B. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-C. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-D. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
+**Question-specific trap:** Suspicion is a threshold for reporting, not a finding of culpability.
+
+### Q14. [Beneficial ownership] Under the current consolidated PML Rules, which statement is correct?
+
+A. Every legal person is exempt from natural-person identification once its registered name and
+incorporation number are supplied.
+B. Company and partnership thresholds exceed 10%; an unincorporated body’s exceeds 15%, subject
+to control and fallback rules.
+C. Only the immediate registered shareholder can be the beneficial owner, even where another
+natural person controls policy by agreement.
+D. Beneficial-owner identification begins only after an STR is filed and is not part of ordinary
+customer due diligence.
 
 **Answer: B.**
-**Explanation:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q19. Which statement uses Integration typology without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** The object is to identify the natural person behind formal ownership/control.
+- **B — correct:** It reflects current Rule 9 thresholds and preserves other-control and senior-manager fallbacks.
+- **C — incorrect:** Ultimate effective control can run through juridical persons or arrangements.
+- **D — incorrect:** Identification is part of CDD, not a post-STR exercise.
 
-A. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-B. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-C. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-D. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
+**Question-specific trap:** Legal title and ultimate natural-person control are not the same.
+
+### Q15. [VDA notification] What did the 7 March 2023 PMLA notification principally do?
+
+A. It declared every virtual-asset exchange or transfer to be money laundering without requiring
+proceeds, knowledge or section 3 conduct.
+B. It authorised FATF investigators to identify, search and prosecute Indian VDA users under
+domestic criminal procedure.
+C. It brought specified VDA exchange, transfer, safekeeping and issuer-related services for
+another within reporting-entity coverage.
+D. It exempted blockchain transactions from customer due diligence because a public ledger
+always identifies the real user.
 
 **Answer: C.**
-**Explanation:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Integration typology?
+**Option-by-option explanation:**
+- **A — incorrect:** Regulation of a sector does not criminalise every transaction.
+- **B — incorrect:** FATF is not an investigating agency.
+- **C — correct:** This is the notification’s activity-based scope.
+- **D — incorrect:** VDA service providers face CDD, monitoring, record and reporting duties.
 
-A. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-B. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-C. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-D. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
+**Question-specific trap:** A reporting-entity notification is not a declaration of criminal guilt.
+
+### Q16. [Professional gatekeepers] Which statement best describes the May 2023 notifications?
+
+A. Every act performed by every lawyer, accountant or company secretary became a section 3
+money-laundering offence.
+B. All professional privilege and confidentiality rules were abolished whenever a client held
+money, property or corporate interests.
+C. Banks remained the only reporting entities, while professionals and company-service providers
+received purely voluntary guidance.
+D. Specified client financial transactions and trust/company-service activities entered
+reporting duties; coverage turns on the notified activity.
 
 **Answer: D.**
-**Explanation:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q21. Which statement correctly identifies TBML boundary?
+**Option-by-option explanation:**
+- **A — incorrect:** The notifications are activity-specific and create compliance duties, not automatic offences.
+- **B — incorrect:** The notifications do not erase every other legal protection.
+- **C — incorrect:** Their purpose was to extend reporting coverage beyond conventional financial institutions.
+- **D — correct:** It states both the expansion and its boundary.
 
-A. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-B. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-C. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-D. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
+**Question-specific trap:** “Professional is covered” does not mean “every professional act is covered”.
+
+### Q17. [Hawala evidence] Which combination most strongly supports an unlawful value-transfer network?
+
+A. Correlated broker ledgers, communications, cash hand-offs, reciprocal settlements and links
+to identified senders and beneficiaries.
+B. Absence of a conventional bank transfer, combined only with the fact that two parties know
+one another socially.
+C. A person’s community identity, occupation and travel to a border district, without any
+transaction or communication link.
+D. One unexplained code in a notebook whose author, meaning, counterparties and related value
+cannot be established.
 
 **Answer: A.**
-**Explanation:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q22. Which option preserves the legal or institutional boundary of TBML boundary?
+**Option-by-option explanation:**
+- **A — correct:** Multiple independent strands can prove control, settlement and parties.
+- **B — incorrect:** Informality is a clue, not proof of a specific unlawful network.
+- **C — incorrect:** Identity or geography alone is prejudicial and evidentially insufficient.
+- **D — incorrect:** An unattributed code cannot establish meaning, ownership or purpose.
 
-A. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-B. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-C. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-D. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
+**Question-specific trap:** Hawala cases still require corroborated attribution, not stereotypes.
+
+### Q18. [TBML detection] Which evidence package best tests suspected trade-based money laundering?
+
+A. Only the exporter’s declared profit for one year.
+B. Invoice, shipping, customs, payment, market-price and beneficial-owner data examined together.
+C. A blockchain address with no link to the trade parties.
+D. The fact that the goods crossed an international border.
 
 **Answer: B.**
-**Explanation:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q23. Which statement uses TBML boundary without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** Profit alone cannot reveal price, quantity or payment manipulation.
+- **B — correct:** TBML is detected by reconciling the commercial, logistical, financial and ownership records.
+- **C — incorrect:** Unattributed crypto data does not test the trade documentation.
+- **D — incorrect:** Cross-border trade is ordinary lawful activity.
 
-A. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-B. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-C. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-D. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
+**Question-specific trap:** A discrepancy becomes probative only after legitimate explanations are tested.
+
+### Q19. [VDA evidence] Which approach is most reliable in a suspected crypto-funded terror case?
+
+A. Treat interaction with any privacy-enhancing service as sufficient proof of terrorist purpose
+and the controller’s identity.
+B. Infer a named person directly from a public wallet address without provider, device or
+financial evidence.
+C. Combine on-chain tracing with provider KYC, device/IP, communications, bank interfaces and
+beneficiary evidence.
+D. Exclude blockchain records because virtual assets are inherently untraceable and cannot
+support corroboration.
 
 **Answer: C.**
-**Explanation:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q24. Which option avoids the standard UPSC close-option trap about TBML boundary?
+**Option-by-option explanation:**
+- **A — incorrect:** A privacy feature is a risk indicator, not proof of purpose.
+- **B — incorrect:** An address requires attribution to a person or controlled entity.
+- **C — correct:** It joins transaction tracing with off-chain identity and intent evidence.
+- **D — incorrect:** Public ledgers can be traceable, though attribution and cross-border access remain difficult.
 
-A. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-B. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-C. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-D. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
+**Question-specific trap:** Transaction visibility and real-world identity are separate proof problems.
+
+### Q20. [NPO risk] Which policy best matches current FATF Recommendation 8?
+
+A. Treat every NPO as high-risk, terminate its banking access and replace transaction-specific
+analysis with sector-wide exclusion.
+B. Exempt all NPOs from monitoring because charitable registration eliminates diversion,
+beneficiary and governance risk.
+C. Treat every foreign donation as terrorist finance without examining donor knowledge,
+recipient control or end-use.
+D. Identify the exposed subset and apply focused, proportionate, risk-based outreach, governance
+and monitoring.
 
 **Answer: D.**
-**Explanation:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q25. Which statement correctly identifies Clean-clean dirty-clean distinction?
+**Option-by-option explanation:**
+- **A — incorrect:** Blanket de-risking harms legitimate civil society and conflicts with FATF’s approach.
+- **B — incorrect:** Some NPOs can be abused, so risk cannot be ignored.
+- **C — incorrect:** Source geography alone does not prove diversion or terrorist purpose.
+- **D — correct:** It reflects the revised risk-based, focused and proportionate standard.
 
-A. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-B. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-C. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-D. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
+**Question-specific trap:** Protect the sector from abuse without treating the sector itself as illicit.
+
+### Q21. [Counterfeit currency] Which proposition is most accurate?
+
+A. Counterfeit offences and terror financing may overlap, but the terror-law conclusion needs
+the statutory monetary-stability or funding nexus.
+B. Every counterfeit note proves a foreign State-directed terror conspiracy, regardless of
+quality, intent, handler or destination.
+C. Counterfeiting is dealt with only under PMLA because BNS and UAPA contain no relevant
+offence or special route.
+D. A forensic finding that a note is counterfeit also identifies who financed, distributed and
+intended to use it.
 
 **Answer: A.**
-**Explanation:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q26. Which option preserves the legal or institutional boundary of Clean-clean dirty-clean distinction?
+**Option-by-option explanation:**
+- **A — correct:** Counterfeit quality, conduct, intent and network linkage remain separate facts.
+- **B — incorrect:** Foreign sponsorship cannot be presumed from the object alone.
+- **C — incorrect:** BNS counterfeit provisions and, in qualifying cases, UAPA/NIA routes are relevant.
+- **D — incorrect:** Forensics proves characteristics of the note, not the entire funding chain.
 
-A. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-B. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-C. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-D. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
+**Question-specific trap:** Counterfeit currency may be a source or instrument; its terror nexus must be evidenced.
+
+### Q22. [Source–channel–end-use] Which classification is correct?
+
+A. Hawala is always the source, extortion is always the channel and terrorism is always the legal owner.
+B. Extortion can be a source, hawala a movement channel and procurement for a terrorist act the
+end-use.
+C. Donation is a channel, bank transfer is the source and beneficial ownership is the end-use.
+D. FICN is always layering, while an NPO is always integration.
 
 **Answer: B.**
-**Explanation:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q27. Which statement uses Clean-clean dirty-clean distinction without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** It confuses how value arises, moves and is used.
+- **B — correct:** The three labels answer three distinct questions in the same chain.
+- **C — incorrect:** Donation is a source/form of raising value; transfer is a channel; BO identifies control.
+- **D — incorrect:** Neither label maps automatically to a laundering stage.
 
-A. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-B. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-C. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-D. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
+**Question-specific trap:** Classify each fact by function before selecting the legal response.
+
+### Q23. [UAPA section 51A] Which is a section 51A-type measure?
+
+A. A FATF peer-review team convicting a listed individual and ordering the person’s domestic
+property to vest in Government.
+B. FIU-IND confiscating a house after analysing an STR, without an order from the competent
+statutory authority.
+C. Freezing, seizing or attaching covered assets and preventing resources from being made
+available under the targeted-sanctions procedure.
+D. A bank permanently forfeiting customer property on its own sanctions-screening assessment,
+without verification or review.
 
 **Answer: C.**
-**Explanation:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Clean-clean dirty-clean distinction?
+**Option-by-option explanation:**
+- **A — incorrect:** FATF neither prosecutes nor convicts individuals.
+- **B — incorrect:** FIU disseminates intelligence; it does not order final confiscation.
+- **C — correct:** It captures section 51A’s preventive financial measures.
+- **D — incorrect:** A reporting entity follows lawful directions; it does not create a forfeiture power.
 
-A. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-B. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-C. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-D. Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
+**Question-specific trap:** Preventive freezing is neither prosecution nor conviction.
+
+### Q24. [UN–FATF distinction] Which statement is correct?
+
+A. FATF’s grey list names individual terrorists whose assets must be frozen.
+B. A UN designation is a technical-compliance rating for an entire country.
+C. Regular follow-up automatically activates a travel ban and arms embargo.
+D. UN regimes designate targets; FATF reviews national AML/CFT/CPF systems.
 
 **Answer: D.**
-**Explanation:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q29. Which statement correctly identifies Reporting-entity controls?
+**Option-by-option explanation:**
+- **A — incorrect:** FATF monitoring lists concern jurisdictions.
+- **B — incorrect:** UN committees designate targets under Security Council regimes.
+- **C — incorrect:** Follow-up is a reporting process, not a sanctions package.
+- **D — correct:** It preserves subject, institution and legal effect.
 
-A. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-B. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-C. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-D. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
+**Question-specific trap:** A list’s name matters less than who is listed and what legal consequence follows.
+
+### Q25. [FATF function] Which is a core FATF function?
+
+A. Set AML/CFT/CPF standards, conduct peer evaluations and identify jurisdictions with strategic
+deficiencies.
+B. File prosecution complaints before Indian Special Courts and prove each accused person’s
+knowledge of the proceeds.
+C. Order an Indian bank to freeze a named customer account directly and decide any mistaken-
+identity objection.
+D. Hear statutory appeals against ED attachment and determine whether property should be
+confiscated.
 
 **Answer: A.**
-**Explanation:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q30. Which option preserves the legal or institutional boundary of Reporting-entity controls?
+**Option-by-option explanation:**
+- **A — correct:** Standards, evaluation and monitoring are FATF’s central functions.
+- **B — incorrect:** Domestic prosecutors/ED use Indian law.
+- **C — incorrect:** Domestic law and competent authorities implement freezes.
+- **D — incorrect:** PMLA provides domestic adjudicatory and appellate forums.
 
-A. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-B. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-C. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-D. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
+**Question-specific trap:** FATF exerts standard-setting and peer-pressure power, not police power.
+
+### Q26. [Mutual Evaluation] A FATF Mutual Evaluation principally examines:
+
+A. only the number of statutes enacted.
+B. technical compliance and practical effectiveness.
+C. only whether a country is subject to UN sanctions.
+D. only the value of assets announced as attached.
 
 **Answer: B.**
-**Explanation:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q31. Which statement uses Reporting-entity controls without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** Legal architecture is one component, not the whole assessment.
+- **B — correct:** FATF separately assesses rule-book compliance and outcomes.
+- **C — incorrect:** UN sanctions status is a different process.
+- **D — incorrect:** Effectiveness spans risk, supervision, intelligence, prosecution, confiscation and more.
 
-A. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-B. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-C. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-D. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
+**Question-specific trap:** Institutions on paper do not establish effective implementation.
+
+### Q27. [Grey list] What does “jurisdiction under increased monitoring” mean?
+
+A. The jurisdiction is automatically subject to a universal trade embargo and all correspondent
+banking must cease.
+B. Every transaction connected to the jurisdiction must be rejected without customer-specific
+or activity-specific risk assessment.
+C. FATF identified strategic deficiencies and the jurisdiction committed to an action plan
+under increased monitoring.
+D. The jurisdiction’s citizens and companies have each been individually designated by a UN
+Security Council committee.
 
 **Answer: C.**
-**Explanation:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Reporting-entity controls?
+**Option-by-option explanation:**
+- **A — incorrect:** FATF listing is not an automatic trade embargo.
+- **B — incorrect:** FATF rejects blanket de-risking and calls for risk-based treatment.
+- **C — correct:** This is the official meaning of the so-called grey list.
+- **D — incorrect:** UN individual/entity designation is a separate regime.
 
-A. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-B. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-C. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-D. Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
+**Question-specific trap:** Increased monitoring is an action-plan process, not collective punishment.
+
+### Q28. [Call for action] What distinguishes FATF’s high-risk call-for-action category?
+
+A. It is another name for regular follow-up after every Mutual Evaluation, irrespective of
+strategic deficiencies.
+B. It applies to private companies rather than jurisdictions and carries no expectation for
+national authorities.
+C. It automatically convicts every financial institution maintaining a relationship with the
+identified jurisdiction.
+D. FATF calls for enhanced due diligence and, in serious cases, countermeasures for jurisdictional
+risks.
 
 **Answer: D.**
-**Explanation:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q33. Which statement correctly identifies FIU-IND mandate?
+**Option-by-option explanation:**
+- **A — incorrect:** Follow-up and high-risk listing are separate processes.
+- **B — incorrect:** The category identifies jurisdictions with serious strategic deficiencies.
+- **C — incorrect:** Neither listing nor business contact is a criminal conviction.
+- **D — correct:** It states the graduated official response.
 
-A. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-B. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-C. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-D. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
+**Question-specific trap:** “Black list” is shorthand; use the official call-for-action label.
+
+### Q29. [India current status] Which statement was verified on 27 September 2026?
+
+A. India remains a FATF member in regular follow-up; neither 19 June 2026 FATF list included it.
+B. India is under increased monitoring because every jurisdiction placed in regular follow-up
+is automatically grey-listed until re-rating.
+C. India is subject to a call for action until its three-year progress report is accepted by
+the FATF Plenary.
+D. FATF suspended India’s membership after the 2024 evaluation while retaining it in APG and
+EAG only.
 
 **Answer: A.**
-**Explanation:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q34. Which option preserves the legal or institutional boundary of FIU-IND mandate?
+**Option-by-option explanation:**
+- **A — correct:** It states the verified membership, follow-up and current-list status.
+- **B — incorrect:** Regular follow-up is not increased monitoring.
+- **C — incorrect:** A future report-back does not create call-for-action status.
+- **D — incorrect:** India remains a member.
 
-A. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-B. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-C. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-D. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
+**Question-specific trap:** Always give the status date and name the process being described.
+
+### Q30. [Listing effects] Which assessment of grey-list effects is best?
+
+A. FATF legally compels all members to terminate trade, aid, correspondent banking and personal
+remittances with the jurisdiction.
+B. Grey-list scrutiny may raise costs, but FATF rejects blanket enhanced due diligence based only
+on listing.
+C. Grey listing has no possible reputational, financing or correspondent-banking consequence
+because it creates no domestic offence.
+D. It automatically freezes every public and private asset linked to the jurisdiction and bars
+all nationals from travel.
 
 **Answer: B.**
-**Explanation:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q35. Which statement uses FIU-IND mandate without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** There is no automatic universal trade/remittance ban.
+- **B — correct:** It distinguishes potential market effects from FATF’s formal risk-based position.
+- **C — incorrect:** Peer and market responses can be material even without legal sanctions.
+- **D — incorrect:** Country monitoring is not an all-assets sanctions order.
 
-A. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-B. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-C. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-D. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
+**Question-specific trap:** Separate formal FATF effect from variable downstream market behaviour.
+
+### Q31. [India MER 2024] Which is the most balanced reading of India’s evaluation?
+
+A. It found only systemic failures, placed India under a call for action and required immediate
+countermeasures by all members.
+B. It treated all pending cases as proved because property had been attached and therefore found
+no prosecution delay.
+C. It recognised risk understanding, intelligence and asset recovery while seeking faster
+completed cases, effective sanctions and risk-based NPO work.
+D. It assessed tax collection and financial inclusion but did not examine AML/CFT technical
+compliance or effectiveness.
 
 **Answer: C.**
-**Explanation:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q36. Which option avoids the standard UPSC close-option trap about FIU-IND mandate?
+**Option-by-option explanation:**
+- **A — incorrect:** India entered regular follow-up, not the call-for-action list.
+- **B — incorrect:** Attachment is not guilt or completed prosecution.
+- **C — correct:** It retains both the recognised strengths and named improvement priorities.
+- **D — incorrect:** The report is an AML/CFT/CPF mutual evaluation.
 
-A. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-B. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-C. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-D. FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
+**Question-specific trap:** A favourable follow-up category does not erase the report’s criticisms.
+
+### Q32. [Proliferation financing] Which statement is correct?
+
+A. Proliferation financing is another name for tax evasion involving goods with possible
+dual-use characteristics.
+B. UAPA section 51A is the only Indian legal provision relevant to financing connected with
+weapons of mass destruction.
+C. FATF’s Recommendations exclude proliferation financing and address only laundering and
+terrorist financing.
+D. WMD Act section 12A prohibits financing prohibited WMD activity and enables restraint of
+connected resources.
 
 **Answer: D.**
-**Explanation:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q37. Which statement correctly identifies ED mandate?
+**Option-by-option explanation:**
+- **A — incorrect:** PF concerns resources for prohibited WMD activity.
+- **B — incorrect:** The WMD Act contains a dedicated financing provision.
+- **C — incorrect:** Counter-proliferation financing is part of FATF’s mandate.
+- **D — correct:** It accurately states the 2022 statutory addition.
 
-A. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-B. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-C. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-D. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
+**Question-specific trap:** AML, CFT and CPF are linked standards but separate legal problem sets.
+
+### Q33. [Evidence ladder] Which sequence best converts a financial red flag into a sustainable case?
+
+A. Alert → identity/beneficial owner → source or terror-purpose link → control/movement →
+corroboration → prosecution and judicial finding.
+B. Alert → public allegation → announced attachment value → presumed guilt and permanent
+confiscation without trial.
+C. Anonymous complaint → total asset value → India’s FATF rating → automatic proof of the
+individual predicate offence.
+D. High-risk-sector label → wholesale account closure → inference that every customer generated
+scheduled-offence proceeds.
 
 **Answer: A.**
-**Explanation:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q38. Which option preserves the legal or institutional boundary of ED mandate?
+**Option-by-option explanation:**
+- **A — correct:** It connects intelligence, attribution, offence elements, evidence and adjudication.
+- **B — incorrect:** Publicity and interim action cannot prove guilt.
+- **C — incorrect:** FATF ratings do not decide individual criminal cases.
+- **D — incorrect:** Sector risk cannot replace transaction-specific proof.
 
-A. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-B. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-C. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-D. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
+**Question-specific trap:** Every arrow in the evidentiary chain must be proved, not assumed.
+
+### Q34. [CDD application] A company’s named shareholder holds 8%, but a natural person controls
+policy through agreements. What should a reporting entity do?
+
+A. Stop the inquiry because an 8% registered shareholding can never amount to beneficial
+ownership under any control test.
+B. Examine control through other means and identify and verify the natural beneficial owner
+under current CDD rules.
+C. File a criminal prosecution immediately because a shareholder agreement is itself conclusive
+evidence of laundering.
+D. Treat the incorporated company as the final natural-person owner and omit any examination of
+management or policy control.
 
 **Answer: B.**
-**Explanation:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q39. Which statement uses ED mandate without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** Numerical ownership is not the only route to beneficial ownership.
+- **B — correct:** Rule 9 also captures natural persons exercising control through other means.
+- **C — incorrect:** CDD findings may create a report or inquiry, not an automatic charge.
+- **D — incorrect:** Beneficial ownership seeks the ultimate natural person or the prescribed fallback.
 
-A. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-B. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-C. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-D. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
+**Question-specific trap:** Threshold testing does not displace the control test.
+
+### Q35. [Arrest safeguard] What did *Pankaj Bansal v. Union of India* require under section 19 PMLA?
+
+A. Every ECIR must be treated as an FIR, supplied before inquiry and publicly uploaded with the
+entire evidence file.
+B. ED may withhold all arrest grounds until after remand whenever the investigation involves
+financial complexity.
+C. A copy of written arrest grounds must ordinarily be furnished, while genuinely sensitive
+portions may be redacted.
+D. A reporting entity must disclose its STR to the customer before FIU-IND can receive or
+analyse it.
 
 **Answer: C.**
-**Explanation:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q40. Which option avoids the standard UPSC close-option trap about ED mandate?
+**Option-by-option explanation:**
+- **A — incorrect:** The judgment did not convert the ECIR into an FIR.
+- **B — incorrect:** Timely information enables legal advice and challenge.
+- **C — correct:** It reflects the Court’s Article 22(1)/section 19 holding.
+- **D — incorrect:** STR confidentiality is a separate compliance rule.
 
-A. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-B. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-C. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-D. The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
+**Question-specific trap:** Operational secrecy cannot erase the arrested person’s written-ground safeguard.
+
+### Q36. [Effectiveness metric] Which dashboard most honestly evaluates an AML/CFT system?
+
+A. Total value provisionally attached, without case age or disposition.
+B. Number of STRs, assuming every report was correct.
+C. Number of arrests, treating bail or acquittal as system failure.
+D. Stage-wise throughput, outcomes, corrections and disposition time.
 
 **Answer: D.**
-**Explanation:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q41. Which statement correctly identifies PMLA property ladder?
+**Option-by-option explanation:**
+- **A — incorrect:** It measures only interim restraint.
+- **B — incorrect:** More reports may reflect more risk, better compliance or low-quality over-reporting.
+- **C — incorrect:** Arrest is not guilt; lawful release is part of the justice system.
+- **D — correct:** It tests case progression, timeliness, final outcomes and correction.
 
-A. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-B. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-C. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-D. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
+**Question-specific trap:** Activity volume is not the same as effectiveness.
+
+### Q37. [Integrated case] Lawfully earned donations pass through a registered payment platform
+to an NPO and are then knowingly diverted to buy material for a terrorist group. What is the
+best initial legal analysis?
+
+A. Examine UAPA purpose liability and targeted measures; use PMLA only with a proceeds link and
+retain NPO-wide proportionality.
+B. Close the inquiry because lawful origin and use of a registered payment platform make later
+terrorist diversion legally irrelevant.
+C. Treat every donor, trustee and NPO account as guilty of laundering once one diversion is
+suspected.
+D. Apply only customs and foreign-exchange law because a digital payment channel excludes UAPA
+and PMLA.
 
 **Answer: A.**
-**Explanation:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q42. Which option preserves the legal or institutional boundary of PMLA property ladder?
+**Option-by-option explanation:**
+- **A — correct:** It follows purpose, evidence and the correct dual legal routes.
+- **B — incorrect:** Lawful origin does not legalise knowing terrorist use.
+- **C — incorrect:** Individual knowledge, diversion and control must be proved; blanket suspicion is improper.
+- **D — incorrect:** The payment medium does not determine the offence.
 
-A. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-B. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-C. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-D. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
+**Question-specific trap:** Lawful origin can coexist with unlawful end-use.
 
-**Answer: B.**
-**Explanation:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q38. [International cooperation] Which matching is correct?
 
-### Q43. Which statement uses PMLA property ladder without changing its institution, law or status?
-
-A. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-B. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-C. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-D. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-
-**Answer: C.**
-**Explanation:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q44. Which option avoids the standard UPSC close-option trap about PMLA property ladder?
-
-A. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-B. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-C. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-D. The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-
-**Answer: D.**
-**Explanation:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q45. Which statement correctly identifies Investigation-prosecution boundary?
-
-A. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-B. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-C. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-D. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-
-**Answer: A.**
-**Explanation:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q46. Which option preserves the legal or institutional boundary of Investigation-prosecution boundary?
-
-A. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-B. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-C. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-D. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
+A. FATF executes Indian search warrants, while Egmont bodies conduct criminal trials and impose
+custodial sentences.
+B. FATF handles standards/evaluation; FIUs exchange intelligence; MLATs support evidence/assets;
+UNSC regimes impose targeted sanctions.
+C. The UNSC rates technical compliance, while an Indian Special Court places deficient
+jurisdictions on FATF lists.
+D. An MLAT creates the domestic scheduled offence, while FATF directly confiscates property
+located in another State.
 
 **Answer: B.**
-**Explanation:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q47. Which statement uses Investigation-prosecution boundary without changing its institution, law or status?
+**Option-by-option explanation:**
+- **A — incorrect:** Neither institution performs those domestic coercive functions.
+- **B — correct:** Each instrument is matched to its distinct international job.
+- **C — incorrect:** Those functions are assigned to the wrong bodies.
+- **D — incorrect:** Cooperation instruments do not create domestic offence elements.
 
-A. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-B. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-C. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-D. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
+**Question-specific trap:** International cooperation is a toolkit, not one interchangeable mechanism.
 
-**Answer: C.**
-**Explanation:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q39. [Policy choice] Which reform most directly addresses FATF’s identified outcome gap for India?
 
-### Q48. Which option avoids the standard UPSC close-option trap about Investigation-prosecution boundary?
-
-A. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-B. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-C. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-D. Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-
-**Answer: D.**
-**Explanation:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q49. Which statement correctly identifies UAPA terror-finance route?
-
-A. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-B. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-C. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-D. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-
-**Answer: A.**
-**Explanation:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q50. Which option preserves the legal or institutional boundary of UAPA terror-finance route?
-
-A. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-B. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-C. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-D. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-
-**Answer: B.**
-**Explanation:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q51. Which statement uses UAPA terror-finance route without changing its institution, law or status?
-
-A. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-B. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-C. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-D. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
+A. Increase the number of offences and investigative powers without examining implementation,
+case quality or court capacity.
+B. Publish only aggregate provisional-attachment value and treat it as equivalent to final
+confiscation and conviction.
+C. Improve predicate-case quality, prosecutor and Special-Court capacity, agency hand-offs and
+completed-case metrics.
+D. Treat regular follow-up as proof that the system has no remaining supervision, prosecution
+or outreach weakness.
 
 **Answer: C.**
-**Explanation:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q52. Which option avoids the standard UPSC close-option trap about UAPA terror-finance route?
+**Option-by-option explanation:**
+- **A — incorrect:** More legal text does not by itself improve effectiveness.
+- **B — incorrect:** Attachment omits adjudication and final disposition.
+- **C — correct:** It targets the prosecution/completion bottleneck while preserving case quality.
+- **D — incorrect:** FATF expressly identified unfinished work.
 
-A. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-B. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-C. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-D. UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
+**Question-specific trap:** Diagnose the bottleneck before prescribing another institution or database.
 
-**Answer: D.**
-**Explanation:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q40. [Whole-system synthesis] Which proposition best captures an effective, rights-compatible
+response to terror finance and money laundering?
 
-### Q53. Which statement correctly identifies Sanctions-listing boundary?
-
-A. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-B. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-C. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-D. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-
-**Answer: A.**
-**Explanation:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q54. Which option preserves the legal or institutional boundary of Sanctions-listing boundary?
-
-A. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-B. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-C. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-D. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-
-**Answer: B.**
-**Explanation:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q55. Which statement uses Sanctions-listing boundary without changing its institution, law or status?
-
-A. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-B. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-C. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-D. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-
-**Answer: C.**
-**Explanation:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Sanctions-listing boundary?
-
-A. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-B. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-C. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-D. UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
+A. Maximise account closures across all higher-risk sectors, irrespective of customer,
+transaction or geographic risk.
+B. Replace judicial findings with confidential intelligence assessments whenever an authority
+invokes national security.
+C. Apply one identical detection method to cash, trade, VDA and NPO channels despite their
+different records and vulnerabilities.
+D. Join risk-based prevention, channel-specific intelligence, competent investigation, lawful
+restraint, fair adjudication and measurable outcomes.
 
 **Answer: D.**
-**Explanation:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q57. Which statement correctly identifies Proliferation-finance limb?
+**Option-by-option explanation:**
+- **A — incorrect:** Blanket de-risking harms legitimate access and can drive activity underground.
+- **B — incorrect:** Intelligence supports but cannot replace proof and judicial process.
+- **C — incorrect:** Different channels generate different records, vulnerabilities and false positives.
+- **D — correct:** It integrates prevention, disruption, proof, rights and outcome evaluation.
 
-A. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-B. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-C. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-D. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
+**Question-specific trap:** A strong system is both effective against illicit finance and correctable when it errs.
 
-**Answer: A.**
-**Explanation:** The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Answer key — rotation check
 
-### Q58. Which option preserves the legal or institutional boundary of Proliferation-finance limb?
+`A B C D A B C D A B C D A B C D A B C D A B C D A B C D A B C D A B C D A B C D`
 
-A. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-B. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-C. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-D. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-
-**Answer: B.**
-**Explanation:** The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q59. Which statement uses Proliferation-finance limb without changing its institution, law or status?
-
-A. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-B. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-C. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-D. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-
-**Answer: C.**
-**Explanation:** The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Proliferation-finance limb?
-
-A. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-B. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-C. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-D. The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing.
-
-**Answer: D.**
-**Explanation:** The WMD Act, 2005 as amended in 2022 prohibits financing connected with prohibited weapons-of-mass-destruction activity, forming a proliferation-financing limb distinct from money laundering and terrorist financing. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q61. Which statement correctly identifies FATF standards role?
-
-A. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-B. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-C. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-D. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-
-**Answer: A.**
-**Explanation:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q62. Which option preserves the legal or institutional boundary of FATF standards role?
-
-A. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-B. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-C. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-D. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-
-**Answer: B.**
-**Explanation:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q63. Which statement uses FATF standards role without changing its institution, law or status?
-
-A. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-B. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-C. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-D. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-
-**Answer: C.**
-**Explanation:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about FATF standards role?
-
-A. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-B. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-C. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-D. FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-
-**Answer: D.**
-**Explanation:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q65. Which statement correctly identifies Mutual Evaluation?
-
-A. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-B. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-C. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-D. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-
-**Answer: A.**
-**Explanation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q66. Which option preserves the legal or institutional boundary of Mutual Evaluation?
-
-A. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-B. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-C. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-D. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-
-**Answer: B.**
-**Explanation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q67. Which statement uses Mutual Evaluation without changing its institution, law or status?
-
-A. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-B. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-C. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-D. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-
-**Answer: C.**
-**Explanation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Mutual Evaluation?
-
-A. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-B. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-C. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-D. A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-
-**Answer: D.**
-**Explanation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q69. Which statement correctly identifies Listing-follow-up firewall?
-
-A. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-B. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-C. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-D. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-
-**Answer: A.**
-**Explanation:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q70. Which option preserves the legal or institutional boundary of Listing-follow-up firewall?
-
-A. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-B. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-C. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-D. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-
-**Answer: B.**
-**Explanation:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q71. Which statement uses Listing-follow-up firewall without changing its institution, law or status?
-
-A. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-B. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-C. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-D. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-
-**Answer: C.**
-**Explanation:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Listing-follow-up firewall?
-
-A. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-B. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-C. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-D. Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-
-**Answer: D.**
-**Explanation:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q73. Which statement correctly identifies India MER 2024?
-
-A. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-B. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-C. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-D. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-
-**Answer: A.**
-**Explanation:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q74. Which option preserves the legal or institutional boundary of India MER 2024?
-
-A. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-B. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-C. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-D. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-
-**Answer: B.**
-**Explanation:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q75. Which statement uses India MER 2024 without changing its institution, law or status?
-
-A. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-B. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-C. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-D. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-
-**Answer: C.**
-**Explanation:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about India MER 2024?
-
-A. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-B. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-C. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-D. FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-
-**Answer: D.**
-**Explanation:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q77. Which statement correctly identifies Compliance-outcome end-state?
-
-A. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-B. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-C. Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-D. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-
-**Answer: A.**
-**Explanation:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q78. Which option preserves the legal or institutional boundary of Compliance-outcome end-state?
-
-A. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-B. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-C. PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-D. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-
-**Answer: B.**
-**Explanation:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q79. Which statement uses Compliance-outcome end-state without changing its institution, law or status?
-
-A. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-B. Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-C. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-D. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-
-**Answer: C.**
-**Explanation:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Compliance-outcome end-state?
-
-A. Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-B. Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-C. Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-D. An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
-
-**Answer: D.**
-**Explanation:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### Ownership and verification ledger
 
-The routed ledger provides direct 2021 and 2023 GS-III demands. The third conservative card is the 2018 drug-trafficking linkage question, explicitly marked as cross-owned with Topic 11 and limited here to its money-laundering and proceeds-status component.
+| ID | Year/paper/question | Status and owner | Local official provenance | Options/key |
+|---|---|---|---|---|
+| P1 | 2021 GS-III Q9 | **DIRECT / FULL — Topic 10** | `knowledge-export\Mains PYQ\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf.md`, lines 584–612 | descriptive; options N/A; official key N/A |
+| P2 | 2023 GS-III Q20 | **DIRECT / FULL — Topic 10** | `knowledge-export\Mains PYQ\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf.md`, lines 1128–1177 | descriptive; options N/A; official key N/A |
+| P3 | 2026 GS-III Q20 | **DIRECT / FULL — Topic 10** | `knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf.md`, lines 206–211 | descriptive; options N/A; official key N/A |
+| P4 | 2018 GS-III Q20 | **APPLICATION — primary owner Topic 11; laundering component used here** | `knowledge-export\Mains PYQ\GENERAL-STUDIES-PAPER-III.pdf.md`, lines 1103–1150 | descriptive; options N/A; official key N/A |
+| P5 | 2024 GS-III Q9 | **APPLICATION — primary owner Topic 11; terror-finance disruption link** | `knowledge-export\Mains PYQ\03 UPSC 2024 Paper-III.md`, lines 82–88; obvious OCR spelling normalised | descriptive; options N/A; official key N/A |
+| P6 | 2025 GS-III Q9 | **APPLICATION — primary owner Topic 02; financial-disruption link** | `knowledge-export\Mains PYQ\UPSC Mains 2025 GS Paper 3 3.md`, lines 81–87 | descriptive; options N/A; official key N/A |
 
-### PYQ DEMAND CARD 1 — 2021 GS-III
+**Objective-PYQ audit:** the official syllabus does not give Internal Security a direct Prelims
+clause, and no direct/material Topic 10 objective item was found in the audited 2018–2026
+repository ledgers. No question, option set or answer key has been reconstructed.
 
-**Demand:** How emerging technologies and globalisation contribute to money laundering and the national and international measures to tackle it.
+### PYQ P1 — 2021 GS-III Q9 — DIRECT / FULL
 
-**Status:** Routed to this owner; Discuss · 10 marks · 150 words.
+**Official wording:** “Discuss how emerging technologies and globalisation contribute to money
+laundering. Elaborate measures to tackle the problem of money laundering both at national and
+international levels.” *(Answer in 150 words; 10 marks.)*
 
-**Model solution:** **Terror-finance laundering distinction:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Predicate-offence gateway:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **TBML boundary:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Reporting-entity controls:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **FIU-IND mandate:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **ED mandate:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Investigation-prosecution boundary:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **FATF standards role:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Mutual Evaluation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Compliance-outcome end-state:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Demand:** explain mechanisms, then match domestic and international controls.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2021 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Exam execution:** 20-word definition; three channel points; three domestic measures; two
+international measures; one qualified conclusion.
 
-**Detailed examiner-grade model answer:**
+**Model answer:**
 
-**Introduction and thesis:** **Terror-finance laundering distinction:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Predicate-offence gateway:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **TBML boundary:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Reporting-entity controls:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **FIU-IND mandate:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **ED mandate:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Investigation-prosecution boundary:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **FATF standards role:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Mutual Evaluation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Compliance-outcome end-state:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Globalisation multiplies cross-border payments, trade chains and legal-person structures, while
+technology increases speed, scale and distance between offender and asset. Instant transfers,
+remote account opening, opaque beneficial ownership, trade-document manipulation and virtual
+assets can fragment the trail across jurisdictions. Technology also aids detection through
+transaction monitoring, data matching and blockchain analysis.
 
-**Analytical body:**
+Nationally, India needs risk-based CDD, beneficial-owner verification, records and STRs by
+reporting entities; FIU-IND analysis; parallel predicate and PMLA investigation by competent
+agencies and ED; customs–bank trade-data reconciliation; supervised VDA service providers; and
+timely Special-Court disposal. Internationally, FATF standards and mutual evaluation, FIU-to-FIU
+exchange, MLATs/letters of request, asset tracing and common VASP transfer-information standards
+reduce jurisdictional gaps.
 
-1. **Claim:** Demand: How emerging technologies and globalisation contribute to money laundering and the national and international measures to tackle it. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Routed to this owner; Discuss · 10 marks · 150 words. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+The response must remain technology-neutral and evidence-led: an alert or anonymous wallet is
+not guilt, while fast freezing must mature into fair prosecution and lawful confiscation.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+### PYQ P2 — 2023 GS-III Q20 — DIRECT / FULL
 
-**Qualified conclusion:** **Terror-finance laundering distinction:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Predicate-offence gateway:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **TBML boundary:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Reporting-entity controls:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **FIU-IND mandate:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **ED mandate:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Investigation-prosecution boundary:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **FATF standards role:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Mutual Evaluation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Compliance-outcome end-state:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Official wording:** “Give out the major sources of terror funding in India and the efforts
+being made to curtail these sources. In the light of this, also discuss the aim and objective of
+the ‘No Money for Terror (NMFT)’ Conference recently held at New Delhi in November 2022.”
+*(Answer in 250 words; 15 marks.)*
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Demand:** classify sources, explain Indian countermeasures and address NMFT’s aim/objective.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+**Exam execution:** source matrix → domestic chain → NMFT → one implementation qualification.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2021 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Model answer:**
 
-### PYQ DEMAND CARD 2 — 2023 GS-III
+Terror finance is value raised, moved or made available with the required terrorist purpose or
+knowledge; its origin may be lawful or unlawful.
 
-**Demand:** Major sources of terror funding in India and efforts to curb them in light of FATF compliance.
+**Major sources in India:** external sponsorship and overseas supporters; donations or
+charitable collections diverted from stated purposes; extortion and parallel “taxation”;
+narcotics, arms, smuggling and other organised-crime proceeds; high-quality fake Indian currency;
+front businesses and personal funds; and online crowdfunding or virtual assets. These sources
+may move through banks, cash couriers, hawala, trade transactions, payment platforms or VDA
+service providers.
 
-**Status:** Printed stem verified in the routing ledger; Discuss · 15 marks · 250 words.
+**Curtailment:** UAPA sections 17 and 40 criminalise terror funding, while section 51A enables
+targeted freezing and prohibition on making funds available. Police and NIA investigate terror
+and qualifying FICN networks. Reporting entities conduct CDD, identify beneficial owners,
+monitor and report; FIU-IND analyses and disseminates intelligence. ED follows the PMLA route
+where criminal proceeds are laundered. RBI, SEBI and other regulators supervise sectoral
+compliance; customs/trade analysis and international evidence/asset cooperation address
+cross-border channels.
 
-**Model solution:** **Terror-finance laundering distinction:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Predicate-offence gateway:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Clean-clean dirty-clean distinction:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. **Reporting-entity controls:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **FIU-IND mandate:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **ED mandate:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **UAPA terror-finance route:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Sanctions-listing boundary:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. **FATF standards role:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Mutual Evaluation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Listing-follow-up firewall:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. **India MER 2024:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Compliance-outcome end-state:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The third NMFT Conference, New Delhi, 18–19 November 2022, advanced international cooperation
+against formal, informal and technology-enabled terror-finance channels, exchange of practices
+and sustained global attention; India offered a permanent secretariat.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2023 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+Success requires source–channel–end-use proof, timely trials and risk-based NPO controls, not
+blanket suspicion.
 
-**Detailed examiner-grade model answer:**
+### PYQ P3 — 2026 GS-III Q20 — DIRECT / FULL
 
-**Introduction and thesis:** **Terror-finance laundering distinction:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Predicate-offence gateway:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Clean-clean dirty-clean distinction:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. **Reporting-entity controls:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **FIU-IND mandate:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **ED mandate:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **UAPA terror-finance route:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Sanctions-listing boundary:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. **FATF standards role:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Mutual Evaluation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Listing-follow-up firewall:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. **India MER 2024:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Compliance-outcome end-state:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Official wording:** “Discuss counterfeit currency and money laundering as major sources of
+terror funding in India. State the actions being taken at International level to check these
+menaces. Highlight the role of Financial Action Task Force (FATF) and methods of compliance by
+its member states in preventing terror funding.” *(Answer in 250 words; 15 marks.)*
 
-**Analytical body:**
+**Demand:** explain two finance mechanisms, international action, FATF’s role and national
+compliance methods.
 
-1. **Claim:** Demand: Major sources of terror funding in India and efforts to curb them in light of FATF compliance. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Printed stem verified in the routing ledger; Discuss · 15 marks · 250 words. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Exam execution:** qualify the premise → mechanism/evidence → international architecture →
+FATF/member compliance → current India status.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+**Model answer:**
 
-**Qualified conclusion:** **Terror-finance laundering distinction:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Predicate-offence gateway:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Clean-clean dirty-clean distinction:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. **Reporting-entity controls:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **FIU-IND mandate:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **ED mandate:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **UAPA terror-finance route:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Sanctions-listing boundary:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. **FATF standards role:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Mutual Evaluation:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Listing-follow-up firewall:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. **India MER 2024:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Compliance-outcome end-state:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Counterfeit currency can supply purchasing power, remunerate networks and damage monetary
+stability; laundering enables criminal proceeds to be concealed, used or projected as untainted
+before diversion to terrorists. Strictly, laundering is an enabling process rather than an
+original revenue source. Neither a fake-note seizure nor a suspicious transaction alone proves
+terror purpose; forensics, network control, beneficiary and end-use must connect the chain.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+International action includes the 1999 Terrorist Financing Convention; UNSC targeted sanctions
+under the ISIL/Al-Qaida and Taliban regimes and domestic freezes under Resolution 1373; FATF
+standards; FIU-to-FIU information exchange; MLATs, extradition and cross-border asset tracing;
+customs cooperation; and common VASP controls.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+FATF sets 40 AML/CFT/CPF Recommendations, assesses technical compliance and practical
+effectiveness through peer Mutual Evaluations, and subjects deficient jurisdictions to
+increased monitoring or a call for action. Members comply through risk assessments,
+criminalisation, targeted financial sanctions, CDD and beneficial-owner rules, STR systems,
+independent FIUs, risk-based supervision, investigation/prosecution/confiscation, VASP
+regulation, proportionate NPO controls and international cooperation.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2023 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+India’s 19 September 2024 evaluation placed it in regular follow-up; as checked against FATF’s
+19 June 2026 lists, India is neither grey- nor black-listed. The remaining test is conversion of
+detection and attachment into timely, fair convictions and final property orders.
 
-### PYQ DEMAND CARD 3 — 2018 GS-III
+### PYQ P4 — 2018 GS-III Q20 — APPLICATION / TOPIC 11 PRIMARY OWNER
 
-**Demand:** Drug-trafficking linkages with money laundering and human trafficking.
+**Official wording:** “India’s proximity to two of the world’s biggest illicit opium-growing
+states has enhanced her internal security concerns. Explain the linkages between drug
+trafficking and other illicit activities such as money laundering and human trafficking. What
+counter-measures should be taken to prevent the same?” *(Answer in 250 words; 15 marks.)*
 
-**Status:** Conservative cross-owned component card routed principally to Topic 11; Explain · 15 marks · 250 words. This solution covers only the laundering and proceeds-status leg.
+**Demand:** explain the crime–finance–trafficking nexus and propose an integrated response.
 
-**Model solution:** **Terror-finance laundering distinction:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Predicate-offence gateway:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Placement typology:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. **Layering typology:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. **Integration typology:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. **TBML boundary:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **FIU-IND mandate:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **ED mandate:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **PMLA property ladder:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Investigation-prosecution boundary:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Compliance-outcome end-state:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Exam execution:** geography → network convergence → laundering chain → measures. Topic 10
+supplies only the laundering/evidence component.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2018 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Model answer:**
 
-**Detailed examiner-grade model answer:**
+India lies between the Golden Crescent and Golden Triangle trafficking regions. Drug markets
+generate high-value illicit proceeds and sustain routes, corrupt facilitators and violence that
+can also move arms, persons and counterfeit currency.
 
-**Introduction and thesis:** **Terror-finance laundering distinction:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Predicate-offence gateway:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Placement typology:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. **Layering typology:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. **Integration typology:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. **TBML boundary:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **FIU-IND mandate:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **ED mandate:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **PMLA property ladder:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Investigation-prosecution boundary:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Compliance-outcome end-state:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The linkages are organisational and financial. The same brokers, border routes, forged
+documents, safe houses and corrupt contacts may serve narcotics and human trafficking. Drug
+proceeds are converted or deposited, distanced through accounts, trade or informal value
+transfer, and integrated through property or fronts. Trafficked persons may be exploited to
+transport drugs or generate further illegal income. Criminal profits can finance armed or
+terrorist groups, but that end-use must be independently proved.
 
-**Analytical body:**
+Counter-measures should combine intelligence-led border and coastal policing; NCB, police,
+Customs-DRI and NIA coordination within their mandates; parallel financial investigation;
+CDD, beneficial-owner verification and STR analysis by FIU-IND; ED action where PMLA’s
+scheduled-offence/proceeds gateway is met; customs–bank data analytics for TBML; controlled
+deliveries and lawful digital forensics; victim-centred identification, shelter and
+rehabilitation for trafficked persons; and anti-corruption safeguards.
 
-1. **Claim:** Demand: Drug-trafficking linkages with money laundering and human trafficking. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Conservative cross-owned component card routed principally to Topic 11; Explain · 15 marks · 250 words. This solution covers only the laundering and proceeds-status leg. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+Internationally, intelligence exchange, MLATs, extradition, joint investigations and asset
+tracing should follow the network across borders. Performance must be measured by dismantled
+networks, rescued victims, completed trials and confiscated proceeds—not seizure volume alone.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+### PYQ P5 — 2024 GS-III Q9 — APPLICATION / TOPIC 11 PRIMARY OWNER
 
-**Qualified conclusion:** **Terror-finance laundering distinction:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Predicate-offence gateway:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Placement typology:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. **Layering typology:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. **Integration typology:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. **TBML boundary:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **FIU-IND mandate:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **ED mandate:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **PMLA property ladder:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Investigation-prosecution boundary:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Compliance-outcome end-state:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Official wording; obvious OCR spelling normalised:** “Explain how narco-terrorism has emerged
+as a serious threat across the country. Suggest suitable measures to counter narco-terrorism.”
+*(Answer in 150 words; 10 marks.)*
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Demand:** establish the narcotics–terror mechanism and give targeted measures.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+**Model answer:**
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2018 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+Narco-terrorism arises when narcotics production, trafficking or protection finances terrorist
+or insurgent capacity, while violent groups secure routes and intimidate enforcement. India’s
+location between major illicit-opium regions, porous land and maritime routes, online markets
+and organised-crime logistics increase exposure. Drug proceeds can move through cash, hawala,
+trade manipulation, fronts or virtual assets; the terror link, however, requires evidence of
+control, knowledge and end-use.
+
+The response should integrate NCB, Customs-DRI, police, Coast Guard and NIA intelligence;
+financial profiling and parallel investigation; FIU-IND reports and beneficial-owner analysis;
+ED action where scheduled narcotics proceeds are laundered; border technology and container/
+parcel risk targeting; cyber and VDA capability; controlled international cooperation and asset
+recovery. Witness protection, anti-corruption controls, demand reduction and rehabilitation
+reduce network resilience.
+
+Success is not kilograms seized or property attached alone. India must dismantle organisers,
+secure convictions, confiscate proceeds lawfully and prevent replacement recruitment.
+
+### PYQ P6 — 2025 GS-III Q9 — APPLICATION / TOPIC 02 PRIMARY OWNER
+
+**Official wording:** “Terrorism is a global scourge. How has it manifested in India? Elaborate
+with contemporary examples. What are the counter measures adopted by the State? Explain.”
+*(Answer in 150 words; 10 marks.)*
+
+**Demand:** cover manifestations and State response; Topic 10 supplies the finance-disruption limb.
+
+**Model answer:**
+
+Terrorism in India appears as cross-border proxy violence, insurgent attacks, urban modules,
+radicalisation and technology-enabled propaganda, communication and finance. The 2024 Reasi bus
+attack illustrates violence against civilians; NIA’s 2024 Rameshwaram Café charge-sheet
+illustrates an urban module and alleged cryptocurrency-to-cash funding. Such case allegations
+remain distinct from final conviction.
+
+The State response combines intelligence sharing, police and NIA investigation, border/coastal
+security, UAPA prosecution, protection of critical infrastructure, cyber monitoring under law,
+community engagement and international cooperation. Financial disruption adds CDD and beneficial-owner checks, FIU-IND analysis, ED investigation
+where PMLA’s proceeds gateway exists, UAPA sections 17/40 and section 51A freezes, VDA controls
+and FATF-standard cooperation.
+
+Force and finance measures must be paired with prevention, victim protection, timely fair trial,
+review of coercive action and locally credible governance. The objective is to remove capability
+and support while preserving legitimacy.
+
+---
+
+## ORIGINAL MAINS PRACTICE
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish terror financing from money laundering and explain why lawful-origin funds may still create CFT risk. Answer in about 150 words.
+**Question:** Distinguish terrorist financing from money laundering. Why does the distinction
+matter for investigation? *(Answer in 150 words.)*
 
-**Model thesis:** **Claim:** Terror-finance laundering distinction. **Named evidence/example:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Clean-clean dirty-clean distinction. **Named evidence/example:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA terror-finance route. **Named evidence/example:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Execution plan:** definition table in prose → overlap example → investigative consequence →
+qualified conclusion.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-- PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-- Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection.
-- UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-- An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
+Money laundering and terrorist financing overlap in financial channels but differ in their
+defining link. Laundering concerns knowing involvement in a process connected with **proceeds of
+crime** arising from criminal activity relating to a PMLA scheduled offence. Terrorist financing
+concerns raising, providing, receiving or moving value with the required terrorist purpose or
+knowledge; the value may originate lawfully or unlawfully.
 
-**Qualified conclusion:** **Claim:** Terror-finance laundering distinction. **Named evidence/example:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Clean-clean dirty-clean distinction. **Named evidence/example:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA terror-finance route. **Named evidence/example:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Thus narcotics proceeds disguised through fronts and supplied to terrorists may engage both
+regimes. Conversely, lawfully earned money knowingly diverted to a terrorist organisation may
+create UAPA liability without an earlier proceeds-of-crime trail.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Distinguish terror financing from money laundering and explain why lawful-origin funds may…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+The distinction directs evidence and agencies. A PMLA case needs the predicate offence, proceeds,
+control and section 3 conduct; a terror-funding case needs the terrorist beneficiary/purpose and
+mental element. FIU intelligence may assist both, ED investigates laundering, while police/NIA
+investigate terror offences within jurisdiction.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Terror-finance laundering distinction. **Named evidence/example:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Clean-clean dirty-clean distinction. **Named evidence/example:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA terror-finance route. **Named evidence/example:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Terror-finance laundering distinction. **Named evidence/example:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Clean-clean dirty-clean distinction. **Named evidence/example:** Funds legally generated and transferred but diverted to terror may present fewer criminal-origin indicators than dirty proceeds later laundered, which is why terror-finance risk cannot be reduced to proceeds-of-crime detection. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA terror-finance route. **Named evidence/example:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Distinguish terror financing from money laundering and explain why lawful-origin funds may…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+Conflation misses lawful-origin finance and risks unsupported PMLA action.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain placement, layering and integration as a conceptual typology without turning the answer into evasion guidance. Answer in about 150 words.
+**Question:** Map the respective roles of reporting entities, FIU-IND, regulators, police/NIA,
+ED, the Adjudicating Authority and the Special Court in India’s AML/CFT chain. *(Answer in
+150 words.)*
 
-**Model thesis:** **Claim:** Placement typology. **Named evidence/example:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Layering typology. **Named evidence/example:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integration typology. **Named evidence/example:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TBML boundary. **Named evidence/example:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Execution plan:** one-line chain → one function per actor → status warning.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion.
-- Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques.
-- Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin.
-- Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-- Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
+India’s AML/CFT system is a chain of distinct mandates. Reporting entities perform CDD,
+beneficial-owner identification, transaction monitoring, record-keeping and prescribed
+reporting. RBI, SEBI, IRDAI and other regulators issue sector rules and supervise compliance.
 
-**Qualified conclusion:** **Claim:** Placement typology. **Named evidence/example:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Layering typology. **Named evidence/example:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integration typology. **Named evidence/example:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TBML boundary. **Named evidence/example:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+FIU-IND receives, processes and analyses reports and disseminates financial intelligence; an
+STR is not an FIR. State police, CBI, NCB, Customs-DRI or another competent agency investigates
+the scheduled predicate offence. Police or NIA investigates UAPA terror funding and qualifying
+national-security cases under the statutory route. ED investigates section 3 money laundering,
+uses authorised search/seizure/arrest powers, may provisionally attach property and files the
+prosecution complaint.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain placement, layering and integration as a conceptual typology without turning the…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Placement typology. **Named evidence/example:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Layering typology. **Named evidence/example:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integration typology. **Named evidence/example:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TBML boundary. **Named evidence/example:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Placement typology. **Named evidence/example:** Placement is the conceptual stage at which illicit proceeds first enter a financial or commercial channel; it is a typology for diagnosis, not a guide to evasion. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Layering typology. **Named evidence/example:** Layering conceptually describes transactions or structures that distance value from its criminal origin; answers should identify the control failure without reproducing operational concealment techniques. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integration typology. **Named evidence/example:** Integration is the stage at which value returns in an apparently legitimate form; legitimate appearance does not by itself establish lawful origin. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TBML boundary. **Named evidence/example:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Explain placement, layering and integration as a conceptual typology without turning the…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+The Adjudicating Authority tests whether attachment/freezing should be confirmed or released.
+The Special Court conducts the criminal trial and makes the final property order under section
+8. Effective coordination must preserve these boundaries: intelligence starts inquiry,
+attachment preserves property and only judicial adjudication determines guilt.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Discuss how technology and globalisation alter money-laundering risk and evaluate matched national and international controls. Answer in about 250 words.
+**Question:** Explain the PMLA chain from a scheduled offence to confiscation. Critically examine
+why attachment figures alone are an inadequate measure of success. *(Answer in 250 words.)*
 
-**Model thesis:** **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TBML boundary. **Named evidence/example:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FATF standards role. **Named evidence/example:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Execution plan:** legal gateway → property ladder → jurisprudential safeguards → outcome metrics.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-- Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level.
-- Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-- FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-- The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-- Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-- FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-- A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-- An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
+PMLA begins with criminal activity relating to an offence listed in its Schedule. Property
+derived or obtained from that activity, its value and prescribed equivalent-value property may
+be “proceeds of crime”. Section 3 then requires knowing involvement in concealment, possession,
+acquisition, use, projecting or claiming such proceeds as untainted.
 
-**Qualified conclusion:** **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TBML boundary. **Named evidence/example:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FATF standards role. **Named evidence/example:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The competent predicate agency first registers or pursues the scheduled case. ED conducts the
+laundering inquiry and may issue a reasoned provisional attachment under section 5 to prevent
+dissipation. It files a complaint before the Adjudicating Authority, which gives notice, hears
+the affected parties and confirms or releases the restraint. Confirmation is a property-stage
+finding, not conviction. ED may file a prosecution complaint before the Special Court. Under
+section 8(5), the ordinary final route is confiscation when the Court finds the laundering
+offence established; section 8(6) provides release where it is not. Section 8(7) permits a
+property decision where trial cannot be conducted for specified reasons, and restoration may
+protect legitimate claimants.
 
-**Demand decoding:** The directive **discuss** requires a direct position on ‘Discuss how technology and globalisation alter money-laundering risk and evaluate matched…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+Attachment totals measure immediate disruption and preservation, but not evidentiary quality,
+case delay, acquittal, final confiscation or restoration. *Vijay Madanlal* rejects a notional
+predicate case; *Pavana Dibbur* preserves the proceeds foundation; *Pankaj Bansal* requires
+written grounds of arrest.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TBML boundary. **Named evidence/example:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FATF standards role. **Named evidence/example:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-9. **Claim:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** TBML boundary. **Named evidence/example:** Trade-Based Money Laundering moves or disguises value through manipulated trade transactions or documentation; it is distinct from ordinary trade error, customs evasion and virtual-asset laundering and should be discussed only at a non-operational level. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FATF standards role. **Named evidence/example:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Discuss how technology and globalisation alter money-laundering risk and evaluate matched…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+Success should therefore publish the full funnel—investigation, attachment, confirmation,
+prosecution, conviction/acquittal, confiscation/release and time taken—so security capacity and
+rule-of-law quality are assessed together.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Assess India's terror-finance architecture across UAPA Section 51A, PMLA, FIU-IND, ED and targeted financial sanctions. Answer in about 250 words.
+**Question:** Compare hawala, trade-based money laundering, virtual assets, cash/FICN and NPO
+channels as terror-finance risks. Suggest an evidence-led response. *(Answer in 250 words.)*
 
-**Model thesis:** **Claim:** Terror-finance laundering distinction. **Named evidence/example:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA terror-finance route. **Named evidence/example:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sanctions-listing boundary. **Named evidence/example:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Execution plan:** source/channel distinction → five evidence pairs → integrated safeguards.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.
-- PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-- FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-- The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-- The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-- Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-- UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model.
-- UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards.
-- An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
+These are movement channels or sectors, not interchangeable offences. **Hawala** transfers value
+through informal brokers and reciprocal settlement; useful proof joins ledgers, communications,
+cash–bank interfaces and identified counterparties. **TBML** embeds value in misstated price,
+quantity, quality, shipment or payment; investigators must reconcile invoices, customs,
+shipping, finance and beneficial ownership. **Virtual assets** move value across borders and
+services; on-chain graphs need off-chain wallet attribution, VDA-provider KYC, devices,
+communications and fiat interfaces. **Cash/FICN** can fund procurement or networks; seizure and
+note forensics must be linked to handlers, beneficiaries and terrorist purpose. **NPOs** may be
+abused through diversion, but donor, governance, project and end-use records—not charitable
+identity—must prove the case.
 
-**Qualified conclusion:** **Claim:** Terror-finance laundering distinction. **Named evidence/example:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA terror-finance route. **Named evidence/example:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sanctions-listing boundary. **Named evidence/example:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The response should apply reporting-entity CDD, ongoing monitoring, sanctions screening,
+beneficial-owner checks and quality STRs; integrate FIU-IND, regulators, police/NIA, ED and
+Customs-DRI data; use parallel financial investigation and cross-border legal assistance; and
+preserve digital/financial chain of custody.
 
-**Demand decoding:** The directive **assess** requires a direct position on ‘Assess India's terror-finance architecture across UAPA Section 51A, PMLA, FIU-IND, ED and…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Terror-finance laundering distinction. **Named evidence/example:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA terror-finance route. **Named evidence/example:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sanctions-listing boundary. **Named evidence/example:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-9. **Claim:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Terror-finance laundering distinction. **Named evidence/example:** Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** UAPA terror-finance route. **Named evidence/example:** UAPA contains terror-fund offences and Section 51A provides a listing-linked route to freeze, seize or attach covered funds and assets and prevent funds being made available; this route is distinct from PMLA's predicate-proceeds model. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Sanctions-listing boundary. **Named evidence/example:** UN Security Council 1267-linked or domestic designation and targeted financial sanctions are preventive legal statuses, not criminal conviction; review, delisting and identity accuracy remain essential safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Assess India's terror-finance architecture across UAPA Section 51A, PMLA, FIU-IND, ED and…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+Controls must remain channel-specific. FATF Recommendation 8 requires focused, proportionate,
+risk-based NPO measures; VDA controls require traceability without assuming every wallet is
+anonymous; trade anomalies require commercial explanations to be tested. The goal is a
+corroborated source–channel–end-use chain, not sector-wide suspicion.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Critically evaluate India's 2024 FATF Mutual Evaluation outcome by separating technical compliance, disruption and adjudicated effectiveness. Answer in about 300 words.
+**Question:** Explain FATF’s standards, Mutual Evaluation and monitoring architecture. Distinguish
+it from UN targeted sanctions and assess India’s position as of 27 September 2026. *(Answer in
+300 words.)*
 
-**Model thesis:** **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FATF standards role. **Named evidence/example:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Listing-follow-up firewall. **Named evidence/example:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** India MER 2024. **Named evidence/example:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Execution plan:** FATF functions → evaluation/listing distinction → UN route → India status →
+balanced assessment.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-- The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-- Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-- FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.
-- A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-- Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms.
-- FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-- An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
+FATF is an intergovernmental standard-setter for anti-money laundering, countering terrorist
+financing and countering proliferation financing. Its 40 Recommendations require risk
+assessment, criminalisation, confiscation, preventive controls, beneficial-owner transparency,
+an operational FIU, risk-based supervision, targeted financial sanctions, VASP regulation and
+international cooperation.
 
-**Qualified conclusion:** **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FATF standards role. **Named evidence/example:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Listing-follow-up firewall. **Named evidence/example:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** India MER 2024. **Named evidence/example:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+A **Mutual Evaluation** is peer review on two axes: technical compliance with the
+Recommendations and effectiveness in achieving eleven Immediate Outcomes. The resulting
+regular/enhanced follow-up concerns later reporting and possible re-rating. It is not the same as
+FATF’s monitored-jurisdiction process.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Critically evaluate India's 2024 FATF Mutual Evaluation outcome by separating technical…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+“Grey list” means **jurisdictions under increased monitoring**: strategic deficiencies plus an
+agreed action plan. FATF does not call for blanket enhanced due diligence solely on this basis,
+though private risk responses can raise scrutiny and transaction costs. “Black list” means
+**high-risk jurisdictions subject to a call for action**, for which FATF calls enhanced due
+diligence and, in serious cases, countermeasures.
 
-**Detailed examiner-grade model answer:**
+UN sanctions operate differently. Security Council regimes designate persons/entities and
+require targeted measures such as asset freezes, implemented in India through section 51A UAPA
+procedures. They do not grade a whole national AML/CFT system, while FATF does not itself freeze
+an individual account or convict a person.
 
-**Introduction and thesis:** **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FATF standards role. **Named evidence/example:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Listing-follow-up firewall. **Named evidence/example:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** India MER 2024. **Named evidence/example:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+FATF published India’s joint evaluation on 19 September 2024 and placed it in regular follow-up,
+with report-back in three years. It recognised risk understanding, financial-intelligence use,
+beneficial-ownership access, asset recovery and cooperation, but sought faster completed ML/TF
+cases, effective sanctions, stronger supervision and proportionate NPO outreach. On the latest
+FATF lists dated 19 June 2026, India is neither grey- nor black-listed.
 
-**Analytical body:**
-
-1. **Claim:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FATF standards role. **Named evidence/example:** FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Listing-follow-up firewall. **Named evidence/example:** Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and regular follow-up are not synonyms. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** India MER 2024. **Named evidence/example:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Critically evaluate India's 2024 FATF Mutual Evaluation outcome by separating technical…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+India’s position is favourable but conditional on converting technical and disruption capacity
+into timely, fair and measurable outcomes.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Examine the proposition that India's AML/CFT bottleneck lies in converting financial intelligence and provisional action into timely fair prosecution and confiscation. Answer in about 300 words.
+**Question:** “Follow the money is necessary but insufficient.” Design a comprehensive,
+rights-compatible strategy against terror financing and money laundering in India. *(Answer in
+300 words.)*
 
-**Model thesis:** **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** India MER 2024. **Named evidence/example:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Execution plan:** diagnosis → prevention → detection/investigation → adjudication/international
+cooperation → metrics and safeguards.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case.
-- Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt.
-- FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.
-- The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.
-- The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.
-- Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial.
-- A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation.
-- FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach.
-- An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards.
+“Follow the money” deprives violent and criminal networks of mobility, procurement and
+legitimacy, but a financial trail is useful only when linked to the correct offence, actor and
+purpose.
 
-**Qualified conclusion:** **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** India MER 2024. **Named evidence/example:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Risk and prevention:** update national and sector risk assessments; require proportionate CDD,
+beneficial-owner verification, ongoing monitoring, records and sanctions screening. Supervise
+banks, securities, insurance, VDA service providers, notified professionals and TCSPs according
+to risk. Apply focused Recommendation 8 controls to vulnerable NPOs without blanket de-risking.
 
-**Demand decoding:** The directive **examine** requires a direct position on ‘Examine the proposition that India's AML/CFT bottleneck lies in converting financial…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Channel-specific detection:** integrate FIU-IND reports with customs and shipping data for
+TBML; broker, cash and communication evidence for hawala; forensic and network evidence for
+FICN; and on-chain analysis plus VASP, device and fiat-interface records for virtual assets.
+Red flags should be quality-tested and feedback returned to reporting entities.
 
-**Detailed examiner-grade model answer:**
+**Investigation and disruption:** run parallel financial and predicate/terror investigations.
+Police, NCB, Customs-DRI, CBI and NIA should remain within jurisdiction while sharing usable
+intelligence; ED should apply PMLA only after the scheduled-offence/proceeds gateway is
+established. Use section 51A targeted freezes without delay, but maintain true-match,
+unfreezing and review safeguards.
 
-**Introduction and thesis:** **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** India MER 2024. **Named evidence/example:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Adjudication:** strengthen prosecutors, forensic capacity and Special Courts; digitise
+evidence hand-offs; furnish written arrest grounds; and distinguish provisional attachment,
+confirmation, conviction, confiscation, release and restoration.
 
-**Analytical body:**
+**External layer:** use FATF standards/evaluation, FIU-to-FIU exchange, MLATs, extradition,
+cross-border asset recovery, customs cooperation and interoperable VASP transfer information.
 
-1. **Claim:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-9. **Claim:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+Publish a full outcome dashboard covering reports, investigations, case age, convictions,
+confiscations and reversals. The strategy succeeds when it disrupts finance early, proves cases
+fairly, protects legitimate access and continuously feeds adjudicated lessons back into
+prevention.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+## Practice coverage and integrity declaration
 
-**Qualified conclusion:** **Claim:** Predicate-offence gateway. **Named evidence/example:** PMLA is derivative: proceeds of crime must be linked to a registered scheduled predicate offence, so the quality and status of the underlying investigation shape the laundering case. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Reporting-entity controls. **Named evidence/example:** Customer due diligence, beneficial-owner identification, record maintenance and suspicious-transaction reporting are preventive inputs by regulated or notified reporting entities, not findings of criminal guilt. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** FIU-IND mandate. **Named evidence/example:** FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** ED mandate. **Named evidence/example:** The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** PMLA property ladder. **Named evidence/example:** The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Investigation-prosecution boundary. **Named evidence/example:** Financial intelligence, predicate-offence investigation, PMLA investigation, prosecution, conviction and sanction require coordinated but distinct institutional work; detection strength cannot substitute for timely fair trial. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Mutual Evaluation. **Named evidence/example:** A FATF Mutual Evaluation examines technical compliance and effectiveness outcomes through a peer-review process; formal laws and institutions do not by themselves establish effective implementation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** India MER 2024. **Named evidence/example:** FATF's official India page dated 19 September 2024 placed India in regular follow-up and recognised risk understanding, financial-intelligence use, beneficial-ownership access and asset recovery while calling for completed ML/TF trials, appropriate sanctions and risk-based non-profit outreach. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Compliance-outcome end-state. **Named evidence/example:** An effective AML/CFT system must connect risk assessment, preventive controls, financial intelligence, lawful disruption, predicate investigation, prosecution, conviction or acquittal, confiscation where ordered, international cooperation and rights safeguards. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Examine the proposition that India's AML/CFT bottleneck lies in converting financial…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+- **Original MCQs:** 40; strict key sequence `ABCD` repeated ten times.
+- **Option explanations:** four question-specific explanations for every MCQ.
+- **Verified Mains PYQs:** 6 total—3 direct/full and 3 application/cross-owned.
+- **Objective PYQs:** none qualifying; no option set or official key invented.
+- **Original Mains:** 6 total—two each at 10, 15 and 20 marks.
+- **Current-status lock:** India is in regular follow-up after the 19 September 2024 MER and is
+  absent from FATF’s latest grey/black lists dated 19 June 2026.
+- **Legal-status lock:** PMLA Act, PML Rules, notifications, regulator directions, UAPA/UN
+  sanctions, investigation, attachment, adjudication, conviction and confiscation remain
+  separately labelled.

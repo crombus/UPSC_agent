@@ -1,911 +1,173 @@
-# Environment and Ecology 02 - Biogeochemical Cycles and Ecological Pyramids
+# Environment and Ecology 02 — Biogeochemical Cycles and Ecological Pyramids
 
-## Quick-Glance Tree Chart
+> Quick-glance revision tree · evidence checked 28 September 2026
 
 ```text
-BIOGEOCHEMICAL CYCLES AND ECOLOGICAL PYRAMIDS
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Biogeochemical cycles move matter repeatedly between living biomass and
-atmospheric, aquatic, soil and geological reservoirs; ecological pyramids
-describe numbers, standing biomass or energy at successive trophic levels.
-Human activity changes the rate and balance of cycles. Energy pyramids remain
-upright because usable energy dissipates, while number and biomass pyramids can
-invert depending on ecosystem structure and turnover.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-carbon /
-nitrogen /
-phosphorus /
-sulphur /
-water cycles;
-gaseous /
-sedimentary cycles;
-fixation /
-nitrification /
-denitrification;
-eutrophication;
-pyramids of number /
-biomass /
-energy;
-standing crop /
-turnover;
-human-cycle disruption.
-                              |
-                              v
-GENERAL
-ENERGY FLOW:
-Topic 01.
-CLIMATE POLICY:
-later climate owners.
-WATER POLLUTION:
-dedicated pollution owner.
-                              |
-                              v
-                BRANCH I: CYCLE ARCHITECTURE
-ABIOTIC
-RESERVOIR.
-                              |
-                              v
-BIOLOGICAL
-UPTAKE.
-                              |
-                              v
-FOOD-WEB
-TRANSFER.
-                              |
-                              v
-EXCRETION /
-DEATH.
-                              |
-                              v
-DECOMPOSITION.
-                              |
-                              v
-MINERALISATION.
-                              |
-                              v
-RETURN
-TO RESERVOIR.
-                              |
-                              v
-MATTER
-cycles.
-                              |
-                              v
-RATE /
-BALANCE
-can be altered.
-                              |
-                              v
-                BRANCH II: GASEOUS CYCLES
-MAIN
-RESERVOIR
-atmosphere /
-ocean.
-                              |
-                              v
-CARBON.
-                              |
-                              v
-NITROGEN.
-                              |
-                              v
-OXYGEN.
-                              |
-                              v
-WATER.
-                              |
-                              v
-RELATIVELY
-RAPID
-atmospheric /
-ocean exchange.
-                              |
-                              v
-"SELF-REGULATING"
-is relative,
-not immune
-to human overload.
-                              |
-                              v
-                BRANCH III: SEDIMENTARY CYCLES
-MAIN
-RESERVOIR
-earth crust /
-soil /
-sediment.
-                              |
-                              v
-PHOSPHORUS.
-                              |
-                              v
-SULPHUR
-substantial sedimentary
-component.
-                              |
-                              v
-CALCIUM.
-                              |
-                              v
-WEATHERING.
-                              |
-                              v
-EROSION /
-RUNOFF.
-                              |
-                              v
-SEDIMENTATION.
-                              |
-                              v
-GEOLOGICAL
-UPLIFT.
-                              |
-                              v
-SLOWER
-RETURN.
-                              |
-                              v
-MORE DIFFICULT
-to reverse
-after diffuse loss.
-                              |
-                              v
-                BRANCH IV: CARBON CYCLE
-ATMOSPHERIC /
-DISSOLVED
-CO2.
-                              |
-                              v
-PHOTOSYNTHESIS.
-                              |
-                              v
-PLANT /
-PHYTOPLANKTON
-BIOMASS.
-                              |
-                              v
-FOOD WEB.
-                              |
-                              v
-RESPIRATION.
-                              |
-                              v
-DECOMPOSITION.
-                              |
-                              v
-OCEAN
-EXCHANGE.
-                              |
-                              v
-SOIL /
-SEDIMENT /
-FOSSIL
-STORAGE.
-                              |
-                              v
-COMBUSTION /
-DEFORESTATION /
-CEMENT
-accelerate release.
-                              |
-                              v
-CLIMATE
-FORCING.
-                              |
-                              v
-                BRANCH V: CARBON SINKS
-FORESTS.
-                              |
-                              v
-SOILS.
-                              |
-                              v
-OCEANS.
-                              |
-                              v
-MANGROVES /
-SEAGRASS /
-SALT MARSH
-blue carbon.
-                              |
-                              v
-PEATLAND
-carbon.
-                              |
-                              v
-SINK
-absorbs more
-than releases
-over defined period.
-                              |
-                              v
-STOCK
-!= annual sequestration.
-                              |
-                              v
-DISTURBANCE
-can turn sink
-into source.
-                              |
-                              v
-                BRANCH VI: NITROGEN CYCLE
-ATMOSPHERIC
-N2.
-                              |
-                              v
-FIXATION.
-                              |
-                              v
-AMMONIA /
-AMMONIUM.
-                              |
-                              v
-NITRIFICATION.
-                              |
-                              v
-NITRITE.
-                              |
-                              v
-NITRATE.
-                              |
-                              v
-PLANT
-ASSIMILATION.
-                              |
-                              v
-FOOD WEB.
-                              |
-                              v
-AMMONIFICATION.
-                              |
-                              v
-DENITRIFICATION.
-                              |
-                              v
-N2
-returns to atmosphere.
-                              |
-                              v
-                BRANCH VII: NITROGEN MICROBIOLOGY
-RHIZOBIUM
-symbiotic fixation
-in legume nodules.
-                              |
-                              v
-AZOTOBACTER
-free-living fixation.
-                              |
-                              v
-CYANOBACTERIA
-fixation.
-                              |
-                              v
-LIGHTNING
-abiotic fixation.
-                              |
-                              v
-HABER-BOSCH
-industrial fixation.
-                              |
-                              v
-NITROSOMONAS
-ammonia
-to nitrite.
-                              |
-                              v
-NITROBACTER
-nitrite
-to nitrate.
-                              |
-                              v
-PSEUDOMONAS-TYPE
-denitrification.
-                              |
-                              v
-PLANTS
-do not themselves
-fix atmospheric nitrogen
-without symbionts.
-                              |
-                              v
-                BRANCH VIII: HUMAN NITROGEN DISRUPTION
-SYNTHETIC
-FERTILISER.
-                              |
-                              v
-LIVESTOCK
-MANURE.
-                              |
-                              v
-FOSSIL-FUEL
-NOx.
-                              |
-                              v
-RUNOFF /
-LEACHING.
-                              |
-                              v
-GROUNDWATER
-NITRATE.
-                              |
-                              v
-EUTROPHICATION.
-                              |
-                              v
-N2O.
-                              |
-                              v
-GREENHOUSE
-GAS.
-                              |
-                              v
-STRATOSPHERIC
-OZONE-DEPLETING
-role
-not controlled
-by Montreal Protocol
-in source.
-                              |
-                              v
-                BRANCH IX: PHOSPHORUS CYCLE
-PHOSPHATE
-ROCK.
-                              |
-                              v
-WEATHERING.
-                              |
-                              v
-SOIL /
-WATER
-PHOSPHATE.
-                              |
-                              v
-PLANT
-UPTAKE.
-                              |
-                              v
-FOOD WEB.
-                              |
-                              v
-DECOMPOSITION.
-                              |
-                              v
-RUNOFF.
-                              |
-                              v
-SEDIMENTATION.
-                              |
-                              v
-GEOLOGICAL
-RETURN.
-                              |
-                              v
-NO SIGNIFICANT
-ATMOSPHERIC PHASE.
-                              |
-                              v
-OFTEN
-LIMITING NUTRIENT,
-ecosystem-dependent.
-                              |
-                              v
-                BRANCH X: PHOSPHORUS VULNERABILITY
-FINITE
-ROCK
-RESOURCE.
-                              |
-                              v
-GEOGRAPHIC
-CONCENTRATION.
-                              |
-                              v
-MINING.
-                              |
-                              v
-FERTILISER.
-                              |
-                              v
-DIFFUSE
-RUNOFF.
-                              |
-                              v
-WATER-BODY
-ACCUMULATION.
-                              |
-                              v
-SLOW
-GEOLOGICAL
-RECOVERY.
-                              |
-                              v
-NO
-ATMOSPHERIC
-BUFFER.
-                              |
-                              v
-NUTRIENT
-SECURITY
-is food-security issue.
-                              |
-                              v
-                BRANCH XI: SULPHUR CYCLE
-ROCK /
-SEDIMENT.
-                              |
-                              v
-VOLCANIC /
-BIOGENIC
-EMISSION.
-                              |
-                              v
-ATMOSPHERIC
-OXIDATION.
-                              |
-                              v
-DEPOSITION.
-                              |
-                              v
-PLANT
-UPTAKE.
-                              |
-                              v
-DECOMPOSITION.
-                              |
-                              v
-COAL /
-FOSSIL
-COMBUSTION.
-                              |
-                              v
-SO2.
-                              |
-                              v
-ACID
-DEPOSITION.
-                              |
-                              v
-SOIL /
-WATER /
-MONUMENT
-damage.
-                              |
-                              v
-                BRANCH XII: EUTROPHICATION
-NATURAL
-LAKE AGEING.
-                              |
-                              v
-NUTRIENT /
-SEDIMENT
-ENRICHMENT.
-                              |
-                              v
-CULTURAL
-EUTROPHICATION
-is accelerated
-human form.
-                              |
-                              v
-SEWAGE /
-FERTILISER
-RUNOFF.
-                              |
-                              v
-ALGAL
-BLOOM.
-                              |
-                              v
-BIOMASS
-DEATH.
-                              |
-                              v
-MICROBIAL
-DECOMPOSITION.
-                              |
-                              v
-DISSOLVED
-OXYGEN
-DECLINE.
-                              |
-                              v
-FISH KILL /
-BIODIVERSITY LOSS.
-                              |
-                              v
-NUTRIENT-RICH
-!= healthy.
-                              |
-                              v
-                BRANCH XIII: PYRAMID OF NUMBERS
-NUMBER
-OF ORGANISMS
-per trophic level.
-                              |
-                              v
-GRASSLAND
-often upright.
-                              |
-                              v
-ONE TREE
-supports
-many herbivorous
-insects.
-                              |
-                              v
-TREE SYSTEM
-may invert.
-                              |
-                              v
-PARASITE
-CHAIN
-may show
-complex inversion.
-                              |
-                              v
-SIZE
-not represented.
-                              |
-                              v
-NUMBER
-!= biomass /
-energy.
-                              |
-                              v
-                BRANCH XIV: PYRAMID OF BIOMASS
-STANDING
-DRY MASS.
-                              |
-                              v
-TERRESTRIAL
-often upright.
-                              |
-                              v
-AQUATIC
-often inverted.
-                              |
-                              v
-PHYTOPLANKTON
-small standing biomass.
-                              |
-                              v
-RAPID
-TURNOVER /
-PRODUCTIVITY.
-                              |
-                              v
-SUPPORTS
-larger standing
-consumer biomass.
-                              |
-                              v
-INVERSION
-does not imply
-ecosystem dysfunction.
-                              |
-                              v
-STANDING CROP
-!= production rate.
-                              |
-                              v
-                BRANCH XV: PYRAMID OF ENERGY
-ENERGY
-FLOW PER
-AREA /
-TIME.
-                              |
-                              v
-PRODUCER
-BASE.
-                              |
-                              v
-PRIMARY
-CONSUMER.
-                              |
-                              v
-HIGHER
-CONSUMERS.
-                              |
-                              v
-RESPIRATION /
-HEAT
-LOSS.
-                              |
-                              v
-SECOND LAW
-OF THERMODYNAMICS.
-                              |
-                              v
-ALWAYS
-UPRIGHT.
-                              |
-                              v
-ROUGHLY
-10 percent
-transfer heuristic.
-                              |
-                              v
-10 PERCENT
-is not fixed
-universal constant.
-                              |
-                              v
-                BRANCH XVI: PLANETARY-BOUNDARY LENS
-CARBON
-CLIMATE
-BOUNDARY.
-                              |
-                              v
-NITROGEN /
-PHOSPHORUS
-BIOGEOCHEMICAL
-FLOW BOUNDARY.
-                              |
-                              v
-ASSESSMENTS
-often judge
-N /
-P boundary
-more transgressed
-than climate
-in source.
-                              |
-                              v
-POLICY ATTENTION
-remains carbon-heavy.
-                              |
-                              v
-N /
-P
-lack comparable
-global compliance architecture.
-                              |
-                              v
-COLOMBO
-DECLARATION
-aspirational nitrogen
-waste reduction
-context.
-                              |
-                              v
-                BRANCH XVII: INDIA GOVERNANCE
-CPCB
-water-quality
-monitoring.
-                              |
-                              v
-BOD.
-                              |
-                              v
-DISSOLVED
-OXYGEN.
-                              |
-                              v
-NUTRIENT
-LOAD.
-                              |
-                              v
-AGRICULTURE
-MINISTRY /
-FERTILISER
-DEPARTMENT
-input policy.
-                              |
-                              v
-UREA
-PRICE BIAS
-can skew
-N:P:K use.
-                              |
-                              v
-MoEFCC /
-CLIMATE
-POLICY
-uses carbon-cycle science.
-                              |
-                              v
-MONITORING
-must link
-source to water /
-air outcome.
-                              |
-                              v
-                BRANCH XVIII: POLICY RESPONSE
-CARBON:
-emission reduction,
-sinks,
-efficiency,
-pricing.
-                              |
-                              v
-NITROGEN:
-balanced /
-precision fertiliser,
-manure,
-NOx control.
-                              |
-                              v
-PHOSPHORUS:
-use efficiency,
-runoff barriers,
-recovery /
-recycling.
-                              |
-                              v
-SULPHUR:
-fuel quality,
-flue-gas control.
-                              |
-                              v
-EUTROPHICATION:
-sewage /
-agricultural
-source control.
-                              |
-                              v
-DOWNSTREAM
-CLEANUP
-cannot replace
-upstream prevention.
-                              |
-                              v
-                    SPECIES / SITE / CASE / EXAMPLE BANK
-Ganga-basin
-nutrient runoff.
-                              |
-                              v
-mangrove /
-peatland
-carbon.
-                              |
-                              v
-aquatic
-phytoplankton
-biomass inversion.
-                              |
-                              v
-Rhizobium /
-Azotobacter /
-Nitrosomonas /
-Nitrobacter.
-                              |
-                              v
-CPCB
-water indicators.
-                              |
-                              v
-IPCC AR6
-2023.
-                              |
-                              v
-                    SOURCE CRITICISM
-gaseous != purely atmospheric;
-sedimentary != no biological phase;
-nitrogen fixation != plant action alone;
-nitrification != fixation;
-denitrification closes atmospheric loop;
-natural eutrophication != cultural acceleration;
-phosphorus has no significant atmospheric phase;
-standing biomass != productivity;
-number /
-biomass pyramid != energy pyramid;
-10 percent is heuristic;
-global warming datum != India-specific warming.
-                              |
-                              v
-                    MAJOR DEBATES
-FOOD
-OR NUTRIENT
-POLLUTION?
-precision stewardship.
-                              |
-                              v
-CARBON FOCUS
-OR MULTIPLE
-BOUNDARIES?
-integrated cycles.
-                              |
-                              v
-PYRAMID
-SIMPLICITY OR WEB
-COMPLEXITY?
-use as diagnostic.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-carbon /
-nitrogen /
-oxygen /
-water are gaseous;
-phosphorus mainly sedimentary;
-Rhizobium fixes nitrogen;
-Nitrosomonas:
-ammonia to nitrite;
-Nitrobacter:
-nitrite to nitrate;
-energy pyramid always upright;
-aquatic biomass can invert;
-cultural eutrophication is accelerated.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-NO DIRECT MAINS
-question is manufactured.
-                              |
-                              v
-PRELIMS 2019 Q41
-nitrogen compounds
-from agriculture /
-livestock.
-Cross-routed with
-animal-production owner.
-                              |
-                              v
-PRELIMS 2021 Q27
-phosphorus cycle /
-rock weathering.
-                              |
-                              v
-PRELIMS 2022 Q48
-nitrogen-fixing
-plant species.
-Official historical keys
-unavailable locally.
-No option or answer letter
-is inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-reservoir
--> gaseous /
-sedimentary
--> carbon
--> nitrogen microbes
--> phosphorus
--> sulphur
--> eutrophication
--> pyramids of number /
-biomass /
-energy
--> human acceleration.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-CLASSIFY
-cycle /
-reservoir.
-                              |
-                              v
-TRACE
-natural transfers.
-                              |
-                              v
-IDENTIFY
-human acceleration.
-                              |
-                              v
-LINK
-environmental effect.
-                              |
-                              v
-NAME
-Indian institution /
-policy lever.
-                              |
-                              v
-CONCLUDE
-source-specific
-stewardship.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Human activity has not created new elemental cycles; it has accelerated and
-unbalanced existing ones. Carbon excess drives warming, while nitrogen and
-phosphorus overload drives eutrophication and phosphorus loss raises long-term
-resource concerns. Policy must target each source and reservoir separately,
-while ecological pyramids should be used only for the quantity they actually
-represent.
+CORE THESIS
+Matter cycles among reservoirs; usable energy dissipates.
+Human activity changes rate, form and location of fluxes.
+Pyramid shape depends on parameter; contaminant concentration follows another logic.
+│
+├─ 1. ACCOUNTING FIREWALL
+│  ├─ reservoir = storage location
+│  ├─ pool/stock = amount held at time t
+│  ├─ flux = amount transferred per time
+│  ├─ residence time ≈ pool ÷ outgoing flux
+│  ├─ source/sink need boundary + period
+│  └─ stock ≠ annual sequestration ≠ productivity
+│
+├─ 2. CYCLE CLASSES
+│  ├─ gaseous-dominant: water · carbon · nitrogen
+│  │  atmosphere/ocean = rapidly mixed reservoir
+│  ├─ sedimentary-dominant: phosphorus · calcium
+│  └─ sulphur
+│     rock/ocean reservoir + active atmospheric limb
+│     classification = dominant pool, not exclusive phase
+│
+├─ 3. WATER
+│  ocean/surface/soil/plant
+│   └─ evaporation + transpiration
+│       └─ condensation + transport
+│           └─ precipitation
+│               ├─ interception/runoff → river/ocean
+│               ├─ infiltration → soil moisture
+│               └─ percolation → aquifer → baseflow
+│  pressures: pumping · paving · dams · irrigation · deforestation
+│  trap: equal rainfall ≠ equal recharge
+│
+├─ 4. CARBON
+│  ├─ fast rail
+│  │  CO2 → photosynthesis → biomass/food web/detritus
+│  │      → respiration + decomposition → CO2
+│  ├─ slow rail
+│  │  ocean chemistry/weathering → carbonate/sediment/burial
+│  │      → uplift/volcanism/extraction/combustion
+│  ├─ stores: ocean · soil · forest · peat · fossil · rock
+│  ├─ blue carbon: ocean/coastal capture and storage
+│  └─ CO2 uptake by seawater → H+ ↑ → carbonate availability ↓
+│     = ocean acidification; not acid rain
+│
+├─ 5. NITROGEN ENTRY
+│  atmospheric N2
+│   ├─ biological fixation
+│   │  Rhizobium · Azotobacter · cyanobacteria
+│   ├─ lightning
+│   └─ Haber-Bosch
+│       ↓
+│  NH3/NH4+/NO3- → plant assimilation → organic N
+│  trap: plants assimilate; microbes perform symbiotic fixation
+│
+├─ 6. NITROGEN TRANSFORMATIONS
+│  organic N
+│   └─ ammonification → NH3/NH4+
+│       └─ aerobic nitrification
+│          Nitrosomonas: NH4+ → NO2-
+│          Nitrobacter: NO2- → NO3-
+│             ├─ assimilation/leaching
+│             └─ anoxic denitrification → N2O/N2
+│  anammox: NH4+ + NO2- → N2 under anoxic conditions
+│  pressures: fertiliser · livestock NH3 · combustion NOx
+│
+├─ 7. PHOSPHORUS
+│  phosphate rock
+│   └─ weathering/mining → soil-water phosphate
+│       └─ uptake → food web → decomposition
+│           ├─ runoff → eutrophication
+│           └─ sedimentation/burial → uplift, slow return
+│  upwelling: deep nutrient → photic zone; redistribution, not creation
+│  no significant atmospheric reservoir
+│  trap: often limiting ≠ always limiting
+│
+├─ 8. SULPHUR
+│  rock/sediment/ocean sulphate
+│   ├─ weathering → uptake → food web → decomposition
+│   ├─ volcanoes + marine/biogenic emissions
+│   └─ coal/oil/smelting → SO2
+│       → atmospheric oxidation
+│       → sulphate/sulphuric acid
+│       → wet + dry deposition
+│  acid deposition: SO2/NOx chemistry; soil participates in cycle
+│
+├─ 9. EUTROPHICATION
+│  N/P load from sewage/manure/runoff
+│   → excess production/bloom
+│   → death + microbial decay
+│   → BOD/oxygen demand ↑
+│   → DO ↓ / hypoxia / fish-benthic stress
+│  natural = slow enrichment/ageing
+│  cultural = human-accelerated
+│  controls: limiting nutrient · light · mixing · residence time · temperature
+│
+├─ 10. THREE PYRAMIDS
+│  ├─ numbers = individuals
+│  │  upright grassland; inverted one-tree or parasite chain
+│  ├─ biomass = standing dry mass at one time
+│  │  commonly upright land; often inverted aquatic
+│  │  phytoplankton stock small + turnover fast
+│  └─ energy = production/flow per area per time
+│     always upright: uneaten + unassimilated + respiration losses
+│
+├─ 11. STOCK-RATE AND 10% FIREWALL
+│  standing crop = snapshot stock
+│  productivity = new biomass/energy per area per time
+│  turnover = production relative to stock
+│  ≈10% transfer = heuristic, not invariant law
+│  actual transfer = consumption × assimilation × production efficiencies
+│  pyramid limits: omnivory · detritus · microbes · parasites · seasonality
+│
+├─ 12. TROPHIC CONTAMINANTS
+│  bioaccumulation
+│   └─ build-up within one organism over time
+│  biomagnification
+│   └─ concentration rises prey → predator across trophic levels
+│  favoured by persistence + assimilation + poor metabolism/excretion
+│  trophic transfer alone ≠ biomagnification
+│  energy falls upward; persistent contaminant may rise upward
+│
+├─ 13. INDIA RESPONSE
+│  ├─ Agriculture/Fertilizers
+│  │  balanced NPK · soil testing · precision use · fixation
+│  ├─ ULB/sewage systems
+│  │  intercept and treat N/P + organic load
+│  ├─ CPCB/SPCB
+│  │  connect load with DO/BOD/nutrients/biology over seasons
+│  ├─ catchment tools
+│  │  erosion control · riparian buffers · wetland restoration
+│  └─ air/climate tools
+│     decarbonise · protect sinks · control SO2/NOx
+│  sequence: avoid → intercept → recover → restore → monitor
+│
+├─ 14. INDIA EXAMPLES
+│  chickpea-Rhizobium · rice-field cyanobacteria
+│  Ganga-basin nutrient-loading application
+│  Indian pond/marine biomass inversion
+│  Arabian Sea/west-coast upwelling
+│  mangrove/seagrass coastal carbon
+│  coal-power sulphur/nitrogen flux
+│
+├─ 15. PYQ ROUTE
+│  ├─ direct/co-owned
+│  │  2019 Q41 nitrogen externalities
+│  │  2021 Q27 phosphorus/weathering
+│  │  2022 Q48 nitrogen-fixing plants
+│  ├─ shared/application
+│  │  2018 Q82 sulphur/soil
+│  │  2020 Q79/Q94 coal + fertiliser inputs
+│  │  2021 Q18/Q19/Q22 sulphur · blue carbon · producers
+│  │  2024 Q3/Q16/Q17/Q90 volcano · peat · PFAS · SO2 source
+│  │  2022 GS-III Q6 cellulose; 2025 Q7 CCUS
+│  └─ key status
+│     2024 official · 2018-2022 inferred
+│     selected provisional/dropped questions: none
+│
+└─ ANSWER SPINE
+   boundary + parameter
+   → dominant reservoir
+   → natural process/microbe
+   → altered human flux
+   → climate/water/trophic consequence
+   → stock-rate or concentration firewall
+   → India institution + example
+   → source reduction + monitored recovery
+   → data/scale qualification
 ```

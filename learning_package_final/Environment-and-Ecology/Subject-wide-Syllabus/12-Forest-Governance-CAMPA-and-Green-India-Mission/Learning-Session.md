@@ -1,2991 +1,867 @@
-# Forest Governance CAMPA and Green India Mission — Learner-v2 Complete Learning Session
+# Forest Governance, CAMPA and Green India Mission — Verified Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.
+> **Subject:** Environment and Ecology | **Topic 12** | **Prelims + GS-III**, with GS-II
+> constitutional, tribal-rights, public-finance and local-governance linkages
+> **Repair date and status cut-off:** 29 September 2026
+> **Evidence rule:** ✅ = directly supported by a source in the ledger below; ⚠️ = analysis or
+> answer-writing inference.
+> **Core thesis:** forest diversion approval, compensatory finance, restoration policy and community
+> rights are connected, but they are not interchangeable stages or proof of one ecological outcome.
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+## Source and status control
 
-- **Generation date:** 2026-09-06.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision, ecological rate, species count or current status was inferred.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited ledgers route four objective demands: CAMPA in 2019, the New York Declaration on Forests and Tree City in 2021, and provisional 2026 Plan Vivo community forest carbon. No direct Mains demand or objective answer key is invented; the concepts are carried into practice.
-- **Live-link boundary:** The official MoEFCC GIM page was substantively retrieved for mission identity, ecosystem scope, convergence and published targets. Those targets are not reported as achievements. CAMPA paths failed with HTTP 404 or DNS error and the FSI page was a contact-only stub, so no fund, allocation, expenditure, area, survival or outcome figure was used.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+### Read-only repository owners
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\12_Forest-Governance-CAMPA-and-Green-India-Mission.md`
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\12_Forest-Governance-CAMPA-and-Green-India-Mission.md`
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\00_Master-Framework.md`
+- `upsc-ai-kit\knowledge\Environment-and-Ecology\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
+- `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`
+- `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`
 
-The checks below were made on 2026-09-06. Substantive official text is used only for the proposition it supports. Stubs, access failures, unrelated pages and thin landing pages are recorded and are not converted into ecological or current-status claims.
+### Authoritative primary and official sources used
 
-- https://moef.gov.in/green-india-mission-gim — attempted 2026-09-06; the official MoEFCC page was substantively retrievable. It identifies GIM as one of the original eight NAPCC missions, states its ecosystem-service approach and publishes mission targets; targets were not reported as achieved outputs or outcomes.
-- https://moef.gov.in/forest-conservation — attempted 2026-09-06; the official MoEFCC page returned substantive Hindi text confirming that prior Central approval regulates forest land used for non-forest purposes. It did not provide a CAMPA fund or expenditure figure.
-- https://moef.gov.in/campa — attempted 2026-09-06; the official MoEFCC path returned HTTP 404, so no fund allocation, release, expenditure or afforestation-area claim was imported.
-- https://campa.gov.in/ — attempted 2026-09-06; the host could not be resolved, so no National or State CAMPA dashboard value was used.
-- https://fsi.nic.in/forest-report-2023 — attempted 2026-09-06; the fetch returned only the Forest Survey of India contact address, so no forest-cover or restoration-outcome figure was imported.
+| Source | Verified use in this session |
+|---|---|
+| [Constitution of India](https://legislative.gov.in/document/constitution-of-india) and Constitution (Forty-second Amendment) Act, 1976 | Articles 48A and 51A(g); Concurrent List Entries 17A and 17B |
+| [India Code — Indian Forest Act, 1927](https://www.indiacode.nic.in/handle/123456789/17024?locale=en) | Reserved, Village and Protected Forest architecture; forest produce and transit control |
+| [MoEFCC forest-clearance text of the 2023 amendment](https://forestsclearance.nic.in/writereaddata/ACT/FCSimplifiedAmendment2023.pdf) | Current name, Section 1A scope/exclusions and Section 2 prior-approval trigger |
+| [Van Rules, 2023](https://forestsclearance.nic.in/writereaddata/Rules/VanSanrakshanEvamSamvardhanRules2023.pdf), [2024 amendment](https://forestsclearance.nic.in/writereaddata/Rules/The_Van_Amendment_Rules_2024.pdf) and [2025 amendment](https://forestsclearance.nic.in/writereaddata/Rules/The_Van_Amendment_Rules_2025.pdf) | Current two-stage process, proposal routing, CA land, working permission, FRA compliance and monitoring |
+| [India Code — Compensatory Afforestation Fund Act, 2016](https://www.indiacode.nic.in/handle/123456789/2151?locale=en) and CAF Rules, 2018 | National/State Funds and Authorities, 90:10 transfer, permissible use, APO, accounts and audit |
+| [Lok Sabha UQ 4856, answered 23 March 2026](https://sansad.in/getFile/loksabhaquestions/annex/187/AU4856_Cr1JJv.pdf?source=pqals) | Dated CAMPA transfers and unutilised balance; Ministry's stated implementation bottleneck |
+| [GIM Mission Document](https://moef.gov.in/uploads/2017/08/GIM_Mission-Document-1.pdf) and [Implementation Guidelines](https://moef.gov.in/uploads/2017/08/Implementation-Guidelines.pdf) | Objectives, five sub-missions, landscape planning, Gram Sabha/JFMC design, convergence and monitoring |
+| PIB replies dated [5 August 2024](https://pib.gov.in/PressReleasePage.aspx?PRID=2041462) and [24 July 2025](https://pib.gov.in/PressReleasePage.aspx?PRID=2147752) | GIM implementation start, releases, participating States/UT and current NAPCC mission count |
+| [CAG Performance Audit Report No. 4 of 2026](https://cag.gov.in/webroot/uploads/download_audit_report/2026/ESD_PA_on_GIM_Report_English_signed-06a8301dedaa788.34549713.pdf) and [press brief](https://cag.gov.in/uploads/PressRelease/PR-Press-brief-GIM-4-of-2026-English-06a8088a01a4961-25001996.pdf) | Audited GIM funding, target, convergence, carbon-assessment and GIS-monitoring findings |
+| [ISFR 2023, Volume I](https://fsi.nic.in/uploads/isfr2023/isfr_book_eng-vol-1_2023.pdf) | Biennial canopy assessment; MODIS/SNPP-VIIRS fire alerts, large-fire tracking and metric limits |
+| [Supreme Court order, 15 July 2026](https://api.sci.gov.in/supremecourt/2023/40155/40155_2023_1_42_72104_Order_15-Jul-2026.pdf) | Confirms continuing proceedings and application of the 19 February 2024 interim zoo/safari control |
+| [India Code — FRA, 2006](https://www.indiacode.nic.in/handle/123456789/2070?view_type=browse) and [PESA, 1996](https://www.indiacode.nic.in/handle/123456789/1973?locale=en) | Community Forest Resource, Section 4(5), Section 5 duties and Scheduled-Area Gram Sabha interface |
+| Local official UPSC papers in `books\more_previous_papers\` and `books\prelima_question_paper_answers\` | Exact wording/options and honest key labels for all four routed objective PYQs |
+
+### Current-status firewall
+
+- ✅ The current procedural baseline is the **Van Rules, 2023 as amended in 2024 and 2025**.
+  The 2025 rules expressly define Stage-I, Stage-II and limited working permission.
+- ✅ The Supreme Court's **19 February 2024 interim order** directed continued observance of the
+  *T.N. Godavarman* forest principles while Rule 16 records were compiled. The constitutional
+  challenge had not reached a final merits judgment by the official **15 July 2026** order. Do not
+  describe the amendment as finally struck down or the interim rule as a permanent final holding.
+- ✅ Lok Sabha UQ 4856 records **₹12,515.30 crore unutilised as on 31 March 2025**. The Ministry
+  identified delayed release by some State Governments to State Forest Departments as one reason.
+  The reply did not validate every percentage or allegation embedded in the question.
+- ✅ PIB's 24 July 2025 snapshot records **₹982.34 crore released** under GIM to 17 States and
+  Jammu & Kashmir UT; the earlier 5 August 2024 snapshot recorded **₹909.82 crore** and
+  **1,55,130 ha**. Different dates explain the different totals.
+- ✅ CAG Report No. 4 of 2026 audits GIM implementation in 16 States/UTs for **2015-16 to
+  2024-25**. Its 1.4 mha denominators are approved targets within that audited implementation,
+  not substitutes for the Mission Document's original national 5+5 mha ambition.
+- ✅ ISFR 2023 reports forest cover **7,15,342.61 sq km (21.76%)**, tree cover
+  **1,12,014.34 sq km (3.41%)**, and combined cover **25.17%**. These are canopy measurements,
+  not a CAMPA/GIM attribution study or proof of native-ecosystem recovery.
+
+---
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Environment and Ecology Basic/Core is answer-complete before optional Advanced depth. |
-| Ecology boundary | System boundary, scale, trophic level, stock/flow, pool/flux, gross/net, unit and time interval are explicit. |
-| Species boundary | Taxon, range, habitat, population trend, IUCN assessment, Indian legal schedule, CITES/CMS listing and endemism remain distinct. |
-| Law/status boundary | Act, amendment, rule, notification, draft, judgment, policy, target, implementation and observed outcome remain distinct and dated. |
-| Institution boundary | Legal form, parent authority, mandate, jurisdiction, standard, consent, enforcement, science and adjudication are not conflated. |
-| Treaty boundary | Membership, annex/appendix, amendment acceptance, target, COP decision, national instrument and outcome remain distinct. |
-| Climate boundary | Emission flow, concentration stock, cumulative budget, forcing, scenario, baseline, unit, mitigation, adaptation, loss-and-damage, avoidance and removal are exact. |
-| Pollution boundary | Source, emission/load, ambient concentration, exposure, parameter, averaging period, unit, standard and jurisdiction are explicit. |
-| Causal method | Chronology, designation, expenditure, capacity, registration and correlation are not promoted into ecological or policy outcomes without mechanism and evidence. |
-| Practice contract | Every solved item has demand decoding, detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\12_Forest-Governance-CAMPA-and-Green-India-Mission.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\learning-sessions\v2\subject-wide-syllabus\environment-and-ecology-12_Learning-Session.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\12_Forest-Governance-CAMPA-and-Green-India-Mission.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Environment-and-Ecology\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- Ecological mechanisms retain direction, pool, flux, limiting factor, spatial scale and time scale.
-- Current species/news claims retain taxon, source, event/publication date, assessment/listing date and access date.
-- IUCN category never substitutes for Wildlife Protection Act schedule, CITES appendix, CMS appendix or endemism.
-- Protected-area categories, treaty designations and institution mandates retain exact legal character.
-- Acts, amendments, rules, draft instruments, notifications and judgments retain operative status and date.
-- Climate figures retain unit, baseline, period, scenario and stock-flow character; global evidence is not silently downscaled to India.
-- Mitigation, adaptation and loss-and-damage remain separate; allowance, offset, avoidance, removal, capture and storage remain separate.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile targets, standards, schedules, species status, treaty outcomes and programme claims retain source/date/status.
-
-**Generation-local live/current sources:**
-- `https://moef.gov.in/green-india-mission-gim — attempted 2026-09-06; the official MoEFCC page was substantively retrievable. It identifies GIM as one of the original eight NAPCC missions, states its ecosystem-service approach and publishes mission targets; targets were not reported as achieved outputs or outcomes.`
-- `https://moef.gov.in/forest-conservation — attempted 2026-09-06; the official MoEFCC page returned substantive Hindi text confirming that prior Central approval regulates forest land used for non-forest purposes. It did not provide a CAMPA fund or expenditure figure.`
-- `https://moef.gov.in/campa — attempted 2026-09-06; the official MoEFCC path returned HTTP 404, so no fund allocation, release, expenditure or afforestation-area claim was imported.`
-- `https://campa.gov.in/ — attempted 2026-09-06; the host could not be resolved, so no National or State CAMPA dashboard value was used.`
-- `https://fsi.nic.in/forest-report-2023 — attempted 2026-09-06; the fetch returned only the Forest Survey of India contact address, so no forest-cover or restoration-outcome figure was imported.`
-
-**Topic 26 dedicated Disaster Management cross-owners (scope boundary):**
-- Not applicable to this topic.
-
-### SESSION 1 — FOUNDATION — Forest diversion approval and payment trigger
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Forest diversion approval and payment trigger explains how Diversion approval first and CAMPA trigger fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Forest diversion approval and payment trigger separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Forest diversion approval and payment trigger must be read through Diversion approval first and CAMPA trigger, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Forest**
-- **diversion**
-- **approval**
-- **payment**
-- **trigger**
-- **first**
-
-**How to use them:** Define Forest, diversion, approval; attach payment to its source, ecological scale and status; then qualify the answer with this limit: Do not treat CAMPA payment as the legal approval for diversion.
-
-#### VISUAL FIRST
+### 1. Constitutional and administrative architecture
 
 ```text
-FOREST DIVERSION APPROVAL AND PAYMENT TRIGGER
-01. Diversion approval first
-    |
-    v
-02. CAMPA trigger
-BOUNDARY -> Do not treat CAMPA payment as the legal approval for diversion.
+CONSTITUTION
+  Articles 48A + 51A(g) | Concurrent List 17A forests + 17B wildlife
+                 |
+                 v
+PARLIAMENT / UNION                         STATES / UTs
+  framework statutes + prior approval       land records + forest administration
+  MoEFCC + Advisory Committee/RO/REC         PCCF/DFO + Collector + screening
+  National CAMPA + GIM                       State CAMPA + field implementation
+                 \                           /
+                  v                         v
+              DISTRICT / LANDSCAPE / VILLAGE
+              FDA/JFMC + Gram Sabha + FRA/PESA institutions
+                              |
+                              v
+           FSI/ICFRE/remote sensing + CAG/legislature + courts/NGT
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-- When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-
-#### EXAMINER CAUTION
-
-- Do not treat CAMPA payment as the legal approval for diversion.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Begin with the legal decision, then trace conditions to user-agency payment.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Diversion approval first -> CAMPA trigger
-- **Qualified use:** Begin with the legal decision, then trace conditions to user-agency payment.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Forest diversion approval and payment trigger
-EXACT TERMS: Forest | diversion | approval | payment | trigger | first
-MECHANISM / ARGUMENT: connect Diversion approval first and CAMPA trigger through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Begin with the legal decision, then trace conditions to user-agency payment.
-UPSC TRAP / ANSWER-USE: Do not treat CAMPA payment as the legal approval for diversion.
-ANSWER-GRABBING FORMULATION: Forest diversion approval and payment trigger converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — NPV and compensatory-afforestation cost
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** NPV and compensatory-afforestation cost explains how NPV distinction fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, NPV and compensatory-afforestation cost separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> NPV and compensatory-afforestation cost must be read through NPV distinction, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **compensatory-afforestation**
-- **cost**
-- **distinction**
-- **Present**
-- **Value**
-- **monetises**
-
-**How to use them:** Define compensatory-afforestation, cost, distinction; attach Present to its source, ecological scale and status; then qualify the answer with this limit: Do not merge NPV and compensatory-afforestation cost.
-
-#### VISUAL FIRST
-
-```text
-NPV AND COMPENSATORY-AFFORESTATION COST
-01. NPV distinction
-BOUNDARY -> Do not merge NPV and compensatory-afforestation cost.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-
-#### EXAMINER CAUTION
-
-- Do not merge NPV and compensatory-afforestation cost.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Separate ecosystem-service valuation from activity cost.
-
-#### MINI RECAP
-
-- **Mechanism chain:** NPV distinction
-- **Qualified use:** Separate ecosystem-service valuation from activity cost.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: NPV and compensatory-afforestation cost
-EXACT TERMS: compensatory-afforestation | cost | distinction | Present | Value | monetises
-MECHANISM / ARGUMENT: connect NPV distinction through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Separate ecosystem-service valuation from activity cost.
-UPSC TRAP / ANSWER-USE: Do not merge NPV and compensatory-afforestation cost.
-ANSWER-GRABBING FORMULATION: NPV and compensatory-afforestation cost converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — Compensatory Afforestation Fund Act architecture
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Compensatory Afforestation Fund Act architecture explains how CAF Act architecture fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Compensatory Afforestation Fund Act architecture separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Compensatory Afforestation Fund Act architecture must be read through CAF Act architecture, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Compensatory**
-- **Afforestation**
-- **Fund**
-- **architecture**
-- **establishes**
-- **National**
-
-**How to use them:** Define Compensatory, Afforestation, Fund; attach architecture to its source, ecological scale and status; then qualify the answer with this limit: Do not assign State implementation to the National Authority.
-
-#### VISUAL FIRST
-
-```text
-COMPENSATORY AFFORESTATION FUND ACT ARCHITECTURE
-01. CAF Act architecture
-BOUNDARY -> Do not assign State implementation to the National Authority.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-
-#### EXAMINER CAUTION
-
-- Do not assign State implementation to the National Authority.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Map the statute, funds and authorities before discussing implementation.
-
-#### MINI RECAP
-
-- **Mechanism chain:** CAF Act architecture
-- **Qualified use:** Map the statute, funds and authorities before discussing implementation.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Compensatory Afforestation Fund Act architecture
-EXACT TERMS: Compensatory | Afforestation | Fund | architecture | establishes | National
-MECHANISM / ARGUMENT: connect CAF Act architecture through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Map the statute, funds and authorities before discussing implementation.
-UPSC TRAP / ANSWER-USE: Do not assign State implementation to the National Authority.
-ANSWER-GRABBING FORMULATION: Compensatory Afforestation Fund Act architecture converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — National Authority and Fund
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** National Authority and Fund explains how National authority boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, National Authority and Fund separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> National Authority and Fund must be read through National authority boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **National**
-- **Authority**
-- **Fund**
-- **boundary**
-- **perform**
-- **central**
-
-**How to use them:** Define National, Authority, Fund; attach boundary to its source, ecological scale and status; then qualify the answer with this limit: Do not assign national coordination to a State Authority.
-
-#### VISUAL FIRST
-
-```text
-NATIONAL AUTHORITY AND FUND
-01. National authority boundary
-BOUNDARY -> Do not assign national coordination to a State Authority.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-
-#### EXAMINER CAUTION
-
-- Do not assign national coordination to a State Authority.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Assign central planning and monitoring to the National layer.
-
-#### MINI RECAP
-
-- **Mechanism chain:** National authority boundary
-- **Qualified use:** Assign central planning and monitoring to the National layer.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: National Authority and Fund
-EXACT TERMS: National | Authority | Fund | boundary | perform | central
-MECHANISM / ARGUMENT: connect National authority boundary through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Assign central planning and monitoring to the National layer.
-UPSC TRAP / ANSWER-USE: Do not assign national coordination to a State Authority.
-ANSWER-GRABBING FORMULATION: National Authority and Fund converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — State Authorities and Funds
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** State Authorities and Funds explains how State authority boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, State Authorities and Funds separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> State Authorities and Funds must be read through State authority boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **State**
-- **Authorities**
-- **Funds**
-- **authority**
-- **boundary**
-- **prepare**
-
-**How to use them:** Define State, Authorities, Funds; attach authority to its source, ecological scale and status; then qualify the answer with this limit: Do not treat an approved annual plan as completed work.
-
-#### VISUAL FIRST
-
-```text
-STATE AUTHORITIES AND FUNDS
-01. State authority boundary
-BOUNDARY -> Do not treat an approved annual plan as completed work.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-
-#### EXAMINER CAUTION
-
-- Do not treat an approved annual plan as completed work.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Assign state plans and execution to the State layer.
-
-#### MINI RECAP
-
-- **Mechanism chain:** State authority boundary
-- **Qualified use:** Assign state plans and execution to the State layer.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: State Authorities and Funds
-EXACT TERMS: State | Authorities | Funds | authority | boundary | prepare
-MECHANISM / ARGUMENT: connect State authority boundary through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Assign state plans and execution to the State layer.
-UPSC TRAP / ANSWER-USE: Do not treat an approved annual plan as completed work.
-ANSWER-GRABBING FORMULATION: State Authorities and Funds converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — Fund flow and permitted CAMPA uses
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Fund flow and permitted CAMPA uses explains how Fund-flow discipline and Permitted-use boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Fund flow and permitted CAMPA uses separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Fund flow and permitted CAMPA uses must be read through Fund-flow discipline and Permitted-use boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Fund**
-- **flow**
-- **permitted**
-- **CAMPA**
-- **uses**
-- **Fund-flow**
-
-**How to use them:** Define Fund, flow, permitted; attach CAMPA to its source, ecological scale and status; then qualify the answer with this limit: Do not report accrued funds as expenditure.
-
-#### VISUAL FIRST
-
-```text
-FUND FLOW AND PERMITTED CAMPA USES
-01. Fund-flow discipline
-    |
-    v
-02. Permitted-use boundary
-BOUNDARY -> Do not report accrued funds as expenditure.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-- CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-
-#### EXAMINER CAUTION
-
-- Do not report accrued funds as expenditure.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Trace the fund stages and name only uses allowed by the Act, Rules and plan.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Fund-flow discipline -> Permitted-use boundary
-- **Qualified use:** Trace the fund stages and name only uses allowed by the Act, Rules and plan.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Fund flow and permitted CAMPA uses
-EXACT TERMS: Fund | flow | permitted | CAMPA | uses | Fund-flow
-MECHANISM / ARGUMENT: connect Fund-flow discipline and Permitted-use boundary through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Trace the fund stages and name only uses allowed by the Act, Rules and plan.
-UPSC TRAP / ANSWER-USE: Do not report accrued funds as expenditure.
-ANSWER-GRABBING FORMULATION: Fund flow and permitted CAMPA uses converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — Ecological non-equivalence of mature forest and plantation
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Ecological non-equivalence of mature forest and plantation explains how Compensation limit fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Ecological non-equivalence of mature forest and plantation separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Ecological non-equivalence of mature forest and plantation must be read through Compensation limit, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **non-equivalence**
-- **mature**
-- **forest**
-- **plantation**
-- **Compensation**
-- **cannot**
-
-**How to use them:** Define non-equivalence, mature, forest; attach plantation to its source, ecological scale and status; then qualify the answer with this limit: Do not report expenditure as plantation survival or ecosystem restoration.
-
-#### VISUAL FIRST
-
-```text
-ECOLOGICAL NON-EQUIVALENCE OF MATURE FOREST AND PLANTATION
-01. Compensation limit
-BOUNDARY -> Do not report expenditure as plantation survival or ecosystem restoration.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-
-#### EXAMINER CAUTION
-
-- Do not report expenditure as plantation survival or ecosystem restoration.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Explain why restoration finance cannot establish like-for-like replacement.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Compensation limit
-- **Qualified use:** Explain why restoration finance cannot establish like-for-like replacement.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Ecological non-equivalence of mature forest and plantation
-EXACT TERMS: non-equivalence | mature | forest | plantation | Compensation | cannot
-MECHANISM / ARGUMENT: connect Compensation limit through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Explain why restoration finance cannot establish like-for-like replacement.
-UPSC TRAP / ANSWER-USE: Do not report expenditure as plantation survival or ecosystem restoration.
-ANSWER-GRABBING FORMULATION: Ecological non-equivalence of mature forest and plantation converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — Site quality native biome and tenure due diligence
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Site quality native biome and tenure due diligence explains how Site and tenure due diligence fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Site quality native biome and tenure due diligence separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Site quality native biome and tenure due diligence must be read through Site and tenure due diligence, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Site**
-- **quality**
-- **native**
-- **biome**
-- **tenure**
-- **diligence**
-
-**How to use them:** Define Site, quality, native; attach biome to its source, ecological scale and status; then qualify the answer with this limit: Do not treat compensatory plantation as like-for-like mature forest.
-
-#### VISUAL FIRST
-
-```text
-SITE QUALITY NATIVE BIOME AND TENURE DUE DILIGENCE
-01. Site and tenure due diligence
-BOUNDARY -> Do not treat compensatory plantation as like-for-like mature forest.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-
-#### EXAMINER CAUTION
-
-- Do not treat compensatory plantation as like-for-like mature forest.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Test ecology, land tenure and pending rights before site selection.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Site and tenure due diligence
-- **Qualified use:** Test ecology, land tenure and pending rights before site selection.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Site quality native biome and tenure due diligence
-EXACT TERMS: Site | quality | native | biome | tenure | diligence
-MECHANISM / ARGUMENT: connect Site and tenure due diligence through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Test ecology, land tenure and pending rights before site selection.
-UPSC TRAP / ANSWER-USE: Do not treat compensatory plantation as like-for-like mature forest.
-ANSWER-GRABBING FORMULATION: Site quality native biome and tenure due diligence converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — Output versus outcome metrics
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Output versus outcome metrics explains how Output versus outcome fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Output versus outcome metrics separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Output versus outcome metrics must be read through Output versus outcome, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Output**
-- **versus**
-- **outcome**
-- **metrics**
-- **Money**
-- **accrued**
-
-**How to use them:** Define Output, versus, outcome; attach metrics to its source, ecological scale and status; then qualify the answer with this limit: Do not assume degraded land is rights-free.
-
-#### VISUAL FIRST
-
-```text
-OUTPUT VERSUS OUTCOME METRICS
-01. Output versus outcome
-BOUNDARY -> Do not assume degraded land is rights-free.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-
-#### EXAMINER CAUTION
-
-- Do not assume degraded land is rights-free.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Separate accrual, expenditure, physical output and ecological outcome.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Output versus outcome
-- **Qualified use:** Separate accrual, expenditure, physical output and ecological outcome.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Output versus outcome metrics
-EXACT TERMS: Output | versus | outcome | metrics | Money | accrued
-MECHANISM / ARGUMENT: connect Output versus outcome through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Separate accrual, expenditure, physical output and ecological outcome.
-UPSC TRAP / ANSWER-USE: Do not assume degraded land is rights-free.
-ANSWER-GRABBING FORMULATION: Output versus outcome metrics converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — Green India Mission identity
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Green India Mission identity explains how GIM policy identity fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Green India Mission identity separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Green India Mission identity must be read through GIM policy identity, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Green**
-- **Mission**
-- **identity**
-- **original**
-- **eight**
-- **missions**
-
-**How to use them:** Define Green, Mission, identity; attach original to its source, ecological scale and status; then qualify the answer with this limit: Do not merge CAMPA and Green India Mission.
-
-#### VISUAL FIRST
-
-```text
-GREEN INDIA MISSION IDENTITY
-01. GIM policy identity
-BOUNDARY -> Do not merge CAMPA and Green India Mission.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-
-#### EXAMINER CAUTION
-
-- Do not merge CAMPA and Green India Mission.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Define GIM as a NAPCC mission, not a compensatory fund.
-
-#### MINI RECAP
-
-- **Mechanism chain:** GIM policy identity
-- **Qualified use:** Define GIM as a NAPCC mission, not a compensatory fund.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Green India Mission identity
-EXACT TERMS: Green | Mission | identity | original | eight | missions
-MECHANISM / ARGUMENT: connect GIM policy identity through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Define GIM as a NAPCC mission, not a compensatory fund.
-UPSC TRAP / ANSWER-USE: Do not merge CAMPA and Green India Mission.
-ANSWER-GRABBING FORMULATION: Green India Mission identity converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — Official GIM targets and ecosystem scope
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Official GIM targets and ecosystem scope explains how GIM official targets and GIM ecosystem scope fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Official GIM targets and ecosystem scope separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Official GIM targets and ecosystem scope must be read through GIM official targets and GIM ecosystem scope, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Official**
-- **targets**
-- **ecosystem**
-- **scope**
-- **retrieved**
-- **MoEFCC**
-
-**How to use them:** Define Official, targets, ecosystem; attach scope to its source, ecological scale and status; then qualify the answer with this limit: Do not report GIM targets as achieved outputs or outcomes.
-
-#### VISUAL FIRST
-
-```text
-OFFICIAL GIM TARGETS AND ECOSYSTEM SCOPE
-01. GIM official targets
-    |
-    v
-02. GIM ecosystem scope
-BOUNDARY -> Do not report GIM targets as achieved outputs or outcomes.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-- The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-
-#### EXAMINER CAUTION
-
-- Do not report GIM targets as achieved outputs or outcomes.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Quote official targets as targets and connect them to ecosystem services.
-
-#### MINI RECAP
-
-- **Mechanism chain:** GIM official targets -> GIM ecosystem scope
-- **Qualified use:** Quote official targets as targets and connect them to ecosystem services.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Official GIM targets and ecosystem scope
-EXACT TERMS: Official | targets | ecosystem | scope | retrieved | MoEFCC
-MECHANISM / ARGUMENT: connect GIM official targets and GIM ecosystem scope through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Quote official targets as targets and connect them to ecosystem services.
-UPSC TRAP / ANSWER-USE: Do not report GIM targets as achieved outputs or outcomes.
-ANSWER-GRABBING FORMULATION: Official GIM targets and ecosystem scope converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — GIM CAMPA MGNREGS convergence
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** GIM CAMPA MGNREGS convergence explains how GIM convergence fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, GIM CAMPA MGNREGS convergence separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> GIM CAMPA MGNREGS convergence must be read through GIM convergence, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **CAMPA**
-- **MGNREGS**
-- **convergence**
-- **MoEFCC**
-- **describes**
-- **role**
-
-**How to use them:** Define CAMPA, MGNREGS, convergence; attach MoEFCC to its source, ecological scale and status; then qualify the answer with this limit: Do not infer fund convergence from policy convergence.
-
-#### VISUAL FIRST
-
-```text
-GIM CAMPA MGNREGS CONVERGENCE
-01. GIM convergence
-BOUNDARY -> Do not infer fund convergence from policy convergence.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-
-#### EXAMINER CAUTION
-
-- Do not infer fund convergence from policy convergence.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Treat convergence as coordinated planning rather than automatic fund merger.
-
-#### MINI RECAP
-
-- **Mechanism chain:** GIM convergence
-- **Qualified use:** Treat convergence as coordinated planning rather than automatic fund merger.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: GIM CAMPA MGNREGS convergence
-EXACT TERMS: CAMPA | MGNREGS | convergence | MoEFCC | describes | role
-MECHANISM / ARGUMENT: connect GIM convergence through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Treat convergence as coordinated planning rather than automatic fund merger.
-UPSC TRAP / ANSWER-USE: Do not infer fund convergence from policy convergence.
-ANSWER-GRABBING FORMULATION: GIM CAMPA MGNREGS convergence converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — CAMPA GIM distinction and forest-law vintage
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** CAMPA GIM distinction and forest-law vintage explains how Mission-versus-CAMPA fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, CAMPA GIM distinction and forest-law vintage separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> CAMPA GIM distinction and forest-law vintage must be read through Mission-versus-CAMPA, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **CAMPA**
-- **distinction**
-- **forest-law**
-- **vintage**
-- **Mission-versus-CAMPA**
-- **diversion-triggered**
-
-**How to use them:** Define CAMPA, distinction, forest-law; attach vintage to its source, ecological scale and status; then qualify the answer with this limit: Do not state the 2023 amendment without the 2024 interim judicial direction.
-
-#### VISUAL FIRST
-
-```text
-CAMPA GIM DISTINCTION AND FOREST-LAW VINTAGE
-01. Mission-versus-CAMPA
-BOUNDARY -> Do not state the 2023 amendment without the 2024 interim judicial direction.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-
-#### EXAMINER CAUTION
-
-- Do not state the 2023 amendment without the 2024 interim judicial direction.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Distinguish CAMPA and GIM while stating the statute-court sequence.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Mission-versus-CAMPA
-- **Qualified use:** Distinguish CAMPA and GIM while stating the statute-court sequence.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: CAMPA GIM distinction and forest-law vintage
-EXACT TERMS: CAMPA | distinction | forest-law | vintage | Mission-versus-CAMPA | diversion-triggered
-MECHANISM / ARGUMENT: connect Mission-versus-CAMPA through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Distinguish CAMPA and GIM while stating the statute-court sequence.
-UPSC TRAP / ANSWER-USE: Do not state the 2023 amendment without the 2024 interim judicial direction.
-ANSWER-GRABBING FORMULATION: CAMPA GIM distinction and forest-law vintage converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — Green-credit boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Green-credit boundary explains how Forest-law vintage and Green-credit boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Green-credit boundary separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Green-credit boundary must be read through Forest-law vintage and Green-credit boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Green-credit**
-- **boundary**
-- **Forest-law**
-- **vintage**
-- **Forest**
-- **Conservation**
-
-**How to use them:** Define Green-credit, boundary, Forest-law; attach vintage to its source, ecological scale and status; then qualify the answer with this limit: Do not equate green credit with carbon credit.
-
-#### VISUAL FIRST
-
-```text
-GREEN-CREDIT BOUNDARY
-01. Forest-law vintage
-    |
-    v
-02. Green-credit boundary
-BOUNDARY -> Do not equate green credit with carbon credit.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-- A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-
-#### EXAMINER CAUTION
-
-- Do not equate green credit with carbon credit.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Keep green credit separate from carbon accounting and restoration proof.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Forest-law vintage -> Green-credit boundary
-- **Qualified use:** Keep green credit separate from carbon accounting and restoration proof.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Green-credit boundary
-EXACT TERMS: Green-credit | boundary | Forest-law | vintage | Forest | Conservation
-MECHANISM / ARGUMENT: connect Forest-law vintage and Green-credit boundary through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Keep green credit separate from carbon accounting and restoration proof.
-UPSC TRAP / ANSWER-USE: Do not equate green credit with carbon credit.
-ANSWER-GRABBING FORMULATION: Green-credit boundary converts a precise ecological distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — Audited PYQs and live-data boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Audited PYQs and live-data boundary explains how Audited PYQ ownership and Live-data boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Audited PYQs and live-data boundary separates the ecosystem or landscape boundary from the ecological level, state variable, transfer process, trophic parameter, spatial scale, temporal stage, source status and legal or scientific designation attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Audited PYQs and live-data boundary must be read through Audited PYQ ownership and Live-data boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Audited**
-- **PYQs**
-- **live-data**
-- **boundary**
-- **ownership**
-- **ledgers**
-
-**How to use them:** Define Audited, PYQs, live-data; attach boundary to its source, ecological scale and status; then qualify the answer with this limit: Do not infer PYQ keys or current fund figures from stubs.
-
-#### VISUAL FIRST
-
-```text
-AUDITED PYQS AND LIVE-DATA BOUNDARY
-01. Audited PYQ ownership
-    |
-    v
-02. Live-data boundary
-BOUNDARY -> Do not infer PYQ keys or current fund figures from stubs.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-- Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-
-#### EXAMINER CAUTION
-
-- Do not infer PYQ keys or current fund figures from stubs.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact ecological level, system boundary, stock or flow, pyramid parameter, succession substrate, biome scale, taxonomic term and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Close with answer-free PYQs and failed current fund-data attempts.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Audited PYQ ownership -> Live-data boundary
-- **Qualified use:** Close with answer-free PYQs and failed current fund-data attempts.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Audited PYQs and live-data boundary
-EXACT TERMS: Audited | PYQs | live-data | boundary | ownership | ledgers
-MECHANISM / ARGUMENT: connect Audited PYQ ownership and Live-data boundary through ecological structure, transfer and feedback
-CONSEQUENCE / CONTRAST: Close with answer-free PYQs and failed current fund-data attempts.
-UPSC TRAP / ANSWER-USE: Do not infer PYQ keys or current fund figures from stubs.
-ANSWER-GRABBING FORMULATION: Audited PYQs and live-data boundary converts a precise ecological distinction into a qualified conclusion
-```
-
-### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims.
-> **Core area:** Compensatory afforestation and national forest-restoration policy.
-> **Grounded in:** Compensatory Afforestation Fund Act, 2016 (India Code); National Mission for a Green India (under NAPCC); MoEFCC/FSI reporting; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
-> *Companion: `advanced/12_Forest-Governance-CAMPA-and-Green-India-Mission.md`.*
-
-#### 1. Visual foundation
-
-```text
-FOREST LAND DIVERTED FOR NON-FOREST (DEVELOPMENT) USE
-       |
-       v
-USER AGENCY PAYS: Net Present Value (NPV) of forest land + cost of Compensatory Afforestation
-       |
-       v
-FUNDS FLOW TO: CAMPA (Compensatory Afforestation Fund Management and Planning Authority)
-       |
-       v
-   National CAF                    State CAFs
- (kept centrally,          (released to states for
-  smaller retained share)   compensatory afforestation,
-                             forest regeneration, wildlife
-                             management, infrastructure)
-
-SEPARATELY: GREEN INDIA MISSION (GIM) - one of NAPCC's original 8 missions
-  (NAPCC is now described by Government as 9 missions, with health added) - targets
-  forest/tree-cover QUALITY improvement and ecosystem-service enhancement, not only
-  quantity-replacement for diverted forest land.
-```
-
-**Core proposition:** CAMPA is a compensatory financial mechanism specifically tied to
-diversion of forest land for non-forest use, funded by user agencies; the Green India
-Mission is a broader national climate-and-ecosystem policy goal aiming to improve forest
-quality and cover more generally — the two are related but distinct forest-governance
-instruments with different triggers and objectives.
-
-#### 2. Essential definitions
-
-| Concept | Exam-ready meaning |
-|---|---|
-| ✅ **Compensatory afforestation** | Afforestation undertaken to compensate for forest land diverted to non-forest use, typically on equivalent non-forest land (or degraded forest land where non-forest land is unavailable). |
-| ✅ **Net Present Value (NPV)** | A calculated monetary value of the ecosystem services lost when forest land is diverted, paid by the user agency into the CAF. |
-| ✅ **CAMPA** | Compensatory Afforestation Fund Management and Planning Authority — manages funds collected for compensatory afforestation and related forest/wildlife activities. |
-| ✅ **Compensatory Afforestation Fund Act, 2016** | Law establishing the National and State Compensatory Afforestation Funds (CAF) and their governance/utilisation framework. |
-| ✅ **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** | The **renamed** Forest (Conservation) Act, 1980 — the Forest (Conservation) Amendment Act, 2023 changed its title and restructured its scope. This is the statute whose prior approval is required before forest land is diverted to non-forest use, and it is therefore the *trigger* for CAMPA payments. |
-| ✅ **Green India Mission (GIM)** | One of the National Action Plan on Climate Change (NAPCC) missions, focused on protecting, restoring and enhancing India's forest cover and ecosystem services. ⚠️ NAPCC was launched with **eight** missions; the Economic Survey 2025-26 (Ch. 10) now describes NAPCC as operating through **nine** missions, the ninth being on **health** (the National Programme on Climate Change and Human Health). State both if a question asks for the count. |
-| ✅ **National Afforestation Programme (NAP)** | A distinct, older centrally sponsored afforestation scheme for degraded forest land, involving Joint Forest Management Committees. |
-| ✅ **Green Credit Programme** | A market-style instrument notified under the Environment (Protection) Act (Green Credit Rules, 2023) under which entities earn tradable green credits for voluntary environmental actions, most prominently tree plantation on degraded forest land. Economic Survey 2025-26 refers to the combined **"Afforestation and Green Credit Programme"** as the vehicle for incentivising public and private participation in compensatory afforestation and degraded-forest restoration. ⚠️ Distinguish it sharply from a **carbon** credit (Topic 21): a green credit is not denominated in tCO₂e. |
-
-#### 3. Topic mechanism
-
-1. When forest land is legally diverted for a non-forest purpose (e.g., mining, roads,
-   industry) under the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** (the renamed
-   Forest (Conservation) Act, 1980), the user agency must pay compensatory-
-   afforestation costs and the calculated Net Present Value of the diverted forest land.
-2. The **Forest (Conservation) Amendment Act, 2023** made three structural changes worth
-   knowing precisely: (i) it **renamed** the 1980 Act; (ii) it specified the **categories of
-   land to which the Act applies** — land declared/notified as forest under the Indian Forest
-   Act, 1927 or any other law, and land recorded as forest in government records on or after
-   25 October 1980; and (iii) it **exempted certain categories** from prior approval, notably
-   land within 100 km of international borders/LoC/LAC proposed for strategic linear projects
-   of national importance and security, small tracts for security infrastructure and defence
-   projects, and land alongside rail lines/public roads for access facilities, subject to
-   conditions.
-3. ⚠️ **The judicial counterweight:** the Supreme Court's **February 2024** interim direction
-   in the *Ashok Kumar Sharma v. Union of India* proceedings required that, pending the
-   compilation of State expert-committee forest records, the **broad "dictionary meaning" of
-   forest laid down in *T.N. Godavarman Thirumulpad* (1996)** continue to govern — preserving
-   protection for forest-like land that is not formally recorded as forest. Read the
-   amendment and this order **together**: the statute narrowed the recorded-forest test, the
-   Court kept the ecological test alive in the interim.
-4. These payments accumulate in the Compensatory Afforestation Fund (CAF), structured as a
-   National CAF (retaining a smaller share centrally) and State CAFs (receiving the larger
-   share for actual afforestation and forest-management activities in the respective state).
-5. CAMPA, established under the Compensatory Afforestation Fund Act, 2016, is the statutory
-   authority managing planning, fund release and monitoring of how these funds are utilised
-   by states for compensatory afforestation, forest regeneration, wildlife management, and
-   forest infrastructure.
-6. The Green India Mission, in contrast, is a broader climate-policy mission (part of NAPCC)
-   aiming to increase forest/tree cover quality and area on a defined target timeline, using
-   multiple funding streams (not only CAMPA funds) and emphasising ecosystem-service value
-   (carbon sequestration, biodiversity, water regulation) alongside simple area coverage.
-7. Both mechanisms interact with, but are legally distinct from, the National Afforestation
-   Programme, the Green Credit Programme and various state-specific afforestation schemes,
-   creating a layered (and sometimes overlapping) forest-restoration funding landscape in
-   India.
-
-#### 4. Institutions and policy tools
-
-- ✅ **CAMPA (national and state-level bodies):** manages Compensatory Afforestation Fund
-  planning, disbursal and utilisation monitoring.
-- ✅ **MoEFCC:** administers the Forest (Conservation) Act diversion-approval process that
-  triggers CAMPA payments, and oversees Green India Mission implementation.
-- ✅ **State Forest Departments:** primary on-ground implementing agencies for both CAMPA-
-  funded afforestation and Green India Mission activities.
-- ✅ **Forest Survey of India (FSI):** monitors forest-cover change that indirectly reflects
-  the combined outcome of these programmes.
-
-#### 5. Indian applications and examples
-
-- ⚠️ Large infrastructure and mining projects requiring forest-land diversion (e.g., in
-  central Indian mineral-rich forest states) are the primary source of CAMPA fund inflows,
-  linking industrial/infrastructure growth directly to afforestation-funding availability.
-- ⚠️ Green India Mission implementation has focused on landscape-level restoration
-  (including agroforestry, wetland and grassland ecosystem components), reflecting its
-  broader ecosystem-service mandate beyond simple tree planting.
-- ⚠️ Community involvement (e.g., through Joint Forest Management Committees historically
-  associated with the National Afforestation Programme, and increasingly Community Forest
-  Resource rights-holders under the FRA) is an important implementation channel for both
-  CAMPA-funded and Green India Mission afforestation activities.
-
-#### 6. Must-Know Facts for Prelims
-
-- ✅ CAMPA is triggered specifically by diversion of forest land for non-forest use and is
-  funded by user-agency payments (Net Present Value plus compensatory-afforestation cost).
-- ✅ The Compensatory Afforestation Fund Act, 2016 established the National and State
-  Compensatory Afforestation Funds and CAMPA's statutory governance structure.
-- ✅ The Green India Mission is one of the **eight original** missions under the National
-  Action Plan on Climate Change (NAPCC); the Government now describes NAPCC as operating
-  through nine missions, with health added.
-- ✅ The **Forest (Conservation) Act, 1980 was renamed the Van (Sanrakshan Evam Samvardhan)
-  Adhiniyam, 1980** by the Forest (Conservation) Amendment Act, 2023, which also defined the
-  land categories covered and created border-area/strategic-project and rail/road-side
-  exemptions from prior central approval.
-- ✅ The Supreme Court in **February 2024** directed that the broad *Godavarman* (1996)
-  "dictionary meaning" of forest continue to apply pending State expert-committee records —
-  so the operative definition of "forest" is currently the product of statute **and** judicial
-  order together.
-- ✅ **Green credits (Green Credit Rules, 2023) are not carbon credits** — they reward
-  specified voluntary environmental actions and are not denominated in tCO₂e.
-- ✅ Compensatory afforestation is required to occur on non-forest land equivalent in extent
-  to the diverted area, or on degraded forest land twice the extent if non-forest land is
-  unavailable.
-- ✅ The Green India Mission's mandate covers forest-cover quality, ecosystem-service
-  enhancement and biodiversity — broader than a simple area-replacement objective.
-
-#### 7. UPSC traps
-
-- ❌ CAMPA and the Green India Mission are the same programme. -> CAMPA is a compensatory,
-  diversion-triggered financial mechanism; GIM is a broader NAPCC climate-policy mission
-  with its own objectives and funding streams.
-- ❌ Compensatory afforestation always occurs on forest land. -> It is required on
-  equivalent non-forest land where available, or on a larger area of degraded forest land
-  as a fallback.
-- ❌ CAMPA funds are entirely retained by the central government. -> A larger share flows to
-  State CAFs for state-level utilisation; a smaller share is retained nationally.
-- ❌ The Green India Mission is one of India's international UNFCCC-mandated obligations
-  specifically named in the Paris Agreement text. -> It is a domestic NAPCC mission that
-  contributes to, but was not created by, India's international climate commitments.
-- ❌ The National Afforestation Programme and CAMPA are identical schemes. -> They are
-  distinct funding/implementation mechanisms, though both fund afforestation activity.
-- ❌ The Forest (Conservation) Act, 1980 has been repealed. -> It was **renamed** the Van
-  (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 and amended in 2023; it remains in force.
-- ❌ A green credit is a carbon credit by another name. -> Green credits (2023 Rules) reward
-  specified voluntary environmental actions such as plantation; carbon credit certificates
-  under the CCTS (Topic 21) are denominated in tonnes of CO₂-equivalent.
-- ❌ After the 2023 amendment, only land recorded as forest in government records is
-  protected. -> The Supreme Court's February 2024 interim direction kept the broader
-  *Godavarman* ecological definition operative pending State records.
-
-#### 8. 📰 Current anchor
-
-- 📰 Cumulative CAMPA fund accrual (principal and interest from diverted-forest-land
-  payments) has been reported at a large and growing figure by MoEFCC/CAG-linked reporting
-  in recent years; verify the latest cumulative CAF corpus figure and its reporting date
-  against the most recent MoEFCC/CAG report before citing a specific number in an answer.
-
-⚠️ **Interpretation caution:** CAMPA fund utilisation rates (how much of the accrued corpus
-has actually been spent on the ground versus remaining unspent) have been a recurring
-audit/parliamentary-committee concern — cite the specific report and date when referencing
-utilisation performance.
-
-#### 9. PYQ application
-
-- ⚠️ Recurring Prelims pattern: distinguish CAMPA's diversion-triggered, compensatory
-  funding logic from the Green India Mission's broader climate-policy mandate.
-- ⚠️ Mains linkage: CAMPA fund utilisation and quality-of-restoration critiques are used to
-  argue for stronger monitoring of afforestation outcomes rather than a focus on quantity
-  planted alone.
-
-#### 10. Mains angles
-
-- ⚠️ Argue that compensatory afforestation should be judged by ecological restoration
-  quality (native-species fidelity, survival rate, ecosystem-service recovery), not just
-  hectares planted or funds disbursed.
-- ⚠️ Use the Green India Mission's ecosystem-service framing to argue for integrating
-  afforestation policy with climate-mitigation (carbon sequestration) and livelihood
-  (agroforestry, non-timber forest produce) objectives simultaneously.
-- ⚠️ Conclude with an outcome-monitoring thesis: fund availability (CAMPA corpus) is not
-  itself evidence of successful forest restoration without independent ecological outcome
-  verification.
-
-> **Answer thesis:** Distinguish CAMPA's diversion-triggered compensatory-financing role from the Green India Mission's broader climate-and-ecosystem restoration mandate, and judge both by ecological restoration quality and independently verified outcomes, not by fund corpus size or area-planted figures alone.
-
-#### 11. Probable questions
-
-- ⚠️ **Prelims:** Distinguish the triggering mechanism and funding source of CAMPA from the
-  Green India Mission's mandate under NAPCC.
-- ⚠️ **Mains (10 marks):** Explain how the Compensatory Afforestation Fund is generated and
-  utilised under the CAMPA framework.
-- ⚠️ **Mains (15 marks):** "Quantity of afforestation funding does not guarantee quality of
-  ecological restoration." Discuss with reference to CAMPA and the Green India Mission.
-
-#### 12. Study links
-
-- ✅ Advanced companion: `advanced/12_Forest-Governance-CAMPA-and-Green-India-Mission.md`.
-- ✅ `03_Ecological-Succession-and-Biomes.md` — the successional-restoration-quality
-  standard this topic's afforestation should be judged against.
-- ✅ `11_Forest-Types-and-Forest-Rights-Act.md` — community-rights interaction with
-  afforestation implementation.
-- ✅ `20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` — the Green India Mission's full
-  NAPCC policy context.
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
-
-#### 2026 PYQ Integration
-
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
-
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 40 | Plan Vivo certified REDD+ projects and community forest carbon conservation | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Plan Vivo certified REDD+ projects and community forest carbon conservation
-
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
-
-#### 13. Core answer architecture (10/15/20-mark support)
-
-##### 13.1 Demand decoder and thesis
-
-- Start with the trigger: **forest diversion → user-agency payment → CAF/CAMPA**. Contrast it with **GIM’s broader ecosystem-service mission** before evaluating either.
-- **Thesis:** CAMPA can finance mitigation of diversion, but neither a fund balance, a plantation nor a green credit is evidence that a mature ecosystem has been replaced.
-
-##### 13.2 Reusable evidence units
-
-| Claim | Named evidence/example → significance | Qualification |
+✅ The Forty-second Amendment placed **forests** and **protection of wild animals and birds** in
+Concurrent List Entries 17A and 17B. Parliament can create a national regulatory floor, while land
+records, forest staff, working plans and most field execution remain State responsibilities.
+
+| Layer | Main function | Close-option control |
 |---|---|---|
-| The instrument is legally triggered, not a general greening programme. | **Van (Sanrakshan Evam Samvardhan) Adhiniyam/forest-diversion approval + NPV and compensatory-afforestation payments** → explains CAMPA’s source of funds. | The 2023 statutory scope and the February 2024 interim *Godavarman* direction must be read together; do not state either as the whole law. |
-| Offset accounting has an ecological limit. | **Mature forest diversion versus new compensatory plantation** → succession, soil, species composition and location make like-for-like replacement difficult. | This critiques equivalence, not the need for restoration finance. |
-| Metrics measure different things. | **CAF accrual, green-credit action and ISFR canopy** → money, registered action and detected cover are separate outputs. | None independently proves ecological restoration achieved. |
+| Constitution | legislative competence and environmental duties | Article 48A binds State endeavour; Article 51A(g) is a citizen duty |
+| MoEFCC/Centre | prior approval, national rules, policy, National CAMPA and GIM | prior approval does not itself execute plantation or settle tenure |
+| State/UT | records, screening, diversion order, working plans and field delivery | State recommendation is not Central approval |
+| Gram Sabha/local institutions | rights, local planning and resource governance where applicable | JFMC participation does not replace statutory FRA/PESA powers |
+| Science/oversight | FSI/ICFRE evidence, CAG audit, legislative and judicial review | measurement or audit is not field implementation |
 
-##### 13.3 Mark-scaled spines
+**Origin and timeline**
 
-- **10 marks:** show payment/fund flow, then contrast CAMPA and GIM.
-- **15/20 marks:** add native-biome/site-selection, FRA/Gram Sabha due diligence, independent survival/function monitoring and fund-utilisation timing.
-- **NAPCC discipline:** say **eight original missions; nine as currently described by Government with the health mission**. Do not claim that a historical eight-mission list has been legally replaced by a new NAPCC statute.
+```text
+1927 IFA → 1976 Concurrent List → 1980 forest-diversion control
+→ 1996 Godavarman/PESA → 2006 FRA → 2008 NAPCC
+→ 2011 GIM design → 2015-16 GIM field activities
+→ 2016 CAF Act → 2018 CAF Rules
+→ 2023 renamed/amended Van Act + new Rules
+→ 2024 SC interim order + Rules amendment
+→ 2025 Rules amendment → 2026 GIM performance audit
+```
 
-##### 13.4 2026 community-carbon micro-card
+**Answer-grabbing line:** Indian forest governance is a concurrent constitutional field delivered
+through a Union approval-and-finance framework, State land administration and local rights-bearing
+institutions.
 
-**Khasi Hills Community REDD+ Project, East Khasi Hills, Meghalaya** is India’s first
-**Plan Vivo-certified REDD+** project (Plan Vivo project record; certification 2013). Use it
-to illustrate community-led forest-carbon conservation, traditional local governance and
-benefit-sharing. Do not infer a current carbon-credit volume, community-income share or
-ecological outcome without the relevant verified project monitoring period.
+**Must-write keywords:** Concurrent List; prior Central approval; State Forest Department; Gram
+Sabha; scientific monitoring; audit.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Write the paragraph:** The constitutional allocation explains why forest governance is neither
+wholly centralised nor wholly State-controlled: the Union sets diversion and fund rules, States
+control records and field administration, and FRA/PESA institutions protect legally recognised
+community claims. Effective governance therefore depends on sequencing and coordination, not on
+one authority acting alone.
 
-#### Historical PYQ Integration (2018-2023)
+---
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+### 2. Four instruments answer four different questions
 
-- **Years represented:** 2019, 2021
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
+| Instrument | Core question | What it does not do |
+|---|---|---|
+| **Indian Forest Act, 1927 (IFA)** | What is the legal forest category and how are forest produce, transit and offences regulated? | It is not the current Section 2 Central diversion-approval statute |
+| **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** | When is prior Central approval needed for dereservation, non-forest use, lease or clearing natural growth for reafforestation? | It does not itself recognise individual/CFR rights |
+| **Forest Rights Act, 2006 (FRA)** | Whose eligible individual, community and Community Forest Resource rights must be recognised? | It is not a substitute for forest-diversion approval |
+| **CAF Act, 2016 + Rules, 2018** | Where do diversion-linked levies go and how may they be planned, used and audited? | It does not authorise diversion or guarantee ecological equivalence |
+| **Green India Mission (GIM)** | How should India pursue landscape restoration, ecosystem services and livelihoods under NAPCC? | It is a policy mission, not the CAMPA statute |
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 68 | Compensatory Afforestation Fund Management Planning Authority | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 24 | New York Declaration on Forests and deforestation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 97 | Hyderabad recognition as Tree City of the World | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+**Answer-grabbing line:** A legal forest category, a diversion approval, a tenure right, a
+compensatory fund and a restoration mission are five different governance objects.
 
-##### What this owner must now support
+**Must-write keywords:** status; approval; right; fund; mission; non-substitution.
 
-- Compensatory Afforestation Fund Management Planning Authority
-- New York Declaration on Forests and deforestation
-- Hyderabad recognition as Tree City of the World
+**Write the paragraph:** The IFA classifies and regulates, the Van Adhiniyam controls change of use,
+the FRA recognises rights, the CAF Act manages levies and GIM guides wider restoration. Conflating
+these instruments produces the classic error that payment creates permission or that permission
+extinguishes community rights; neither follows.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+---
 
-### Semantic-completeness ownership and PYQ control
+### 3. Indian Forest Act, 1927: State-facing legal architecture
 
-- **Official syllabus/index and owned core:** social change concerns alteration
-  in institutions, relations, norms, roles and identities; modernisation is one
-  structural process within it. Sanskritisation, Westernisation,
-  secularisation, democratisation, education, migration, technology, law,
-  markets and movements operate at different levels and speeds.
-- **Indispensable sociology:** M.N. Srinivas's Sanskritisation and
-  Westernisation, Yogendra Singh's modernisation of Indian tradition,
-  structural-functional and conflict explanations, Redfield's Great/Little
-  Tradition and Marriott's universalisation/parochialisation are bounded lenses,
-  not a unilinear tradition-to-modernity ladder.
-- **Conceptual distinctions:** modernisation is not westernisation;
-  Sanskritisation can change status claims without abolishing hierarchy;
-  secularisation as institutional differentiation is not constitutional
-  secularism or necessary decline of belief; mobility is not structural
-  transformation; enactment is not normative or behavioural change.
-- **Mechanism, continuity and intersectionality:** education, urban work,
-  communications, law and movements redistribute resources and expectations,
-  but kinship, ritual, language and local institutions adapt and reproduce
-  continuity. Effects differ by caste, class, gender, tribe, religion, region,
-  generation and rural-urban location; resistance and unintended effects are
-  part of change, not evidence of social stasis.
-- **Data/source control:** NEP 2020 remains an official policy context for
-  education and institutional change, but policy text proves neither equal
-  access nor social mobility. No cryptocurrency price/legal status, village
-  prevalence, adoption rate or causal outcome is asserted from a technology
-  label.
-- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
-  taxonomy and PYQs were checked for theories, levels, chronology, continuity,
-  feedback, regional pathways, anti-teleology controls and evidence limits.
-- **Verified PYQ ownership, 2018-2026:** direct routes cover customs and
-  obscurantism in 2020, traditional-value continuity in 2021 and fast-food
-  growth amid health concern in 2025; the 2021 cryptocurrency demand is
-  cross-owned with Economy/Science and Technology. No unavailable 2026 demand
-  or unsupported modernization indicator is invented.
+```text
+PROPOSED RESERVED FOREST
+  notification → Forest Settlement Officer → inquiry into claims/rights
+  → admitted, commuted, acquired or otherwise dealt with → Section 20 notification
 
-### ENVIRONMENT AND ECOLOGY DEEP-REVIEW CORE CONTROL
+OTHER ROUTES
+  Reserved Forest --Section 28 assignment of government rights--> Village Forest
+  Government forest/waste land outside Reserved Forest --Section 29--> Protected Forest
+```
 
-- **Must remember:** Forest governance connects diversion approval, compensatory levies, CAMPA fund architecture, ecological restoration and Green India Mission objectives across Union, state and local institutions.
-- **Close distinction:** Compensatory afforestation is not ecological equivalence, fund collection is not expenditure or restoration, plantation area is not survival or native ecosystem recovery, and mission target is not achievement.
-- **Mechanism / status / evidence limit:** Date the governing Act/rules/guidelines and scheme status; trace diversion, valuation, fund transfer, site choice, species mix, monitoring and outcome with community-rights safeguards.
+- ✅ **Reserved Forest:** the strongest IFA category; the settlement process precedes final
+  notification, and activities are generally prohibited unless permitted.
+- ✅ **Village Forest:** government rights over a Reserved Forest may be assigned to a village
+  community subject to rules.
+- ✅ **Protected Forest:** State Government may notify qualifying government forest/waste land not
+  already reserved; the legal presumption is less restrictive than Reserved Forest.
+- ✅ The Act also regulates forest produce, transit, duty and offences. State amendments and local
+  forest laws matter, so one State's procedure should not be universalised.
+
+⚠️ **Boundary:** IFA category is not Champion-Seth forest type, FSI canopy density, recorded forest
+area or FRA title. One hectare may carry all four labels for different purposes.
+
+**Answer-grabbing line:** The IFA organises legal status and control of forest land; it does not by
+itself answer the later questions of Central diversion approval, compensation finance or community
+rights.
+
+**Must-write keywords:** forest settlement; Reserved; Village; Protected; forest produce; State
+amendment.
+
+**Write the paragraph:** The IFA's settlement-and-notification design gives legal form to State
+forest administration, but its categories must be kept distinct from ecological condition. A
+Reserved Forest may be degraded, while dense tree cover outside a notified forest can still raise a
+separate Van Act or rights question.
+
+---
+
+### 4. Current scope of the Van Adhiniyam and the judicial overlay
+
+#### Section 1A: statutory coverage
+
+| Covered by Section 1A(1) | Expressly outside coverage under Section 1A(2), subject to exact conditions |
+|---|---|
+| land declared/notified as forest under the IFA or another law | qualifying access/roadside-amenity forest strip, maximum **0.10 ha in each case** |
+| other land recorded as forest in a government record on or after **25 October 1980** | trees, plantations or reafforestation on land outside Section 1A(1) |
+| “government record” includes recognised Revenue/Forest Department, authority, local-body, community or council records | specified strategic/security categories: 100-km border/LoC/LAC linear project; up to 10 ha security infrastructure; up to 5 ha specified defence/paramilitary/public utility in notified LWE area |
+
+The proviso to Section 1A(1)(b) excludes qualifying land changed from forest use to non-forest use
+on or before **12 December 1996** under an authorised State/UT order. Section 1A(3) makes exemptions
+conditional; compensatory planting conditions may still apply.
+
+#### Section 2: prior Central approval
+
+Prior approval is required before a State/authority orders:
+
+1. dereservation;
+2. use of forest land for a non-forest purpose;
+3. assignment by lease or otherwise on Central terms; or
+4. clearing naturally grown trees to use the land for reafforestation.
+
+The amended explanation excludes listed forest/wildlife management works from “non-forest
+purpose,” while survey treatment depends on Central terms. An exclusion from this definition is not
+a general exemption from every wildlife, environmental, land or rights law.
+
+#### Litigation discipline
+
+✅ On **19 February 2024**, the Supreme Court issued an interim direction to continue applying the
+*Godavarman* forest principles while States/UTs prepared the Rule 16 consolidated record of
+forest-like, unclassed and community forest lands. An official 15 July 2026 order shows the matter
+continuing. Therefore:
+
+- do state the statutory Section 1A categories;
+- do state the interim judicial overlay;
+- do **not** say the 2023 amendment has been finally invalidated;
+- do **not** convert an interim direction into a permanent final definition.
+
+**Answer-grabbing line:** The current forest-scope answer is statute plus a pending judicial overlay,
+not a choice between quoting only Section 1A or only *Godavarman*.
+
+**Must-write keywords:** Section 1A; government record; Section 2; prior approval; Rule 16;
+interim order.
+
+**Write the paragraph:** The 2023 amendment supplies a record-linked statutory scope and enumerated
+exclusions, while the 2024 interim order preserved the wider *Godavarman* discipline during record
+compilation. A balanced answer states both and identifies the proceedings as pending, avoiding a
+false claim of final judicial settlement.
+
+---
+
+### 5. Diversion approval: Stage-I is conditional, Stage-II is final
+
+```text
+USER AGENCY
+  online proposal on Central portal
+  (limited 2025-rule offline exception for specified urgent/strategic cases)
+        ↓
+DFO + Collector + Conservator + Nodal Officer preliminary scrutiny
+        ↓
+State/UT Project Screening Committee where applicable + field verification
+        ↓
+STATE/UT recommendation
+        ↓
+CENTRAL ROUTE
+  Regional Office / Regional Empowered Committee
+  OR Central Government / Advisory Committee, depending on category and area
+        ↓
+STAGE-I: preliminary approval with conditions
+        ↓
+DFO demand note → levies + CA land + documents + mitigation-plan compliance
+        ↓
+DFO → Nodal Officer/PCCF → State/UT compliance report
+        ↓
+STAGE-II: Central final approval
+        ↓
+State/UT checks every other applicable law, including FRA-rights settlement
+        ↓
+State diversion/lease/dereservation order → land handover → annual monitoring
+```
+
+✅ The 2025 Rules define **Stage-I** as preliminary Central approval subject to conditions and
+**Stage-II** as Central prior approval after a satisfactory State compliance report.
+
+✅ The Central route is proposal-specific. Regional Offices/Regional Empowered Committees handle
+specified categories; mining, dereservation and other listed categories go through Central
+Government/Advisory Committee scrutiny. Do not reduce the architecture to “MoEFCC alone clears.”
+
+✅ Stage-I conditions commonly generate a demand for CA cost, NPV and applicable wildlife,
+soil-moisture or other mitigation plans. The user agency submits evidence; the DFO and State chain
+verify it before Stage-II.
+
+✅ Under the 2025 amendment, Stage-I may be revoked if the compliance report is not submitted within
+**five years**; the Centre may extend validity for recorded reasons. It is not an unlimited licence.
+
+#### Limited working permission
+
+For a **linear project**, the State/UT may, after Stage-I, deposit of applicable levies, transfer/
+mutation or notification of CA land, and compliance with other statutes including FRA, grant
+working permission for preliminary works. It excludes such final works as black-topping/concreting
+roads, laying railway tracks or charging transmission lines unless the Central Government specifies
+otherwise. Working permission is not Stage-II.
+
+**Answer-grabbing line:** Forest diversion is a two-stage compliance chain; recommendation,
+Stage-I, payment, Stage-II and the State's final diversion order are separate legal events.
+
+**Must-write keywords:** portal; screening; field verification; Stage-I; demand note; compliance
+report; Stage-II; diversion order.
+
+**Write the paragraph:** Stage-I determines conditional acceptability, not possession of forest
+land. Only after levies, CA land and stipulated safeguards are documented can the Centre grant
+Stage-II; the State must then complete FRA and other-law compliance before issuing the operative
+diversion order.
+
+---
+
+### 6. CA, NPV and conditions: three different functions
+
+| Instrument | What it finances or represents | What it cannot prove |
+|---|---|---|
+| **Compensatory-afforestation cost** | raising and maintaining the approved CA scheme | like-for-like replacement of the diverted ecosystem |
+| **NPV** | monetary recognition of foregone forest ecosystem services | a purchase price that converts ecological loss into equivalence |
+| **Additional/penal CA or penal NPV** | additional liability for specified shortfall/violation | that ex-post payment cures every illegality |
+| **Wildlife/soil/catchment/safety-zone plans** | project-specific mitigation and protection conditions | zero residual impact |
+
+#### Current CA-land rule: avoid the obsolete blanket formula
+
+- ✅ Rule 13's general rule is non-forest land of the required extent, provided by the user agency,
+  plus the cost of raising CA.
+- ✅ If accepted non-forest land is partly unfit for the specified density, additional CA may be
+  raised on degraded notified/unclassed forest land **twice the shortfall**.
+- ✅ Schedule II contains specified dispensations. The 2024 amendment additionally permits, in
+  exceptional circumstances and case-by-case for named government/PSU categories, degraded forest
+  land **twice the diverted area** when suitable land is unavailable.
+- ❌ Therefore, “non-forest land unavailable → any project may automatically use twice degraded
+  forest land” is overbroad under the current Rules.
+
+#### Compliance is a continuing chain
+
+```text
+condition imposed → money/land/document furnished → compliance verified
+→ final approval → State order → plantation/mitigation executed
+→ survival, composition, fire, rights and ecosystem function monitored
+```
+
+**Answer-grabbing line:** CA replaces an accounting obligation, NPV prices part of the lost service
+flow, and neither establishes ecological equivalence without site- and time-specific outcomes.
+
+**Must-write keywords:** CA cost; NPV; site-specific scheme; twice the shortfall; mitigation;
+residual impact.
+
+**Write the paragraph:** A mature forest's soil, species network, hydrology and location cannot be
+recreated merely by paying CA cost and NPV. The levies are necessary liability and restoration
+finance; their legitimacy depends on avoiding irreplaceable loss first and then verifying long-term
+site outcomes.
+
+---
+
+### 7. CAF Act, 2016 and the 90:10 fund architecture
+
+```text
+USER-AGENCY LEVIES
+  CA + additional/penal CA + NPV/penal NPV + site-specific amounts + interest
+                              |
+                              v
+                 PUBLIC-ACCOUNT FUND ARCHITECTURE
+                      90% → concerned State Fund
+                      10% → National Fund
+```
+
+✅ The Act establishes interest-bearing, non-lapsable National and State Funds in the respective
+Public Accounts. **Fund** means the money account; **Authority/CAMPA** means the statutory body that
+administers and plans its use.
+
+| Money stream | Use discipline |
+|---|---|
+| CA, additional/penal CA, catchment or another site-specific scheme | used according to the approved site-specific scheme |
+| NPV and penal NPV | forest/wildlife management and restoration activities prescribed by Rule 5 |
+| protected-area diversion amounts | protected-area conservation corpus/use under the Act |
+| interest | conservation/development and prescribed administration; not an untied State receipt |
+
+#### Rule 5 NPV discipline
+
+- **Not less than 80%**: ecological/management activities such as assisted or artificial
+  regeneration, silviculture, plantation/forest protection, fire prevention, soil-moisture work,
+  habitat improvement and other listed forest/wildlife activities.
+- **Up to 20%**: prescribed forest/wildlife infrastructure and capacity support.
+
+The split applies to the NPV-use basket; it does not mean that every rupee in every site-specific
+CA scheme is freely pooled into an 80:20 account.
+
+**Answer-grabbing line:** CAMPA is a rule-bound public fund architecture, not a general-purpose
+afforestation budget and not permission to divert forest.
+
+**Must-write keywords:** Public Account; non-lapsable; 90:10; site-specific; NPV; 80:20;
+earmarking.
+
+**Write the paragraph:** The 90:10 design keeps most diversion-linked money with the affected State
+while financing national monitoring and capacity. Within the State Fund, the source of money still
+matters: site-specific levies follow their scheme, whereas NPV follows the Rule 5 ecological and
+support baskets.
+
+---
+
+### 8. National and State CAMPA: governance, APO, audit and current finance
+
+| Dimension | National Authority | State Authority |
+|---|---|---|
+| Statutory tiers | Governing Body, Executive Committee, Monitoring Group | Governing Body, Steering Committee, Executive Committee |
+| Political/administrative apex | Union Environment Minister chairs Governing Body | Chief Minister chairs Governing Body; Chief Secretary chairs Steering Committee |
+| Operational role | national schemes, State APO approval, capacity, monitoring/evaluation | prepares APO, executes State works, accounts for State Fund |
+| Audit/report route | CAG audit; reports laid before Parliament | CAG audit; reports laid before State Legislature |
+
+✅ The State APO translates proposed physical activities into financial requirements. An **approved
+APO** is authority to implement a plan; it is not expenditure, plantation, survival or restoration.
+The National Monitoring Group is meant to evolve an independent concurrent monitoring/evaluation
+system.
+
+#### Dated finance status
+
+Lok Sabha UQ 4856, answered **23 March 2026**, records:
+
+- **₹12,515.30 crore unutilised as on 31 March 2025**;
+- one stated cause: delay by some State Governments in releasing money to State Forest Departments;
+- State Governing Bodies/Steering Committees are responsible for review, reprioritisation and
+  corrective directions.
+
+⚠️ The question itself mentioned a 67.5% utilisation premise and several State allegations. The
+Minister's answer supplied the unutilised amount and one reason; do not convert every premise in the
+question into a government-validated finding.
+
+**Answer-grabbing line:** CAMPA performance has four separate ledgers—money transferred, APO
+approved, money spent and ecological outcome achieved.
+
+**Must-write keywords:** Governing Body; Steering Committee; Executive Committee; APO; CAG;
+unutilised balance; outcome ledger.
+
+**Write the paragraph:** The 2026 parliamentary reply shows that a large statutory corpus can coexist
+with delayed field release. Yet rapid spending alone is not the remedy: CAG-quality accounts,
+site-specific compliance and survival/function monitoring are needed so that financial absorption
+does not replace ecological accountability.
+
+---
+
+### 9. Green India Mission: identity and original objectives
+
+✅ GIM is a **domestic NAPCC mission**, not a CAMPA authority and not an obligation named in the
+Paris Agreement. It was one of NAPCC's **eight original missions**; the Government's July 2025
+reply describes NAPCC as comprising **nine missions**, including human health.
+
+| Original Mission Document objective | Exact exam-safe reading |
+|---|---|
+| increase forest/tree cover on **5 mha** | area-addition ambition on forest/non-forest land |
+| improve quality of forest cover on another **5 mha** | quality/ecosystem ambition, not merely new planting |
+| improve biodiversity, hydrological services and carbon sequestration | outcome bundle across the treated 10 mha |
+| increase forest-based livelihood income of about **3 million households** | livelihood objective, not a reported achievement |
+| enhance annual CO2 sequestration by **50–60 million tonnes** | original design target; the Mission PDF prints 2020 in its summary and 2022 in section 3.2.4, so never present either year as a verified achievement |
+
+GIM field activities began in **FY 2015-16**. The original targets remain design benchmarks; a
+mission target, budget release, treated area and measured ecological outcome are different status
+verbs.
+
+**Answer-grabbing line:** GIM defines “greening” as climate-resilient ecosystem and livelihood
+improvement, not as a tree-count campaign.
+
+**Must-write keywords:** NAPCC; 5+5 mha; ecosystem services; livelihoods; target not achievement;
+domestic mission.
+
+**Write the paragraph:** GIM's design is broader than afforestation because half the area ambition
+concerns quality improvement and its outcome set includes water, biodiversity, carbon and incomes.
+Therefore neither plantation area nor finance released can alone demonstrate delivery of the
+Mission.
+
+---
+
+### 10. Five GIM sub-missions: the 10-mha design
+
+| Sub-mission | Original area | Core content |
+|---|---:|---|
+| 1. Enhance quality of forest cover and ecosystem services | **4.9 mha** | 1.5 mha moderately dense forest, 3 mha degraded open forest, 0.4 mha grassland |
+| 2. Ecosystem restoration and increase forest cover | **1.8 mha** | shifting-cultivation areas, scrub, cold-desert/seabuckthorn, mangroves, ravines, abandoned mines |
+| 3. Urban and peri-urban tree cover | **0.2 mha** | notified patches, municipal green spaces, avenues and institutional land |
+| 4. Agroforestry and social forestry | **3 mha** | farms/fallows, shelterbelts, roads/canals and institutional land; productive farmland not to be diverted merely for this component |
+| 5. Restore wetlands | **0.1 mha** | inventories, hydrology, invasive/pollution control, habitat and compatible livelihoods |
+
+```text
+QUALITY 5 mha = Sub-mission 1 (4.9) + wetlands (0.1)
+AREA ADDITION 5 mha = Sub-mission 2 (1.8) + urban (0.2) + agro/social forestry (3.0)
+```
+
+✅ Physical allocations were expressly indicative and capable of State-specific adjustment. The
+presence of grasslands and wetlands is the clearest proof that GIM is not “plant trees everywhere.”
+
+**Answer-grabbing line:** The five sub-missions join forest quality, new cover and non-forest
+ecosystem restoration in one landscape portfolio.
+
+**Must-write keywords:** 4.9; 1.8; 0.2; 3.0; 0.1 mha; grassland; wetland; agroforestry.
+
+**Write the paragraph:** GIM's arithmetic reveals its ecological logic: quality improvement occupies
+five million hectares, while area addition uses multiple land systems. A grassland or wetland
+intervention should therefore restore its own ecology rather than be judged by tree density alone.
+
+---
+
+### 11. Landscape, community and convergence architecture
+
+```text
+L1 STATE LANDSCAPE
+  climate vulnerability + biodiversity + cover + poverty/tribal criteria
+        ↓
+L2 OPERATIONAL LANDSCAPE / CLUSTER (about 5,000–10,000 ha in guidelines)
+  common ecological problem + convergence plan
+        ↓
+L3 VILLAGE / MICRO-WATERSHED WORKING UNIT
+  participatory micro-plan approved by Gram Sabha
+        ↓
+JFMC/Gram Sabha committee + FDA + State FDA + National Mission institutions
+```
+
+- ✅ Landscape selection is informed by forest type/cover, climate vulnerability, corridors,
+  biodiversity, poverty and tribal-population criteria.
+- ✅ Planning is intended to be **bottom-up** even where landscape identification uses higher-level
+  data. L3 micro-plans are approved by Gram Sabhas.
+- ✅ The guidelines place revamped JFMCs under the Gram Sabha and require alignment with State
+  Panchayat/PESA law. This is a GIM governance design, not proof that every CAMPA plantation already
+  follows it.
+- ✅ GIM seeks convergence with CAMPA, MGNREGS, NAP, watershed, horticulture and other programmes.
+  Convergence means a common landscape plan and complementary finance; it does not merge statutes,
+  accounts or permissible-use rules.
+
+**Answer-grabbing line:** GIM's unit of change is a rights-bearing landscape, not an isolated
+plantation polygon.
+
+**Must-write keywords:** L1-L2-L3; micro-watershed; Gram Sabha approval; JFMC; FDA; convergence;
+common plan.
+
+**Write the paragraph:** Landscape planning can align fire, water, habitat and livelihood work
+across schemes, while Gram Sabha-approved micro-plans create local ownership. But convergence must
+preserve each scheme's legal source, audit trail and rights safeguards; pooled objectives do not
+permit pooled illegality.
+
+---
+
+### 12. Targets, achievements and current GIM status
+
+| Status level | Dated official evidence | Correct inference |
+|---|---|---|
+| Original design | 10 mha; 3 million households; ecosystem-service and carbon objectives | ambition, not achievement |
+| PIB, 5 Aug 2024 | ₹909.82 crore released; plantation/eco-restoration over 1,55,130 ha in 17 States + 1 UT | cumulative administrative output to that date |
+| PIB, 24 Jul 2025 | ₹982.34 crore released to 17 States + J&K; ₹619.79 crore in FY2020-21 to FY2024-25 | later finance snapshot; no automatic ecological attribution |
+| CAG audit, 2015-16 to 2024-25 | ₹1,149.14 crore budgetary support, **47.88%** of ₹2,000 crore initial outlay plus ₹400 crore State-share provision | funding/convergence gap within audited implementation |
+| CAG approved physical targets | 1.4 mha quality improvement and 1.4 mha cover increase in audited 16 States/UTs | implementation denominator, not original 5+5 mha denominator |
+| CAG observed achievement | 0.11384 mha quality improvement; 0.03409 mha cover increase | major audited shortfall |
+| CAG monitoring | only MP and Chhattisgarh assessed carbon; 70% of sampled sites showed no noticeable change attributable to GIM in GIS analysis | monitoring/attribution weakness, not proof that every GIM site failed |
+
+CAG also found absent/weak convergence, delayed APOs, failure to secure envisaged ₹10,600 crore
+convergence support, accounting weaknesses and non-validated spatial files. The Mission remains a
+NAPCC instrument; an adverse audit is evidence for reform, not evidence of legal repeal or formal
+closure.
+
+**Answer-grabbing line:** GIM's implementation gap is not one number; it is the distance between an
+original national mission, approved State targets, finance released, work reported and outcomes
+independently observed.
+
+**Must-write keywords:** dated snapshot; denominator; audited target; attribution; convergence gap;
+not discontinued.
+
+**Write the paragraph:** The 2026 audit provides the strongest current evaluation because it links
+finance, planning, physical targets and GIS evidence. Its findings warrant tighter targeting and
+validation, but the audited 1.4-mha targets must not be confused with the Mission Document's
+original national 5+5-mha ambition.
+
+---
+
+### 13. Afforestation, reforestation and restoration are not synonyms
+
+| Term | Exam-ready meaning | Main risk if used loosely |
+|---|---|---|
+| **Afforestation** | establishing tree cover on land not recently forested; policy usage can be broader | converting native grassland/wetland into inappropriate tree cover |
+| **Reforestation** | re-establishing forest after recent loss or severe depletion | assuming any plantation recreates the prior forest |
+| **Ecological restoration** | assisting recovery of composition, structure, processes, hydrology, connectivity and services | measuring only stems or hectares |
+| **Assisted natural regeneration (ANR)** | remove pressures and support surviving seed sources/root stock | adding plantations where natural recovery would be better |
+| **Compensatory afforestation** | legally required afforestation in lieu of diversion | treating an offset obligation as ecological equivalence |
+
+#### Integrity tests
+
+| Test | Question to ask |
+|---|---|
+| **Monoculture** | Has species and age-class simplification reduced habitat and resilience? |
+| **Additionality** | What recovery would not have occurred without this finance/intervention? |
+| **Leakage** | Has grazing, fuelwood extraction or clearing merely shifted elsewhere? |
+| **Permanence** | Can fire, drought, harvest, tenure conflict or future diversion reverse the gain? |
+| **Ecological fit** | Are species, density, hydrology and disturbance regime suited to the native biome? |
+| **Social fit** | Were lawful rights, access and benefit-sharing incorporated? |
+
+These are evaluation concepts; additionality, leakage and permanence are not presented as universal
+statutory conditions for every CAMPA work.
+
+**Answer-grabbing line:** Tree establishment is an input; restoration is a verified trajectory of
+ecosystem recovery.
+
+**Must-write keywords:** ANR; native biome; additionality; leakage; permanence; monoculture;
+ecological fit.
+
+**Write the paragraph:** A site-matched ANR programme may outperform dense planting where ecological
+memory survives, while planting trees in a natural grassland can be degradation disguised as
+greening. Monitoring must therefore compare against a baseline and counterfactual over a period
+long enough to test permanence.
+
+---
+
+### 14. FRA, PESA and Gram Sabha interfaces
+
+```text
+FOREST-DIVERSION APPROVAL ------------------ does not extinguish rights
+        |
+        +-- Van Rules 11(7): before State diversion order,
+        |   comply with other laws and ensure FRA-rights settlement
+        |
+        +-- 2025 Rule 10(10): even linear-project working permission
+        |   requires compliance with other statutes including FRA
+        |
+        +-- GIM: Gram Sabha-approved micro-plan; JFMC as Gram Sabha committee
+        |
+        `-- CAMPA site/APO: must respect tenure, claims and lawful access
+```
+
+- ✅ FRA recognises individual/community rights and **Community Forest Resource** authority to
+  protect, regenerate, conserve or manage; Section 5 supplies conservation duties.
+- ✅ FRA Section 4(5) bars eviction/removal until recognition and verification are complete.
+- ✅ PESA strengthens Scheduled-Area Gram Sabha authority over custom, community resources and MFP
+  and creates project-specific consultation/recommendation interfaces.
+- ⚠️ Do not write “every forest diversion requires identical Gram Sabha consent.” The applicable
+  consent, consultation, recommendation, claims-settlement and certificate duties depend on the
+  relevant law, area and project. What is universal in the current Van Rules is the need to comply
+  with other applicable laws before the operative State order.
+- ✅ The CAF Act itself does **not** make people's participation mandatory in every compensatory-
+  afforestation programme. Participation can arise from FRA/PESA, GIM design, State rules,
+  approved plans or project conditions.
+
+**Answer-grabbing line:** Rights compliance is a legal stage and a restoration precondition, not a
+social add-on after plantation design.
+
+**Must-write keywords:** CFR; Section 4(5); Section 5; PESA; rights settlement; Gram Sabha;
+site-tenure due diligence.
+
+**Write the paragraph:** A technically suitable CA site can still be legally and socially defective
+if it overlaps recognised or pending community use without due process. Conversely, rights
+recognition does not eliminate ecological planning; CFR authority and Section 5 duties can anchor
+native regeneration, fire and access rules.
+
+---
+
+### 15. Forest, fire and landscape monitoring: outputs are not outcomes
+
+```text
+MONEY / PROCESS
+  levy collected → APO approved → expenditure booked
+        ↓
+SPATIAL OUTPUT
+  land transferred → polygon/geotag validated → work completed
+        ↓
+ECOLOGICAL TRAJECTORY
+  survival → native recruitment → structure → soil/water → habitat/connectivity
+        ↓
+SOCIAL / GOVERNANCE OUTCOME
+  rights respected → access/benefits → conflict reduced → audit/correction
+```
+
+#### FSI national monitoring
+
+- ✅ FSI has conducted a countrywide forest/tree-resource assessment **biennially since 1987**.
+  ISFR canopy change is essential, but cannot by itself separate mature natural forest from every
+  plantation or attribute change to CAMPA/GIM.
+- ✅ Near-real-time fire alerts use **MODIS** and **SNPP-VIIRS** detections; alerts go by SMS and
+  KML/CSV email. Thermal detections are not one-to-one ground incidents: the same fire can produce
+  repeated detections.
+- ✅ Large-fire monitoring, launched in 2019, tracks at least three contiguous VIIRS pixels and
+  escalates information. Pre-fire danger ratings combine weather, forest type, archival fire,
+  rainfall and other layers. Alerting supports response; it does not itself prove containment.
+
+#### Programme monitoring
+
+| Programme | Minimum credible dashboard |
+|---|---|
+| CAMPA | levy/APO/expenditure + validated location + species/site + survival + independent evaluation + audit compliance |
+| GIM | landscape baseline + micro-plan/participation + cover quality + regeneration/biodiversity/water/carbon + livelihood indicators |
+| Fire governance | detection-to-verification time + mobilisation + containment + burnt area + recurrence + post-fire recovery |
+
+**Answer-grabbing line:** Good forest governance closes the loop from legal approval and public
+money to independently verified ecological and distributional outcomes.
+
+**Must-write keywords:** baseline; KML validation; survival; native recruitment; fire detection;
+attribution; social audit.
+
+**Write the paragraph:** Remote sensing gives scale and speed, while plots and community evidence
+give composition, causation and use. The CAG's GIM findings show why unvalidated polygons and
+reported hectares cannot substitute for field-linked GIS, accounts and outcome indicators.
+
+---
+
+### 16. UPSC traps, routed PYQs and answer spine
+
+#### Close-option controls
+
+- CAMPA **Authority** ≠ Compensatory Afforestation **Fund**.
+- 90:10 is State:National; it does not mean 90% of every NPV rupee must be plantation.
+- Stage-I ≠ Stage-II ≠ State diversion order ≠ land handover.
+- Payment ≠ approval; approval ≠ rights settlement; planting ≠ survival; survival ≠ restoration.
+- IFA category ≠ Section 1A scope ≠ FSI forest cover ≠ FRA right.
+- GIM target ≠ PIB release ≠ CAG-observed outcome.
+- GIM convergence with CAMPA ≠ legal merger of funds.
+- Fire hotspot ≠ unique fire incident ≠ area burnt.
+
+#### Routed PYQ ownership
+
+The verified ledgers assign four objective demands to Topic 12:
+
+1. **2019 Prelims Q68 — direct:** National/State CAMPA and people's-participation trap.
+2. **2021 Prelims Q24 — application:** New York Declaration on Forests.
+3. **2021 Prelims Q97 — application:** Hyderabad Tree City of the World.
+4. **2026 Prelims Q40 — application:** first Plan Vivo-certified REDD+ project in India;
+   the local Set-A key is provisional.
+
+No direct Mains PYQ is routed to this owner. The workbook reproduces all four with full options,
+provenance, ownership and honest key labels, then adds six original Mains models.
+
+#### Mains answer spine
+
+```text
+DEFINE THE GOVERNANCE PROBLEM
+  → map Constitution + IFA/Van/FRA/CAF/GIM roles
+  → trace diversion: scrutiny → Stage-I → levies/CA → Stage-II → State order
+  → explain 90:10 and permissible-use/audit controls
+  → test CA/GIM against restoration integrity and rights
+  → use dated CAMPA finance + GIM/CAG + FSI evidence
+  → conclude: avoid first, restore natively, verify outcomes, correct transparently
+```
+
+**Final core verdict:** CAMPA makes diversion liability financeable and auditable; GIM supplies a
+broader landscape-restoration vision. Neither justifies avoidable natural-forest loss, and both earn
+legitimacy only when law, tenure, public finance and ecological outcomes are verified together.
+
+---
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Diversion approval first?
-
-A. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-B. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-C. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-D. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-
-**Answer: A.**
-**Explanation:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q2. Which option preserves the ecological boundary of Diversion approval first?
-
-A. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-B. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-C. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-D. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-
-**Answer: B.**
-**Explanation:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q3. Which statement uses Diversion approval first without changing its scale, parameter or status?
-
-A. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-B. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-C. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-D. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-
-**Answer: C.**
-**Explanation:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Diversion approval first?
-
-A. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-B. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-C. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-D. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-
-**Answer: D.**
-**Explanation:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q5. Which statement correctly identifies CAMPA trigger?
-
-A. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-B. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-C. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-D. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-
-**Answer: A.**
-**Explanation:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q6. Which option preserves the ecological boundary of CAMPA trigger?
-
-A. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-B. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-C. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-D. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-
-**Answer: B.**
-**Explanation:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q7. Which statement uses CAMPA trigger without changing its scale, parameter or status?
-
-A. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-B. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-C. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-D. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-
-**Answer: C.**
-**Explanation:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q8. Which option avoids the standard UPSC close-option trap about CAMPA trigger?
-
-A. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-B. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-C. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-D. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-
-**Answer: D.**
-**Explanation:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q9. Which statement correctly identifies NPV distinction?
-
-A. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-B. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-C. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-D. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-
-**Answer: A.**
-**Explanation:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q10. Which option preserves the ecological boundary of NPV distinction?
-
-A. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-B. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-C. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-D. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-
-**Answer: B.**
-**Explanation:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q11. Which statement uses NPV distinction without changing its scale, parameter or status?
-
-A. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-B. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-C. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-D. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-
-**Answer: C.**
-**Explanation:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q12. Which option avoids the standard UPSC close-option trap about NPV distinction?
-
-A. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-B. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-C. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-D. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-
-**Answer: D.**
-**Explanation:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q13. Which statement correctly identifies CAF Act architecture?
-
-A. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-B. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-C. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-D. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-
-**Answer: A.**
-**Explanation:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q14. Which option preserves the ecological boundary of CAF Act architecture?
-
-A. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-B. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-C. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-D. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-
-**Answer: B.**
-**Explanation:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q15. Which statement uses CAF Act architecture without changing its scale, parameter or status?
-
-A. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-B. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-C. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-D. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-
-**Answer: C.**
-**Explanation:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q16. Which option avoids the standard UPSC close-option trap about CAF Act architecture?
-
-A. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-B. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-C. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-D. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-
-**Answer: D.**
-**Explanation:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q17. Which statement correctly identifies National authority boundary?
-
-A. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-B. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-C. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-D. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-
-**Answer: A.**
-**Explanation:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q18. Which option preserves the ecological boundary of National authority boundary?
-
-A. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-B. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-C. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-D. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-
-**Answer: B.**
-**Explanation:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q19. Which statement uses National authority boundary without changing its scale, parameter or status?
-
-A. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-B. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-C. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-D. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-
-**Answer: C.**
-**Explanation:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q20. Which option avoids the standard UPSC close-option trap about National authority boundary?
-
-A. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-B. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-C. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-D. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-
-**Answer: D.**
-**Explanation:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q21. Which statement correctly identifies State authority boundary?
-
-A. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-B. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-C. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-D. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-
-**Answer: A.**
-**Explanation:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q22. Which option preserves the ecological boundary of State authority boundary?
-
-A. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-B. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-C. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-D. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-
-**Answer: B.**
-**Explanation:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q23. Which statement uses State authority boundary without changing its scale, parameter or status?
-
-A. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-B. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-C. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-D. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-
-**Answer: C.**
-**Explanation:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q24. Which option avoids the standard UPSC close-option trap about State authority boundary?
-
-A. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-B. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-C. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-D. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-
-**Answer: D.**
-**Explanation:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q25. Which statement correctly identifies Fund-flow discipline?
-
-A. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-B. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-C. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-D. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-
-**Answer: A.**
-**Explanation:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q26. Which option preserves the ecological boundary of Fund-flow discipline?
-
-A. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-B. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-C. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-D. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-
-**Answer: B.**
-**Explanation:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q27. Which statement uses Fund-flow discipline without changing its scale, parameter or status?
-
-A. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-B. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-C. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-D. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-
-**Answer: C.**
-**Explanation:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q28. Which option avoids the standard UPSC close-option trap about Fund-flow discipline?
-
-A. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-B. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-C. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-D. An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-
-**Answer: D.**
-**Explanation:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q29. Which statement correctly identifies Permitted-use boundary?
-
-A. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-B. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-C. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-D. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-
-**Answer: A.**
-**Explanation:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q30. Which option preserves the ecological boundary of Permitted-use boundary?
-
-A. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-B. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-C. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-D. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-
-**Answer: B.**
-**Explanation:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q31. Which statement uses Permitted-use boundary without changing its scale, parameter or status?
-
-A. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-B. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-C. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-D. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-
-**Answer: C.**
-**Explanation:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q32. Which option avoids the standard UPSC close-option trap about Permitted-use boundary?
-
-A. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-B. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-C. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-D. CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-
-**Answer: D.**
-**Explanation:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q33. Which statement correctly identifies Compensation limit?
-
-A. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-B. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-C. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-D. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-
-**Answer: A.**
-**Explanation:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q34. Which option preserves the ecological boundary of Compensation limit?
-
-A. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-B. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-C. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-D. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-
-**Answer: B.**
-**Explanation:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q35. Which statement uses Compensation limit without changing its scale, parameter or status?
-
-A. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-B. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-C. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-D. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-
-**Answer: C.**
-**Explanation:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Compensation limit?
-
-A. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-B. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-C. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-D. A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-
-**Answer: D.**
-**Explanation:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q37. Which statement correctly identifies Site and tenure due diligence?
-
-A. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-B. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-C. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-D. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-
-**Answer: A.**
-**Explanation:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q38. Which option preserves the ecological boundary of Site and tenure due diligence?
-
-A. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-B. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-C. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-D. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-
-**Answer: B.**
-**Explanation:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q39. Which statement uses Site and tenure due diligence without changing its scale, parameter or status?
-
-A. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-B. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-C. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-D. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-
-**Answer: C.**
-**Explanation:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q40. Which option avoids the standard UPSC close-option trap about Site and tenure due diligence?
-
-A. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-B. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-C. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-D. Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-
-**Answer: D.**
-**Explanation:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q41. Which statement correctly identifies Output versus outcome?
-
-A. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-B. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-C. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-D. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-
-**Answer: A.**
-**Explanation:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q42. Which option preserves the ecological boundary of Output versus outcome?
-
-A. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-B. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-C. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-D. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-
-**Answer: B.**
-**Explanation:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q43. Which statement uses Output versus outcome without changing its scale, parameter or status?
-
-A. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-B. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-C. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-D. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-
-**Answer: C.**
-**Explanation:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q44. Which option avoids the standard UPSC close-option trap about Output versus outcome?
-
-A. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-B. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-C. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-D. Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-
-**Answer: D.**
-**Explanation:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q45. Which statement correctly identifies GIM policy identity?
-
-A. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-B. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-C. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-D. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-
-**Answer: A.**
-**Explanation:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q46. Which option preserves the ecological boundary of GIM policy identity?
-
-A. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-B. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-C. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-D. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-
-**Answer: B.**
-**Explanation:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q47. Which statement uses GIM policy identity without changing its scale, parameter or status?
-
-A. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-B. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-C. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-D. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-
-**Answer: C.**
-**Explanation:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q48. Which option avoids the standard UPSC close-option trap about GIM policy identity?
-
-A. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-B. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-C. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-D. The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-
-**Answer: D.**
-**Explanation:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q49. Which statement correctly identifies GIM official targets?
-
-A. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-B. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-C. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-D. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-
-**Answer: A.**
-**Explanation:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q50. Which option preserves the ecological boundary of GIM official targets?
-
-A. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-B. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-C. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-D. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-
-**Answer: B.**
-**Explanation:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q51. Which statement uses GIM official targets without changing its scale, parameter or status?
-
-A. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-B. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-C. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-D. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-
-**Answer: C.**
-**Explanation:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q52. Which option avoids the standard UPSC close-option trap about GIM official targets?
-
-A. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-B. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-C. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-D. The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-
-**Answer: D.**
-**Explanation:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q53. Which statement correctly identifies GIM ecosystem scope?
-
-A. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-B. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-C. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-D. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-
-**Answer: A.**
-**Explanation:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q54. Which option preserves the ecological boundary of GIM ecosystem scope?
-
-A. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-B. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-C. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-D. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-
-**Answer: B.**
-**Explanation:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q55. Which statement uses GIM ecosystem scope without changing its scale, parameter or status?
-
-A. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-B. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-C. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-D. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-
-**Answer: C.**
-**Explanation:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q56. Which option avoids the standard UPSC close-option trap about GIM ecosystem scope?
-
-A. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-B. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-C. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-D. The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-
-**Answer: D.**
-**Explanation:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q57. Which statement correctly identifies GIM convergence?
-
-A. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-B. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-C. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-D. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-
-**Answer: A.**
-**Explanation:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q58. Which option preserves the ecological boundary of GIM convergence?
-
-A. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-B. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-C. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-D. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-
-**Answer: B.**
-**Explanation:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q59. Which statement uses GIM convergence without changing its scale, parameter or status?
-
-A. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-B. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-C. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-D. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-
-**Answer: C.**
-**Explanation:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q60. Which option avoids the standard UPSC close-option trap about GIM convergence?
-
-A. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-B. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-C. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-D. MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-
-**Answer: D.**
-**Explanation:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q61. Which statement correctly identifies Mission-versus-CAMPA?
-
-A. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-B. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-C. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-D. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-
-**Answer: A.**
-**Explanation:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q62. Which option preserves the ecological boundary of Mission-versus-CAMPA?
-
-A. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-B. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-C. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-D. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-
-**Answer: B.**
-**Explanation:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q63. Which statement uses Mission-versus-CAMPA without changing its scale, parameter or status?
-
-A. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-B. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-C. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-D. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-
-**Answer: C.**
-**Explanation:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Mission-versus-CAMPA?
-
-A. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-B. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-C. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-D. CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-
-**Answer: D.**
-**Explanation:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q65. Which statement correctly identifies Forest-law vintage?
-
-A. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-B. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-C. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-D. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-
-**Answer: A.**
-**Explanation:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q66. Which option preserves the ecological boundary of Forest-law vintage?
-
-A. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-B. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-C. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-D. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-
-**Answer: B.**
-**Explanation:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q67. Which statement uses Forest-law vintage without changing its scale, parameter or status?
-
-A. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-B. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-C. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-D. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-
-**Answer: C.**
-**Explanation:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Forest-law vintage?
-
-A. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-B. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-C. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-D. The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-
-**Answer: D.**
-**Explanation:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q69. Which statement correctly identifies Green-credit boundary?
-
-A. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-B. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-C. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-D. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-
-**Answer: A.**
-**Explanation:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q70. Which option preserves the ecological boundary of Green-credit boundary?
-
-A. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-B. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-C. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-D. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-
-**Answer: B.**
-**Explanation:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q71. Which statement uses Green-credit boundary without changing its scale, parameter or status?
-
-A. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-B. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-C. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-D. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-
-**Answer: C.**
-**Explanation:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Green-credit boundary?
-
-A. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-B. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-C. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-D. A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-
-**Answer: D.**
-**Explanation:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q73. Which statement correctly identifies Audited PYQ ownership?
-
-A. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-B. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-C. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-D. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-
-**Answer: A.**
-**Explanation:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q73. Which statement correctly identifies Audited PYQ ownership?”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q73. Which statement correctly identifies Audited PYQ ownership?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q73. Which statement correctly identifies Audited PYQ ownership? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q73. Which statement correctly identifies Audited PYQ ownership?”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Q73. Which statement correctly identifies Audited PYQ ownership?”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### Q74. Which option preserves the ecological boundary of Audited PYQ ownership?
-
-A. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-B. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-C. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-D. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-
-**Answer: B.**
-**Explanation:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-**Demand decoding:** Treat “Q74. Which option preserves the ecological boundary of Audited PYQ ownership?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q74. Which option preserves the ecological boundary of Audited PYQ ownership?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q74. Which option preserves the ecological boundary of Audited PYQ ownership? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** B. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q74. Which option preserves the ecological boundary of Audited PYQ ownership?”.
-
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
-
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
-
-**How to improve this answer:** For “Q74. Which option preserves the ecological boundary of Audited PYQ ownership?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
-
-### Q75. Which statement uses Audited PYQ ownership without changing its scale, parameter or status?
-
-A. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-B. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-C. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-D. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-
-**Answer: C.**
-**Explanation:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q75. Which statement uses Audited PYQ ownership without changing its scale, parameter or…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q75. Which statement uses Audited PYQ ownership without changing its scale, parameter or status?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q75. Which statement uses Audited PYQ ownership without changing its scale, parameter or status? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q75. Which statement uses Audited PYQ ownership without changing its scale, parameter or status?”.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Q75. Which statement uses Audited PYQ ownership without changing its scale, parameter or…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Audited PYQ ownership?
-
-A. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-B. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-C. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-D. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-
-**Answer: D.**
-**Explanation:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q77. Which statement correctly identifies Live-data boundary?
-
-A. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-B. Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-C. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-D. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-
-**Answer: A.**
-**Explanation:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q78. Which option preserves the ecological boundary of Live-data boundary?
-
-A. When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-B. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-C. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-D. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-
-**Answer: B.**
-**Explanation:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q79. Which statement uses Live-data boundary without changing its scale, parameter or status?
-
-A. Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-B. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-C. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-D. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-
-**Answer: C.**
-**Explanation:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Live-data boundary?
-
-A. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-B. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-C. State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-D. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-
-**Answer: D.**
-**Explanation:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+The separate active workbook contains **exactly 40 distinct solved MCQs**, with four options, full
+option-specific explanations and strict **A → B → C → D** rotation repeated ten times. Coverage
+includes constitutional architecture, IFA categories, current Van Act/Rules, Stage-I/II, CA/NPV,
+CAF 90:10/use/governance/audit, CAMPA finance, all five GIM sub-missions, current CAG status,
+restoration integrity, FRA/PESA, fire and landscape monitoring, and the four routed PYQ concepts.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q76. Which option avoids the standard UPSC close-option trap about Audited PYQ ownership?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q76. Which option avoids the standard UPSC close-option trap about Audited PYQ ownership?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q76. Which option avoids the standard UPSC close-option trap about Audited PYQ ownership? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** B. The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Q77. Which statement correctly identifies Live-data boundary? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** A. Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q76. Which option avoids the standard UPSC close-option trap about Audited PYQ ownership?”.
-
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
-
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
-
-**How to improve this answer:** For “Q76. Which option avoids the standard UPSC close-option trap about Audited PYQ ownership?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
-
-### AUDITED CAMPA, FOREST-POLICY AND COMMUNITY-CARBON PYQ OWNERSHIP
-
-Audited ledgers route four objective demands: CAMPA in 2019, the New York Declaration on Forests and Tree City in 2021, and provisional 2026 Plan Vivo community forest carbon. No direct Mains demand or objective answer key is invented; the concepts are carried into practice.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 9. PYQ application
-
-- ⚠️ Recurring Prelims pattern: distinguish CAMPA's diversion-triggered, compensatory
-  funding logic from the Green India Mission's broader climate-policy mandate.
-- ⚠️ Mains linkage: CAMPA fund utilisation and quality-of-restoration critiques are used to
-  argue for stronger monitoring of afforestation outcomes rather than a focus on quantity
-  planted alone.
-
-#### 2026 PYQ Integration
-
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
-
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 40 | Plan Vivo certified REDD+ projects and community forest carbon conservation | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Plan Vivo certified REDD+ projects and community forest carbon conservation
-
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2019, 2021
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | Prelims GS-I | 68 | Compensatory Afforestation Fund Management Planning Authority | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 24 | New York Declaration on Forests and deforestation | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 97 | Hyderabad recognition as Tree City of the World | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Compensatory Afforestation Fund Management Planning Authority
-- New York Declaration on Forests and deforestation
-- Hyderabad recognition as Tree City of the World
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ Prelims questions on CAMPA typically test the National/State CAF share-split logic and
-  the NPV/compensatory-afforestation-cost payment trigger — apply these mechanics directly.
-- ⚠️ Mains answers on "forest restoration policy" should explicitly engage the ecological-
-  commensurability critique (Section 1) and the fund-utilisation-gap critique (Section 2)
-  together, rather than describing CAMPA/GIM only descriptively.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Explain the sequence from forest-diversion approval to compensatory payments. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Diversion approval first. **Named evidence/example:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CAMPA trigger. **Named evidence/example:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NPV distinction. **Named evidence/example:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-- When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-- Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-
-**Qualified conclusion:** **Claim:** Diversion approval first. **Named evidence/example:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CAMPA trigger. **Named evidence/example:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NPV distinction. **Named evidence/example:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the sequence from forest-diversion approval to compensatory payments. Answer in about…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Diversion approval first. **Named evidence/example:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CAMPA trigger. **Named evidence/example:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NPV distinction. **Named evidence/example:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Diversion approval first. **Named evidence/example:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CAMPA trigger. **Named evidence/example:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** NPV distinction. **Named evidence/example:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain the sequence from forest-diversion approval to compensatory payments. Answer in about…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Distinguish the National and State Compensatory Afforestation Fund authorities. Answer in about 150 words.
-
-**Model thesis:** **Claim:** CAF Act architecture. **Named evidence/example:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** National authority boundary. **Named evidence/example:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State authority boundary. **Named evidence/example:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-- The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-- State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-- An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-
-**Qualified conclusion:** **Claim:** CAF Act architecture. **Named evidence/example:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** National authority boundary. **Named evidence/example:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State authority boundary. **Named evidence/example:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the National and State Compensatory Afforestation Fund authorities. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** CAF Act architecture. **Named evidence/example:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** National authority boundary. **Named evidence/example:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State authority boundary. **Named evidence/example:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** CAF Act architecture. **Named evidence/example:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** National authority boundary. **Named evidence/example:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** State authority boundary. **Named evidence/example:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish the National and State Compensatory Afforestation Fund authorities. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain why CAMPA performance must be tracked from accrual through ecological outcome. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permitted-use boundary. **Named evidence/example:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Output versus outcome. **Named evidence/example:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-data boundary. **Named evidence/example:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-- CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-- Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-- Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-
-**Qualified conclusion:** **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permitted-use boundary. **Named evidence/example:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Output versus outcome. **Named evidence/example:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-data boundary. **Named evidence/example:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why CAMPA performance must be tracked from accrual through ecological outcome. Answer…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permitted-use boundary. **Named evidence/example:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Output versus outcome. **Named evidence/example:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-data boundary. **Named evidence/example:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Permitted-use boundary. **Named evidence/example:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Output versus outcome. **Named evidence/example:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-data boundary. **Named evidence/example:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain why CAMPA performance must be tracked from accrual through ecological outcome. Answer…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Distinguish Green India Mission from CAMPA and classify the official GIM targets correctly. Answer in about 250 words.
-
-**Model thesis:** **Claim:** GIM policy identity. **Named evidence/example:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM official targets. **Named evidence/example:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM ecosystem scope. **Named evidence/example:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM convergence. **Named evidence/example:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Mission-versus-CAMPA. **Named evidence/example:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-- The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-- The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-- MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-- CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-
-**Qualified conclusion:** **Claim:** GIM policy identity. **Named evidence/example:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM official targets. **Named evidence/example:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM ecosystem scope. **Named evidence/example:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM convergence. **Named evidence/example:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Mission-versus-CAMPA. **Named evidence/example:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish Green India Mission from CAMPA and classify the official GIM targets correctly.…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** GIM policy identity. **Named evidence/example:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM official targets. **Named evidence/example:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM ecosystem scope. **Named evidence/example:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM convergence. **Named evidence/example:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Mission-versus-CAMPA. **Named evidence/example:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** GIM policy identity. **Named evidence/example:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM official targets. **Named evidence/example:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM ecosystem scope. **Named evidence/example:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM convergence. **Named evidence/example:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Mission-versus-CAMPA. **Named evidence/example:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish Green India Mission from CAMPA and classify the official GIM targets correctly.…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Critically examine the ecological equivalence and tenure assumptions in compensatory afforestation. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Compensation limit. **Named evidence/example:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Site and tenure due diligence. **Named evidence/example:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Output versus outcome. **Named evidence/example:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Green-credit boundary. **Named evidence/example:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-- Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-- Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-- A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-
-**Qualified conclusion:** **Claim:** Compensation limit. **Named evidence/example:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Site and tenure due diligence. **Named evidence/example:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Output versus outcome. **Named evidence/example:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Green-credit boundary. **Named evidence/example:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Critically examine the ecological equivalence and tenure assumptions in compensatory…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Compensation limit. **Named evidence/example:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Site and tenure due diligence. **Named evidence/example:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Output versus outcome. **Named evidence/example:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Green-credit boundary. **Named evidence/example:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Compensation limit. **Named evidence/example:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Site and tenure due diligence. **Named evidence/example:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Output versus outcome. **Named evidence/example:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Green-credit boundary. **Named evidence/example:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Critically examine the ecological equivalence and tenure assumptions in compensatory…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Build a current forest-governance answer integrating law, CAMPA, GIM and evidence limits. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Diversion approval first. **Named evidence/example:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CAF Act architecture. **Named evidence/example:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM policy identity. **Named evidence/example:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM official targets. **Named evidence/example:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Forest-law vintage. **Named evidence/example:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ ownership. **Named evidence/example:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-data boundary. **Named evidence/example:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-- The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-- An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-- The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-- The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-- The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-- Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-- Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
-
-**Qualified conclusion:** **Claim:** Diversion approval first. **Named evidence/example:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CAF Act architecture. **Named evidence/example:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM policy identity. **Named evidence/example:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM official targets. **Named evidence/example:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Forest-law vintage. **Named evidence/example:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ ownership. **Named evidence/example:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-data boundary. **Named evidence/example:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Build a current forest-governance answer integrating law, CAMPA, GIM and evidence limits.…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Diversion approval first. **Named evidence/example:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CAF Act architecture. **Named evidence/example:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM policy identity. **Named evidence/example:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM official targets. **Named evidence/example:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Forest-law vintage. **Named evidence/example:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ ownership. **Named evidence/example:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-data boundary. **Named evidence/example:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-8. **Claim and named evidence:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Diversion approval first. **Named evidence/example:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CAF Act architecture. **Named evidence/example:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Fund-flow discipline. **Named evidence/example:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM policy identity. **Named evidence/example:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** GIM official targets. **Named evidence/example:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Forest-law vintage. **Named evidence/example:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Audited PYQ ownership. **Named evidence/example:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Live-data boundary. **Named evidence/example:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Build a current forest-governance answer integrating law, CAMPA, GIM and evidence limits.…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+The workbook contains all **four routed objective PYQs** with full printed options and exact
+ownership/routing/local-paper provenance. The 2019 and 2021 official UPSC keys are unavailable
+locally, so their source-grounded resolutions are expressly labelled **not official keys**. The 2026
+local Set-A key is labelled **provisional**, not final official.
+
+It also contains exactly **six original Mains questions**—two each at 10, 15 and 20 marks—with model
+answers inside the stated 150/250-word ceilings and a question-specific “Why this earns marks” note.
+
+---
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims.
-> **Core area:** Compensatory afforestation and national forest-restoration policy.
-> **Grounded in:** Compensatory Afforestation Fund Act, 2016 and Rules, 2018 (India Code); CAG/parliamentary committee reports on CAF utilisation; Green India Mission operational guidelines; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
-> *Companion: `basic/12_Forest-Governance-CAMPA-and-Green-India-Mission.md`.*
+### 1. Ecological incommensurability
 
-#### 1. The "compensation" premise and its ecological critique
+⚠️ A plantation can satisfy an accounting condition without reproducing the location, soil,
+community composition, trophic network or accumulated carbon of a mature natural forest. This is a
+critique of equivalence, not an argument against restoration finance.
 
-⚠️ The single most important advanced-level critique of CAMPA is conceptual: it assumes a
-biodiversity-rich, mature natural forest (often diverted for mining/infrastructure) can be
-"compensated" by planting an equivalent area of new afforestation elsewhere — but ecological
-succession theory (Topic 03) shows that a newly planted stand cannot replicate a mature
-forest's structure, species composition or accumulated ecosystem services within any
-policy-relevant timeframe. This is why "no net loss" framing in official communication is
-frequently challenged by ecologists as ecologically incommensurable rather than a genuine
-like-for-like offset — a sophisticated point for Mains answers evaluating CAMPA's design.
+### 2. Offset integrity has four failure routes
 
-#### 2. Fund architecture and the fund-utilisation gap
+⚠️ **Additionality** fails if the recovery would occur anyway; **leakage** fails if pressure shifts;
+**permanence** fails if fire, harvest or conflict reverses gains; **measurement** fails if hectares
+or canopy substitute for composition and function.
 
-| Layer | Statutory function | Documented performance concern |
-|---|---|---|
-| ✅ National CAF | Retains a smaller specified share of accrued funds for national priorities (e.g., cross-state or strategic afforestation/wildlife activities). | Utilisation and planning at the national level have faced periodic parliamentary-committee/CAG scrutiny regarding pace of disbursal. |
-| ✅ State CAFs | Receive the larger share for state-level compensatory afforestation, forest regeneration, wildlife management, and permitted forest infrastructure. | A recurring audit finding across several years has been that a substantial share of accrued state CAF corpus remained unspent or under-utilised relative to available funds, alongside quality concerns about how spent funds were utilised. |
+### 3. Fund utilisation and ecological quality are independent axes
 
-⚠️ **Analytical point:** the fund-utilisation gap (large accrued corpus with comparatively
-slow/uneven spending) has been a repeated theme in CAG and parliamentary standing committee
-reviews of CAMPA — this is distinct from, but compounds, the deeper ecological-
-commensurability critique in Section 1: even if compensation were ecologically adequate in
-principle, slow fund utilisation further delays any restoration benefit.
+⚠️ Slow release delays restoration, but rapid expenditure on ecologically unsuitable planting can
+also fail. CAMPA reform must improve both absorption and the quality of what is financed.
 
-#### 3. Green India Mission: scope, targets and implementation reality
+### 4. The statutory and judicial layers must remain bounded
 
-1. ✅ The Green India Mission (GIM), one of NAPCC's eight missions, is explicitly designed
-   around ecosystem-service enhancement — carbon sequestration, biodiversity, water
-   regulation, and livelihood support through agroforestry and non-timber forest produce —
-   rather than a narrow area-of-tree-cover target alone.
-2. ⚠️ **Implementation reality:** GIM's cross-cutting mandate (spanning forest quality,
-   agroforestry, wetlands, grasslands and urban green spaces) has meant its funding and
-   institutional ownership are more diffused across multiple schemes and departments
-   compared to CAMPA's single, dedicated statutory fund — making GIM's aggregate progress
-   harder to track through one unified national metric than CAMPA's more narrowly defined
-   spend/output figures.
-3. ⚠️ **Analytical synthesis:** GIM and CAMPA can, in principle, be mutually reinforcing —
-   CAMPA-funded compensatory afforestation could be designed to meet GIM's ecosystem-
-   service and native-species-quality standards rather than being reported as a separate,
-   purely quantity-based accounting exercise — but this integration is not automatic and
-   depends on deliberate convergence in state-level implementation planning.
+⚠️ Section 1A, Rule 16 and the 2024 interim order operate together while litigation continues.
+Judicial review is neither an administrative substitute nor permission to ignore the current text.
 
-#### 3A. The 2023 amendment and the 2024 judicial correction: a two-step legal shift
+### 5. “More trees” can damage a non-forest ecosystem
 
-⚠️ Advanced answers on forest governance now have to handle a **statute-versus-judgment
-interaction**, not just a single law:
+⚠️ GIM itself includes grasslands and wetlands. Ecological fit can require open habitat, seasonal
+water or native grass recovery rather than dense woody planting.
 
-| Step | What changed | Analytical reading |
-|---|---|---|
-| ✅ **Forest (Conservation) Amendment Act, 2023** renamed the 1980 Act to the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** and defined its applicability by reference to land *notified* as forest under the Indian Forest Act, 1927 or *recorded* as forest in government records on or after 25 October 1980. | The reform's stated purpose was regulatory certainty: user agencies and states had faced ambiguity about which land needed prior central approval. | ⚠️ The cost of certainty is coverage: land that is ecologically forest but never entered the record risks falling outside the Act's prior-approval requirement. |
-| ✅ The 2023 Act **exempted** specified categories from prior approval — including land within 100 km of international borders/LoC/LAC for strategic linear projects of national importance and security, limited areas for security infrastructure, defence projects, and land alongside rail lines and public roads for access. | Security and connectivity imperatives in border and remote regions. | ⚠️ Note *where* the exemptions bite: the 100 km border belt includes the biodiversity-rich Himalaya and the North-East — so the exemption is not spatially neutral with respect to biodiversity. |
-| ✅ **Supreme Court, February 2024** (*Ashok Kumar Sharma v. Union of India* proceedings): directed that the broad **"dictionary meaning" of forest from *T.N. Godavarman Thirumulpad* (1996)** continue to apply pending the compilation and submission of State expert-committee records of forest-like land. | Judicial preservation of the ecological test during the transition. | ⚠️ This is the single most examinable sentence in current Indian forest law: **the statutory definition narrowed, and the Court held the ecological definition in place in the interim.** |
+### 6. Green credit, carbon credit and CAMPA are separate ledgers
 
-⚠️ **Answer-writing discipline:** describe this as *statute narrowed → Court preserved
-interim breadth → State records pending*, and never assert that the *Godavarman* definition
-has been either abolished (it has not) or permanently entrenched (the interim direction is
-tied to the record-compilation process).
+⚠️ A green credit records a notified environmental action; a carbon credit uses a quantified
+climate unit; CAMPA records diversion-linked statutory money. None alone proves restored ecology.
 
-#### 4. Compensatory afforestation site-quality issues in depth
+### 7. Community-carbon illustration
 
-- ⚠️ Independent field studies and civil-society assessments have repeatedly flagged
-  concerns including: afforestation carried out with fast-growing, sometimes non-native or
-  monoculture species (undermining native-biome fidelity, Topic 03); survival-rate data that
-  is not consistently, independently verified years after planting; and instances where
-  land nominally used for "degraded forest land" compensatory afforestation already carried
-  community use rights or ongoing FRA claims (Topic 11), creating land-use conflict.
-- ⚠️ **Balanced framing:** these are documented implementation critiques from a range of
-  sources (including government audit bodies themselves), not evidence that the CAMPA
-  mechanism is entirely without merit — the statutory fund-collection and planning
-  architecture is sound in principle; the gap lies in ecological-quality standards,
-  monitoring rigour and land-tenure due diligence at implementation.
+✅ The Khasi Hills Community REDD+ Project in Meghalaya is the routed 2026 Plan Vivo example. Use it
+to discuss community governance and carbon finance, but do not infer current credit volume,
+income-sharing or ecological performance without the relevant monitoring period.
 
-#### 5. Data and conceptual limitations
+### 8. Evaluation ladder
 
-- ⚠️ Precise, currently accurate figures for total CAMPA fund accrual, state-wise
-  disbursal and utilisation rate change year to year and are reported through CAG audit
-  reports and parliamentary standing committee reports with different reference dates —
-  cite the specific report and its date rather than a static corpus figure.
-- ⚠️ There is no single, comprehensive, independently verified national dataset tracking the
-  long-term (multi-decade) survival and ecological maturation of CAMPA-funded plantations;
-  most publicly available assessments are site-specific studies rather than a
-  nationwide monitoring system — a genuine, frequently cited data gap.
-- ⚠️ Green India Mission's aggregate physical/financial progress reporting is distributed
-  across implementing state agencies and multiple central schemes, making a single, precise
-  national "GIM achievement" figure difficult to state with confidence without citing a
-  specific MoEFCC progress report and its date.
+```text
+LEGALITY → FINANCE → TENURE → SITE FIT → IMPLEMENTATION
+→ SURVIVAL → NATIVE REGENERATION → FUNCTION → PERMANENCE → FAIR BENEFIT
+```
 
-#### 6. Recurring UPSC analytical tensions
-
-| Tension | Balanced framing |
-|---|---|
-| Development need for forest-land diversion vs ecological irreplaceability of mature forest | CAMPA's compensation framework provides a funding mechanism but cannot fully offset the ecological loss of mature forest in any short-to-medium policy timeframe. |
-| Large accrued CAMPA corpus vs slow/uneven fund utilisation | Statutory fund-collection design is effective; the implementation bottleneck is disbursal pace, planning capacity and monitoring rigour at the state level. |
-| CAMPA's area/spend-based reporting vs GIM's ecosystem-service-quality standard | Genuine integration (CAMPA funds meeting GIM ecological-quality standards) is possible but requires deliberate state-level convergence, not automatic alignment. |
-
-#### 7. Must-Know Facts for Advanced Prelims
-
-- ✅ CAG and parliamentary standing committee reviews have repeatedly flagged CAMPA fund
-  under-utilisation (slow disbursal/spending relative to the accrued corpus) as a
-  persistent implementation concern.
-- ✅ The Green India Mission's mandate spans forest quality, agroforestry, wetlands,
-  grasslands and urban green spaces — broader than a single "tree-planting area" target.
-- ✅ Independent assessments have flagged concerns about non-native/monoculture species use
-  and inconsistent survival-rate verification in some compensatory-afforestation sites.
-- ✅ CAMPA and GIM are governed by different institutional architectures (a single dedicated
-  statutory fund for CAMPA versus a multi-scheme, multi-department structure for GIM).
-
-#### 8. Advanced Prelims traps
-
-- ❌ CAMPA fund utilisation has been consistently rapid and fully matches accrued corpus
-  every year. -> Audit and parliamentary reviews have repeatedly flagged utilisation lags
-  and unspent-corpus concerns.
-- ❌ Compensatory afforestation is considered an ecologically equivalent, "no net loss"
-  substitute for diverted mature forest by ecological consensus. -> This equivalence is
-  widely challenged on ecological-succession grounds; new plantations cannot replicate
-  mature-forest structure/services within any short-to-medium timeframe.
-- ❌ The Green India Mission has a single, unified national tracking metric analogous to
-  CAMPA's fund-accrual figure. -> GIM's progress reporting is more diffused across multiple
-  schemes/departments, making a single aggregate metric harder to state precisely.
-- ❌ Compensatory-afforestation land is always genuinely unencumbered, rights-free land. ->
-  Some documented cases show overlap with existing community-use or FRA-claim areas,
-  creating land-use conflict.
-
-#### 9. 📰 Current anchor — analytical use
-
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 CAG/parliamentary standing committee reviews of CAMPA fund utilisation (verify the latest report and its specific figures/date before citing). | Use to evidence the fund-utilisation-gap critique analytically, rather than citing a specific corpus figure without its report date. |
-| 📰 **Forest (Conservation) Amendment Act, 2023** (renaming and scope redefinition) read with the **Supreme Court's February 2024 interim direction** preserving the *Godavarman* definition pending State expert-committee records. | The current legal baseline for any question on forest diversion, CAMPA triggers or "what counts as forest". Always present the two together — quoting only the amendment overstates the narrowing; quoting only the judgment understates the statutory change. |
-| 📰 Economic Survey 2025-26 (Ch. 10): ecosystem-based approaches and restoration are being incentivised through the **Afforestation and Green Credit Programme**, encouraging public and private participation in compensatory afforestation and degraded-forest restoration. | The newest layer on the CAMPA stack — and the sharpest current version of the quantity-versus-quality critique, because a credit earned per unit of plantation is, by construction, an *input* metric. |
-
-⚠️ **Announced vs achieved:** CAMPA corpus figures measure **money accrued**, green credits
-measure **actions registered**, and ISFR measures **canopy detected**. None of the three
-measures **ecological restoration achieved** — say so explicitly in a Mains answer; it is the
-single highest-value analytical sentence in this topic.
-
-#### 10. PYQ-based analytical application
-
-- ⚠️ Prelims questions on CAMPA typically test the National/State CAF share-split logic and
-  the NPV/compensatory-afforestation-cost payment trigger — apply these mechanics directly.
-- ⚠️ Mains answers on "forest restoration policy" should explicitly engage the ecological-
-  commensurability critique (Section 1) and the fund-utilisation-gap critique (Section 2)
-  together, rather than describing CAMPA/GIM only descriptively.
-
-#### 11. Mains-ready framework
-
-**Central thesis:** CAMPA's statutory fund-collection architecture is sound, but its
-underlying "compensation" premise faces a genuine ecological-commensurability critique
-(new plantations cannot replicate diverted mature forest within policy-relevant
-timeframes), compounded by a documented fund-utilisation gap; genuine progress requires
-CAMPA-funded afforestation to be held to the Green India Mission's ecosystem-service-quality
-and native-species standards, with independent, long-term ecological monitoring.
-
-1. State CAMPA's diversion-triggered, NPV-based funding mechanism and the National/State CAF
-   structure.
-2. Introduce the ecological-commensurability critique of the "compensation" premise, linking
-   to succession theory (Topic 03).
-3. Cite the documented fund-utilisation gap from CAG/parliamentary review as a distinct,
-   compounding implementation problem.
-4. Explain the Green India Mission's broader ecosystem-service mandate and its more diffused
-   institutional/reporting architecture compared to CAMPA.
-5. Conclude with a recommendation to integrate CAMPA spending with GIM's ecological-quality
-   standards and independent, long-term outcome monitoring.
-
-#### 12. Probable questions
-
-- ⚠️ **Prelims:** Identify the correct National/State CAF fund-share structure and the NPV
-  payment trigger under the Compensatory Afforestation Fund Act, 2016.
-- ⚠️ **Mains (10 marks):** Why is "no net loss" compensatory afforestation ecologically
-  contested as a substitute for diverted mature forest?
-- ⚠️ **Mains (15 marks):** Critically evaluate CAMPA's fund-utilisation record and propose
-  reforms to align compensatory afforestation with Green India Mission ecological-quality
-  standards.
-
-#### 13. Study links
-
-- ✅ Foundation companion: `basic/12_Forest-Governance-CAMPA-and-Green-India-Mission.md`.
-- ✅ `03_Ecological-Succession-and-Biomes.md` — the ecological-commensurability critique's
-  theoretical basis.
-- ✅ `11_Forest-Types-and-Forest-Rights-Act.md` — the land-tenure conflict risk in
-  compensatory-afforestation site selection.
-- ✅ `20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` — Green India Mission's place
-  within India's full climate-policy architecture.
+---
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Forest Governance CAMPA and Green India Mission: DIVERSION, NPV, CA COST, FUND AND AUTHORITY MAP
+### Constitutional and legal map
 
-1. **Diversion approval first:** Prior Central approval for specified non-forest use of covered forest land belongs to the forest-conservation statute; approval, rejection or exemption is a legal decision distinct from later compensatory-afforestation finance.
-2. **CAMPA trigger:** When an approved diversion carries compensatory conditions, the user agency pays the applicable compensatory-afforestation cost and Net Present Value; a fund flow does not itself grant diversion approval.
-3. **NPV distinction:** Net Present Value monetises specified foregone forest ecosystem services for the approval framework, while compensatory-afforestation cost finances plantation or restoration activity; the two payments are related but not identical.
-4. **CAF Act architecture:** The Compensatory Afforestation Fund Act, 2016 establishes National and State Compensatory Afforestation Funds and their authorities for receiving and using eligible monies under the statutory framework.
-5. **National authority boundary:** The National Authority and National Fund perform central planning, coordination, monitoring and nationally assigned functions; they do not replace State Authorities as the ordinary executors of state plans.
-6. **State authority boundary:** State Authorities prepare and implement the applicable annual plans and use State Fund resources for permitted activities; a release or approved plan is not proof of completed ecological restoration.
-7. **Fund-flow discipline:** An answer must trace user agency payment to the applicable fund, authority, approved plan, release, expenditure, physical output and ecological outcome; each is a separate accounting or performance stage.
-8. **Permitted-use boundary:** CAMPA monies may support compensatory afforestation and other permitted forest, wildlife, regeneration, protection or infrastructure activities under the Act and Rules; no allocation or expenditure value is assumed without the dated record.
-9. **Compensation limit:** A plantation cannot reproduce the structure, species composition, soil history, spatial location and accumulated services of a mature natural forest within the project accounting period; finance mitigates loss but does not prove ecological equivalence.
-10. **Site and tenure due diligence:** Compensatory-afforestation land must be checked for ecological suitability, native-biome fidelity, existing use and recognised or pending forest rights; describing land as degraded does not make it rights-free or ecologically empty.
-11. **Output versus outcome:** Money accrued, money spent, seedlings planted, area treated, canopy detected and ecosystem function restored are different metrics; none can be substituted for the next without monitoring evidence.
-12. **GIM policy identity:** The Green India Mission is one of the original eight missions under the National Action Plan on Climate Change and combines adaptation and mitigation through forest and ecosystem restoration; it is not the CAMPA statute.
-13. **GIM official targets:** The retrieved MoEFCC page publishes mission targets of increasing forest or tree cover over 5 million hectares, improving quality over another 5 million hectares and enhancing forest-based livelihood income for about 3 million families; these are targets, not verified achievements.
-14. **GIM ecosystem scope:** The official page emphasises biodiversity, water, biomass, mangroves, wetlands, critical habitats, carbon storage, agroforestry, social forestry and urban or peri-urban tree cover; GIM is broader than compensating one diverted parcel.
-15. **GIM convergence:** MoEFCC describes convergence with CAMPA and MGNREGS and a role for local communities; convergence is a planning approach, not automatic pooling of every fund or proof of implementation.
-16. **Mission-versus-CAMPA:** CAMPA is diversion-triggered statutory compensation finance, whereas GIM is a broader mission with ecosystem-service objectives and multiple implementation channels; overlap in activity does not make them one programme.
-17. **Forest-law vintage:** The Forest Conservation Amendment Act, 2023 renamed and altered the scope of the 1980 statute, while the Supreme Court's February 2024 interim direction preserved the broader Godavarman forest meaning pending State records; both must be stated together.
-18. **Green-credit boundary:** A green credit for an eligible environmental action is not a carbon credit and is not proof that a diverted mature ecosystem has been replaced; action registration, carbon accounting and ecological outcome are separate.
-19. **Audited PYQ ownership:** Audited ledgers route 2019 CAMPA, 2021 New York Declaration on Forests, 2021 Tree City and provisional 2026 Plan Vivo community-carbon demands to Topic 12; no objective key is inferred.
-20. **Live-data boundary:** Official CAMPA pages attempted on 2026-09-06 yielded HTTP 404 or DNS failure and the FSI page was a contact-only stub, so no fund, allocation, expenditure, afforestation-area, survival or outcome figure is asserted.
+- Articles 48A and 51A(g); Concurrent List Entries 17A forests and 17B wildlife.
+- IFA 1927: Reserved, Village and Protected Forests; produce/transit/offences; State-facing law.
+- Van Adhiniyam: Section 1A coverage/exclusions; Section 2 prior Central approval.
+- FRA: individual/community/CFR rights, Section 4(5), Section 5 conservation duties.
+- CAF Act: diversion-linked money and statutory Authorities; GIM: domestic NAPCC mission.
 
-### Forest Governance CAMPA and Green India Mission: CAMPA, GIM, TARGET, TENURE, METRIC AND EQUIVALENCE TRAPS
+### Current diversion sequence
 
-- Do not treat CAMPA payment as the legal approval for diversion.
-- Do not merge NPV and compensatory-afforestation cost.
-- Do not assign State implementation to the National Authority.
-- Do not assign national coordination to a State Authority.
-- Do not treat an approved annual plan as completed work.
-- Do not report accrued funds as expenditure.
-- Do not report expenditure as plantation survival or ecosystem restoration.
-- Do not treat compensatory plantation as like-for-like mature forest.
-- Do not assume degraded land is rights-free.
-- Do not merge CAMPA and Green India Mission.
-- Do not report GIM targets as achieved outputs or outcomes.
-- Do not infer fund convergence from policy convergence.
-- Do not state the 2023 amendment without the 2024 interim judicial direction.
-- Do not equate green credit with carbon credit.
-- Do not infer PYQ keys or current fund figures from stubs.
+- Portal proposal → State scrutiny/field verification → State recommendation.
+- Regional/REC or Central/Advisory route depends on proposal category/area.
+- Stage-I = conditional preliminary approval.
+- DFO demand note → CA/NPV/mitigation payment + CA land + evidence.
+- Stage-II = Central final approval after satisfactory compliance report.
+- State order only after other laws and FRA-rights settlement; then handover and monitoring.
+- Linear working permission after Stage-I is limited and is not Stage-II.
 
-### Forest Governance CAMPA and Green India Mission: FOREST-GOVERNANCE ANSWER SPINE
+### CA and CAMPA recall
 
-```text
-START WITH THE FOREST-DIVERSION APPROVAL OR EXEMPTION QUESTION
--> SEPARATE NPV FROM COMPENSATORY-AFFORESTATION COST
--> TRACE NATIONAL AND STATE FUND-AUTHORITY ROLES
--> MOVE FROM ACCRUAL TO PLAN TO RELEASE TO SPEND TO OUTPUT TO OUTCOME
--> DISTINGUISH CAMPA'S TRIGGER FROM GIM'S MISSION OBJECTIVES
--> LABEL EVERY GIM NUMBER AS TARGET OR DATED ACHIEVEMENT
--> CONCLUDE WITH NATIVE-BIOME, FRA AND LONG-TERM MONITORING SAFEGUARDS
-```
+- CA cost ≠ NPV: plantation scheme versus monetised foregone services.
+- General CA rule: required non-forest land; twice-shortfall/exception rules are conditional, not
+  a universal fallback.
+- Funds are interest-bearing, non-lapsable Public Account funds.
+- 90% State Fund; 10% National Fund.
+- Site-specific money follows site scheme; NPV follows Rule 5; at least 80% core activities and up
+  to 20% prescribed infrastructure/capacity.
+- National: Governing Body + Executive Committee + Monitoring Group.
+- State: Governing Body + Steering Committee + Executive Committee.
+- CAG audit; national report to Parliament, State report to State Legislature.
+- Lok Sabha 23 Mar 2026: ₹12,515.30 crore unutilised at 31 Mar 2025.
 
-### Forest Governance CAMPA and Green India Mission: LIVE FUND, EXPENDITURE, AREA, OUTCOME AND PYQ EVIDENCE BOUNDARY
+### GIM recall
 
-The official MoEFCC GIM page was substantively retrieved for mission identity, ecosystem scope, convergence and published targets. Those targets are not reported as achievements. CAMPA paths failed with HTTP 404 or DNS error and the FSI page was a contact-only stub, so no fund, allocation, expenditure, area, survival or outcome figure was used.
+- One of eight original NAPCC missions; Government described nine missions in July 2025.
+- Original objectives: +5 mha cover; improve 5 mha; ecosystem services; ~3m household incomes.
+- Sub-missions: quality 4.9; restoration 1.8; urban 0.2; agro/social 3.0; wetlands 0.1 mha.
+- L1 landscape → L2 cluster → L3 village/micro-watershed; Gram Sabha-approved micro-plan.
+- Convergence with CAMPA/MGNREGS/NAP does not merge accounts or legal powers.
+- PIB 24 Jul 2025: ₹982.34 crore released to 17 States + J&K.
+- CAG 2026: funding, convergence, target, accounts, carbon and GIS-validation gaps.
 
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+### Restoration and rights recall
 
-#### ASCII MASTER FLOW — PANEL 1/12: Diversion-to-finance firewall
+- Afforestation adds trees; reforestation re-establishes forest; restoration recovers ecosystem
+  trajectory; CA is diversion-linked obligation.
+- Test monoculture, additionality, leakage, permanence, ecological fit and social fit.
+- Protect intact natural forest before offsetting; prefer ANR where ecological memory survives.
+- Current Rules require other-law/FRA compliance before State diversion order; GIM gives Gram Sabha
+  a planning role. Do not invent universal identical consent language.
 
-```ascii-master
-PROJECT PROPOSAL -> forest-conservation legal scrutiny
-PRIOR CENTRAL APPROVAL OR EXEMPTION TEST -> legal decision
-CONDITIONS -> compensatory afforestation and NPV where applicable
-USER AGENCY PAYMENT -> finance trigger
-RULE -> payment never substitutes for approval
-MUST REMEMBER: Forest governance connects diversion approval, compensatory levies, CAMPA...
-```
+### Monitoring and answer route
 
-#### ASCII MASTER FLOW — PANEL 2/12: Payment distinction
+- ISFR cover = canopy metric, not programme attribution.
+- MODIS/SNPP-VIIRS hotspot = thermal detection, not unique incident or burnt area.
+- Monitor money → validated location → survival → native recruitment → function → rights/benefits.
+- PYQs: 2019 CAMPA; 2021 NYDF; 2021 Tree City; 2026 Khasi Hills Plan Vivo.
+- Answer route: architecture → approval → finance → restoration → rights → monitoring → qualified
+  verdict.
 
-```ascii-master
-NPV -> specified ecosystem-service value in the approval framework
-CA COST -> finances compensatory plantation or restoration activity
-BOTH -> may arise from an approved diversion condition
-NEITHER -> evidence that ecological replacement has occurred
-VERIFY -> rate, category and date from the applicable order
-```
+### Final verdict
 
-#### ASCII MASTER FLOW — PANEL 3/12: Fund architecture
-
-```ascii-master
-CAF ACT 2016 -> statutory framework
-NATIONAL FUND -> centrally assigned receipts and uses
-NATIONAL AUTHORITY -> central planning, coordination and monitoring
-STATE FUND -> state-assigned receipts and uses
-STATE AUTHORITY -> annual plan and on-ground implementation
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: National-State authority matrix
-
-```ascii-master
-NATIONAL -> coordination, national functions and oversight
-STATE -> plan preparation, execution and reporting
-TRANSFER OR RELEASE -> financial stage
-EXPENDITURE -> accounting stage
-OUTCOME -> ecological evidence stage
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Performance chain
-
-```ascii-master
-ACCRUAL -> money received
-PLAN -> approved proposed activity
-RELEASE -> money made available
-EXPENDITURE -> money booked as spent
-OUTPUT AND OUTCOME -> physical work then ecological effect
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Permitted-use gate
-
-```ascii-master
-PROPOSED ACTIVITY -> locate Act, Rules and annual plan authority
-PERMITTED USE -> afforestation or other eligible forest activity
-AUTHORITY -> National or State role
-RECORD -> dated sanction and expenditure evidence
-NO FIGURE -> never infer allocation, spend or area
-CLOSE DISTINCTION: Compensatory afforestation is not ecological equivalence, fund...
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Ecological equivalence test
-
-```ascii-master
-DIVERTED MATURE FOREST -> layered structure and accumulated history
-NEW PLANTATION -> young stand with different location and trajectory
-AREA MATCH -> administrative comparison only
-CANOPY GAIN -> does not prove biodiversity or hydrological recovery
-VERDICT -> compensation finance is not like-for-like replacement
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Site and rights gate
-
-```ascii-master
-LAND IDENTIFIED -> verify legal and recorded status
-ECOLOGY -> match native biome, soil, water and connectivity
-TENURE -> check recognised and pending FRA rights
-COMMUNITY -> include rights holders in planning and monitoring
-NO EMPTY-LAND ASSUMPTION -> degraded does not mean unused
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: GIM identity and scope
-
-```ascii-master
-NAPCC -> original eight-mission architecture
-GIM -> adaptation plus mitigation mission
-ECOSYSTEMS -> forests, wetlands, mangroves and critical habitats
-LANDSCAPES -> agroforestry, social forestry and urban tree cover
-LIVELIHOODS -> forest-dependent households and local communities
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Target-versus-achievement gate
-
-```ascii-master
-OFFICIAL TARGET -> 5 mha cover increase
-OFFICIAL TARGET -> quality improvement over another 5 mha
-OFFICIAL TARGET -> livelihood income for about 3 million families
-ACHIEVEMENT CLAIM -> requires dated monitoring evidence
-RULE -> mission target is not actual output or outcome
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Convergence matrix
-
-```ascii-master
-GIM -> ecosystem-service mission objectives
-CAMPA -> diversion-triggered statutory finance
-MGNREGS -> eligible labour and asset channel
-CONVERGENCE -> align plans, sites and monitoring
-NO AUTOMATICITY -> institutions and accounts remain distinct
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Law metric and PYQ spine
-
-```ascii-master
-LAW -> 2023 statute plus February 2024 interim direction
-FINANCE -> approval, NPV, CA cost and fund flow
-MISSION -> GIM targets separated from achievements
-METRIC -> accrual, spend, output and outcome kept distinct
-AUDIT -> objective PYQs and failed live figures remain answer-free
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date the governing Act/rules/guidelines...
-```
+> Avoid irreplaceable natural-forest loss first; where diversion is lawfully approved, make every
+> levy, hectare and condition traceable, rights-compliant and accountable to long-term native
+> ecosystem recovery rather than plantation or expenditure totals alone.

@@ -1,1160 +1,874 @@
 ---
-title: "Earthquake Risk and Resilient Construction — Solved Practice Workbook"
+title: "Disaster Management 05 — Earthquake Risk and Resilient Construction — Solved Practice Workbook"
 topic_key: disaster-management-05
+reviewed: 2026-09-26
 ---
+
 # Earthquake Risk and Resilient Construction — Solved Practice Workbook
+
+## PYQ AND PRACTICE AUDIT
+
+- **Original MCQs:** exactly 40.
+- **Correct-option sequence:** `ABCD` repeated ten times.
+- **Coverage:** seismic risk, prediction boundary, magnitude/intensity, waves, zoning, microzonation, site effects, exposure, construction, six pillars, codes, retrofitting, non-structural safety, lifelines, institutions, preparedness, equity and evidence status.
+- **Verified direct Mains PYQ:** 2021 GS-III Q8.
+- **Verified application Mains PYQs:** 2019 GS-III Q8 and 2024 GS-III Q17.
+- **Verified application Prelims PYQ:** 2023 GS-I Q65, complete options reproduced. The official key is unavailable locally; the answer is expressly labelled inferred.
+- **Wording rule:** official-paper OCR is reproduced with line breaks joined and only obvious spacing/punctuation normalised.
+- **Key rule:** no descriptive official model answers exist. All Mains solutions are instructional.
+- **Ownership boundary:** physical plate-tectonics questions remain Geography-owned unless they directly test earthquake disaster risk or mitigation.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Seismic risk?
+### Q1. Which expression best captures earthquake disaster risk?
 
-A. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-B. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-C. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-D. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
+A. Seismic hazard interacting with exposure, vulnerable construction and limited capacity.
+B. Earthquake magnitude alone, because social and building conditions cannot alter physical shaking.
+C. Population density alone, because a low-hazard region with many people always has the greatest risk.
+D. The number of seismic observatories alone, because monitoring capacity determines expected damage.
 
-**Answer: A.**
-**Explanation:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q2. Which option preserves the risk or institutional boundary of Seismic risk?
+- **A — Correct.** Earthquake risk emerges from hazard, exposure, vulnerability and capacity.
+- **B — Incorrect.** Identical shaking can produce different losses under different building conditions.
+- **C — Incorrect.** Exposure without hazard and vulnerability does not determine risk alone.
+- **D — Incorrect.** Observatories support monitoring but do not determine structural vulnerability.
 
-A. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-B. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-C. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-D. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
+**Examiner trap:** equating earthquake magnitude with disaster magnitude.
 
-**Answer: B.**
-**Explanation:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q2. Which statement about earthquake prediction is correct?
 
-### Q3. Which statement uses Seismic risk without changing its hazard, mandate or status?
+A. Current seismic zoning predicts the next earthquake’s time and epicentre within each zone.
+B. Earthquakes cannot currently be predicted precisely in magnitude, place and time.
+C. A dense observatory network prevents rupture by releasing accumulated stress gradually.
+D. Rapid event information from BhooKamp constitutes a deterministic advance prediction.
 
-A. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-B. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-C. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-D. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Zoning represents broad hazard, not event prediction.
+- **B — Correct.** This is the explicit canonical scientific boundary.
+- **C — Incorrect.** Monitoring does not prevent tectonic rupture.
+- **D — Incorrect.** BhooKamp provides information after detection.
 
-### Q4. Which option avoids the standard UPSC close-option trap about Seismic risk?
+**Examiner trap:** confusing monitoring, early warning and prediction.
 
-A. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-B. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-C. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-D. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
+### Q3. Which statement correctly distinguishes magnitude and intensity?
 
-**Answer: D.**
-**Explanation:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Magnitude varies by neighbourhood, while intensity is one source-energy value for the entire event.
+B. Both measure source energy, but intensity is used only for earthquakes below magnitude five.
+C. Magnitude estimates source energy; intensity records observed shaking and effects at particular places.
+D. Intensity is measured only by instruments, while magnitude comes from eyewitness damage reports and surveys.
 
-### Q5. Which statement correctly identifies Prediction boundary?
+**Answer: C**
 
-A. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-B. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-C. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-D. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
+- **A — Incorrect.** It reverses the concepts.
+- **B — Incorrect.** Intensity is not a small-event magnitude scale.
+- **C — Correct.** One event can have differing intensities across locations.
+- **D — Incorrect.** Magnitude is instrumentally estimated; intensity uses observed effects.
 
-**Answer: A.**
-**Explanation:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** treating two measurement dimensions as interchangeable scales.
 
-### Q6. Which option preserves the risk or institutional boundary of Prediction boundary?
+### Q4. Which statement about seismic body waves is correct?
 
-A. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-B. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-C. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-D. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
+A. S-waves travel faster and therefore reach a seismograph before P-waves.
+B. P-waves have transverse particle motion and cannot pass through liquids.
+C. P-waves and S-waves arrive together because both originate at the same focus and travel through rock.
+D. P-waves are faster and compressional; S-waves are slower and involve transverse motion.
 
-**Answer: B.**
-**Explanation:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q7. Which statement uses Prediction boundary without changing its hazard, mandate or status?
+- **A — Incorrect.** P-waves arrive first.
+- **B — Incorrect.** It attributes S-wave properties to P-waves.
+- **C — Incorrect.** Different velocities create different arrival times.
+- **D — Correct.** It states the basic propagation and particle-motion distinction.
 
-A. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-B. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-C. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-D. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
+**Examiner trap:** remembering “primary” and “secondary” without the motion difference.
 
-**Answer: C.**
-**Explanation:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q5. Under the operative Indian seismic-zoning framework:
 
-### Q8. Which option avoids the standard UPSC close-option trap about Prediction boundary?
+A. IS 1893 (Part 1): 2016 divides India into Zones II, III, IV and V, with Zone V highest.
+B. India uses five zones numbered I–V, and Zone I carries the highest design hazard.
+C. every building in one zone has identical expected damage regardless of site and construction.
+D. a zone classification predicts the date, epicentre and magnitude of the next earthquake.
 
-A. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-B. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-C. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-D. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Correct.** The current checked standard retains four zones, II–V.
+- **B — Incorrect.** Zone I is absent from the operative four-zone scheme.
+- **C — Incorrect.** Site effects and building vulnerability vary within a zone.
+- **D — Incorrect.** Zoning is not prediction.
 
-### Q9. Which statement correctly identifies Magnitude and intensity?
+**Examiner trap:** using an obsolete or withdrawn zonation.
 
-A. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-B. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-C. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-D. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
+### Q6. Which statement reflects the current seismic-zonation status?
 
-**Answer: A.**
-**Explanation:** Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. The proposed revised seismic zonation automatically replaced IS 1893:2016 nationwide in 2025.
+B. The proposed revision was withdrawn in March 2026, leaving IS 1893 (Part 1): 2016 operative.
+C. The withdrawal abolished seismic zoning and left building design without a national standard.
+D. State Governments may choose whether earthquake-resistant design standards have any relevance.
 
-### Q10. Which option preserves the risk or institutional boundary of Magnitude and intensity?
+**Answer: B**
 
-A. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-B. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-C. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-D. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
+- **A — Incorrect.** The proposed revision did not remain operative.
+- **B — Correct.** This is the status recorded in the official MoES reply of 1 April 2026.
+- **C — Incorrect.** The 2016 standard remained current.
+- **D — Incorrect.** Implementation is not equivalent to optional relevance.
 
-**Answer: B.**
-**Explanation:** Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** converting announcement of a revision into enduring legal/technical effect.
 
-### Q11. Which statement uses Magnitude and intensity without changing its hazard, mandate or status?
+### Q7. Which dated statement about India’s seismic exposure is supported by the official 2021 source?
 
-A. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-B. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-C. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-D. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
+A. Exactly 59% of buildings comply with seismic codes in Zones III–V.
+B. Zone V alone covers about 59% of India’s landmass under the operative national standard.
+C. About 59% of India’s landmass lies in seismic Zones III–V.
+D. About 59% of earthquake losses occur in the Himalayan belt each year.
 
-**Answer: C.**
-**Explanation:** Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q12. Which option avoids the standard UPSC close-option trap about Magnitude and intensity?
+- **A — Incorrect.** The figure concerns land area, not building compliance.
+- **B — Incorrect.** Zone V was approximately 11%, not 59%.
+- **C — Correct.** It preserves the subject, date and approximate character of the statistic.
+- **D — Incorrect.** The source does not make that annual loss claim.
 
-A. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-B. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-C. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-D. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
+**Examiner trap:** retaining a number while changing its unit or denominator.
 
-**Answer: D.**
-**Explanation:** Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q8. Which region set best reflects Zone V coverage described in the canonical owner?
 
-### Q13. Which statement correctly identifies Zoning and prediction?
+A. All of peninsular India, Lakshadweep and the entire western coast.
+B. Only the western and central Himalayas, excluding the North-East and islands.
+C. Every State capital and all cities with a Municipal Corporation.
+D. North-East India and Andaman-Nicobar, plus specified northern and western areas.
 
-A. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-B. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-C. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-D. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Peninsular India is not wholly Zone V.
+- **B — Incorrect.** The North-East and Andaman-Nicobar are central Zone V components.
+- **C — Incorrect.** Municipal status does not define seismic zone.
+- **D — Correct.** It reflects the broad distribution stated in the source.
 
-### Q14. Which option preserves the risk or institutional boundary of Zoning and prediction?
+**Examiner trap:** treating the Himalayan belt as India’s only high-hazard area.
 
-A. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-B. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-C. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-D. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
+### Q9. Microzonation is primarily used to:
 
-**Answer: B.**
-**Explanation:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. refine broad hazard through local soil, rock, slope, groundwater and built form.
+B. predict the exact time and magnitude of the next earthquake within each municipal ward.
+C. certify every existing building as safe once its neighbourhood receives a microzone label.
+D. replace site investigation for hospitals, dams and other critical structures.
 
-### Q15. Which statement uses Zoning and prediction without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-B. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-C. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-D. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
+- **A — Correct.** It identifies local variation that broad zones cannot show.
+- **B — Incorrect.** Microzonation is not deterministic prediction.
+- **C — Incorrect.** Area classification is not building certification.
+- **D — Incorrect.** Critical projects still require site-specific investigation.
 
-**Answer: C.**
-**Explanation:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** treating finer mapping as complete structural assessment.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Zoning and prediction?
+### Q10. Why can local soil conditions change earthquake damage?
 
-A. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-B. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-C. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-D. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
+A. Soil conditions alter earthquake magnitude at the source after rupture.
+B. Local deposits can amplify shaking or contribute to site-specific ground failure.
+C. Soft soil prevents seismic waves from reaching buildings above it.
+D. Site effects matter only in Zone V and disappear in lower zones.
 
-**Answer: D.**
-**Explanation:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q17. Which statement correctly identifies Site effects and microzonation?
+- **A — Incorrect.** Site conditions affect local response, not source magnitude.
+- **B — Correct.** Local geology can modify shaking and secondary effects.
+- **C — Incorrect.** Soft deposits can amplify rather than block shaking.
+- **D — Incorrect.** Site effects can matter across zones.
 
-A. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-B. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-C. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-D. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
+**Examiner trap:** using regional zone as a substitute for local ground conditions.
 
-**Answer: A.**
-**Explanation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q11. Which group represents concentrated earthquake exposure?
 
-### Q18. Which option preserves the risk or institutional boundary of Site effects and microzonation?
+A. Only tectonic faults and plate boundaries without people or assets.
+B. Seismic observatories, hazard maps and technical standards alone.
+C. Housing, schools, hospitals, bridges, utilities and hazardous facilities in risk areas.
+D. Insurance contracts and mitigation funds held outside the affected region.
 
-A. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-B. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-C. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-D. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Faults are hazard sources rather than exposed assets.
+- **B — Incorrect.** These are knowledge and governance inputs.
+- **C — Correct.** These people and assets can suffer direct and cascading loss.
+- **D — Incorrect.** Financial instruments manage consequences but are not physical exposure.
 
-### Q19. Which statement uses Site effects and microzonation without changing its hazard, mandate or status?
+**Examiner trap:** confusing hazard location with exposed systems.
 
-A. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-B. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-C. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-D. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
+### Q12. Constructed vulnerability is best illustrated by:
 
-**Answer: C.**
-**Explanation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. movement of the Indian plate relative to the Eurasian plate.
+B. the arrival of P-waves before more damaging shaking.
+C. a broad Zone IV classification on a national map.
+D. Weak materials, irregular form, poor connections, workmanship and unsafe alteration.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Site effects and microzonation?
+**Answer: D**
 
-A. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-B. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-C. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-D. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
+- **A — Incorrect.** This is tectonic hazard.
+- **B — Incorrect.** This is wave propagation.
+- **C — Incorrect.** This is regional hazard classification.
+- **D — Correct.** These human-controlled conditions create structural susceptibility.
 
-**Answer: D.**
-**Explanation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** attributing all collapse to the earthquake rather than the built environment.
 
-### Q21. Which statement correctly identifies Exposure?
+### Q13. Which set gives NDMA’s six pillars of seismic safety?
 
-A. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-B. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-C. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-D. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
+A. Safe new construction; priority retrofitting; enforcement; awareness; capacity development; emergency response.
+B. Prediction; evacuation; compensation; insurance; international aid; permanent relocation.
+C. Seismic observation; cyclone tracking; tsunami warning; flood forecast; drought monitoring; fire control and recovery.
+D. Hazard declaration; damage assessment; cash relief; temporary shelter; reconstruction; litigation.
 
-**Answer: A.**
-**Explanation:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q22. Which option preserves the risk or institutional boundary of Exposure?
+- **A — Correct.** It reproduces the six-pillar framework.
+- **B — Incorrect.** Prediction is unavailable and the list is not the framework.
+- **C — Incorrect.** It mixes hazard services rather than seismic-safety pillars.
+- **D — Incorrect.** It is largely post-impact and omits core mitigation.
 
-A. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-B. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-C. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-D. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
+**Examiner trap:** substituting a generic disaster-cycle list for the named framework.
 
-**Answer: B.**
-**Explanation:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q14. Why must new construction and retrofitting be treated separately?
 
-### Q23. Which statement uses Exposure without changing its hazard, mandate or status?
+A. New construction concerns only rural areas, whereas retrofitting is legally restricted to cities.
+B. New construction embeds safety before use; retrofitting addresses existing occupied stock.
+C. Retrofitting predicts future earthquakes, whereas new construction only reduces post-event recovery time.
+D. A new-building code automatically strengthens all existing buildings in the same jurisdiction.
 
-A. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-B. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-C. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-D. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Both tasks occur in rural and urban settings.
+- **B — Correct.** Their timing, cost, disruption and technical pathways differ.
+- **C — Incorrect.** Neither task predicts earthquakes.
+- **D — Incorrect.** Existing stock requires assessment and physical intervention.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Exposure?
+**Examiner trap:** treating code adoption as retrospective safety.
 
-A. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-B. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-C. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-D. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
+### Q15. The National Building Code is best understood as:
 
-**Answer: D.**
-**Explanation:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. proof that every building constructed after publication is earthquake-safe.
+B. a substitute for local bye-laws, design review, inspection and construction-quality control.
+C. a national technical framework whose safety effect depends on adoption and compliance.
+D. a post-disaster compensation schedule for collapsed residential structures.
 
-### Q25. Which statement correctly identifies Constructed vulnerability?
+**Answer: C**
 
-A. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-B. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-C. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-D. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
+- **A — Incorrect.** Publication does not prove building-specific compliance.
+- **B — Incorrect.** Local regulatory and inspection mechanisms remain necessary.
+- **C — Correct.** It supplies guidance whose implementation must be traced.
+- **D — Incorrect.** It is not a relief instrument.
 
-**Answer: A.**
-**Explanation:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** equating existence of a code with enforcement.
 
-### Q26. Which option preserves the risk or institutional boundary of Constructed vulnerability?
+### Q16. Which sequence best represents the seismic compliance chain?
 
-A. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-B. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-C. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-D. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
+A. Hazard map → relief grant → rescue deployment → building permit → retrofit.
+B. Architect licence → earthquake forecast → evacuation → damage map → insurance.
+C. Building code → national press release → automatic safe construction → zero collapse.
+D. Code adoption → competent design → trained construction → inspection → maintenance.
 
-**Answer: B.**
-**Explanation:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q27. Which statement uses Constructed vulnerability without changing its hazard, mandate or status?
+- **A — Incorrect.** It scrambles pre- and post-disaster functions.
+- **B — Incorrect.** Prediction is unavailable and the sequence is incoherent.
+- **C — Incorrect.** Publication cannot automate compliance or guarantee zero collapse.
+- **D — Correct.** Failure at any link can defeat the formal standard.
 
-A. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-B. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-C. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-D. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
+**Examiner trap:** checking only the design document and not construction or maintenance.
 
-**Answer: C.**
-**Explanation:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q17. Ductility in earthquake-resistant design refers to:
 
-### Q28. Which option avoids the standard UPSC close-option trap about Constructed vulnerability?
+A. capacity to deform and dissipate energy without sudden brittle collapse.
+B. complete rigidity that prevents any movement during strong shaking.
+C. the ability of a foundation to increase earthquake warning lead time and reduce source magnitude.
+D. a zoning method assigning one intensity and one damage result to every building.
 
-A. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-B. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-C. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-D. Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Correct.** Controlled deformation can preserve life safety under severe demand.
+- **B — Incorrect.** Excessive brittleness can cause sudden failure.
+- **C — Incorrect.** Structural behaviour does not alter warning lead time.
+- **D — Incorrect.** Ductility is not a mapping method.
 
-### Q29. Which statement correctly identifies Structural mitigation?
+**Examiner trap:** assuming a safe building must remain perfectly rigid and undamaged.
 
-A. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-B. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-C. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-D. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
+### Q18. Which design combination most directly reduces concentration of seismic forces?
 
-**Answer: A.**
-**Explanation:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Heavy overhangs, irregular setbacks and discontinuous columns.
+B. Regular form, a continuous load path and connected lateral-resisting elements.
+C. Large unanchored rooftop tanks and flexible utility connections without shut-offs.
+D. Open ground storeys introduced without seismic analysis or strengthening.
 
-### Q30. Which option preserves the risk or institutional boundary of Structural mitigation?
+**Answer: B**
 
-A. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-B. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-C. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-D. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
+- **A — Incorrect.** Irregularities can concentrate demand.
+- **B — Correct.** Regularity, continuity and connections support predictable load transfer.
+- **C — Incorrect.** Unanchored heavy components create injury and service risks.
+- **D — Incorrect.** An unaddressed open storey can create vulnerability.
 
-**Answer: B.**
-**Explanation:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** identifying architectural openness with structural resilience.
 
-### Q31. Which statement uses Structural mitigation without changing its hazard, mandate or status?
+### Q19. Which is primarily a non-structural seismic-safety measure?
 
-A. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-B. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-C. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-D. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
+A. Redesigning the main lateral-load-resisting frame.
+B. Strengthening foundations after a detailed structural assessment.
+C. Anchoring shelves, tanks, ceilings, equipment and utility connections.
+D. Adding structural walls according to an engineer’s retrofit design.
 
-**Answer: C.**
-**Explanation:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q32. Which option avoids the standard UPSC close-option trap about Structural mitigation?
+- **A — Incorrect.** This is structural design.
+- **B — Incorrect.** Foundation strengthening is structural work.
+- **C — Correct.** It addresses components whose failure can injure occupants or disable services.
+- **D — Incorrect.** Structural walls form part of the load-resisting system.
 
-A. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-B. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-C. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-D. Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
+**Examiner trap:** assuming only frame collapse causes earthquake casualties or disruption.
 
-**Answer: D.**
-**Explanation:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q20. A hospital remains standing after an earthquake but loses power, oxygen, water and access. This demonstrates that:
 
-### Q33. Which statement correctly identifies Non-structural mitigation?
+A. seismic safety depends only on the building’s external appearance.
+B. the hospital was resilient because collapse was avoided.
+C. non-structural systems are irrelevant once the main frame survives.
+D. Life safety and service continuity are distinct dimensions of resilience.
 
-A. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-B. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-C. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-D. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Appearance does not establish structural or functional performance.
+- **B — Incorrect.** Non-collapse is important but does not prove continuity.
+- **C — Incorrect.** Equipment and utilities can determine hospital functionality.
+- **D — Correct.** Critical infrastructure must remain usable as well as standing.
 
-### Q34. Which option preserves the risk or institutional boundary of Non-structural mitigation?
+**Examiner trap:** measuring resilience only through collapse.
 
-A. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-B. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-C. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-D. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
+### Q21. The National Centre for Seismology is principally responsible for:
 
-**Answer: B.**
-**Explanation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Continuous earthquake monitoring, event location and parameter dissemination.
+B. adopting municipal building bye-laws and issuing completion certificates.
+C. financing all State retrofitting projects through the national mitigation fund.
+D. approving land-use plans for every district located in Zones IV and V.
 
-### Q35. Which statement uses Non-structural mitigation without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-B. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-C. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-D. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
+- **A — Correct.** NCS/MoES operates the national seismic monitoring function.
+- **B — Incorrect.** Building regulation is a State/local function.
+- **C — Incorrect.** NCS is not the statutory financing authority.
+- **D — Incorrect.** It does not approve district land use.
 
-**Answer: C.**
-**Explanation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** converting a scientific agency into a regulator.
 
-### Q36. Which option avoids the standard UPSC close-option trap about Non-structural mitigation?
+### Q22. What was the latest official NSN size verified for this review?
 
-A. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-B. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-C. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-D. Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
+A. 168 observatories as a permanent statutory ceiling.
+B. 174 seismological observatories as reported on 13 August 2026.
+C. 170 observatories with no later official update.
+D. 200 observatories, all equipped for nationwide earthquake prediction.
 
-**Answer: D.**
-**Explanation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q37. Which statement correctly identifies Code-compliant design?
+- **A — Incorrect.** Earlier snapshots do not create a statutory ceiling.
+- **B — Correct.** The August 2026 MoES/PIB reply reported 174.
+- **C — Incorrect.** The April 2026 figure of 170 was superseded.
+- **D — Incorrect.** The number is unsupported and monitoring is not prediction.
 
-A. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-B. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-C. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-D. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
+**Examiner trap:** freezing a time-sensitive network count.
 
-**Answer: A.**
-**Explanation:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q23. Which statement correctly describes India’s earthquake early-warning status in the August 2026 official reply?
 
-### Q38. Which option preserves the risk or institutional boundary of Code-compliant design?
+A. A nationwide system guarantees at least one minute of warning for every location.
+B. The system predicts rupture before it begins by analysing long-term plate motion.
+C. NCS was developing a pilot EEW system using P-waves for possible brief lead time.
+D. EEW had replaced the National Seismological Network and BhooKamp.
 
-A. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-B. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-C. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-D. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Lead time depends on distance and may be only seconds or negligible.
+- **B — Incorrect.** EEW acts after rupture begins; it is not prediction.
+- **C — Correct.** This preserves the official status and technical boundary.
+- **D — Incorrect.** Monitoring and information systems remain part of the architecture.
 
-### Q39. Which statement uses Code-compliant design without changing its hazard, mandate or status?
+**Examiner trap:** promoting a pilot into universal operational coverage.
 
-A. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-B. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-C. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-D. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
+### Q24. BhooKamp should be described as:
 
-**Answer: C.**
-**Explanation:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. a municipal application for certifying building-code compliance.
+B. a BIS platform for publishing and withdrawing national seismic design standards.
+C. an earthquake-prediction service issuing guaranteed advance warnings.
+D. an NCS/MoES application providing rapid information on detected earthquakes.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Code-compliant design?
+**Answer: D**
 
-A. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-B. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-C. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-D. BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
+- **A — Incorrect.** It has no building-certification function.
+- **B — Incorrect.** BIS manages standards, not this app.
+- **C — Incorrect.** It does not predict earthquakes.
+- **D — Correct.** It disseminates event information from the monitoring system.
 
-**Answer: D.**
-**Explanation:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** treating rapid information as forecast.
 
-### Q41. Which statement correctly identifies Ductility concept?
+### Q25. Which statement about BMTPC is correct?
 
-A. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-B. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-C. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-D. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
+A. It promotes disaster-resistant construction and produces India’s Vulnerability Atlas.
+B. It is the statutory command authority for NDRF battalions after an earthquake.
+C. It issues earthquake forecasts and locates every event above magnitude three.
+D. It approves State disaster plans and national mitigation-fund releases.
 
-**Answer: A.**
-**Explanation:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q42. Which option preserves the risk or institutional boundary of Ductility concept?
+- **A — Correct.** These are its relevant technology and vulnerability functions.
+- **B — Incorrect.** NDRF has a separate statutory command structure.
+- **C — Incorrect.** NCS performs seismic monitoring.
+- **D — Incorrect.** BMTPC is not a disaster authority or finance committee.
 
-A. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-B. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-C. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-D. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
+**Examiner trap:** using the source’s erroneous “BMPTC” spelling.
 
-**Answer: B.**
-**Explanation:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q26. The Vulnerability Atlas of India, third edition 2019, is best used to:
 
-### Q43. Which statement uses Ductility concept without changing its hazard, mandate or status?
+A. predict the exact date and magnitude of an earthquake in each district.
+B. compare hazard and housing-vulnerability patterns as a planning input.
+C. certify that every mapped building complies with current seismic standards.
+D. replace microzonation and site-specific assessment for critical facilities.
 
-A. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-B. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-C. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-D. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** An atlas is not a prediction instrument.
+- **B — Correct.** It supports risk-sensitive planning across hazards and housing stock.
+- **C — Incorrect.** Mapping does not establish building compliance.
+- **D — Incorrect.** More detailed local and site assessment remains necessary.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Ductility concept?
+**Examiner trap:** treating a vulnerability atlas as a structure-level safety audit.
 
-A. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-B. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-C. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-D. Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
+### Q27. Who bears the stated responsibility for identifying priority and lifeline structures for retrofitting?
 
-**Answer: D.**
-**Explanation:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. The National Centre for Seismology through its earthquake-monitoring offices.
+B. The National Disaster Response Force through its specialist response battalions.
+C. State Governments through ULB and PRI implementation routes.
+D. Private insurers acting through underwriting without public prioritisation.
 
-### Q45. Which statement correctly identifies Retrofitting boundary?
+**Answer: C**
 
-A. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-B. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-C. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-D. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
+- **A — Incorrect.** NCS monitors earthquakes rather than selecting the retrofit inventory.
+- **B — Incorrect.** NDRF is a response force.
+- **C — Correct.** The canonical source assigns the identification responsibility to States.
+- **D — Incorrect.** Public safety prioritisation cannot be left solely to insurers.
 
-**Answer: A.**
-**Explanation:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** attributing every national guideline to Union execution.
 
-### Q46. Which option preserves the risk or institutional boundary of Retrofitting boundary?
+### Q28. Which division of responsibility is most accurate?
 
-A. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-B. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-C. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-D. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
+A. States draft all national seismic standards, while BIS conducts municipal inspections.
+B. NCS approves structural drawings, while DDMAs operate the national seismic network.
+C. ULBs issue moment magnitudes, while MoES grants local building completion certificates.
+D. National bodies set standards/guidance; States and local bodies enforce and implement.
 
-**Answer: B.**
-**Explanation:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q47. Which statement uses Retrofitting boundary without changing its hazard, mandate or status?
+- **A — Incorrect.** It reverses standard-setting and local implementation.
+- **B — Incorrect.** NCS and DDMAs have different scientific and administrative roles.
+- **C — Incorrect.** Neither role pairing is correct.
+- **D — Correct.** It captures the institutional division emphasised in the canonical owner.
 
-A. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-B. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-C. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-D. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
+**Examiner trap:** writing “the government” without assigning the responsible level.
 
-**Answer: C.**
-**Explanation:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q29. Risk-sensitive land use requires:
 
-### Q48. Which option avoids the standard UPSC close-option trap about Retrofitting boundary?
+A. connecting seismic/site information to density, facility location, access and development control.
+B. allowing unrestricted construction wherever no damaging earthquake occurred in recent memory.
+C. using a national zone map without local soil, slope or emergency-access information.
+D. relocating every settlement in Zones IV and V irrespective of livelihood and feasibility.
 
-A. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-B. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-C. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-D. Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Correct.** Land-use decisions must translate hazard into development choices.
+- **B — Incorrect.** Short historical memory does not remove seismic risk.
+- **C — Incorrect.** Broad zoning alone can miss local amplification and access constraints.
+- **D — Incorrect.** Blanket relocation is neither necessary nor equitable.
 
-### Q49. Which statement correctly identifies Non-structural components?
+**Examiner trap:** equating land-use risk reduction with universal relocation.
 
-A. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-B. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-C. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-D. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
+### Q30. In the canonical earthquake-response account, the Incident Response System is coordinated:
 
-**Answer: A.**
-**Explanation:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. by BIS through its building-code certification network.
+B. by local administration through the Emergency Operations Centre.
+C. by BMTPC through the Vulnerability Atlas platform.
+D. by NCS through seismological observatories after each event.
 
-### Q50. Which option preserves the risk or institutional boundary of Non-structural components?
+**Answer: B**
 
-A. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-B. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-C. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-D. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
+- **A — Incorrect.** BIS is a standards body.
+- **B — Correct.** Local administration and EOCs coordinate response roles.
+- **C — Incorrect.** BMTPC does not command incident response.
+- **D — Incorrect.** NCS supplies seismic information, not local incident command.
 
-**Answer: B.**
-**Explanation:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** confusing technical information with response authority.
 
-### Q51. Which statement uses Non-structural components without changing its hazard, mandate or status?
+### Q31. Which action is preparedness rather than structural mitigation?
 
-A. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-B. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-C. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-D. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
+A. Designing a new bridge for the applicable seismic demand.
+B. Strengthening an existing deficient hospital after an engineering assessment.
+C. Drills, EOC role rehearsal and training for schools, professionals and volunteers.
+D. Anchoring a rooftop tank and securing hazardous internal equipment.
 
-**Answer: C.**
-**Explanation:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q52. Which option avoids the standard UPSC close-option trap about Non-structural components?
+- **A — Incorrect.** This is structural mitigation for new construction.
+- **B — Incorrect.** This is retrofitting.
+- **C — Correct.** Training, drills and incident-role readiness are preparedness.
+- **D — Incorrect.** Anchoring is non-structural mitigation.
 
-A. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-B. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-C. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-D. Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
+**Examiner trap:** classifying every pre-disaster action as the same type of mitigation.
 
-**Answer: D.**
-**Explanation:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q32. Which action belongs primarily to the immediate post-earthquake response?
 
-### Q53. Which statement correctly identifies Lifeline resilience?
+A. Revising land-use regulations before approving future development.
+B. Retrofitting a deficient school before the next seismic event.
+C. Training masons in earthquake-resistant construction methods.
+D. Damage triage, search and rescue, medical aid and utility-safety checks.
 
-A. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-B. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-C. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-D. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** This is prospective risk reduction.
+- **B — Incorrect.** This is corrective mitigation.
+- **C — Incorrect.** This is capacity development.
+- **D — Correct.** These are immediate life-safety and stabilisation tasks.
 
-### Q54. Which option preserves the risk or institutional boundary of Lifeline resilience?
+**Examiner trap:** mixing pre-event vulnerability reduction with post-impact response.
 
-A. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-B. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-C. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-D. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
+### Q33. Which use of Indian earthquake examples is defensible?
 
-**Answer: B.**
-**Explanation:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Bhuj 2001 illustrates built-environment loss; Latur 1993 and Koyna show peninsular India is not aseismic.
+B. Bhuj proves only Himalayan States face damaging earthquakes, while Latur is outside India’s seismic system.
+C. Koyna falls within the 2021 PYQ’s preceding three decades and should replace all more recent examples.
+D. Each event has the same tectonic cause, building stock and recovery context.
 
-### Q55. Which statement uses Lifeline resilience without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-B. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-C. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-D. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
+- **A — Correct.** It uses the examples for bounded spatial and vulnerability propositions.
+- **B — Incorrect.** Bhuj is in western India and Latur is a peninsular counterexample.
+- **C — Incorrect.** Koyna predates that three-decade window.
+- **D — Incorrect.** The events should not be homogenised.
 
-**Answer: C.**
-**Explanation:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** adding unsourced casualty/magnitude figures or ignoring the PYQ time window.
 
-### Q56. Which option avoids the standard UPSC close-option trap about Lifeline resilience?
+### Q34. Why is seismic compliance an equity issue?
 
-A. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-B. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-C. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-D. Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
+A. Higher-income formal buildings are always outside mapped seismic zones.
+B. Informal households often have less access to engineers, permits, finance and retrofit support.
+C. Building-code enforcement affects only public monuments and never residential safety.
+D. Equal code text guarantees equal ability to comply across all households and settlements.
 
-**Answer: D.**
-**Explanation:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q57. Which statement correctly identifies Risk-sensitive land use?
+- **A — Incorrect.** Hazard zones contain diverse income and building groups.
+- **B — Correct.** Unequal access to technical and financial capacity produces unequal safety.
+- **C — Incorrect.** Residential construction is central to life safety.
+- **D — Incorrect.** Formal equality can coexist with unequal implementation capacity.
 
-A. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-B. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-C. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-D. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
+**Examiner trap:** treating non-compliance only as individual negligence.
 
-**Answer: A.**
-**Explanation:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q35. Which statement about seismic-retrofitting finance is most defensible?
 
-### Q58. Which option preserves the risk or institutional boundary of Risk-sensitive land use?
+A. A dedicated nationwide seismic-retrofit programme under NDMF has verified universal coverage.
+B. The canonical source establishes current State-wise retrofit spending and completion rates.
+C. Mitigation funds are the right ex-ante route, but seismic allocations and outcomes need dated proof.
+D. Response funds should be treated as proof that vulnerable buildings were strengthened before impact.
 
-A. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-B. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-C. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-D. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** No such nationwide verified programme is established in the checked sources.
+- **B — Incorrect.** The source does not provide current State-wise performance.
+- **C — Correct.** It states the valid financing route and evidence limit.
+- **D — Incorrect.** Response finance is not proof of prior mitigation.
 
-### Q59. Which statement uses Risk-sensitive land use without changing its hazard, mandate or status?
+**Examiner trap:** filling a financing evidence gap with an assumed scheme.
 
-A. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-B. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-C. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-D. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
+### Q36. Which statement follows the safety-outcome firewall?
 
-**Answer: C.**
-**Explanation:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Publication of IS 1893 proves every local authority has adopted and enforced it.
+B. Identification of a hospital for retrofitting proves the strengthening work is complete.
+C. A larger seismic network proves that earthquake casualties have declined because of monitoring.
+D. Each claim proves its own rung; compliance, completion and performance need separate proof.
 
-### Q60. Which option avoids the standard UPSC close-option trap about Risk-sensitive land use?
+**Answer: D**
 
-A. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-B. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-C. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-D. Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
+- **A — Incorrect.** Standard publication is not local adoption or enforcement.
+- **B — Incorrect.** Identification precedes design, finance, execution and verification.
+- **C — Incorrect.** Monitoring input does not establish causal outcome.
+- **D — Correct.** It preserves the evidence chain.
 
-**Answer: D.**
-**Explanation:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** jumping from policy or capacity to safety.
 
-### Q61. Which statement correctly identifies Compliance chain?
+### Q37. Which policy sequence best reduces risk in existing public buildings?
 
-A. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-B. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-C. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-D. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
+A. Inventory → screening → assessment → risk-based priority → retrofit → verification.
+B. Earthquake forecast → evacuation → building permit → hazard map → post-event audit.
+C. Zone notification → automatic certification → insurance → reconstruction → maintenance.
+D. Public awareness → declaration of safety → removal from the retrofit list → no further review.
 
-**Answer: A.**
-**Explanation:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q62. Which option preserves the risk or institutional boundary of Compliance chain?
+- **A — Correct.** It moves from evidence to prioritised, verified intervention.
+- **B — Incorrect.** Prediction is unavailable and the sequence is misplaced.
+- **C — Incorrect.** A zone does not automatically certify a building.
+- **D — Incorrect.** Awareness cannot replace assessment and physical work.
 
-A. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-B. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-C. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-D. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
+**Examiner trap:** confusing an inventory or audit with a completed retrofit.
 
-**Answer: B.**
-**Explanation:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q38. Which statement correctly relates seismic zoning to an individual building?
 
-### Q63. Which statement uses Compliance chain without changing its hazard, mandate or status?
+A. Zone V status proves that every building will collapse during the next earthquake.
+B. A zone supplies broad design hazard; site conditions and construction determine performance.
+C. A Zone II label removes the need for structural design, inspection and non-structural safety.
+D. Microzonation fixes the exact future intensity and therefore guarantees the required retrofit.
 
-A. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-B. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-C. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-D. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Hazard classification does not determine individual fate.
+- **B — Correct.** It combines broad hazard with local and building-specific evidence.
+- **C — Incorrect.** Lower relative hazard is not zero hazard or automatic safety.
+- **D — Incorrect.** Microzonation is not event prediction.
 
-### Q64. Which option avoids the standard UPSC close-option trap about Compliance chain?
+**Examiner trap:** converting a regional map into a deterministic building verdict.
 
-A. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-B. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-C. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-D. Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
+### Q39. Which conclusion about the National Seismological Network is correct?
 
-**Answer: D.**
-**Explanation:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. More observatories make deterministic earthquake prediction scientifically settled.
+B. Network expansion automatically enforces building codes in every monitored district.
+C. The network reached 174 observatories by August 2026; prediction and building safety remain separate.
+D. The network’s sole purpose is to approve retrofitting designs for dams and hospitals.
 
-### Q65. Which statement correctly identifies Monitoring boundary?
+**Answer: C**
 
-A. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-B. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-C. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-D. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
+- **A — Incorrect.** More observations improve detection and knowledge, not deterministic prediction.
+- **B — Incorrect.** Code enforcement is a State/local governance function.
+- **C — Correct.** It distinguishes current monitoring capacity from other risk-reduction tasks.
+- **D — Incorrect.** NCS does not serve as the universal structural-approval authority.
 
-**Answer: A.**
-**Explanation:** The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** using monitoring growth as proof of unrelated policy outcomes.
 
-### Q66. Which option preserves the risk or institutional boundary of Monitoring boundary?
+### Q40. A city adopts the correct seismic code, but permits informal construction, skips inspections and leaves hospitals unretrofitted. What follows?
 
-A. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-B. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-C. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-D. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
+A. The code alone proves the city is resilient because the technical standard is adequate.
+B. Informal construction is safe if residents have experienced previous earthquakes.
+C. Hospital continuity can be restored after impact, so pre-event retrofitting is unnecessary.
+D. The standard exists, but compliance and existing-stock failures leave high risk.
 
-**Answer: B.**
-**Explanation:** The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q67. Which statement uses Monitoring boundary without changing its hazard, mandate or status?
+- **A — Incorrect.** A code has no protective effect without implementation.
+- **B — Incorrect.** Experience does not replace safe construction.
+- **C — Incorrect.** Critical facilities must be prepared to function during response.
+- **D — Correct.** It identifies the broken links in the compliance chain.
 
-A. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-B. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-C. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-D. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-
-**Answer: C.**
-**Explanation:** The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Monitoring boundary?
-
-A. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-B. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-C. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-D. The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-
-**Answer: D.**
-**Explanation:** The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q69. Which statement correctly identifies Institutional responsibility?
-
-A. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-B. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-C. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-D. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-
-**Answer: A.**
-**Explanation:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q70. Which option preserves the risk or institutional boundary of Institutional responsibility?
-
-A. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-B. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-C. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-D. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-
-**Answer: B.**
-**Explanation:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q71. Which statement uses Institutional responsibility without changing its hazard, mandate or status?
-
-A. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-B. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-C. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-D. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-
-**Answer: C.**
-**Explanation:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Institutional responsibility?
-
-A. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-B. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-C. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-D. Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-
-**Answer: D.**
-**Explanation:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q73. Which statement correctly identifies Equity and informality?
-
-A. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-B. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-C. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-D. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-
-**Answer: A.**
-**Explanation:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q74. Which option preserves the risk or institutional boundary of Equity and informality?
-
-A. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-B. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-C. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-D. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-
-**Answer: B.**
-**Explanation:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q75. Which statement uses Equity and informality without changing its hazard, mandate or status?
-
-A. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-B. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-C. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-D. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-
-**Answer: C.**
-**Explanation:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Equity and informality?
-
-A. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-B. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-C. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-D. Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-
-**Answer: D.**
-**Explanation:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q77. Which statement correctly identifies Safety-outcome firewall?
-
-A. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-B. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-C. Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-D. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-
-**Answer: A.**
-**Explanation:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q78. Which option preserves the risk or institutional boundary of Safety-outcome firewall?
-
-A. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-B. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-C. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-D. Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-
-**Answer: B.**
-**Explanation:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q79. Which statement uses Safety-outcome firewall without changing its hazard, mandate or status?
-
-A. Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-B. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-C. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-D. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-
-**Answer: C.**
-**Explanation:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Safety-outcome firewall?
-
-A. Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-B. Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-C. Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-D. A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
-
-**Answer: D.**
-**Explanation:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** treating code publication as a resilience outcome.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### PYQ ownership and evidence note
 
-The 2021 GS-III card is directly routed. The 2019 vulnerability and 2024 resilience cards are explicitly conservative cross-topic applications and do not displace Topic 01 ownership.
+The 2021 Mains question is directly routed to this topic. The 2023 objective question is a Geography-owned seismic-science application; its official options are complete, but no official 2018–2023 Prelims key is held locally, so the answer remains explicitly inferred. The 2019 and 2024 Mains questions are bounded applications owned primarily by Topic 01.
 
-### PYQ DEMAND CARD 1 — 2021 GS-III
+### PYQ 1 — 2021 GS-III Q8 — DIRECT
 
-**Demand:** Discuss India's vulnerability to earthquake hazards and use historical disaster examples.
+**Question — exact English wording with line-break normalisation:** “Discuss about the vulnerability of India to earthquake related hazards. Give examples including the salient features of major disasters caused by earthquakes in different parts of India during the last three decades.” **(10 marks, 150 words)**
 
-**Status:** Verified direct routing: Discuss · 10 marks · 150 words; examples must remain source-bounded and need no casualty or magnitude recital.
+**Model answer (within 150 words):**
 
-**Model solution:** **Seismic risk:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Zoning and prediction:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Site effects and microzonation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Exposure:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Constructed vulnerability:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Non-structural mitigation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Risk-sensitive land use:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Equity and informality:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+India’s earthquake vulnerability combines widespread hazard with dense exposure and weak construction.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2021 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+The Himalayan and North-Eastern region lies along active convergence, while Kachchh, parts of peninsular India and Andaman-Nicobar show that risk is not confined to the Himalaya. Under operative IS 1893:2016, Zones III–V cover about 59% of the landmass in the dated official estimate.
 
-**Detailed examiner-grade model answer:**
+Vulnerability arises from non-engineered buildings, weak code and bye-law enforcement, untrained professionals and masons, unsafe alteration, low awareness and fragile lifelines. Soft local soils, slopes and dense settlements can amplify damage.
 
-**Introduction and thesis:** **Seismic risk:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Zoning and prediction:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Site effects and microzonation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Exposure:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Constructed vulnerability:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Non-structural mitigation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Risk-sensitive land use:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Equity and informality:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Latur 1993** demonstrated damaging peninsular risk and the vulnerability of rural masonry. **Bhuj 2001** combined Kachchh hazard with severe built-environment and lifeline disruption; post-event GIS damage identification supported recovery.
 
-**Analytical body:**
+Since earthquakes cannot be precisely predicted, priorities are code-compliant new construction, risk-sensitive land use, microzonation, priority retrofitting, non-structural safety, drills and functional hospitals, transport and utilities.
 
-1. **Claim:** Demand: Discuss India's vulnerability to earthquake hazards and use historical disaster examples. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct routing: Discuss · 10 marks · 150 words; examples must remain source-bounded and need no casualty or magnitude recital. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+### PYQ 2 — 2023 PRELIMS GS-I Q65 — APPLICATION
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Question — official Set-A wording with line-break and punctuation normalisation:**
 
-**Qualified conclusion:** **Seismic risk:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Zoning and prediction:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Site effects and microzonation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Exposure:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Constructed vulnerability:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Non-structural mitigation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Risk-sensitive land use:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Equity and informality:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Consider the following statements:
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+1. In a seismograph, P waves are recorded earlier than S waves.
+2. In P waves, the individual particles vibrate to and fro in the direction of wave propagation, whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+Which of the statements given above are correct?
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2021 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-### PYQ DEMAND CARD 2 — 2019 GS-III
+**Key status:** Official question verified from the local 2023 Set-A paper. The official 2023 key is unavailable locally.
 
-**Demand:** Discuss vulnerability as a concept for defining disaster impacts and explain its types.
+**Inferred answer: C**
 
-**Status:** Verified direct ownership remains Topic 01; this conservative card supplies the earthquake site, construction, lifeline and social-vulnerability application.
+- **A — Incorrect.** Statement 2 is also scientifically correct.
+- **B — Incorrect.** Statement 1 is also correct because P-waves travel faster.
+- **C — Inferred correct.** P-waves arrive first and are longitudinal/compressional; S-waves are transverse.
+- **D — Incorrect.** Both statements correctly distinguish the waves.
 
-**Model solution:** **Seismic risk:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Site effects and microzonation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Exposure:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Constructed vulnerability:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Non-structural components:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Lifeline resilience:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Equity and informality:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Evidence caution:** This is an inferred educational answer, not an official UPSC-key claim.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2019 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+### PYQ 3 — 2019 GS-III Q8 — APPLICATION
 
-**Detailed examiner-grade model answer:**
+**Question — exact English wording with line-break normalisation:** “Vulnerability is an essential element for defining disaster impacts and its threat to people. How and in what ways can vulnerability to disasters be characterized? Discuss different types of vulnerability with reference to disasters.” **(10 marks, 150 words)**
 
-**Introduction and thesis:** **Seismic risk:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Site effects and microzonation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Exposure:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Constructed vulnerability:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Non-structural components:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Lifeline resilience:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Equity and informality:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer (within 150 words):**
 
-**Analytical body:**
+Vulnerability comprises conditions that make exposed people, buildings and systems susceptible to hazard impacts. Earthquakes show its multidimensional character clearly.
 
-1. **Claim:** Demand: Discuss vulnerability as a concept for defining disaster impacts and explain its types. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct ownership remains Topic 01; this conservative card supplies the earthquake site, construction, lifeline and social-vulnerability application. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+- **Physical:** weak masonry, irregular structures, soft storeys, unsafe sites and unanchored contents.
+- **Social:** age, disability, exclusion, low awareness and limited evacuation support.
+- **Economic:** poverty, informal housing, insecure livelihoods and inability to finance safe construction or retrofit.
+- **Environmental/site:** unstable slopes, soft or saturated ground and degraded open spaces.
+- **Institutional:** weak bye-laws, untrained or unlicensed professionals, poor inspection and unrehearsed plans.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+These vulnerabilities interact. A low-income household in non-engineered housing on amplifying soil may face greater loss than a compliant lifeline building under similar shaking.
 
-**Qualified conclusion:** **Seismic risk:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Site effects and microzonation:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Exposure:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Constructed vulnerability:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Non-structural components:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Lifeline resilience:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Equity and informality:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Therefore, vulnerability reduction requires zoning and microzonation, enforceable codes, trained construction, priority retrofitting, secured non-structural components, inclusive drills and continuity planning. A hazard zone identifies expected shaking; it does not determine building-level loss.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+### PYQ 4 — 2024 GS-III Q17 — APPLICATION
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Question — official-paper wording with obvious OCR spelling normalisation:** “What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also mention the global targets of Sendai Framework for Disaster Risk Reduction (2015–2030).” **(15 marks, 250 words)**
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2019 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Model answer (within 250 words):**
 
-### PYQ DEMAND CARD 3 — 2024 GS-III
+Disaster resilience is the ability of a system or community to resist, absorb, accommodate, adapt, transform and recover while preserving or restoring essential functions.
 
-**Demand:** Describe the elements that determine disaster resilience.
+It is determined through hazard, exposure, vulnerability and usable capacity, tested by actual performance. For earthquake risk, a resilience framework includes seismic zoning and microzonation; risk-sensitive land use; code-compliant new construction; assessment and retrofitting of deficient priority buildings; secured non-structural components; public awareness and drills; emergency response; and continuity of hospitals, transport, water, power and communications.
 
-**Status:** Verified direct ownership remains Topic 01; this card routes code compliance, ductility, retrofit, land use and lifeline continuity as seismic-resilience elements.
+The compliance chain is decisive: a code must be locally adopted, used by competent designers and trained workers, checked during construction and maintained. An observatory, audit or sanctioned retrofit is an input, not proof of safe performance. Redundancy and recovery planning are needed because a building may remain standing while its services fail.
 
-**Model solution:** **Structural mitigation:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Non-structural mitigation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Code-compliant design:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Ductility concept:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Retrofitting boundary:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Lifeline resilience:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Compliance chain:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. **Safety-outcome firewall:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Sendai’s targets are: **A** mortality, **B** affected people, **C** direct economic loss relative to global GDP, **D** critical-infrastructure damage and basic-service disruption, **E** national and local DRR strategies, **F** international cooperation for developing countries, and **G** multi-hazard warning and risk information.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2024 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Because earthquakes cannot be precisely predicted, resilience depends principally on pre-event vulnerability reduction and prepared response. Sendai is voluntary and non-binding; outcomes must be demonstrated through reduced collapse, continuity and equitable recovery.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Structural mitigation:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Non-structural mitigation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Code-compliant design:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Ductility concept:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Retrofitting boundary:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Lifeline resilience:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Compliance chain:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. **Safety-outcome firewall:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim:** Demand: Describe the elements that determine disaster resilience. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct ownership remains Topic 01; this card routes code compliance, ductility, retrofit, land use and lifeline continuity as seismic-resilience elements. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Structural mitigation:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Non-structural mitigation:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Code-compliant design:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Ductility concept:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Retrofitting boundary:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Lifeline resilience:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Compliance chain:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. **Safety-outcome firewall:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2024 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+## ORIGINAL MAINS PRACTICE
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish earthquake hazard, exposure, vulnerability and seismic risk. Answer in about 150 words.
+**Question:** Why is earthquake risk reduction primarily a problem of vulnerability and compliance rather than prediction? **Answer in 150 words.**
 
-**Model thesis:** **Claim:** Seismic risk. **Named evidence/example:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Prediction boundary. **Named evidence/example:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Exposure. **Named evidence/example:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Constructed vulnerability. **Named evidence/example:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Earthquakes cannot currently be predicted precisely in magnitude, place and time, and tectonic rupture cannot be prevented. Policy must therefore reduce the conditions that convert shaking into catastrophe.
 
-- Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-- Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-- Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings.
-- Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
+Vulnerability is largely constructed through unsafe siting, non-engineered buildings, irregular design, poor connections, deficient materials and workmanship, unauthorised alteration and weak maintenance. The governance chain can fail when seismic standards are not adopted in local bye-laws, professionals and masons lack training or licensing, plans are not inspected, and existing lifeline buildings remain unretrofitted.
 
-**Qualified conclusion:** **Claim:** Seismic risk. **Named evidence/example:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Prediction boundary. **Named evidence/example:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Exposure. **Named evidence/example:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Constructed vulnerability. **Named evidence/example:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Monitoring by NCS supplies rapid event information; it does not make buildings safe. The effective strategy is risk-sensitive land use, site investigation, code-compliant new construction, priority assessment and retrofitting, non-structural anchoring, public drills and continuity planning.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish earthquake hazard, exposure, vulnerability and seismic risk. Answer in about 150…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Seismic risk. **Named evidence/example:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Prediction boundary. **Named evidence/example:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Exposure. **Named evidence/example:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Constructed vulnerability. **Named evidence/example:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Seismic risk. **Named evidence/example:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Prediction boundary. **Named evidence/example:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Exposure. **Named evidence/example:** Dense settlements, informal housing, schools, hospitals, bridges, utilities and other lifelines create concentrated exposure when located in seismic-risk settings. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Constructed vulnerability. **Named evidence/example:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Distinguish earthquake hazard, exposure, vulnerability and seismic risk. Answer in about 150…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+Thus, the controllable variable is not occurrence but vulnerability. Earthquake preparedness succeeds when known standards become verified construction and functional performance.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Differentiate magnitude, intensity, seismic zoning and prediction. Answer in about 150 words.
+**Question:** Distinguish seismic zoning, microzonation and building-specific safety assessment. **Answer in 150 words.**
 
-**Model thesis:** **Claim:** Prediction boundary. **Named evidence/example:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Magnitude and intensity. **Named evidence/example:** Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and prediction. **Named evidence/example:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Site effects and microzonation. **Named evidence/example:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+**Seismic zoning** classifies broad regions by expected earthquake hazard and supplies a general design input. India’s operative IS 1893 (Part 1):2016 uses Zones II–V.
 
-- Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction.
-- Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations.
-- Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-- Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
+**Microzonation** refines this picture within a city or district by examining local soil, rock, slope, groundwater, fault proximity and built conditions that may amplify shaking or produce ground failure.
 
-**Qualified conclusion:** **Claim:** Prediction boundary. **Named evidence/example:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Magnitude and intensity. **Named evidence/example:** Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and prediction. **Named evidence/example:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Site effects and microzonation. **Named evidence/example:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Building-specific assessment** examines the actual site, structural system, materials, detailing, workmanship, alterations, deterioration and non-structural components of one facility. It determines whether audit or retrofit is needed.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Differentiate magnitude, intensity, seismic zoning and prediction. Answer in about 150 words.’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+The three scales are complementary. A Zone V label does not prove that every building will collapse, while a Zone II label does not certify safety. Microzonation cannot replace engineering investigation for a hospital or dam.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Prediction boundary. **Named evidence/example:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Magnitude and intensity. **Named evidence/example:** Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and prediction. **Named evidence/example:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Site effects and microzonation. **Named evidence/example:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Prediction boundary. **Named evidence/example:** Earthquake occurrence cannot be precisely predicted by magnitude, place and time, so risk reduction must concentrate on vulnerability, preparedness and continuity rather than deterministic prediction. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Magnitude and intensity. **Named evidence/example:** Magnitude describes the size or energy of an earthquake event, whereas intensity describes observed effects at a place; one event has one reported magnitude but can produce different intensities across locations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and prediction. **Named evidence/example:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Site effects and microzonation. **Named evidence/example:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Differentiate magnitude, intensity, seismic zoning and prediction. Answer in about 150 words.’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+Therefore, sound governance moves from regional hazard to local site conditions and finally to verified building performance, with each level informing design, land use and retrofit priorities.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Explain structural and non-structural measures for earthquake-risk reduction. Answer in about 250 words.
+**Question:** Explain NDMA’s six-pillar framework for earthquake risk management and assess its implementation challenge. **Answer in 250 words.**
 
-**Model thesis:** **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Code-compliant design. **Named evidence/example:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ductility concept. **Named evidence/example:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural components. **Named evidence/example:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk-sensitive land use. **Named evidence/example:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+NDMA’s framework treats earthquake safety as a linked system because rupture cannot be prevented or precisely predicted.
 
-- Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-- Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-- BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-- Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-- Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-- Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
+1. **Earthquake-resistant new construction** prevents additional unsafe stock.
+2. **Selective strengthening and retrofitting** addresses existing priority and lifeline structures.
+3. **Regulation and enforcement** connects standards to planning laws, development controls and building bye-laws.
+4. **Awareness and preparedness** builds household, school, workplace and public readiness.
+5. **Capacity development** trains planners, engineers, architects, builders, masons, officials, media, NGOs and communities.
+6. **Emergency response** organises EOCs, incident roles, rescue, medical aid and utility safety.
 
-**Qualified conclusion:** **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Code-compliant design. **Named evidence/example:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ductility concept. **Named evidence/example:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural components. **Named evidence/example:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk-sensitive land use. **Named evidence/example:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+The principal challenge is serial compliance failure. A technically sound code has little effect if local adoption, competent design, materials, workmanship, inspection or maintenance fails. New-build enforcement is also easier than retrofitting the large, occupied and heterogeneous existing stock. States must identify priority structures, so pace varies with State capacity and finance. Informal and owner-built housing faces unequal access to professionals and credit.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain structural and non-structural measures for earthquake-risk reduction. Answer in about…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Implementation should use transparent inventories, rapid screening, detailed assessment, risk-based priority, dedicated mitigation finance, independent quality checks and public completion reporting. Drills should test both collapse safety and continuity of lifelines.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Code-compliant design. **Named evidence/example:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ductility concept. **Named evidence/example:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural components. **Named evidence/example:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk-sensitive land use. **Named evidence/example:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Code-compliant design. **Named evidence/example:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ductility concept. **Named evidence/example:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural components. **Named evidence/example:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk-sensitive land use. **Named evidence/example:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Explain structural and non-structural measures for earthquake-risk reduction. Answer in about…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+The framework is comprehensive; the decisive reform is traceability from zone and code to verified building and service performance.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Analyse the priorities and limits of seismic retrofitting and lifeline resilience. Answer in about 250 words.
+**Question:** Discuss the role of resilient construction and retrofitting in protecting urban and rural India from earthquake risk. **Answer in 250 words.**
 
-**Model thesis:** **Claim:** Retrofitting boundary. **Named evidence/example:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Lifeline resilience. **Named evidence/example:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional responsibility. **Named evidence/example:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Earthquake loss is strongly shaped by the built environment. Resilient construction and retrofitting therefore provide the principal controllable route to life safety.
 
-- Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-- Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-- Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-- Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-- A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
+For **new construction**, site and microzone information should guide location and foundation design. Buildings need regular configuration, continuous load paths, adequate lateral resistance, ductile detailing, sound materials and workmanship, inspection and maintenance. Local bye-laws and development controls must incorporate applicable BIS/NBC requirements.
 
-**Qualified conclusion:** **Claim:** Retrofitting boundary. **Named evidence/example:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Lifeline resilience. **Named evidence/example:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional responsibility. **Named evidence/example:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+For **existing stock**, authorities should inventory and screen buildings, undertake detailed assessment, prioritise high-occupancy and lifeline facilities, design strengthening, finance and execute work, and verify completion. Hospitals, schools, bridges, reservoirs, courts and multi-storeyed buildings merit priority because collapse or service loss has wider consequences. Non-structural components—ceilings, tanks, equipment and utility connections—must also be secured.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse the priorities and limits of seismic retrofitting and lifeline resilience. Answer in…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Urban areas face dense exposure, vertical growth, unauthorised alteration and soft-storey or access problems. Rural and peri-urban areas often rely on non-engineered, owner-built construction and have limited access to trained engineers, masons and credit.
 
-**Detailed examiner-grade model answer:**
+Challenges include weak enforcement, fragmented records, shortage of skilled professionals, retrofit cost, occupant disruption and unequal State capacity. Solutions require licensing and training, risk-based finance, simple owner guidance, ULB/PRI implementation, independent audits and lifeline-continuity drills.
 
-**Introduction and thesis:** **Claim:** Retrofitting boundary. **Named evidence/example:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Lifeline resilience. **Named evidence/example:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional responsibility. **Named evidence/example:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Retrofitting boundary. **Named evidence/example:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Lifeline resilience. **Named evidence/example:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional responsibility. **Named evidence/example:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Analyse the priorities and limits of seismic retrofitting and lifeline resilience. Answer in…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+No building is absolutely “earthquake-proof.” The objective is verified performance: prevent brittle collapse, protect occupants and sustain critical functions under specified seismic demand.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Critically examine why code-compliant construction is primarily a governance and enforcement challenge. Answer in about 300 words.
+**Question:** Critically assess India’s earthquake preparedness in light of current seismic monitoring, zoning and construction governance. **Answer in 300 words.**
 
-**Model thesis:** **Claim:** Constructed vulnerability. **Named evidence/example:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Code-compliant design. **Named evidence/example:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ductility concept. **Named evidence/example:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Compliance chain. **Named evidence/example:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional responsibility. **Named evidence/example:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 300 words):**
 
-**Claim → named evidence → analysis → qualification:**
+India’s preparedness combines an expanding scientific network with an established mitigation framework, but safety remains constrained by construction compliance.
 
-- Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure.
-- Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-- Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-- BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained.
-- Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure.
-- Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard.
-- Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action.
-- Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-- A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
+**Monitoring:** NCS conducts 24×7 surveillance through the National Seismological Network, reported at 174 observatories on 13 August 2026, and disseminates rapid event information through BhooKamp and other channels. Earthquake early warning is under pilot development and may provide only brief lead time after P-wave detection. It is not prediction.
 
-**Qualified conclusion:** **Claim:** Constructed vulnerability. **Named evidence/example:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Code-compliant design. **Named evidence/example:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ductility concept. **Named evidence/example:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Compliance chain. **Named evidence/example:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional responsibility. **Named evidence/example:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Hazard framework:** IS 1893 (Part 1):2016 remains operative after the proposed revision was withdrawn in March 2026. Zones III–V cover about 59% of land in the dated official estimate. Yet broad zoning cannot capture all site effects or certify individual buildings; microzonation and site investigation remain necessary.
 
-**Demand decoding:** The directive **critically examine** requires a direct position on ‘Critically examine why code-compliant construction is primarily a governance and enforcement…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Mitigation:** NDMA’s six pillars cover safe new construction, priority retrofitting, enforcement, awareness, capacity and response. NBC/BIS standards, BMTPC’s Vulnerability Atlas and State responsibility for lifeline identification provide tools.
 
-**Detailed examiner-grade model answer:**
+The weaknesses are systemic: weak bye-law enforcement, untrained or unlicensed professionals and masons, poor inspection, informal construction, unsafe alterations, a vast existing stock, uncertain retrofit finance and uneven State prioritisation. Hospitals may survive structurally yet fail through utilities and non-structural damage.
 
-**Introduction and thesis:** **Claim:** Constructed vulnerability. **Named evidence/example:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Code-compliant design. **Named evidence/example:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ductility concept. **Named evidence/example:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Compliance chain. **Named evidence/example:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional responsibility. **Named evidence/example:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Preparedness should therefore establish building inventories, risk-based screening, permanent technical cells, professional accountability, independent inspections, targeted household assistance, mitigation finance, non-structural audits and EOC/lifeline exercises. Public dashboards should separate structures identified, assessed, sanctioned, completed and performance-tested.
 
-**Analytical body:**
-
-1. **Claim:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-9. **Claim:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Constructed vulnerability. **Named evidence/example:** Irregular form, weak materials, poor connections, deficient workmanship, unauthorised alteration and absent maintenance can turn ground shaking into collapse and service failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Code-compliant design. **Named evidence/example:** BIS standards, the National Building Code and local building bye-laws form a safety framework, but a published code is not proof that a particular structure was correctly designed, built, inspected or maintained. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Ductility concept. **Named evidence/example:** Ductility is the capacity to undergo deformation while retaining life-safety resistance; for UPSC purposes it explains why controlled energy dissipation matters, not how to calculate or detail a structure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Compliance chain. **Named evidence/example:** Seismic safety depends on linked code adoption, competent design, trained construction, approval, inspection, maintenance and enforcement; failure at one link can defeat the formal standard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional responsibility. **Named evidence/example:** Central and State authorities set standards and protect structures under their control, while States and local bodies identify, regulate and prioritise vulnerable or lifeline stock for action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Critically examine why code-compliant construction is primarily a governance and enforcement…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+India can monitor earthquakes increasingly well, but resilience will be determined by whether known hazard and engineering knowledge is enforced before the next event.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Design an exam-safe earthquake-resilience framework covering land use, construction, retrofitting, lifelines, preparedness and equity. Answer in about 300 words.
+**Question:** Develop a governance strategy for reducing seismic risk in India’s existing building and lifeline stock. **Answer in 300 words.**
 
-**Model thesis:** **Claim:** Seismic risk. **Named evidence/example:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and prediction. **Named evidence/example:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Site effects and microzonation. **Named evidence/example:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Retrofitting boundary. **Named evidence/example:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural components. **Named evidence/example:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Lifeline resilience. **Named evidence/example:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk-sensitive land use. **Named evidence/example:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Monitoring boundary. **Named evidence/example:** The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 300 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Existing buildings are the hardest seismic-risk problem because vulnerability is already embedded in occupied, diverse and often informal structures.
 
-- Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster.
-- Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building.
-- Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning.
-- Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment.
-- Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents.
-- Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete.
-- Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing.
-- Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention.
-- Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone.
-- The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event.
-- Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery.
-- A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence.
+**1. Build the inventory:** combine the BMTPC Vulnerability Atlas, seismic zones, microzonation, land records and local surveys. Record occupancy, structural type, age, alteration and lifeline function.
 
-**Qualified conclusion:** **Claim:** Seismic risk. **Named evidence/example:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and prediction. **Named evidence/example:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Site effects and microzonation. **Named evidence/example:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Retrofitting boundary. **Named evidence/example:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural components. **Named evidence/example:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Lifeline resilience. **Named evidence/example:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk-sensitive land use. **Named evidence/example:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Monitoring boundary. **Named evidence/example:** The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**2. Screen and assess:** use rapid visual screening for scale, followed by competent detailed assessment where risk is high. A map or screening score should not be treated as a final engineering verdict.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Design an exam-safe earthquake-resilience framework covering land use, construction,…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**3. Prioritise transparently:** rank hospitals, emergency facilities, schools, bridges, water, power, communications, dams and dense residential stock by life safety, continuity value, exposure and deficiency. States should publish the criteria because they identify priority structures.
 
-**Detailed examiner-grade model answer:**
+**4. Finance and execute:** use appropriate mitigation windows, public budgets and risk-sensitive incentives; protect low-income owners and tenants from unaffordable compliance or unsafe displacement. Plan temporary relocation and service continuity during work.
 
-**Introduction and thesis:** **Claim:** Seismic risk. **Named evidence/example:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and prediction. **Named evidence/example:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Site effects and microzonation. **Named evidence/example:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Retrofitting boundary. **Named evidence/example:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural components. **Named evidence/example:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Lifeline resilience. **Named evidence/example:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk-sensitive land use. **Named evidence/example:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Monitoring boundary. **Named evidence/example:** The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**5. Strengthen the compliance chain:** require qualified design, trained contractors and masons, independent checks, site inspection, material records and completion verification. Secure non-structural components and utilities alongside the frame.
 
-**Analytical body:**
+**6. Prepare for residual risk:** run EOC, hospital and community drills; maintain rapid-assessment protocols and redundant lifelines.
 
-1. **Claim:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-9. **Claim:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-10. **Claim:** The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-11. **Claim:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-12. **Claim:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**7. Monitor outcomes:** distinguish buildings listed, audited, sanctioned, started, completed and independently tested. After earthquakes, compare actual performance and update standards and priorities.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Constraints include cost, ownership disputes, informal tenure, limited professionals and uneven State capacity. Therefore, phased risk-based retrofitting with technical and financial assistance is preferable to either blanket demolition or paper compliance.
 
-**Qualified conclusion:** **Claim:** Seismic risk. **Named evidence/example:** Earthquake risk arises when seismic hazard interacts with exposed people and assets, vulnerable sites and construction, and limited coping capacity; the event alone is not the disaster. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and prediction. **Named evidence/example:** Seismic zoning classifies broad expected hazard for planning and design; it neither predicts the next earthquake nor determines the fate of an individual building. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Site effects and microzonation. **Named evidence/example:** Local ground conditions, slope, soil and built form can modify shaking and secondary effects, so microzonation refines broad regional zoning for risk-sensitive local planning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Structural mitigation. **Named evidence/example:** Structural mitigation includes earthquake-resistant new construction and selective strengthening or retrofitting of deficient priority structures under competent professional assessment. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural mitigation. **Named evidence/example:** Non-structural mitigation includes land-use control, code enforcement, professional training and licensing, safety audits, awareness, drills, emergency planning and securing hazardous contents. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Retrofitting boundary. **Named evidence/example:** Retrofitting seeks to improve the safety of existing deficient structures after assessment and prioritisation; identification, sanction or audit is not proof that strengthening is complete. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Non-structural components. **Named evidence/example:** Falling fixtures, equipment, partitions, storage and utility connections can injure occupants or disable services even when the main structural frame remains standing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Lifeline resilience. **Named evidence/example:** Hospitals, emergency facilities, transport links, water, power and communications require both physical safety and continuity arrangements because post-event functionality is a separate test from collapse prevention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk-sensitive land use. **Named evidence/example:** Land-use decisions should avoid compounding shaking, slope, access and emergency-response risks; zoning must be connected to enforceable development control rather than treated as a map alone. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Monitoring boundary. **Named evidence/example:** The National Centre for Seismology monitors and reports earthquake parameters and supports hazard assessment; post-event parameter dissemination is not prediction of a future event. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Equity and informality. **Named evidence/example:** Lower-income, rural and peri-urban households may depend more on informal or owner-built construction and have fewer resources for audit, retrofit, insurance, relocation and recovery. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Safety-outcome firewall. **Named evidence/example:** A hazard map, code, guideline, audit, app, training programme or retrofit list proves an input; verified compliance, service continuity, reduced collapse and equitable recovery require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+The aim is not zero damage. It is prevention of catastrophic collapse, continuity of essential services and equitable recovery.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+## RAPID SELF-CHECK
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Design an exam-safe earthquake-resilience framework covering land use, construction,…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+- Can you distinguish magnitude, intensity, P-waves and S-waves?
+- Can you explain why earthquake risk is not hazard alone?
+- Can you state the operative zoning standard and the withdrawal status?
+- Can you use the 59% figure with its date and denominator?
+- Can you list NDMA’s six pillars?
+- Can you distinguish zoning, microzonation and building assessment?
+- Can you separate new construction, retrofitting and non-structural safety?
+- Can you explain current NSN and EEW status without claiming prediction?
+- Can you assign national, State, local and professional responsibilities?
+- Can you trace a code from publication to verified performance?

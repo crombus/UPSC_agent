@@ -21,6 +21,47 @@
 
 ## 1. Core principles (highest priority)
 
+- **Active final review workflow (saved 25 September 2026):** for repository-wide topic review,
+  verification and patching, use only this chain:
+  `upsc-ai-kit\knowledge\<Subject>\basic + advanced` -> verified PYQ routing and official papers ->
+  `learning_package_final\<Subject>\...\Learning-Session.md` plus
+  `Solved-Practice-Workbook.md` -> `quick_galance\<Subject>\..._Tree-Chart.md`.
+  Canonical knowledge and official PYQ papers are read-only evidence. Patch only the two final
+  Markdown files and the quick-glance tree chart. Ignore `notes\Final-Learning-Packages`, PDFs,
+  graphical/ASCII master-flow packages, export trackers, generation folders and other duplicate
+  artifacts unless the user explicitly requests one of them in a later command. This newer rule
+  supersedes older final-package review requirements that mandated PDF or additional flowchart
+  review.
+- **Mandatory topic repair sequence (saved 25 September 2026):** repair exactly one topic at a
+  time in this order:
+  1. Map complete canonical Basic and Advanced coverage.
+  2. Verify direct and application PYQs against repository routing and official papers.
+  3. Rebuild diverse, coverage-led MCQs rather than repeating generic stem templates.
+  4. Present exact, clearly labelled PYQs with complete, question-specific solutions.
+  5. Add original 10-, 15- and 20-mark Mains practice with complete model answers.
+  6. Rebuild the quick-glance artifact as a concise, genuinely branching tree for rapid revision.
+  Do not mark a topic repaired unless all six stages pass and the workbook/tree agree with the
+  canonical evidence.
+- **Per-topic completion report (saved 25 September 2026):** after every repaired topic, stop and
+  report (1) the substantive changes made to the learning session, workbook, PYQs, MCQs, Mains
+  practice and quick-glance tree; (2) validation results and any retained limitation; and
+  (3) the exact repository-relative path of every file modified. Do not begin the next topic
+  before delivering this report.
+- **Fast but uncompromised execution (saved 25 September 2026):** the user has seven days for the
+  repair programme. Minimise elapsed time by bounding exploration to the topic's canonical Basic,
+  Advanced, routed PYQs, official papers/keys and three active output files. Reuse one complete
+  source/coverage ledger for all three artifacts, edit directly, and run targeted automated
+  validation. Do not inspect or regenerate PDFs, trackers, manifests, historical generations or
+  unrelated artifacts. Speed must come from removing duplicate work, not from skipping coverage,
+  compressing answers, weakening explanations or reducing factual verification.
+- **Zero-hallucination repair rule (saved 25 September 2026):** include no date, number, quotation,
+  PYQ wording, answer key, treaty status, membership, institutional mandate, current event or
+  claimed outcome unless traceable to canonical Markdown, a locally held official paper/key or a
+  dated official source. Preserve uncertainty and direct-versus-application PYQ ownership
+  explicitly; never fill a gap from memory or coaching material.
+- **Subject priority (saved 25 September 2026):** begin the high-importance repair programme with
+  International Relations and process its topics in catalogue order. Quality remains the hard
+  gate: no skipping and no output compromise merely to finish faster.
 - **Verify before stating.** Never present unverified training-knowledge facts as ground truth.
   Use `web_search` for CA/recent facts; use Qdrant for book facts. If uncertain, say so.
   Wrong data in UPSC prep is worse than no data — this rule overrides convenience.

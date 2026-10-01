@@ -1,1197 +1,1104 @@
 ---
 title: "Jammu & Kashmir and Cross-Border Terrorism — Solved Practice Workbook"
 topic_key: internal-security-05
+reviewed_on: 2026-09-27
 ---
+
 # Jammu & Kashmir and Cross-Border Terrorism — Solved Practice Workbook
+
+## Evidence and use note
+
+The Basic and Advanced owners, master framework, syllabus mapping, all 2018–2026 routing ledgers, local official UPSC OCR evidence, and dated India Code, Supreme Court, MHA, MEA, PIB, UN and NIA material control this workbook. Original practice is not labelled as PYQ. No allegation, chargesheet, election result, project, legal change or trend is converted into an unsupported finding of guilt, causation or complete normalcy.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Accession anchor?
+### Q1. On what date did Maharaja Hari Singh sign the Instrument of Accession?
 
-A. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-B. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-C. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-D. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-
-**Answer: A.**
-**Explanation:** Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q2. Which option preserves the legal or institutional boundary of Accession anchor?
-
-A. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-B. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-C. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-D. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-
-**Answer: B.**
-**Explanation:** Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q3. Which statement uses Accession anchor without changing its institution, law or status?
-
-A. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-B. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-C. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-D. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-
-**Answer: C.**
-**Explanation:** Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q4. Which option avoids the standard UPSC close-option trap about Accession anchor?
-
-A. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-B. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-C. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-D. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-
-**Answer: D.**
-**Explanation:** Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q5. Which statement correctly identifies LoC legal-status boundary?
-
-A. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-B. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-C. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-D. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
+A. 26 October 1947.
+B. 15 August 1947.
+C. 21 April 1948.
+D. 2 July 1972.
 
 **Answer: A.**
-**Explanation:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q6. Which option preserves the legal or institutional boundary of LoC legal-status boundary?
+**Option-specific explanation:**
+- **A — correct:** This is the canonical and official historical date.
+- **B — incorrect:** Independence Day is not the accession date.
+- **C — incorrect:** That is the date of UNSC Resolution 47.
+- **D — incorrect:** That is the date of the Simla Agreement.
 
-A. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-B. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-C. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-D. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
+### Q2. Which set identifies the principal accession subjects in the Instrument's Schedule?
+
+A. Public order, police and land revenue, together with local government.
+B. Defence, External Affairs, Communications and ancillary matters.
+C. Citizenship, elections and preventive detention, together with taxation.
+D. Defence, finance and agriculture, together with public health.
 
 **Answer: B.**
-**Explanation:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q7. Which statement uses LoC legal-status boundary without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** These were not the three principal accession subjects.
+- **B — correct:** Finance was not a separate principal accession subject.
+- **C — incorrect:** This set does not reproduce the Instrument's Schedule.
+- **D — incorrect:** Finance and the State subjects listed here are incorrect.
 
-A. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-B. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-C. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-D. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
+### Q3. Which statement correctly captures the sequence in UNSC Resolution 47?
+
+A. India was required to withdraw first, after which Pakistan could decide whether to remove tribesmen.
+B. The resolution converted the ceasefire line into the Line of Control immediately.
+C. Pakistan-side withdrawal preceded later Indian force reduction and plebiscite steps.
+D. The resolution settled sovereignty through a binding judicial award.
 
 **Answer: C.**
-**Explanation:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q8. Which option avoids the standard UPSC close-option trap about LoC legal-status boundary?
+**Option-specific explanation:**
+- **A — incorrect:** This reverses the sequence.
+- **B — incorrect:** The LoC terminology followed the 1972 Simla Agreement.
+- **C — correct:** The resolution's stages were sequential and were not implemented.
+- **D — incorrect:** It proposed a political sequence rather than adjudicating title.
 
-A. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-B. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-C. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-D. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
+### Q4. How did the Line of Control emerge?
+
+A. The Instrument of Accession created it on 26 October 1947.
+B. The 2003 ceasefire understanding created the territorial line.
+C. The 2021 DGMO statement converted it into an international border.
+D. The 1972 Simla Agreement redesignated the post-1971 ceasefire line as the LoC.
 
 **Answer: D.**
-**Explanation:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q9. Which statement correctly identifies Proxy-war mechanism?
+**Option-specific explanation:**
+- **A — incorrect:** Accession did not establish the LoC.
+- **B — incorrect:** That understanding concerned firing along an existing LoC.
+- **C — incorrect:** The statement reaffirmed ceasefire observance and did not alter status.
+- **D — correct:** The date and instrument distinguish the LoC from the earlier line.
 
-A. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-B. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-C. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-D. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
+### Q5. Which statement presents the UNMOGIP issue accurately?
+
+A. The UN continues UNMOGIP; India says its mandate lapsed after Simla.
+B. India and the UN agree that the mission ended when the LoC was named.
+C. UNMOGIP is the bilateral body that issued the 2021 DGMO statement.
+D. UNMOGIP investigates UAPA offences and prosecutes infiltrators.
 
 **Answer: A.**
-**Explanation:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q10. Which option preserves the legal or institutional boundary of Proxy-war mechanism?
+**Option-specific explanation:**
+- **A — correct:** Both institutional positions must be stated.
+- **B — incorrect:** The UN continues UNMOGIP under its interpretation.
+- **C — incorrect:** The DGMOs, not UNMOGIP, issued that statement.
+- **D — incorrect:** It is not a domestic criminal-investigation agency.
 
-A. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-B. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-C. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-D. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
+### Q6. What is the central strategic benefit of using a proxy actor?
+
+A. The proxy becomes a regular unit of the sponsor's armed forces for legal purposes.
+B. Coercive effects with distance and plausible deniability.
+C. The sponsor avoids the need for finance, sanctuary, training or logistics.
+D. The local conflict loses its internal political and social dimensions.
 
 **Answer: B.**
-**Explanation:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q11. Which statement uses Proxy-war mechanism without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** Material support does not by itself establish formal organ status.
+- **B — correct:** Proxy structure separates strategic enablement from visible execution.
+- **C — incorrect:** Those enablers commonly sustain the proxy relationship.
+- **D — incorrect:** External support can coexist with genuine domestic vulnerabilities.
 
-A. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-B. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-C. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-D. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
+### Q7. Which distinction is necessary when analysing State-sponsored terrorism?
+
+A. A foreign-origin weapon establishes the sponsor's legal responsibility for each subsequent act.
+B. A local recruit makes external direction analytically irrelevant.
+C. Sponsor, group, infiltrator, facilitator and propagandist require separate evidence.
+D. An intelligence assessment is equivalent to a judicial finding against each alleged actor.
 
 **Answer: C.**
-**Explanation:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q12. Which option avoids the standard UPSC close-option trap about Proxy-war mechanism?
+**Option-specific explanation:**
+- **A — incorrect:** Material provenance is relevant but not conclusive by itself.
+- **B — incorrect:** Local recruitment and external enablement can coexist.
+- **C — correct:** The network should be proved link by link.
+- **D — incorrect:** Intelligence and adjudication occupy different evidentiary rungs.
 
-A. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-B. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-C. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-D. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
+### Q8. How does the canonical account explain the turn to low-intensity warfare?
+
+A. As a consequence of the 2003 ceasefire ending cross-border competition.
+B. As a domestic policing reform introduced by the 2019 Reorganisation Act.
+C. As a United Nations programme following Resolution 47.
+D. A post-1965/1971 shift from conventional war to proxy methods.
 
 **Answer: D.**
-**Explanation:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q13. Which statement correctly identifies Attribution gradient?
+**Option-specific explanation:**
+- **A — incorrect:** The strategy predates the ceasefire.
+- **B — incorrect:** The doctrine concerns an external strategy, not Indian administrative reform.
+- **C — incorrect:** The UN resolution did not create proxy warfare.
+- **D — correct:** The account links conventional limits to deniable proxy methods.
 
-A. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-B. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-C. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-D. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
+### Q9. How should the disputed 1987 J&K election be used in a causal answer?
+
+A. A legitimacy trigger exploited alongside deeper conditions and external support.
+B. As proof that the conflict began without any external support or later reinforcement.
+C. As the legal event that created the Line of Control.
+D. As an administrative consequence of Union Territory reorganisation.
 
 **Answer: A.**
-**Explanation:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q14. Which option preserves the legal or institutional boundary of Attribution gradient?
+**Option-specific explanation:**
+- **A — correct:** It is important without becoming a complete single-cause explanation.
+- **B — incorrect:** The canonical chain includes external training and sponsorship.
+- **C — incorrect:** The LoC dates to the post-1971 settlement.
+- **D — incorrect:** The election preceded the 2019 change by decades.
 
-A. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-B. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-C. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-D. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
+### Q10. What was the relevance of the Soviet-Afghan war's end to the J&K conflict in the canonical account?
+
+A. It produced the 2003 LoC ceasefire through a UN Security Council vote.
+B. Externally trained fighters reinforced an emerging insurgency.
+C. It ended proxy sponsorship by removing foreign training networks.
+D. It transferred public order from the State legislature to the Lieutenant Governor.
 
 **Answer: B.**
-**Explanation:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q15. Which statement uses Attribution gradient without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** The events and institutions are unrelated.
+- **B — correct:** External cadre availability intensified rather than solely created the conflict.
+- **C — incorrect:** The source describes reinforcement, not termination.
+- **D — incorrect:** That institutional change followed the 2019 Act.
 
-A. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-B. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-C. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-D. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
+### Q11. How should LeT, JeM and Hizbul Mujahideen be used in this topic?
+
+A. As a current exhaustive list of groups with unchanged leadership and capacity.
+B. As State institutions whose actions legally bind Pakistan in each criminal case.
+C. Historical proxy examples; verify present capacity and attribution.
+D. As organisations created by the Jammu and Kashmir Reorganisation Act.
 
 **Answer: C.**
-**Explanation:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Attribution gradient?
+**Option-specific explanation:**
+- **A — incorrect:** Book-period examples cannot establish a current exhaustive position.
+- **B — incorrect:** Groups and sponsor-State responsibility require separate proof.
+- **C — correct:** The formulation preserves relevance and time status.
+- **D — incorrect:** Their history predates and is unrelated to that statute.
 
-A. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-B. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-C. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-D. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
+### Q12. What is the most accurate treatment of Kashmiri Pandit displacement?
+
+A. A short-term migration resolved when the 2008 package was announced.
+B. A constitutional effect produced directly by C.O. 272 in 2019.
+C. A border-firing statistic measured by the DGMO ceasefire statement.
+D. A 1990s displacement; safe return and rehabilitation remain unresolved.
 
 **Answer: D.**
-**Explanation:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q17. Which statement correctly identifies Ceasefire understanding?
+**Option-specific explanation:**
+- **A — incorrect:** Announcement and assistance do not prove durable rehabilitation.
+- **B — incorrect:** The displacement occurred decades earlier.
+- **C — incorrect:** Displacement and ceasefire observance are different metrics.
+- **D — correct:** The event should connect displacement to present policy without treating relief as completed return.
 
-A. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-B. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-C. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-D. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
+### Q13. Which sequence best represents the cross-border terrorism ecosystem?
+
+A. Sponsor → route → local facilitator → attack/propaganda.
+B. Election turnout → Special Court → border fence → sponsor → ceasefire.
+C. Ceasefire → conviction → radicalisation → accession → finance.
+D. Development package → UNMOGIP → Assembly law → infiltration → statehood.
 
 **Answer: A.**
-**Explanation:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q18. Which option preserves the legal or institutional boundary of Ceasefire understanding?
+**Option-specific explanation:**
+- **A — correct:** It links external enablement to local operational capacity.
+- **B — incorrect:** The sequence mixes indicators and institutions without causal order.
+- **C — incorrect:** Historical, legal and operational stages are misordered.
+- **D — incorrect:** The elements do not form an operating chain.
 
-A. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-B. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-C. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-D. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
+### Q14. Why must an infiltration attempt be distinguished from successful infiltration?
+
+A. An attempt proves that a local module carried out a later attack.
+B. Attempt and successful crossing measure different border outcomes.
+C. A successful crossing proves the sponsor directed each later offence.
+D. The distinction disappears when a ceasefire is in force.
 
 **Answer: B.**
-**Explanation:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q19. Which statement uses Ceasefire understanding without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** That linkage needs separate evidence.
+- **B — correct:** The two metrics support different operational conclusions.
+- **C — incorrect:** Crossing and strategic attribution are different propositions.
+- **D — incorrect:** Ceasefire observance and infiltration are separately measured.
 
-A. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-B. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-C. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-D. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
+### Q15. What analytical point do tunnels and drones add?
+
+A. They classify border incidents as conventional military attacks based on delivery technology.
+B. They remove the need for local receivers, finance and target intelligence.
+C. Drones and tunnels move material without simultaneous human crossing.
+D. They are measured through LoC firing statistics.
 
 **Answer: C.**
-**Explanation:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Ceasefire understanding?
+**Option-specific explanation:**
+- **A — incorrect:** Technology does not determine legal classification by itself.
+- **B — incorrect:** Remote delivery still needs an operational network.
+- **C — correct:** The vector changes while the enabling purpose can remain.
+- **D — incorrect:** Firing and covert delivery are separate indicators.
 
-A. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-B. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-C. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-D. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
+### Q16. Which definition of an over-ground worker is safest for an answer?
+
+A. A person convicted of terrorism because an organisation has been proscribed.
+B. A resident who criticises government policy in an insurgency-affected area.
+C. A uniformed infiltrator crossing the LoC with a weapon.
+D. An alleged non-combatant facilitator whose role and intent require proof.
 
 **Answer: D.**
-**Explanation:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q21. Which statement correctly identifies Separate security metrics?
+**Option-specific explanation:**
+- **A — incorrect:** Organisation status does not prove individual conduct.
+- **B — incorrect:** Dissent is not evidence of facilitation.
+- **C — incorrect:** That is not the distinctive non-combatant facilitation concept.
+- **D — correct:** It avoids treating a broad social or political label as guilt.
 
-A. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-B. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-C. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-D. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
+### Q17. Which approach to radicalisation protects both security and rights?
+
+A. Target violent mobilisation while protecting lawful belief and criticism.
+B. Use community identity as a substitute for individual risk assessment.
+C. Treat forwarding any critical post as proof of membership in a terrorist group.
+D. Rely on coercive action without family, community or grievance off-ramps.
 
 **Answer: A.**
-**Explanation:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q22. Which option preserves the legal or institutional boundary of Separate security metrics?
+**Option-specific explanation:**
+- **A — correct:** Behaviour-based intervention protects evidence quality and trust.
+- **B — incorrect:** Identity does not establish violent intent.
+- **C — incorrect:** Content, intent, context and legal threshold require examination.
+- **D — incorrect:** Prevention requires more than enforcement.
 
-A. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-B. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-C. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-D. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
+### Q18. How should terror finance be analysed in the J&K ecosystem?
+
+A. Treat each hawala or narcotics case as proof of cross-border terrorism.
+B. Trace source, transfer, facilitator and use; prove the terrorism link.
+C. Infer conviction from a search, seizure or provisional attachment.
+D. Use the value attached as a direct measure of reduced recruitment.
 
 **Answer: B.**
-**Explanation:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q23. Which statement uses Separate security metrics without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** Predicate offences and terrorist purpose must be connected.
+- **B — correct:** A financial anomaly becomes terror finance through evidence, not label.
+- **C — incorrect:** Investigative and adjudicatory stages differ.
+- **D — incorrect:** Property action is not a recruitment-outcome indicator.
 
-A. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-B. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-C. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-D. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
+### Q19. What does the 2021 DGMO reaffirmation primarily govern?
+
+A. A final political settlement of the Kashmir dispute.
+B. Transfer of police and public order to the J&K Assembly.
+C. Ceasefire observance along the LoC and other sectors.
+D. Disarmament of local modules and OGWs under UAPA.
 
 **Answer: C.**
-**Explanation:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Separate security metrics?
+**Option-specific explanation:**
+- **A — incorrect:** The statement is not a treaty or final settlement.
+- **B — incorrect:** That competence is governed by the Reorganisation Act.
+- **C — correct:** It concerns cross-border firing and military communication.
+- **D — incorrect:** The statement does not create a domestic disarmament process.
 
-A. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-B. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-C. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-D. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
+### Q20. Which statement about the LoC ceasefire is correct?
+
+A. Ceasefire observance converts the LoC into an internationally recognised border.
+B. A ceasefire violation proves a successful infiltration occurred at the same location.
+C. The agreement transfers monitoring authority from the DGMOs to NIA.
+D. Less firing can coexist with infiltration, drones, finance and recruitment.
 
 **Answer: D.**
-**Explanation:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q25. Which statement correctly identifies OGW evidentiary boundary?
+**Option-specific explanation:**
+- **A — incorrect:** The understanding does not change territorial status.
+- **B — incorrect:** Firing and infiltration require separate evidence.
+- **C — incorrect:** NIA has no role in issuing the military understanding.
+- **D — correct:** A real gain on one metric does not establish system-wide resolution.
 
-A. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-B. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-C. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-D. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
+### Q21. Which allocation of institutions is most accurate?
+
+A. Army/BSF guard; police respond; NIA investigates; courts adjudicate.
+B. UNMOGIP registers local FIRs, while VDGs conduct NIA prosecutions.
+C. MAC performs tactical assaults, and NSG decides constitutional validity.
+D. The J&K Assembly commands LoC forces and directs all NIA cases.
 
 **Answer: A.**
-**Explanation:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q26. Which option preserves the legal or institutional boundary of OGW evidentiary boundary?
+**Option-specific explanation:**
+- **A — correct:** The chain separates defence, police, investigation and adjudication.
+- **B — incorrect:** Neither institution has those functions.
+- **C — incorrect:** Intelligence sharing, tactical response and adjudication are confused.
+- **D — incorrect:** Its legislative competence excludes police and public order.
 
-A. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-B. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-C. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-D. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
+### Q22. Why is J&K Police central to the response despite national agencies and armed forces?
+
+A. It determines the international status of the LoC through criminal procedure.
+B. Local intelligence, first response, public order and investigation.
+C. It issues UNSC resolutions and supervises UNMOGIP observers.
+D. It restores statehood by notification after an Assembly election.
 
 **Answer: B.**
-**Explanation:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q27. Which statement uses OGW evidentiary boundary without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** Territorial status is not a police function.
+- **B — correct:** These functions anchor the evidence and legitimacy chain.
+- **C — incorrect:** Those are international institutional matters.
+- **D — incorrect:** Statehood requires Union constitutional/legal action.
 
-A. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-B. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-C. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-D. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
+### Q23. What did the Jammu and Kashmir Reorganisation Act, 2019 create?
+
+A. Two States, each with legislative control over police and public order.
+B. One Union Territory covering J&K and Ladakh without any legislature.
+C. J&K UT with legislature; Ladakh UT without legislature.
+D. An autonomous district council for the Kashmir Valley under the Sixth Schedule.
 
 **Answer: C.**
-**Explanation:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q28. Which option avoids the standard UPSC close-option trap about OGW evidentiary boundary?
+**Option-specific explanation:**
+- **A — incorrect:** Both units became Union Territories and their arrangements differ.
+- **B — incorrect:** J&K has a legislature.
+- **C — correct:** This is the Act's principal territorial-administrative division.
+- **D — incorrect:** The reorganisation did not use that instrument.
 
-A. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-B. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-C. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-D. An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
+### Q24. On what date did the 2019 reorganisation take effect?
+
+A. 5 August 2019.
+B. 11 December 2023.
+C. 30 September 2024.
+D. 31 October 2019.
 
 **Answer: D.**
-**Explanation:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q29. Which statement correctly identifies OGW function map?
+**Option-specific explanation:**
+- **A — incorrect:** That date is associated with C.O. 272 and parliamentary action, not the appointed reorganisation day.
+- **B — incorrect:** That is the Supreme Court judgment date.
+- **C — incorrect:** That was the judicial deadline for Assembly elections.
+- **D — correct:** This is the appointed day for the two Union Territories.
 
-A. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-B. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-C. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-D. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
+### Q25. Which statement about the J&K Assembly's legislative competence is correct?
+
+A. Applicable State/Concurrent matters except Entries 1/2: public order and police.
+B. It controls police but not public order because the subjects were divided in 2019.
+C. It controls the Army and BSF along the LoC through State List authority.
+D. It lacks legislative competence over the Concurrent List as a Union Territory legislature.
 
 **Answer: A.**
-**Explanation:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q30. Which option preserves the legal or institutional boundary of OGW function map?
+**Option-specific explanation:**
+- **A — correct:** Section 32 creates the central operational distinction.
+- **B — incorrect:** Both entries are excluded.
+- **C — incorrect:** Defence and Union-force functions are not Assembly powers.
+- **D — incorrect:** The Act permits applicable Concurrent List legislation.
 
-A. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-B. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-C. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-D. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
+### Q26. How should pre-2019 Article 370 be described for this topic?
+
+A. As the statute that created the 2003 LoC ceasefire.
+B. Former constitutional application framework; detailed doctrine belongs to Polity.
+C. As the law establishing NIA and its Special Courts.
+D. As the current source of J&K Assembly power over police and public order.
 
 **Answer: B.**
-**Explanation:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q31. Which statement uses OGW function map without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** The ceasefire was a military understanding.
+- **B — correct:** This gives the necessary status without displacing the topic's operational focus.
+- **C — incorrect:** Those institutions arise under the NIA Act.
+- **D — incorrect:** The present statutory competence excludes those subjects.
 
-A. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-B. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-C. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-D. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
+### Q27. What was Article 35A's legal origin?
+
+A. It was enacted as section 35A of the Jammu and Kashmir Reorganisation Act, 2019.
+B. It was created by the Simla Agreement to regulate permanent residents.
+C. It was introduced through the Constitution (Application to Jammu and Kashmir) Order, 1954.
+D. It was inserted by the Supreme Court's December 2023 judgment.
 
 **Answer: C.**
-**Explanation:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q32. Which option avoids the standard UPSC close-option trap about OGW function map?
+**Option-specific explanation:**
+- **A — incorrect:** It predated the Act and did not originate there.
+- **B — incorrect:** The Simla Agreement concerned India–Pakistan relations and the LoC.
+- **C — correct:** The provision was linked to the earlier Article 370 application framework.
+- **D — incorrect:** The judgment reviewed the 2019 changes; it did not create Article 35A.
 
-A. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-B. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-C. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-D. Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
+### Q28. Which sequence correctly describes the August 2019 constitutional orders?
+
+A. C.O. 273 created Article 35A, followed by C.O. 272 establishing the LoC.
+B. C.O. 272 restored statehood, followed by C.O. 273 transferring police to the Assembly.
+C. Both orders were military ceasefire instruments issued by the DGMOs.
+D. C.O.272 changed constitutional application; C.O.273 made Article 370 inoperative as modified.
 
 **Answer: D.**
-**Explanation:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q33. Which statement correctly identifies OGW response chain?
+**Option-specific explanation:**
+- **A — incorrect:** The dates, content and chronology are incorrect.
+- **B — incorrect:** Neither order had those effects.
+- **C — incorrect:** They were constitutional Presidential Orders.
+- **D — correct:** The two orders should be identified separately.
 
-A. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-B. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-C. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-D. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
+### Q29. Which statement reflects the Supreme Court's 11 December 2023 Article 370 judgment?
+
+A. It upheld the 2019 actions and required elections by 30 September 2024.
+B. It restored the pre-2019 constitutional position and invalidated the Reorganisation Act.
+C. It converted J&K into a State on the judgment date.
+D. It transferred police and public order to the elected Assembly.
 
 **Answer: A.**
-**Explanation:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q34. Which option preserves the legal or institutional boundary of OGW response chain?
+**Option-specific explanation:**
+- **A — correct:** The elections were subsequently held; statehood status remains a separate question.
+- **B — incorrect:** The Court upheld the challenged constitutional actions.
+- **C — incorrect:** No statehood notification followed from the judgment itself.
+- **D — incorrect:** The Reorganisation Act's exclusion remains.
 
-A. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-B. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-C. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-D. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
+### Q30. What does the officially reported 63.88% turnout in the 2024 J&K Assembly election establish?
+
+A. The disappearance of infiltration and terror-finance networks across J&K.
+B. Measured election participation, not complete normalcy or exclusive causation.
+C. Restoration of statehood before the election was held.
+D. Completion of rehabilitation for displaced Kashmiri Pandit families.
 
 **Answer: B.**
-**Explanation:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q35. Which statement uses OGW response chain without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** Turnout does not measure those security channels.
+- **B — correct:** The figure supports a bounded participation claim.
+- **C — incorrect:** J&K remained a Union Territory with legislature.
+- **D — incorrect:** Participation and rehabilitation are different outcomes.
 
-A. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-B. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-C. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-D. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
+### Q31. What is the status-safe constitutional description on 27 September 2026?
+
+A. J&K became a State when its Assembly election results were declared in 2024.
+B. Ladakh acquired a legislature when J&K's Assembly was constituted.
+C. J&K remains a UT with legislature; no statehood notification was located.
+D. Police and public order returned to the J&K Assembly through the 2023 judgment.
 
 **Answer: C.**
-**Explanation:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q36. Which option avoids the standard UPSC close-option trap about OGW response chain?
+**Option-specific explanation:**
+- **A — incorrect:** Election to a UT legislature did not itself restore statehood.
+- **B — incorrect:** The Reorganisation Act created Ladakh without a legislature.
+- **C — correct:** This states the current verified legal status and evidence limit.
+- **D — incorrect:** The judgment did not make that statutory change.
 
-A. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-B. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-C. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-D. Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
+### Q32. Which is the soundest normalcy dashboard?
+
+A. Use tourist arrivals as the combined measure of security, rights and political settlement.
+B. Use arrest totals as proof of deterrence, conviction and community trust.
+C. Use election turnout as proof that displacement and safe return are resolved.
+D. Track security, participation, services, rights, trials and rehabilitation separately.
 
 **Answer: D.**
-**Explanation:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q37. Which statement correctly identifies Reorganisation structure?
+**Option-specific explanation:**
+- **A — incorrect:** Economic activity cannot capture each dimension.
+- **B — incorrect:** Arrest is one enforcement output.
+- **C — incorrect:** Participation does not measure rehabilitation.
+- **D — correct:** The dashboard avoids making one indicator stand for the whole conflict.
 
-A. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-B. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-C. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-D. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
+### Remedial and synthesis set
+
+Questions 33–40 retest community defence, J&K-specific AFSPA, rehabilitation, case-status discipline, CPEC and the integrated response.
+
+### Q33. Which statement best describes the Village Defence Guards Scheme, 2022?
+
+A. Police-supervised local defence in vulnerable villages, with training and accountability.
+B. It transfers criminal investigation from J&K Police to village volunteers.
+C. It is a rehabilitation housing scheme for displaced migrants.
+D. It is the 2021 military ceasefire mechanism along the LoC.
 
 **Answer: A.**
-**Explanation:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q38. Which option preserves the legal or institutional boundary of Reorganisation structure?
+**Option-specific explanation:**
+- **A — correct:** The scheme supplements formal forces rather than creating autonomous armed authority.
+- **B — incorrect:** VDGs do not replace professional investigators.
+- **C — incorrect:** That is a different policy field.
+- **D — incorrect:** The DGMO understanding and VDG scheme are unrelated instruments.
 
-A. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-B. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-C. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-D. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
+### Q34. What is the principal governance risk in arming local Village Defence Guards?
+
+A. Community knowledge prevents the need for training and incident records.
+B. Weak vetting, weapons control or supervision risks misuse, bias and escalation.
+C. The scheme makes VDG members independent of district police command.
+D. The guards acquire authority to determine guilt in terrorism cases.
 
 **Answer: B.**
-**Explanation:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q39. Which statement uses Reorganisation structure without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** Knowledge does not replace professional safeguards.
+- **B — correct:** Local presence needs a strong police-command framework.
+- **C — incorrect:** The verified design retains police supervision.
+- **D — incorrect:** They have no judicial function.
 
-A. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-B. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-C. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-D. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
+### Q35. Which section map belongs to the Armed Forces (Jammu and Kashmir) Special Powers Act, 1990?
+
+A. Section 3 powers; section 4 sanction; section 6 Assembly competence; section 7 ceasefire.
+B. Section 3 LoC creation; section 4 UNMOGIP; section 6 NIA; section 7 VDG.
+C. Section 3 disturbed area; section 4 powers; section 6 hand-over; section 7 sanction.
+D. Section 3 statehood; section 4 Article 35A; section 6 police; section 7 CPEC.
 
 **Answer: C.**
-**Explanation:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Reorganisation structure?
+**Option-specific explanation:**
+- **A — incorrect:** The functions are misassigned.
+- **B — incorrect:** Those subjects arise under other instruments.
+- **C — correct:** The section numbers differ from the 1958 North-East Act.
+- **D — incorrect:** The Act does not govern those constitutional and diplomatic questions.
 
-A. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-B. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-C. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-D. The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
+### Q36. What is the key close-option distinction between the 1990 J&K AFSPA and the 1958 AFSPA?
+
+A. The 1990 Act is a peace accord, while the 1958 Act is a criminal court.
+B. The 1958 Act governs the LoC, while the 1990 Act governs international diplomacy.
+C. The statutes apply together as one consolidated Act throughout India.
+D. Separate statutes with parallel purposes but different hand-over/sanction section numbers.
 
 **Answer: D.**
-**Explanation:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q41. Which statement correctly identifies Police-public-order consequence?
+**Option-specific explanation:**
+- **A — incorrect:** Both are special-powers statutes.
+- **B — incorrect:** Their field is disturbed-area armed-force powers.
+- **C — incorrect:** They remain distinct enactments with territorial application.
+- **D — correct:** The distinction prevents importing section numbers from the North-East Act.
 
-A. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-B. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-C. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-D. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
+### Q37. Which statement correctly distinguishes relief from rehabilitation?
+
+A. Relief inputs differ from safe, dignified and voluntary rehabilitation outcomes.
+B. Transit accommodation proves that displaced families have completed permanent return.
+C. Relief is a security operation, while rehabilitation is a ceasefire agreement.
+D. A budget allocation measures emotional, social and political restoration directly.
 
 **Answer: A.**
-**Explanation:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q42. Which option preserves the legal or institutional boundary of Police-public-order consequence?
+**Option-specific explanation:**
+- **A — correct:** Outputs support but do not by themselves establish the outcome.
+- **B — incorrect:** Accommodation and safe voluntary return are separate.
+- **C — incorrect:** Both descriptions use the wrong institutional category.
+- **D — incorrect:** Expenditure cannot capture those dimensions.
 
-A. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-B. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-C. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-D. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
+### Q38. How may the NIA's Pahalgam case releases be used safely?
 
-**Answer: B.**
-**Explanation:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q43. Which statement uses Police-public-order consequence without changing its institution, law or status?
-
-A. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-B. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-C. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-D. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-
-**Answer: C.**
-**Explanation:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q44. Which option avoids the standard UPSC close-option trap about Police-public-order consequence?
-
-A. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-B. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-C. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-D. Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-
-**Answer: D.**
-**Explanation:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q45. Which statement correctly identifies Constitutional-domain firewall?
-
-A. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-B. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-C. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-D. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-
-**Answer: A.**
-**Explanation:** Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q46. Which option preserves the legal or institutional boundary of Constitutional-domain firewall?
-
-A. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-B. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-C. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-D. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
+A. As a final judicial finding against each person and organisation named.
+B. Dated investigation and chargesheet evidence about allegations, not a judicial conviction.
+C. As proof that the broader proxy ecosystem has been permanently dismantled.
+D. As authority for casualty or attribution details not stated in the cited release.
 
 **Answer: B.**
-**Explanation:** Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q47. Which statement uses Constitutional-domain firewall without changing its institution, law or status?
+**Option-specific explanation:**
+- **A — incorrect:** A charge-sheet is not a judgment.
+- **B — correct:** The language preserves the procedural stage.
+- **C — incorrect:** One case cannot establish system-wide outcome.
+- **D — incorrect:** Claims must remain within the official record used.
 
-A. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-B. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-C. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-D. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
+### Q39. What is India's officially stated objection to CPEC?
 
-**Answer: C.**
-**Explanation:** Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q48. Which option avoids the standard UPSC close-option trap about Constitutional-domain firewall?
-
-A. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-B. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-C. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-D. Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-
-**Answer: D.**
-**Explanation:** Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q49. Which statement correctly identifies J&K AFSPA distinction?
-
-A. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-B. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-C. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-D. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-
-**Answer: A.**
-**Explanation:** The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q50. Which option preserves the legal or institutional boundary of J&K AFSPA distinction?
-
-A. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-B. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-C. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-D. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-
-**Answer: B.**
-**Explanation:** The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q51. Which statement uses J&K AFSPA distinction without changing its institution, law or status?
-
-A. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-B. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-C. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-D. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
+A. It is a domestic J&K development scheme outside any foreign-policy dimension.
+B. It converted the LoC into an international border through infrastructure construction.
+C. It crosses Indian territory under Pakistan's illegal occupation, raising sovereignty concerns.
+D. It is prohibited by UNSC Resolution 47 through a completed enforcement order.
 
 **Answer: C.**
-**Explanation:** The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q52. Which option avoids the standard UPSC close-option trap about J&K AFSPA distinction?
+**Option-specific explanation:**
+- **A — incorrect:** CPEC is an external connectivity initiative with sovereignty implications.
+- **B — incorrect:** A project cannot alter the line's legal status.
+- **C — correct:** This is the official MEA position relevant to the J&K security leg.
+- **D — incorrect:** The resolution does not provide that project-specific ruling.
 
-A. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-B. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-C. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-D. The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
+### Q40. Which integrated response best fits the J&K cross-border ecosystem?
 
-**Answer: D.**
-**Explanation:** The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q53. Which statement correctly identifies Village Defence Guards boundary?
-
-A. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-B. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-C. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-D. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-
-**Answer: A.**
-**Explanation:** Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q54. Which option preserves the legal or institutional boundary of Village Defence Guards boundary?
-
-A. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-B. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-C. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-D. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-
-**Answer: B.**
-**Explanation:** Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q55. Which statement uses Village Defence Guards boundary without changing its institution, law or status?
-
-A. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-B. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-C. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-D. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-
-**Answer: C.**
-**Explanation:** Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Village Defence Guards boundary?
-
-A. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-B. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-C. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-D. Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
+A. Measure success through LoC firing and infer the status of recruitment, finance and rights.
+B. Treat constitutional change as a substitute for intelligence, policing and development delivery.
+C. Use development expenditure as proof that proxy sponsorship and local coercion ended.
+D. Deny external support, dismantle facilitators, protect rights and deepen participation.
 
 **Answer: D.**
-**Explanation:** Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
 
-### Q57. Which statement correctly identifies Hearts-and-minds meaning?
+**Option-specific explanation:**
+- **A — incorrect:** Separate channels require separate evidence.
+- **B — incorrect:** Administrative structure cannot perform operational tasks by itself.
+- **C — incorrect:** Input and security outcome are distinct.
+- **D — correct:** It addresses external access, local capability, legitimacy and recovery together.
 
-A. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-B. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-C. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-D. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
+### Answer key — rotation check
 
-**Answer: A.**
-**Explanation:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+`ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD`
 
-### Q58. Which option preserves the legal or institutional boundary of Hearts-and-minds meaning?
+**Count:** 40 original MCQs. **Distribution:** A=10, B=10, C=10, D=10.
 
-A. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-B. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-C. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-D. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-
-**Answer: B.**
-**Explanation:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q59. Which statement uses Hearts-and-minds meaning without changing its institution, law or status?
-
-A. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-B. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-C. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-D. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-
-**Answer: C.**
-**Explanation:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Hearts-and-minds meaning?
-
-A. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-B. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-C. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-D. Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-
-**Answer: D.**
-**Explanation:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q61. Which statement correctly identifies Rehabilitation-evidence rung?
-
-A. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-B. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-C. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-D. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-
-**Answer: A.**
-**Explanation:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q62. Which option preserves the legal or institutional boundary of Rehabilitation-evidence rung?
-
-A. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-B. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-C. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-D. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-
-**Answer: B.**
-**Explanation:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q63. Which statement uses Rehabilitation-evidence rung without changing its institution, law or status?
-
-A. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-B. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-C. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-D. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-
-**Answer: C.**
-**Explanation:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Rehabilitation-evidence rung?
-
-A. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-B. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-C. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-D. A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-
-**Answer: D.**
-**Explanation:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q65. Which statement correctly identifies CPEC bounded route?
-
-A. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-B. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-C. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-D. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-
-**Answer: A.**
-**Explanation:** For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q66. Which option preserves the legal or institutional boundary of CPEC bounded route?
-
-A. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-B. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-C. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-D. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-
-**Answer: B.**
-**Explanation:** For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q67. Which statement uses CPEC bounded route without changing its institution, law or status?
-
-A. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-B. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-C. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-D. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-
-**Answer: C.**
-**Explanation:** For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about CPEC bounded route?
-
-A. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-B. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-C. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-D. For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy.
-
-**Answer: D.**
-**Explanation:** For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q69. Which statement correctly identifies Displacement-and-return boundary?
-
-A. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-B. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-C. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-D. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-
-**Answer: A.**
-**Explanation:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q70. Which option preserves the legal or institutional boundary of Displacement-and-return boundary?
-
-A. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-B. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-C. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-D. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-
-**Answer: B.**
-**Explanation:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q71. Which statement uses Displacement-and-return boundary without changing its institution, law or status?
-
-A. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-B. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-C. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-D. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-
-**Answer: C.**
-**Explanation:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Displacement-and-return boundary?
-
-A. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-B. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-C. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-D. Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-
-**Answer: D.**
-**Explanation:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q73. Which statement correctly identifies Integrated response chain?
-
-A. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-B. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-C. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-D. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-
-**Answer: A.**
-**Explanation:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q74. Which option preserves the legal or institutional boundary of Integrated response chain?
-
-A. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-B. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-C. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-D. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-
-**Answer: B.**
-**Explanation:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q75. Which statement uses Integrated response chain without changing its institution, law or status?
-
-A. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-B. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-C. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-D. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-
-**Answer: C.**
-**Explanation:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Integrated response chain?
-
-A. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-B. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-C. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-D. Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-
-**Answer: D.**
-**Explanation:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q77. Which statement correctly identifies Qualified end-state?
-
-A. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-B. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-C. Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity.
-D. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-
-**Answer: A.**
-**Explanation:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q78. Which option preserves the legal or institutional boundary of Qualified end-state?
-
-A. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-B. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-C. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-D. The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-
-**Answer: B.**
-**Explanation:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q79. Which statement uses Qualified end-state without changing its institution, law or status?
-
-A. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-B. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-C. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-D. The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-
-**Answer: C.**
-**Explanation:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Qualified end-state?
-
-A. Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-B. The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-C. LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-D. Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
-
-**Answer: D.**
-**Explanation:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
+---
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### Ownership and status ledger
 
-The audited GS-III ledger routes the 2018 CPEC cross-subject demand, the 2019 OGW demand and the 2023 Jammu and Kashmir hearts-and-minds demand here. OCR inspection confirmed the 2019 and 2023 printed stems; no official model answer is inferred.
+| ID | Year/paper | Ownership | Wording/key status |
+|---|---|---|---|
+| M1 | 2018 GS-III Q9 | **APPLICATION/CROSS-SUBJECT**; primary Economy, with IR support | Official OCR; explicit 150-word normalisation |
+| M2 | 2019 GS-III Q9 | **DIRECT** | Official wording |
+| M3 | 2023 GS-III Q9 | **DIRECT** | Official wording |
+| M4 | 2026 GS-III Q19 | **DIRECT/SHARED** with Polity | Official wording |
+| M5 | 2020 GS-III Q10 | **APPLICATION**; Topic 01/06 | Official wording |
+| M6 | 2021 GS-III Q19 | **SHARED**; Topic 01 | Official wording |
+| M7 | 2022 GS-III Q9 | **APPLICATION**; Topic 11 | Official wording |
+| M8 | 2023 GS-III Q20 | **APPLICATION**; Topic 10 | Official wording |
+| M9 | 2024 GS-III Q19 | **APPLICATION**; Topic 06 | Official wording with transparent OCR corrections |
+| M10 | 2025 GS-III Q9 | **APPLICATION**; Topic 02 | Official wording |
+| M11 | 2025 GS-II Q4 | **APPLICATION**; Polity | Official wording |
+| M12 | 2026 GS-III Q20 | **APPLICATION**; Topic 10 | Official wording |
+| M13 | 2026 GS-IV Q2(b) | **SHARED**; Ethics | Official exact line |
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Objective-PYQ result:** no direct, shared or material application objective PYQ was identified in the audited 2018–2026 Prelims routing ledgers. No question or key is fabricated to fill the category.
 
-**Detailed examiner-grade model answer:**
+### Mains PYQ M1 — 2018 GS-III Q9 — APPLICATION/CROSS-SUBJECT
 
-**Introduction and thesis:** The answer must resolve the Internal Security demand in ‘AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP’.
+**Ownership:** Primary ledger route: Economy Topic 18. Included here as an Internal Security application; IR supports the broader BRI diplomacy.
 
-**Analytical body:**
+**Wording status:** OFFICIAL LOCAL PAPER — words rejoined; OCR '156' normalised to the printed 150-word demand confirmed by the routing ledger.
 
-1. **Claim:** Define the threat or governance problem and distinguish its actor, intent, capability, geography and harm. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Explain the recruitment, finance, logistics, vulnerability, attack or disruption mechanism before listing responses. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Use a named Indian constitutional provision, statute, notified rule, institution, force, judgment, accord or verified case-status example. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Separate prevention, preparedness, response, intelligence, investigation, prosecution, recovery and resilience. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Evaluate federal coordination, capacity, development legitimacy, rights, oversight and implementation constraints. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Test source, date, jurisdiction, legal character, notification/operational status, uncertainty, exception and residual risk. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\GENERAL-STUDIES-PAPER-III.pdf.md`.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+> The China-Pakistan Economic Corridor (CPEC) is viewed as a cardinal subset of China's larger 'One Belt One Road' initiative. Give a brief description of CPEC and enumerate the reasons why India has distanced itself from the same. **(Answer in 150 words) 10**
 
-**Qualified conclusion:** The answer must resolve the Internal Security demand in ‘AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP’.
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Original model answer (134 words; limit 150):**
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+CPEC links China's Xinjiang region with Pakistan's Arabian Sea coast through BRI infrastructure projects.
 
-**How to improve this answer:** For ‘AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+India's principal objection is sovereignty: MEA states that the corridor passes through Indian territory in Jammu and Kashmir and Ladakh under Pakistan's illegal occupation. Participation could imply acquiescence to an alignment India contests. Improved China–Pakistan logistics may also have dual-use implications and deepen a two-front concern. India objects more broadly where connectivity lacks consultation, transparency, sustainability or respect for territorial integrity.
 
-### PYQ DEMAND CARD 1 — 2018 GS-III
+The issue should not be reduced to terrorism: trade, debt, connectivity and China–Pakistan relations belong mainly to IR and economics. For Internal Security, the key link is that external infrastructure and presence can affect the operating environment around a disputed territory.
 
-**Demand:** CPEC as an OBOR subset and India's strategic objections.
+India therefore supports connectivity in principle but rejects a corridor whose route prejudices its sovereignty claim.
 
-**Status:** Audited routed demand; Enumerate · 10 marks · 150 words. The solution uses only the bounded sovereignty/security leg owned here.
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
 
-**Model solution:** **Accession anchor:** Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity. **LoC legal-status boundary:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Proxy-war mechanism:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Attribution gradient:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **CPEC bounded route:** For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy. **Qualified end-state:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### Mains PYQ M2 — 2019 GS-III Q9 — DIRECT
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2018 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Ownership:** Directly routed to Topic 05.
 
-**Detailed examiner-grade model answer:**
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised.
 
-**Introduction and thesis:** **Accession anchor:** Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity. **LoC legal-status boundary:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Proxy-war mechanism:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Attribution gradient:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **CPEC bounded route:** For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy. **Qualified end-state:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM19-GeneralStudies-III.pdf.md`.
 
-**Analytical body:**
+> The banning of 'Jamaat-e-Islami' in Jammu and Kashmir brought into focus the role of over-ground workers (OGWs) in assisting terrorist organizations. Examine the role played by OGWs in assisting terrorist organizations in insurgency affected areas. Discuss measures to neutralize influence of OGWs. **(Answer in 150 words) 10**
 
-1. **Claim:** Demand: CPEC as an OBOR subset and India's strategic objections. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Audited routed demand; Enumerate · 10 marks · 150 words. The solution uses only the bounded sovereignty/security leg owned here. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+**Original model answer (149 words; limit 150):**
 
-**Qualified conclusion:** **Accession anchor:** Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947 on Defence, External Affairs and Communications; detailed constitutional doctrine belongs to Polity. **LoC legal-status boundary:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Proxy-war mechanism:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Attribution gradient:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **CPEC bounded route:** For CPEC, this owner supplies only the sovereignty and security leg: the corridor passes through territory claimed by India and administered by Pakistan and may affect strategic logistics; wider connectivity and diplomacy belong to IR and Economy. **Qualified end-state:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+An over-ground worker is an alleged non-combatant facilitator linking an underground violent network to local society. Possible roles include reconnaissance, shelter, transport, communication, recruitment, propaganda, finance, weapons movement and warning about security deployment.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+Neutralisation should be role-specific. Community intelligence and witness protection can identify coercion and facilitation; digital and financial investigation can map communications and funds; border and local policing can disrupt routes and safe houses; and forensic capacity can convert intelligence into admissible evidence. Prevention, counselling and rehabilitation may be suitable for susceptible or disengaging youth, while organisers of violent activity require lawful prosecution.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+Precision is essential. Political criticism, religious association, sympathy, membership, material support, conspiracy and participation in violence are not interchangeable. An organisation's proscription or a person's arrest does not prove individual guilt.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2018 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+Durable policy isolates the violent network while preserving trust, because indiscriminate labelling drives communities away from the reporting relationship that effective counter-terrorism needs.
 
-### PYQ DEMAND CARD 2 — 2019 GS-III
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
 
-**Demand:** The role of over-ground workers in assisting terrorist organisations in insurgency-affected areas and measures to neutralise their influence.
+### Mains PYQ M3 — 2023 GS-III Q9 — DIRECT
 
-**Status:** Printed stem inspected in the OCR-searchable official paper; Examine/Discuss · 10 marks · 150 words.
+**Ownership:** Directly routed to Topic 05.
 
-**Model solution:** **Proxy-war mechanism:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Attribution gradient:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **OGW evidentiary boundary:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **OGW function map:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **OGW response chain:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Hearts-and-minds meaning:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Integrated response chain:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Qualified end-state:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Wording status:** OFFICIAL LOCAL PAPER — words and line breaks rejoined.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2019 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf.md`.
 
-**Detailed examiner-grade model answer:**
+> Winning of 'Hearts and Minds' in terrorism-affected areas is an essential step in restoring the trust of the population. Discuss the measures adopted by the Government in this respect as part of the conflict resolution in Jammu and Kashmir. **(Answer in 150 words) 10**
 
-**Introduction and thesis:** **Proxy-war mechanism:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Attribution gradient:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **OGW evidentiary boundary:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **OGW function map:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **OGW response chain:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Hearts-and-minds meaning:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Integrated response chain:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Qualified end-state:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
 
-**Analytical body:**
+**Original model answer (149 words; limit 150):**
 
-1. **Claim:** Demand: The role of over-ground workers in assisting terrorist organisations in insurgency-affected areas and measures to neutralise their influence. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Printed stem inspected in the OCR-searchable official paper; Examine/Discuss · 10 marks · 150 words. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+“Hearts and Minds” means operational legitimacy, not publicity. Government measures in J&K combine security, participation, development, rehabilitation and accountability.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+Intelligence-led policing and proportionate operations protect civilians while reducing indiscriminate disruption. Elections and local institutions create peaceful channels for representation; the 2024 Assembly poll, with officially reported 63.88% turnout, is a participation indicator. Roads, education, health, skills and livelihood programmes can reduce isolation when access and use are verified. Relief, jobs and transit accommodation support displaced Kashmiri migrants, but assistance is not proof of safe voluntary return. Grievance mechanisms, truthful communication, investigation of abuse and fair trials reinforce trust.
 
-**Qualified conclusion:** **Proxy-war mechanism:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Attribution gradient:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **OGW evidentiary boundary:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **OGW function map:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **OGW response chain:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Hearts-and-minds meaning:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Integrated response chain:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Qualified end-state:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Village Defence Guards may improve local warning in vulnerable areas, but require police supervision, vetting, training and weapons accountability.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+No single metric proves conflict resolution. Trust is demonstrated when residents can use institutions, reject coercion and share information without fear; security effectiveness and rights protection must therefore advance together.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2019 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+### Mains PYQ M4 — 2026 GS-III Q19 — DIRECT/SHARED WITH POLITY
 
-### PYQ DEMAND CARD 3 — 2023 GS-III
+**Ownership:** Primary Internal Security owner: Topic 05; Polity owns full constitutional doctrine and judgment analysis.
 
-**Demand:** Winning hearts and minds in terrorism-affected areas and Government measures for conflict resolution in Jammu and Kashmir.
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised; the paper's final use of 'state' is reproduced although J&K's verified status is Union Territory with legislature.
 
-**Status:** Printed stem inspected in the OCR-searchable official paper; Discuss · 10 marks · 150 words.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf.md`.
 
-**Model solution:** **Separate security metrics:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Reorganisation structure:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. **Police-public-order consequence:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. **Hearts-and-minds meaning:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Rehabilitation-evidence rung:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Displacement-and-return boundary:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. **Integrated response chain:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Qualified end-state:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+> Separatist movements have been one of the major factors contributing to militancy and instability in Jammu & Kashmir (J&K). Bring out actions taken by the Government to bring J&K into national mainstream. Discuss pre and post abrogation status of Articles 370 and 35A. Also bring out positive impacts of abrogation of both articles in mainstreaming the state. **(Answer in 250 words) 15**
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2023 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
 
-**Detailed examiner-grade model answer:**
+**Original model answer (215 words; limit 250):**
 
-**Introduction and thesis:** **Separate security metrics:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Reorganisation structure:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. **Police-public-order consequence:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. **Hearts-and-minds meaning:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Rehabilitation-evidence rung:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Displacement-and-return boundary:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. **Integrated response chain:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Qualified end-state:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Mainstreaming J&K requires security from proxy violence, democratic participation, equal legal protection, development and dignified rehabilitation.
 
-**Analytical body:**
+**Pre-2019:** Article 370 structured application of the Constitution to J&K through special consultation/concurrence arrangements. Article 35A, inserted through the 1954 application order, enabled the State legislature to define permanent residents and associated privileges. **Post-2019:** C.O. 272 and C.O. 273 altered this position; the Reorganisation Act created J&K as a Union Territory with legislature and Ladakh without one from 31 October 2019. J&K's Assembly may legislate on applicable State/Concurrent matters except public order and police. The Supreme Court upheld the constitutional actions in December 2023; elections were held in 2024. Statehood had not been restored by official notification on the review date.
 
-1. **Claim:** Demand: Winning hearts and minds in terrorism-affected areas and Government measures for conflict resolution in Jammu and Kashmir. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Printed stem inspected in the OCR-searchable official paper; Discuss · 10 marks · 150 words. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+Government action also includes counter-infiltration, intelligence coordination, terror-finance investigation, local policing, development, migrant relief and political elections. Positive post-change indicators include uniform application of the constitutional/legal framework and 63.88% turnout in the 2024 Assembly election.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+Causation must remain qualified: later participation or security trends may reflect several policies and conditions, while the 2025 Pahalgam case shows residual threat. Legal integration is not by itself social reconciliation, safe return or zero militancy.
 
-**Qualified conclusion:** **Separate security metrics:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Reorganisation structure:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. **Police-public-order consequence:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. **Hearts-and-minds meaning:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Rehabilitation-evidence rung:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Displacement-and-return boundary:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. **Integrated response chain:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Qualified end-state:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Durable mainstreaming needs accountable policing, representative government, rights, livelihoods and voluntary rehabilitation alongside denial of external support.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+### Mains PYQ M5 — 2020 GS-III Q10 — APPLICATION
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2023 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Ownership:** Primary routing owner: Topic 01 with Topic 06 support. Included for border-population trust and denial of militant support.
+
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\Gen_St_P3.pdf.md`.
+
+> For effective border area management, discuss the steps required to be taken to deny local support to militants and also suggest ways to manage favourable perception among locals. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
+
+**Original model answer (149 words; limit 150):**
+
+Border management must deny militant coercion while making lawful administration the more credible local partner.
+
+Protect villages, routes and communications; use local intelligence and precise police action against recruiters, OGWs, weapons and finance; coordinate Army, BSF and J&K Police; and protect witnesses. Improve roads, telecom, health, schools, markets and emergency access, but verify delivery rather than cite sanctions. Create grievance desks, local recruitment and language capacity, timely compensation and accountable investigation of abuse. Strategic communication should provide verified facts and counter intimidation without branding criticism as militancy.
+
+Village Defence Guards can add warning and deterrence where response time is long, but require vetting, training, weapons audit and police command. Rehabilitation and youth opportunity provide exits from coercive networks.
+
+Favourable perception is not a publicity score. It exists when residents can refuse militant demands, obtain services and justice, and cooperate with authorities without fear of retaliation or arbitrary treatment.
+
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
+
+### Mains PYQ M6 — 2021 GS-III Q19 — SHARED
+
+**Ownership:** Primary routing owner: Topic 01. Shared for the externally aided proxy-war mechanism.
+
+**Wording status:** OFFICIAL LOCAL PAPER — punctuation and line breaks normalised.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf.md`.
+
+> Analyse the multidimensional challenges posed by external state and non-state actors, to the internal security of India. Also discuss measures required to be taken to combat these threats. **(Answer in 250 words) 15**
+
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
+
+**Original model answer (181 words; limit 250):**
+
+J&K demonstrates how external State strategy and non-State violence can be operationally linked yet legally distinct.
+
+A sponsor may provide sanctuary, training, finance, weapons, intelligence or information support. Terrorist organisations and infiltrators execute violence; local modules or OGWs may supply reconnaissance, shelter, transport, communication and recruitment. Criminal networks move narcotics, counterfeit currency or value. Drones, tunnels and encrypted media diversify delivery and propaganda. These channels exploit political grievance, difficult terrain, unemployment, weak trust or policing gaps.
+
+Measures should reduce each element: diplomatic pressure and international cooperation against sponsorship; layered LoC surveillance and anti-drone/tunnel capability; financial intelligence and predicate-offence prosecution; MAC-based information sharing; capable J&K Police as local first responder; NIA investigation where the statutory route applies; and fair, timely trials. Participation, truthful communication, services, youth opportunity and migrant rehabilitation reduce local vulnerabilities.
+
+Attribution must state its evidence and status. An intelligence claim, recovered item, arrest and charge-sheet are not equivalent to conviction. Security action should be necessary, proportionate and reviewable.
+
+The objective is to raise the cost of external enablement, dismantle domestic facilitation and strengthen constitutional legitimacy simultaneously.
+
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
+
+### Mains PYQ M7 — 2022 GS-III Q9 — APPLICATION
+
+**Ownership:** Primary routing owner: Topic 11. Included for criminal logistics and finance in the J&K proxy ecosystem.
+
+**Wording status:** OFFICIAL LOCAL PAPER — sentence and line-break normalisation.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf.md`.
+
+> Discuss the types of organised crimes. Describe the linkages between terrorists and organised crime that exist at the national and transnational levels. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
+
+**Original model answer (137 words; limit 150):**
+
+Organised crime includes trafficking in drugs, arms and persons, smuggling, extortion, counterfeit currency, cyber fraud and laundering. Its dominant objective is profit, unlike terrorism's political coercion.
+
+In a cross-border theatre, criminal networks can provide routes, forged documents, weapons, safe houses, corruption and movement of value. Terrorist networks may buy these services, tax illicit trade or offer protection. Drones and tunnels can carry narcotics or arms; hawala and front entities can obscure finance. Local facilitators connect transnational supply to targets and terrain.
+
+Responses require joint border, police, customs, narcotics, cyber and financial intelligence; proof of predicate offences and the terrorism link; beneficial-ownership and transaction analysis; and international legal assistance.
+
+The safeguard is “nexus, not identity.” A drug seizure, hawala transaction or criminal association does not establish terrorist purpose until evidence connects the channel, actor and intended violent use.
+
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
+
+### Mains PYQ M8 — 2023 GS-III Q20 — APPLICATION
+
+**Ownership:** Primary routing owner: Topic 10. Included because terror financing is one leg of the J&K proxy chain.
+
+**Wording status:** OFFICIAL LOCAL PAPER — words rejoined from OCR.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf.md`.
+
+> Give out the major sources of terror funding in India and the efforts being made to curtail these sources. In the light of this, also discuss the aim and objective of the 'No Money for Terror (NMFT)' Conference recently held at New Delhi in November 2022. **(Answer in 250 words) 15**
+
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
+
+**Original model answer (170 words; limit 250):**
+
+Terror funding sustains recruitment, travel, safe houses, communications, weapons and propaganda. In J&K-related networks it may involve alleged external sponsorship, hawala, counterfeit currency, narcotics or contraband, front entities, donations and local facilitation.
+
+Countermeasures must identify the channel. Financial-intelligence and suspicious-transaction analysis trace value; police/NIA investigation links funds to the alleged terrorist purpose; customs, border and narcotics agencies interdict cash and contraband; digital forensics traces communication and virtual assets; lawful freezing, attachment, prosecution and confiscation should be recorded as separate stages. International sanctions, financial-intelligence exchange and mutual legal assistance address overseas nodes.
+
+The third NMFT Ministerial Conference in New Delhi in November 2022 sought stronger international cooperation against formal, informal and technology-enabled terror finance. A conference can align priorities and practices, but it neither freezes an asset nor proves a domestic offence by itself.
+
+Effectiveness should be measured through disrupted networks, adjudicated confiscation, prosecution quality and reduced regeneration. A search, arrest or provisional attachment is an output, not conviction. Detailed FATF and PMLA treatment remains Topic 10's primary domain.
+
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
+
+### Mains PYQ M9 — 2024 GS-III Q19 — APPLICATION
+
+**Ownership:** Primary routing owner: Topic 06. Included for the Pakistan-border and development-security interface.
+
+**Wording status:** OFFICIAL LOCAL PAPER — 'trobled', 'pakistan' and 'management' capitalisation/typos transparently normalised.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\03 UPSC 2024 Paper-III.md`.
+
+> India has a long and troubled border with China and Pakistan fraught with contentious issues. Examine the conflicting issues and security challenges along the border. Also give out the development programme (BADP) and Border Infrastructure and Management (BIM) Scheme. **(Answer in 250 words) 15**
+
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
+
+**Original model answer (188 words; limit 250):**
+
+India's China and Pakistan borders present different legal and operational problems. With Pakistan, the LoC and International Border involve cross-border firing, infiltration, tunnels, drones, arms/narcotics movement and civilian vulnerability; the unresolved territorial dispute and proxy networks add strategic depth. With China, an undemarcated Line of Actual Control, differing perceptions, terrain, infrastructure and military friction dominate.
+
+Management requires sector-specific forces and command, surveillance, roads and communications, integrated check posts where relevant, anti-drone and tunnel capability, local intelligence, resilient villages and diplomatic/military mechanisms. In J&K, the Army and BSF perform assigned border roles while police investigate local facilitation and public-order offences.
+
+BADP supports development of border populations and infrastructure; the Border Infrastructure and Management Scheme supports assets and management capacity. Their exact components, coverage and allocations must be cited from dated official material. A sanctioned road or fence is an input; access, maintenance, livelihood and reduced vulnerability are outcomes.
+
+Development should strengthen resident communities without militarising civil administration or displacing local rights. Border calm, infiltration and local terrorism require separate metrics.
+
+Thus, integrated management combines physical denial, technology, diplomacy and trusted border-area development tailored to each frontier.
+
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
+
+### Mains PYQ M10 — 2025 GS-III Q9 — APPLICATION
+
+**Ownership:** Primary routing owner: Topic 02. Included because J&K is the principal proxy-war manifestation in this topic.
+
+**Wording status:** OFFICIAL LOCAL PAPER — exact English wording with line-break normalisation.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\UPSC Mains 2025 GS Paper 3 3.md`.
+
+> Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
+
+**Original model answer (144 words; limit 150):**
+
+In J&K, terrorism manifests as an externally enabled proxy ecosystem: infiltration or remote delivery, local modules and OGWs, terror finance, recruitment, targeted violence and propaganda. The NIA's Pahalgam case releases provide a current investigation/chargesheet example; they are not a conviction.
+
+Countermeasures must follow the chain. Army and BSF address assigned LoC/border threats; J&K Police provides local intelligence, first response and evidence; MAC supports information sharing; financial and cyber investigation disrupt funds and communication; NIA investigates scheduled offences; courts adjudicate. The 2021 DGMO reaffirmation reduced one border-risk channel but is not a settlement.
+
+Participation, services, youth opportunity, migrant rehabilitation and accountable policing support Hearts and Minds. UAPA, BNS and J&K AFSPA powers require precise legal use, proportionality and review.
+
+Success should be measured separately through firing, infiltration, recruitment, finance, violence, trials, participation and rehabilitation—not inferred from one headline indicator.
+
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
+
+### Mains PYQ M11 — 2025 GS-II Q4 — APPLICATION
+
+**Ownership:** Primary owner: Polity. Included for the post-2019 operational command boundary.
+
+**Wording status:** OFFICIAL LOCAL PAPER — exact English wording with line-break normalisation.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\UPSC Mains 2025 GS Paper 2.md`.
+
+> Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
+
+**Original model answer (138 words; limit 150):**
+
+The 2019 Act created Jammu and Kashmir as a Union Territory with a legislature from 31 October 2019; Ladakh became a Union Territory without one.
+
+Under section 32, the Assembly may legislate on applicable State and Concurrent List matters, but State List Entries 1 and 2—public order and police—are excluded. Parliament retains power to legislate for the Union Territory, and the Lieutenant Governor is its administrator. The Assembly performs representative, legislative, budgetary and executive-accountability functions within that field.
+
+The operational security consequence is significant: even after the 2024 Assembly election, police and public order do not revert to an ordinary State-government chain. Yet elected representation matters for services, grievances and political legitimacy.
+
+As of 27 September 2026, no official statehood-restoration notification was located; election of an Assembly did not itself convert the UT into a State.
+
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
+
+### Mains PYQ M12 — 2026 GS-III Q20 — APPLICATION
+
+**Ownership:** Primary routing owner: Topic 10. Included for the terror-finance limb of cross-border terrorism.
+
+**Wording status:** OFFICIAL LOCAL PAPER — line breaks normalised.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf.md`.
+
+> Discuss counterfeit currency and money laundering as major sources of terror funding in India. State the actions being taken at International level to check these menaces. Highlight the role of Financial Action Task Force (FATF) and methods of compliance by its member states in preventing terror funding. **(Answer in 250 words) 15**
+
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
+
+**Original model answer (179 words; limit 250):**
+
+Counterfeit currency can fund logistics and attack monetary confidence; laundering disguises ownership, origin or destination and converts criminal proceeds into usable value. In a proxy theatre, these channels can connect external handlers, organised crime and local facilitators, but the terrorism link must be proved.
+
+India uses currency and border intelligence, suspicious-transaction reporting, beneficial-ownership checks, investigation of predicate offences, customs/narcotics interdiction, digital forensics and lawful freezing, attachment, prosecution and confiscation. J&K Police and national agencies must preserve the financial-to-operational evidence chain.
+
+International action includes targeted sanctions, financial-intelligence exchange, mutual legal assistance, extradition and regulation of vulnerable payment and virtual-asset channels. FATF sets risk-based AML/CFT standards, conducts mutual evaluations and follow-up, and identifies strategic deficiencies. Members comply through criminalisation, supervision of reporting entities, financial-intelligence units, beneficial-ownership transparency, asset-freezing mechanisms and effective investigation/prosecution.
+
+Compliance documents are not outcomes. Suspicious reports, seizures and provisional attachments should be separated from confirmed confiscation and conviction, with due process and protection of legitimate finance.
+
+The purpose is to make cross-border value traceable, unusable and prosecutable while denying networks the ability to regenerate.
+
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
+
+### Mains PYQ M13 — 2026 GS-IV Q2(b) — SHARED
+
+**Ownership:** Primary owner: Ethics. Shared for J&K AFSPA, counter-terror policing and legitimacy.
+
+**Wording status:** OFFICIAL LOCAL PAPER — exact English sentence.
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-IV.pdf.md`.
+
+> Discuss how national security can be balanced with concerns of human rights. **(Answer in 150 words) 10**
+
+**Demand decoding:** Answer each limb, keep constitutional and operational ownership distinct, name the cross-border mechanism and institution, and qualify status, causation and rights.
+
+**Original model answer (139 words; limit 150):**
+
+Security protects life and constitutional order, while rights sustain legitimacy, reliable intelligence and fair punishment.
+
+Balance requires legality, necessity and proportionality. Border and counter-terror operations should distinguish imminent threats, facilitators, suspects and ordinary residents; identity or criticism cannot replace evidence. Arrest, search, surveillance and property action need recorded reasons, oversight and access to courts. Under the J&K AFSPA, arrested persons and seized property must be handed to police, while prior sanction before prosecution is a procedural filter rather than immunity from investigation.
+
+Timely forensic investigation and trial protect both public safety and liberty. Complaint mechanisms, victim support, truthful communication, political participation and rehabilitation reduce alienation. Strong action remains justified against demonstrated violent threats.
+
+The correct balance is precise and reviewable power: force sufficient to protect citizens, restraints sufficient to prevent arbitrariness, and accountability sufficient to sustain community trust.
+
+**Why this earns marks:** It uses precise status verbs, disaggregated metrics, named law/institution and a qualified conclusion instead of equating one change or statistic with final normalcy.
+
+### Screened-out routing entries — DROPPED FROM THIS TOPIC'S SOLVED CORPUS
+
+- North-East and LWE questions remain with Topics 04 and 03 even when they illustrate the general contrast between proxy and ideological insurgency.
+- Pure constitutional doctrine and case-law questions remain with Polity; only the minimum Article 370/35A and Assembly-status material needed for routed questions appears here.
+- General counter-terror, finance, organised-crime and border questions are included only where they materially test the J&K operating chain, with primary ownership retained.
+- No current incident attribution, infiltration figure, statehood restoration, conviction or safe-return outcome is inferred.
+
+---
+## ORIGINAL MAINS PRACTICE
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Explain why a LoC ceasefire cannot by itself establish the end of cross-border terrorism. Answer in about 150 words.
+**Question:** A reaffirmed LoC ceasefire does not establish the end of cross-border terrorism. Explain. Answer in not more than 150 words.
 
-**Model thesis:** **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Ceasefire understanding. **Named evidence/example:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the legal/status boundary, trace the proxy mechanism, allocate institutional roles and conclude through disaggregated security, participation, development and rights evidence.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (137 words; limit 150):**
 
-- Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-- The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-- LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-- Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-- Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
+The November 2003 ceasefire, reaffirmed by the DGMOs on 25 February 2021, primarily governs firing along the LoC and other sectors. Reduced firing protects border residents and lowers escalation risk, so it is a real humanitarian and security gain.
 
-**Qualified conclusion:** **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Ceasefire understanding. **Named evidence/example:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Cross-border terrorism, however, is a wider ecosystem. Infiltration attempts and successful crossings, tunnels, drone delivery, arms and narcotics, terror finance, handlers, local modules, OGWs, recruitment and propaganda are separately produced and measured. A quiet LoC can therefore coexist with covert logistical activity or hinterland violence.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain why a LoC ceasefire cannot by itself establish the end of cross-border terrorism.…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+The understanding is military-to-military; it is neither a treaty nor a political settlement of the Kashmir dispute. Evaluation should compare each metric over the same period and identify its source.
 
-**Detailed examiner-grade model answer:**
+Thus, ceasefire compliance should be preserved while intelligence, border technology, local policing, financial disruption and lawful prosecution continue against the residual proxy network.
 
-**Introduction and thesis:** **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Ceasefire understanding. **Named evidence/example:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Ceasefire understanding. **Named evidence/example:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Explain why a LoC ceasefire cannot by itself establish the end of cross-border terrorism.…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Every principal claim carries a named document, institution, dated indicator or case status and states what that evidence cannot prove.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Examine the role attributed to over-ground workers and propose evidence-led measures to neutralise unlawful facilitation. Answer in about 150 words.
+**Question:** How should security agencies identify and neutralise OGWs without turning a functional category into collective suspicion? Answer in not more than 150 words.
 
-**Model thesis:** **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW function map. **Named evidence/example:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the legal/status boundary, trace the proxy mechanism, allocate institutional roles and conclude through disaggregated security, participation, development and rights evidence.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (134 words; limit 150):**
 
-- The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-- Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-- An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-- Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-- Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-- Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
+OGW should denote an alleged facilitation function, not a social identity. Agencies must specify the conduct: reconnaissance, shelter, transport, communication, recruitment, propaganda, finance, weapons movement or warning.
 
-**Qualified conclusion:** **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW function map. **Named evidence/example:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Neutralisation should use corroborated human and technical intelligence, financial and digital trails, lawful search, witness protection and forensic chain of custody. Immediate action is justified against a demonstrated violent conspiracy; susceptible or disengaging youth may need counselling, family/community support and rehabilitation. Prosecution should allege the precise offence and mental element.
 
-**Demand decoding:** The directive **examine** requires a direct position on ‘Examine the role attributed to over-ground workers and propose evidence-led measures to…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+Safeguards include behaviour-based selection, supervisory approval, reasoned records, periodic case review, timely charge-sheet/trial, complaint mechanisms and separation of criticism, association, sympathy, membership and material support.
 
-**Detailed examiner-grade model answer:**
+Indiscriminate labelling is both unjust and counter-productive: it creates false positives, weakens community reporting and supports hostile propaganda. Precision isolates the network while preserving the population as a security partner.
 
-**Introduction and thesis:** **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW function map. **Named evidence/example:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW function map. **Named evidence/example:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Examine the role attributed to over-ground workers and propose evidence-led measures to…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Every principal claim carries a named document, institution, dated indicator or case status and states what that evidence cannot prove.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Analyse the proxy-war mechanism in Jammu and Kashmir while preserving attribution and rights safeguards. Answer in about 250 words.
+**Question:** Analyse the operational internal-security consequences of the Jammu and Kashmir Reorganisation Act, 2019. Answer in not more than 250 words.
 
-**Model thesis:** **Claim:** LoC legal-status boundary. **Named evidence/example:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW function map. **Named evidence/example:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the legal/status boundary, trace the proxy mechanism, allocate institutional roles and conclude through disaggregated security, participation, development and rights evidence.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (204 words; limit 250):**
 
-- The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-- The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-- Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-- LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-- An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-- Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof.
-- Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-- Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-- Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
+The Reorganisation Act changed the territorial and administrative framework from 31 October 2019: Jammu and Kashmir became a Union Territory with legislature and Ladakh a Union Territory without legislature.
 
-**Qualified conclusion:** **Claim:** LoC legal-status boundary. **Named evidence/example:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW function map. **Named evidence/example:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The principal internal-security consequence is section 32's exclusion of public order and police from the J&K Assembly's legislative competence. The command chain is therefore Lieutenant-Governor/Union-centred rather than the ordinary Centre–State model. This can shorten coordination between Union intelligence, central forces and the police and produce uniform legal/administrative action across the UT.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse the proxy-war mechanism in Jammu and Kashmir while preserving attribution and rights…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+Yet centralisation does not guarantee capability or legitimacy. Local police knowledge, elected-government cooperation, grievance access and accountable use of force remain necessary. If political participation and service delivery lag, a faster command chain may still face weak trust. Elections in 2024 restored an Assembly and yielded 63.88% turnout, but election participation does not restore statehood or prove every security outcome.
 
-**Detailed examiner-grade model answer:**
+The constitutional validity of the 2019 actions and detailed Article 370 doctrine belong to Polity; operational analysis should focus on authority, coordination, accountability and measurable results. As of 27 September 2026, no official statehood-restoration notification was located.
 
-**Introduction and thesis:** **Claim:** LoC legal-status boundary. **Named evidence/example:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW function map. **Named evidence/example:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The Act altered governance architecture; whether that architecture produces durable normalcy must be tested through disaggregated security, rights, development and participation indicators.
 
-**Analytical body:**
-
-1. **Claim:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-9. **Claim:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** LoC legal-status boundary. **Named evidence/example:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW function map. **Named evidence/example:** Possible facilitation functions include reconnaissance or information, shelter and logistics, communications, recruitment or propaganda, and finance, but each alleged function requires case-specific proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Analyse the proxy-war mechanism in Jammu and Kashmir while preserving attribution and rights…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Every principal claim carries a named document, institution, dated indicator or case status and states what that evidence cannot prove.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Discuss the operational internal-security consequences of the 2019 reorganisation without entering the constitutional merits. Answer in about 250 words.
+**Question:** Construct a rigorous normalcy dashboard for Jammu and Kashmir and explain why a single headline indicator is inadequate. Answer in not more than 250 words.
 
-**Model thesis:** **Claim:** Reorganisation structure. **Named evidence/example:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Police-public-order consequence. **Named evidence/example:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Constitutional-domain firewall. **Named evidence/example:** Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** J&K AFSPA distinction. **Named evidence/example:** The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the legal/status boundary, trace the proxy mechanism, allocate institutional roles and conclude through disaggregated security, participation, development and rights evidence.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (204 words; limit 250):**
 
-- The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one.
-- Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.
-- Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences.
-- The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East.
-- Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-- Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
+Normalcy is a multidimensional condition, not the absence of one visible form of unrest.
 
-**Qualified conclusion:** **Claim:** Reorganisation structure. **Named evidence/example:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Police-public-order consequence. **Named evidence/example:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Constitutional-domain firewall. **Named evidence/example:** Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** J&K AFSPA distinction. **Named evidence/example:** The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+A **security dashboard** should separately record LoC firing, infiltration attempts and successful infiltration, tunnel/drone delivery, local recruitment, terror-finance networks, terrorist-initiated incidents, civilian harm and force casualties. A **justice dashboard** should track investigation quality, charge-sheets, trial time, convictions/acquittals, complaint investigation and remedies. A **political dashboard** should measure election participation, competitive space, functioning institutions and grievance access. A **development dashboard** should measure service uptime, mobility, livelihood and project use rather than announcements. A **rehabilitation dashboard** should track housing, jobs, safety, voluntary return and durable settlement of displaced people. A **rights dashboard** should examine detention, proportionality, non-discrimination and public trust.
 
-**Demand decoding:** The directive **discuss** requires a direct position on ‘Discuss the operational internal-security consequences of the 2019 reorganisation without…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+The indicators may move differently. A ceasefire can reduce firing while infiltration persists; high turnout can coexist with political disagreement; tourist growth can coexist with targeted violence; an arrest can end in acquittal; accommodation construction need not produce safe return. The 2025 Pahalgam chargesheet status illustrates residual threat even amid other gains.
 
-**Detailed examiner-grade model answer:**
+Each series needs a source, period, denominator and geographic scope. Causal claims about the 2019 change require comparison and competing explanations.
 
-**Introduction and thesis:** **Claim:** Reorganisation structure. **Named evidence/example:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Police-public-order consequence. **Named evidence/example:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Constitutional-domain firewall. **Named evidence/example:** Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** J&K AFSPA distinction. **Named evidence/example:** The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+A dashboard therefore supports calibrated policy and prevents “normalcy” from becoming either denial of progress or unsupported triumphalism.
 
-**Analytical body:**
-
-1. **Claim:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Reorganisation structure. **Named evidence/example:** The Jammu and Kashmir Reorganisation Act, 2019 created the Union Territory of Jammu and Kashmir with a legislature and the Union Territory of Ladakh without one. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Police-public-order consequence. **Named evidence/example:** Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Constitutional-domain firewall. **Named evidence/example:** Article 370's text, the 2019 constitutional measures and the December 2023 Supreme Court reasoning belong to Polity; this topic uses only clearly identified operational internal-security consequences. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** J&K AFSPA distinction. **Named evidence/example:** The Armed Forces (Jammu and Kashmir) Special Powers Act, 1990 is distinct from the Armed Forces (Special Powers) Act, 1958 applicable in parts of the North-East. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Discuss the operational internal-security consequences of the 2019 reorganisation without…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Every principal claim carries a named document, institution, dated indicator or case status and states what that evidence cannot prove.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Critically evaluate the hearts-and-minds approach as part of conflict resolution in Jammu and Kashmir. Answer in about 300 words.
+**Question:** Design an integrated strategy to dismantle the cross-border terrorism ecosystem in Jammu and Kashmir. Answer in not more than 300 words.
 
-**Model thesis:** **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Village Defence Guards boundary. **Named evidence/example:** Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Rehabilitation-evidence rung. **Named evidence/example:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Displacement-and-return boundary. **Named evidence/example:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the legal/status boundary, trace the proxy mechanism, allocate institutional roles and conclude through disaggregated security, participation, development and rights evidence.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (222 words; limit 300):**
 
-- LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-- An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-- Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-- Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks.
-- Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-- A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-- Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source.
-- Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-- Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
+The strategy should target the complete sponsor-to-attack chain rather than the visible infiltrator.
 
-**Qualified conclusion:** **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Village Defence Guards boundary. **Named evidence/example:** Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Rehabilitation-evidence rung. **Named evidence/example:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Displacement-and-return boundary. **Named evidence/example:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**External layer:** combine diplomatic attribution supported by evidence, international sanctions and financial cooperation, and military communication that preserves the LoC ceasefire. **Border layer:** integrate Army/BSF roles, surveillance, counter-infiltration, tunnel detection, anti-drone capability, protected villages and rapid information sharing. Measure attempts, successful crossings and seizures separately.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Critically evaluate the hearts-and-minds approach as part of conflict resolution in Jammu and…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Local network:** J&K Police should map handlers, local modules and OGW functions—shelter, reconnaissance, transport, communication, recruitment, finance and weapons. Intelligence must become admissible digital, financial, forensic and witness evidence. NIA should investigate scheduled offences through statute; courts determine guilt.
 
-**Detailed examiner-grade model answer:**
+**Finance and technology:** trace hawala, counterfeit currency, narcotics, front entities and virtual channels; preserve digital chain of custody; distinguish freezing/attachment from confiscation and conviction. **Prevention:** target recruiter conduct, provide family/community off-ramps, youth opportunity and credible grievance routes without profiling identity or criminalising criticism.
 
-**Introduction and thesis:** **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Village Defence Guards boundary. **Named evidence/example:** Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Rehabilitation-evidence rung. **Named evidence/example:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Displacement-and-return boundary. **Named evidence/example:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Legitimacy and recovery:** use proportionate force, investigate abuse, assist victims, support elected institutions and deliver services. Migrant relief should progress toward safe voluntary rehabilitation. VDGs require police command, vetting and weapons audit.
 
-**Analytical body:**
+A common dashboard should track border, network, justice, participation, rights and rehabilitation outcomes. The 2021 ceasefire and post-2019 administrative changes are enabling conditions, not proof of final success.
 
-1. **Claim:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-9. **Claim:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+Durable security exists when external support cannot regenerate local coercion and ordinary constitutional institutions retain public confidence.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Village Defence Guards boundary. **Named evidence/example:** Village Defence Committees were renamed Village Defence Guards and operate under district SP or SSP supervision; local presence and warning benefits must be balanced against training, command and accountability risks. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Rehabilitation-evidence rung. **Named evidence/example:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Displacement-and-return boundary. **Named evidence/example:** Kashmiri Pandit displacement is a durable rehabilitation and justice issue; any present return, residence, employment or security outcome requires a dated official source. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Critically evaluate the hearts-and-minds approach as part of conflict resolution in Jammu and…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Claim → evidence → analysis → qualification check:** Every principal claim carries a named document, institution, dated indicator or case status and states what that evidence cannot prove.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Assess India's integrated response to cross-border proxy warfare across ceasefire, infiltration, facilitation, finance, governance and rehabilitation dimensions. Answer in about 300 words.
+**Question:** Critically examine the role of development, democratic participation and rehabilitation in resolving a proxy-war theatre such as Jammu and Kashmir. Answer in not more than 300 words.
 
-**Model thesis:** **Claim:** LoC legal-status boundary. **Named evidence/example:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Ceasefire understanding. **Named evidence/example:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Rehabilitation-evidence rung. **Named evidence/example:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Demand decoding:** Identify the legal/status boundary, trace the proxy mechanism, allocate institutional roles and conclude through disaggregated security, participation, development and rights evidence.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (221 words; limit 300):**
 
-- The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary.
-- The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation.
-- Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label.
-- The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.
-- LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently.
-- An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.
-- Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence.
-- Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.
-- A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution.
-- Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes.
-- Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved.
+In a proxy-war theatre, security action is necessary to protect citizens and deny external networks, but it cannot by itself create political legitimacy or repair displacement.
 
-**Qualified conclusion:** **Claim:** LoC legal-status boundary. **Named evidence/example:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Ceasefire understanding. **Named evidence/example:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Rehabilitation-evidence rung. **Named evidence/example:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Development** reduces isolation through roads, telecom, education, health, skills and livelihoods. Its effect depends on completion, access, local participation and fair distribution; expenditure or tourist numbers are not synonymous with security. **Democratic participation** provides a non-violent channel for representation and accountability. The 2024 Assembly election's 63.88% turnout is a verified participation indicator, not proof that each grievance vanished or that one reform caused it. **Rehabilitation** must move beyond cash, ration, jobs or transit accommodation to safety, property access, livelihood, dignity, community acceptance and voluntary return or settlement.
 
-**Demand decoding:** The directive **assess** requires a direct position on ‘Assess India's integrated response to cross-border proxy warfare across ceasefire,…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+These tracks also improve intelligence by increasing trust and weakening recruiter narratives. However, development cannot substitute for action against infiltration, finance, OGWs or imminent violence. Participation is constrained if public order and policing lack accountability, while rehabilitation fails if return is unsafe.
 
-**Detailed examiner-grade model answer:**
+Policy should protect elected institutions, institutionalise grievance redress, publish delivery milestones, audit coercive power, secure witnesses, create youth and community off-ramps, and assess displaced people's choices. Security, political, development, rights and rehabilitation indicators should be reported separately.
 
-**Introduction and thesis:** **Claim:** LoC legal-status boundary. **Named evidence/example:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Ceasefire understanding. **Named evidence/example:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Rehabilitation-evidence rung. **Named evidence/example:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The calibrated conclusion is that development and democracy do not “buy” peace; they build the legitimate ordinary order that must replace both proxy coercion and permanent exceptional governance.
 
-**Analytical body:**
+**Claim → evidence → analysis → qualification check:** Every principal claim carries a named document, institution, dated indicator or case status and states what that evidence cannot prove.
 
-1. **Claim:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-9. **Claim:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-10. **Claim:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-11. **Claim:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+## Practice coverage and integrity declaration
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** LoC legal-status boundary. **Named evidence/example:** The Line of Control replaced the earlier ceasefire line after the 1971 war and the Shimla process; it is not described here as an internationally recognised boundary. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Proxy-war mechanism. **Named evidence/example:** The owner frames J&K militancy as externally enabled proxy warfare using deniable non-state intermediaries, infiltration, finance, weapons, propaganda and local facilitation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Attribution gradient. **Named evidence/example:** Cross-border attribution must identify the evidentiary basis—material, communications, cadre origin, training provenance, financing trail or state-institution linkage—rather than rely on an unsupported label. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Ceasefire understanding. **Named evidence/example:** The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Separate security metrics. **Named evidence/example:** LoC firing, attempted and successful infiltration, local recruitment, financing, drone or tunnel delivery, and hinterland incidents are distinct metrics that can move independently. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW evidentiary boundary. **Named evidence/example:** An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** OGW response chain. **Named evidence/example:** Neutralising facilitation requires protected community reporting, evidence-led investigation, lawful financial tracing, prevention or rehabilitation where appropriate, and prosecution on admissible evidence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Hearts-and-minds meaning. **Named evidence/example:** Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Rehabilitation-evidence rung. **Named evidence/example:** A relief package, job, accommodation or registered beneficiary is an implementation input; none alone proves safe return, restored trust or conflict resolution. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Integrated response chain. **Named evidence/example:** Counter-infiltration, intelligence, policing, counter-finance, evidence-led investigation, prosecution, governance and communication are complementary layers rather than substitutes. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Qualified end-state. **Named evidence/example:** Durable security requires disruption of the proxy mechanism alongside civilian protection, lawful accountability, accountable local governance, rehabilitation and trust; a quieter LoC does not prove the wider conflict resolved. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Assess India's integrated response to cross-border proxy warfare across ceasefire,…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+- **Original MCQs:** exactly 40; four substantive options and four option-specific explanations each.
+- **Key rotation:** ABCD repeated ten times; A=10, B=10, C=10, D=10.
+- **Verified PYQs:** four direct/direct-cross questions and nine explicitly labelled shared/application Mains questions; no material objective PYQ found.
+- **Original Mains:** exactly six — two 10-mark, two 15-mark and two 20-mark questions.
+- **Status discipline:** ceasefire, infiltration, designation, arrest, charge-sheet, conviction, constitutional change, UT status, election participation, development output and durable normalcy remain separate.

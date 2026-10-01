@@ -1,1243 +1,981 @@
-# Climate Change Science Greenhouse Effect — Solved Practice Workbook
+# Climate Change Science and Greenhouse Effect — Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-06. Uses the same source-bounded ecological distinctions and strict A-B-C-D rotation.
+> **Topic:** Environment and Ecology 17
+> **Evidence cut-off:** 29 September 2026
+> **Design:** Exactly 40 original MCQs with strict `ABCD` rotation ten times, seven full-option Prelims PYQs, three routed Mains PYQs and six original Mains models.
+> **Ownership firewall:** Physical science is owned here; IPCC architecture, treaties, India policy and carbon-market/removal policy route to Topics 18-21.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Natural greenhouse effect?
+### MCQ 1
 
-A. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-B. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-C. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-D. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
+Which one of the following most accurately distinguishes weather from climate?
 
-**Answer: A.**
-**Explanation:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Weather is the state of the atmosphere over short periods, whereas climate is the statistical distribution of weather over a long period.
+B. Weather concerns only rainfall, whereas climate concerns only temperature.
+C. Weather is local, whereas climate can only be global.
+D. Weather is observed, whereas climate is produced only by models.
 
-### Q2. Which option preserves the ecological boundary of Natural greenhouse effect?
+**Answer: A**
 
-A. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-B. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-C. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-D. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
+- **A — Correct:** It preserves both time-scale and statistical-distribution distinctions.
+- **B — Incorrect:** Both weather and climate include temperature, precipitation, wind, humidity and other variables.
+- **C — Incorrect:** Climate can be local, regional or global.
+- **D — Incorrect:** Climate is derived from observations as well as analysed and projected with models.
 
-**Answer: B.**
-**Explanation:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 2
 
-### Q3. Which statement uses Natural greenhouse effect without changing its scale, parameter or status?
+Consider the following statements:
 
-A. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-B. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-C. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-D. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
+1. Internal climate variability can temporarily amplify or offset a long-term trend in a region.
+2. A single unusually cool year cannot by itself disprove long-term global warming.
 
-**Answer: C.**
-**Explanation:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which of the statements given above is/are correct?
 
-### Q4. Which option avoids the standard UPSC close-option trap about Natural greenhouse effect?
+A. 1 only
+B. Both 1 and 2
+C. 2 only
+D. Neither 1 nor 2
 
-A. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-B. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-C. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-D. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Statement 2 is also correct.
+- **B — Correct:** Internal variability changes short-period outcomes around the forced trend; one year is insufficient trend evidence.
+- **C — Incorrect:** Statement 1 correctly describes variability.
+- **D — Incorrect:** Both statements follow the weather-climate and variability-trend distinction.
 
-### Q5. Which statement correctly identifies Enhanced anthropogenic forcing?
+### MCQ 3
 
-A. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-B. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-C. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-D. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
+Which sequence best represents the basic terrestrial energy-budget mechanism?
 
-**Answer: A.**
-**Explanation:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Longwave sunlight -> surface reflection only -> ozone depletion -> cooling
+B. Shortwave sunlight -> complete atmospheric absorption -> no surface heating -> longwave escape
+C. Shortwave solar input -> reflection and absorption -> surface longwave emission -> greenhouse absorption and re-emission
+D. Infrared sunlight -> ocean acidification -> cloud removal -> surface warming
 
-### Q6. Which option preserves the ecological boundary of Enhanced anthropogenic forcing?
+**Answer: C**
 
-A. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-B. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-C. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-D. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
+- **A — Incorrect:** Solar input is predominantly shortwave, and the sequence omits absorption and surface emission.
+- **B — Incorrect:** The atmosphere does not absorb all incoming shortwave radiation.
+- **C — Correct:** It captures incoming shortwave, albedo/absorption, outgoing longwave and GHG interaction.
+- **D — Incorrect:** Ocean acidification is a carbon-chemistry impact, not a step in the radiative sequence.
 
-**Answer: B.**
-**Explanation:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 4
 
-### Q7. Which statement uses Enhanced anthropogenic forcing without changing its scale, parameter or status?
+Which statement about the greenhouse effect is correct?
 
-A. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-B. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-C. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-D. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
+A. Any greenhouse effect is necessarily anthropogenic.
+B. Eliminating atmospheric water vapour would be the principal feasible mitigation strategy.
+C. The greenhouse effect operates mainly by blocking incoming visible sunlight.
+D. The natural greenhouse effect is life-enabling; the present problem is its anthropogenic enhancement.
 
-**Answer: C.**
-**Explanation:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q8. Which option avoids the standard UPSC close-option trap about Enhanced anthropogenic forcing?
+- **A — Incorrect:** A natural greenhouse effect existed before industrialisation.
+- **B — Incorrect:** Water vapour is rapidly cycled and mainly responds as a feedback.
+- **C — Incorrect:** GHGs principally interact with outgoing infrared radiation.
+- **D — Correct:** This is the essential natural-versus-enhanced distinction.
 
-A. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-B. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-C. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-D. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
+### MCQ 5
 
-**Answer: D.**
-**Explanation:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+With reference to atmospheric carbon dioxide, which statement is most accurate?
 
-### Q9. Which statement correctly identifies Shortwave-longwave distinction?
+A. It has no single atmospheric lifetime because carbon is exchanged among multiple reservoirs on different timescales.
+B. Every emitted CO2 molecule remains in the atmosphere for exactly 100 years.
+C. Its concentration falls whenever annual emissions grow more slowly than before.
+D. Natural sinks permanently remove all anthropogenic CO2 within a decade.
 
-A. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-B. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-C. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-D. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
+**Answer: A**
 
-**Answer: A.**
-**Explanation:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Correct:** Ocean, land and geological processes remove fractions over years to millennia.
+- **B — Incorrect:** A single fixed lifetime is scientifically misleading for CO2.
+- **C — Incorrect:** Slower emissions growth can still add to the atmospheric stock.
+- **D — Incorrect:** Sinks absorb only part of emissions and storage can be reversible.
 
-### Q10. Which option preserves the ecological boundary of Shortwave-longwave distinction?
+### MCQ 6
 
-A. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-B. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-C. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-D. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
+Why is atmospheric water vapour treated mainly as a climate feedback in contemporary global warming?
 
-**Answer: B.**
-**Explanation:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. It does not absorb infrared radiation.
+B. Its atmospheric abundance responds rapidly to temperature through evaporation and condensation.
+C. It remains chemically unchanged for centuries.
+D. Human activity cannot alter humidity at any scale.
 
-### Q11. Which statement uses Shortwave-longwave distinction without changing its scale, parameter or status?
+**Answer: B**
 
-A. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-B. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-C. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-D. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
+- **A — Incorrect:** Water vapour is a powerful infrared absorber.
+- **B — Correct:** Long-lived forcing warms the atmosphere, increasing water vapour and amplifying the response.
+- **C — Incorrect:** Water vapour has a short residence time.
+- **D — Incorrect:** Human activity can affect local humidity, but direct emissions are not the dominant global long-lived forcing.
 
-**Answer: C.**
-**Explanation:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 7
 
-### Q12. Which option avoids the standard UPSC close-option trap about Shortwave-longwave distinction?
+Consider the following pairs:
 
-A. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-B. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-C. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-D. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
+1. Tropospheric ozone — short-lived warming pollutant
+2. Stratospheric ozone — absorbs harmful ultraviolet radiation
+3. Ozone — emitted directly in large quantities from vehicle exhaust
 
-**Answer: D.**
-**Explanation:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which of the pairs/statements are correctly matched?
 
-### Q13. Which statement correctly identifies Emission-concentration distinction?
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-A. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-B. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-C. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-D. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
+**Answer: C**
 
-**Answer: A.**
-**Explanation:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Statement 2 is also correct.
+- **B — Incorrect:** Ozone is generally formed secondarily from precursor pollutants.
+- **C — Correct:** Tropospheric and stratospheric ozone have distinct but valid roles.
+- **D — Incorrect:** Statement 3 is false.
 
-### Q14. Which option preserves the ecological boundary of Emission-concentration distinction?
+### MCQ 8
 
-A. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-B. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-C. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-D. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
+Which one of the following statements about aerosols is correct?
 
-**Answer: B.**
-**Explanation:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Every aerosol warms the climate.
+B. Aerosols are well mixed globally for centuries.
+C. Black carbon cools by reflecting sunlight and brightening snow.
+D. Many aerosols exert net cooling, while black carbon warms and can reduce snow/ice albedo.
 
-### Q15. Which statement uses Emission-concentration distinction without changing its scale, parameter or status?
+**Answer: D**
 
-A. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-B. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-C. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-D. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
+- **A — Incorrect:** Sulphate and many aerosols cool.
+- **B — Incorrect:** Most aerosols are short-lived and regionally concentrated.
+- **C — Incorrect:** Black carbon absorbs radiation and darkens snow.
+- **D — Correct:** It preserves aerosol diversity and the black-carbon exception.
 
-**Answer: C.**
-**Explanation:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 9
 
-### Q16. Which option avoids the standard UPSC close-option trap about Emission-concentration distinction?
+In climate accounting, which sequence is correctly described?
 
-A. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-B. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-C. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-D. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
+A. Emission is a flow; concentration is atmospheric abundance; stock is accumulated burden.
+B. Emission and concentration are interchangeable units.
+C. Stock refers only to carbon stored in forests.
+D. Concentration is measured only as tonnes per year.
 
-**Answer: D.**
-**Explanation:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q17. Which statement correctly identifies Stock-flow distinction?
+- **A — Correct:** It separates flow, atmospheric state and accumulation.
+- **B — Incorrect:** Emissions and concentrations have different units and causal positions.
+- **C — Incorrect:** Atmospheric GHG burden is also a stock.
+- **D — Incorrect:** Concentrations are commonly expressed in ppm or ppb.
 
-A. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-B. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-C. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-D. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
+### MCQ 10
 
-**Answer: A.**
-**Explanation:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+IPCC AR6 assessed the average partition of anthropogenic CO2 emissions during 2010-2019 approximately as:
 
-### Q18. Which option preserves the ecological boundary of Stock-flow distinction?
+A. 23% atmosphere, 46% ocean, 31% land
+B. 46% atmosphere, 23% ocean, 31% land
+C. 31% atmosphere, 23% ocean, 46% land
+D. 56% atmosphere, 44% ocean and land combined
 
-A. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-B. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-C. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-D. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
+**Answer: B**
 
-**Answer: B.**
-**Explanation:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** It swaps atmospheric accumulation and ocean uptake.
+- **B — Correct:** The assessed decadal partition was 46/23/31.
+- **C — Incorrect:** Land was not assessed at 46%.
+- **D — Incorrect:** About 56% was taken up by land and ocean together over the longer six-decade framing, leaving a mean airborne fraction near 44%.
 
-### Q19. Which statement uses Stock-flow distinction without changing its scale, parameter or status?
+### MCQ 11
 
-A. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-B. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-C. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-D. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
+Which statement correctly distinguishes GWP from GTP?
 
-**Answer: C.**
-**Explanation:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. GWP measures concentration; GTP measures emissions.
+B. GWP has no time horizon; GTP always uses 100 years.
+C. GWP integrates radiative forcing over a chosen horizon, whereas GTP compares temperature change at a chosen future time.
+D. GWP and GTP necessarily assign identical rankings to all gases.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Stock-flow distinction?
+**Answer: C**
 
-A. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-B. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-C. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-D. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
+- **A — Incorrect:** Both are emission metrics relative to CO2.
+- **B — Incorrect:** Both require a time horizon.
+- **C — Correct:** It states the integrated-energy versus endpoint-temperature distinction.
+- **D — Incorrect:** Rankings can differ with metric and horizon.
 
-**Answer: D.**
-**Explanation:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 12
 
-### Q21. Which statement correctly identifies Forcing-feedback distinction?
+Why must a methane GWP figure always be accompanied by a time horizon?
 
-A. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-B. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-C. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-D. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
+A. Methane is not a greenhouse gas after 20 years.
+B. CO2 has no radiative effect over 100 years.
+C. GWP changes only with national emissions inventories.
+D. Methane is relatively short-lived, so its integrated influence relative to CO2 is much larger over 20 years than over 100 years.
 
-**Answer: A.**
-**Explanation:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q22. Which option preserves the ecological boundary of Forcing-feedback distinction?
+- **A — Incorrect:** Methane remains relevant and is continuously emitted.
+- **B — Incorrect:** CO2 persists and warms over long timescales.
+- **C — Incorrect:** The metric is physical, though inventories apply it.
+- **D — Correct:** Lifetime and integration horizon drive the difference.
 
-A. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-B. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-C. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-D. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
+### MCQ 13
 
-**Answer: B.**
-**Explanation:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which one of the following is a forcing rather than a feedback or impact?
 
-### Q23. Which statement uses Forcing-feedback distinction without changing its scale, parameter or status?
+A. Increased atmospheric CO2 from fossil-fuel combustion
+B. Increased water vapour following warming
+C. Sea-level rise following ocean warming
+D. Adaptation of coastal infrastructure
 
-A. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-B. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-C. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-D. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
+**Answer: A**
 
-**Answer: C.**
-**Explanation:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Correct:** Added CO2 imposes positive radiative forcing.
+- **B — Incorrect:** This is principally a feedback.
+- **C — Incorrect:** This is a climate response/impact.
+- **D — Incorrect:** This is a societal response.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Forcing-feedback distinction?
+### MCQ 14
 
-A. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-B. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-C. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-D. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
+Which combination correctly states the usual global signs of major feedbacks?
 
-**Answer: D.**
-**Explanation:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Water vapour negative; ice-albedo negative; lapse rate positive
+B. Water vapour positive; ice-albedo positive; lapse rate generally negative
+C. Water vapour neutral; cloud always negative; permafrost negative
+D. All feedbacks are positive by definition
 
-### Q25. Which statement correctly identifies Feedback sign?
+**Answer: B**
 
-A. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-B. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-C. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-D. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
+- **A — Incorrect:** It reverses the standard global signs.
+- **B — Correct:** Water vapour and ice-albedo amplify warming; global lapse-rate feedback generally damps it.
+- **C — Incorrect:** Water vapour, net cloud and permafrost feedbacks are not described correctly.
+- **D — Incorrect:** Negative feedbacks damp change.
 
-**Answer: A.**
-**Explanation:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 15
 
-### Q26. Which option preserves the ecological boundary of Feedback sign?
+Permafrost thaw can amplify warming primarily because it:
 
-A. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-B. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-C. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-D. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
+A. permanently raises snow albedo.
+B. removes all methane from the atmosphere.
+C. exposes frozen organic matter to decomposition, releasing CO2 and CH4.
+D. converts land ice directly into floating sea ice.
 
-**Answer: B.**
-**Explanation:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q27. Which statement uses Feedback sign without changing its scale, parameter or status?
+- **A — Incorrect:** Thaw generally reduces frozen cover.
+- **B — Incorrect:** Thaw can add methane under anaerobic conditions.
+- **C — Correct:** Carbon release creates a positive carbon-cycle feedback.
+- **D — Incorrect:** Permafrost is frozen ground, not an ice-sheet-to-sea-ice converter.
 
-A. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-B. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-C. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-D. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
+### MCQ 16
 
-**Answer: C.**
-**Explanation:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which statement best reflects IPCC AR6’s assessment of cloud feedback?
 
-### Q28. Which option avoids the standard UPSC close-option trap about Feedback sign?
+A. Every cloud change warms equally.
+B. Net cloud feedback is certainly zero.
+C. Cloud feedback is fully known and no longer contributes uncertainty.
+D. Net cloud feedback is assessed as positive, while cloud processes remain the largest contribution to overall feedback uncertainty.
 
-A. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-B. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-C. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-D. A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Cloud type, height, thickness and location matter.
+- **B — Incorrect:** AR6 assessed a positive net cloud feedback.
+- **C — Incorrect:** Understanding improved, but uncertainty remains.
+- **D — Correct:** It combines assessed sign with retained uncertainty.
 
-### Q29. Which statement correctly identifies Water-vapour boundary?
+### MCQ 17
 
-A. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-B. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-C. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-D. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
+Equilibrium Climate Sensitivity is:
 
-**Answer: A.**
-**Explanation:** Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. the eventual global warming after sustained doubling of atmospheric CO2 once the fast climate system approaches equilibrium.
+B. the temperature on the day annual CO2 emissions double.
+C. the warming caused only by methane over 20 years.
+D. a projection tied uniquely to SSP5-8.5.
 
-### Q30. Which option preserves the ecological boundary of Water-vapour boundary?
+**Answer: A**
 
-A. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-B. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-C. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-D. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
+- **A — Correct:** This is the standard ECS concept.
+- **B — Incorrect:** ECS concerns concentration doubling and equilibrium response.
+- **C — Incorrect:** ECS is defined for CO2 doubling.
+- **D — Incorrect:** ECS is not one scenario’s projection.
 
-**Answer: B.**
-**Explanation:** Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 18
 
-### Q31. Which statement uses Water-vapour boundary without changing its scale, parameter or status?
+Transient Climate Response differs from ECS because TCR:
 
-A. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-B. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-C. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-D. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
+A. excludes CO2 forcing.
+B. measures warming near CO2 doubling during a gradual increase, before deep-ocean equilibration.
+C. is always larger than ECS.
+D. describes only regional monsoon rainfall.
 
-**Answer: C.**
-**Explanation:** Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q32. Which option avoids the standard UPSC close-option trap about Water-vapour boundary?
+- **A — Incorrect:** The idealised experiment is driven by increasing CO2.
+- **B — Correct:** Ocean heat uptake delays transient surface warming.
+- **C — Incorrect:** TCR is generally lower than ECS.
+- **D — Incorrect:** It is a global temperature-response metric.
 
-A. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-B. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-C. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-D. Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
+### MCQ 19
 
-**Answer: D.**
-**Explanation:** Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which pair matches the IPCC AR6 best estimates?
 
-### Q33. Which statement correctly identifies Aerosol-black-carbon boundary?
+A. ECS 1.8°C; TCR 3°C
+B. ECS 5°C; TCR 4°C
+C. ECS 3°C; TCR 1.8°C
+D. ECS 0.45°C; TCR 2.72°C
 
-A. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-B. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-C. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-D. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
+**Answer: C**
 
-**Answer: A.**
-**Explanation:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** It reverses the best estimates.
+- **B — Incorrect:** These are not AR6 best estimates.
+- **C — Correct:** AR6 best estimates are ECS 3°C and TCR 1.8°C.
+- **D — Incorrect:** 0.45°C per 1000 GtCO2 is TCRE; 2.72 W/m² is 2019 anthropogenic ERF.
 
-### Q34. Which option preserves the ecological boundary of Aerosol-black-carbon boundary?
+### MCQ 20
 
-A. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-B. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-C. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-D. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
+Which statement about internal variability is correct?
 
-**Answer: B.**
-**Explanation:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. It is caused only by changes in solar output.
+B. It cannot influence regional climate for a decade.
+C. It explains the sustained rise in total climate-system energy without external forcing.
+D. It can redistribute heat and modulate short-period trends but cannot account for the long-term observed planetary energy gain.
 
-### Q35. Which statement uses Aerosol-black-carbon boundary without changing its scale, parameter or status?
+**Answer: D**
 
-A. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-B. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-C. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-D. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
+- **A — Incorrect:** Solar change is an external driver.
+- **B — Incorrect:** ENSO and decadal modes influence regions and periods.
+- **C — Incorrect:** Redistribution cannot create sustained net energy accumulation.
+- **D — Correct:** It states both capability and limit.
 
-**Answer: C.**
-**Explanation:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 21
 
-### Q36. Which option avoids the standard UPSC close-option trap about Aerosol-black-carbon boundary?
+Detection and attribution are correctly distinguished by which statement?
 
-A. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-B. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-C. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-D. Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
+A. Detection identifies a change beyond expected variability; attribution evaluates the contributions of possible causes.
+B. Detection predicts policy choices; attribution measures albedo.
+C. Detection applies only to models; attribution only to thermometers.
+D. They are synonyms.
 
-**Answer: D.**
-**Explanation:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q37. Which statement correctly identifies GWP time horizon?
+- **A — Correct:** It captures signal identification and causal evaluation.
+- **B — Incorrect:** Neither term has those meanings.
+- **C — Incorrect:** Both use observations, models and physical understanding.
+- **D — Incorrect:** They are linked but distinct.
 
-A. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-B. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-C. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-D. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
+### MCQ 22
 
-**Answer: A.**
-**Explanation:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+An event-attribution study most defensibly asks:
 
-### Q38. Which option preserves the ecological boundary of GWP time horizon?
+A. whether climate change was the sole cause of an event.
+B. how human influence changed the probability or intensity of an event relative to a counterfactual climate.
+C. whether disaster losses occurred without exposure.
+D. which future SSP governments will choose.
 
-A. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-B. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-C. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-D. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
+**Answer: B**
 
-**Answer: B.**
-**Explanation:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Events have immediate meteorological causes; attribution is probabilistic.
+- **B — Correct:** This is the core counterfactual question.
+- **C — Incorrect:** Loss also depends on exposure and vulnerability.
+- **D — Incorrect:** Scenario choice is outside event attribution.
 
-### Q39. Which statement uses GWP time horizon without changing its scale, parameter or status?
+### MCQ 23
 
-A. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-B. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-C. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-D. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
+Which one of the following is a climate projection?
 
-**Answer: C.**
-**Explanation:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. IMD measured India’s 2025 temperature anomaly.
+B. WMO reported 2024 GHG concentrations.
+C. A model estimates 2081-2100 warming under SSP2-4.5.
+D. A station recorded yesterday’s rainfall.
 
-### Q40. Which option avoids the standard UPSC close-option trap about GWP time horizon?
+**Answer: C**
 
-A. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-B. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-C. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-D. Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
+- **A — Incorrect:** It is an observation.
+- **B — Incorrect:** It is a measured concentration estimate.
+- **C — Correct:** It is conditional on a future scenario.
+- **D — Incorrect:** It is weather observation.
 
-**Answer: D.**
-**Explanation:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 24
 
-### Q41. Which statement correctly identifies Potency-lifetime distinction?
+Why is an SSP-based climate scenario not a forecast?
 
-A. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-B. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-C. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-D. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
+A. It contains no assumptions.
+B. It predicts internal variability exactly.
+C. It is merely a historical dataset.
+D. It describes a conditional pathway based on socioeconomic, emissions and forcing assumptions without assigning which future will occur.
 
-**Answer: A.**
-**Explanation:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q42. Which option preserves the ecological boundary of Potency-lifetime distinction?
+- **A — Incorrect:** Scenarios are built from explicit assumptions.
+- **B — Incorrect:** Ensembles sample rather than exactly predict internal variability.
+- **C — Incorrect:** Scenarios concern possible futures.
+- **D — Correct:** Conditionality is the defining distinction.
 
-A. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-B. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-C. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-D. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
+### MCQ 25
 
-**Answer: B.**
-**Explanation:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which statement correctly compares RCPs and SSP-based scenarios?
 
-### Q43. Which statement uses Potency-lifetime distinction without changing its scale, parameter or status?
+A. RCPs are concentration/forcing pathways; AR6 SSP labels combine a socioeconomic pathway with an approximate 2100 forcing level.
+B. RCP and SSP numbers are probabilities assigned by IPCC.
+C. SSP1-2.6 is identical in every respect to RCP2.6.
+D. RCP8.5 means an 8.5°C temperature rise.
 
-A. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-B. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-C. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-D. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
+**Answer: A**
 
-**Answer: C.**
-**Explanation:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Correct:** It states their design and naming logic.
+- **B — Incorrect:** IPCC does not assign scenario probabilities in this way.
+- **C — Incorrect:** Similar forcing labels do not erase pathway differences.
+- **D — Incorrect:** 8.5 refers approximately to W/m² in 2100.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Potency-lifetime distinction?
+### MCQ 26
 
-A. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-B. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-C. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-D. Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
+In near-term regional climate projections, which uncertainty source is often especially important?
 
-**Answer: D.**
-**Explanation:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Scenario uncertainty alone, with no role for variability
+B. Internal variability, alongside model uncertainty
+C. The absence of any observational record
+D. Whether the greenhouse effect exists
 
-### Q45. Which statement correctly identifies Weather-climate distinction?
+**Answer: B**
 
-A. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-B. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-C. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-D. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
+- **A — Incorrect:** Variability remains important.
+- **B — Correct:** Regional and near-term outcomes are strongly modulated by internal variability and model response.
+- **C — Incorrect:** Observations exist, though quality and coverage vary.
+- **D — Incorrect:** The greenhouse mechanism is established physics.
 
-**Answer: A.**
-**Explanation:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 27
 
-### Q46. Which option preserves the ecological boundary of Weather-climate distinction?
+Consider the following WMO findings for 2025:
 
-A. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-B. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-C. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-D. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
+1. Global mean temperature was about 1.43°C above 1850-1900.
+2. Ocean heat content reached the highest level in the 66-year observational record.
+3. Arctic maximum annual sea-ice extent was the lowest in the observed record.
 
-**Answer: B.**
-**Explanation:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which are correct?
 
-### Q47. Which statement uses Weather-climate distinction without changing its scale, parameter or status?
+A. 1 only
+B. 1 and 2 only
+C. 1, 2 and 3
+D. 2 and 3 only
 
-A. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-B. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-C. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-D. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Findings 2 and 3 were also reported.
+- **B — Incorrect:** Finding 3 is correct.
+- **C — Correct:** All three are from WMO’s State of the Global Climate 2025.
+- **D — Incorrect:** Finding 1 is also correct with its stated baseline and uncertainty.
 
-### Q48. Which option avoids the standard UPSC close-option trap about Weather-climate distinction?
+### MCQ 28
 
-A. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-B. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-C. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-D. Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
+Global mean sea-level rise is driven primarily by:
 
-**Answer: D.**
-**Explanation:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. melting floating sea ice alone.
+B. ocean acidification alone.
+C. increased rainfall over deserts alone.
+D. thermal expansion of seawater and addition of water from melting land ice.
 
-### Q49. Which statement correctly identifies Variability-trend distinction?
+**Answer: D**
 
-A. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-B. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-C. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-D. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
+- **A — Incorrect:** Floating sea ice has little direct sea-level effect.
+- **B — Incorrect:** Acidification is not the primary volume driver.
+- **C — Incorrect:** It is not the main global mechanism.
+- **D — Correct:** These are the two dominant contributions.
 
-**Answer: A.**
-**Explanation:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 29
 
-### Q50. Which option preserves the ecological boundary of Variability-trend distinction?
+Ocean acidification occurs mainly because:
 
-A. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-B. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-C. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-D. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
+A. dissolved atmospheric CO2 alters carbonate chemistry and lowers pH.
+B. warm water automatically becomes acidic without CO2 uptake.
+C. sea ice melts into sulphuric acid.
+D. ocean heat content directly removes carbonate ions without chemical reactions.
 
-**Answer: B.**
-**Explanation:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q51. Which statement uses Variability-trend distinction without changing its scale, parameter or status?
+- **A — Correct:** CO2 forms carbonic acid and shifts carbonate equilibria.
+- **B — Incorrect:** Warming and acidification are distinct mechanisms.
+- **C — Incorrect:** Sea ice is not sulphuric acid.
+- **D — Incorrect:** The process is chemical and tied to dissolved CO2.
 
-A. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-B. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-C. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-D. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
+### MCQ 30
 
-**Answer: C.**
-**Explanation:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which attribution statement is most scientifically defensible?
 
-### Q52. Which option avoids the standard UPSC close-option trap about Variability-trend distinction?
+A. Every cyclone is wholly caused by climate change.
+B. Human influence has made many hot extremes more frequent and intense, while confidence varies across event types and regions.
+C. No extreme event can ever be studied probabilistically.
+D. Heavy precipitation cannot change in a warmer climate.
 
-A. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-B. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-C. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-D. Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Sole-cause wording is unsound.
+- **B — Correct:** It reflects strong heat evidence and differentiated confidence.
+- **C — Incorrect:** Event attribution uses probabilistic counterfactual analysis.
+- **D — Incorrect:** A warmer atmosphere can intensify heavy precipitation.
 
-### Q53. Which statement correctly identifies Detection-attribution distinction?
+### MCQ 31
 
-A. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-B. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-C. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-D. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
+Which mapping is correct?
 
-**Answer: A.**
-**Explanation:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Mitigation — adjustment to impacts; adaptation — reducing emissions
+B. Loss and damage — every preventive action before impacts
+C. Mitigation — reducing sources/enhancing sinks; adaptation — adjustment to effects; loss and damage — residual adverse impacts
+D. Adaptation — a climate feedback; mitigation — internal variability
 
-### Q54. Which option preserves the ecological boundary of Detection-attribution distinction?
+**Answer: C**
 
-A. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-B. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-C. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-D. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
+- **A — Incorrect:** It reverses mitigation and adaptation.
+- **B — Incorrect:** Loss and damage concerns impacts not fully avoided.
+- **C — Correct:** It preserves the three response categories.
+- **D — Incorrect:** These are societal responses, not climate feedbacks.
 
-**Answer: B.**
-**Explanation:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 32
 
-### Q55. Which statement uses Detection-attribution distinction without changing its scale, parameter or status?
+Which statement correctly distinguishes CDR from SRM?
 
-A. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-B. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-C. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-D. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
+A. Both necessarily remove atmospheric CO2.
+B. SRM is classified by IPCC as adaptation.
+C. CDR changes only incoming sunlight.
+D. CDR removes and durably stores atmospheric CO2; SRM intentionally alters the radiative budget to limit warming.
 
-**Answer: C.**
-**Explanation:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q56. Which option avoids the standard UPSC close-option trap about Detection-attribution distinction?
+- **A — Incorrect:** SRM does not remove CO2.
+- **B — Incorrect:** IPCC classifies SRM as neither mitigation nor adaptation.
+- **C — Incorrect:** CDR acts on atmospheric carbon stocks.
+- **D — Correct:** It states the core physical distinction.
 
-A. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-B. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-C. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-D. Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
+### MCQ 33
 
-**Answer: D.**
-**Explanation:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Which is a central limitation of solar radiation modification?
 
-### Q57. Which statement correctly identifies Event-attribution boundary?
+A. It would not stop CO2 accumulation or ocean acidification under continued emissions.
+B. It automatically restores every regional rainfall pattern.
+C. It permanently removes methane and nitrous oxide.
+D. Its abrupt termination could not affect warming rate.
 
-A. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-B. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-C. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-D. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
+**Answer: A**
 
-**Answer: A.**
-**Explanation:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Correct:** SRM addresses radiative balance, not carbon burden.
+- **B — Incorrect:** Regional hydrological responses may differ.
+- **C — Incorrect:** SRM does not remove these gases.
+- **D — Incorrect:** Abrupt termination could cause rapid warming.
 
-### Q58. Which option preserves the ecological boundary of Event-attribution boundary?
+### MCQ 34
 
-A. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-B. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-C. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-D. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
+Which statement about the Indian monsoon is most accurate?
 
-**Answer: B.**
-**Explanation:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. Global warming guarantees the same rainfall increase in every Indian district.
+B. Moisture increases can intensify heavy rainfall, but aerosols, ocean conditions, ENSO, circulation and internal variability shape regional and seasonal outcomes.
+C. One deficient monsoon proves a reversal of global warming.
+D. Seasonal total rainfall and short-duration extremes are the same metric.
 
-### Q59. Which statement uses Event-attribution boundary without changing its scale, parameter or status?
+**Answer: B**
 
-A. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-B. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-C. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-D. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
+- **A — Incorrect:** Regional monsoon response is heterogeneous.
+- **B — Correct:** It combines thermodynamic tendency with dynamic and regional controls.
+- **C — Incorrect:** One season is not a global trend.
+- **D — Incorrect:** Seasonal accumulation and event intensity are distinct.
 
-**Answer: C.**
-**Explanation:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 35
 
-### Q60. Which option avoids the standard UPSC close-option trap about Event-attribution boundary?
+IMD reported that India’s 2025 annual mean land-surface air temperature was:
 
-A. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-B. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-C. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-D. Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
+A. 1.43°C above 1850-1900 and the hottest globally.
+B. 0.65°C below 1991-2020.
+C. 0.28°C above 1991-2020, making 2025 the eighth warmest Indian year since 1901.
+D. exactly equal to the 1901 value.
 
-**Answer: D.**
-**Explanation:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q61. Which statement correctly identifies Observation-projection distinction?
+- **A — Incorrect:** 1.43°C is WMO’s global 2025 estimate on a different baseline.
+- **B — Incorrect:** +0.65°C was India’s 2024 anomaly.
+- **C — Correct:** It retains value, baseline, rank and record start.
+- **D — Incorrect:** IMD assessed a significant long-term warming trend.
 
-A. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-B. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-C. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-D. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
+### MCQ 36
 
-**Answer: A.**
-**Explanation:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+For a low-lying island nation, sea-level risk is best represented by:
 
-### Q62. Which option preserves the ecological boundary of Observation-projection distinction?
+A. global mean sea level alone, without local factors.
+B. cyclone frequency alone, without sea level.
+C. ocean acidification alone.
+D. mean sea-level rise interacting with surge, waves, erosion, salinisation, subsidence and exposure.
 
-A. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-B. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-C. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-D. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
+**Answer: D**
 
-**Answer: B.**
-**Explanation:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** Local relative sea level and extremes determine impacts.
+- **B — Incorrect:** Multiple slow and rapid processes interact.
+- **C — Incorrect:** Acidification does not alone describe inundation.
+- **D — Correct:** It captures compound hazard and vulnerability.
 
-### Q63. Which statement uses Observation-projection distinction without changing its scale, parameter or status?
+### MCQ 37
 
-A. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-B. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-C. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-D. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
+“Carbon fertilisation” most directly refers to:
 
-**Answer: C.**
-**Explanation:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. enhanced plant photosynthesis or growth under higher CO2, subject to nutrient, water and temperature limits.
+B. conversion of atmospheric CO2 into synthetic fertiliser in clouds.
+C. warming caused by nitrogen fertiliser only.
+D. permanent carbon storage by every crop.
 
-### Q64. Which option avoids the standard UPSC close-option trap about Observation-projection distinction?
+**Answer: A**
 
-A. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-B. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-C. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-D. An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
+- **A — Correct:** It states the physiological effect and constraints.
+- **B — Incorrect:** This is not the scientific meaning.
+- **C — Incorrect:** N2O from fertiliser is a different process.
+- **D — Incorrect:** Growth does not guarantee permanent net sequestration.
 
-**Answer: D.**
-**Explanation:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 38
 
-### Q65. Which statement correctly identifies Scenario-not-forecast?
+Why can methane hydrates form a positive climate feedback?
 
-A. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-B. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-C. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-D. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
+A. Their dissociation always absorbs atmospheric methane permanently.
+B. Warming may destabilise some deposits, releasing methane that adds warming, although magnitude and timescale require qualification.
+C. They occur only in dry deserts.
+D. Methane cannot oxidise in the atmosphere.
 
-**Answer: A.**
-**Explanation:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q66. Which option preserves the ecological boundary of Scenario-not-forecast?
+- **A — Incorrect:** Destabilisation can release methane.
+- **B — Correct:** It states the feedback without an automatic-catastrophe claim.
+- **C — Incorrect:** Deposits occur notably in marine sediments and permafrost regions.
+- **D — Incorrect:** Atmospheric methane is mainly oxidised.
 
-A. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-B. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-C. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-D. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
+### MCQ 39
 
-**Answer: B.**
-**Explanation:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Why does clinker production create process CO2 emissions in cement manufacture?
 
-### Q67. Which statement uses Scenario-not-forecast without changing its scale, parameter or status?
+A. Silica directly turns into methane.
+B. Grinding cement absorbs all kiln CO2.
+C. Limestone calcination converts calcium carbonate to lime and releases CO2, in addition to fuel-related emissions.
+D. Cement production involves no carbon-bearing mineral.
 
-A. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-B. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-C. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-D. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** This is chemically false.
+- **B — Incorrect:** Grinding does not cancel calcination emissions.
+- **C — Correct:** Calcination is the key process-emission pathway.
+- **D — Incorrect:** Limestone is calcium carbonate.
 
-### Q68. Which option avoids the standard UPSC close-option trap about Scenario-not-forecast?
+### MCQ 40
 
-A. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-B. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-C. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-D. A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
+Which answer sequence is most appropriate for a climate-science Mains question?
 
-**Answer: D.**
-**Explanation:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. List disasters -> quote an unlabelled number -> demand one policy
+B. Begin with treaties -> omit mechanism -> treat projection as observation
+C. Describe one heatwave -> infer a global trend -> equate adaptation with mitigation
+D. Define scale -> explain forcing and feedback -> use sourced indicators -> add India evidence -> qualify attribution and route response policy
 
-### Q69. Which statement correctly identifies Mitigation-adaptation distinction?
+**Answer: D**
 
-A. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-B. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-C. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-D. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-
-**Answer: A.**
-**Explanation:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q70. Which option preserves the ecological boundary of Mitigation-adaptation distinction?
-
-A. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-B. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-C. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-D. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-
-**Answer: B.**
-**Explanation:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q71. Which statement uses Mitigation-adaptation distinction without changing its scale, parameter or status?
-
-A. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-B. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-C. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-D. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-
-**Answer: C.**
-**Explanation:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Mitigation-adaptation distinction?
-
-A. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-B. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-C. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-D. Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-
-**Answer: D.**
-**Explanation:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q73. Which statement correctly identifies Sink-source and gross-net?
-
-A. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-B. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-C. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-D. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-
-**Answer: A.**
-**Explanation:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q74. Which option preserves the ecological boundary of Sink-source and gross-net?
-
-A. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-B. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-C. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-D. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-
-**Answer: B.**
-**Explanation:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q75. Which statement uses Sink-source and gross-net without changing its scale, parameter or status?
-
-A. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-B. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-C. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-D. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-
-**Answer: C.**
-**Explanation:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Sink-source and gross-net?
-
-A. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-B. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-C. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-D. A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-
-**Answer: D.**
-**Explanation:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q77. Which statement correctly identifies Impact and evidence boundary?
-
-A. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-B. The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-C. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-D. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-
-**Answer: A.**
-**Explanation:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q78. Which option preserves the ecological boundary of Impact and evidence boundary?
-
-A. Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-B. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-C. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-D. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-
-**Answer: B.**
-**Explanation:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q79. Which statement uses Impact and evidence boundary without changing its scale, parameter or status?
-
-A. Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-B. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-C. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-D. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-
-**Answer: C.**
-**Explanation:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Impact and evidence boundary?
-
-A. An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-B. Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-C. Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-D. Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-
-**Answer: D.**
-**Explanation:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+- **A — Incorrect:** It lacks mechanism, provenance and balance.
+- **B — Incorrect:** Topic 17 requires the physical-science spine and evidence categories.
+- **C — Incorrect:** It commits event-trend and response-category errors.
+- **D — Correct:** It is the complete science-to-answer architecture.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED CLIMATE-SCIENCE, ATTRIBUTION, IMPACT AND RESPONSE PYQ OWNERSHIP
+### PYQ provenance and ownership ledger
 
-Audited ledgers route objective demands on carbon fertilisation, geoengineering, methane hydrates, agricultural gases, rice practices, cement emissions and India's carbon-dioxide profile, plus verified Mains demands on greenhouse-gas effects, tropical food security and island sea-level risk. Objective keys are not inferred.
+| PYQ | Official paper provenance | Key label/provenance | Ownership |
+|---|---|---|---|
+| 2018 Prelims GS-I Set A Q65 | `..\upsc-agent\books\more_previous_papers\QP-CSP-18-GS-I-C.pdf` (English pages marked Series A) | **Official Set A key A**, verified from UPSC scanned key mirrored by IASbaba | Application: carbon fertilisation |
+| 2019 Prelims GS-I Set A Q25 | `..\upsc-agent\books\more_previous_papers\csp-p1.pdf` | **Official key D**, verified from UPSC scanned key copy mirrored by WRAP | Application: SRM firewall |
+| 2019 Prelims GS-I Set A Q34 | Same local official paper | **Official key D**, same key provenance | Application: methane feedback |
+| 2022 Prelims GS-I Set A Q21 | `..\upsc-agent\books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` | **Official key B**, verified from UPSC scan mirrored by IASbaba | Application: agricultural GHG sources |
+| 2022 Prelims GS-I Set A Q22 | Same local official paper | **Official key D**, same key provenance | Application: rice mitigation |
+| 2025 Prelims GS-I Set A Q31 | `..\upsc-agent\books\prelima_question_paper_answers\2025-GS1-Set A.pdf` | **Official local UPSC key B:** `Ans-2025-GS1.pdf` | Direct application: cement CO2 |
+| 2025 Prelims GS-I Set A Q38 | Same local official paper | **Official local UPSC key C** | Direct application: India emissions metrics |
+| 2022 GS-III Q17 | `..\upsc-agent\books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf` | No official model answer | Split: science Topic 17; Kyoto Topic 19 |
+| 2023 GS-I Q4 | `..\upsc-agent\books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf` | No official model answer | Application: tropical food security |
+| 2025 GS-I Q4 | `..\upsc-agent\books\mains\UPSC Mains 2025 GS Paper 1.pdf` | No official model answer | Application: sea level/islands |
 
-### OWNER PYQ LEDGER EXTRACTS
+> The worktree does not hold the older official key PDFs; the named scanned official-key mirrors were checked. The 2025 paper and key are locally held. All descriptive answers below are model answers, not official UPSC keys.
 
-#### 9. PYQ application
+### Prelims PYQ 1 — 2018 GS-I Q65
 
-- ⚠️ Recurring Prelims pattern: identify the correct greenhouse gases, their relative
-  potency (GWP) and atmospheric lifetime characteristics.
-- ⚠️ Mains linkage: the natural-versus-enhanced greenhouse-effect distinction is used to
-  precisely frame climate-change causation in policy-analysis answers.
+**Question:** Which of the following statements best describes “carbon fertilization”?
 
-#### Recent PYQ Integration (2024-2025)
+A. Increased plant growth due to increased concentration of carbon dioxide in the atmosphere
+B. Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere
+C. Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere
+D. Adaptation of all living beings on Earth to the climate change brought about by the increased concentration of carbon dioxide in the atmosphere
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+**Official key: A**
 
-- **Years represented:** 2025
-- **Paper(s):** GS-I, Prelims GS-I
-- **Routed question demands:** 3
+- **A — Correct:** Higher CO2 can enhance photosynthesis/growth, subject to nutrient, water, heat and species limits.
+- **B — Incorrect:** This describes greenhouse warming.
+- **C — Incorrect:** This describes ocean acidification.
+- **D — Incorrect:** It is an overbroad adaptation claim.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | GS-I | 4 | Climate change and sea-level rise affecting island nations | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | Prelims GS-I | 31 | Cement-industry carbon emissions; limestone and clinker | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 38 | India's CO2 emissions per capita and largest sources | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+### Prelims PYQ 2 — 2019 GS-I Q25
 
-##### What this owner must now support
+**Question:** In the context of which of the following do some scientists suggest the use of cirrus cloud thinning technique and the injection of sulphate aerosol into stratosphere?
 
-- Climate change and sea-level rise affecting island nations
-- Cement-industry carbon emissions; limestone and clinker
-- India's CO2 emissions per capita and largest sources
+A. Creating the artificial rains in some regions
+B. Reducing the frequency and intensity of tropical cyclones
+C. Reducing the adverse effects of solar wind on the Earth
+D. Reducing the global warming
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Official key: D**
 
-#### Historical PYQ Integration (2018-2023)
+- **A — Incorrect:** The techniques are not principally rain-making proposals.
+- **B — Incorrect:** Cyclone reduction is not their defining purpose.
+- **C — Incorrect:** Solar wind is unrelated.
+- **D — Correct:** They are proposed solar-radiation-modification techniques; they do not remove CO2 or stop acidification.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+### Prelims PYQ 3 — 2019 GS-I Q34
 
-- **Years represented:** 2018, 2019, 2022, 2023
-- **Paper(s):** GS-I, GS-III, Prelims GS-I
-- **Routed question demands:** 7
+**Question:** Which of the following statements are correct about the deposits of “methane hydrate”?
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 65 | Carbon fertilization effect on plant growth and atmosphere | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 25 | Geoengineering techniques to counter global warming effects | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 34 | Methane hydrate deposits characteristics and climate linkage | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | GS-III | 17 | Global warming greenhouse gas effects and Kyoto Protocol measures | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | Prelims GS-I | 21 | Crops as anthropogenic sources of methane and nitrous oxide | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 22 | System of Rice Intensification methane reduction and inputs | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | GS-I | 4 | Climate change and food security in tropical countries | Discuss the consequences · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+1. Global warming might trigger the release of methane gas from these deposits.
+2. Large deposits of methane hydrate are found in Arctic tundra and under the seafloor.
+3. Methane in the atmosphere oxidizes to carbon dioxide after a decade or two.
 
-##### What this owner must now support
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-- Carbon fertilization effect on plant growth and atmosphere
-- Geoengineering techniques to counter global warming effects
-- Methane hydrate deposits characteristics and climate linkage
-- Global warming greenhouse gas effects and Kyoto Protocol measures
-- Crops as anthropogenic sources of methane and nitrous oxide
-- System of Rice Intensification methane reduction and inputs
-- Climate change and food security in tropical countries
+**Official key: D**
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+- **A — Incorrect:** Statement 3 is also correct.
+- **B — Incorrect:** Statement 1 is also correct.
+- **C — Incorrect:** Statement 2 is also correct.
+- **D — Correct:** All three describe hydrate locations, destabilisation risk and atmospheric methane oxidation. Magnitude/timing still require qualification.
 
-#### 10. PYQ-based analytical application
+### Prelims PYQ 4 — 2022 GS-I Q21
 
-- ⚠️ Prelims questions on GWP/atmospheric lifetime comparisons across gases should be
-  answered using the potency-versus-persistence trade-off framework (Section 2 table).
-- ⚠️ Mains answers on "climate science and policy" should explicitly invoke the carbon-
-  budget-depletion framing and the aerosol-masking nuance to demonstrate quantitative and
-  mechanistic understanding beyond descriptive greenhouse-effect explanation.
+**Question:** Among the following crops, which one is the most important anthropogenic source of both methane and nitrous oxide?
 
-#### Historical PYQ Integration (2018-2023)
+A. Cotton
+B. Rice
+C. Sugarcane
+D. Wheat
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+**Official key: B**
 
-- **Years represented:** 2022, 2023
-- **Paper(s):** GS-I, GS-III
-- **Routed question demands:** 2
+- **A — Incorrect:** Cotton can generate N2O through fertilisation but is not the intended major combined source.
+- **B — Correct:** Flooded rice produces CH4; nitrogen inputs and soil processes can produce N2O.
+- **C — Incorrect:** Sugarcane is not the intended answer for both gases.
+- **D — Incorrect:** Wheat is not a major methane crop source.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2022 | GS-III | 17 | Global warming greenhouse gas effects and Kyoto Protocol measures | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | GS-I | 4 | Climate change and food security in tropical countries | Discuss the consequences · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+### Prelims PYQ 5 — 2022 GS-I Q22
 
-##### What this owner must now support
+**Question:** “System of Rice Intensification” of cultivation, in which alternate wetting and drying of rice fields is practised, results in:
 
-- Global warming greenhouse gas effects and Kyoto Protocol measures
-- Climate change and food security in tropical countries
+1. Reduced seed requirement
+2. Reduced methane production
+3. Reduced electricity consumption
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-### PYQ DEMAND CARD 1 — 2022 GS-III
+**Official key: D**
 
-**Demand:** Discuss global-warming greenhouse-gas effects before linking measures under Kyoto.
+- **A — Incorrect:** Reduced pumping can also lower electricity use.
+- **B — Incorrect:** Reduced seed requirement is also characteristic.
+- **C — Incorrect:** Reduced methane production is also expected from less continuous flooding.
+- **D — Correct:** All three form the official answer, subject to site-specific management.
 
-**Status:** Verified routed Mains demand; treaty measures are cross-owned by Topic 19.
+### Prelims PYQ 6 — 2025 GS-I Q31
 
-**Model solution:** **Natural greenhouse effect:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Enhanced anthropogenic forcing:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Emission-concentration distinction:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Forcing-feedback distinction:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **GWP time horizon:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Mitigation-adaptation distinction:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Question:** Consider the following statements:
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2022 GS-III”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Statement I:** Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.
+**Statement II:** Silica-bearing clay is mixed with limestone while manufacturing cement.
+**Statement III:** Limestone is converted into lime during clinker production for cement manufacturing.
 
-**Detailed examiner-grade model answer:**
+Which one of the following is correct in respect of the above statements?
 
-**Introduction and thesis:** **Natural greenhouse effect:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Enhanced anthropogenic forcing:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Emission-concentration distinction:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Forcing-feedback distinction:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **GWP time horizon:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Mitigation-adaptation distinction:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+A. Both Statement II and Statement III are correct and both of them explain Statement I
+B. Both Statement II and Statement III are correct but only one of them explains Statement I
+C. Only one of Statements II and III is correct and that explains Statement I
+D. Neither Statement II nor Statement III is correct
 
-**Analytical body:**
+**Official local Set A key: B**
 
-1. **Claim and named evidence:** Demand: Discuss global-warming greenhouse-gas effects before linking measures under Kyoto. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; treaty measures are cross-owned by Topic 19. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+- **A — Incorrect:** Feed composition does not itself explain carbon release.
+- **B — Correct:** Both are true; calcination in III directly releases process CO2.
+- **C — Incorrect:** Both II and III are true.
+- **D — Incorrect:** Neither is false.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+### Prelims PYQ 7 — 2025 GS-I Q38
 
-**Qualified conclusion:** **Natural greenhouse effect:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Enhanced anthropogenic forcing:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Emission-concentration distinction:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Forcing-feedback distinction:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **GWP time horizon:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Mitigation-adaptation distinction:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Question:** Consider the following statements:
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+I. Carbon dioxide emissions in India are less than 0.5 t CO2/capita.
+II. In terms of CO2 emissions from fuel combustion, India ranks second in Asia-Pacific region.
+III. Electricity and heat producers are the largest sources of CO2 emissions in India.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+A. I and III only
+B. II only
+C. II and III only
+D. I, II and III
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2022 GS-III”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Official local Set A key: C**
 
-### PYQ DEMAND CARD 2 — 2023 GS-I
+- **A — Incorrect:** Statement 1 is false.
+- **B — Incorrect:** Statement 3 is also correct for the source context used.
+- **C — Correct:** Statements 2 and 3 are correct.
+- **D — Incorrect:** India’s per-capita CO2 emissions exceed 0.5 tonnes.
 
-**Demand:** Discuss consequences of climate change for food security in tropical countries.
+### Mains PYQ 1 — 2022 GS-III Q17 — 15 marks, 250 words
 
-**Status:** Verified routed Mains demand; no official model answer is claimed.
+**Question:** Discuss global warming and mention its effects on the global climate. Explain the control measures to bring down the level of greenhouse gases which cause global warming, in the light of the Kyoto Protocol, 1997. (Answer in 250 words)
 
-**Model solution:** **Weather-climate distinction:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. **Variability-trend distinction:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Detection-attribution distinction:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Observation-projection distinction:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Mitigation-adaptation distinction:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Impact and evidence boundary:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Ownership:** Topic 17 owns mechanism/effects; Topic 19 owns Kyoto details.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2023 GS-I”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Model answer (241 words):**
 
-**Detailed examiner-grade model answer:**
+Global warming is the long-term rise in global mean surface temperature caused mainly by anthropogenic enhancement of the natural greenhouse effect. Fossil-fuel use, cement production, land-use change and agriculture raise CO2, CH4 and N2O concentrations, producing positive radiative forcing. IPCC AR6 estimated human-caused warming at 1.07°C for 2010-2019 relative to 1850-1900.
 
-**Introduction and thesis:** **Weather-climate distinction:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. **Variability-trend distinction:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Detection-attribution distinction:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Observation-projection distinction:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Mitigation-adaptation distinction:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Impact and evidence boundary:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+The effects extend beyond temperature. Ocean heat uptake causes thermal expansion; land-ice loss adds water, raising sea level. A warmer atmosphere intensifies the water cycle, increasing hot extremes and heavy precipitation while altering regional drought risk. Glaciers, snow and sea ice decline; ocean CO2 uptake causes acidification; ecosystems and food systems face shifting climatic envelopes. Internal variability shapes individual seasons, so no single disaster should be attributed without event-specific evidence.
 
-**Analytical body:**
+Control requires a gas- and timescale-sensitive strategy: rapid CO2 reduction for cumulative warming; methane abatement in energy, waste and agriculture for near-term benefit; N2O reduction through efficient nitrogen management; protection and restoration of durable natural sinks; and limits on high-GWP fluorinated gases. Adaptation cannot replace mitigation.
 
-1. **Claim and named evidence:** Demand: Discuss consequences of climate change for food security in tropical countries. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; no official model answer is claimed. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+The **Kyoto Protocol, adopted in 1997**, translated CBDR-RC into binding quantified commitments for developed Annex I parties. Its flexibility mechanisms were **emissions trading, Joint Implementation and the Clean Development Mechanism**, which enabled lower-cost reductions and projects in developing countries. However, limited country coverage and uneven participation constrained global impact.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Thus, Kyoto supplied an early legal and market architecture, but physical stabilisation ultimately requires net-zero CO2 and sustained cuts in other forcing agents.
 
-**Qualified conclusion:** **Weather-climate distinction:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. **Variability-trend distinction:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Detection-attribution distinction:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Observation-projection distinction:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Mitigation-adaptation distinction:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Impact and evidence boundary:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Why this earns marks:** It answers mechanism, effects and Kyoto measures separately, uses named evidence, and qualifies event attribution and treaty limits.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+### Mains PYQ 2 — 2023 GS-I Q4 — 10 marks, 150 words
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Question:** Discuss the consequences of climate change on the food security in tropical countries. (Answer in 150 words)
 
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2023 GS-I”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Model answer (149 words):**
 
-### PYQ DEMAND CARD 3 — 2025 GS-I
+Climate change affects all four pillars of tropical food security: availability, access, utilisation and stability. Higher baseline temperatures accelerate crop development and can exceed reproductive heat thresholds; warmer nights also reduce yields. IPCC-assessed intensification of heat and heavy rainfall raises crop failure, erosion and post-harvest loss, while altered rainfall and drought disrupt sowing and irrigation.
 
-**Demand:** Discuss climate change and sea-level rise affecting island nations.
+Tropical fisheries face marine heatwaves, deoxygenation and shifting stocks; ocean acidification harms sensitive food webs. Livestock suffer heat stress, disease and reduced productivity. These supply shocks raise prices and wages may not adjust, worsening access for poor households. Floods can contaminate water and increase food-borne disease, reducing nutritional utilisation.
 
-**Status:** Verified routed Mains demand; no local projection figure is inferred.
+CO2 fertilisation cannot be treated as a full offset because nutrient, water and heat constraints limit gains and food quality may decline. Responses require heat- and drought-tolerant varieties, diversified farms, water management, climate services, storage and safety nets, alongside mitigation; adaptation limits rise with warming.
 
-**Model solution:** **Detection-attribution distinction:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Observation-projection distinction:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Scenario-not-forecast:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. **Mitigation-adaptation distinction:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Impact and evidence boundary:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Why this earns marks:** It follows a four-pillar structure, links mechanisms to outcomes and qualifies carbon fertilisation.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2025 GS-I”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+### Mains PYQ 3 — 2025 GS-I Q4 — 10 marks, 150 words
 
-**Detailed examiner-grade model answer:**
+**Question:** How are climate change and the sea level rise affecting the very existence of many island nations? Discuss with examples. (Answer in 150 words)
 
-**Introduction and thesis:** **Detection-attribution distinction:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Observation-projection distinction:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Scenario-not-forecast:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. **Mitigation-adaptation distinction:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Impact and evidence boundary:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Model answer (148 words):**
 
-**Analytical body:**
+Climate change threatens island nations through compound rather than sea-level-only risk. Ocean warming causes thermal expansion and land-ice melt adds mass; WMO reports that global mean sea level rose at 4.75 mm/year during 2012-2025. A higher mean allows tides, waves and storm surges to flood farther inland.
 
-1. **Claim and named evidence:** Demand: Discuss climate change and sea-level rise affecting island nations. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; no local projection figure is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Low-lying atoll states such as **Tuvalu, Kiribati and the Maldives** face erosion, saline intrusion into freshwater lenses and soils, infrastructure loss and shrinking habitable land. Coral bleaching and ocean acidification weaken reefs that provide food, tourism revenue and wave protection. Displacement can strain culture, land tenure and sovereignty even before complete inundation.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Risk varies with elevation, reef health, sediment supply, subsidence, protection and migration options; therefore “disappearance” is not a single-date prediction. Adaptation includes freshwater security, ecosystem restoration, resilient infrastructure and planned mobility, but hard limits emerge as warming and sea level rise continue. Deep global mitigation remains indispensable.
 
-**Qualified conclusion:** **Detection-attribution distinction:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Observation-projection distinction:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Scenario-not-forecast:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. **Mitigation-adaptation distinction:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Impact and evidence boundary:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Why this earns marks:** It gives mechanism, examples, compound impacts, variation, adaptation limits and a qualified conclusion.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+### ORIGINAL MAINS 1 — 10 marks, 150 words
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Question:** Distinguish weather, climate variability and climate change. Why can a single extreme event neither prove nor disprove climate change?
 
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2025 GS-I”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Model answer (141 words):**
 
-### ORIGINAL MAINS 1 — 10 MARKS
+Weather is the atmospheric condition at a particular time and place. Climate is the long-period statistical distribution of weather, including means, variability and extremes. Climate variability is fluctuation around that distribution due to processes such as ENSO; climate change is a persistent shift in the distribution caused by external forcing or longer-term internal change.
 
-**Question:** Distinguish the natural greenhouse effect from enhanced anthropogenic forcing. Answer in about 150 words.
+A single event arises from immediate meteorological conditions and local exposure. It may occur without anthropogenic forcing and therefore cannot alone establish a changed climate. Conversely, one cold spell cannot negate global warming because internal variability redistributes heat regionally and temporarily.
 
-**Model thesis:** **Claim:** Natural greenhouse effect. **Named evidence/example:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Enhanced anthropogenic forcing. **Named evidence/example:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Shortwave-longwave distinction. **Named evidence/example:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Event attribution instead compares observations and model ensembles representing the present climate with a counterfactual climate without human forcing. It estimates how warming changed an event’s probability or intensity. Thus, trends establish changing risk, while event-specific studies connect that altered background risk to a particular episode.
 
-**Claim → named evidence → analysis → qualification:**
+**Why this earns marks:** It defines all three terms and explains counterfactual logic.
 
-- The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-- Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-- Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
+### ORIGINAL MAINS 2 — 10 marks, 150 words
 
-**Qualified conclusion:** **Claim:** Natural greenhouse effect. **Named evidence/example:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Enhanced anthropogenic forcing. **Named evidence/example:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Shortwave-longwave distinction. **Named evidence/example:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Question:** Explain Earth’s energy balance and distinguish the natural greenhouse effect from its anthropogenic enhancement.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the natural greenhouse effect from enhanced anthropogenic forcing. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Model answer (134 words):**
 
-**Detailed examiner-grade model answer:**
+Earth receives predominantly shortwave solar radiation. NASA estimates a global average near 340 W/m², of which about 29% is reflected by clouds, atmosphere and bright surfaces. The remainder is absorbed, warming the system. Earth emits longwave infrared radiation; greenhouse gases absorb and re-emit selected wavelengths, including downward, while the planet ultimately loses energy to space.
 
-**Introduction and thesis:** **Claim:** Natural greenhouse effect. **Named evidence/example:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Enhanced anthropogenic forcing. **Named evidence/example:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Shortwave-longwave distinction. **Named evidence/example:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+The **natural greenhouse effect** raises surface temperature by roughly 33°C and makes Earth habitable. The present problem is its **anthropogenic enhancement**: fossil-fuel combustion, cement manufacture, land-use change and agriculture increase CO2, CH4 and N2O, while aerosols and land-cover changes modify other radiative terms.
 
-**Analytical body:**
+IPCC AR6 assessed net human-caused effective radiative forcing at 2.72 W/m² in 2019 relative to 1750. This creates an energy imbalance; warming then increases outgoing radiation until balance is approached at a higher temperature.
 
-1. **Claim and named evidence:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Why this earns marks:** It connects shortwave, albedo, longwave, forcing and equilibrium with sourced figures.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+### ORIGINAL MAINS 3 — 15 marks, 250 words
 
-**Qualified conclusion:** **Claim:** Natural greenhouse effect. **Named evidence/example:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Enhanced anthropogenic forcing. **Named evidence/example:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Shortwave-longwave distinction. **Named evidence/example:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Question:** Differentiate forcing, feedback and response. Examine the major feedbacks that determine the magnitude of global warming.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Model answer (217 words):**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+A **radiative forcing** is an externally imposed change in Earth’s energy balance, such as increased CO2, volcanic aerosol or solar variation. A **feedback** is a process triggered by the climate response that changes its magnitude. A **response** is the resulting temperature, precipitation, ocean, ice or ecosystem change.
 
-**How to improve this answer:** For “Distinguish the natural greenhouse effect from enhanced anthropogenic forcing. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+The fundamental stabiliser is the **Planck response**: a warmer Earth emits more longwave radiation. Against it operate several feedbacks:
 
-### ORIGINAL MAINS 2 — 10 MARKS
+- **Water vapour:** warming raises atmospheric moisture, strengthening infrared absorption; this is positive.
+- **Lapse rate:** the vertical warming pattern, especially tropical upper-tropospheric warming, generally increases emission to space and is globally negative.
+- **Surface albedo:** snow and ice loss exposes darker surfaces, increasing absorbed sunlight; positive.
+- **Clouds:** changes in height, amount and optical properties alter both reflected shortwave and trapped longwave radiation. IPCC AR6 assesses net cloud feedback as positive, but clouds remain the largest feedback uncertainty.
+- **Carbon cycle:** soil respiration, fire, ecosystem stress, ocean warming and stratification can leave more CO2 airborne. CO2 fertilisation partly opposes this but is nutrient- and water-limited.
+- **Permafrost:** thaw exposes organic carbon to decomposition, adding CO2 and CH4; positive but uncertain in magnitude and timing.
 
-**Question:** Differentiate emissions, concentrations, stocks and flows in climate accounting. Answer in about 150 words.
+These distinctions prevent category errors: fossil CO2 is a forcing; water-vapour increase is mainly a feedback; sea-level rise is a response. The outcome therefore depends on emissions, feedbacks and ocean heat uptake.
 
-**Model thesis:** **Claim:** Emission-concentration distinction. **Named evidence/example:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stock-flow distinction. **Named evidence/example:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sink-source and gross-net. **Named evidence/example:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Why this earns marks:** It defines categories, examines mechanisms and qualifies clouds and permafrost.
 
-**Claim → named evidence → analysis → qualification:**
+### ORIGINAL MAINS 4 — 15 marks, 250 words
 
-- An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-- Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-- A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
+**Question:** Distinguish detection, attribution and projection. How should scenarios and uncertainty be used in climate-risk decisions?
 
-**Qualified conclusion:** **Claim:** Emission-concentration distinction. **Named evidence/example:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stock-flow distinction. **Named evidence/example:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sink-source and gross-net. **Named evidence/example:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Model answer (201 words):**
 
-**Demand decoding:** The directive **answer** requires a direct position on “Differentiate emissions, concentrations, stocks and flows in climate accounting. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Detection** asks whether an observed change is distinguishable from expected internal variability. **Attribution** evaluates the relative contributions of anthropogenic greenhouse gases, aerosols, natural forcing and variability. **Projection** is a conditional model estimate of future climate under a stated emissions, concentration or forcing pathway.
 
-**Detailed examiner-grade model answer:**
+Attribution is strongest when multiple fingerprints agree: surface and ocean warming, ocean heat gain, glacier and sea-ice loss, tropospheric warming with stratospheric cooling, and simulations in which natural forcing alone cannot reproduce observations. Event attribution is narrower: it estimates how human influence changed a particular event’s probability or intensity, not whether climate change was its sole cause.
 
-**Introduction and thesis:** **Claim:** Emission-concentration distinction. **Named evidence/example:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stock-flow distinction. **Named evidence/example:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sink-source and gross-net. **Named evidence/example:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Scenarios organise uncertainty. RCPs describe concentration/forcing pathways; AR6 SSP labels combine socioeconomic pathways with approximate 2100 forcing. They are “if-then” experiments, not predictions that governments will choose a specified future.
 
-**Analytical body:**
+Risk decisions must separate:
 
-1. **Claim and named evidence:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+1. internal variability, important regionally and near term;
+2. model-response uncertainty, including clouds and regional rainfall;
+3. scenario uncertainty, increasingly important later;
+4. observational and structural limits.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Uncertainty is not a reason for paralysis. Robust decisions use ranges, test performance across scenarios, prioritise low-regret adaptation and preserve flexibility. They also distinguish observed Indian evidence from global findings and avoid converting a projection into a current fact.
 
-**Qualified conclusion:** **Claim:** Emission-concentration distinction. **Named evidence/example:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stock-flow distinction. **Named evidence/example:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sink-source and gross-net. **Named evidence/example:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Why this earns marks:** It integrates evidence, scenario taxonomy and decision-making.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+### ORIGINAL MAINS 5 — 20 marks, 250 words
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Question:** Climate mitigation must be gas-specific and carbon-cycle-aware. Analyse with reference to greenhouse gases, aerosols, sinks and emissions metrics.
 
-**How to improve this answer:** For “Differentiate emissions, concentrations, stocks and flows in climate accounting. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Model answer (232 words):**
 
-### ORIGINAL MAINS 3 — 15 MARKS
+Climate forcing is produced by agents with different sources, lifetimes and radiative effects; therefore a single undifferentiated “emissions cut” frame is inadequate.
 
-**Question:** Explain radiative forcing, feedbacks and gas-specific climate metrics. Answer in about 250 words.
+**CO2** from fossil fuel, cement and land-use change is a cumulative stock problem. It has no single lifetime, and stabilising CO2-driven warming requires net-zero anthropogenic CO2. **Methane** from energy, livestock, rice and waste is stronger per unit mass over short horizons but lasts about 11.8 years; rapid cuts can reduce near-term warming. **N2O**, largely linked to nitrogen management, lasts about 109 years and also affects stratospheric ozone. Fluorinated gases require compound-specific treatment.
 
-**Model thesis:** **Claim:** Forcing-feedback distinction. **Named evidence/example:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Feedback sign. **Named evidence/example:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water-vapour boundary. **Named evidence/example:** Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Aerosol-black-carbon boundary. **Named evidence/example:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** GWP time horizon. **Named evidence/example:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Potency-lifetime distinction. **Named evidence/example:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Metrics preserve different policy questions. GWP integrates radiative forcing over a stated horizon; GTP compares temperature at a future point. IPCC AR6 gives fossil methane GWP-20 of 82.5 and GWP-100 of 29.8, illustrating why a horizon-free value misleads.
 
-**Claim → named evidence → analysis → qualification:**
+Carbon-cycle awareness is equally necessary. During 2010-2019, IPCC assessed 46% of anthropogenic CO2 remaining in the atmosphere, 23% entering the ocean and 31% entering land. These sinks slow accumulation but are climate-sensitive and not guaranteed permanent storage.
 
-- Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-- A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-- Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing.
-- Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-- Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-- Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
+Aerosols add a transition complication: sulphate cooling has masked some greenhouse warming, while black carbon warms and darkens snow. Clean-air policy brings major health benefits but must be accompanied by rapid GHG cuts.
 
-**Qualified conclusion:** **Claim:** Forcing-feedback distinction. **Named evidence/example:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Feedback sign. **Named evidence/example:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water-vapour boundary. **Named evidence/example:** Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Aerosol-black-carbon boundary. **Named evidence/example:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** GWP time horizon. **Named evidence/example:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Potency-lifetime distinction. **Named evidence/example:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Hence an effective portfolio combines durable CO2 reduction, rapid methane abatement, efficient nitrogen use, F-gas control and protected high-integrity sinks, while reporting metric, horizon, permanence and uncertainty.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain radiative forcing, feedbacks and gas-specific climate metrics. Answer in about 250…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Why this earns marks:** It links gas physics, exact metrics, sink limits and aerosol transition.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 6 — 20 marks, 250 words
 
-**Introduction and thesis:** **Claim:** Forcing-feedback distinction. **Named evidence/example:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Feedback sign. **Named evidence/example:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water-vapour boundary. **Named evidence/example:** Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Aerosol-black-carbon boundary. **Named evidence/example:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** GWP time horizon. **Named evidence/example:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Potency-lifetime distinction. **Named evidence/example:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Question:** Assess the major indicators of contemporary climate change and explain how they translate into differentiated risks for India.
 
-**Analytical body:**
+**Model answer (231 words):**
 
-1. **Claim and named evidence:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Contemporary climate change is diagnosed through a coherent system of indicators rather than temperature alone. WMO reports that 2025 was about 1.43°C above 1850-1900 and that ocean heat content reached a record in the 66-year series. Rising ocean heat demonstrates continued planetary energy gain even when surface temperature fluctuates.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Thermal expansion and land-ice loss raise sea level; WMO estimates 4.75 mm/year during 2012-2025, compared with 2.65 mm/year during 1993-2011. Glacier mass loss, record-low Arctic maximum sea ice and changing snow/permafrost corroborate cryosphere warming. Ocean CO2 uptake lowers pH, while a warmer atmosphere intensifies hot extremes and can strengthen heavy precipitation. Event attribution, however, must remain event- and region-specific.
 
-**Qualified conclusion:** **Claim:** Forcing-feedback distinction. **Named evidence/example:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Feedback sign. **Named evidence/example:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water-vapour boundary. **Named evidence/example:** Water vapour is a major greenhouse gas and generally operates as a feedback in contemporary warming because atmospheric moisture responds strongly to temperature; it is not a substitute for tracing the initiating anthropogenic forcing. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Aerosol-black-carbon boundary. **Named evidence/example:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** GWP time horizon. **Named evidence/example:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Potency-lifetime distinction. **Named evidence/example:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+India’s risks are differentiated. IMD found 2025 Indian land temperature 0.28°C above the 1991-2020 mean and the eighth warmest since 1901. Heat hazard combines this warmer baseline with humidity, urban heat islands, outdoor work and unequal cooling access. Monsoon outcomes reflect greater moisture alongside aerosols, ENSO, Indian Ocean conditions and circulation; seasonal totals and short-duration extremes can move differently. Coastal risk combines sea-level rise with surge, erosion and subsidence. Himalayan effects vary across glaciers and basins.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+Policy should join mitigation with heat-health plans, climate services, resilient water and urban systems, coastal measures and social protection. Yet adaptation has limits: continuing emissions raise irreversible ocean and ice commitments. Global metrics must not be mechanically downscaled.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Why this earns marks:** It moves from multiple indicators to qualified India-specific pathways and response.
 
-**How to improve this answer:** For “Explain radiative forcing, feedbacks and gas-specific climate metrics. Answer in about 250…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+### Workbook source register
 
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Distinguish climate trend, detection, attribution and event attribution. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Weather-climate distinction. **Named evidence/example:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Variability-trend distinction. **Named evidence/example:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Detection-attribution distinction. **Named evidence/example:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Event-attribution boundary. **Named evidence/example:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend.
-- Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-- Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence.
-- Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-
-**Qualified conclusion:** **Claim:** Weather-climate distinction. **Named evidence/example:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Variability-trend distinction. **Named evidence/example:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Detection-attribution distinction. **Named evidence/example:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Event-attribution boundary. **Named evidence/example:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish climate trend, detection, attribution and event attribution. Answer in about 250…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Weather-climate distinction. **Named evidence/example:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Variability-trend distinction. **Named evidence/example:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Detection-attribution distinction. **Named evidence/example:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Event-attribution boundary. **Named evidence/example:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Weather-climate distinction. **Named evidence/example:** Weather describes short-period atmospheric conditions, whereas climate concerns statistical patterns over longer periods; one unusual season or event does not alone establish a climate trend. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Variability-trend distinction. **Named evidence/example:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Detection-attribution distinction. **Named evidence/example:** Detection asks whether an observed change is distinguishable from expected variability, while attribution evaluates the relative contributions of human and natural drivers using multiple lines of evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Event-attribution boundary. **Named evidence/example:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish climate trend, detection, attribution and event attribution. Answer in about 250…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate how climate science should translate into mitigation and adaptation policy. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Enhanced anthropogenic forcing. **Named evidence/example:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Emission-concentration distinction. **Named evidence/example:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Forcing-feedback distinction. **Named evidence/example:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** GWP time horizon. **Named evidence/example:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Potency-lifetime distinction. **Named evidence/example:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Observation-projection distinction. **Named evidence/example:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Mitigation-adaptation distinction. **Named evidence/example:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect.
-- An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable.
-- Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change.
-- Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete.
-- Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning.
-- An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-- A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur.
-- Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action.
-
-**Qualified conclusion:** **Claim:** Enhanced anthropogenic forcing. **Named evidence/example:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Emission-concentration distinction. **Named evidence/example:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Forcing-feedback distinction. **Named evidence/example:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** GWP time horizon. **Named evidence/example:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Potency-lifetime distinction. **Named evidence/example:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Observation-projection distinction. **Named evidence/example:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Mitigation-adaptation distinction. **Named evidence/example:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate how climate science should translate into mitigation and adaptation policy. Answer…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Enhanced anthropogenic forcing. **Named evidence/example:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Emission-concentration distinction. **Named evidence/example:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Forcing-feedback distinction. **Named evidence/example:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** GWP time horizon. **Named evidence/example:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Potency-lifetime distinction. **Named evidence/example:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Observation-projection distinction. **Named evidence/example:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Mitigation-adaptation distinction. **Named evidence/example:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-8. **Claim and named evidence:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Enhanced anthropogenic forcing. **Named evidence/example:** Current climate concern arises from human activities increasing greenhouse-gas concentrations and other forcing agents, thereby altering the climate system beyond the natural greenhouse effect. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Emission-concentration distinction. **Named evidence/example:** An emission is a flow released during a period, while atmospheric concentration is the resulting abundance after sources, sinks, chemistry and lifetime act; the two quantities are related but not interchangeable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Forcing-feedback distinction. **Named evidence/example:** Radiative forcing is an imposed change to the climate system's energy balance, while a feedback is a response triggered by climate change that amplifies or dampens the initial change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** GWP time horizon. **Named evidence/example:** Global Warming Potential compares integrated radiative influence relative to carbon dioxide over a specified time horizon; a GWP claim without its horizon is incomplete. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Potency-lifetime distinction. **Named evidence/example:** Heat-trapping potency per unit mass and atmospheric persistence are different properties; a short-lived strong forcer and a long-lived cumulative gas require different mitigation reasoning. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Observation-projection distinction. **Named evidence/example:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scenario-not-forecast. **Named evidence/example:** A climate scenario is a coherent conditional pathway used to explore possible futures; it is not an unconditional prediction that a particular future will occur. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Mitigation-adaptation distinction. **Named evidence/example:** Mitigation addresses sources or enhances sinks to limit climate change, whereas adaptation adjusts human or natural systems to actual or expected impacts; neither term is a synonym for all climate action. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Evaluate how climate science should translate into mitigation and adaptation policy. Answer…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Build an evidence-safe climate-change answer from mechanism to impacts. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Natural greenhouse effect. **Named evidence/example:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Shortwave-longwave distinction. **Named evidence/example:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stock-flow distinction. **Named evidence/example:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Feedback sign. **Named evidence/example:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Aerosol-black-carbon boundary. **Named evidence/example:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Variability-trend distinction. **Named evidence/example:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Event-attribution boundary. **Named evidence/example:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Observation-projection distinction. **Named evidence/example:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sink-source and gross-net. **Named evidence/example:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Impact and evidence boundary. **Named evidence/example:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated.
-- Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow.
-- Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock.
-- A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable.
-- Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign.
-- Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency.
-- Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change.
-- An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions.
-- A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate.
-- Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale.
-
-**Qualified conclusion:** **Claim:** Natural greenhouse effect. **Named evidence/example:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Shortwave-longwave distinction. **Named evidence/example:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stock-flow distinction. **Named evidence/example:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Feedback sign. **Named evidence/example:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Aerosol-black-carbon boundary. **Named evidence/example:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Variability-trend distinction. **Named evidence/example:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Event-attribution boundary. **Named evidence/example:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Observation-projection distinction. **Named evidence/example:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sink-source and gross-net. **Named evidence/example:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Impact and evidence boundary. **Named evidence/example:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Build an evidence-safe climate-change answer from mechanism to impacts. Answer in about 300…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Natural greenhouse effect. **Named evidence/example:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Shortwave-longwave distinction. **Named evidence/example:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stock-flow distinction. **Named evidence/example:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Feedback sign. **Named evidence/example:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Aerosol-black-carbon boundary. **Named evidence/example:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Variability-trend distinction. **Named evidence/example:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Event-attribution boundary. **Named evidence/example:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Observation-projection distinction. **Named evidence/example:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sink-source and gross-net. **Named evidence/example:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Impact and evidence boundary. **Named evidence/example:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-8. **Claim and named evidence:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-9. **Claim and named evidence:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-10. **Claim and named evidence:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Natural greenhouse effect. **Named evidence/example:** The natural greenhouse effect is a life-enabling energy-balance process in which greenhouse gases absorb and re-emit part of Earth's outgoing longwave radiation; it is not the anthropogenic problem to be eliminated. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Shortwave-longwave distinction. **Named evidence/example:** Incoming solar energy is predominantly shortwave, whereas the warmed surface emits longwave infrared radiation; greenhouse gases interact with the outgoing longwave part of this energy flow. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stock-flow distinction. **Named evidence/example:** Long-lived greenhouse gases create a stock problem because accumulated past and present emissions influence concentration; lowering an annual flow does not by itself remove the existing atmospheric stock. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Feedback sign. **Named evidence/example:** A positive climate feedback amplifies an initial change and a negative feedback dampens it; positive and negative describe direction, not whether the outcome is desirable. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Aerosol-black-carbon boundary. **Named evidence/example:** Many aerosols exert a cooling influence through scattering and cloud effects, while black carbon absorbs radiation and can reduce snow or ice albedo; 'aerosol' does not imply one universal forcing sign. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Variability-trend distinction. **Named evidence/example:** Natural variability can raise or lower conditions around a long-term trend, so short-term fluctuation neither proves nor disproves the underlying climate tendency. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Event-attribution boundary. **Named evidence/example:** Event attribution estimates how human-caused climate change altered the probability or intensity of a defined event class; it does not justify saying that every individual disaster was caused solely by climate change. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Observation-projection distinction. **Named evidence/example:** An observation describes measured past or present change, whereas a model projection is a conditional statement about a future pathway under specified assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Sink-source and gross-net. **Named evidence/example:** A sink absorbs more of a substance than it releases over the stated boundary and period, while a source releases more; gross removals, gross emissions and net balance must be kept separate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Impact and evidence boundary. **Named evidence/example:** Ocean acidification follows carbon-dioxide uptake and chemistry, while warming and sea-level impacts involve additional mechanisms; global findings, India-specific evidence, observed attribution and future projections must be cited at their proper scale. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Build an evidence-safe climate-change answer from mechanism to impacts. Answer in about 300…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+- IPCC AR6 WGI SPM and Chapters 5 and 7: `https://www.ipcc.ch/report/ar6/wg1/`
+- IPCC AR6 Synthesis Report: `https://www.ipcc.ch/report/ar6/syr/`
+- WMO State of the Global Climate 2025: `https://wmo.int/publication-series/state-of-global-climate/state-of-global-climate-2025`
+- WMO Greenhouse Gas Bulletin No. 21: `https://wmo.int/files/greenhouse-gas-bulletin-no-21`
+- UNEP Emissions Gap Report 2025: `https://www.unep.org/resources/emissions-gap-report-2025`
+- NASA energy budget and greenhouse effect: `https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/`; `https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/`
+- NOAA weather versus climate: `https://www.ncei.noaa.gov/news/weather-vs-climate`
+- IMD Statement on the Climate of India during 2025: `https://mausam.imd.gov.in/Forecast/marquee_data/Statement_climate_of_india_2025.pdf`

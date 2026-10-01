@@ -1,1152 +1,1445 @@
 ---
-title: "Internal-Security Foundations and Governance — Solved Practice Workbook"
+title: "Internal Security Foundations and Governance — Solved Practice Workbook"
 topic_key: internal-security-01
+subject: Internal Security
+paper: "Prelims GS-I; Mains GS-III; shared GS-IV applications"
+reviewed_at: "2026-09-27"
 ---
-# Internal-Security Foundations and Governance — Solved Practice Workbook
+
+# Internal Security Foundations and Governance — Solved Practice Workbook
+
+> **Companion to:** `Learning-Session.md`.
+>
+> **Contents:** exactly 40 original coverage-led MCQs; four verified objective PYQs; five verified
+> Mains PYQs; one verified Essay application; six original Mains questions
+> (2 × 10 marks, 2 × 15 marks, 2 × 20 marks).
+>
+> **Answer rotation:** **A → B → C → D**, repeated exactly ten times.
+>
+> **Evidence marks:** ✅ source-grounded fact · ⚠️ analytical inference · ❌ rejected claim.
+
+## PYQ and evidence audit
+
+- **Direct ownership:** 2020 GS-III Q10; 2021 GS-III Q19; 2023 Prelims GS-I Q92;
+  2026 Prelims GS-I Q62.
+- **Shared ownership:** 2019 GS-IV Q4(b) with the Ethics/RTI owner; 2023 GS-III Q19 with
+  Internal Security Topic 12; 2026 GS-IV Q2(b) with Ethics.
+- **Application only:** 2023 Prelims GS-I Q91 (Topic 12), 2024 Prelims GS-I Q78 (Topic 06), and
+  2025 Essay Section A(2) (Essay).
+- **Objective-key status:** the 2023 official question paper is held locally but its official key
+  is not; answers are clearly labelled inferred. The 2026 local key is explicitly provisional.
+- **Wording rule:** line breaks, spacing, obvious OCR spelling and option-label defects are
+  normalised transparently. No missing substantive word is silently invented.
+- **Mains-answer rule:** UPSC does not publish model answers. Every model below is original,
+  demand-specific and evidence-linked.
+- **Routing scope checked:** all central Prelims and Mains routing ledgers for 2018–2023,
+  2024–2025 and 2026, plus the 2026 GS-III and GS-IV question audits.
+- **Evidence-window limit:** the audited central routing corpus begins in 2018; no earlier question
+  is promoted without matching local official-paper evidence.
+
+---
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Internal-security boundary?
+### Q1. Consider the following statements:
 
-A. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-B. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-C. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-D. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
+1. Internal security concerns threats operating within the territory and the preservation of lawful
+   order, sovereignty and social peace.
+2. National security is a wider analytical umbrella that can include internal, external and vital
+   systemic dimensions.
+3. Human security changes the referent from the State alone to the safety and agency of people.
 
-**Answer: A.**
-**Explanation:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which of the statements given above are correct?
 
-### Q2. Which option preserves the legal or institutional boundary of Internal-security boundary?
+A. 1, 2, 3
+B. 1 and 2
+C. 2 and 3
+D. 1 and 3
 
-A. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-B. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-C. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-D. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Correct.** All three preserve distinct referents while allowing overlap.
+- **B — Incorrect.** It excludes the valid people-centred meaning of human security.
+- **C — Incorrect.** It omits the correct internal-security proposition in statement 1.
+- **D — Incorrect.** It omits the wider analytical scope of national security.
 
-### Q3. Which statement uses Internal-security boundary without changing its institution, law or status?
+**Examiner trap:** treating related security concepts as synonyms merely because one incident may
+engage several of them.
 
-A. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-B. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-C. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-D. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
+### Q2. Which sequence correctly represents the Supreme Court's concentric-circle distinction?
 
-**Answer: C.**
-**Explanation:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. Public order → law and order → security of the State
+B. Law and order → public order → security of the State
+C. Security of the State → public order → law and order
+D. National security → public order → human security
 
-### Q4. Which option avoids the standard UPSC close-option trap about Internal-security boundary?
+**Answer: B**
 
-A. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-B. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-C. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-D. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
+- **A — Incorrect.** It reverses the relation between the two wider circles.
+- **B — Correct.** *Ram Manohar Lohia* places law and order widest, public order next and security of
+  the State narrowest.
+- **C — Incorrect.** It places the gravest category as the widest field.
+- **D — Incorrect.** National and human security are different analytical referents, not the
+  judgment's legal-intensity circles.
 
-**Answer: D.**
-**Explanation:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** assuming that every breach of law affects the community at large.
 
-### Q5. Which statement correctly identifies MHA-MoD boundary?
+### Q3. A quarrel causes injury to two individuals but has no wider community effect. Under the
+concentric-circle test, it is most accurately classified as:
 
-A. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-B. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-C. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-D. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
+A. a security-of-the-State disturbance because any interpersonal violence threatens sovereignty.
+B. a public-order disturbance because the offence involves more than one person.
+C. a law-and-order matter unless its reach disturbs the community at large.
+D. a national-security event because formal police intervention is necessary.
 
-**Answer: A.**
-**Explanation:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: C**
 
-### Q6. Which option preserves the legal or institutional boundary of MHA-MoD boundary?
+- **A — Incorrect.** Violence alone does not meet the gravest State-security threshold.
+- **B — Incorrect.** Public order requires a wider effect on the community or public.
+- **C — Correct.** The limited reach keeps the incident within the broad law-and-order circle.
+- **D — Incorrect.** Police involvement does not convert an ordinary offence into national security.
 
-A. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-B. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-C. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-D. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
+**Examiner trap:** using the seriousness of harm to one victim as a substitute for the reach of the
+disturbance.
 
-**Answer: B.**
-**Explanation:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q4. A domestic armed group receives weapons and sanctuary from abroad while pursuing a domestic
+political objective. In Kautilya's four-fold frame, this is best described as:
 
-### Q7. Which statement uses MHA-MoD boundary without changing its institution, law or status?
+A. an external threat because foreign support is the decisive classification factor.
+B. an internally aided external threat because domestic recruits assist a foreign campaign.
+C. a wholly internal threat because the principal operating members are domestic.
+D. an externally aided internal threat: a domestic actor receives material foreign support.
 
-A. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-B. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-C. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-D. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Incorrect.** The principal operating actor is domestic.
+- **B — Incorrect.** That category concerns domestic assistance to an external actor.
+- **C — Incorrect.** It ignores the material foreign-support link.
+- **D — Correct.** Actor origin and source of assistance are both captured.
 
-### Q8. Which option avoids the standard UPSC close-option trap about MHA-MoD boundary?
+**Examiner trap:** classifying only by where violence occurs.
 
-A. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-B. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-C. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-D. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
+### Q5. Which set contains only attributes of internal security identified in the canonical Basic
+owner?
 
-**Answer: D.**
-**Explanation:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. Territorial integrity, domestic peace, rule of law, freedom from fear and communal harmony
+B. Export competitiveness, currency stability, military parity, energy autonomy and strategic
+   reserve capacity
+C. Territorial expansion, emergency rule, official secrecy, preventive detention and centralised
+   command architecture
+D. Alliance cohesion, maritime trade, diplomatic prestige, external deterrence and permanent
+   overseas basing networks
 
-### Q9. Which statement correctly identifies Kautilya fourfold frame?
+**Answer: A**
 
-A. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-B. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-C. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-D. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
+- **A — Correct.** These are part of the source-grounded attributes.
+- **B — Incorrect.** These may affect national resilience but are not the listed attributes.
+- **C — Incorrect.** It substitutes instruments or contested policies for security outcomes.
+- **D — Incorrect.** It describes external-strategic concerns rather than the canonical list.
 
-**Answer: A.**
-**Explanation:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** confusing instruments used for security with the condition security is meant to
+produce.
 
-### Q10. Which option preserves the legal or institutional boundary of Kautilya fourfold frame?
+### Q6. Which statement best distinguishes a security challenge from a threat?
 
-A. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-B. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-C. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-D. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
+A. A challenge denotes violent conduct, whereas a threat denotes non-violent pressure.
+B. A challenge tests governance broadly; a threat is a potentially harmful actor or event.
+C. A challenge is a completed legal offence; a threat is the institutional weakness exploited.
+D. A challenge is realised physical harm; a threat is the subsequent policy response.
 
-**Answer: B.**
-**Explanation:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: B**
 
-### Q11. Which statement uses Kautilya fourfold frame without changing its institution, law or status?
+- **A — Incorrect.** Neither concept is divided by violence in that manner.
+- **B — Correct.** It preserves the broad-condition versus harmful-actor/event distinction.
+- **C — Incorrect.** Vulnerability, not threat, is the weakness in the system.
+- **D — Incorrect.** A threat may realise harm; a challenge need not be a completed event.
 
-A. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-B. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-C. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-D. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
+**Examiner trap:** calling poverty, alienation or institutional delay a hostile actor.
 
-**Answer: C.**
-**Explanation:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q7. Consider the following statements about security risk:
 
-### Q12. Which option avoids the standard UPSC close-option trap about Kautilya fourfold frame?
+1. A threat has a source or actor, vector and target.
+2. A vulnerability is a weakness that the threat may exploit.
+3. Consequence is the adverse result if exploitation succeeds.
+4. Capability concerns the State's usable means, not merely its formal legal authority.
 
-A. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-B. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-C. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-D. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
+Which of the statements given above are correct?
 
-**Answer: D.**
-**Explanation:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. 1 and 2
+B. 2, 3 and 4
+C. 1, 2, 3, 4
+D. 1, 3 and 4
 
-### Q13. Which statement correctly identifies Security attributes?
+**Answer: C**
 
-A. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-B. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-C. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-D. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
+- **A — Incorrect.** It leaves out consequence and usable capability.
+- **B — Incorrect.** It omits the actor/vector/target content of a threat.
+- **C — Correct.** All four propositions form the complete risk grammar.
+- **D — Incorrect.** Without vulnerability, the route by which a threat succeeds is missing.
 
-**Answer: A.**
-**Explanation:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** describing hostile intent without identifying the weakness that makes harm
+possible.
 
-### Q14. Which option preserves the legal or institutional boundary of Security attributes?
+### Q8. Which example correctly distinguishes a root cause from a trigger?
 
-A. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-B. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-C. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-D. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
+A. A violent organisation is the root cause, while governance deficit is the trigger.
+B. A police response is the root cause, while a porous border is the immediate trigger.
+C. A propaganda message is the structural root cause, while inequality is the immediate trigger.
+D. Land alienation can be a root condition; a disputed acquisition notice can be a trigger.
 
-**Answer: B.**
-**Explanation:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: D**
 
-### Q15. Which statement uses Security attributes without changing its institution, law or status?
+- **A — Incorrect.** The organisation is an actor; governance deficit is a structural condition.
+- **B — Incorrect.** A response is not inherently a cause, and border porosity is usually a
+  vulnerability.
+- **C — Incorrect.** The categories depend on causal role, not fixed labels.
+- **D — Correct.** It separates durable enabling condition from proximate activating event.
 
-A. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-B. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-C. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-D. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
+**Examiner trap:** writing a list of grievances without explaining organised conversion into
+violence.
 
-**Answer: C.**
-**Explanation:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q9. Which of the following reproduces all eight elements of the canonical internal-security
+doctrine?
 
-### Q16. Which option avoids the standard UPSC close-option trap about Security attributes?
+A. Political; socio-economic; governance; police/forces; federal coordination; intelligence; borders;
+   cyber security
+B. Political; military; diplomatic; fiscal; judicial; electoral; maritime; environmental security
+C. Economic; social; cultural; military; space; nuclear; health; environmental security
+D. Police; armed forces; courts; Parliament; media; industry; civil society; local bodies
 
-A. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-B. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-C. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-D. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Correct.** It reproduces the eight source-grounded elements.
+- **B — Incorrect.** It replaces the doctrine with a generic national-power list.
+- **C — Incorrect.** It mixes human-security and strategic sectors absent from the eight-part frame.
+- **D — Incorrect.** It lists actors, not doctrinal dimensions.
 
-### Q17. Which statement correctly identifies Eight-element doctrine?
+**Examiner trap:** converting a doctrine of interacting functions into an organisation list.
 
-A. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-B. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-C. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-D. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
+### Q10. What is the best way to use the eight-element doctrine in a Mains answer?
 
-**Answer: A.**
-**Explanation:** The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. Give identical space to the eight elements regardless of the threat mechanism.
+B. Identify causally weak elements and connect each to a measure and competent institution.
+C. Replace threat-specific facts with the eight doctrine labels to maximise apparent coverage.
+D. Reserve the framework for a conclusion after narrating incidents and government schemes.
 
-### Q18. Which option preserves the legal or institutional boundary of Eight-element doctrine?
+**Answer: B**
 
-A. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-B. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-C. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-D. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
+- **A — Incorrect.** Equal treatment hides the diagnosis.
+- **B — Correct.** Selective causal use converts the doctrine into analysis.
+- **C — Incorrect.** A framework cannot substitute for threat-specific evidence.
+- **D — Incorrect.** The framework should organise the answer from the opening.
 
-**Answer: B.**
-**Explanation:** The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** mistaking comprehensive listing for analytical prioritisation.
 
-### Q19. Which statement uses Eight-element doctrine without changing its institution, law or status?
+### Q11. Match the actor type with its dominant objective:
 
-A. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-B. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-C. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-D. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
+1. State-sponsored proxy — strategic coercion with deniability
+2. Ideological insurgent — political power or territorial/community influence
+3. Organised-crime network — profit and parallel economy
+4. Digital-domain actor — disruption, theft or influence
 
-**Answer: C.**
-**Explanation:** The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+Which of the matches are correct?
 
-### Q20. Which option avoids the standard UPSC close-option trap about Eight-element doctrine?
+A. 1 and 2
+B. 1, 3 and 4
+C. 1, 2, 3, 4
+D. 2 and 4
 
-A. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-B. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-C. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-D. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Incorrect.** It excludes two correctly matched actor types.
+- **B — Incorrect.** It wrongly omits the political objective of an ideological insurgent.
+- **C — Correct.** Each actor is matched to its dominant logic without denying overlap.
+- **D — Incorrect.** It excludes the proxy and criminal-network matches.
 
-### Q21. Which statement correctly identifies Root-cause matrix?
+**Examiner trap:** assuming that shared tactics make actor objectives identical.
 
-A. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-B. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-C. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-D. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
+### Q12. Which inference about a proxy is the most defensible?
 
-**Answer: A.**
-**Explanation:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. A non-State label by itself disproves involvement by any foreign government.
+B. Any foreign contact conclusively proves direction and control by a sponsoring State.
+C. Domestic recruitment makes the origin of finance and sanctuary analytically irrelevant.
+D. A proxy can offer deniability, but attribution still requires evidence of support.
 
-### Q22. Which option preserves the legal or institutional boundary of Root-cause matrix?
+**Answer: D**
 
-A. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-B. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-C. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-D. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
+- **A — Incorrect.** Non-state form can coexist with State sponsorship.
+- **B — Incorrect.** Contact alone does not prove direction or control.
+- **C — Incorrect.** Recruitment origin and resource origin answer different questions.
+- **D — Correct.** It recognises proxy logic while preserving evidentiary discipline.
 
-**Answer: B.**
-**Explanation:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** presenting suspected sponsorship as adjudicated fact.
 
-### Q23. Which statement uses Root-cause matrix without changing its institution, law or status?
+### Q13. Under the Seventh Schedule, which pairing is correct?
 
-A. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-B. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-C. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-D. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
+A. Public order — State List Entry 1; police — State List Entry 2
+B. Public order — Union List Entry 1; police — Concurrent List Entry 2
+C. Public order — Concurrent List Entry 1; police — Union List Entry 8
+D. Public order — State List Entry 2A; police — Union List Entry 9
 
-**Answer: C.**
-**Explanation:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: A**
 
-### Q24. Which option avoids the standard UPSC close-option trap about Root-cause matrix?
+- **A — Correct.** These are the precise State List entries.
+- **B — Incorrect.** Neither subject is allocated as stated.
+- **C — Incorrect.** Entry 8 concerns the Central Bureau of Intelligence and Investigation.
+- **D — Incorrect.** Entry 2A is a Union deployment provision; Entry 9 concerns specified preventive
+  detention.
 
-A. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-B. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-C. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-D. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
+**Examiner trap:** remembering that the Union assists and then moving police into the Concurrent
+List.
 
-**Answer: D.**
-**Explanation:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q14. Union List Entry 2A is best understood as:
 
-### Q25. Which statement correctly identifies Threat-vulnerability-capability?
+A. Permanent transfer of State public-order authority to the Union during any security tension.
+B. Deployment of a Union-controlled force in a State in aid of civil power.
+C. General arrest and prosecution authority for central intelligence organisations operating
+   nationally.
+D. A constitutional emergency triggered by a State's formal request for security assistance.
 
-A. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-B. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-C. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-D. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Incorrect.** The State's ordinary public-order competence remains.
+- **B — Correct.** “In aid of the civil power” is the controlling constitutional phrase.
+- **C — Incorrect.** Deployment, intelligence and prosecution are distinct functions.
+- **D — Incorrect.** Assistance does not automatically invoke emergency provisions.
 
-### Q26. Which option preserves the legal or institutional boundary of Threat-vulnerability-capability?
+**Examiner trap:** converting an aid power into displacement of civil authority.
 
-A. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-B. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-C. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-D. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
+### Q15. Which statement most accurately describes Article 355?
 
-**Answer: B.**
-**Explanation:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. It transfers public order and police powers from State to exclusive Union control.
+B. It creates a blanket preventive-detention power covering reported public-order offences.
+C. It requires Union protection against aggression or disturbance and maintenance of constitutional
+   government.
+D. It suspends State executive authority upon a report of internal disturbance.
 
-### Q27. Which statement uses Threat-vulnerability-capability without changing its institution, law or status?
+**Answer: C**
 
-A. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-B. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-C. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-D. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
+- **A — Incorrect.** Entries 1 and 2 of the State List retain those subjects.
+- **B — Incorrect.** Preventive detention has separate constitutional and statutory bases.
+- **C — Correct.** This is the operative constitutional duty.
+- **D — Incorrect.** Article 355 does not itself create automatic displacement or President's Rule.
 
-**Answer: C.**
-**Explanation:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** treating a duty clause as an automatic operational procedure.
 
-### Q28. Which option avoids the standard UPSC close-option trap about Threat-vulnerability-capability?
+### Q16. A State faces a coordinated violent incident and seeks central assistance. Which arrangement
+best fits India's constitutional design?
 
-A. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-B. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-C. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-D. A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
+A. The Union assumes permanent operational control of ordinary policing throughout the affected
+   State territory.
+B. The State loses operational accountability once any central force arrives for temporary
+   assistance.
+C. Union assistance is confined to finance and excludes intelligence, training, expertise or
+   manpower.
+D. State civil authorities remain primary while Union support operates under constitutional and
+   legal powers.
 
-**Answer: D.**
-**Explanation:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: D**
 
-### Q29. Which statement correctly identifies Actor-means-objective?
+- **A — Incorrect.** Temporary assistance does not permanently transfer the State subject.
+- **B — Incorrect.** Civil authority and accountability continue.
+- **C — Incorrect.** MHA officially records intelligence, manpower, finance and expertise support.
+- **D — Correct.** It preserves both State primacy and Union responsibility.
 
-A. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-B. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-C. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-D. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
+**Examiner trap:** presenting federal security as either complete State exclusivity or complete
+Union takeover.
 
-**Answer: A.**
-**Explanation:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q17. Which measure is primarily preventive?
 
-### Q30. Which option preserves the legal or institutional boundary of Actor-means-objective?
+A. Disrupting a recruitment-finance network before planned mobilisation occurs
+B. Conducting a multi-agency drill for a possible attack on a transport hub
+C. Establishing an incident command post immediately after an attack begins
+D. Restoring damaged services and reviewing failures after violence ends
 
-A. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-B. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-C. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-D. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Correct.** It seeks to reduce likelihood before the event.
+- **B — Incorrect.** A drill builds readiness and is preparedness.
+- **C — Incorrect.** Immediate containment is response.
+- **D — Incorrect.** Restoration and learning are recovery.
 
-### Q31. Which statement uses Actor-means-objective without changing its institution, law or status?
+**Examiner trap:** calling every action taken before physical harm “preparedness”.
 
-A. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-B. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-C. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-D. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
+### Q18. Which measure belongs most directly to preparedness?
 
-**Answer: C.**
-**Explanation:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. Long-term grievance redress intended to reduce recruitment.
+B. Joint drills, interoperable communications and pre-agreed command protocols.
+C. Immediate evacuation, cordoning and evidence preservation during an incident.
+D. Victim rehabilitation, service restoration and an after-action review.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Actor-means-objective?
+**Answer: B**
 
-A. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-B. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-C. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-D. External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
+- **A — Incorrect.** It is preventive governance.
+- **B — Correct.** It pre-arranges capability for a possible event.
+- **C — Incorrect.** Those are response actions.
+- **D — Incorrect.** Those are recovery and learning measures.
 
-**Answer: D.**
-**Explanation:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** confusing readiness-building with immediate operational action.
 
-### Q33. Which statement correctly identifies State List primacy?
+### Q19. Which sequence correctly separates response from recovery?
 
-A. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-B. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-C. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-D. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
+A. Response restores livelihoods and trust; recovery identifies and contains the immediate
+   attacker.
+B. Response begins after the criminal trial; recovery ends when an FIR is registered.
+C. Response protects and contains immediate harm; recovery restores services, justice, trust and
+   resilience.
+D. Response and recovery are identical phases because both can occur after an incident.
 
-**Answer: A.**
-**Explanation:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: C**
 
-### Q34. Which option preserves the legal or institutional boundary of State List primacy?
+- **A — Incorrect.** It reverses the dominant functions.
+- **B — Incorrect.** Both claims confuse criminal-process stages with the security lifecycle.
+- **C — Correct.** It preserves immediate containment and longer restoration.
+- **D — Incorrect.** The stages overlap but answer different operational questions.
 
-A. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-B. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-C. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-D. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
+**Examiner trap:** treating a fall in violence as proof that recovery is complete.
 
-**Answer: B.**
-**Explanation:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q20. Which statement best captures the relationship among the four lifecycle stages?
 
-### Q35. Which statement uses State List primacy without changing its institution, law or status?
+A. Each stage begins after the previous stage has formally and operationally ended.
+B. Intelligence belongs exclusively to prevention and cannot inform preparedness or response.
+C. Development belongs exclusively to recovery and cannot reduce future recruitment risk.
+D. The stages overlap, while the classification clarifies the primary purpose of each measure.
 
-A. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-B. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-C. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-D. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Incorrect.** Real operations require concurrent activity.
+- **B — Incorrect.** Intelligence supports preparation, response and review as well.
+- **C — Incorrect.** Development can reduce vulnerability before an incident.
+- **D — Correct.** Purpose, not rigid chronology, controls the classification.
 
-### Q36. Which option avoids the standard UPSC close-option trap about State List primacy?
+**Examiner trap:** using the cycle as a mechanical timeline rather than a planning discipline.
 
-A. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-B. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-C. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-D. Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
+### Q21. Which statement correctly separates intelligence from criminal adjudication?
 
-**Answer: D.**
-**Explanation:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. Intelligence guides action; guilt still requires admissible evidence and lawful adjudication.
+B. A credible intelligence input provides sufficient proof for conviction without further inquiry.
+C. An intelligence-sharing body ordinarily replaces the police agency investigating the offence.
+D. Prosecution begins before collection, assessment and dissemination of intelligence.
 
-### Q37. Which statement correctly identifies Union aid boundary?
+**Answer: A**
 
-A. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-B. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-C. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-D. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
+- **A — Correct.** It preserves the warning-to-proof boundary.
+- **B — Incorrect.** Intelligence reliability and evidentiary admissibility are different tests.
+- **C — Incorrect.** Coordination does not transfer investigative mandate.
+- **D — Incorrect.** It reverses the functional sequence.
 
-**Answer: A.**
-**Explanation:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** moving directly from suspicion to guilt.
 
-### Q38. Which option preserves the legal or institutional boundary of Union aid boundary?
+### Q22. In the MHA Annual Report's LWE discussion, which proposition about MAC and SMAC is supported?
 
-A. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-B. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-C. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-D. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
+A. They are courts for trying offences affecting national security.
+B. They facilitate round-the-clock intelligence sharing at central and State levels.
+C. They replace State police as first responders to terrorist incidents.
+D. They exercise the Union's legislative power over police and public order.
 
-**Answer: B.**
-**Explanation:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: B**
 
-### Q39. Which statement uses Union aid boundary without changing its institution, law or status?
+- **A — Incorrect.** Intelligence coordination is not adjudication.
+- **B — Correct.** This is the function recorded in the report's LWE section.
+- **C — Incorrect.** The same report identifies State police as first responders.
+- **D — Incorrect.** Coordination bodies do not amend the Seventh Schedule.
 
-A. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-B. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-C. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-D. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
+**Examiner trap:** inferring coercive or judicial power from information-sharing status.
 
-**Answer: C.**
-**Explanation:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q23. Which operational allocation is most accurate?
 
-### Q40. Which option avoids the standard UPSC close-option trap about Union aid boundary?
+A. Central agencies take first response when a threat has possible interstate effects.
+B. District administration manages welfare but has no security, continuity or recovery role.
+C. State police provide first response; Union bodies supply lawful intelligence and specialist
+   support.
+D. Courts direct field operations when their legality may later be reviewed.
 
-A. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-B. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-C. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-D. Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Incorrect.** Cross-border reach does not erase State first-response responsibility.
+- **B — Incorrect.** Administration is central to continuity, relief, grievance and recovery.
+- **C — Correct.** It matches both constitutional allocation and the current MHA account.
+- **D — Incorrect.** Judicial review and operational command are distinct.
 
-### Q41. Which statement correctly identifies Article 355 duty?
+**Examiner trap:** confusing national scale with exclusive central execution.
 
-A. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-B. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-C. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-D. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
+### Q24. A law authorises a sophisticated investigation technique, but the responsible unit lacks
+trained staff, equipment and forensic support. This illustrates:
 
-**Answer: A.**
-**Explanation:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. a constitutional conflict between public order and police.
+B. successful implementation because statutory authority exists.
+C. a completed outcome because an enabling provision was enacted.
+D. the distinction between statutory power and operational capability.
 
-### Q42. Which option preserves the legal or institutional boundary of Article 355 duty?
+**Answer: D**
 
-A. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-B. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-C. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-D. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
+- **A — Incorrect.** No federal competence dispute is described.
+- **B — Incorrect.** Authority alone does not create usable capacity.
+- **C — Incorrect.** Enactment is an input, not an outcome.
+- **D — Correct.** Personnel, tools and process determine whether power can be exercised.
 
-**Answer: B.**
-**Explanation:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** writing “the law provides” as proof that the system performs.
 
-### Q43. Which statement uses Article 355 duty without changing its institution, law or status?
+### Q25. Which proposition best captures the development–extremism linkage?
 
-A. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-B. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-C. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-D. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
+A. Organised actors can convert exclusion and weak governance into recruitment or coercion.
+B. Poverty directly produces violence wherever local per-capita income remains comparatively low.
+C. Development expenditure ends militancy even when access, fairness and accountability remain weak.
+D. Security operations become unnecessary once a welfare programme receives formal approval.
 
-**Answer: C.**
-**Explanation:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: A**
 
-### Q44. Which option avoids the standard UPSC close-option trap about Article 355 duty?
+- **A — Correct.** It supplies the missing conversion mechanism and avoids economic determinism.
+- **B — Incorrect.** Poverty is neither necessary nor sufficient for organised violence.
+- **C — Incorrect.** Spending does not prove delivery, trust or loss of coercive control.
+- **D — Incorrect.** Protection may be necessary where armed groups obstruct administration.
 
-A. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-B. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-C. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-D. Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
+**Examiner trap:** presenting a correlation as a complete causal explanation.
 
-**Answer: D.**
-**Explanation:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q26. Which outcome best demonstrates successful area management?
 
-### Q45. Which statement correctly identifies Coordination constraint?
+A. A temporary rise in deployed personnel and checkpoints across the affected area.
+B. Lawful administration and services endure while coercive support networks steadily weaken.
+C. A one-time seizure is reported without evidence that the wider network changed.
+D. A district receives a secure label without operational, social or trust indicators.
 
-A. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-B. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-C. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-D. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Incorrect.** Deployment is an input, not a durable end-state.
+- **B — Correct.** It combines protection, governance, trust and reduced coercion.
+- **C — Incorrect.** A seizure is an output and may leave the network intact.
+- **D — Incorrect.** A label without evidence cannot establish an outcome.
 
-### Q46. Which option preserves the legal or institutional boundary of Coordination constraint?
+**Examiner trap:** equating “clear” with “hold”.
 
-A. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-B. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-C. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-D. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
+### Q27. Which response most faithfully applies calibrated coercion and accommodation?
 
-**Answer: B.**
-**Explanation:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. Negotiate with armed actors before taking measures to protect civilians.
+B. Treat regional autonomy demands as equivalent to organised secessionist violence.
+C. Act against violence while preserving constitutional channels for legitimate group demands.
+D. Suspend operational accountability until a final political settlement has been implemented.
 
-### Q47. Which statement uses Coordination constraint without changing its institution, law or status?
+**Answer: C**
 
-A. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-B. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-C. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-D. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
+- **A — Incorrect.** Civilian protection cannot be made conditional on prior negotiation.
+- **B — Incorrect.** It collapses peaceful constitutional claims into violent conduct.
+- **C — Correct.** It differentiates the actor's method from the underlying political demand.
+- **D — Incorrect.** Accountability is required during operations, not only after settlement.
 
-**Answer: C.**
-**Explanation:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** interpreting a differentiated doctrine as either force-only or dialogue-only.
 
-### Q48. Which option avoids the standard UPSC close-option trap about Coordination constraint?
+### Q28. Why can disproportionate security action increase long-run risk?
 
-A. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-B. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-C. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-D. Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
+A. It transfers State police powers to the Union once force is used.
+B. It eliminates the need for intelligence and prosecution.
+C. It turns accused persons into recognised political representatives of the community.
+D. It can erode legitimacy and cooperation, deepen grievance and enlarge recruitment opportunities.
 
-**Answer: D.**
-**Explanation:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: D**
 
-### Q49. Which statement correctly identifies Coercion-accommodation calibration?
+- **A — Incorrect.** Federal competence does not change automatically.
+- **B — Incorrect.** Force does not replace warning, investigation or adjudication.
+- **C — Incorrect.** Accused status and political representation are unrelated.
+- **D — Correct.** It describes the rights–legitimacy feedback identified in the Advanced owner.
 
-A. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-B. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-C. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-D. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
+**Examiner trap:** measuring only immediate operational gain and ignoring second-order effects.
 
-**Answer: A.**
-**Explanation:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q29. Which is the clearest whole-of-government arrangement?
 
-### Q50. Which option preserves the legal or institutional boundary of Coercion-accommodation calibration?
+A. Union, State and district bodies share assessment, roles, operations and after-action review.
+B. One ministry circulates guidance without naming delivery agencies, timelines or review channels.
+C. A private platform independently determines criminal liability and imposes public-law penalties.
+D. A local volunteer group assumes independent police powers during a serious public disturbance.
 
-A. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-B. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-C. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-D. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Correct.** It integrates levels, functions and review while retaining mandates.
+- **B — Incorrect.** A communication is not coordinated implementation.
+- **C — Incorrect.** Private moderation does not replace criminal adjudication.
+- **D — Incorrect.** Participation does not confer coercive State power.
 
-### Q51. Which statement uses Coercion-accommodation calibration without changing its institution, law or status?
+**Examiner trap:** treating a large number of participating bodies as proof of integration.
 
-A. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-B. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-C. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-D. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
+### Q30. Which statement best describes whole-of-society security?
 
-**Answer: C.**
-**Explanation:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. Civil society may exercise coercive powers when ordinary police capacity becomes limited.
+B. Societal actors support lawful security functions while public authorities retain coercion and
+   accountability.
+C. Private infrastructure operators remain outside security planning because they are not public
+   authorities.
+D. Community participation belongs mainly to post-incident relief rather than prevention or
+   preparedness.
 
-### Q52. Which option avoids the standard UPSC close-option trap about Coercion-accommodation calibration?
+**Answer: B**
 
-A. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-B. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-C. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-D. The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
+- **A — Incorrect.** Participation cannot become unauthorised vigilantism.
+- **B — Correct.** It broadens prevention, preparedness and recovery without diffusing command.
+- **C — Incorrect.** Private systems may be vital dependencies and require coordinated resilience.
+- **D — Incorrect.** Communities also support early warning, trust and prevention.
 
-**Answer: D.**
-**Explanation:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** confusing co-production of security with privatisation of force.
 
-### Q53. Which statement correctly identifies Security-development sequencing?
+### Q31. Which statement about human security is correct?
 
-A. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-B. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-C. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-D. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
+A. It is confined to protection against direct physical violence by armed actors.
+B. It replaces territorial security and makes organised State protection institutionally
+   unnecessary.
+C. It is people-centred and covers seven interdependent security dimensions identified by UNDP.
+D. It converts development deficits into criminal-law and policing problems.
 
-**Answer: A.**
-**Explanation:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: C**
 
-### Q54. Which option preserves the legal or institutional boundary of Security-development sequencing?
+- **A — Incorrect.** UNDP's framework also covers chronic economic, health and environmental threats.
+- **B — Incorrect.** It supplements rather than abolishes State-centred security.
+- **C — Correct.** These are the seven dimensions identified in the 1994 report.
+- **D — Incorrect.** Human-security analysis resists, rather than requires, over-securitisation.
 
-A. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-B. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-C. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-D. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
+**Examiner trap:** using “human security” as an unlimited label for every policy issue.
 
-**Answer: B.**
-**Explanation:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q32. A rumour causes anxiety in a small group but does not disturb community life. Which is the
+most defensible classification?
 
-### Q55. Which statement uses Security-development sequencing without changing its institution, law or status?
+A. It threatens security of the State because information technology carried the rumour.
+B. It disturbs public order because the message reached several identifiable recipients.
+C. It lies outside law and order unless the communication produces direct physical violence.
+D. Classification turns on reach and effect; limited anxiety need not disturb public order.
 
-A. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-B. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-C. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-D. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Incorrect.** Medium does not determine legal gravity.
+- **B — Incorrect.** Audience size alone is not the public-order test.
+- **C — Incorrect.** Legal order can be affected without physical violence.
+- **D — Correct.** Reach and effect, not labels, determine the circle.
 
-### Q56. Which option avoids the standard UPSC close-option trap about Security-development sequencing?
+**Examiner trap:** converting all misinformation into the gravest security category.
 
-A. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-B. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-C. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-D. Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
+### Q33. Which description of Home Guards is supported by the latest available MHA Annual Report?
 
-**Answer: D.**
-**Explanation:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. A voluntary auxiliary to State police, including Border Wing units supporting the BSF
+B. A permanent Union armed force exercising ordinary police authority throughout each State
+C. A judicial body reviewing preventive-detention orders and adjudicating public-order restrictions
+D. A central intelligence agency collecting and analysing threat inputs for State police operations
 
-### Q57. Which statement correctly identifies Prevention-response distinction?
+**Answer: A**
 
-A. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-B. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-C. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-D. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
+- **A — Correct.** It preserves volunteer status, auxiliary role and the Border Wing function.
+- **B — Incorrect.** Home Guards are not a Union police replacement.
+- **C — Incorrect.** Judicial review is not their mandate.
+- **D — Incorrect.** Their auxiliary role is not intelligence analysis.
 
-**Answer: A.**
-**Explanation:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** reading “internal security” in a mandate as proof of central or independent police
+power.
 
-### Q58. Which option preserves the legal or institutional boundary of Prevention-response distinction?
+### Q34. Which statement correctly explains the legal relationship between the RTI Act, 2005 and the
+Official Secrets Act, 1923?
 
-A. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-B. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-C. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-D. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
+A. An OSA classification defeats an RTI request without an exemption or harm inquiry.
+B. RTI sections 22 and 8(2) preserve override and a public-interest test.
+C. RTI section 24 opens intelligence records to disclosure without procedural safeguards.
+D. The Second Administrative Reforms Commission's recommendation itself repealed the OSA.
 
-**Answer: B.**
-**Explanation:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: B**
 
-### Q59. Which statement uses Prevention-response distinction without changing its institution, law or status?
+- **A — Incorrect.** The RTI Act contains its own exemptions, override and public-interest structure.
+- **B — Correct.** These are the two operative statutory safeguards.
+- **C — Incorrect.** Section 24 creates exclusions with specified corruption and human-rights
+  provisos; it is not blanket access.
+- **D — Incorrect.** A recommendation does not amend or repeal a statute.
 
-A. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-B. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-C. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-D. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
+**Examiner trap:** treating either secrecy or transparency as absolute.
 
-**Answer: C.**
-**Explanation:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q35. Consider the following pairs:
 
-### Q60. Which option avoids the standard UPSC close-option trap about Prevention-response distinction?
+1. Unauthorised use of police or military uniform for a prejudicial purpose — Official Secrets Act,
+   1923
+2. Interference with police or armed-forces personnel guarding a prohibited place — Official
+   Secrets Act, 1923
+3. Rash celebratory gunfire endangering life or personal safety — Arms Act, 1959 as amended in 2019
 
-A. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-B. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-C. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-D. Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
+Which of the pairs given above are correctly matched?
 
-**Answer: D.**
-**Explanation:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. 1 and 2
+B. 2 and 3
+C. 1, 2, 3
+D. 1 and 3
 
-### Q61. Which statement correctly identifies Statutory-power boundary?
+**Answer: C**
 
-A. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-B. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-C. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-D. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
+- **A — Incorrect.** It omits the valid Arms Act pairing.
+- **B — Incorrect.** It omits the valid uniform-use pairing in OSA section 6.
+- **C — Correct.** OSA sections 6–7 and Arms Act section 25(9) support all three.
+- **D — Incorrect.** It wrongly excludes the OSA section 7 interference offence.
 
-**Answer: A.**
-**Explanation:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** assuming the title of an Act reveals its complete field.
 
-### Q62. Which option preserves the legal or institutional boundary of Statutory-power boundary?
+### Q36. Which statement about BNSS section 173 is correct?
 
-A. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-B. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-C. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-D. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
+A. Information about cognisable and non-cognisable offences follows one registration rule at a
+   police station.
+B. Electronic information is the compulsory mode for cognisable-offence reports.
+C. A preliminary enquiry is mandatory before investigation of a cognisable offence.
+D. Cognisable information may be given regardless of area; electronic reporting and preliminary
+   enquiry remain conditional.
 
-**Answer: B.**
-**Explanation:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: D**
 
-### Q63. Which statement uses Statutory-power boundary without changing its institution, law or status?
+- **A — Incorrect.** Section 173 concerns cognisable offences; section 174 separately addresses
+  non-cognisable cases.
+- **B — Incorrect.** The text permits oral or electronic information.
+- **C — Incorrect.** The limited power applies to the specified punishment range with prior
+  permission; investigation may proceed where a prima facie case exists.
+- **D — Correct.** It preserves territorial access, reporting choice and the statutory conditions.
 
-A. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-B. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-C. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
-D. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
+**Examiner trap:** turning a permissive route into a universal obligation.
 
-**Answer: C.**
-**Explanation:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q37. Which sequence moves from the weakest to the strongest claim about an implemented security
+measure?
 
-### Q64. Which option avoids the standard UPSC close-option trap about Statutory-power boundary?
+A. Announcement → commencement → operational output → independently assessed outcome
+B. Operational outcome → statutory power → budget announcement → proposal
+C. Conviction → arrest → intelligence lead → allegation
+D. Impact → notification → legislative introduction → policy intent
 
-A. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-B. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-C. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-D. A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Correct.** Each rung adds evidence beyond formal intent.
+- **B — Incorrect.** It moves backward and mixes unlike stages.
+- **C — Incorrect.** It reverses the criminal-process sequence.
+- **D — Incorrect.** It begins with the strongest claim and descends irregularly.
 
-### Q65. Which statement correctly identifies Area-management end-state?
+**Examiner trap:** treating a notification or allocation as delivered impact.
 
-A. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-B. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-C. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-D. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
+### Q38. An older textbook says an institution has “just begun”, while the latest official report
+describes an operating coordination mechanism. What should an answer do?
 
-**Answer: A.**
-**Explanation:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+A. Prefer the older statement because textbooks remain more authoritative than dated official
+   reports.
+B. Date the historical observation and use the latest official report for present status.
+C. Merge both statements and present the institution as simultaneously absent and fully mature.
+D. Omit the institution because evidence from different dates cannot be reconciled reliably.
 
-### Q66. Which option preserves the legal or institutional boundary of Area-management end-state?
+**Answer: B**
 
-A. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-B. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-C. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-D. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
+- **A — Incorrect.** A dated institutional report is stronger for current status.
+- **B — Correct.** It preserves both historical development and present evidence.
+- **C — Incorrect.** Contradictory time-bound claims cannot be collapsed.
+- **D — Incorrect.** Dating resolves rather than creates the apparent conflict.
 
-**Answer: B.**
-**Explanation:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Examiner trap:** converting book-period language into a current claim.
 
-### Q67. Which statement uses Area-management end-state without changing its institution, law or status?
+### Q39. Which indicator most directly tests whether prevention capacity improved?
 
-A. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-B. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-C. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-D. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
+A. Personnel deployed immediately after reported security incidents
+B. The number of official statements describing the identified threat as a nationally serious risk
+C. The share of priority warnings acted upon and identified vulnerabilities closed before harm
+D. The number of statutes containing wider enabling powers for public authorities
 
-**Answer: C.**
-**Explanation:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+**Answer: C**
 
-### Q68. Which option avoids the standard UPSC close-option trap about Area-management end-state?
+- **A — Incorrect.** It measures response input.
+- **B — Incorrect.** Attention is not prevention performance.
+- **C — Correct.** It measures warning-to-action and vulnerability reduction.
+- **D — Incorrect.** Enabling law does not prove operational use.
 
-A. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-B. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-C. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-D. Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
+**Examiner trap:** using visible response counts because prevention's success is partly an absent
+event.
 
-**Answer: D.**
-**Explanation:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+### Q40. A district faces externally financed recruitment, poor grievance access, weak police
+forensics and distrust after indiscriminate searches. Which is the best integrated response?
 
-### Q69. Which statement correctly identifies Zero-FIR boundary?
+A. Expand force deployment until reported incidents cease, without reforming local governance,
+   justice or accountability.
+B. Begin development expenditure while deferring civilian protection, investigation and evidence
+   preservation.
+C. Transfer policing, administration and prosecution to one central body, removing federal
+   coordination.
+D. Disrupt finance, strengthen State investigation, restore services and grievances, and review
+   rights through shared intelligence.
 
-A. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-B. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-C. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-D. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+- **A — Incorrect.** It leaves grievance, evidence quality and legitimacy untreated.
+- **B — Incorrect.** It ignores active coercion and the need for protection.
+- **C — Incorrect.** It conflicts with constitutional allocation and does not guarantee capability.
+- **D — Correct.** It links threat, vulnerability, doctrine, federal role and rights.
 
-### Q70. Which option preserves the legal or institutional boundary of Zero-FIR boundary?
+**Examiner trap:** choosing a single-tool solution for a compound governance failure.
 
-A. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-B. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-C. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-D. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
+### Answer key — rotation check
 
-**Answer: B.**
-**Explanation:** BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+| Q | Key | Q | Key | Q | Key | Q | Key |
+|---:|:--:|---:|:--:|---:|:--:|---:|:--:|
+| 1 | A | 11 | C | 21 | A | 31 | C |
+| 2 | B | 12 | D | 22 | B | 32 | D |
+| 3 | C | 13 | A | 23 | C | 33 | A |
+| 4 | D | 14 | B | 24 | D | 34 | B |
+| 5 | A | 15 | C | 25 | A | 35 | C |
+| 6 | B | 16 | D | 26 | B | 36 | D |
+| 7 | C | 17 | A | 27 | C | 37 | A |
+| 8 | D | 18 | B | 28 | D | 38 | B |
+| 9 | A | 19 | C | 29 | A | 39 | C |
+| 10 | B | 20 | D | 30 | B | 40 | D |
 
-### Q71. Which statement uses Zero-FIR boundary without changing its institution, law or status?
+**Sequence:** `ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD`.
 
-A. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-B. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-C. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-D. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-
-**Answer: C.**
-**Explanation:** BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Zero-FIR boundary?
-
-A. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-B. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-C. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-D. BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction.
-
-**Answer: D.**
-**Explanation:** BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q73. Which statement correctly identifies OSA-Arms boundary?
-
-A. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-B. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-C. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-D. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-
-**Answer: A.**
-**Explanation:** The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q74. Which option preserves the legal or institutional boundary of OSA-Arms boundary?
-
-A. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-B. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-C. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-D. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-
-**Answer: B.**
-**Explanation:** The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q75. Which statement uses OSA-Arms boundary without changing its institution, law or status?
-
-A. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-B. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-C. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-D. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-
-**Answer: C.**
-**Explanation:** The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about OSA-Arms boundary?
-
-A. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-B. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-C. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-D. The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence.
-
-**Answer: D.**
-**Explanation:** The Official Secrets Act, 1923 addresses prohibited places, spying and wrongful communication, while Arms Act sections distinguish licensed possession from manufacture, sale or transfer; neither is a generic label for every security offence. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q77. Which statement correctly identifies Evidence-rung discipline?
-
-A. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-B. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-C. Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-D. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-
-**Answer: A.**
-**Explanation:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q78. Which option preserves the legal or institutional boundary of Evidence-rung discipline?
-
-A. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-B. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-C. The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-D. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-
-**Answer: B.**
-**Explanation:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q79. Which statement uses Evidence-rung discipline without changing its institution, law or status?
-
-A. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-B. Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-C. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-D. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-
-**Answer: C.**
-**Explanation:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Evidence-rung discipline?
-
-A. Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-B. The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-C. The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-D. A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
-
-**Answer: D.**
-**Explanation:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The other options change the threat category, institutional owner, legal instrument, evidentiary rung or implementation status.
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### Ownership and status ledger
 
-The audited ledgers route the 2020 area-management framework, the 2021 external-state/non-state actor demand and the provisional 2026 Zero FIR concept to this owner. Cross-topic wording is labelled rather than silently reassigned.
+| ID | Year/paper | Ownership | Wording status | Answer status |
+|---|---|---|---|---|
+| O1 | 2023 Prelims GS-I Q92 | **DIRECT** | Official local paper; transparent OCR normalisation | **INFERRED — official key not held locally** |
+| O2 | 2026 Prelims GS-I Q62 | **DIRECT** | Official local paper; two-column OCR reconstructed transparently | **PROVISIONAL local key: D** |
+| O3 | 2023 Prelims GS-I Q91 | **APPLICATION**; primary owner Topic 12 | Official local paper; transparent OCR normalisation | **INFERRED — official key not held locally** |
+| O4 | 2024 Prelims GS-I Q78 | **APPLICATION**; primary owner Topic 06 | Official local paper; line breaks normalised | **OFFICIAL Set-A key: C** |
+| M1 | 2020 GS-III Q10 | **DIRECT** | Official local paper; line breaks normalised | No official model answer |
+| M2 | 2021 GS-III Q19 | **DIRECT** | Official local paper; line breaks normalised | No official model answer |
+| M3 | 2023 GS-III Q19 | **SHARED**; agency-detail owner Topic 12 | Official local paper; line breaks normalised | No official model answer |
+| M4 | 2019 GS-IV Q4(b) | **SHARED**; primary owner Ethics/RTI | Official local paper; line breaks normalised | No official model answer |
+| M5 | 2026 GS-IV Q2(b) | **SHARED**; primary owner Ethics | Official local paper; exact English line | No official model answer |
+| E1 | 2025 Essay Section A(2) | **APPLICATION ONLY**; primary owner Essay | Official local paper; exact English line | No official model answer |
 
-### PYQ DEMAND CARD 1 — 2020 GS-III
+### Objective PYQ O1 — 2023 Prelims GS-I Q92 — DIRECT
 
-**Demand:** Area management to deny militant support and improve local perception.
+**Wording status:** **OFFICIAL LOCAL PAPER — TRANSPARENT OCR NORMALISATION.** Line breaks and table
+layout are restored; “~ecrets” is normalised to “Secrets” and split hyphenation is joined.
 
-**Status:** Audited neutral rendering of the routed demand; Discuss · 10 marks · 150 words. The exact printed stem should be taken from the OCR-searchable official paper during final assembly.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Prelims PYQ\QP_CS_Pre_Exam_2023_280523.pdf.md`.
 
-**Model solution:** **Threat-vulnerability-capability:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Security-development sequencing:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Area-management end-state:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Evidence-rung discipline:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+> With reference to India, consider the following pairs:
+>
+> | Action | The Act under which it is covered |
+> |---|---|
+> | 1. Unauthorized wearing of police or military uniforms | The Official Secrets Act, 1923 |
+> | 2. Knowingly misleading or otherwise interfering with a police officer or military officer when engaged in their duties | The Indian Evidence Act, 1872 |
+> | 3. Celebratory gunfire which can endanger the personal safety of others | The Arms (Amendment) Act, 2019 |
+>
+> How many of the above pairs are correctly matched?
+>
+> (a) Only one
+> (b) Only two
+> (c) All three
+> (d) None
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2020 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Answer status:** **INFERRED ANSWER — NOT OFFICIALLY VERIFIED LOCALLY: (b) Only two. Confidence:
+high.**
 
-**Detailed examiner-grade model answer:**
+**Pair analysis**
 
-**Introduction and thesis:** **Threat-vulnerability-capability:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Security-development sequencing:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Area-management end-state:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Evidence-rung discipline:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+1. **Correct.** Official Secrets Act, 1923 section 6 covers unauthorised use of specified official,
+   police or military uniforms for the stipulated prejudicial/deceptive purpose.
+2. **Incorrect.** Interference with or knowingly misleading police or armed-forces personnel
+   performing guard, sentry, patrol or similar duty near a prohibited place is addressed by
+   Official Secrets Act section 7, not the Indian Evidence Act.
+3. **Correct.** Arms Act section 25(9), inserted by the 2019 amendment, punishes rash or negligent
+   celebratory gunfire that endangers human life or personal safety.
 
-**Analytical body:**
+**Option-specific explanation**
 
-1. **Claim:** Demand: Area management to deny militant support and improve local perception. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Audited neutral rendering of the routed demand; Discuss · 10 marks · 150 words. The exact printed stem should be taken from the OCR-searchable official paper during final assembly. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+- **(a) Only one — incorrect:** pairs 1 and 3 are both correct.
+- **(b) Only two — correct:** pairs 1 and 3 are correct; pair 2 is mismatched.
+- **(c) All three — incorrect:** pair 2 names the wrong Act.
+- **(d) None — incorrect:** the statute texts support pairs 1 and 3.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+**Transferable lesson:** Match the precise conduct to the statutory section; the broad subject or
+title of an Act is not enough.
 
-**Qualified conclusion:** **Threat-vulnerability-capability:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Security-development sequencing:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Area-management end-state:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Evidence-rung discipline:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### Objective PYQ O2 — 2026 Prelims GS-I Q62 — DIRECT
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Wording status:** **OFFICIAL LOCAL PAPER — TRANSPARENT TWO-COLUMN OCR NORMALISATION.** The export
+interleaves the left-column Q62 with right-column Q63. Only the Q62 text is reassembled below;
+spacing and line breaks are normalised, with no substantive reconstruction.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Prelims PYQ\2026-GS1-Set A.md`; key:
+`C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Prelims PYQ\Ans-2026-GS1-Provisional.md`.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2020 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+> Which of the following statements about a Zero First Information Report (Zero FIR) under the
+> Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 is/are correct?
+>
+> 1. A Zero FIR can be lodged at a police station, even though the place of commission of a
+>    cognizable/non-cognizable offence is outside the territorial jurisdiction of that police station.
+> 2. The Officer-in-Charge of the police station where a Zero FIR has been lodged may, with the
+>    permission of the competent authority, initiate a preliminary enquiry.
+> 3. Under Zero FIR, it is obligatory for the informant to furnish information electronically.
+>
+> Select the answer using the code given below:
+>
+> (a) 1, 2 and 3
+> (b) 2 and 3 only
+> (c) 1 only
+> (d) 2 only
 
-### PYQ DEMAND CARD 2 — 2021 GS-III
+**Answer status:** **PROVISIONAL LOCAL KEY: (d) 2 only. NOT A FINAL OFFICIAL UPSC KEY.**
 
-**Demand:** Analyse the multidimensional challenges posed by external state and non-state actors to India's internal security.
+**Statement analysis**
 
-**Status:** Verified routed demand; Analyse · 15 marks · 250 words.
+1. **Incorrect as framed.** BNSS section 173(1) permits information concerning a
+   **cognisable offence**, irrespective of area. The statement extends the rule to
+   “cognizable/non-cognizable” offences; section 174 separately governs non-cognisable cases.
+2. **Treated as correct by the provisional key.** Section 173(3) permits the officer in charge,
+   with prior permission from an officer not below Deputy Superintendent of Police, to conduct a
+   preliminary enquiry within fourteen days for the specified category of cognisable offence, or
+   proceed with investigation where a prima facie case exists.
+3. **Incorrect.** Section 173(1) permits oral **or** electronic information; electronic submission
+   is not obligatory in every case.
 
-**Model solution:** **Internal-security boundary:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Kautilya fourfold frame:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. **Threat-vulnerability-capability:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Actor-means-objective:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Coordination constraint:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Evidence-rung discipline:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Option-specific explanation**
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2021 GS-III’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+- **(a) 1, 2 and 3 — incorrect:** statements 1 and 3 overstate the statutory rule.
+- **(b) 2 and 3 only — incorrect:** statement 3 converts an optional mode into a duty.
+- **(c) 1 only — incorrect:** statement 1 improperly includes non-cognisable offences.
+- **(d) 2 only — provisional key:** it is the answer recorded in the local provisional Set-A key.
 
-**Detailed examiner-grade model answer:**
+**Evidence caution:** Q62 is not marked dropped. The same local provisional sheet marks Q64, not
+Q62, with `X`.
 
-**Introduction and thesis:** **Internal-security boundary:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Kautilya fourfold frame:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. **Threat-vulnerability-capability:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Actor-means-objective:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Coordination constraint:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Evidence-rung discipline:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### Objective PYQ O3 — 2023 Prelims GS-I Q91 — APPLICATION
 
-**Analytical body:**
+**Primary owner:** Internal Security Topic 12, security forces and agencies. Included here because it
+tests auxiliary policing and whole-of-society governance.
 
-1. **Claim:** Demand: Analyse the multidimensional challenges posed by external state and non-state actors to India's internal security. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Verified routed demand; Analyse · 15 marks · 250 words. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Wording status:** **OFFICIAL LOCAL PAPER — TRANSPARENT OCR NORMALISATION.**
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Prelims PYQ\QP_CS_Pre_Exam_2023_280523.pdf.md`.
 
-**Qualified conclusion:** **Internal-security boundary:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Kautilya fourfold frame:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. **Threat-vulnerability-capability:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Actor-means-objective:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Coordination constraint:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Evidence-rung discipline:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+> With reference to Home Guards, consider the following statements:
+>
+> 1. Home Guards are raised under the Home Guards Act and Rules of the Central Government.
+> 2. The role of the Home Guards is to serve as an auxiliary force to the police in maintenance of
+>    internal security.
+> 3. To prevent infiltration on the international border/coastal areas, the Border Wing Home Guards
+>    Battalions have been raised in some States.
+>
+> How many of the above statements are correct?
+>
+> (a) Only one
+> (b) Only two
+> (c) All three
+> (d) None
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+**Answer status:** **INFERRED ANSWER — NOT OFFICIALLY VERIFIED LOCALLY: (b) Only two. Confidence:
+high.**
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
+**Statement analysis**
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2021 GS-III’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+1. **Incorrect.** Home Guards are raised under the Acts and Rules of the respective States/Union
+   Territories, not one Central Government Act-and-Rules regime.
+2. **Correct.** The MHA Annual Report 2024–2025 describes them as a voluntary auxiliary to State
+   police in law-and-order and internal-security situations.
+3. **Correct.** The same report records Border Wing Home Guards in border States as auxiliary to the
+   BSF for strengthening border villages and augmenting border security.
 
-### PYQ DEMAND CARD 3 — 2026 Prelims GS-I
+**Option-specific explanation**
 
-**Demand:** Zero FIR under BNSS and police jurisdiction for reported offences.
+- **(a) Only one — incorrect:** statements 2 and 3 are supported.
+- **(b) Only two — correct on the evidence:** statements 2 and 3 are correct.
+- **(c) All three — incorrect:** statement 1 assigns the legal source to the wrong level.
+- **(d) None — incorrect:** the current official MHA description supports two statements.
 
-**Status:** Provisional routed objective concept; no answer letter is recorded or inferred.
+**Transferable lesson:** An auxiliary role does not confer independent police or Union-force status.
 
-**Model solution:** **State List primacy:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Zero-FIR boundary:** BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction. **Evidence-rung discipline:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### Objective PYQ O4 — 2024 Prelims GS-I Q78 — APPLICATION
 
-**Demand decoding:** Treat ‘PYQ DEMAND CARD 3 — 2026 Prelims GS-I’ as a threat category, legal status, institution, process stage, jurisdiction, date and evidence problem.
+**Primary owner:** Internal Security Topic 06, border management. Included here because it tests the
+civic-action side of area management and favourable local perception.
 
-**Detailed examiner-grade model answer:**
+**Wording status:** **OFFICIAL LOCAL PAPER — line-break normalisation only.**
 
-**Introduction and thesis:** **State List primacy:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Zero-FIR boundary:** BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction. **Evidence-rung discipline:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Prelims PYQ\2024-GS1-Set A.md`; key:
+`C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Prelims PYQ\Ans-2024-GS1.md`.
 
-**Analytical body:**
+> Operations undertaken by the Army towards upliftment of the local population in remote areas to
+> include addressing of their basic needs is called:
+>
+> (a) Operation Sankalp
+> (b) Operation Maitri
+> (c) Operation Sadbhavana
+> (d) Operation Madad
 
-1. **Claim:** Demand: Zero FIR under BNSS and police jurisdiction for reported offences. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Status: Provisional routed objective concept; no answer letter is recorded or inferred. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Answer status:** ✅ **OFFICIAL SET-A ANSWER: (c) Operation Sadbhavana.** The extracted key renders
+the letter as `Cc`, a recurring OCR duplication that is transparently normalised to `C`.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+**Option-specific explanation**
 
-**Qualified conclusion:** **State List primacy:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Zero-FIR boundary:** BNSS section 173 permits information about a cognisable offence to be given irrespective of the area where it occurred; Zero FIR facilitates registration and transfer but does not alter final investigative jurisdiction. **Evidence-rung discipline:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+- **(a) Operation Sankalp — incorrect:** this is not the Army civic-action programme described in
+  the stem.
+- **(b) Operation Maitri — incorrect:** the name does not denote the continuing remote-area
+  upliftment programme asked here.
+- **(c) Operation Sadbhavana — correct:** the official Set-A key records C; it is the Army's
+  civic-action outreach in remote areas.
+- **(d) Operation Madad — incorrect:** this is not the programme identified by the official key for
+  the stated function.
 
-**Executable exam-length answer / compression plan:** Identify the actor and object; fix statute/rule/notification or institutional mandate; separate prevention, incident, investigation, prosecution and outcome; test each option against date, jurisdiction and closest exception.
+**Transferable lesson:** A goodwill operation can support trust and access, but it does not replace
+civil administration or prove a durable development outcome.
 
-**Why this earns marks:** It prevents law from guidelines, designation from conviction, intelligence from evidence, border guarding from law and order, and incident from crime being conflated.
+---
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2026 Prelims GS-I’, explain why the nearest distractor fails on actor, mandate, legal character, process stage, jurisdiction, status or date.
+### Mains PYQ M1 — 2020 GS-III Q10 — DIRECT
+
+**Wording status:** **OFFICIAL LOCAL PAPER — line-break normalisation only.**
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\Gen_St_P3.pdf.md`.
+
+> For effective border area management, discuss the steps required to be taken to deny local
+> support to militants and also suggest ways to manage favourable perception among locals.
+> **(Answer in 150 words) 10**
+
+**Demand decoding:** `Discuss` requires both security and legitimacy. “Deny local support” includes
+coercive support networks, while “favourable perception” requires lawful, responsive governance.
+
+**Original model answer (within 150 words):**
+
+Border-area management must deny militant coercion while making lawful administration the more
+credible local authority.
+
+First, use intelligence-led State policing, protected roads and communications, coordinated border
+guarding, and precise operations to disrupt recruitment, finance, arms and intimidation. Entry 2A
+permits Union forces to aid civil power, but State authorities retain ordinary public-order
+responsibility. Second, rapidly restore police stations, courts, schools, health services and
+communications so that security gains can be held. Third, institutionalise village-level grievance
+redress, protect witnesses and local representatives, recruit language- and terrain-capable
+personnel, and investigate abuse transparently. Fourth, communicate verified facts through trusted
+local channels and evaluate not only arrests, but service access, repeat recruitment, complaint
+confidence and freedom from coercion.
+
+Development expenditure or territorial clearing alone cannot establish favourable perception.
+Durable control exists when residents can reject militants without fear and obtain rights,
+services and justice from accountable institutions.
+
+**Why this earns marks:** It answers both limbs, names the federal boundary, links measures to
+mechanisms and qualifies outputs with a legitimate end-state.
+
+### Mains PYQ M2 — 2021 GS-III Q19 — DIRECT
+
+**Wording status:** **OFFICIAL LOCAL PAPER — line-break and punctuation normalisation only.**
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf.md`.
+
+> Analyse the multidimensional challenges posed by external state and non-state actors, to the
+> internal security of India. Also discuss measures required to be taken to combat these threats.
+> **(Answer in 250 words) 15**
+
+**Demand decoding:** `Analyse` requires actor–means–effect linkages; the second sentence requires a
+matched response, not a generic agency list.
+
+**Original model answer (within 250 words):**
+
+External State and non-State actors challenge India by operating across military, political,
+financial, informational and digital domains while exploiting domestic vulnerabilities.
+
+**State actors** can use proxies, training, finance, arms, sanctuary, diplomatic pressure and
+cyber/information operations to obtain deniable strategic leverage. **Non-State actors**—terrorist
+groups, insurgent networks, organised crime, traffickers and cyber actors—may seek political change,
+territorial influence, profit or disruption. Their linkages create externally aided internal
+threats: porous borders, identity grievances, illicit finance, weak local administration and
+insecure systems convert outside support into domestic harm.
+
+The response should follow the same chain. Intelligence fusion through MAC/SMAC must produce timely
+warnings for State police, which the MHA identifies as first responders. Border and financial
+interdiction should target routes and facilitators; lawful investigation and prosecution must turn
+leads into admissible evidence. Development, representation and grievance redress should reduce the
+vulnerabilities used for recruitment. Cyber resilience and verified public communication should
+limit disruption and manipulation.
+
+Federal and rights safeguards are operational requirements. Public order and police remain State
+subjects; Union manpower and agencies must support, not erase, civil responsibility. Attribution
+must be evidence-based, and force must be necessary, proportionate and reviewable.
+
+Thus, India must defeat the network rather than only the incident: reduce external access, domestic
+vulnerability and impunity while preserving legitimacy.
+
+**Why this earns marks:** It distinguishes actors and objectives, explains multiple transmission
+channels, matches each with a measure and ends with federal-rights qualification.
+
+### Mains PYQ M3 — 2023 GS-III Q19 — SHARED
+
+**Primary ownership:** Topic 12 owns detailed agency mandates; Topic 01 owns the broad challenge map,
+coordination logic and intelligence-to-evidence boundary.
+
+**Wording status:** **OFFICIAL LOCAL PAPER — line-break normalisation only.**
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf.md`.
+
+> What are the internal security challenges being faced by India? Give out the role of Central
+> Intelligence and Investigative Agencies tasked to counter such threats.
+> **(Answer in 250 words) 15**
+
+**Original model answer (within 250 words):**
+
+India's internal-security challenge is a connected system rather than a list of isolated incidents.
+It includes terrorism and cross-border proxies, Left-Wing Extremism, region-specific insurgency,
+organised crime and illicit finance, border and coastal infiltration, cyber attacks, online
+radicalisation and disinformation, and communal or identity-based violence. Their impact depends on
+the vulnerabilities they exploit: difficult borders, governance deficits, social grievance,
+criminal-justice delay and insecure networks.
+
+Central **intelligence** bodies collect, assess and share warning. The MHA Annual Report 2024–2025
+records round-the-clock information sharing through MAC at the Centre and SMACs in States. NATGRID
+supports authorised data connectivity. Intelligence must reach the competent responder with source,
+confidence and timing intact.
+
+Central **investigative** bodies perform a different function. The NIA, constituted under the NIA
+Act, investigates and prosecutes offences in its statutory Schedule; other specialised bodies act
+within their own legal fields. Investigation converts leads into admissible evidence, while courts
+determine guilt.
+
+These roles remain federal. State police are first responders and public order and police are State
+List subjects. The Union shares intelligence, expertise, finance and manpower and may deploy forces
+in aid of civil power under Entry 2A.
+
+Effectiveness therefore depends on interoperable databases, joint assessment, clear handovers,
+forensic capacity, prosecution quality and rights-based oversight. More agencies without role
+clarity can increase, rather than solve, coordination failure.
+
+**Why this earns marks:** It answers both halves, distinguishes intelligence from investigation and
+locates central agencies within State-led operational federalism.
+
+### Mains PYQ M4 — 2019 GS-IV Q4(b) — SHARED
+
+**Primary ownership:** Ethics Topic 15 and the RTI/Polity owners. Included here for the
+secrecy–rights–accountability boundary.
+
+**Wording status:** **OFFICIAL LOCAL PAPER — line-break normalisation only.**
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM19-GeneralStudies-IV.pdf.md`.
+
+> There is a view that the Official Secrets Act is an obstacle to the implementation of Right to
+> Information Act. Do you agree with the view? Discuss. **(150 words) 10**
+
+**Original model answer (within 150 words):**
+
+The view is substantially correct as a critique of secrecy culture, but the two statutes are not
+legally irreconcilable.
+
+The Official Secrets Act protects specified State interests and penalises defined conduct; it
+should not become a blanket label for every official record. The RTI Act supplies the controlling
+disclosure framework. Section 22 gives it overriding effect over inconsistent provisions of the
+OSA and other laws. Section 8(2) permits disclosure where public interest outweighs harm to the
+protected interests, while section 8(1) preserves legitimate security and related exemptions.
+
+The practical obstacle is over-classification, routine denial and weak reason-giving. Reform should
+use precise classification, periodic review, severability, speaking orders, independent appeal and
+proactive disclosure, while protecting information whose release would cause a demonstrable
+security harm.
+
+Thus, secrecy is justified by harm, not by institutional convenience; transparency remains the
+rule, subject to narrow, reviewable protection.
+
+**Why this earns marks:** It takes a qualified position and uses sections 8(2) and 22 rather than
+arguing in absolutes.
+
+### Mains PYQ M5 — 2026 GS-IV Q2(b) — SHARED
+
+**Primary ownership:** Ethics. Included because the Advanced owner makes rights, proportionality and
+legitimacy part of the security-governance feedback loop.
+
+**Wording status:** **OFFICIAL LOCAL PAPER — exact English sentence.**
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-IV.pdf.md`.
+
+> Discuss how national security can be balanced with concerns of human rights.
+> **(Answer in 150 words) 10**
+
+**Original model answer (within 150 words):**
+
+National security and human rights are not zero-sum: security protects liberty's conditions, while
+lawful treatment sustains the legitimacy and public cooperation on which security depends.
+
+Balance requires five controls. First, **legality**: coercive action must rest on a clear power.
+Second, **necessity**: the measure must address a demonstrated threat. Third,
+**proportionality**: its scope, duration and intrusion must match the risk. Fourth,
+**non-discrimination and due process**: identity cannot substitute for evidence, and restraint,
+search, detention and prosecution require safeguards. Fifth, **accountability**: records,
+independent review, judicial remedy and correction must remain available.
+
+Article 355 gives the Union a protective duty, while State List Entries 1 and 2 preserve State
+responsibility for public order and police. Articles 14 and 21 remain constitutional baselines.
+
+Emergency effectiveness matters; safeguards should permit timely action, not paralysis. The
+defensible balance is firm, targeted and reviewable action protecting both the public and
+constitutional dignity.
+
+**Why this earns marks:** It integrates ethical principles, constitutional allocation, operational
+need and a qualified verdict.
+
+### Essay application E1 — 2025 Section A(2) — APPLICATION ONLY
+
+**Primary ownership:** Essay. This is not counted as an Internal Security Mains PYQ.
+
+**Wording status:** **OFFICIAL LOCAL PAPER — exact English sentence.**
+
+**Local evidence:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Mains PYQ\UPSC Mains 2025 Essay Paper.md`.
+
+> The supreme art of war is to subdue the enemy without fighting.
+
+**Complete application route**
+
+1. **Interpretation:** victory is the achievement of a legitimate objective at lower human and
+   material cost, not passivity.
+2. **Internal-security use:** prevention, intelligence, financial disruption, political
+   accommodation, development, trusted communication and resilience can deny an adversary recruits,
+   resources and narrative space.
+3. **Reverse use:** proxy warfare, disinformation and cyber coercion are also attempts to weaken a
+   State without conventional battle.
+4. **Ethical limit:** manipulation, collective punishment or unreviewable surveillance may avoid a
+   battlefield yet still violate rights and generate future insecurity.
+5. **Synthesis:** the highest form of Statecraft is to remove the adversary's capacity to coerce
+   while enlarging citizens' voluntary allegiance to constitutional order.
+
+### Screened-out routing entries — DROPPED FROM THIS TOPIC'S SOLVED CORPUS
+
+| Routed IDs and neutral demand family | Primary owner | Decision |
+|---|---|---|
+| 2019 GS-III Q19; 2021 Q20; 2025 Q9 — UAPA/NIA, terrorism and counter-measures | Topic 02 | **DROPPED HERE:** foundation vocabulary alone does not create ownership |
+| 2018 GS-III Q10; 2020 Q19; 2022 Q20; 2025 Q10 — LWE causes and strategy | Topic 03 | **DROPPED HERE:** use this doctrine, but solve with Topic 03 evidence |
+| 2019 GS-III Q20; 2025 Q19 — North-East border/insurgency and accords | Topic 04 | **DROPPED HERE:** region, group and accord detail belongs there |
+| 2019 GS-III Q9; 2023 Q9; 2026 Q19 — J&K workers, hearts-and-minds and constitutional change | Topic 05 plus Polity | **DROPPED HERE:** specialised and constitutionally cross-owned |
+| 2020 GS-III Q20; 2023 Q10; 2024 Q19; 2026 Q10 — border, UAV, BADP/BIM and Ladakh | Topic 06 | **DROPPED HERE:** exact geography and programme evidence is owner-specific |
+| 2022 GS-III Q10; 2025 Q20 — maritime/coastal security | Topic 07 | **DROPPED HERE:** domain architecture belongs there |
+| 2019 GS-III Q10; 2020 Q9; 2021 Q10; 2022 Q19; 2024 Q10; 2026 Q9 — cyber, DPDP and disinformation | Topic 08, Topic 09 or Science and Technology | **DROPPED HERE:** technical/rule detail belongs there |
+| 2021 GS-III Q9; 2023 Q20; 2026 Q20 — laundering, terror finance and FATF | Topic 10 | **DROPPED HERE:** financial-law owner |
+| 2018 GS-III Q20; 2022 Q9; 2024 Q9 — trafficking, organised crime and narco-terrorism | Topic 11 | **DROPPED HERE:** nexus evidence belongs there |
+| 2018 Prelims Q58; 2020 Q60; 2026 Q73/Q76 — cyber, Army formations and INTERPOL | Topics 08, 11 and 12 | **DROPPED HERE:** objective details belong to their direct owners |
+| 2026 Prelims Q63 — CEIB/SFIO/CBI | Polity Topic 37 / agency owners | **DROPPED HERE:** detailed institutional matching, not foundations |
+| 2024 GS-IV Q9 — LWE administration case study | Ethics case-study owners | **DROPPED HERE:** ethical decision problem, not a Topic 01 PYQ |
+
+---
+
+## ORIGINAL MAINS PRACTICE
+
+> All six questions and answers below are original. The models obey the stated ceilings and use
+> claim → named evidence/example → analysis → qualification.
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish internal security from external security in India's federal setting. Answer in about 150 words.
+> Distinguish internal security, public order, law and order, national security and human security.
+> Why does precision among these terms matter for governance? **(Answer in 150 words)**
 
-**Model thesis:** **Claim:** Internal-security boundary. **Named evidence/example:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MHA-MoD boundary. **Named evidence/example:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State List primacy. **Named evidence/example:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Union aid boundary. **Named evidence/example:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Article 355 duty. **Named evidence/example:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+The five terms differ by referent, scale and legal threshold. **Law and order** is the widest field
+of legal peace. Under *Ram Manohar Lohia*, **public order** is narrower because the disturbance must
+affect the community at large; **security of the State** is narrower still. **Internal security**
+is the policy field protecting sovereignty, lawful order and social peace within the territory,
+mainly through civil institutions and police. **National security** is the broader analytical
+umbrella that also covers external defence and vital national systems. **Human security**, in
+UNDP's 1994 formulation, shifts attention to people, freedom from fear and want, and seven
+interdependent dimensions.
 
-- Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-- The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-- Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-- Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-- Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
+Precision determines legal power and policy design. An ordinary offence does not justify
+extraordinary security framing; a welfare deficit is not automatically a threat. Yet human
+insecurity and weak public order can create exploitable vulnerabilities. Correct classification
+therefore prevents both under-reaction and rights-eroding over-securitisation.
 
-**Qualified conclusion:** **Claim:** Internal-security boundary. **Named evidence/example:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MHA-MoD boundary. **Named evidence/example:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State List primacy. **Named evidence/example:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Union aid boundary. **Named evidence/example:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Article 355 duty. **Named evidence/example:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish internal security from external security in India's federal setting. Answer in…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Internal-security boundary. **Named evidence/example:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MHA-MoD boundary. **Named evidence/example:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State List primacy. **Named evidence/example:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Union aid boundary. **Named evidence/example:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Article 355 duty. **Named evidence/example:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Internal-security boundary. **Named evidence/example:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** MHA-MoD boundary. **Named evidence/example:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State List primacy. **Named evidence/example:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Union aid boundary. **Named evidence/example:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Article 355 duty. **Named evidence/example:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Distinguish internal security from external security in India's federal setting. Answer in…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Why this earns marks:** It defines every term, uses the judicial and UNDP anchors, and explains
+the governance consequence of misclassification.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain the utility of the threat-vulnerability-capability framework for internal-security policy. Answer in about 150 words.
+> Explain how prevention, preparedness, response and recovery form one internal-security lifecycle
+> without becoming rigid sequential compartments. **(Answer in 150 words)**
 
-**Model thesis:** **Claim:** Root-cause matrix. **Named evidence/example:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Threat-vulnerability-capability. **Named evidence/example:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statutory-power boundary. **Named evidence/example:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+The lifecycle distinguishes the primary purpose of action while recognising operational overlap.
 
-- Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-- A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-- Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-- A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
+**Prevention** reduces threat likelihood or vulnerability through intelligence, grievance redress,
+target hardening and disruption of finance or recruitment. **Preparedness** pre-arranges plans,
+trained personnel, interoperable communications, reserves and command protocols. **Response**
+protects life, contains violence, maintains order, communicates accurately and preserves evidence.
+**Recovery** restores services, livelihoods, justice and trust, rehabilitates affected people and
+uses after-action review to reduce recurrence.
 
-**Qualified conclusion:** **Claim:** Root-cause matrix. **Named evidence/example:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Threat-vulnerability-capability. **Named evidence/example:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statutory-power boundary. **Named evidence/example:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The stages are not sealed boxes. Intelligence supports all four; investigation may begin during
+response and continue through recovery; development can prevent recruitment and rebuild
+legitimacy. MHA's recognition of State police as first responders shows why preparedness must exist
+before central assistance arrives.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain the utility of the threat-vulnerability-capability framework for internal-security…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+The framework is valuable because it exposes omissions: force without prevention repeats crises,
+and recovery that restores the old vulnerability merely resets risk.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Root-cause matrix. **Named evidence/example:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Threat-vulnerability-capability. **Named evidence/example:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statutory-power boundary. **Named evidence/example:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Root-cause matrix. **Named evidence/example:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Threat-vulnerability-capability. **Named evidence/example:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statutory-power boundary. **Named evidence/example:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Explain the utility of the threat-vulnerability-capability framework for internal-security…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Why this earns marks:** It defines all stages, demonstrates overlap and ends with a causal
+qualification.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Analyse the multidimensional challenges posed by external state and non-state actors to India's internal security. Answer in about 250 words.
+> “Centre–State coordination is a constitutional design problem, not merely an administrative
+> inconvenience.” Discuss in the context of internal security. **(Answer in 250 words)**
 
-**Model thesis:** **Claim:** Internal-security boundary. **Named evidence/example:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Kautilya fourfold frame. **Named evidence/example:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Threat-vulnerability-capability. **Named evidence/example:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Actor-means-objective. **Named evidence/example:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coordination constraint. **Named evidence/example:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+India deliberately distributes internal-security authority. State List Entry 1 assigns public
+order and Entry 2 assigns police to the States. Yet threats cross borders and require capabilities
+held by the Union. Union List Entry 2A permits deployment of Union-controlled forces in a State
+**in aid of civil power**; Entries 8 and 9 cover central intelligence/investigation and specified
+preventive detention; Article 355 places a protective duty on the Union.
 
-- Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related.
-- Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four.
-- A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.
-- External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-- Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-- A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
+This creates three coordination problems. **Information is distributed:** local police hold
+ground intelligence, while national networks aggregate cross-State and external links. The MHA
+Annual Report 2024–2025 records round-the-clock sharing through MAC and SMACs, but a channel does
+not guarantee common assessment or timely action. **Capability is distributed:** State police are
+first responders, while specialist manpower, finance, technology and investigation may be central.
+**Accountability is distributed:** unclear command or handover can blur responsibility for force,
+evidence and recovery.
 
-**Qualified conclusion:** **Claim:** Internal-security boundary. **Named evidence/example:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Kautilya fourfold frame. **Named evidence/example:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Threat-vulnerability-capability. **Named evidence/example:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Actor-means-objective. **Named evidence/example:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coordination constraint. **Named evidence/example:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The answer is cooperative operational federalism: common threat assessments; interoperable
+communications; pre-agreed escalation, command and handover protocols; joint training; lawful data
+access; State capacity-building; political consultation; and after-action review assigning
+responsibility.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse the multidimensional challenges posed by external state and non-state actors to…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+Centralisation alone is not coordination, and State autonomy cannot mean isolation. The
+constitutional design works when the State retains ordinary civil authority, the Union supplies
+needed national capability, and each actor remains accountable for the power it exercises.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Internal-security boundary. **Named evidence/example:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Kautilya fourfold frame. **Named evidence/example:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Threat-vulnerability-capability. **Named evidence/example:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Actor-means-objective. **Named evidence/example:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coordination constraint. **Named evidence/example:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Internal-security boundary. **Named evidence/example:** Internal security concerns peace, law and order, rule of law and sovereignty within India's territory; external security addresses foreign aggression, but neighbourhood linkages make the two domains inter-related. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Kautilya fourfold frame. **Named evidence/example:** Kautilya's four-fold classification distinguishes internal, external, internally aided external and externally aided internal threats; India's threat environment can combine all four. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Threat-vulnerability-capability. **Named evidence/example:** A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Actor-means-objective. **Named evidence/example:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coordination constraint. **Named evidence/example:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Analyse the multidimensional challenges posed by external state and non-state actors to…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Why this earns marks:** It derives the problem from exact constitutional entries, identifies
+three interfaces and proposes executable safeguards.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Discuss why Centre-State coordination is a structural requirement in internal-security governance. Answer in about 250 words.
+> Apply the threat–vulnerability–capability–consequence framework to explain why identical hostile
+> intent can produce different internal-security risks across districts. **(Answer in 250 words)**
 
-**Model thesis:** **Claim:** MHA-MoD boundary. **Named evidence/example:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State List primacy. **Named evidence/example:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Union aid boundary. **Named evidence/example:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Article 355 duty. **Named evidence/example:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coordination constraint. **Named evidence/example:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statutory-power boundary. **Named evidence/example:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Hostile intent is only one component of risk. A **threat** is an actor or event with a source,
+vector and target; a **vulnerability** is the weakness it can exploit; **capability** is the usable
+means to prevent or manage harm; and **consequence** is the loss if exploitation succeeds.
 
-- The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence.
-- Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation.
-- Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority.
-- Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government.
-- Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.
-- A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions.
+Suppose the same externally financed recruitment network targets two districts. District A has
+trusted local police, protected communications, functioning schools and health centres, fast
+grievance redress, trained investigators and a tested State–Union intelligence protocol. District
+B has inaccessible terrain, administrative vacancies, delayed complaint registration, weak
+forensics, contractor capture and distrust after indiscriminate action. Intent may be equal, but
+access, recruitment opportunity, detection probability and expected harm differ sharply.
 
-**Qualified conclusion:** **Claim:** MHA-MoD boundary. **Named evidence/example:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State List primacy. **Named evidence/example:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Union aid boundary. **Named evidence/example:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Article 355 duty. **Named evidence/example:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coordination constraint. **Named evidence/example:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statutory-power boundary. **Named evidence/example:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Policy should therefore target the causal variables. Intelligence and financial disruption reduce
+the threat's opportunity; MHA's MAC/SMAC architecture illustrates a named sharing channel; roads
+and secure communications reduce access vulnerabilities; fair land and service governance reduces
+recruitment; training and forensic support build capability; preparedness limits consequence;
+rights-based oversight protects cooperation.
 
-**Demand decoding:** The directive **discuss** requires a direct position on ‘Discuss why Centre-State coordination is a structural requirement in internal-security…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+The model also improves measurement. More recorded incidents can reflect better reporting rather
+than rising underlying risk, while zero incidents may conceal untested vulnerability. District
+comparison must therefore use warning-to-action, repeat recruitment, service access, prosecution
+quality and public confidence alongside incident counts.
 
-**Detailed examiner-grade model answer:**
+Thus, risk is place-specific even when the adversary is common; governance determines whether
+intent becomes consequence.
 
-**Introduction and thesis:** **Claim:** MHA-MoD boundary. **Named evidence/example:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State List primacy. **Named evidence/example:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Union aid boundary. **Named evidence/example:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Article 355 duty. **Named evidence/example:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coordination constraint. **Named evidence/example:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statutory-power boundary. **Named evidence/example:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Analytical body:**
-
-1. **Claim:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** MHA-MoD boundary. **Named evidence/example:** The Ministry of Home Affairs is the Union ministry responsible for internal security, while the Ministry of Defence owns external defence; central assistance does not erase State policing competence. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** State List primacy. **Named evidence/example:** Public order is State List Entry 1 and police is State List Entry 2, making the State the primary day-to-day authority for internal order and investigation. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Union aid boundary. **Named evidence/example:** Union List Entry 2A permits deployment of an armed force of the Union in a State in aid of the civil power; assistance supplements rather than replaces the State authority. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Article 355 duty. **Named evidence/example:** Article 355 places a duty on the Union to protect every State against external aggression and internal disturbance and to ensure constitutional government. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coordination constraint. **Named evidence/example:** Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Statutory-power boundary. **Named evidence/example:** A legal power is not operational capability: trained personnel, forensics, court time, lawful procedure and inter-agency trust remain separate implementation conditions. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Discuss why Centre-State coordination is a structural requirement in internal-security…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Why this earns marks:** It defines every variable, applies them comparatively and converts the
+diagnosis into measurable measures.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Evaluate India's eight-element internal-security doctrine as a framework for calibrated security, development and rights-based response. Answer in about 300 words.
+> Design an integrated internal-security governance model combining intelligence, policing,
+> development, rights, accountability and whole-of-government/whole-of-society participation.
+> **(Answer in 300 words)**
 
-**Model thesis:** **Claim:** Security attributes. **Named evidence/example:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Eight-element doctrine. **Named evidence/example:** The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Root-cause matrix. **Named evidence/example:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coercion-accommodation calibration. **Named evidence/example:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Security-development sequencing. **Named evidence/example:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Area-management end-state. **Named evidence/example:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Model answer (within 300 words):**
 
-**Claim → named evidence → analysis → qualification:**
+An integrated model should convert early warning into lawful prevention while ensuring that
+security action strengthens, rather than substitutes for, constitutional governance.
 
-- The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-- The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements.
-- Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats.
-- The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-- Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-- Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-- Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-- A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
+**First, diagnose.** Classify the actor, means, objective and internal/external assistance; then
+identify the vulnerability and consequence. Use the eight-element doctrine selectively, not as a
+checklist.
 
-**Qualified conclusion:** **Claim:** Security attributes. **Named evidence/example:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Eight-element doctrine. **Named evidence/example:** The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Root-cause matrix. **Named evidence/example:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coercion-accommodation calibration. **Named evidence/example:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Security-development sequencing. **Named evidence/example:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Area-management end-state. **Named evidence/example:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Second, fuse intelligence lawfully.** Direction, collection, collation, analysis and dissemination
+must end in an actionable warning. MAC/SMAC provide a current coordination channel, but State
+police and authorised investigative bodies must verify leads and create admissible evidence.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Evaluate India's eight-element internal-security doctrine as a framework for calibrated…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+**Third, strengthen policing and justice.** State police remain first responders. Union expertise,
+manpower and investigation should support them under the constitutional division. Training,
+forensics, witness protection, prosecution capacity and clear handovers convert statutory power
+into outcomes.
 
-**Detailed examiner-grade model answer:**
+**Fourth, connect development to security.** Secure access must be followed by fair services,
+livelihood opportunity, land/forest justice and grievance redress. Delivery should be measured by
+access, trust and reduced coercive recruitment, not expenditure alone.
 
-**Introduction and thesis:** **Claim:** Security attributes. **Named evidence/example:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Eight-element doctrine. **Named evidence/example:** The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Root-cause matrix. **Named evidence/example:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coercion-accommodation calibration. **Named evidence/example:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Security-development sequencing. **Named evidence/example:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Area-management end-state. **Named evidence/example:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Fifth, embed rights and accountability.** Legality, necessity, proportionality,
+non-discrimination, documentation, independent review and remedy protect Articles 14 and 21 and
+preserve community cooperation.
 
-**Analytical body:**
+**Sixth, organise participation.** A whole-of-government structure links Union, State, district and
+sectoral agencies. A whole-of-society layer includes communities, civil society, media, experts,
+private infrastructure operators and trained volunteers within lawful roles; it does not outsource
+coercion.
 
-1. **Claim:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-8. **Claim:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+Finally, govern the full lifecycle: prevent, prepare, respond and recover, with after-action
+learning closing vulnerabilities. Success is durable lawful presence, lower residual risk and
+greater public confidence—not merely more arrests or fewer reported incidents.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Security attributes. **Named evidence/example:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Eight-element doctrine. **Named evidence/example:** The internal-security doctrine has political, socio-economic, governance, police and security-forces, Centre-State coordination, intelligence, border-management and cyber-security elements. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Root-cause matrix. **Named evidence/example:** Governance deficit, poverty, unemployment, inequitable growth, communal or caste tension, porous borders, hostile neighbours, corruption and a weak criminal-justice system are enabling conditions rather than interchangeable threats. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coercion-accommodation calibration. **Named evidence/example:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Security-development sequencing. **Named evidence/example:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Area-management end-state. **Named evidence/example:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Evaluate India's eight-element internal-security doctrine as a framework for calibrated…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+**Why this earns marks:** It integrates all named dimensions through one causal architecture and
+preserves federal, evidentiary and rights boundaries.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Compare coercive, accommodative and preventive approaches to internal-security challenges and propose a legitimate end-state. Answer in about 300 words.
+> Critically examine the proposition that internal-security strategy must combine coercion and
+> accommodation while sequencing security, development and rights according to place and phase.
+> **(Answer in 300 words)**
 
-**Model thesis:** **Claim:** Security attributes. **Named evidence/example:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Actor-means-objective. **Named evidence/example:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coercion-accommodation calibration. **Named evidence/example:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Security-development sequencing. **Named evidence/example:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Area-management end-state. **Named evidence/example:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+**Model answer (within 300 words):**
 
-**Claim → named evidence → analysis → qualification:**
+The proposition is sound because internal-security threats differ in actor, objective,
+constituency and territorial control. A uniform coercive or development-only strategy therefore
+misdiagnoses the problem.
 
-- The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security.
-- External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor.
-- The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations.
-- Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance.
-- Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention.
-- Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.
-- A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer.
+The canonical doctrine supports **differentiation**. Violent secessionist or proxy activity may
+require intelligence-led disruption, civilian protection and prosecution. Constitutional
+regional or ethnic aspirations require dialogue, representation and negotiated institutional
+accommodation. In mixed arenas, the State should isolate violent actors without treating the
+community or grievance as criminal.
 
-**Qualified conclusion:** **Claim:** Security attributes. **Named evidence/example:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Actor-means-objective. **Named evidence/example:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coercion-accommodation calibration. **Named evidence/example:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Security-development sequencing. **Named evidence/example:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Area-management end-state. **Named evidence/example:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+Sequencing is equally contextual. Where militants deny physical access, targeted security may
+temporarily lead so administration can function. Where State presence exists but is distrusted,
+justice, service delivery and political engagement may need to lead. Usually the strands should
+run in parallel: secure roads and officials, deliver entitlements, protect witnesses, resolve
+grievances and review force simultaneously.
 
-**Demand decoding:** The directive **compare** requires a direct position on ‘Compare coercive, accommodative and preventive approaches to internal-security challenges and…’, each clause, threat mechanism, named Indian law/institution, dated status, federal-rights boundary, outcome and qualification.
+Rights cannot be postponed to a final “normal” phase. Legality, necessity, proportionality and
+accountability reduce false positives and prevent abuse from becoming a recruitment narrative.
+Conversely, rights language cannot justify inaction against coercion that prevents citizens from
+using schools, markets, courts or elections.
 
-**Detailed examiner-grade model answer:**
+The Advanced political-economy insight is that armed actors may benefit from continued
+underdevelopment and obstruct delivery. Hence expenditure is not success; the test is whether
+lawful institutions can hold the area, people can reject coercion safely and recovery repairs the
+original vulnerability.
 
-**Introduction and thesis:** **Claim:** Security attributes. **Named evidence/example:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Actor-means-objective. **Named evidence/example:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coercion-accommodation calibration. **Named evidence/example:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Security-development sequencing. **Named evidence/example:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Area-management end-state. **Named evidence/example:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+The limitation is implementation: distributed federal powers, poor interoperability and weak
+forensics can break the sequence. The canonical Greyhounds example shows the value of specialised,
+trained police capacity. Pre-agreed Centre–State protocols, community safeguards and measurable
+transition criteria are therefore essential.
 
-**Analytical body:**
+Thus, calibrated strategy means firm action against violence, constitutional space for legitimate
+claims and rights-respecting governance throughout the lifecycle.
 
-1. **Claim:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-2. **Claim:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-3. **Claim:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-4. **Claim:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-5. **Claim:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-6. **Claim:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
-7. **Claim:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Named evidence/example:** Identify the exact Indian law, institution, accord, judgment, force, system or dated case-status anchor owned by the source. **Analysis:** Connect threat mechanism → competent actor → prevention/response route → security or development consequence. **Qualification:** State jurisdiction, source/date/status, legal character, intelligence/evidence limit, rights safeguard, implementation gap or residual risk.
+**Why this earns marks:** It critically tests both sides, uses boundary cases, explains sequencing
+and gives a qualified operational verdict.
 
-**Counter-position / limit:** Announcement, designation, alert, arrest, seizure, ceasefire, framework agreement, sanction, procurement or deployment cannot alone establish conviction, final settlement, operational readiness, deterrence, resilience or development outcome; test mandate, process, status and evidence.
+---
 
-**Qualified conclusion:** **Claim:** Security attributes. **Named evidence/example:** The owner identifies territorial integrity, domestic peace, law and order, rule of law and equality, freedom from fear, peaceful coexistence and communal harmony as attributes of internal security. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Actor-means-objective. **Named evidence/example:** External state and non-state actor analysis should identify actor, means, objective and intended end-state; proxy support can give a sponsor deniability without making sponsor and proxy the same legal actor. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Coercion-accommodation calibration. **Named evidence/example:** The doctrine differentiates stringent response to secessionist or separatist violence from a softer and sympathetic approach to constitutional regional and ethnic aspirations. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Security-development sequencing. **Named evidence/example:** Security, development and rights cannot be reduced to a universal order; area-specific sequencing must restore access and administration without allowing coercion to reproduce grievance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Prevention-response distinction. **Named evidence/example:** Prevention reduces vulnerability through intelligence, community trust and governance, whereas response contains an event; visible response outputs cannot substitute for harder-to-measure prevention. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Area-management end-state. **Named evidence/example:** Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary. **Claim:** Evidence-rung discipline. **Named evidence/example:** A law, notification, deployment, arrest, charge-sheet, agreement, implementation step and verified outcome are distinct evidentiary rungs and must never be collapsed in an Internal Security answer. **Analysis:** This fixes the threat category, legal instrument, institutional mandate and verified evidentiary rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and notification-to-implementation status boundary.
+## Practice coverage and integrity declaration
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition/threat → mechanism → law/institution → prevention/response → outcome/accountability; write four to seven claim → named evidence/example → analysis → qualification points; reserve the final minute for source, date, status, jurisdiction and intelligence/evidence checks.
+| Coverage branch | Primary MCQs | Mains/PYQ reinforcement |
+|---|---|---|
+| Five security concepts | Q1–Q3, Q31–Q32 | Original M1; PYQ M5 |
+| Attributes and four-fold threat frame | Q4–Q5 | PYQ M2 |
+| Threat/challenge/vulnerability/risk | Q6–Q8 | Original M4 |
+| Eight-element doctrine and actors | Q9–Q12 | PYQ M2; Original M5–M6 |
+| Constitutional and operational federalism | Q13–Q16, Q23 | PYQ M1, M3; Original M3 |
+| Lifecycle | Q17–Q20 | Original M2 |
+| Intelligence, policing and capability | Q21–Q24 | PYQ M3 |
+| Development, area management and calibration | Q25–Q28 | PYQ M1; Original M6 |
+| Whole-of-government/society | Q29–Q30, Q33 | Objective PYQs O3–O4; Original M5 |
+| Legal and status discipline | Q34–Q39 | Objective PYQs O1–O2; PYQ M4 |
+| Integrated synthesis | Q40 | all original models |
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves legal character, institutional mandate, process stage, federal boundary, rights safeguard and security-development distinctions.
-
-**How to improve this answer:** For ‘Compare coercive, accommodative and preventive approaches to internal-security challenges and…’, replace the weakest generic point with one exact statutory or institutional mechanism, named India-centric example, dated status, implementation bottleneck, accountability safeguard and answer-specific qualification.
+- ✅ Exactly **40** original MCQs.
+- ✅ Exact key sequence **ABCD × 10**; ten answers for each letter.
+- ✅ Every MCQ has four substantive options and four option-specific explanations.
+- ✅ Five verified Mains PYQs are solved; four objective PYQs reproduce all options.
+- ✅ One verified Essay application is separately labelled and not misowned.
+- ✅ Exactly six original Mains models: two 10-mark, two 15-mark and two 20-mark.
+- ✅ No official model answer is claimed; unavailable and provisional keys remain labelled.

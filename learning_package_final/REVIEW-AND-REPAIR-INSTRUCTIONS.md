@@ -6,22 +6,19 @@ applicable check before declaring that topic ready for user review.
 
 ## 1. Locked modification scope
 
-Modify files only inside these three directories:
+Modify files only inside these two directories:
 
 1. `learning_package_final`
    - Complete learning-session Markdown
    - Solved-practice workbook Markdown
-2. `notes\Final-Learning-Packages`
-   - Complete learning-session PDF
-   - Solved-practice workbook PDF
-   - ASCII master flowchart and PDF
-   - Graphical flowchart master, poster PDF and tiled PDF
-3. `quick_galance`
+2. `quick_galance`
    - Quick-glance tree-flowchart Markdown
 
-Do not modify canonical knowledge files, source books, tools, manifests,
-trackers, historical generation directories or any artifact outside these
-three directories.
+Use canonical knowledge files, verified PYQ routing and official papers as
+read-only evidence. Do not modify them. Ignore `notes\Final-Learning-Packages`,
+PDFs, graphical/ASCII master-flow packages, tools, manifests, trackers,
+historical generation directories and other duplicate artifacts unless the
+user explicitly requests them.
 
 Repair existing artifacts in place. Do not create a new generation folder,
 new `g*` suffix or parallel replacement package.
@@ -29,8 +26,23 @@ new `g*` suffix or parallel replacement package.
 ## 2. Processing and approval gates
 
 - Review only one topic at a time.
+- Process International Relations first, in catalogue order.
+- Use a bounded fast path: one shared coverage/PYQ ledger, direct edits to the three active
+  Markdown artifacts and targeted validation. Do not spend time on duplicate outputs or unrelated
+  repository exploration.
+- Faster execution must not skip canonical coverage, weaken explanations, shorten model answers
+  below their stated demand or relax factual verification.
+- For every topic, execute this sequence without skipping a stage:
+  1. Map complete canonical Basic and Advanced coverage.
+  2. Verify direct and application PYQs against routing and official papers.
+  3. Rebuild diverse, coverage-led MCQs.
+  4. Provide exact, clearly labelled PYQs with complete question-specific solutions.
+  5. Add original 10-, 15- and 20-mark Mains practice with complete model answers.
+  6. Rebuild the quick-glance artifact as a concise, genuinely branching revision tree.
 - Do not start the next topic automatically.
 - After completing and validating a topic, stop and notify the user.
+- The notification must summarise substantive changes by artifact, validation results, retained
+  limitations and the exact repository-relative path of every modified file.
 - Continue only after the user reviews or approves the completed topic.
 - After completing a subject, list every subject that remains.
 - Wait for the user to select the next subject.
@@ -49,6 +61,12 @@ Use sources in this order:
 Do not blindly copy a source statement. If a source uses broad, outdated or
 ambiguous wording, reconcile it with stronger evidence and preserve the
 necessary qualification.
+
+No date, number, quotation, PYQ wording, answer key, treaty/membership status,
+institutional mandate, current event or claimed outcome may be added unless it
+is traceable to canonical Markdown, a locally held official paper/key or a
+dated official source. Direct and application PYQs must remain separately
+labelled; uncertainty must never be filled from memory or coaching material.
 
 ## 4. Learning-session checks
 
@@ -110,55 +128,22 @@ necessary qualification.
 - [ ] Model answers follow claim -> evidence -> analysis -> qualification.
 - [ ] Answers respect the requested word limit and directive.
 
-## 6. Flowchart and quick-glance checks
-
-### ASCII master flowchart
-
-- [ ] Covers the complete conceptual spine.
-- [ ] Uses readable hierarchy and logical sequencing.
-- [ ] Agrees factually with the learning session.
-- [ ] Includes important evidence limits and answer route.
-- [ ] Contains no duplicated panels or broken lines.
-
-### Graphical flowchart
-
-- [ ] Uses the same conceptual master as the ASCII flowchart.
-- [ ] Labels are readable at normal viewing size.
-- [ ] Visual hierarchy supports rapid revision.
-- [ ] No text is clipped, crowded or outside its container.
-- [ ] Production metadata and internal approval notes are absent.
-- [ ] Poster and tiled PDF are generated from the corrected master image.
-
-### Quick-glance tree chart
+## 6. Quick-glance checks
 
 - [ ] Remains concise and revision-oriented.
 - [ ] Does not duplicate the complete learning session.
 - [ ] Includes the central thesis, core facts, traps and PYQ answer route.
-- [ ] Matches the learning session and both flowcharts.
+- [ ] Matches the learning session and workbook.
 
-## 7. PDF checks
+## 7. Cross-artifact consistency checks
 
-- [ ] Learning-session PDF contains the complete learning Markdown.
-- [ ] Workbook PDF contains the complete standalone workbook.
-- [ ] Workbook pages use the workbook header/footer.
-- [ ] Page count is plausible for the source content.
-- [ ] No blank pages are present.
-- [ ] No clipping, overlap, broken tables or unsupported glyphs are present.
-- [ ] ASCII PDF contains every intended panel.
-- [ ] Graphical poster and tiled pages are readable and nonblank.
-- [ ] Existing PDF paths are overwritten; no parallel export is created.
-
-## 8. Cross-artifact consistency checks
-
-- [ ] Learning session, workbook, ASCII flowchart, graphical flowchart and
-      quick-glance tree use the same facts and qualifications.
+- [ ] Learning session, workbook and quick-glance tree use the same facts and
+      qualifications.
 - [ ] Terminology, dates, sites, examples and disputed interpretations agree.
 - [ ] Core content does not depend on optional Advanced material.
 - [ ] No obsolete wording survives in one artifact after another is corrected.
-- [ ] Every changed Markdown or text source is followed by regeneration of its
-      corresponding PDF or image output.
 
-## 9. Completion report
+## 8. Completion report
 
 Before declaring a topic ready, record:
 
@@ -167,8 +152,6 @@ Before declaring a topic ready, record:
 - Exact files modified.
 - MCQ count and answer-key rotation.
 - PYQ and original Mains solution count.
-- PDF page counts.
-- Blank-page and visual-overflow results.
 - Any remaining limitation.
 
 If any mandatory check fails, the topic is not complete.

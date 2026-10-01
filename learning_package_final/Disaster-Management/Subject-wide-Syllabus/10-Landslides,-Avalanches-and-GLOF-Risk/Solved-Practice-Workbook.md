@@ -1,1162 +1,875 @@
 ---
-title: "Landslides, Avalanches and GLOF Risk — Solved Practice Workbook"
+title: "Disaster Management 10 — Landslides, Avalanches and GLOF Risk — Solved Practice Workbook"
 topic_key: disaster-management-10
+reviewed: 2026-09-27
 ---
+
 # Landslides, Avalanches and GLOF Risk — Solved Practice Workbook
+
+## PRACTICE AUDIT
+
+- **Original MCQs:** exactly 40; strict `ABCD` rotation repeated ten times.
+- **Design:** definition, statement, sequence, matching, assertion–reason and applied-decision formats.
+- **Cue control:** parallel plausible options; no answer depends on length, grammar, absolute-word tricks or a repeated stem.
+- **Explanations:** every option receives a question-specific reason.
+- **PYQs:** 4 direct, 2 shared and 2 application routes, reproduced from locally extracted official papers.
+- **Original Mains:** six solved questions—two each at 10, 15 and 20 marks.
+- **Evidence boundary:** no descriptive UPSC model answer or key is claimed; current counts/status remain date-labelled.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Landslide?
+### MCQ 1. Which statement best separates a conditioning factor from a trigger in a landslide?
 
-A. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-B. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-C. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-D. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
+A. Fractured geology conditions the slope; intense rainfall may trigger failure.
+B. Rainfall conditions every slope; geology begins only after failure.
+C. Exposure is the trigger; vulnerability is the moving material.
+D. A forecast creates susceptibility by identifying a warning period.
 
-**Answer: A.**
-**Explanation:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q2. Which option preserves the risk or institutional boundary of Landslide?
+- **A:** Correct: persistent weakness predisposes the slope, while rainfall may initiate failure.
+- **B:** Incorrect: geology precedes failure and rainfall is not the sole conditioning factor.
+- **C:** Incorrect: exposure and vulnerability shape consequences, not physical initiation.
+- **D:** Incorrect: a forecast represents knowledge about hazard; it does not create terrain susceptibility.
 
-A. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-B. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-C. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-D. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
+### MCQ 2. A settlement lies below a steep slope with no recorded recent failure. Which finding most directly concerns exposure rather than susceptibility?
 
-**Answer: B.**
-**Explanation:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Highly weathered rock and unfavourable bedding occur upslope.
+B. A school and bridge occupy the runout corridor.
+C. Rainfall intensity is forecast to cross a local threshold.
+D. An old head scarp indicates previous slope movement.
 
-### Q3. Which statement uses Landslide without changing its hazard, mandate or status?
+**Answer: B**
 
-A. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-B. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-C. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-D. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
+- **A:** Incorrect: geology is a susceptibility factor.
+- **B:** Correct: people and assets located in the path constitute exposure.
+- **C:** Incorrect: threshold exceedance concerns dynamic hazard.
+- **D:** Incorrect: a past-failure indicator informs susceptibility.
 
-**Answer: C.**
-**Explanation:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 3. Consider the sequence: mapped unstable terrain, a rainfall threshold, a village in the runout zone and weak housing. Which order is most accurate?
 
-### Q4. Which option avoids the standard UPSC close-option trap about Landslide?
+A. Hazard, capacity, trigger, exposure.
+B. Exposure, susceptibility, vulnerability, warning.
+C. Susceptibility, trigger, exposure, vulnerability.
+D. Trigger, recovery, susceptibility, capacity.
 
-A. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-B. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-C. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-D. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: mapped terrain is not the hazard event and the village is not capacity.
+- **B:** Incorrect: the sequence misclassifies the first and second elements.
+- **C:** Correct: it preserves where-failure, triggering condition, assets and fragility.
+- **D:** Incorrect: recovery is not represented in the facts.
 
-### Q5. Which statement correctly identifies Rockfall?
+### MCQ 4. Which proposition about landslide maps is most accurate?
 
-A. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-B. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-C. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-D. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
+A. A susceptibility map predicts the exact time and volume of every slide.
+B. A hazard map alone measures household coping capacity.
+C. A national-scale map certifies individual construction sites.
+D. A risk map adds exposed and vulnerable elements to hazard information.
 
-**Answer: A.**
-**Explanation:** Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q6. Which option preserves the risk or institutional boundary of Rockfall?
+- **A:** Incorrect: susceptibility is primarily spatial and probabilistic.
+- **B:** Incorrect: coping capacity requires social and institutional data.
+- **C:** Incorrect: site design needs finer investigation.
+- **D:** Correct: risk concerns expected consequences, not terrain likelihood alone.
 
-A. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-B. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-C. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-D. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
+### MCQ 5. Which option correctly distinguishes a debris flow from a cloudburst?
 
-**Answer: B.**
-**Explanation:** Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Debris flow moves water-rich sediment; cloudburst supplies intense rainfall.
+B. A debris flow is a snow slab; a cloudburst is a moraine-dam breach.
+C. Both terms mean any sudden mountain disaster, irrespective of material.
+D. Cloudburst describes the runout zone of a rockfall.
 
-### Q7. Which statement uses Rockfall without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-B. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-C. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-D. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
+- **A:** Correct: one is mass movement and the other is a meteorological event.
+- **B:** Incorrect: the descriptions instead refer to avalanche and GLOF.
+- **C:** Incorrect: hazard labels depend on mechanism and moving material.
+- **D:** Incorrect: rainfall and rockfall runout are unrelated categories.
 
-**Answer: C.**
-**Explanation:** Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 6. Why can prolonged rainfall trigger failure on a susceptible slope?
 
-### Q8. Which option avoids the standard UPSC close-option trap about Rockfall?
+A. It invariably increases rock strength and toe support.
+B. Infiltration may raise pore-water pressure and reduce effective resistance.
+C. It removes all exposed people from the runout path.
+D. It converts every landslide into an avalanche.
 
-A. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-B. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-C. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-D. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: saturation commonly weakens, rather than strengthens, selected slopes.
+- **B:** Correct: rising pore pressure can lower effective stress and shear resistance.
+- **C:** Incorrect: rainfall does not itself remove exposure.
+- **D:** Incorrect: avalanche involves unstable snow, not saturated soil or rock.
 
-### Q9. Which statement correctly identifies Debris flow?
+### MCQ 7. Which comparison most directly answers the 2021 Himalayan–Western Ghats PYQ?
 
-A. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-B. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-C. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-D. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
+A. Both regions have identical geology, seismicity and development pressures.
+B. Western-Ghat landslides are never rainfall-related.
+C. Young seismic Himalaya contrast with deeply weathered, monsoon-soaked Ghats.
+D. Only the Himalaya require drainage and land-use controls.
 
-**Answer: A.**
-**Explanation:** A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q10. Which option preserves the risk or institutional boundary of Debris flow?
+- **A:** Incorrect: the question requires differentiation, not homogenisation.
+- **B:** Incorrect: intense monsoon rainfall is a major Western-Ghat trigger.
+- **C:** Correct: it identifies a defensible regional contrast while retaining shared pressures.
+- **D:** Incorrect: both regions need context-specific drainage and land-use measures.
 
-A. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-B. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-C. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-D. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
+### MCQ 8. A district uses a 1:50,000 susceptibility map to approve a building without site investigation. What is the central error?
 
-**Answer: B.**
-**Explanation:** A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. It gives too much weight to household income.
+B. It confuses recovery with relief.
+C. It assumes DGRE regulates all construction.
+D. It misuses a planning-scale map as site clearance.
 
-### Q11. Which statement uses Debris flow without changing its hazard, mandate or status?
+**Answer: D**
 
-A. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-B. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-C. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-D. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
+- **A:** Incorrect: the scenario concerns scale and purpose.
+- **B:** Incorrect: no post-disaster stage is involved.
+- **C:** Incorrect: DGRE's core role is avalanche science and warning.
+- **D:** Correct: macro mapping cannot certify an individual slope.
 
-**Answer: C.**
-**Explanation:** A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 9. Which description best defines a snow avalanche?
 
-### Q12. Which option avoids the standard UPSC close-option trap about Debris flow?
+A. Rapid downslope movement of unstable snow or ice, often with entrained material.
+B. A flood caused only by failure of a concrete dam.
+C. Any rock movement on a snow-covered mountain.
+D. An intense hour of rain over a small area.
 
-A. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-B. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-C. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-D. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Correct: the moving mass and instability mechanism are identified.
+- **B:** Incorrect: this describes a dam-break flood, not an avalanche.
+- **C:** Incorrect: snow cover does not change rockfall into an avalanche.
+- **D:** Incorrect: this describes a cloudburst-type rainfall event.
 
-### Q13. Which statement correctly identifies Avalanche?
+### MCQ 10. What is the main purpose of avalanche hazard zoning?
 
-A. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-B. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-C. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-D. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
+A. To replace all seasonal forecasts with a permanent safe/unsafe label.
+B. To map release, track and runout for land-use control.
+C. To estimate only the volume of glacial lakes.
+D. To transfer evacuation authority from districts to DGRE.
 
-**Answer: A.**
-**Explanation:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q14. Which option preserves the risk or institutional boundary of Avalanche?
+- **A:** Incorrect: current snow conditions still require dynamic assessment.
+- **B:** Correct: spatial zoning informs siting, closure, protection and rescue planning.
+- **C:** Incorrect: glacial-lake inventory serves GLOF assessment.
+- **D:** Incorrect: scientific warning and civil protective authority remain distinct.
 
-A. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-B. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-C. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-D. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
+### MCQ 11. A DGRE bulletin places a region in a higher avalanche danger category. Which inference is justified?
 
-**Answer: B.**
-**Explanation:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Every slope in the region will release an avalanche.
+B. Permanent relocation is legally automatic.
+C. The stated precautions apply to that area and period.
+D. The bulletin proves that past mitigation reduced deaths.
 
-### Q15. Which statement uses Avalanche without changing its hazard, mandate or status?
+**Answer: C**
 
-A. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-B. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-C. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-D. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
+- **A:** Incorrect: regional forecasts retain local uncertainty.
+- **B:** Incorrect: relocation requires competent legal and administrative decisions.
+- **C:** Correct: a dated bulletin supports time- and place-specific precaution.
+- **D:** Incorrect: outcome attribution needs separate evidence.
 
-**Answer: C.**
-**Explanation:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 12. Which description most accurately defines a GLOF?
 
-### Q16. Which option avoids the standard UPSC close-option trap about Avalanche?
+A. A snow slab released after fresh snowfall.
+B. A rainfall threshold exceeded on a cut slope.
+C. Slow seasonal seepage from any mountain lake.
+D. Sudden release after glacial-lake dam failure or overtopping.
 
-A. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-B. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-C. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-D. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: this is an avalanche process.
+- **B:** Incorrect: this is a possible landslide-warning condition.
+- **C:** Incorrect: gradual seepage is not an outburst flood.
+- **D:** Correct: it identifies the impounded water and sudden-release mechanism.
 
-### Q17. Which statement correctly identifies GLOF?
+### MCQ 13. Which is a defensible GLOF trigger rather than merely downstream exposure?
 
-A. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-B. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-C. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-D. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
+A. A rock or ice fall displaces lake water.
+B. A village occupies the flood corridor below the lake.
+C. A hospital lacks an evacuation vehicle.
+D. A bridge carries the only road into a valley.
 
-**Answer: A.**
-**Explanation:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q18. Which option preserves the risk or institutional boundary of GLOF?
+- **A:** Correct: mass entry can displace water and initiate overtopping or breach.
+- **B:** Incorrect: village location is exposure.
+- **C:** Incorrect: transport shortage is vulnerability/capacity.
+- **D:** Incorrect: the bridge is exposed critical infrastructure.
 
-A. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-B. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-C. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-D. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
+### MCQ 14. What is the strongest interpretation of satellite-detected glacial-lake expansion?
 
-**Answer: B.**
-**Explanation:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. It proves that the dam will fail during the next monsoon.
+B. It is a screening signal requiring dam, slope and downstream assessment.
+C. It removes the need for field surveys and instruments.
+D. It establishes that downstream vulnerability has fallen.
 
-### Q19. Which statement uses GLOF without changing its hazard, mandate or status?
+**Answer: B**
 
-A. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-B. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-C. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-D. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
+- **A:** Incorrect: expansion alone does not establish failure timing.
+- **B:** Correct: change detection prioritises deeper risk assessment.
+- **C:** Incorrect: remote sensing has observation and process limits.
+- **D:** Incorrect: vulnerability is a separate social/infrastructure condition.
 
-**Answer: C.**
-**Explanation:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 15. Which institutional pairing is correct?
 
-### Q20. Which option avoids the standard UPSC close-option trap about GLOF?
+A. DGRE—national landslide susceptibility mapping; GSI—avalanche bulletins.
+B. IMD—civil evacuation orders; ISRO—road closures.
+C. GSI/NLFC—landslide work; DGRE—avalanche warnings; ISRO/NRSC—remote-sensing inputs.
+D. NDRF—glacial-lake inventory; CWC—snowpack stability.
 
-A. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-B. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-C. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-D. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: the roles are reversed.
+- **B:** Incorrect: scientific information does not automatically confer local executive authority.
+- **C:** Correct: it preserves the specialist mandates.
+- **D:** Incorrect: these are not the stated primary functions.
 
-### Q21. Which statement correctly identifies Susceptibility versus hazard?
+### MCQ 16. The canonical source notes difficulty in predicting cloudbursts mainly because they are:
 
-A. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-B. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-C. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-D. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
+A. always caused by earthquakes.
+B. confined to winter snowfields.
+C. identical to riverine floods.
+D. very small in spatial and temporal scale.
 
-**Answer: A.**
-**Explanation:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q22. Which option preserves the risk or institutional boundary of Susceptibility versus hazard?
+- **A:** Incorrect: earthquakes are not the defining cloudburst cause.
+- **B:** Incorrect: cloudbursts are intense rainfall events and are not confined to snowfields.
+- **C:** Incorrect: they may trigger floods but are not the same process.
+- **D:** Correct: small scale limits precise observation and lead time.
 
-A. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-B. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-C. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-D. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
+### MCQ 17. Which sequence is a plausible cascading mountain emergency?
 
-**Answer: B.**
-**Explanation:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Earthquake → landslide → river blockage → impoundment failure → flood.
+B. Avalanche → cyclone genesis → coastal storm surge → drought.
+C. Glacial-lake expansion → automatic evacuation → zero residual risk.
+D. Rockfall → lower exposure → guaranteed safe recovery.
 
-### Q23. Which statement uses Susceptibility versus hazard without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-B. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-C. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-D. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
+- **A:** Correct: each stage can physically initiate or amplify the next.
+- **B:** Incorrect: the chain joins unrelated mechanisms.
+- **C:** Incorrect: expansion does not automatically cause or manage an emergency.
+- **D:** Incorrect: rockfall does not lower exposure or guarantee recovery.
 
-**Answer: C.**
-**Explanation:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 18. Which road-project practice best reduces landslide risk?
 
-### Q24. Which option avoids the standard UPSC close-option trap about Susceptibility versus hazard?
+A. Maximise cut height so that construction finishes before rain.
+B. Use geotechnical alignment, controlled excavation, drainage and planned spoil disposal.
+C. Place spoil in the nearest stream to clear the carriageway.
+D. Rely on post-failure compensation instead of slope maintenance.
 
-A. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-B. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-C. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-D. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: rapid, unsupported excavation can destabilise slopes.
+- **B:** Correct: it addresses slope geometry, water and added load.
+- **C:** Incorrect: stream dumping obstructs flow and creates cascading risk.
+- **D:** Incorrect: compensation does not prevent failure.
 
-### Q25. Which statement correctly identifies Risk?
+### MCQ 19. Which portfolio is the most complete landslide mitigation strategy?
 
-A. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-B. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-C. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-D. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
+A. A retaining wall at every site, irrespective of failure mechanism.
+B. A rainfall app without land-use or drainage action.
+C. Avoidance, drainage, site-specific engineering, bioengineering, monitoring and enforcement.
+D. Rescue equipment purchased after each monsoon.
 
-**Answer: A.**
-**Explanation:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q26. Which option preserves the risk or institutional boundary of Risk?
+- **A:** Incorrect: one structure cannot fit every slope or failure mode.
+- **B:** Incorrect: information without risk reduction and action is incomplete.
+- **C:** Correct: it combines structural, ecosystem-based and non-structural measures.
+- **D:** Incorrect: equipment is preparedness/response, not comprehensive mitigation.
 
-A. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-B. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-C. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-D. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
+### MCQ 20. Which action belongs principally to preparedness rather than response?
 
-**Answer: B.**
-**Explanation:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Conducting live search and rescue below a failed slope.
+B. Providing emergency trauma care after an avalanche.
+C. Removing debris to restore a blocked road after impact.
+D. Pre-agreeing route-closure thresholds, shelters, communications and drills.
 
-### Q27. Which statement uses Risk without changing its hazard, mandate or status?
+**Answer: D**
 
-A. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-B. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-C. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-D. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
+- **A:** Incorrect: this occurs during response.
+- **B:** Incorrect: post-impact care is response.
+- **C:** Incorrect: clearance is response/early recovery.
+- **D:** Correct: arrangements are made before impact.
 
-**Answer: C.**
-**Explanation:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 21. During a landslide response, what should incident command prioritise first?
 
-### Q28. Which option avoids the standard UPSC close-option trap about Risk?
+A. Secure the scene, assess secondary hazards and coordinate rescue.
+B. Immediate permanent reconstruction on the failed footprint.
+C. Public release of unverified casualty estimates.
+D. Uncontrolled volunteer entry into the runout zone.
 
-A. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-B. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-C. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-D. Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Correct: rescuers and survivors face renewed failure and access hazards.
+- **B:** Incorrect: reconstruction follows stabilisation and reassessment.
+- **C:** Incorrect: risk communication must be verified.
+- **D:** Incorrect: uncontrolled entry can create additional casualties.
 
-### Q29. Which statement correctly identifies Conditioning factors?
+### MCQ 22. Which measure best represents Build Back Better after repeated slope failure?
 
-A. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-B. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-C. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-D. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
+A. Restore the same drainage obstruction because it is familiar.
+B. Reassess runout and relocate or redesign exposed assets.
+C. End monitoring once debris is removed.
+D. Treat road reopening as proof of livelihood recovery.
 
-**Answer: A.**
-**Explanation:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q30. Which option preserves the risk or institutional boundary of Conditioning factors?
+- **A:** Incorrect: it preserves a known conditioning factor.
+- **B:** Correct: recovery reduces future exposure and vulnerability.
+- **C:** Incorrect: residual and recurrent risk may remain.
+- **D:** Incorrect: service output is not a complete recovery outcome.
 
-A. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-B. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-C. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-D. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
+### MCQ 23. Which statement about GSI is most accurate?
 
-**Answer: B.**
-**Explanation:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. It is the sole authority that orders all district evacuations.
+B. It issues avalanche bulletins for the entire Himalaya.
+C. It undertakes landslide geoscience, susceptibility work and forecasting development.
+D. It certifies every hydropower project against GLOF risk.
 
-### Q31. Which statement uses Conditioning factors without changing its hazard, mandate or status?
+**Answer: C**
 
-A. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-B. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-C. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-D. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
+- **A:** Incorrect: protective orders belong to competent civil authorities.
+- **B:** Incorrect: DGRE is the avalanche-warning specialist.
+- **C:** Correct: this matches the official Bhusanket role description.
+- **D:** Incorrect: project appraisal is multi-agency and project-specific.
 
-**Answer: C.**
-**Explanation:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 24. Which institutional statement avoids mandate conflation?
 
-### Q32. Which option avoids the standard UPSC close-option trap about Conditioning factors?
+A. ISRO's image automatically constitutes an evacuation order.
+B. DGRE's bulletin is a GSI landslide map.
+C. NDMA guidelines prove district implementation.
+D. Scientists inform; civil authorities and operators act.
 
-A. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-B. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-C. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-D. Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: imagery is an information input.
+- **B:** Incorrect: avalanche warning and landslide mapping are distinct.
+- **C:** Incorrect: a guideline is not execution evidence.
+- **D:** Correct: it preserves information and decision roles.
 
-### Q33. Which statement correctly identifies Triggers?
+### MCQ 25. Which claim has the strongest evidence status?
 
-A. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-B. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-C. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-D. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
+A. A dated bulletin proves a warning product existed then.
+B. A portal proves every resident received and understood its message.
+C. A mapped lake proves a GLOF will occur.
+D. A mitigation allocation proves expenditure and reduced loss.
 
-**Answer: A.**
-**Explanation:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q34. Which option preserves the risk or institutional boundary of Triggers?
+- **A:** Correct: the claim does not go beyond the document.
+- **B:** Incorrect: dissemination, receipt and understanding need separate evidence.
+- **C:** Incorrect: mapping does not establish timing or certainty.
+- **D:** Incorrect: allocation, spending and outcome are distinct.
 
-A. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-B. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-C. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-D. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
+### MCQ 26. Why must operational and experimental landslide forecasts be distinguished?
 
-**Answer: B.**
-**Explanation:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Both terms legally guarantee identical accuracy.
+B. Experimental coverage is testing, not equivalent operational assurance.
+C. Operational forecasting means every slope is continuously instrumented.
+D. Experimental forecasts cannot produce any useful learning.
 
-### Q35. Which statement uses Triggers without changing its hazard, mandate or status?
+**Answer: B**
 
-A. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-B. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-C. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-D. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
+- **A:** Incorrect: neither label guarantees identical performance.
+- **B:** Correct: status changes what can be claimed about service provision.
+- **C:** Incorrect: regional systems need not instrument every slope.
+- **D:** Incorrect: testing can improve methods and calibration.
 
-**Answer: C.**
-**Explanation:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 27. Which pair correctly distinguishes static and dynamic information?
 
-### Q36. Which option avoids the standard UPSC close-option trap about Triggers?
+A. A route closure is static; a susceptibility map is dynamic.
+B. A lake inventory is a response force; a bulletin is land-use law.
+C. Susceptibility mapping is relatively static; rainfall/snow-weather forecasting is dynamic.
+D. A rescue plan is a trigger; a rainfall threshold is recovery.
 
-A. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-B. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-C. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-D. Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: the classification is reversed.
+- **B:** Incorrect: the categories and functions are mismatched.
+- **C:** Correct: terrain predisposition changes slowly while trigger conditions vary.
+- **D:** Incorrect: the stages are confused.
 
-### Q37. Which statement correctly identifies Cascading risk?
+### MCQ 28. What does the dated ₹150 crore NGRMP figure establish?
 
-A. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-B. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-C. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-D. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
+A. Every high-risk lake has an operational sensor.
+B. All funds have been spent and audited.
+C. GLOF risk has been eliminated in four States.
+D. An approved programme/outlay and stated Centre–State contribution, not implementation outcome.
 
-**Answer: A.**
-**Explanation:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q38. Which option preserves the risk or institutional boundary of Cascading risk?
+- **A:** Incorrect: programme scope does not prove site coverage.
+- **B:** Incorrect: allocation does not establish expenditure.
+- **C:** Incorrect: risk cannot be eliminated by programme approval.
+- **D:** Correct: this is the bounded evidentiary claim.
 
-A. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-B. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-C. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-D. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
+### MCQ 29. Which use of bioengineering is most defensible?
 
-**Answer: B.**
-**Explanation:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Combine suitable local vegetation with engineered drainage/stabilisation after site assessment.
+B. Plant any fast-growing species and omit slope investigation.
+C. Use vegetation as a substitute for all structural work.
+D. Apply the same treatment to rockfall, debris flow and avalanche paths.
 
-### Q39. Which statement uses Cascading risk without changing its hazard, mandate or status?
+**Answer: A**
 
-A. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-B. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-C. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-D. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
+- **A:** Correct: vegetation complements mechanism-specific engineering.
+- **B:** Incorrect: species and slope conditions matter.
+- **C:** Incorrect: some failures require structural or avoidance measures.
+- **D:** Incorrect: distinct hazards require distinct designs.
 
-**Answer: C.**
-**Explanation:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 30. Why can a retaining wall fail as a universal remedy?
 
-### Q40. Which option avoids the standard UPSC close-option trap about Cascading risk?
+A. It always increases rainfall.
+B. It may miss drainage or deep-foundation failure.
+C. It converts a slope into a glacial lake.
+D. It automatically removes all maintenance duties.
 
-A. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-B. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-C. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-D. Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: a wall does not cause rainfall.
+- **B:** Correct: stability depends on the actual failure mechanism and water regime.
+- **C:** Incorrect: the processes are unrelated.
+- **D:** Incorrect: drainage and maintenance remain essential.
 
-### Q41. Which statement correctly identifies GSI role?
+### MCQ 31. Which feature makes a community-based warning system credible?
 
-A. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-B. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-C. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-D. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
+A. One technical message in a language many residents cannot use.
+B. An app download count without delivery tests.
+C. Locally understood triggers, redundant channels, safe destinations, drills and feedback.
+D. A siren installed without an authorised action protocol.
 
-**Answer: A.**
-**Explanation:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q42. Which option preserves the risk or institutional boundary of GSI role?
+- **A:** Incorrect: inaccessible messaging excludes at-risk groups.
+- **B:** Incorrect: downloads do not prove warning receipt or action.
+- **C:** Correct: it completes the end-to-end chain.
+- **D:** Incorrect: sound without decision rules creates ambiguity.
 
-A. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-B. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-C. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-D. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
+### MCQ 32. A Himalayan hydropower proposal is below several changing glacial lakes. Which appraisal is most defensible?
 
-**Answer: B.**
-**Explanation:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Approve it because satellite imagery exists.
+B. Reject every Himalayan project irrespective of design.
+C. Assess only the dam site and ignore upstream/downstream systems.
+D. Use cumulative lake–slope–river–project–settlement cascade analysis and emergency planning.
 
-### Q43. Which statement uses GSI role without changing its hazard, mandate or status?
+**Answer: D**
 
-A. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-B. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-C. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-D. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
+- **A:** Incorrect: imagery alone does not resolve risk.
+- **B:** Incorrect: blanket rejection ignores development needs and possible controls.
+- **C:** Incorrect: cascade pathways cross the project boundary.
+- **D:** Correct: it integrates hazard, exposure, consequences and preparedness.
 
-**Answer: C.**
-**Explanation:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 33. Which comparison of the Himalaya and Western Ghats is most balanced?
 
-### Q44. Which option avoids the standard UPSC close-option trap about GSI role?
+A. Shared rain and human pressure, but different tectonic and weathering contexts.
+B. Only the Western Ghats contain exposed settlements.
+C. Only Himalayan slopes can experience toe erosion.
+D. Their mitigation measures must be identical because both are mountainous.
 
-A. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-B. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-C. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-D. GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Correct: it combines common factors with material regional differences.
+- **B:** Incorrect: settlements are exposed in both regions.
+- **C:** Incorrect: toe erosion can affect slopes in either setting.
+- **D:** Incorrect: site and regional conditions require adaptation.
 
-### Q45. Which statement correctly identifies DGRE role?
+### MCQ 34. How should the 2025 mining-environmental-hazard PYQ be used in this topic?
 
-A. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-B. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-C. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-D. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
+A. As a direct official question on avalanche forecasting.
+B. As an adjacent mining-induced slope and subsidence application.
+C. As proof that every mine causes a landslide.
+D. As an official GLOF question with a key.
 
-**Answer: A.**
-**Explanation:** DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q46. Which option preserves the risk or institutional boundary of DGRE role?
+- **A:** Incorrect: the printed stem concerns mining hazards.
+- **B:** Correct: slope/subsidence is a relevant but bounded application.
+- **C:** Incorrect: causation depends on geology, design and operations.
+- **D:** Incorrect: the question is descriptive and does not mention GLOF.
 
-A. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-B. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-C. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-D. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
+### MCQ 35. Which recovery indicator is most meaningful after a mountain corridor disaster?
 
-**Answer: B.**
-**Explanation:** DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Number of press releases issued.
+B. Tonnes of debris removed without checking stability.
+C. Safe restoration with lower re-exposure.
+D. Number of maps printed before reconstruction.
 
-### Q47. Which statement uses DGRE role without changing its hazard, mandate or status?
+**Answer: C**
 
-A. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-B. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-C. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-D. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
+- **A:** Incorrect: communication activity is not recovery.
+- **B:** Incorrect: clearance without safety can recreate risk.
+- **C:** Correct: it combines service recovery with future-risk reduction.
+- **D:** Incorrect: map production alone does not show action.
 
-**Answer: C.**
-**Explanation:** DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 36. Which metric best tests whether warning produced an outcome?
 
-### Q48. Which option avoids the standard UPSC close-option trap about DGRE role?
+A. Number of sensors purchased.
+B. Number of agencies in a meeting.
+C. Number of bulletins generated.
+D. Timely action and reduced avoidable harm.
 
-A. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-B. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-C. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-D. DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: procurement measures input.
+- **B:** Incorrect: participation measures activity.
+- **C:** Incorrect: bulletin count measures output.
+- **D:** Correct: it follows the chain to behaviour and consequence.
 
-### Q49. Which statement correctly identifies NRSC-ISRO role?
+### MCQ 37. Assertion (A): A high-susceptibility unoccupied slope may create lower societal risk than a moderately susceptible slope above a dense settlement. Reason (R): Risk depends on hazard, exposure, vulnerability and capacity, not terrain susceptibility alone.
 
-A. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-B. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-C. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-D. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
+A. Both A and R are correct, and R explains A.
+B. Both A and R are correct, but R does not explain A.
+C. A is correct, but R is incorrect.
+D. A is incorrect, but R is correct.
 
-**Answer: A.**
-**Explanation:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q50. Which option preserves the risk or institutional boundary of NRSC-ISRO role?
+- **A:** Correct: the reason supplies the missing exposure-vulnerability logic.
+- **B:** Incorrect: the reason directly explains the assertion.
+- **C:** Incorrect: the reason is also correct.
+- **D:** Incorrect: the assertion is a valid risk comparison.
 
-A. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-B. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-C. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-D. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
+### MCQ 38. Arrange the GLOF risk-management sequence: 1. downstream evacuation planning; 2. satellite change detection; 3. field assessment of lake/dam; 4. prioritised monitoring/mitigation.
 
-**Answer: B.**
-**Explanation:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. 1-4-2-3
+B. 2-3-4-1
+C. 3-2-1-4
+D. 4-1-3-2
 
-### Q51. Which statement uses NRSC-ISRO role without changing its hazard, mandate or status?
+**Answer: B**
 
-A. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-B. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-C. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-D. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
+- **A:** Incorrect: evacuation planning should not precede initial identification as the sole first step.
+- **B:** Correct: screen, diagnose, prioritise action, and connect it to downstream preparedness.
+- **C:** Incorrect: it reverses the normal screening sequence.
+- **D:** Incorrect: it begins with intervention before assessment.
 
-**Answer: C.**
-**Explanation:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 39. Match the instrument with its principal question: 1. susceptibility map; 2. forecast bulletin; 3. risk map; 4. recovery review. a. who/what may be harmed; b. where is failure more likely; c. were services and livelihoods restored more safely; d. what is the near-term danger?
 
-### Q52. Which option avoids the standard UPSC close-option trap about NRSC-ISRO role?
+A. 1-a, 2-b, 3-d, 4-c
+B. 1-d, 2-c, 3-b, 4-a
+C. 1-b, 2-d, 3-a, 4-c
+D. 1-c, 2-a, 3-d, 4-b
 
-A. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-B. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-C. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-D. NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: susceptibility and forecast functions are swapped.
+- **B:** Incorrect: all four pairings are displaced.
+- **C:** Correct: each product is matched to its decision question.
+- **D:** Incorrect: recovery and susceptibility are misassigned.
 
-### Q53. Which statement correctly identifies Glacial-lake monitoring?
+### MCQ 40. A warning reaches a village, but the only bridge to the safe site has already failed. Which diagnosis is best?
 
-A. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-B. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-C. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-D. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
+A. The hazard was absent because a warning was issued.
+B. The community lacked susceptibility information only.
+C. Forecast accuracy alone explains the failure.
+D. Warning lacked a feasible, redundant evacuation route.
 
-**Answer: A.**
-**Explanation:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q54. Which option preserves the risk or institutional boundary of Glacial-lake monitoring?
+- **A:** Incorrect: warning presence does not negate hazard.
+- **B:** Incorrect: the decisive gap is actionable evacuation.
+- **C:** Incorrect: even a correct forecast cannot repair an unusable route.
+- **D:** Correct: end-to-end systems require a reachable safe destination.
 
-A. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-B. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-C. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-D. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-
-**Answer: B.**
-**Explanation:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q55. Which statement uses Glacial-lake monitoring without changing its hazard, mandate or status?
-
-A. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-B. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-C. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-D. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-
-**Answer: C.**
-**Explanation:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Glacial-lake monitoring?
-
-A. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-B. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-C. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-D. Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-
-**Answer: D.**
-**Explanation:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q57. Which statement correctly identifies Zoning and land use?
-
-A. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-B. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-C. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-D. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-
-**Answer: A.**
-**Explanation:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q58. Which option preserves the risk or institutional boundary of Zoning and land use?
-
-A. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-B. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-C. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-D. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-
-**Answer: B.**
-**Explanation:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q59. Which statement uses Zoning and land use without changing its hazard, mandate or status?
-
-A. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-B. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-C. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-D. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-
-**Answer: C.**
-**Explanation:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Zoning and land use?
-
-A. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-B. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-C. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-D. Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-
-**Answer: D.**
-**Explanation:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q61. Which statement correctly identifies Slope and drainage measures?
-
-A. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-B. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-C. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-D. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-
-**Answer: A.**
-**Explanation:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q62. Which option preserves the risk or institutional boundary of Slope and drainage measures?
-
-A. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-B. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-C. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-D. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-
-**Answer: B.**
-**Explanation:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q63. Which statement uses Slope and drainage measures without changing its hazard, mandate or status?
-
-A. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-B. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-C. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-D. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-
-**Answer: C.**
-**Explanation:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Slope and drainage measures?
-
-A. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-B. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-C. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-D. Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-
-**Answer: D.**
-**Explanation:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q65. Which statement correctly identifies Route and settlement planning?
-
-A. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-B. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-C. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-D. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-
-**Answer: A.**
-**Explanation:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q66. Which option preserves the risk or institutional boundary of Route and settlement planning?
-
-A. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-B. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-C. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-D. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-
-**Answer: B.**
-**Explanation:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q67. Which statement uses Route and settlement planning without changing its hazard, mandate or status?
-
-A. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-B. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-C. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-D. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-
-**Answer: C.**
-**Explanation:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Route and settlement planning?
-
-A. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-B. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-C. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-D. Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-
-**Answer: D.**
-**Explanation:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q69. Which statement correctly identifies Warning and evacuation?
-
-A. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-B. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-C. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-D. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-
-**Answer: A.**
-**Explanation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q70. Which option preserves the risk or institutional boundary of Warning and evacuation?
-
-A. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-B. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-C. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-D. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-
-**Answer: B.**
-**Explanation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q71. Which statement uses Warning and evacuation without changing its hazard, mandate or status?
-
-A. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-B. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-C. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-D. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-
-**Answer: C.**
-**Explanation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Warning and evacuation?
-
-A. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-B. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-C. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-D. Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-
-**Answer: D.**
-**Explanation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q73. Which statement correctly identifies Institutional coordination?
-
-A. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-B. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-C. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-D. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-
-**Answer: A.**
-**Explanation:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q74. Which option preserves the risk or institutional boundary of Institutional coordination?
-
-A. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-B. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-C. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-D. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-
-**Answer: B.**
-**Explanation:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q75. Which statement uses Institutional coordination without changing its hazard, mandate or status?
-
-A. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-B. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-C. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-D. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-
-**Answer: C.**
-**Explanation:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Institutional coordination?
-
-A. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-B. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-C. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-D. GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-
-**Answer: D.**
-**Explanation:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q77. Which statement correctly identifies Technology-outcome firewall?
-
-A. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-B. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-C. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-D. A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-
-**Answer: A.**
-**Explanation:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q78. Which option preserves the risk or institutional boundary of Technology-outcome firewall?
-
-A. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-B. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-C. Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-D. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-
-**Answer: B.**
-**Explanation:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q79. Which statement uses Technology-outcome firewall without changing its hazard, mandate or status?
-
-A. A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-B. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-C. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-D. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-
-**Answer: C.**
-**Explanation:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Technology-outcome firewall?
-
-A. An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-B. Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-C. A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-D. A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
-
-**Answer: D.**
-**Explanation:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+> **Provenance rule:** wording below is transcribed from locally extracted official UPSC papers. UPSC does not publish model answers for these descriptive papers; every solution is instructional. Mains questions have no answer options or official answer key.
 
-All three cards are verified direct routes: 2019 landslide zonation, 2021 Himalayan-versus-Western-Ghats causes, and 2021 landslide causes/effects/National Landslide Risk Management Strategy. Avalanche and GLOF content is not misrepresented as printed in those stems.
+### DIRECT PYQ 1 — 2019 GS-III Q18 — 15 marks, 250 words
 
-### PYQ DEMAND CARD 1 — 2019 GS-III
+**Official wording:** “Disaster preparedness is the first step in any disaster management process. Explain how hazard zonation mapping will help disaster mitigation in the case of landslides.”
 
-**Demand:** Explain landslide hazard zonation mapping and its role in preparedness and mitigation.
+**Local official paper:** `knowledge-export\Mains PYQ\QP-CSM19-GeneralStudies-III.pdf.md`.
 
-**Status:** Verified direct routing: Explain · 15 marks · 250 words; the answer distinguishes susceptibility, hazard and risk and converts mapping into decisions.
+**Demand:** Explain the decision pathway from mapping to mitigation, not merely how a map is made.
 
-**Model solution:** **Landslide:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Susceptibility versus hazard:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Risk:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Conditioning factors:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **GSI role:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Zoning and land use:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Slope and drainage measures:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Warning and evacuation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Technology-outcome firewall:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer (about 230 words):**
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2019 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Landslide hazard zonation divides terrain according to the relative likelihood and expected severity of slope failure. It converts dispersed information on geology, slope, drainage, rainfall, seismicity, past slides, land use and human modification into an anticipatory planning instrument.
 
-**Detailed examiner-grade model answer:**
+First, zonation supports **avoidance**: very-high or high zones can be kept free of dense settlements, critical facilities and unsafe road or dam alignments. Second, it guides **site-specific investigation and mitigation**. Drainage, retaining works, bioengineering, toe protection or realignment can be prioritised where mapped susceptibility intersects exposed assets. Third, it improves **preparedness** by identifying monitoring sites, likely runout corridors, route-closure thresholds, evacuation routes, shelters and equipment locations. Fourth, risk maps—which add exposure and vulnerability—help districts prioritise schools, hospitals, bridges and isolated communities rather than treating every coloured polygon equally.
 
-**Introduction and thesis:** **Landslide:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Susceptibility versus hazard:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Risk:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Conditioning factors:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **GSI role:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Zoning and land use:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Slope and drainage measures:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Warning and evacuation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Technology-outcome firewall:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+India's GSI supervises national landslide susceptibility work and develops forecasting through its landslide institutions; NDMA's 2019 National Landslide Risk Management Strategy supplies the wider governance frame. However, a susceptibility map chiefly answers “where”; it does not predict the exact time of failure, certify a building plot or prove community safety. Coarse-scale maps therefore need field verification, detailed geotechnical study, updated inventories and enforceable land-use decisions.
 
-**Analytical body:**
+Thus, zonation mitigates landslides only when map information changes siting, engineering, warning and evacuation practice.
 
-1. **Claim:** Demand: Explain landslide hazard zonation mapping and its role in preparedness and mitigation. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct routing: Explain · 15 marks · 250 words; the answer distinguishes susceptibility, hazard and risk and converts mapping into decisions. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Why this earns marks:** It defines zonation, gives four mitigation pathways, names GSI/NLRMS and qualifies scale, forecast and enforcement limits.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+---
 
-**Qualified conclusion:** **Landslide:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Susceptibility versus hazard:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Risk:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Conditioning factors:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **GSI role:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Zoning and land use:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Slope and drainage measures:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Warning and evacuation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Technology-outcome firewall:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### DIRECT PYQ 2 — 2021 GS-I Q4 — 10 marks, 150 words
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Official wording:** “Differentiate the causes of landslides in the Himalayan region and Western Ghats.”
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Local official paper:** `knowledge-export\Mains PYQ\QP-CSM-21-GENSTUDIESPAPER-I-110122.pdf.md`.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2019 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Model answer (about 145 words):**
 
-### PYQ DEMAND CARD 2 — 2021 GS-I
+Both regions experience steep-slope failure under intense rain and human modification, but their conditioning settings differ.
 
-**Demand:** Differentiate causes of landslides in the Himalayan region and Western Ghats.
+| Himalayan region | Western Ghats |
+|---|---|
+| Young, tectonically active, highly fractured and high-relief mountains | Older but steep terrain with deep weathering and thick regolith in many locations |
+| Earthquakes, aftershocks, snowmelt/freeze-thaw and monsoon/cloudburst rain can trigger failure | Intense monsoon rain, prolonged saturation and stream/toe erosion dominate |
+| Road widening, tunnelling, hydropower, tourism, slope loading and spoil disposal disturb narrow valleys | Quarrying/mining, road cutting, deforestation, plantations and settlement expansion alter slopes and drainage |
+| River blockage and corridor isolation can create large cascades | Dense settlements and transport below saturated slopes create concentrated local loss |
 
-**Status:** Verified direct routing: Differentiate · 10 marks · 150 words; use a comparison of conditioning factors, rainfall, seismicity and intervention without unsupported event statistics.
+Therefore, “fragile mountains” is an insufficient common explanation. Himalayan planning must integrate seismic and cascade risk, while Western-Ghat planning must emphasise weathered-slope drainage and quarry/land-use control. Both require site-specific investigation; neither region is uniform.
 
-**Model solution:** **Landslide:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Conditioning factors:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Triggers:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **Cascading risk:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Zoning and land use:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Slope and drainage measures:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Why this earns marks:** It obeys “differentiate,” uses parallel dimensions and ends with a qualified common policy inference.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2021 GS-I’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+---
 
-**Detailed examiner-grade model answer:**
+### DIRECT PYQ 3 — 2021 GS-III Q18 — 15 marks, 250 words
 
-**Introduction and thesis:** **Landslide:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Conditioning factors:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Triggers:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **Cascading risk:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Zoning and land use:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Slope and drainage measures:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Official wording:** “Describe the various causes and the effects of landslides. Mention the important components of the National Landslide Risk Management Strategy.”
 
-**Analytical body:**
+**Local official paper:** `knowledge-export\Mains PYQ\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf.md`.
 
-1. **Claim:** Demand: Differentiate causes of landslides in the Himalayan region and Western Ghats. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct routing: Differentiate · 10 marks · 150 words; use a comparison of conditioning factors, rainfall, seismicity and intervention without unsupported event statistics. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Model answer (about 245 words):**
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+A landslide is gravity-driven downslope movement of rock, debris or earth. Failure occurs when driving stress exceeds resisting strength.
 
-**Qualified conclusion:** **Landslide:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Conditioning factors:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Triggers:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **Cascading risk:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Zoning and land use:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Slope and drainage measures:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Causes.** Persistent conditioning factors include weak or fractured geology, weathering, steep/overloaded slopes, poor drainage, toe erosion, vegetation loss and old failure surfaces. Intense or prolonged rainfall raises pore-water pressure; earthquakes, snowmelt, freeze-thaw, excavation and vibration may trigger failure. Road cutting, quarrying, tunnelling, unplanned buildings and unsafe spoil disposal can both condition and trigger slopes.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Effects.** Slides kill and injure; bury settlements and farmland; sever roads, power, water and communications; isolate communities; silt rivers; damage ecosystems and tourism; and create secondary hazards. A blocked river may impound water and later breach, converting a slope failure into a flood emergency.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**National Landslide Risk Management Strategy.** Its important action areas may be organised as: landslide inventory and susceptibility/hazard/risk mapping; monitoring and early-warning development; site-specific structural and non-structural mitigation; land-use regulation and techno-legal standards; public awareness, community preparedness and capacity building; research, knowledge sharing and institutional coordination; emergency response; and rehabilitation/recovery.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2021 GS-I’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+GSI provides the central geoscientific and forecasting-development role, while State, district, local and project authorities must translate information into permits, drainage, maintenance, route closure and evacuation. Mapping or a portal is only an input: effectiveness requires fine-scale investigation, enforcement, last-mile action and outcome review.
 
-### PYQ DEMAND CARD 3 — 2021 GS-III
+**Why this earns marks:** It answers all three clauses, separates conditions from triggers, explains cascading effects and converts strategy headings into responsible action.
 
-**Demand:** Describe landslide causes, effects and the National Landslide Risk Management Strategy.
+---
 
-**Status:** Verified direct routing: Describe · 15 marks · 250 words; strategy use remains bounded to mapping, prevention, warning, capacity and land-use functions.
+### DIRECT PYQ 4 — 2026 GS-III Q7 — 10 marks, 150 words
 
-**Model solution:** **Landslide:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Risk:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Conditioning factors:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Triggers:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **GSI role:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Zoning and land use:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Slope and drainage measures:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Route and settlement planning:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Warning and evacuation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Institutional coordination:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Technology-outcome firewall:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Official wording:** “Discuss how the contradiction between ‘rapid infrastructure development’ and ‘disaster-risk reduction’ in ecologically-sensitive areas of India can be managed, with suitable examples.”
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2021 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Local official paper:** `knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf.md`.
 
-**Detailed examiner-grade model answer:**
+**Model answer (about 145 words):**
 
-**Introduction and thesis:** **Landslide:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Risk:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Conditioning factors:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Triggers:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **GSI role:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Zoning and land use:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Slope and drainage measures:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Route and settlement planning:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Warning and evacuation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Institutional coordination:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Technology-outcome firewall:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+The contradiction arises when infrastructure supplies connectivity, energy and services but its siting or construction destabilises the ecological system that protects it.
 
-**Analytical body:**
+In the Himalaya, road cutting, tunnelling, unmanaged spoil and drainage interception can condition landslides; hydropower and settlements in narrow valleys face landslide, river-blockage and GLOF cascades. In the Western Ghats, roads, quarrying and construction on deeply weathered, monsoon-saturated slopes can increase failure risk.
 
-1. **Claim:** Demand: Describe landslide causes, effects and the National Landslide Risk Management Strategy. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct routing: Describe · 15 marks · 250 words; strategy use remains bounded to mapping, prevention, warning, capacity and land-use functions. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+Management requires hazard/risk zonation at the correct scale; cumulative basin or corridor assessment; avoidance of highest-risk paths; geotechnical design, drainage and spoil control; ecosystem buffers; project emergency plans integrated with districts; monitoring and pre-authorised closure/evacuation; independent lifecycle audits; and safer reconstruction.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Blanket bans can deepen regional inequality, while approvals based only on national-scale maps create false assurance. Local participation, livelihood safeguards and transparent residual-risk disclosure can reconcile development with disaster-risk reduction.
 
-**Qualified conclusion:** **Landslide:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Risk:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Conditioning factors:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Triggers:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **GSI role:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Zoning and land use:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Slope and drainage measures:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Route and settlement planning:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Warning and evacuation:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Institutional coordination:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Technology-outcome firewall:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Why this earns marks:** It identifies the contradiction, uses two Indian settings, supplies lifecycle measures and avoids both pro- and anti-development absolutism.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+---
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+### SHARED PYQ 1 — 2022 GS-III Q8 — 10 marks, 150 words
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2021 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Official wording:** “Explain the mechanism and occurrence of cloudburst in the context of the Indian subcontinent. Discuss two recent examples.”
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**Ownership:** Shared application here because cloudbursts can trigger mountain flash floods and slides; the routed primary owner is Disaster Management Topic 08.
 
-**Question:** Distinguish landslide, rockfall, debris flow, avalanche and GLOF. Answer in about 150 words.
+**Local official paper:** `knowledge-export\Mains PYQ\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf.md`.
 
-**Model thesis:** **Claim:** Landslide. **Named evidence/example:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Rockfall. **Named evidence/example:** Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Debris flow. **Named evidence/example:** A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Avalanche. **Named evidence/example:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (about 145 words):**
 
-**Claim → named evidence → analysis → qualification:**
+A cloudburst is extremely intense rainfall concentrated over a small area and short period. The local source uses roughly 10 cm or more in an hour over about 20–30 sq km. Moist air forced upward by mountain terrain cools and condenses; strong updraughts can sustain large droplets until sudden release produces exceptional local rainfall.
 
-- A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-- Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow.
-- A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass.
-- An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-- A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
+Moisture-bearing monsoon systems interacting with the Himalaya, North-East and Western Ghats create favourable orographic conditions, though cloudbursts can occur outside mountains. Their tiny spatial and temporal scale makes precise prediction difficult.
 
-**Qualified conclusion:** **Claim:** Landslide. **Named evidence/example:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Rockfall. **Named evidence/example:** Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Debris flow. **Named evidence/example:** A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Avalanche. **Named evidence/example:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+The local source cites the 2013 Uttarakhand disaster, involving multiple cloudburst episodes, and the 2010 Jammu and Kashmir event. These illustrate compound consequences: rapid runoff can become flash flood, saturate slopes, mobilise debris and isolate valleys.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish landslide, rockfall, debris flow, avalanche and GLOF. Answer in about 150 words.’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+The label should follow meteorological evidence; not every intense-rain flood is a verified cloudburst. Dense observations, drainage, safe siting and local warning are therefore as important as forecasting.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It explains mechanism, geography, two source-backed examples, cascading impacts and an attribution caution.
 
-**Introduction and thesis:** **Claim:** Landslide. **Named evidence/example:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Rockfall. **Named evidence/example:** Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Debris flow. **Named evidence/example:** A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Avalanche. **Named evidence/example:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+---
 
-**Analytical body:**
+### SHARED PYQ 2 — 2024 GS-I Q6 — 10 marks, 150 words
 
-1. **Claim:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Official wording:** “What is the phenomenon of ‘Cloudbursts’? Explain.”
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Ownership:** Primary route is Geography Topic 13; used here only for disaster-risk application.
 
-**Qualified conclusion:** **Claim:** Landslide. **Named evidence/example:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Rockfall. **Named evidence/example:** Rockfall is the detachment and rapid fall, bounce or roll of rock from a steep face or slope, distinct from a coherent slide or channelised debris flow. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Debris flow. **Named evidence/example:** A debris flow is a rapid, channelised or slope-confined mixture of water, soil, rock and organic material; intense rainfall may trigger it but rainfall is not the moving mass. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Avalanche. **Named evidence/example:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Local official paper:** `knowledge-export\Mains PYQ\UPSC Mains 2024 GS Paper I.md`.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Model answer (about 135 words):**
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+A cloudburst is a very intense, highly localised rainfall event over a short duration. The local disaster-management source uses about 10 cm or more rain in one hour over roughly 20–30 sq km as its benchmark.
 
-**How to improve this answer:** For ‘Distinguish landslide, rockfall, debris flow, avalanche and GLOF. Answer in about 150 words.’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+It develops when moisture-rich air rises rapidly, cools and condenses, while strong updraughts temporarily support growing droplets. Orographic uplift makes mountain regions—especially the Himalaya, North-East and Western Ghats during monsoon conditions—particularly favourable. Once droplets can no longer be sustained, concentrated rainfall occurs.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+The disaster arises from the interaction with terrain and exposure: steep catchments produce rapid runoff; channels and valleys concentrate flow; saturated slopes may fail as debris flows or landslides; settlements, roads and pilgrims in confined valleys have little lead time.
 
-**Question:** Differentiate landslide susceptibility, hazard and risk. Answer in about 150 words.
+Because the phenomenon is small in space and time, exact prediction remains difficult. Observation density, nowcasting, drainage, safe siting and immediate protective action must therefore work together.
 
-**Model thesis:** **Claim:** Susceptibility versus hazard. **Named evidence/example:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk. **Named evidence/example:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Why this earns marks:** It defines, explains the mechanism and connects physical process to risk without claiming perfect prediction.
 
-**Claim → named evidence → analysis → qualification:**
+---
 
-- Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-- Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-- GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-- A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
+### APPLICATION PYQ 1 — 2020 GS-I Q6 — 10 marks, 150 words
 
-**Qualified conclusion:** **Claim:** Susceptibility versus hazard. **Named evidence/example:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk. **Named evidence/example:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Official wording:** “How will the melting of Himalayan glaciers have a far-reaching impact on the water resources of India?”
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Differentiate landslide susceptibility, hazard and risk. Answer in about 150 words.’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Ownership:** Primary owner is Geography; applied here only to glacial-lake/GLOF risk.
 
-**Detailed examiner-grade model answer:**
+**Local official paper:** `knowledge-export\Mains PYQ\Gen_St_P1.pdf.md`.
 
-**Introduction and thesis:** **Claim:** Susceptibility versus hazard. **Named evidence/example:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk. **Named evidence/example:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (about 145 words):**
 
-**Analytical body:**
+Himalayan glacier change affects both the timing and reliability of water supply. In the nearer term, enhanced melt can enlarge or create glacial lakes and alter seasonal flows, raising outburst-flood and sediment risk for downstream settlements, roads and hydropower. ISRO's 22 April 2024 assessment used 1984–2023 imagery to document expansion of many Himalayan glacial lakes, making monitoring an important risk-screening tool.
 
-1. **Claim:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+Over longer periods, continued ice loss can reduce the buffering contribution of glaciers during dry seasons, while changing snowmelt timing affects irrigation, ecosystems and hydropower operations. Higher sediment and unstable slopes can damage intakes, reservoirs and channels; transboundary basins complicate data and coordination.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+However, basin impacts differ with monsoon dominance, glacier contribution and time horizon. Glacier melt should therefore not be reduced to a single “more water” or “less water” claim. Basin-specific observation, demand management, resilient infrastructure and GLOF preparedness are required.
 
-**Qualified conclusion:** **Claim:** Susceptibility versus hazard. **Named evidence/example:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk. **Named evidence/example:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Why this earns marks:** It distinguishes short- and long-term impacts, uses dated ISRO evidence and avoids uniform-basin claims.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+---
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+### APPLICATION PYQ 2 — 2025 GS-III Q17 — 15 marks, 250 words
 
-**How to improve this answer:** For ‘Differentiate landslide susceptibility, hazard and risk. Answer in about 150 words.’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Official wording:** “Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining.”
 
-### ORIGINAL MAINS 3 — 15 MARKS
+**Ownership:** Adjacent-only. The primary question concerns environmental management; this topic contributes the mining-induced slope-instability and subsidence dimension.
 
-**Question:** Analyse conditioning factors, triggers and cascading mountain risk. Answer in about 250 words.
+**Local official paper:** `knowledge-export\Mains PYQ\UPSC Mains 2025 GS Paper 3 3.md`.
 
-**Model thesis:** **Claim:** Conditioning factors. **Named evidence/example:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Triggers. **Named evidence/example:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cascading risk. **Named evidence/example:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (about 230 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Mining is an environmental hazard because extraction transforms land, water, air and ecological systems while concentrating occupational and community exposure.
 
-- Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-- Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms.
-- Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-- Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
+Open pits, underground voids, blasting, waste dumps and removal of vegetation alter slope geometry and drainage. In hill terrain, toe cutting and overburden loading can condition landslides; underground extraction may produce subsidence. Acidic or metal-laden drainage, siltation and groundwater disruption degrade water. Dust, fumes, noise and vibration affect workers and settlements, while habitat fragmentation and waste-storage failure create wider risks.
 
-**Qualified conclusion:** **Claim:** Conditioning factors. **Named evidence/example:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Triggers. **Named evidence/example:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cascading risk. **Named evidence/example:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Remediation must follow the mine life cycle. Before approval, cumulative landscape and hydrogeological assessment should identify no-go or conditional zones and downstream exposure. During operation, benches and dumps need geotechnical design, drainage, slope monitoring, controlled blasting, dust/water treatment and independent safety audits. Topsoil conservation, progressive backfilling and native ecological restoration should begin during extraction rather than after closure. Emergency plans must address slope failure, inundation, fire and toxic release, with transparent community warning and grievance mechanisms. Financial assurance and closure funds should make the operator bear rehabilitation costs.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse conditioning factors, triggers and cascading mountain risk. Answer in about 250 words.’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Mining remains economically important, so the solution is not a generic ban. Risk-based siting, cleaner technology, enforceable limits, worker/community protection and measurable post-closure recovery are necessary. For this topic, the bounded takeaway is that mining can create slope and subsidence hazards; it does not prove every mine will cause a landslide.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It answers hazard and remedy across media and life-cycle stages while keeping the landslide link proportionate.
 
-**Introduction and thesis:** **Claim:** Conditioning factors. **Named evidence/example:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Triggers. **Named evidence/example:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cascading risk. **Named evidence/example:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+## ORIGINAL MAINS PRACTICE
 
-**Analytical body:**
+### ORIGINAL 1 — 10 marks, 150 words
 
-1. **Claim:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Question:** Distinguish landslide susceptibility, landslide hazard and landslide risk. Why does the distinction matter for district planning?
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Model answer (about 140 words):**
 
-**Qualified conclusion:** **Claim:** Conditioning factors. **Named evidence/example:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Triggers. **Named evidence/example:** Intense or prolonged rainfall, earthquakes, snow loading or warming, freeze-thaw, erosion, excavation and slope disturbance can trigger failure, but the relevant trigger differs among landslide, avalanche and GLOF mechanisms. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cascading risk. **Named evidence/example:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Susceptibility** expresses where terrain is relatively more likely to fail from conditioning factors such as geology, slope, drainage, land cover and past failures. **Hazard** adds the probability, frequency, magnitude or time window of an event, often using dynamic triggers such as rainfall. **Risk** combines that hazard with exposed people/assets, their vulnerability and available capacity.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+The distinction changes decisions. GSI-scale susceptibility mapping can screen corridors and prioritise detailed surveys. A rainfall-threshold forecast may activate monitoring or road closure. A risk map identifies whether schools, bridges, hospitals or isolated settlements require priority evacuation and investment.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+Conflation creates error: a highly susceptible unoccupied slope need not have the greatest societal risk, while a moderately susceptible slope above a dense corridor may. Nor can a macro map certify an individual building site. District plans should therefore connect appropriate map scale and forecast status to land-use rules, maintenance, warning, evacuation and review.
 
-**How to improve this answer:** For ‘Analyse conditioning factors, triggers and cascading mountain risk. Answer in about 250 words.’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Why this earns marks:** It gives precise definitions, a decision example and two close-option qualifications.
 
-### ORIGINAL MAINS 4 — 15 MARKS
+---
 
-**Question:** Explain glacial-lake monitoring, GLOF warning and downstream evacuation. Answer in about 250 words.
+### ORIGINAL 2 — 10 marks, 150 words
 
-**Model thesis:** **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NRSC-ISRO role. **Named evidence/example:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Glacial-lake monitoring. **Named evidence/example:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional coordination. **Named evidence/example:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Question:** Explain why avalanche warning and avalanche zoning are complementary rather than interchangeable.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (about 135 words):**
 
-- A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-- NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-- Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-- Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-- GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-- A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
+Avalanche **zoning** is spatial: it identifies release areas, tracks and runout zones from terrain, snow history and past events. It informs settlement avoidance, seasonal occupancy, road alignment, protective structures and rescue plans. Avalanche **warning** is dynamic: DGRE evaluates current snowpack and weather to communicate danger for a stated area and period.
 
-**Qualified conclusion:** **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NRSC-ISRO role. **Named evidence/example:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Glacial-lake monitoring. **Named evidence/example:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional coordination. **Named evidence/example:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Zoning without warning cannot represent fresh snowfall, wind loading, warming or rain-on-snow. Warning without zoning may tell users that danger is elevated but not which assets, routes and safe areas lie in likely paths. Together they support pre-authorised route closure, staged supplies, evacuation and safe reopening.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain glacial-lake monitoring, GLOF warning and downstream evacuation. Answer in about 250…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Both remain probabilistic. The common 30°–45° release-slope range is not an absolute boundary, regional bulletins cannot describe every local slope, and a warning does not itself prove receipt or compliance. Hence spatial planning and current-condition assessment must be integrated.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It uses a clean comparison, names DGRE and qualifies terrain and forecast uncertainty.
 
-**Introduction and thesis:** **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NRSC-ISRO role. **Named evidence/example:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Glacial-lake monitoring. **Named evidence/example:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional coordination. **Named evidence/example:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+---
 
-**Analytical body:**
+### ORIGINAL 3 — 15 marks, 250 words
 
-1. **Claim:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Question:** Examine the complete disaster-management cycle for a high-risk Himalayan road corridor exposed to landslides and avalanches.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Model answer (about 230 words):**
 
-**Qualified conclusion:** **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NRSC-ISRO role. **Named evidence/example:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Glacial-lake monitoring. **Named evidence/example:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional coordination. **Named evidence/example:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+A Himalayan road corridor is a network risk: slope or snow failure can kill travellers, isolate settlements and disable health, power and supply chains. Management must extend beyond debris clearance.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Prevention and mitigation:** Align roads away from known slide and avalanche paths where feasible; use detailed geotechnical and avalanche zoning; control excavation, blasting, drainage interception and spoil; stabilise selected slopes through drainage, retaining/protective works and bioengineering; provide snow fences or deflection works only after specialist design. Alternative routes and critical-service redundancy reduce systemic exposure.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Preparedness:** Combine GSI/NLFC landslide information, IMD rainfall and DGRE snow-avalanche bulletins with pre-agreed closure thresholds. Map runout, shelters and equipment; stage food, fuel and medicines for settlements likely to be cut off; drill police, road agencies, health teams and communities; use redundant, accessible communication.
 
-**How to improve this answer:** For ‘Explain glacial-lake monitoring, GLOF warning and downstream evacuation. Answer in about 250…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Response:** Establish incident command, stop unsafe movement, assess secondary slope/snow release, conduct trained search and rescue and triage, maintain verified public information and prioritise isolated groups.
 
-### ORIGINAL MAINS 5 — 20 MARKS
+**Recovery:** Reopen only under controlled safety assessment; restore services and livelihoods; audit drainage, cut slopes and warning performance; relocate or redesign repeatedly exposed assets and maintain treated slopes.
 
-**Question:** Evaluate zoning, drainage, slope treatment, road alignment and settlement planning for landslide risk. Answer in about 300 words.
+Closures can disrupt livelihoods and emergency access, while structural works cannot remove all risk. The corridor therefore needs transparent thresholds, redundancy and outcome measures—safe travel and shorter isolation—not merely kilometres cleared.
 
-**Model thesis:** **Claim:** Susceptibility versus hazard. **Named evidence/example:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk. **Named evidence/example:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Conditioning factors. **Named evidence/example:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and land use. **Named evidence/example:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Slope and drainage measures. **Named evidence/example:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Why this earns marks:** It follows every cycle stage, assigns hazard information, adds equity and ends on measurable outcomes.
 
-**Claim → named evidence → analysis → qualification:**
+---
 
-- Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk.
-- Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks.
-- Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability.
-- GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-- Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-- Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope.
-- Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-- Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-- A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
+### ORIGINAL 4 — 15 marks, 250 words
 
-**Qualified conclusion:** **Claim:** Susceptibility versus hazard. **Named evidence/example:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk. **Named evidence/example:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Conditioning factors. **Named evidence/example:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and land use. **Named evidence/example:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Slope and drainage measures. **Named evidence/example:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Question:** “Glacial-lake monitoring is necessary but insufficient for GLOF risk reduction.” Discuss.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Evaluate zoning, drainage, slope treatment, road alignment and settlement planning for…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Model answer (about 235 words):**
 
-**Detailed examiner-grade model answer:**
+Remote sensing is indispensable in inaccessible Himalayan terrain. ISRO's dated 1984–2023 analysis demonstrates how satellite imagery can identify and track expanding lakes, allowing agencies to update inventories and prioritise field investigation. Yet an observed lake is only the first link in GLOF risk.
 
-**Introduction and thesis:** **Claim:** Susceptibility versus hazard. **Named evidence/example:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk. **Named evidence/example:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Conditioning factors. **Named evidence/example:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and land use. **Named evidence/example:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Slope and drainage measures. **Named evidence/example:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Failure probability depends on dam type, geometry and degradation; freeboard and seepage; surrounding ice or slope instability; earthquake or mass-entry triggers; outlet condition; and changing weather. Satellite revisit, cloud cover and resolution may miss rapid or sub-surface changes. Moreover, hazard becomes disaster through the downstream channel, sediment/debris bulking, bridges, dams, settlements and vulnerable groups.
 
-**Analytical body:**
+Risk reduction therefore needs a layered chain: dynamic inventory; field and bathymetric assessment; suitable water-level, movement and weather instruments; scenario-based breach and inundation mapping; redundant telemetry; warning thresholds and decision authority; evacuation routes, safe sites and drills; and, where technically and environmentally justified, controlled lowering or outlet/protective works.
 
-1. **Claim:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-9. **Claim:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+NDMA's October 2020 Guidelines and the dated NGRMP provide a national policy/programme frame, but approval or installed equipment does not prove readiness. Maintenance, message receipt, evacuation time and reduced harm require separate evidence.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Thus monitoring answers “what is changing”; only integrated lake–dam–trigger–runout–community governance converts observation into protection.
 
-**Qualified conclusion:** **Claim:** Susceptibility versus hazard. **Named evidence/example:** Susceptibility indicates where terrain is more likely to fail from relatively stable conditioning factors, whereas hazard adds probability, timing or intensity under triggers; neither alone equals risk. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Risk. **Named evidence/example:** Risk combines the mass-movement or flood hazard with exposed people, routes, settlements, infrastructure and vulnerability or capacity, so a high-susceptibility unoccupied slope and a lower-susceptibility dense corridor can pose different risks. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Conditioning factors. **Named evidence/example:** Geology, slope angle and shape, weathering, soil or rock structure, drainage, land cover, toe erosion, prior movement and human cutting or loading condition slope stability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and land use. **Named evidence/example:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Slope and drainage measures. **Named evidence/example:** Surface and subsurface drainage, controlled excavation, retaining or protective works, bioengineering and maintenance may reduce selected instability, but engineering must be site-specific and cannot guarantee every slope. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Why this earns marks:** It weighs monitoring's value against physical, technological and governance limits and supplies a complete alternative chain.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+---
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+### ORIGINAL 5 — 20 marks, 300 words
 
-**How to improve this answer:** For ‘Evaluate zoning, drainage, slope treatment, road alignment and settlement planning for…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Question:** Critically analyse how mountain development can simultaneously increase resilience and create landslide and GLOF risk.
 
-### ORIGINAL MAINS 6 — 20 MARKS
+**Model answer (about 285 words):**
 
-**Question:** Design a coordinated Himalayan landslide-avalanche-GLOF governance framework under uncertainty. Answer in about 300 words.
+Roads, hydropower, tourism and urban services can reduce isolation, create livelihoods and supply power; yet poorly planned development may condition slopes, enlarge exposure and magnify cascades. The issue is therefore risk-informed development, not a binary choice between construction and conservation.
 
-**Model thesis:** **Claim:** Landslide. **Named evidence/example:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Avalanche. **Named evidence/example:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cascading risk. **Named evidence/example:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DGRE role. **Named evidence/example:** DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NRSC-ISRO role. **Named evidence/example:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Glacial-lake monitoring. **Named evidence/example:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and land use. **Named evidence/example:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional coordination. **Named evidence/example:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Road access improves evacuation and response, but excessive cutting removes toe support, intercepted drainage raises pore pressure and unmanaged spoil loads slopes or blocks streams. Hydropower can support low-carbon development and local infrastructure, yet tunnels, excavations, workforce settlements and dams occupy narrow valleys exposed to landslide, river-blockage and GLOF waves. Tourism diversifies income, while seasonal crowds, hotels, traffic and waste can overload fragile sites and complicate evacuation.
 
-**Claim → named evidence → analysis → qualification:**
+The Himalayan setting amplifies these interactions through steep relief, fractured/tectonically active terrain, intense rainfall, glaciers and narrow river corridors. A slide can block a river and later generate an outburst; a GLOF can damage downstream projects and remobilise debris. However, attributing glacier melt or a specific disaster to one project without evidence would be unsound.
 
-- A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures.
-- An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure.
-- A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche.
-- Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency.
-- GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work.
-- DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast.
-- NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities.
-- Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping.
-- Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan.
-- Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services.
-- Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback.
-- GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed.
-- A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence.
+A credible framework includes cumulative basin/corridor assessment; hazard and risk zonation at appropriate scales; carrying-capacity and no-build/conditional-build decisions; geotechnical design; drainage and spoil control; environmental-flow and sediment considerations; lake and slope monitoring; alternative access; project emergency-action plans integrated with district plans; transparent warning and community drills; independent audits and lifecycle maintenance.
 
-**Qualified conclusion:** **Claim:** Landslide. **Named evidence/example:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Avalanche. **Named evidence/example:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cascading risk. **Named evidence/example:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DGRE role. **Named evidence/example:** DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NRSC-ISRO role. **Named evidence/example:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Glacial-lake monitoring. **Named evidence/example:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and land use. **Named evidence/example:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional coordination. **Named evidence/example:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Equity matters: blanket restrictions can burden remote communities whose employment and access depend on the same projects. Participation, compensation, alternative livelihoods and safe service provision must accompany controls.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Design a coordinated Himalayan landslide-avalanche-GLOF governance framework under…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Development becomes resilience-enhancing when it lowers net exposure and maintains redundancy; it becomes risk creation when immediate outputs externalise slope, cryosphere and downstream consequences.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It presents both sides, traces mechanisms and cascades, avoids unsupported attribution and proposes a governance test.
 
-**Introduction and thesis:** **Claim:** Landslide. **Named evidence/example:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Avalanche. **Named evidence/example:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cascading risk. **Named evidence/example:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DGRE role. **Named evidence/example:** DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NRSC-ISRO role. **Named evidence/example:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Glacial-lake monitoring. **Named evidence/example:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and land use. **Named evidence/example:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional coordination. **Named evidence/example:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+---
 
-**Analytical body:**
+### ORIGINAL 6 — 20 marks, 300 words
 
-1. **Claim:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-9. **Claim:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-10. **Claim:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-11. **Claim:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-12. **Claim:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-13. **Claim:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Question:** Design an accountable multi-hazard early-warning and recovery framework for landslide, avalanche and GLOF-prone Himalayan districts.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Model answer (about 290 words):**
 
-**Qualified conclusion:** **Claim:** Landslide. **Named evidence/example:** A landslide is gravity-driven downslope movement of rock, debris or earth; the movement class and material should be identified before assigning triggers or measures. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Avalanche. **Named evidence/example:** An avalanche is rapid downslope movement of snow, ice and entrained material produced by snowpack instability, slope and weather conditions; it is not a landslide label for every mountain failure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GLOF. **Named evidence/example:** A Glacial Lake Outburst Flood is the sudden release of impounded glacial-lake water after failure, overtopping or displacement affecting a natural dam, producing a downstream flood rather than a snow avalanche. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cascading risk. **Named evidence/example:** Earthquake or rain can trigger landslides that block rivers; lake or blockage failure can then generate flooding, while cloudburst, debris flow and slope failure may occur in one compound mountain emergency. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** GSI role. **Named evidence/example:** GSI owns national landslide susceptibility, inventory, hazard/risk research and forecasting-development functions; its Bhusanket material distinguishes mapping and experimental warning work. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DGRE role. **Named evidence/example:** DGRE under DRDO is the hazard-specific institutional anchor for snow and avalanche observation, assessment and warnings; its bulletin is not a GSI landslide forecast. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NRSC-ISRO role. **Named evidence/example:** NRSC and ISRO provide Earth-observation inventories and mapping support for landslides and glacial or water-body monitoring; an image or atlas is decision support, not proof of safe slopes or warned communities. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Glacial-lake monitoring. **Named evidence/example:** Glacial-lake risk screening requires repeated remote sensing, lake and dam-character assessment, upstream slope or ice-change observation, field validation where feasible and downstream exposure mapping. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Zoning and land use. **Named evidence/example:** Susceptibility or hazard zonation should guide avoidance, conditional development, route alignment, settlement expansion, drainage, site investigation and evacuation planning rather than merely decorate a plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Route and settlement planning. **Named evidence/example:** Mountain roads and settlements need risk-sensitive alignment and siting, spoil and drainage control, safe stoppage or closure protocols, alternative access, assembly areas and protection of critical services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning and evacuation. **Named evidence/example:** Effective warning connects monitoring and forecast uncertainty to authorised messages, route closure or evacuation triggers, accessible communication, safe destinations, drills and feedback. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Institutional coordination. **Named evidence/example:** GSI, DGRE, NDMA, CWC, NRSC/ISRO, State and district authorities, road agencies, hydropower operators and local communities hold different information and action roles that must be pre-agreed. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Technology-outcome firewall. **Named evidence/example:** A susceptibility map, satellite image, sensor, bulletin, portal, protective structure or programme proves a capability or input; prediction skill, message receipt, evacuation, route safety and reduced loss require separate dated evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+The three hazards share mountain space but require different observations: geology and rainfall for landslides, snowpack and weather for avalanches, and lake–dam–slope conditions for GLOFs. An accountable framework must integrate decisions without merging the science.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Risk base:** GSI-supported inventories and susceptibility/hazard studies should be combined with DGRE avalanche path/runout information, ISRO/NRSC lake change detection, field surveys and district exposure/vulnerability maps. Critical routes, hospitals, schools, hydropower facilities, tourist concentrations and remote settlements need scenario-based cascade mapping.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Forecast-to-action:** GSI/NLFC, IMD and DGRE information and site-specific GLOF instruments should feed a district control room through defined thresholds. Each threshold must identify the authorised decision—watch, traffic restriction, closure, evacuation or all-clear. Messages need redundancy, local languages and accessible formats; shelters and routes must be physically reachable and drilled.
 
-**How to improve this answer:** For ‘Design a coordinated Himalayan landslide-avalanche-GLOF governance framework under…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Response:** Incident command should unify administration, police, health, road agencies, response forces, project operators and communities. Responder safety requires secondary-hazard surveillance, exclusion zones, alternate access, triage and verified public information.
+
+**Recovery:** Before reopening or rebuilding, reassess slopes, snow paths, blocked rivers and lake/downstream conditions. Restore essential services and livelihoods, but relocate or redesign repeatedly exposed assets, repair drainage, manage debris and update maps/thresholds from the event.
+
+**Accountability:** publish dated forecast status; record lead time, false alarms and misses; test message receipt and evacuation; audit maintenance, fund release/expenditure and inclusion; measure safe restoration, recurrence and avoidable loss rather than sensors or bulletins alone.
+
+Limits remain: sparse high-altitude data, communication failure, short lead time, uncertain thresholds and livelihood costs of closures. Redundancy, local judgement and transparent uncertainty—not claims of perfect prediction—make the system credible.
+
+**Why this earns marks:** It assigns hazard-specific institutions, completes the warning chain, integrates response/recovery and defines outcome metrics.

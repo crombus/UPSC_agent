@@ -1,1148 +1,879 @@
 ---
-title: "Cyclones, Storm Surge and Coastal Preparedness — Solved Practice Workbook"
+title: "Disaster Management 07 — Cyclones, Storm Surge and Coastal Preparedness — Solved Practice Workbook"
 topic_key: disaster-management-07
+reviewed: 2026-09-26
 ---
+
 # Cyclones, Storm Surge and Coastal Preparedness — Solved Practice Workbook
+
+## PYQ AND PRACTICE AUDIT
+
+- **Original MCQs:** exactly 40.
+- **Correct-option sequence:** `ABCD` repeated ten times; ten answers per option.
+- **Cue audit:** four parallel options and four question-specific explanations per MCQ; no answer depends on length, qualifier, grammar, filler or formatting.
+- **Coverage:** cyclogenesis, hazard components, storm surge, IMD classification, warning stages, colour codes, institutions, warning delivery, evacuation, shelters, NCRMP, infrastructure, ecosystems, livelihoods, response, recovery and accountability.
+- **Direct PYQ:** 2022 GS-I Q5.
+- **Shared/application PYQs:** 2024 GS-I Q4, 2026 GS-I Q4, 2020 Prelims GS-I Q99 and 2024 GS-III Q17.
+- **Boundary note:** 2024 GS-III Q18 is owned by Topic 08; cyclone rain/surge may be used only as a causal bridge.
+- **Evidence rule:** local official-paper OCR controls wording. The 2020 official question is complete, but no official local key exists; its educational answer is labelled inferred.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Compound cyclone hazard?
+### Q1. Which set contains the six canonical conditions for tropical cyclogenesis?
 
-A. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-B. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-C. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-D. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
+A. Warm sea, instability, moist mid-levels, Coriolis, disturbance and low vertical shear.
+B. Cold sea, stable air, dry mid-levels, Coriolis, disturbance and high vertical shear.
+C. Warm land, stable air, dry upper levels, weak pressure gradient and high shear.
+D. Cold current, surface inversion, no disturbance, high shear and strong subsidence.
 
-**Answer: A.**
-**Explanation:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q2. Which option preserves the risk or institutional boundary of Compound cyclone hazard?
+- **A — Correct.** It reproduces the six conditions in the canonical owner.
+- **B — Incorrect.** Four conditions are reversed.
+- **C — Incorrect.** Warm land and stable, dry air do not form the listed set.
+- **D — Incorrect.** This environment suppresses organised tropical convection.
 
-A. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-B. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-C. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-D. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
+**Examiner trap:** Warm water is necessary but not sufficient.
 
-**Answer: B.**
-**Explanation:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q2. Which statement correctly distinguishes the eye from the eyewall?
 
-### Q3. Which statement uses Compound cyclone hazard without changing its hazard, mandate or status?
+A. The eye contains peak winds while the eyewall is calm and cloud-free.
+B. The eye is relatively calm while the eyewall contains the strongest winds and convection.
+C. Both zones have equal wind because they share the same central pressure.
+D. The eyewall forms outside the cyclone circulation and carries no rain.
 
-A. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-B. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-C. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-D. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** It reverses the two zones.
+- **B — Correct.** The strongest wind and convection surround the calmer eye.
+- **C — Incorrect.** Their wind and weather conditions differ sharply.
+- **D — Incorrect.** The eyewall is a central part of the cyclone.
 
-### Q4. Which option avoids the standard UPSC close-option trap about Compound cyclone hazard?
+**Examiner trap:** The pressure centre is not the strongest-wind belt.
 
-A. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-B. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-C. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-D. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
+### Q3. What is storm surge?
 
-**Answer: D.**
-**Explanation:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. The predicted astronomical tide at cyclone landfall.
+B. The short wind waves generated over the open sea.
+C. An abnormal sea-level rise driven mainly by cyclone wind and low pressure.
+D. A displacement wave generated by seabed rupture or submarine landslide.
 
-### Q5. Which statement correctly identifies Cyclogenesis boundary?
+**Answer: C**
 
-A. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-B. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-C. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-D. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
+- **A — Incorrect.** Tide is the astronomical baseline.
+- **B — Incorrect.** Wind waves are distinct from the mean water-level anomaly.
+- **C — Correct.** It identifies the meteorological drivers of surge.
+- **D — Incorrect.** This describes tsunami generation.
 
-**Answer: A.**
-**Explanation:** Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Surge is neither the tide nor a tsunami.
 
-### Q6. Which option preserves the risk or institutional boundary of Cyclogenesis boundary?
+### Q4. Which expression best represents storm tide?
 
-A. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-B. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-C. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-D. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
+A. Cyclone wind speed minus central pressure.
+B. Significant wave height plus rainfall intensity.
+C. Tsunami run-up plus coastal elevation.
+D. Astronomical tide plus storm-surge anomaly.
 
-**Answer: B.**
-**Explanation:** Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q7. Which statement uses Cyclogenesis boundary without changing its hazard, mandate or status?
+- **A — Incorrect.** These influence surge but do not define storm tide.
+- **B — Incorrect.** Waves and rainfall are separate hazards.
+- **C — Incorrect.** Tsunami run-up is unrelated to the term.
+- **D — Correct.** Storm tide combines predicted tide with surge.
 
-A. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-B. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-C. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-D. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
+**Examiner trap:** Timing landfall near high tide can raise total coastal water level.
 
-**Answer: C.**
-**Explanation:** Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q5. Which combination best represents compound cyclone risk?
 
-### Q8. Which option avoids the standard UPSC close-option trap about Cyclogenesis boundary?
+A. Wind, surge, waves, intense rain, flooding and lifeline disruption.
+B. Wind speed, storm name, bulletin number and media coverage.
+C. Tide, tsunami, drought, earthquake and volcanic ash.
+D. Rainfall, crop price, air quality and seismic aftershock.
 
-A. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-B. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-C. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-D. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Correct.** These are linked cyclone impact pathways.
+- **B — Incorrect.** Administrative labels do not constitute the hazard set.
+- **C — Incorrect.** It mixes unrelated hazard origins.
+- **D — Incorrect.** Several elements are outside cyclone risk.
 
-### Q9. Which statement correctly identifies Wind hazard?
+**Examiner trap:** A wind-only answer misses most coastal and inland losses.
 
-A. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-B. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-C. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-D. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
+### Q6. Why does cyclone risk continue after coastal landfall?
 
-**Answer: A.**
-**Explanation:** Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Storm surge develops after the system reaches an inland plateau.
+B. Rain, river flooding, landslides and service failures may continue inland.
+C. IMD stops forecasting once the centre crosses the coast.
+D. Wind and rain cease together at the shoreline.
 
-### Q10. Which option preserves the risk or institutional boundary of Wind hazard?
+**Answer: B**
 
-A. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-B. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-C. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-D. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
+- **A — Incorrect.** Surge is a coastal phenomenon linked to approach and landfall.
+- **B — Correct.** Post-landfall hazards can extend far inland.
+- **C — Incorrect.** Post-Landfall Outlook addresses continuing impacts.
+- **D — Incorrect.** Hazard components decay at different rates.
 
-**Answer: B.**
-**Explanation:** Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Landfall is a transition point, not the end of the emergency.
 
-### Q11. Which statement uses Wind hazard without changing its hazard, mandate or status?
+### Q7. Under IMD's North Indian Ocean classification, when does a system become a Cyclonic Storm?
 
-A. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-B. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-C. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-D. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
+A. At 17 kt maximum sustained wind.
+B. At 28 kt maximum sustained wind.
+C. At 34 kt maximum sustained wind.
+D. At 64 kt maximum sustained wind.
 
-**Answer: C.**
-**Explanation:** Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q12. Which option avoids the standard UPSC close-option trap about Wind hazard?
+- **A — Incorrect.** This begins the Depression range.
+- **B — Incorrect.** This begins the Deep Depression range.
+- **C — Correct.** Cyclonic Storm begins at 34 kt.
+- **D — Incorrect.** This begins the Very Severe Cyclonic Storm range.
 
-A. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-B. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-C. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-D. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
+**Examiner trap:** Do not place the naming threshold at Depression or Very Severe Cyclonic Storm.
 
-**Answer: D.**
-**Explanation:** Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q8. Which system is named under the IMD North Indian Ocean convention?
 
-### Q13. Which statement correctly identifies Rainfall hazard?
+A. A Depression below the Cyclonic Storm threshold.
+B. A Deep Depression below the Cyclonic Storm threshold.
+C. A low-pressure area before Depression classification.
+D. A system that reaches Cyclonic Storm intensity.
 
-A. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-B. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-C. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-D. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Depression remains below the naming threshold.
+- **B — Incorrect.** Deep Depression also remains below it.
+- **C — Incorrect.** A low-pressure area is earlier in the sequence.
+- **D — Correct.** Naming begins at Cyclonic Storm.
 
-### Q14. Which option preserves the risk or institutional boundary of Rainfall hazard?
+**Examiner trap:** Unnamed depressions can still produce serious flooding.
 
-A. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-B. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-C. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-D. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
+### Q9. Which is the correct IMD lead-time sequence?
 
-**Answer: B.**
-**Explanation:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Pre-Cyclone Watch 72 h → Alert 48 h → Warning 24 h → Post-Landfall Outlook 12 h.
+B. Cyclone Alert 72 h → Watch 48 h → Outlook 24 h → Warning 12 h.
+C. Green 72 h → Yellow 48 h → Orange 24 h → Red 12 h.
+D. Depression 72 h → Deep Depression 48 h → Severe Cyclone 24 h → Landfall 12 h.
 
-### Q15. Which statement uses Rainfall hazard without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-B. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-C. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-D. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
+- **A — Correct.** It gives the four bulletin stages and minimum leads.
+- **B — Incorrect.** The stage order is wrong.
+- **C — Incorrect.** Colours express action level, not fixed lead time.
+- **D — Incorrect.** Intensity categories are not bulletin stages.
 
-**Answer: C.**
-**Explanation:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Lead-time stages and colour codes are separate warning languages.
 
-### Q16. Which option avoids the standard UPSC close-option trap about Rainfall hazard?
+### Q10. Which sequence gives IMD's colour/action code?
 
-A. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-B. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-C. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-D. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
+A. Green—prepare; Yellow—act; Orange—update; Red—no warning.
+B. Green—no warning; Yellow—be updated; Orange—be prepared; Red—take action.
+C. Green—watch; Yellow—landfall; Orange—recovery; Red—all-clear.
+D. Green—depression; Yellow—cyclonic storm; Orange—severe; Red—super.
 
-**Answer: D.**
-**Explanation:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q17. Which statement correctly identifies Storm surge?
+- **A — Incorrect.** The action meanings are rearranged.
+- **B — Correct.** This is the official action progression.
+- **C — Incorrect.** These are not colour-code meanings.
+- **D — Incorrect.** Wind classes do not map to the four colours.
 
-A. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-B. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-C. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-D. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
+**Examiner trap:** A colour is an action signal, not an intensity class.
 
-**Answer: A.**
-**Explanation:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q11. Which statement correctly relates bulletin stage and colour code?
 
-### Q18. Which option preserves the risk or institutional boundary of Storm surge?
+A. Bulletin timing directly sets the colour used for that district.
+B. The colour replaces track, rainfall and surge information in a bulletin.
+C. Stage expresses forecast timing; colour expresses action urgency.
+D. Stage is coastal-facing while colour starts after landfall.
 
-A. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-B. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-C. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-D. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Hazard and local impact determine warnings.
+- **B — Incorrect.** Colour summarises urgency; it does not replace content.
+- **C — Correct.** The two systems answer different operational questions.
+- **D — Incorrect.** Colours can apply before landfall.
 
-### Q19. Which statement uses Storm surge without changing its hazard, mandate or status?
+**Examiner trap:** Do not convert 72/48/24/12 hours into Green/Yellow/Orange/Red.
 
-A. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-B. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-C. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-D. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
+### Q12. How should a Red warning be interpreted?
 
-**Answer: C.**
-**Explanation:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. The observed maximum impact has already occurred.
+B. Locations within the warning area will receive equal damage.
+C. Forecast uncertainty has ended and revision is no longer possible.
+D. Severe weather is expected and protective action should be taken.
 
-### Q20. Which option avoids the standard UPSC close-option trap about Storm surge?
+**Answer: D**
 
-A. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-B. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-C. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-D. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
+- **A — Incorrect.** A warning can precede impact.
+- **B — Incorrect.** Local exposure and hazard intensity vary.
+- **C — Incorrect.** Forecasts can update with new observations.
+- **D — Correct.** Red communicates the required action under serious risk.
 
-**Answer: D.**
-**Explanation:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Action-worthy forecast probability is not a guarantee of realised damage.
 
-### Q21. Which statement correctly identifies Surge tide tsunami firewall?
+### Q13. Which set lists the three Area Cyclone Warning Centres in the canonical owner?
 
-A. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-B. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-C. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-D. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
+A. Kolkata, Chennai and Mumbai.
+B. Bhubaneswar, Visakhapatnam and Ahmedabad.
+C. New Delhi, Pune and Nagpur.
+D. Kochi, Panaji and Port Blair.
 
-**Answer: A.**
-**Explanation:** Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q22. Which option preserves the risk or institutional boundary of Surge tide tsunami firewall?
+- **A — Correct.** These are the three ACWCs listed.
+- **B — Incorrect.** These are the three CWCs listed.
+- **C — Incorrect.** This is not the canonical ACWC set.
+- **D — Incorrect.** This is not the canonical ACWC set.
 
-A. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-B. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-C. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-D. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
+**Examiner trap:** Keep ACWC and CWC city lists separate.
 
-**Answer: B.**
-**Explanation:** Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q14. Which centre-city pairing is correct in the canonical IMD network?
 
-### Q23. Which statement uses Surge tide tsunami firewall without changing its hazard, mandate or status?
+A. CWC — Kolkata.
+B. CWC — Bhubaneswar.
+C. ACWC — Ahmedabad.
+D. ACWC — Visakhapatnam.
 
-A. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-B. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-C. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-D. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Kolkata is an ACWC.
+- **B — Correct.** Bhubaneswar is a CWC.
+- **C — Incorrect.** Ahmedabad is a CWC.
+- **D — Incorrect.** Visakhapatnam is a CWC.
 
-### Q24. Which option avoids the standard UPSC close-option trap about Surge tide tsunami firewall?
+**Examiner trap:** Similar names do not imply interchangeable centres.
 
-A. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-B. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-C. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-D. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
+### Q15. Which institutional division is most accurate?
 
-**Answer: D.**
-**Explanation:** Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. District authorities forecast track; IMD manages shelter occupancy.
+B. NDRF issues colour codes; IMD declares local evacuation complete.
+C. IMD forecasts and warns; civil authorities order evacuation and operate shelters.
+D. NCRMP forecasts cyclones; ports determine national colour codes.
 
-### Q25. Which statement correctly identifies IMD classification?
+**Answer: C**
 
-A. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-B. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-C. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-D. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
+- **A — Incorrect.** Forecasting belongs to IMD; districts manage local action.
+- **B — Incorrect.** NDRF responds; it does not issue IMD colour codes.
+- **C — Correct.** It preserves scientific and protective mandates.
+- **D — Incorrect.** NCRMP was a mitigation project, not a forecast agency.
 
-**Answer: A.**
-**Explanation:** IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Forecast authority and evacuation authority are connected but distinct.
 
-### Q26. Which option preserves the risk or institutional boundary of IMD classification?
+### Q16. Which sequence best represents an end-to-end cyclone warning?
 
-A. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-B. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-C. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-D. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
+A. Shelter opens → forecast begins → radar observes → district receives.
+B. District evacuates → colour assigned → cyclone classified → satellite observes.
+C. Media reports damage → IMD predicts track → port closes → warning is issued.
+D. Observe → forecast impacts → warn → deliver → evacuate/shelter → verify outcome.
 
-**Answer: B.**
-**Explanation:** IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q27. Which statement uses IMD classification without changing its hazard, mandate or status?
+- **A — Incorrect.** Observation and forecast precede shelter activation.
+- **B — Incorrect.** The sequence reverses technical and protective stages.
+- **C — Incorrect.** Damage reporting is not the start of early warning.
+- **D — Correct.** It traces science through action and outcome.
 
-A. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-B. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-C. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-D. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
+**Examiner trap:** A transmitted bulletin is an intermediate stage, not the end point.
 
-**Answer: C.**
-**Explanation:** IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q17. What is the principal warning value of Doppler Weather Radar near a cyclone-prone coast?
 
-### Q28. Which option avoids the standard UPSC close-option trap about IMD classification?
+A. It improves near-landfall observation of storm structure, rain and wind.
+B. It sets CRZ categories and authorises coastal construction.
+C. It measures household comprehension of evacuation messages.
+D. It maintains cyclone shelters and cattle mounds.
 
-A. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-B. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-C. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-D. IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Correct.** Radar strengthens near-coast meteorological observation.
+- **B — Incorrect.** CRZ regulation is a separate legal function.
+- **C — Incorrect.** Comprehension needs social and field evidence.
+- **D — Incorrect.** Shelter maintenance belongs to implementing authorities.
 
-### Q29. Which statement correctly identifies Forecast and warning?
+**Examiner trap:** Better observation improves forecasts but does not perform local evacuation.
 
-A. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-B. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-C. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-D. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
+### Q18. What makes an impact-based cyclone warning more actionable than a track-only message?
 
-**Answer: A.**
-**Explanation:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. It omits uncertainty and presents one landfall point as certain.
+B. It translates wind, rain, surge and waves into place-specific consequences and actions.
+C. It reports cyclone name without identifying exposed people or services.
+D. It substitutes one colour for hazard and location detail.
 
-### Q30. Which option preserves the risk or institutional boundary of Forecast and warning?
+**Answer: B**
 
-A. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-B. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-C. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-D. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
+- **A — Incorrect.** Uncertainty should be communicated, not suppressed.
+- **B — Correct.** Consequence and action information supports decisions.
+- **C — Incorrect.** Naming does not describe impact.
+- **D — Incorrect.** Colour complements rather than replaces detail.
 
-**Answer: B.**
-**Explanation:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Track accuracy matters, but people act on expected local consequences.
 
-### Q31. Which statement uses Forecast and warning without changing its hazard, mandate or status?
+### Q19. A district receives an accurate warning, yet many residents do not use shelters. What is the primary diagnosis?
 
-A. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-B. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-C. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-D. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
+A. Cyclogenesis failed because the storm still made landfall.
+B. Wind classification failed because damage occurred inland.
+C. Warning-to-action conversion failed despite technical forecast capability.
+D. Storm surge became a tsunami during coastal inundation.
 
-**Answer: C.**
-**Explanation:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q32. Which option avoids the standard UPSC close-option trap about Forecast and warning?
+- **A — Incorrect.** Cyclogenesis describes formation, not response.
+- **B — Incorrect.** Classification does not ensure evacuation.
+- **C — Correct.** The failure lies between receipt and protective behaviour.
+- **D — Incorrect.** The two hazards retain different mechanisms.
 
-A. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-B. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-C. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-D. IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
+**Examiner trap:** Do not answer a social and institutional failure with more detection technology alone.
 
-**Answer: D.**
-**Explanation:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q20. Which evacuation plan is most inclusive?
 
-### Q33. Which statement correctly identifies Action codes and bulletin stages?
+A. One written notice for permanent residents who can walk unaided.
+B. A shelter list without transport, livestock or route arrangements.
+C. A general district message without surge and flood-zone differentiation.
+D. Multilingual alerts, assisted transport, livestock planning, accessible shelters and accountability.
 
-A. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-B. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-C. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-D. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** It excludes many exposed groups.
+- **B — Incorrect.** A list does not make movement feasible.
+- **C — Incorrect.** Different hazards and zones require tailored action.
+- **D — Correct.** It connects communication, movement, dignity and accounting.
 
-### Q34. Which option preserves the risk or institutional boundary of Action codes and bulletin stages?
+**Examiner trap:** Formal equality in one message can conceal unequal ability to evacuate.
 
-A. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-B. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-C. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-D. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
+### Q21. Which package turns a cyclone shelter into a functional preparedness asset?
 
-**Answer: B.**
-**Explanation:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Safe siting, resilient design, all-weather access, services, management and drills.
+B. A completed building, irrespective of access, utilities or occupancy planning.
+C. A seasonal warning poster displayed at the district headquarters.
+D. A construction sanction without inspection or maintenance provision.
 
-### Q35. Which statement uses Action codes and bulletin stages without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-B. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-C. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-D. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
+- **A — Correct.** It treats shelter as structure, access and operation.
+- **B — Incorrect.** A building alone may be unusable.
+- **C — Incorrect.** A poster cannot replace local shelter readiness.
+- **D — Incorrect.** Sanction is not completed, maintained capacity.
 
-**Answer: C.**
-**Explanation:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Shelter count is not shelter performance.
 
-### Q36. Which option avoids the standard UPSC close-option trap about Action codes and bulletin stages?
+### Q22. Why are cattle mounds relevant to cyclone evacuation?
 
-A. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-B. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-C. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-D. Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
+A. They forecast surge through livestock movement.
+B. They reduce resistance to evacuation by protecting animals and livelihood assets.
+C. They replace human shelters in densely populated coastal settlements.
+D. They serve as coastal drainage embankments across the district.
 
-**Answer: D.**
-**Explanation:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q37. Which statement correctly identifies Evacuation decision?
+- **A — Incorrect.** Animal movement is not a surge forecast.
+- **B — Correct.** Livestock safety affects household willingness to leave.
+- **C — Incorrect.** Human and animal protection have distinct requirements.
+- **D — Incorrect.** Cattle mounds are not universal drainage structures.
 
-A. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-B. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-C. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-D. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
+**Examiner trap:** Evacuation decisions reflect livelihood and animal-security concerns.
 
-**Answer: A.**
-**Explanation:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q23. An evacuation road was built under a mitigation project but floods before shelter movement begins. What failed?
 
-### Q38. Which option preserves the risk or institutional boundary of Evacuation decision?
+A. Cyclone naming, because the road was designed before the storm received a name.
+B. Colour coding, because a Red warning should prevent road inundation.
+C. Route resilience and maintenance, which must be tested under the expected hazard.
+D. Regional classification, because Category I assets cannot face flooding.
 
-A. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-B. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-C. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-D. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Naming has no bearing on road performance.
+- **B — Incorrect.** A warning cannot physically protect a road.
+- **C — Correct.** Access is part of the shelter system.
+- **D — Incorrect.** Higher-risk classification does not prevent failure.
 
-### Q39. Which statement uses Evacuation decision without changing its hazard, mandate or status?
+**Examiner trap:** A shelter is ineffective when its route fails first.
 
-A. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-B. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-C. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-D. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
+### Q24. A hospital remains standing after landfall but loses power, water, oxygen and road access. What does this show?
 
-**Answer: C.**
-**Explanation:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Wind-resistant design also secures health-service continuity.
+B. Structural survival is sufficient for disaster-resilience classification.
+C. Hospital continuity can be postponed until general reconstruction.
+D. Lifeline resilience also requires utilities, access, staff and backup.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Evacuation decision?
+**Answer: D**
 
-A. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-B. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-C. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-D. Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
+- **A — Incorrect.** Structural strength cannot supply failed utilities.
+- **B — Incorrect.** Function is a separate resilience outcome.
+- **C — Incorrect.** Emergency health is needed during response.
+- **D — Correct.** This captures functional continuity.
 
-**Answer: D.**
-**Explanation:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Non-collapse is not the same as an operational lifeline.
 
-### Q41. Which statement correctly identifies Cyclone shelters?
+### Q25. Which set best reflects NCRMP's core mitigation logic?
 
-A. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-B. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-C. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-D. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
+A. Warning dissemination, shelters/access, coastal protection and local DRM capacity.
+B. Cyclone naming, international boundary surveys, port taxation and crop procurement.
+C. Weather forecasting, monetary relief, post-event census and tourism promotion.
+D. Seismic monitoring, tsunami buoys, drought insurance and forest-fire control.
 
-**Answer: A.**
-**Explanation:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q42. Which option preserves the risk or institutional boundary of Cyclone shelters?
+- **A — Correct.** These are the project's principal structural and non-structural elements.
+- **B — Incorrect.** These functions do not form NCRMP's mitigation package.
+- **C — Incorrect.** It omits the project's core infrastructure and capacity design.
+- **D — Incorrect.** It combines unrelated hazard programmes.
 
-A. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-B. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-C. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-D. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
+**Examiner trap:** NCRMP linked warning to evacuation and protection; it was not an IMD forecast project.
 
-**Answer: B.**
-**Explanation:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q26. What does NCRMP's Category I/Category II distinction signify?
 
-### Q43. Which statement uses Cyclone shelters without changing its hazard, mandate or status?
+A. Category I States face wind while Category II States face surge.
+B. Participating coasts were grouped by differentiated vulnerability and priority.
+C. Category II States were declared free of severe cyclone risk.
+D. Category I referred to completed assets and Category II to planned assets.
 
-A. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-B. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-C. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-D. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Both categories can face multiple cyclone hazards.
+- **B — Correct.** The classification supports differentiated prioritisation.
+- **C — Incorrect.** Lower relative vulnerability is not no risk.
+- **D — Incorrect.** The categories did not describe project completion.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Cyclone shelters?
+**Examiner trap:** Priority classification is not a binary safe/unsafe map.
 
-A. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-B. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-C. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-D. Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
+### Q27. Which statement gives the verified current status of NCRMP?
 
-**Answer: D.**
-**Explanation:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Phase I and Phase II remain open national programmes with annual expansion.
+B. Phase III replaced both earlier phases through an automatic extension.
+C. Phase I closed in December 2018 and Phase II closed in March 2023.
+D. The National Coastal Mission is the officially notified NCRMP successor.
 
-### Q45. Which statement correctly identifies Critical-service continuity?
+**Answer: C**
 
-A. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-B. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-C. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-D. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
+- **A — Incorrect.** MHA reports both phases closed.
+- **B — Incorrect.** No verified NCRMP-III was found.
+- **C — Correct.** These are the dated official completion points.
+- **D — Incorrect.** The separate mission should not be relabelled as successor.
 
-**Answer: A.**
-**Explanation:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Describe NCRMP as completed; discuss present assets through O&M.
 
-### Q46. Which option preserves the risk or institutional boundary of Critical-service continuity?
+### Q28. What is the central governance issue after a cyclone shelter project closes?
 
-A. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-B. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-C. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-D. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
+A. IMD assumes ownership of the shelters and evacuation roads.
+B. World Bank financing becomes a permanent local maintenance grant.
+C. Asset construction removes the need for drills and staffing.
+D. State and local systems must fund, inspect, staff and operate the assets.
 
-**Answer: B.**
-**Explanation:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q47. Which statement uses Critical-service continuity without changing its hazard, mandate or status?
+- **A — Incorrect.** IMD forecasts; it does not operate every shelter.
+- **B — Incorrect.** Project finance does not establish perpetual maintenance funding.
+- **C — Incorrect.** Operation remains necessary after construction.
+- **D — Correct.** This is the post-project hand-off risk.
 
-A. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-B. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-C. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-D. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
+**Examiner trap:** Project completion transfers responsibility; it does not complete resilience.
 
-**Answer: C.**
-**Explanation:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q29. Which use of a saline embankment is most defensible?
 
-### Q48. Which option avoids the standard UPSC close-option trap about Critical-service continuity?
+A. Reduce surge-driven saline ingress while maintaining drainage and inspection.
+B. Replace cyclone forecasts because the coast has a physical barrier.
+C. Block tidal exchange across wetlands without testing ecological effects.
+D. Certify settlements behind it as outside flood and erosion risk.
 
-A. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-B. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-C. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-D. Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Correct.** It states the function and maintenance/drainage conditions.
+- **B — Incorrect.** Barriers do not replace warning.
+- **C — Incorrect.** Obstructed drainage can transfer or worsen risk.
+- **D — Incorrect.** Overtopping, breach and rainfall flooding remain possible.
 
-### Q49. Which statement correctly identifies Resilient housing?
+**Examiner trap:** Embankment protection can create drainage and transferred-risk problems.
 
-A. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-B. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-C. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-D. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
+### Q30. How should mangroves and dunes be used in cyclone preparedness?
 
-**Answer: A.**
-**Explanation:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. As substitutes for shelters, evacuation and resilient utilities.
+B. As site-dependent buffers within a broader protection portfolio.
+C. As proof that storm surge will remain below a fixed height.
+D. As decorative plantations unrelated to livelihood or erosion.
 
-### Q50. Which option preserves the risk or institutional boundary of Resilient housing?
+**Answer: B**
 
-A. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-B. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-C. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-D. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
+- **A — Incorrect.** Residual risk requires other layers.
+- **B — Correct.** It states their value without making an absolute claim.
+- **C — Incorrect.** Buffer presence does not fix surge height.
+- **D — Incorrect.** They provide ecological and livelihood co-benefits.
 
-**Answer: B.**
-**Explanation:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Ecosystems attenuate some impacts; they do not cancel design hazards.
 
-### Q51. Which statement uses Resilient housing without changing its hazard, mandate or status?
+### Q31. Which port plan best addresses compound cyclone risk?
 
-A. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-B. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-C. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-D. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
+A. Maintain normal cargo handling until direct structural damage is observed.
+B. Close the port based on cyclone name without hazard-specific criteria.
+C. Plan vessel safety, shutdown, hazardous cargo, access, channels and reopening.
+D. Use the public shelter list as the port's complete continuity plan.
 
-**Answer: C.**
-**Explanation:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q52. Which option avoids the standard UPSC close-option trap about Resilient housing?
+- **A — Incorrect.** Delay can expose workers, vessels and hazardous cargo.
+- **B — Incorrect.** Decisions should use forecast impacts, not the name.
+- **C — Correct.** It covers protection, response and continuity.
+- **D — Incorrect.** Port systems require specialised procedures.
 
-A. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-B. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-C. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-D. Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
+**Examiner trap:** Port closure and reopening are risk decisions, not ceremonial responses to naming.
 
-**Answer: D.**
-**Explanation:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q32. Which communication arrangement best protects fishers?
 
-### Q53. Which statement correctly identifies Coastal ecosystems?
+A. A land-based warning sent after vessels have lost contact.
+B. A district notice that omits harbour and at-sea instructions.
+C. A forecast shared with markets but not boats or landing centres.
+D. Redundant at-sea alerts, recall guidance, harbour action and livelihood recovery.
 
-A. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-B. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-C. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-D. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** It may arrive too late for those offshore.
+- **B — Incorrect.** Fishers need sector-specific instructions.
+- **C — Incorrect.** The exposed vessels remain outside the communication chain.
+- **D — Correct.** It connects warning, movement, harbour safety and recovery.
 
-### Q54. Which option preserves the risk or institutional boundary of Coastal ecosystems?
+**Examiner trap:** Coastal residents and people at sea require different delivery routes.
 
-A. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-B. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-C. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-D. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
+### Q33. What is the safest use of Cyclone Remal (May 2024) in an answer?
 
-**Answer: B.**
-**Explanation:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. As a dated case linking IMD forecast to evacuation and response readiness.
+B. As proof that later cyclones will produce no maritime losses.
+C. As evidence that storm surge no longer threatens the Bay of Bengal.
+D. As confirmation of maintained shelter conditions across the coast.
 
-### Q55. Which statement uses Coastal ecosystems without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-B. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-C. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-D. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
+- **A — Correct.** The official material supports the preparedness-process link.
+- **B — Incorrect.** One event cannot establish a future universal outcome.
+- **C — Incorrect.** The case does not remove surge risk.
+- **D — Incorrect.** Event readiness does not audit every shelter.
 
-**Answer: C.**
-**Explanation:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Use a case for the process it documents, not an unsupported national outcome.
 
-### Q56. Which option avoids the standard UPSC close-option trap about Coastal ecosystems?
+### Q34. Which sequence best represents a cyclone-to-flood cascade?
 
-A. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-B. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-C. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-D. Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
+A. Coastal erosion → earthquake → tsunami → river drought.
+B. Cyclone rain/surge → drainage or river overload → inundation → service failure.
+C. Heatwave → snow avalanche → storm tide → port closure.
+D. Seismic rupture → wind shear → monsoon break → urban flood.
 
-**Answer: D.**
-**Explanation:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q57. Which statement correctly identifies NCRMP status?
+- **A — Incorrect.** It joins unrelated causal mechanisms.
+- **B — Correct.** This is the relevant hydro-meteorological cascade.
+- **C — Incorrect.** The sequence lacks a defensible causal chain.
+- **D — Incorrect.** Seismic rupture does not produce cyclone wind shear.
 
-A. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-B. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-C. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-D. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
+**Examiner trap:** Cyclone risk should connect to riverine and urban flooding without relabelling them as surge.
 
-**Answer: A.**
-**Explanation:** The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q35. How should Aircraft Probing of Cyclone be described from the canonical evidence?
 
-### Q58. Which option preserves the risk or institutional boundary of NCRMP status?
+A. A completed nationwide operational fleet with verified current coverage.
+B. A private-airline service used to issue IMD colour codes.
+C. A recommended capability for observing the cyclone core, requiring current-status verification.
+D. A satellite method that excludes aircraft observations.
 
-A. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-B. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-C. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-D. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
+**Answer: C**
 
-**Answer: B.**
-**Explanation:** The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** The source does not establish nationwide deployment.
+- **B — Incorrect.** The recommendation concerns meteorological observation.
+- **C — Correct.** It preserves recommendation-versus-operation status.
+- **D — Incorrect.** The named capability is aircraft probing.
 
-### Q59. Which statement uses NCRMP status without changing its hazard, mandate or status?
+**Examiner trap:** A guideline recommendation is not proof of operational deployment.
 
-A. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-B. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-C. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-D. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
+### Q36. Why does network integration matter in cyclone warning?
 
-**Answer: C.**
-**Explanation:** The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. It allows each agency to issue incompatible messages independently.
+B. It removes the need for local authorities and community feedback.
+C. It converts a forecast into a certain impact prediction.
+D. It joins observations, communications and decision systems across agencies.
 
-### Q60. Which option avoids the standard UPSC close-option trap about NCRMP status?
+**Answer: D**
 
-A. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-B. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-C. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-D. The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
+- **A — Incorrect.** Fragmentation creates conflicting information.
+- **B — Incorrect.** Integration must reach local action.
+- **C — Incorrect.** Coordination cannot remove forecast uncertainty.
+- **D — Correct.** Interoperability reduces breaks in the warning chain.
 
-**Answer: D.**
-**Explanation:** The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** More networks do not improve resilience if they cannot exchange and act on information.
 
-### Q61. Which statement correctly identifies Differentiated coastal risk?
+### Q37. Which financing statement about cyclone resilience is most defensible?
 
-A. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-B. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-C. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-D. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
+A. Completed assets need recurring State/local operation and maintenance budgets.
+B. NCRMP completion establishes a permanent central maintenance grant.
+C. Multilateral project finance proves participating assets remain functional.
+D. Response-fund expenditure is equivalent to ex-ante resilience investment.
 
-**Answer: A.**
-**Explanation:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q62. Which option preserves the risk or institutional boundary of Differentiated coastal risk?
+- **A — Correct.** Post-project functionality requires recurring resources.
+- **B — Incorrect.** No such permanent grant is established.
+- **C — Incorrect.** Funding and construction do not prove current condition.
+- **D — Incorrect.** Relief finance and mitigation investment are distinct.
 
-A. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-B. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-C. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-D. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
+**Examiner trap:** Track asset life-cycle costs after the capital project closes.
 
-**Answer: B.**
-**Explanation:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q38. Which indicator best demonstrates cyclone-warning performance?
 
-### Q63. Which statement uses Differentiated coastal risk without changing its hazard, mandate or status?
+A. The number of bulletins issued during the season.
+B. Timely receipt, comprehension, evacuation and safe sheltering of exposed people.
+C. The number of agencies copied on the forecast email.
+D. The length of the technical cyclone report.
 
-A. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-B. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-C. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-D. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Bulletin count is an activity measure.
+- **B — Correct.** It follows the chain to protective behaviour.
+- **C — Incorrect.** Distribution breadth does not prove local action.
+- **D — Incorrect.** Report length is unrelated to safety.
 
-### Q64. Which option avoids the standard UPSC close-option trap about Differentiated coastal risk?
+**Examiner trap:** Evaluate outcomes, not communication volume.
 
-A. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-B. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-C. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-D. Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
+### Q39. A cyclone has moderate wind but extreme rain and surge exposure. Which preparedness choice is sound?
 
-**Answer: D.**
-**Explanation:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Base evacuation on wind category without the other impacts.
+B. Ignore surge because the system is not a Super Cyclonic Storm.
+C. Use impact forecasts for surge, rain, flood and local vulnerability together.
+D. Delay action until hazard components reach a common severity.
 
-### Q65. Which statement correctly identifies Livelihood preparedness?
+**Answer: C**
 
-A. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-B. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-C. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-D. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
+- **A — Incorrect.** Wind does not represent the other hazards.
+- **B — Incorrect.** Serious surge can occur below the highest wind class.
+- **C — Correct.** Compound risk requires component-specific assessment.
+- **D — Incorrect.** Hazard components need not peak together.
 
-**Answer: A.**
-**Explanation:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** Intensity category is not a complete impact forecast.
 
-### Q66. Which option preserves the risk or institutional boundary of Livelihood preparedness?
+### Q40. Which reform most completely strengthens coastal cyclone resilience?
 
-A. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-B. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-C. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-D. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
+A. Increase forecast resolution while leaving shelters and routes unmaintained.
+B. Build embankments while excluding rainfall drainage and ecosystem effects.
+C. Expand shelter numbers without access, staffing or inclusive services.
+D. Integrate forecasts, local action, maintained assets, lifelines, ecosystems and recovery.
 
-**Answer: B.**
-**Explanation:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q67. Which statement uses Livelihood preparedness without changing its hazard, mandate or status?
+- **A — Incorrect.** Science cannot compensate for unusable protection.
+- **B — Incorrect.** Single-hazard engineering can transfer risk.
+- **C — Incorrect.** Shelter count does not prove functionality.
+- **D — Correct.** This is the end-to-end resilience approach.
 
-A. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-B. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-C. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-D. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-
-**Answer: C.**
-**Explanation:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Livelihood preparedness?
-
-A. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-B. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-C. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-D. Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-
-**Answer: D.**
-**Explanation:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q69. Which statement correctly identifies Last-mile preparedness?
-
-A. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-B. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-C. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-D. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-
-**Answer: A.**
-**Explanation:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q70. Which option preserves the risk or institutional boundary of Last-mile preparedness?
-
-A. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-B. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-C. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-D. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-
-**Answer: B.**
-**Explanation:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q71. Which statement uses Last-mile preparedness without changing its hazard, mandate or status?
-
-A. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-B. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-C. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-D. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-
-**Answer: C.**
-**Explanation:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Last-mile preparedness?
-
-A. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-B. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-C. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-D. Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-
-**Answer: D.**
-**Explanation:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q73. Which statement correctly identifies Build Back Better?
-
-A. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-B. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-C. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-D. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-
-**Answer: A.**
-**Explanation:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q74. Which option preserves the risk or institutional boundary of Build Back Better?
-
-A. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-B. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-C. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-D. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-
-**Answer: B.**
-**Explanation:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q75. Which statement uses Build Back Better without changing its hazard, mandate or status?
-
-A. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-B. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-C. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-D. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-
-**Answer: C.**
-**Explanation:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Build Back Better?
-
-A. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-B. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-C. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-D. Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-
-**Answer: D.**
-**Explanation:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q77. Which statement correctly identifies Warning-outcome firewall?
-
-A. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-B. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-C. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-D. Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-
-**Answer: A.**
-**Explanation:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q78. Which option preserves the risk or institutional boundary of Warning-outcome firewall?
-
-A. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-B. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-C. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-D. Warm water, atmospheric instability, moisture, Coriolis force, a pre-existing disturbance and limited vertical wind shear support tropical cyclogenesis, but disaster management focuses on the resulting risk and action chain rather than detailed meteorological derivation.
-
-**Answer: B.**
-**Explanation:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q79. Which statement uses Warning-outcome firewall without changing its hazard, mandate or status?
-
-A. Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-B. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-C. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-D. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-
-**Answer: C.**
-**Explanation:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Warning-outcome firewall?
-
-A. Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
-B. Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-C. Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-D. A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
-
-**Answer: D.**
-**Explanation:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** No single technology, project or barrier completes the chain.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### PYQ ownership and evidence note
 
-The 2022 GS-I warning-colour card is directly routed. The two 2024 GS-III cards are conservative resilience and flood-cascade applications and retain Topics 01 and 08 as primary owners.
+The 2022 colour-warning question is directly routed to this topic. The 2024 sea-surface-temperature and 2026 Fujiwhara questions are Geography-owned physical-process questions with bounded cyclone-preparedness application. The 2020 objective question tests cyclone structure; its official local key is unavailable. The 2024 resilience question is a Topic 01 demand applied here through cyclone systems.
 
-### PYQ DEMAND CARD 1 — 2022 GS-I
+### PYQ 1 — 2022 GS-I Q5 — DIRECT
 
-**Demand:** Discuss the meaning of colour-coded weather warnings for cyclone-prone areas.
+**Question — exact English wording reconstructed from official local OCR by joining one-word line breaks:** “Discuss the meaning of colour-coded weather warnings for cyclone prone areas given by India Meteorological Department.” **(10 marks, 150 words)**
 
-**Status:** Verified direct routing: Discuss the meaning · 10 marks · 150 words; the solution must distinguish action colours from the separate cyclone bulletin sequence.
+**Model answer (within 150 words):**
 
-**Model solution:** **Forecast and warning:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Action codes and bulletin stages:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Evacuation decision:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Last-mile preparedness:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Warning-outcome firewall:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+IMD’s colour code converts forecast severity into a simple public-action sequence.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2022 GS-I’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+- **Green — no warning:** routine conditions; monitor ordinary information.
+- **Yellow — be updated:** weather may deteriorate; follow forecasts and review preparedness.
+- **Orange — be prepared:** severe weather is likely; authorities and exposed households should ready evacuation, shelters, utilities and response resources.
+- **Red — take action:** dangerous weather is expected; execute protective instructions.
 
-**Detailed examiner-grade model answer:**
+The colours are not cyclone-intensity categories and do not replace detailed information on track, wind, rain, storm surge and affected districts. They are also different from IMD’s lead-time bulletin sequence: Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook.
 
-**Introduction and thesis:** **Forecast and warning:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Action codes and bulletin stages:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Evacuation decision:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Last-mile preparedness:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Warning-outcome firewall:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+A red warning is a forecast-based action signal, not proof that every location will experience the maximum predicted impact. Effectiveness depends on timely delivery, comprehension, accessible evacuation and safe shelter use.
 
-**Analytical body:**
+**Why this earns marks:** It gives every colour, distinguishes the parallel bulletin system and connects warning to action with a forecast qualification.
 
-1. **Claim:** Demand: Discuss the meaning of colour-coded weather warnings for cyclone-prone areas. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct routing: Discuss the meaning · 10 marks · 150 words; the solution must distinguish action colours from the separate cyclone bulletin sequence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+### PYQ 2 — 2024 GS-I Q4 — SHARED
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Question — exact English wording from official local OCR:** “What is sea surface temperature rise? How does it affect the formation of tropical cyclones?” **(10 marks, 150 words)**
 
-**Qualified conclusion:** **Forecast and warning:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Action codes and bulletin stages:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Evacuation decision:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Last-mile preparedness:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Warning-outcome firewall:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer (within 150 words):**
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+Sea-surface-temperature rise is an increase in the temperature of the ocean’s upper surface layer relative to its baseline. Warm water increases evaporation and supplies heat and moisture to a developing tropical disturbance. Condensation in rising moist air releases latent heat, lowers pressure aloft and can sustain deeper convection and stronger circulation.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+However, warm water alone does not form a cyclone. Cyclogenesis also requires atmospheric instability, moist lower-to-middle levels, sufficient Coriolis force, a pre-existing disturbance and low vertical wind shear. Ocean heat content below the surface, dry-air intrusion and large-scale steering also affect development and intensity.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2022 GS-I’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+For disaster management, warmer seas can enlarge the environment favourable for intense rainfall and wind, but an individual event still needs a complete forecast. IMD warnings must separately describe track, intensity, rain, waves and storm surge; sea-surface temperature is a causal input, not an impact prediction.
 
-### PYQ DEMAND CARD 2 — 2024 GS-III
+**Why this earns marks:** It explains the thermodynamic mechanism, states the necessary conditions and avoids deterministic climate-to-event attribution.
 
-**Demand:** Describe the elements that determine disaster resilience.
+### PYQ 3 — 2026 GS-I Q4 — APPLICATION
 
-**Status:** Verified direct ownership remains Topic 01; this conservative card routes shelters, lifeline continuity, resilient housing, ecosystems, livelihoods and recovery as cyclone-resilience elements.
+**Question — wording reproduced from the canonical Geography owner; the official 2026 GS-I paper is not held locally:** “What is the Fujiwhara effect? Explain its impact on the movement and intensity of tropical cyclones.” **(10 marks, 150 words)**
 
-**Model solution:** **Cyclone shelters:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Critical-service continuity:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Resilient housing:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Coastal ecosystems:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Livelihood preparedness:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Last-mile preparedness:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Build Back Better:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. **Warning-outcome firewall:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer (within 150 words):**
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2024 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+The Fujiwhara effect occurs when two sufficiently close cyclonic vortices mutually steer one another and rotate around a common centroid. Each circulation acts as a steering flow for the other while the wider environmental flow continues to operate.
 
-**Detailed examiner-grade model answer:**
+Its clearest effect is on **movement**: the cyclones may orbit, slow, loop, deflect sharply, merge or separate, making track forecasts and warning areas more uncertain. Relative size and strength shift the centroid; a stronger vortex may deform or absorb the weaker system.
 
-**Introduction and thesis:** **Cyclone shelters:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Critical-service continuity:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Resilient housing:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Coastal ecosystems:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Livelihood preparedness:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Last-mile preparedness:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Build Back Better:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. **Warning-outcome firewall:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Its effect on **intensity** is indirect and variable. Interaction can disrupt convection, increase asymmetry or weaken one circulation through straining. A merger may leave a broader circulation, but it does not guarantee intensification; ocean heat, vertical shear, dry air and inner-core structure still govern strength.
 
-**Analytical body:**
+Thus Fujiwhara interaction is primarily a coupled-track forecasting problem with conditional intensity consequences, requiring rapidly updated coastal warnings.
 
-1. **Claim:** Demand: Describe the elements that determine disaster resilience. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct ownership remains Topic 01; this conservative card routes shelters, lifeline continuity, resilient housing, ecosystems, livelihoods and recovery as cyclone-resilience elements. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Why this earns marks:** It defines the mechanism, separates track from intensity effects and gives a qualified operational implication.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+### PYQ 4 — 2020 PRELIMS GS-I Q99 — APPLICATION
 
-**Qualified conclusion:** **Cyclone shelters:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Critical-service continuity:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Resilient housing:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Coastal ecosystems:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Livelihood preparedness:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Last-mile preparedness:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Build Back Better:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. **Warning-outcome firewall:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Question — official Set-A wording reconstructed from local OCR:**
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+Consider the following statements:
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+1. Jet streams occur in the Northern Hemisphere only.
+2. Only some cyclones develop an eye.
+3. The temperature inside the eye of a cyclone is nearly 10°C lesser than that of the surroundings.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2024 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+Which of the statements given above is/are correct?
 
-### PYQ DEMAND CARD 3 — 2024 GS-III
+A. 1 only
+B. 2 and 3 only
+C. 2 only
+D. 3 only
 
-**Demand:** Discuss causes, cases, policies and frameworks for urban flooding.
+**Key status:** The official 2020 Set-A question is held locally, but no official local answer key is available.
 
-**Status:** Verified direct ownership remains Topic 08; this card is limited to cyclone rainfall, storm surge and service-cascade contributions to coastal and urban flooding.
+**INFERRED ANSWER — NOT OFFICIALLY VERIFIED: C**
 
-**Model solution:** **Compound cyclone hazard:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Rainfall hazard:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. **Storm surge:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. **Forecast and warning:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Evacuation decision:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Critical-service continuity:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Warning-outcome firewall:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+- **A — Incorrect.** Jet streams occur in both hemispheres.
+- **B — Incorrect.** Statement 3 reverses the warm-eye characteristic.
+- **C — Inferred correct.** Some cyclones develop a distinct eye; statements 1 and 3 are false.
+- **D — Incorrect.** The eye is relatively warm, not nearly 10°C colder than its surroundings.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2024 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Evidence caution:** This is a science-based inferred answer, not an official UPSC-key claim.
 
-**Detailed examiner-grade model answer:**
+### PYQ 5 — 2024 GS-III Q17 — APPLICATION
 
-**Introduction and thesis:** **Compound cyclone hazard:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Rainfall hazard:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. **Storm surge:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. **Forecast and warning:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Evacuation decision:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Critical-service continuity:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Warning-outcome firewall:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Question — local official-paper OCR reproduced verbatim except joined line breaks:** “What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also mention the global targests of Sendai Framework for Disaster Risk Reduction (2015-2030)” **(15 marks, 250 words)**
 
-**Analytical body:**
+**OCR note:** `targests` is retained from the official local extraction and means “targets.”
 
-1. **Claim:** Demand: Discuss causes, cases, policies and frameworks for urban flooding. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct ownership remains Topic 08; this card is limited to cyclone rainfall, storm surge and service-cascade contributions to coastal and urban flooding. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Model answer (within 250 words):**
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Disaster resilience is the capacity of a community or system to resist, absorb, adapt to, respond to and recover from hazards while maintaining or restoring essential functions. It is determined by hazard, exposure, vulnerability and usable capacity, verified through performance.
 
-**Qualified conclusion:** **Compound cyclone hazard:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Rainfall hazard:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. **Storm surge:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. **Forecast and warning:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Evacuation decision:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Critical-service continuity:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Warning-outcome firewall:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+For cyclones, a resilience framework includes risk maps; IMD track, intensity, rainfall and surge forecasts; clear colour/action messages; accessible evacuation; maintained shelters and roads; wind- and flood-resilient lifelines; saline embankments and ecosystem buffers; trained response; social protection; and Build Back Better recovery. NCRMP assets illustrate ex-ante investment, but completed structures require continuing State/local operation and maintenance. A hospital or shelter that remains standing but lacks access, water or power is not fully resilient.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+Sendai’s targets are to reduce **A** mortality, **B** affected people, **C** direct economic loss relative to global GDP and **D** critical-infrastructure damage and basic-service disruption; and increase **E** national/local DRR strategies, **F** international cooperation for developing countries and **G** access to multi-hazard warning and risk information.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+Sendai is voluntary and non-binding. Cyclone resilience is proved when warnings produce safe action, services continue and recovery lowers future risk.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2024 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Why this earns marks:** It answers each clause and grounds the general framework in a complete cyclone warning-to-recovery chain.
+
+## ORIGINAL MAINS PRACTICE
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish cyclone wind, rainfall and storm-surge hazards. Answer in about 150 words.
+**Question:** Distinguish storm surge from astronomical tide and tsunami, and explain why the distinction matters for preparedness. **Answer in 150 words.**
 
-**Model thesis:** **Claim:** Compound cyclone hazard. **Named evidence/example:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Wind hazard. **Named evidence/example:** Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Rainfall hazard. **Named evidence/example:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Storm surge. **Named evidence/example:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Surge tide tsunami firewall. **Named evidence/example:** Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Storm surge is an abnormal rise of sea level generated chiefly by cyclone wind stress and low atmospheric pressure. Astronomical tide is the predictable gravitational movement produced by the moon and sun. A tsunami is a long-wave train generated by sudden displacement of water, commonly from vertical seabed movement.
 
-- Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-- Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point.
-- Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness.
-- Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide.
-- Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing.
+The resulting coastal water level during a cyclone is **storm tide**: surge combined with the astronomical tide, with waves adding overtopping and erosion. Surge severity varies with wind field, pressure, forward speed, bathymetry, shelf slope, coastal shape and landfall timing.
 
-**Qualified conclusion:** **Claim:** Compound cyclone hazard. **Named evidence/example:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Wind hazard. **Named evidence/example:** Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Rainfall hazard. **Named evidence/example:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Storm surge. **Named evidence/example:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Surge tide tsunami firewall. **Named evidence/example:** Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Preparedness therefore requires IMD cyclone and surge forecasts, tide information, mapped inundation, coastal evacuation, port shutdown and resilient shelters. Seismic and BPR-based tsunami warning cannot substitute for cyclone forecasting; tide tables cannot predict the surge anomaly. Correct classification selects the correct forecast, lead time and protective authority.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish cyclone wind, rainfall and storm-surge hazards. Answer in about 150 words.’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Compound cyclone hazard. **Named evidence/example:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Wind hazard. **Named evidence/example:** Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Rainfall hazard. **Named evidence/example:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Storm surge. **Named evidence/example:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Surge tide tsunami firewall. **Named evidence/example:** Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Compound cyclone hazard. **Named evidence/example:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Wind hazard. **Named evidence/example:** Cyclone wind can damage roofs, weak structures, trees, transmission systems and communications, while debris and prolonged service interruption extend impacts beyond the landfall point. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Rainfall hazard. **Named evidence/example:** Cyclone rainfall can produce riverine, flash, pluvial and urban flooding well inland, so coastal landfall warnings must connect to catchment and city preparedness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Storm surge. **Named evidence/example:** Storm surge is abnormal coastal water-level rise driven chiefly by cyclone winds and low pressure; impact varies with storm track, intensity, coast shape, bathymetry and tide. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Surge tide tsunami firewall. **Named evidence/example:** Storm surge is not an astronomical tide and not a tsunami; tide can modify the total coastal water level, while tsunami generation involves sudden water displacement rather than cyclone forcing. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Distinguish cyclone wind, rainfall and storm-surge hazards. Answer in about 150 words.’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Why this earns marks:** It defines all three mechanisms and converts the distinction into operational decisions.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Explain how IMD classification, forecasts, action codes and bulletin stages differ. Answer in about 150 words.
+**Question:** Explain how IMD's cyclone bulletin stages and colour codes work together without being the same system. **Answer in 150 words.**
 
-**Model thesis:** **Claim:** IMD classification. **Named evidence/example:** IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Forecast and warning. **Named evidence/example:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Action codes and bulletin stages. **Named evidence/example:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+IMD uses two complementary warning languages. The lead-time sequence describes the cyclone’s approach: **Pre-Cyclone Watch** at least 72 hours ahead, **Cyclone Alert** at least 48 hours, **Cyclone Warning** at least 24 hours and **Post-Landfall Outlook** at least 12 hours before landfall. Each stage provides progressively specific information on track, intensity, landfall and associated weather.
 
-- IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard.
-- IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-- Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
+The colour code communicates action urgency: **Green** no warning, **Yellow** be updated, **Orange** be prepared and **Red** take action. A colour may accompany detailed hazard information, but it does not replace forecasts of wind, rain, surge, waves or affected locations.
 
-**Qualified conclusion:** **Claim:** IMD classification. **Named evidence/example:** IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Forecast and warning. **Named evidence/example:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Action codes and bulletin stages. **Named evidence/example:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+The distinction matters because stage answers “when and how the forecast is evolving,” while colour answers “what level of readiness or action is required.” Red is precautionary forecast guidance, not certainty of uniform damage.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain how IMD classification, forecasts, action codes and bulletin stages differ. Answer in…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** IMD classification. **Named evidence/example:** IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Forecast and warning. **Named evidence/example:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Action codes and bulletin stages. **Named evidence/example:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** IMD classification. **Named evidence/example:** IMD classifies cyclonic disturbances by maximum sustained wind speed and names systems from the Cyclonic Storm stage; exact category thresholds should be quoted only from the current official IMD standard. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Forecast and warning. **Named evidence/example:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Action codes and bulletin stages. **Named evidence/example:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Explain how IMD classification, forecasts, action codes and bulletin stages differ. Answer in…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Why this earns marks:** It states both sequences exactly and explains their separate decision functions.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Analyse the warning-to-evacuation and cyclone-shelter preparedness chain. Answer in about 250 words.
+**Question:** Analyse the warning-to-action gap in cyclone preparedness and suggest measures to close it. **Answer in 250 words.**
 
-**Model thesis:** **Claim:** Forecast and warning. **Named evidence/example:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Action codes and bulletin stages. **Named evidence/example:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evacuation decision. **Named evidence/example:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cyclone shelters. **Named evidence/example:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+The warning-to-action gap arises when a technically sound forecast does not produce timely protective behaviour.
 
-- IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome.
-- Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence.
-- Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-- Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-- Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-- A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
+The chain can fail at several points. A generic message may omit the local wind, surge, rain or flood consequence. Telecom or power failure may interrupt delivery. Residents may distrust repeated revisions, misunderstand colour codes or lack knowledge of routes. Fishers may be offshore; tourists may not know the language; older persons, persons with disabilities and patients may lack transport. Roads may waterlog, shelters may be locked or poorly serviced, and livestock concerns may discourage movement.
 
-**Qualified conclusion:** **Claim:** Forecast and warning. **Named evidence/example:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Action codes and bulletin stages. **Named evidence/example:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evacuation decision. **Named evidence/example:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cyclone shelters. **Named evidence/example:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Closing the gap requires impact-based, location-specific IMD information translated by State and district authorities into clear evacuation decisions. Redundant channels should combine cell broadcast/SMS, radio, sirens, local volunteers, harbour systems and accessible audio-visual messages. Route and transport plans must be tested under rain and fallen-tree conditions. Shelters need water, sanitation, backup power, inclusive facilities, management teams and cattle arrangements. Drills should measure warning receipt, comprehension, departure time, route bottlenecks, occupancy and accounting rather than attendance alone.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse the warning-to-evacuation and cyclone-shelter preparedness chain. Answer in about 250…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Cyclone Remal provides a dated example of forecast-linked pre-positioning and maritime readiness, but one event cannot prove universal performance. Public after-action reports and community feedback should convert each warning into institutional learning.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Forecast and warning. **Named evidence/example:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Action codes and bulletin stages. **Named evidence/example:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evacuation decision. **Named evidence/example:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cyclone shelters. **Named evidence/example:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Forecast and warning. **Named evidence/example:** IMD monitoring and forecasts communicate track, intensity, rainfall, wind, sea condition, storm-surge and likely impact information with uncertainty; a forecast is not a deterministic outcome. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Action codes and bulletin stages. **Named evidence/example:** Green, Yellow, Orange and Red communicate action levels, while Pre-Cyclone Watch, Cyclone Alert, Cyclone Warning and Post-Landfall Outlook form a separate lead-time bulletin sequence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Evacuation decision. **Named evidence/example:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cyclone shelters. **Named evidence/example:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Analyse the warning-to-evacuation and cyclone-shelter preparedness chain. Answer in about 250…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Why this earns marks:** It diagnoses failures across message, delivery, mobility and shelter stages and assigns practical remedies.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Examine resilient housing, critical services and coastal ecosystems as a layered cyclone-risk portfolio. Answer in about 250 words.
+**Question:** Discuss how resilient infrastructure and ecosystem-based measures should be combined for cyclone-prone coasts. **Answer in 250 words.**
 
-**Model thesis:** **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilient housing. **Named evidence/example:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coastal ecosystems. **Named evidence/example:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Differentiated coastal risk. **Named evidence/example:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Cyclone-prone coasts face wind, surge, waves, rain, erosion and cascading service failure; no single barrier addresses all pathways.
 
-- Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-- Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-- Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-- Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
+Resilient infrastructure includes wind-resistant housing and shelters; all-weather evacuation roads; saline embankments; protected power, telecom, water and health systems; drainage; and port shutdown and reopening plans. Design must be matched to local wind and water loads, while inspection, maintenance, backup utilities and trained operation preserve function.
 
-**Qualified conclusion:** **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilient housing. **Named evidence/example:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coastal ecosystems. **Named evidence/example:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Differentiated coastal risk. **Named evidence/example:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Ecosystem measures include mangroves, dunes, wetlands and coastal vegetation. They can attenuate water and waves, trap sediment, reduce erosion and support fisheries and livelihoods. Their performance, however, depends on width, health, continuity, bathymetry and event severity. They cannot replace evacuation or critical-facility standards.
 
-**Demand decoding:** The directive **examine** requires a direct position on ‘Examine resilient housing, critical services and coastal ecosystems as a layered cyclone-risk…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+The two approaches may also create trade-offs. An embankment can overtop, breach or obstruct drainage; hard structures may transfer erosion. Poorly sited plantations can fail, while declaring an ecosystem restored does not prove protective performance.
 
-**Detailed examiner-grade model answer:**
+Risk maps and CRZ-linked land use should first avoid new exposure. Authorities should then select a site-specific portfolio, preserve drainage and sediment processes, audit asset condition and test lifeline continuity. The objective is layered risk reduction with residual-risk planning, not competition between concrete and ecology.
 
-**Introduction and thesis:** **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilient housing. **Named evidence/example:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coastal ecosystems. **Named evidence/example:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Differentiated coastal risk. **Named evidence/example:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilient housing. **Named evidence/example:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coastal ecosystems. **Named evidence/example:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Differentiated coastal risk. **Named evidence/example:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Examine resilient housing, critical services and coastal ecosystems as a layered cyclone-risk…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Why this earns marks:** It connects hazard components to complementary measures and evaluates failure modes and transferred risk.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Evaluate India's coastal cyclone preparedness after NCRMP, focusing on maintenance, last-mile action and differentiated risk. Answer in about 300 words.
+**Question:** Critically assess India's cyclone-preparedness architecture, including IMD warnings and the post-project legacy of NCRMP. **Answer in 300 words.**
 
-**Model thesis:** **Claim:** Evacuation decision. **Named evidence/example:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cyclone shelters. **Named evidence/example:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NCRMP status. **Named evidence/example:** The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Differentiated coastal risk. **Named evidence/example:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Livelihood preparedness. **Named evidence/example:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 300 words):**
 
-**Claim → named evidence → analysis → qualification:**
+India has a mature cyclone warning and mitigation architecture, but its outcome depends on local execution and maintenance.
 
-- Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate.
-- Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness.
-- Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-- The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence.
-- Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free.
-- Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-- Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-- A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
+**Strengths:** IMD/RSMC monitors cyclones and issues track, intensity, rain, wind and surge information through a 72/48/24/12-hour bulletin sequence and Green/Yellow/Orange/Red action codes. ACWCs and CWCs support regional warning. NCRMP moved policy toward ex-ante mitigation through dissemination systems, multi-purpose shelters, evacuation roads, saline embankments and local capacity. MHA reported Phase I closed in December 2018 and Phase II in March 2023.
 
-**Qualified conclusion:** **Claim:** Evacuation decision. **Named evidence/example:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cyclone shelters. **Named evidence/example:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NCRMP status. **Named evidence/example:** The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Differentiated coastal risk. **Named evidence/example:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Livelihood preparedness. **Named evidence/example:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Institutional merit:** roles are differentiated. IMD forecasts; State, district and local authorities decide evacuation and operate shelters; NDRF, SDRF, Coast Guard and Navy support response. Cyclone Remal showed forecast-linked pre-positioning and maritime readiness.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Evaluate India's coastal cyclone preparedness after NCRMP, focusing on maintenance, last-mile…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Persistent gaps:** warning issue may not become understood, feasible action. Routes can flood; shelters may lack maintenance, power, water, sanitation, accessibility or livestock arrangements. Wind-focused messaging can understate surge and rain. Informal housing, fishers, tourists and remote islands face unequal risk. Embankments may breach or block drainage; ecosystem buffers have site-specific limits. NCRMP's closure shifts responsibility from capital construction to recurring State/local operation and maintenance, for which no separate current funding claim should be invented.
 
-**Detailed examiner-grade model answer:**
+Priorities are impact-based warnings, redundant delivery, route-time drills, accessible shelters, lifeline continuity tests, risk-sensitive coastal land use, maintained engineered/ecosystem portfolios and public asset-condition dashboards.
 
-**Introduction and thesis:** **Claim:** Evacuation decision. **Named evidence/example:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cyclone shelters. **Named evidence/example:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NCRMP status. **Named evidence/example:** The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Differentiated coastal risk. **Named evidence/example:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Livelihood preparedness. **Named evidence/example:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+India’s architecture is substantial; resilience is proved not by forecast skill or asset count but by timely evacuation, functioning services and equitable recovery.
 
-**Analytical body:**
-
-1. **Claim:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Evacuation decision. **Named evidence/example:** Authorities convert official forecasts into area-specific evacuation, sheltering, route control, transport, livestock and asset-protection decisions, with priority assistance for people unable to self-evacuate. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Cyclone shelters. **Named evidence/example:** Multi-purpose cyclone shelters require safe siting, all-weather access, water, sanitation, backup power, accessibility, protection, management and maintenance; construction alone does not prove readiness. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NCRMP status. **Named evidence/example:** The National Cyclone Risk Mitigation Project created structural and non-structural coastal-risk assets through completed phases; asset operation, maintenance and current readiness now require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Differentiated coastal risk. **Named evidence/example:** Cyclone frequency, coast geometry, exposure, housing, poverty, ecosystems and local capacity differ across coasts, so a lower-category or less-frequent area is not risk-free. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Livelihood preparedness. **Named evidence/example:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Evaluate India's coastal cyclone preparedness after NCRMP, focusing on maintenance, last-mile…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Why this earns marks:** It balances verified institutions and achievements with warning, O&M, inclusion and outcome limitations.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Design a Build Back Better framework for cyclone-affected coastal communities and livelihoods. Answer in about 300 words.
+**Question:** Design a multi-hazard preparedness framework for a cyclone-prone coastal district. **Answer in 300 words.**
 
-**Model thesis:** **Claim:** Compound cyclone hazard. **Named evidence/example:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilient housing. **Named evidence/example:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coastal ecosystems. **Named evidence/example:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Livelihood preparedness. **Named evidence/example:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Build Back Better. **Named evidence/example:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 300 words):**
 
-**Claim → named evidence → analysis → qualification:**
+A coastal district should plan for a cyclone as a compound wind-water emergency extending beyond landfall.
 
-- Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services.
-- Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans.
-- Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details.
-- Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure.
-- Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information.
-- Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action.
-- Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability.
-- A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification.
+1. **Risk knowledge:** map wind zones, surge and storm-tide inundation, rainfall drainage, river backwater, erosion, landslide, settlements, ports, hospitals, power and vulnerable groups.
+2. **Forecast interface:** establish a round-the-clock district cell receiving IMD track, intensity, rain, wave and surge products. Translate bulletin stage and colour into location-specific decisions with uncertainty.
+3. **Last-mile delivery:** use redundant telecom, radio, sirens, harbour communication and trained local volunteers. Messages should be multilingual and accessible.
+4. **Evacuation:** pre-assign vehicles, routes, traffic control, assisted movement and livestock arrangements. Test alternate routes under waterlogging and fallen-tree conditions.
+5. **Shelter and lifelines:** maintain accessible multi-purpose shelters with water, sanitation, power and health support. Protect hospitals, substations, telecom, water systems, roads and ports through continuity plans.
+6. **Coastal protection:** combine zoning, maintained saline embankments and selective engineering with mangroves, dunes, wetlands and drainage protection; assess overtopping and transferred risk.
+7. **Response and recovery:** pre-position rescue and medical teams, secure hazardous cargo, plan debris and contamination control, support safe return and restore housing, crops, boats, landing sites and markets through Build Back Better.
+8. **Accountability:** publish drills, route times, shelter condition, warning reach, evacuation, downtime and recovery indicators.
 
-**Qualified conclusion:** **Claim:** Compound cyclone hazard. **Named evidence/example:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilient housing. **Named evidence/example:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coastal ecosystems. **Named evidence/example:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Livelihood preparedness. **Named evidence/example:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Build Back Better. **Named evidence/example:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+The district succeeds when IMD's forecast is converted into inclusive local action and functioning services, not when a warning or construction target is merely reported.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Design a Build Back Better framework for cyclone-affected coastal communities and…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Why this earns marks:** It integrates hazard, institution, infrastructure, ecosystem, equity, response and measurable performance.
 
-**Detailed examiner-grade model answer:**
+## RAPID SELF-CHECK
 
-**Introduction and thesis:** **Claim:** Compound cyclone hazard. **Named evidence/example:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilient housing. **Named evidence/example:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coastal ecosystems. **Named evidence/example:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Livelihood preparedness. **Named evidence/example:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Build Back Better. **Named evidence/example:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Compound cyclone hazard. **Named evidence/example:** Tropical-cyclone risk combines destructive wind, intense rainfall, storm surge, waves, river or urban flooding, erosion and cascading failure of power, communications, transport and health services. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Critical-service continuity. **Named evidence/example:** Hospitals, emergency operations, power, water, telecom, roads, ports and supply chains need redundancy, shutdown protocols, rapid assessment and restoration plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Resilient housing. **Named evidence/example:** Risk-sensitive siting, code-compliant construction, roof and connection safety, maintenance and safer repair reduce housing vulnerability; exam answers should not prescribe engineering details. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coastal ecosystems. **Named evidence/example:** Mangroves, dunes, wetlands and other coastal ecosystems can moderate some wind-wave-surge effects and support livelihoods, but they complement rather than replace warnings, shelters and resilient infrastructure. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Livelihood preparedness. **Named evidence/example:** Fishers, farmers, coastal workers, vendors and tourism-dependent households need vessel and gear safety, market and income continuity, livestock arrangements and timely reopening information. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Last-mile preparedness. **Named evidence/example:** Warnings require trusted multilingual relay, drills, local volunteers, accessible transport, route familiarity and shelter management; warning issuance does not demonstrate household action. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Build Back Better. **Named evidence/example:** Recovery should restore housing, services, ecosystems and livelihoods with safer siting and construction, risk-informed finance and social protection rather than recreate pre-cyclone vulnerability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Warning-outcome firewall. **Named evidence/example:** A forecast, colour code, alert, shelter, embankment, ecosystem project or deployment proves an input; timely evacuation, service continuity, maintained assets and reduced loss require separate verification. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Design a Build Back Better framework for cyclone-affected coastal communities and…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+- Can you list the six cyclogenesis conditions?
+- Can you distinguish eye, eyewall, surge, storm tide and tsunami?
+- Can you reproduce the wind classes and naming threshold?
+- Can you separate the 72/48/24/12 sequence from colour codes?
+- Can you assign IMD, State/district and response-force roles?
+- Can you explain warning-to-action failure?
+- Can you test shelters, roads and lifelines for function?
+- Can you state NCRMP's completed status and O&M implication?
+- Can you balance embankments and ecosystem buffers?
+- Can you classify the direct and application PYQs honestly?

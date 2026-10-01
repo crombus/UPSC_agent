@@ -11,6 +11,49 @@ path of every file created or modified while completing that command. If no file
 `Files changed: none`. This applies to audits, knowledge edits, trackers, tools, exams, notes and
 PDF work—not only exports.
 
+## Active Final Review Workflow
+
+For topic review, verification and patching, the controlling workflow is:
+
+```text
+upsc-ai-kit\knowledge\<Subject>\basic + advanced
+        ↓
+verified PYQ routing + official papers
+        ↓
+learning_package_final\...
+  ├─ Learning-Session.md
+  └─ Solved-Practice-Workbook.md
+        ↓
+quick_galance\<Subject>\..._Tree-Chart.md
+```
+
+Treat canonical knowledge and official papers as read-only evidence. Modify only the final
+learning-session Markdown, solved-practice workbook Markdown and quick-glance tree chart. Ignore
+PDFs, `notes\Final-Learning-Packages`, graphical/ASCII master-flow packages, export trackers,
+generation folders and other duplicate artifacts unless the user explicitly requests them.
+
+Repair one topic at a time: map complete Basic + Advanced coverage; verify direct and application
+PYQs against routing and official papers; rebuild diverse coverage-led MCQs; provide exact,
+clearly labelled PYQs with proper solutions; add original 10-, 15- and 20-mark Mains practice
+with complete model answers; then rebuild the quick-glance file as a concise, genuinely branching
+revision tree.
+
+After each topic, stop and report what changed by artifact, validation results, remaining
+limitations, and the exact repository-relative path of every modified file. Do not begin the next
+topic before this report is delivered.
+
+The repair programme has a seven-day deadline. Work quickly by restricting investigation to the
+current topic's Basic owner, Advanced owner, routed PYQs, official papers/keys and three active
+Markdown outputs. Reuse one coverage ledger, edit directly and run targeted validation. Do not
+trade speed for completeness, answer quality or verification.
+
+Use a zero-hallucination standard: every date, number, quotation, PYQ wording/key, treaty or
+membership status, mandate, current event and claimed outcome must be traceable to canonical
+Markdown, a locally held official paper/key or a dated official source. Label direct and
+application PYQs separately and retain uncertainty where verification is unavailable.
+
+Start with International Relations and process topics in catalogue order.
+
 ## Quick-Glance Tree Charts
 
 - Trigger: `Export Tree Chart: <Subject> — <Topic>` or a request to export/create a concise tree

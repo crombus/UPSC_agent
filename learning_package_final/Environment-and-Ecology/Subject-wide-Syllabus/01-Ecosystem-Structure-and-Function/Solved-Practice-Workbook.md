@@ -1,1255 +1,1608 @@
 # Ecosystem Structure and Function — Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-06. Uses the same source-bounded ecological distinctions and strict A-B-C-D rotation.
+> **Evidence cut-off:** 28 September 2026
+> **Question design:** 40 original MCQs, strict answer rotation `A → B → C → D` repeated ten times
+> **PYQ rule:** official wording/options from local papers; keys labelled Official, Inferred,
+> Provisional or Dropped; ownership labelled Direct or Shared/Application
+
+### Source control
+
+- Canonical Basic and Advanced Topic 01 owners, Master Framework and official syllabus mapping.
+- Central Prelims/Mains routing ledgers for 2018-2025 plus `_PYQ-GS3-2026.md` and the
+  2026 Prelims routing ledger.
+- Official local question-paper OCR and page images under
+  `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export`.
+- Official Set-A keys for 2024 and 2025; locally held provisional Set-A key for 2026.
+- NCERT Class XII Biology, **Ecosystem**, for productivity and decomposition.
+- Economic Survey 2025-26 and official FSI/PIB material for dated Indian evidence.
+- A.G. Tansley's **1935** ecosystem terminology and all static distinctions are retained
+  from the canonical Topic 01 owners.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Ecosystem as a bounded functional unit?
+### MCQ 1 — Functional boundary
 
-A. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-B. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-C. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-D. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
+A village pond is being studied as an ecosystem. Which description is most accurate?
 
-**Answer: A.**
-**Explanation:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. It is a workable ecosystem boundary if organisms, abiotic conditions and exchanges across the pond boundary are all recognised.
+B. It qualifies as an ecosystem when exchanges across the shore are absent throughout the study period.
+C. It remains merely a community because ecosystem analysis begins at landscape or biome scale.
+D. Its ecosystem status depends on the pond boundary matching a notified administrative unit.
 
-### Q2. Which option preserves the ecological boundary of Ecosystem as a bounded functional unit?
+**Answer: A**
 
-A. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-B. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-C. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-D. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
+**Option-specific explanation**
+- **A — Correct:** Ecosystem boundaries are analytical and may enclose a pond, provided both
+  biotic-abiotic interactions and external inputs/outputs are acknowledged.
+- **B — Incorrect:** Ecosystems are generally open; sunlight, runoff, organisms and matter can
+  cross the boundary.
+- **C — Incorrect:** A community excludes the abiotic environment, while a pond can be a valid
+  ecosystem unit.
+- **D — Incorrect:** Ecological and administrative boundaries need not coincide.
 
-**Answer: B.**
-**Explanation:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Fix the boundary, but never convert that boundary into a claim of closure.
 
-### Q3. Which statement uses Ecosystem as a bounded functional unit without changing its scale, parameter or status?
+### MCQ 2 — Levels of ecological organisation
 
-A. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-B. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-C. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-D. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
+Which sequence moves from the smallest to the largest ecological level?
 
-**Answer: C.**
-**Explanation:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Organism → community → population → ecosystem → biome → landscape → biosphere
+B. Organism → population → community → ecosystem → landscape → biome → biosphere
+C. Population → organism → community → landscape → ecosystem → biosphere → biome
+D. Organism → population → ecosystem → community → biome → landscape → biosphere
 
-### Q4. Which option avoids the standard UPSC close-option trap about Ecosystem as a bounded functional unit?
+**Answer: B**
 
-A. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-B. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-C. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-D. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
+**Option-specific explanation**
+- **A — Incorrect:** A population is a set of individuals of one species and precedes a
+  multi-population community.
+- **B — Correct:** The sequence preserves the nesting from individual to global biosphere.
+- **C — Incorrect:** It places population before organism and landscape before ecosystem.
+- **D — Incorrect:** It reverses community/ecosystem and landscape/biome relations.
 
-**Answer: D.**
-**Explanation:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Community is biotic; ecosystem adds the abiotic environment; landscape
+contains interacting ecosystems.
 
-### Q5. Which statement correctly identifies Biotic and abiotic structure?
+### MCQ 3 — Structure versus function
 
-A. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-B. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-C. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-D. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
+Which item is principally an ecosystem **function** rather than a structural attribute?
 
-**Answer: A.**
-**Explanation:** Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Species composition of a grassland
+B. Vertical layering of a forest
+C. Rate of primary production
+D. Standing biomass of herbivores
 
-### Q6. Which option preserves the ecological boundary of Biotic and abiotic structure?
+**Answer: C**
 
-A. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-B. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-C. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-D. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
+**Option-specific explanation**
+- **A — Incorrect:** Species composition records what organisms are present.
+- **B — Incorrect:** Stratification records spatial arrangement.
+- **C — Correct:** Productivity is a rate of organic-matter or energy formation.
+- **D — Incorrect:** Standing biomass is a stock measured at a stated time.
 
-**Answer: B.**
-**Explanation:** Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Structure describes components and arrangement; function describes
+processes, rates, transfers and feedbacks.
 
-### Q7. Which statement uses Biotic and abiotic structure without changing its scale, parameter or status?
+### MCQ 4 — Detritivore and decomposer
 
-A. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-B. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-C. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-D. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
+Which statement correctly separates detritivores from decomposers?
 
-**Answer: C.**
-**Explanation:** Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Detritivores mineralise dissolved nutrients, whereas decomposers mainly relocate litter.
+B. Detritivores are autotrophs, whereas decomposers are primary consumers.
+C. Detritivores are restricted to water, whereas decomposers are restricted to soil.
+D. Detritivores fragment dead matter, whereas microbial decomposers enzymatically break it down.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Biotic and abiotic structure?
+**Answer: D**
 
-A. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-B. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-C. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-D. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
+**Option-specific explanation**
+- **A — Incorrect:** It reverses the main roles; microbial decomposition releases simpler and
+  inorganic products.
+- **B — Incorrect:** Both are heterotrophic functional groups.
+- **C — Incorrect:** Both roles occur across terrestrial and aquatic systems.
+- **D — Correct:** Physical fragmentation and microbial catabolism are related but distinct.
 
-**Answer: D.**
-**Explanation:** Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Earthworm is the classic fragmentation example; bacteria and fungi are the
+classic enzymatic decomposers.
 
-### Q9. Which statement correctly identifies Producer entry point?
+### MCQ 5 — Biological energy entry
 
-A. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-B. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-C. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-D. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
+Consider the following:
 
-**Answer: A.**
-**Explanation:** Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+1. Green plants
+2. Cyanobacteria
+3. Chemosynthetic bacteria
+4. Herbivorous zooplankton
 
-### Q10. Which option preserves the ecological boundary of Producer entry point?
+Which are producers capable of introducing newly fixed chemical energy into a food web?
 
-A. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-B. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-C. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-D. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
+A. 1, 2 and 3 only
+B. 1 and 4 only
+C. 2, 3 and 4 only
+D. 1, 2, 3 and 4
 
-**Answer: B.**
-**Explanation:** Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q11. Which statement uses Producer entry point without changing its scale, parameter or status?
+**Option-specific explanation**
+- **A — Correct:** Green plants and cyanobacteria photosynthesise; chemosynthetic bacteria
+  use inorganic chemical-energy sources.
+- **B — Incorrect:** Herbivorous zooplankton consume existing organic matter and are not
+  producers.
+- **C — Incorrect:** It wrongly includes zooplankton and excludes green plants.
+- **D — Incorrect:** The fourth group is consumer biomass, not an autotrophic entry point.
 
-A. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-B. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-C. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-D. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
+**Remediation:** “Producer” means autotroph, not merely a small organism or the first animal
+seen in a chain.
 
-**Answer: C.**
-**Explanation:** Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 6 — Trophic position and omnivory
 
-### Q12. Which option avoids the standard UPSC close-option trap about Producer entry point?
+A bird eats seeds in one season and insectivorous lizards in another. Which inference is best?
 
-A. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-B. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-C. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-D. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
+A. The bird has a fixed second-trophic-level position because it consumes seeds during part of the year.
+B. Its trophic position can change with the feeding link being examined in the food web.
+C. Its taxonomic class changes whenever its diet changes between plants and animals.
+D. It becomes a decomposer when animal prey is unavailable in the web.
 
-**Answer: D.**
-**Explanation:** Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q13. Which statement correctly identifies Consumers and trophic position?
+**Option-specific explanation**
+- **A — Incorrect:** Seed feeding places it as a primary consumer in that link, not permanently.
+- **B — Correct:** Omnivory allows one species to occupy more than one trophic position.
+- **C — Incorrect:** Feeding relation does not change taxonomy.
+- **D — Incorrect:** A diet shift does not create microbial decomposition.
 
-A. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-B. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-C. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-D. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
+**Remediation:** Trophic level is relational and web-specific; taxonomy is not.
 
-**Answer: A.**
-**Explanation:** Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 7 — Grazing and detritus chains
 
-### Q14. Which option preserves the ecological boundary of Consumers and trophic position?
+Which pairing is correct?
 
-A. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-B. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-C. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-D. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
+A. Grazing chain—begins with dead litter; detritus chain—begins with a living producer.
+B. Grazing chain—excludes consumers; detritus chain—excludes microbial activity.
+C. Grazing chain—begins with living producer biomass; detritus chain—begins with dead organic matter.
+D. Grazing chain—cycles energy; detritus chain—cycles energy in the opposite direction.
 
-**Answer: B.**
-**Explanation:** Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q15. Which statement uses Consumers and trophic position without changing its scale, parameter or status?
+**Option-specific explanation**
+- **A — Incorrect:** It reverses the two starting points.
+- **B — Incorrect:** Consumers occur in grazing chains, and microbes are central to detrital
+  processing.
+- **C — Correct:** This is the defining distinction, though the two pathways interact.
+- **D — Incorrect:** Energy does not cycle in either pathway.
 
-A. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-B. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-C. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-D. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
+**Remediation:** Dead material can originate at every trophic level, so the detritus pathway
+links the whole web.
 
-**Answer: C.**
-**Explanation:** Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 8 — Food-web resilience
 
-### Q16. Which option avoids the standard UPSC close-option trap about Consumers and trophic position?
+Assertion (A): A food web always guarantees ecosystem resilience after any disturbance.
+Reason (R): Alternative feeding routes can reduce dependence on a single link.
 
-A. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-B. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-C. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-D. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
+A. Both statements are correct, and the reason explains the assertion.
+B. Both statements are correct, but the reason does not explain the assertion.
+C. The assertion is correct, but the reason is incorrect.
+D. The assertion is incorrect, but the reason is correct.
 
-**Answer: D.**
-**Explanation:** Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q17. Which statement correctly identifies Detritivore and decomposer distinction?
+**Option-specific explanation**
+- **A — Incorrect:** The assertion is false because common vulnerabilities can disable many
+  links at once.
+- **B — Incorrect:** The assertion remains false even though the reason is sound.
+- **C — Incorrect:** The reason is correct; alternative routes can provide redundancy.
+- **D — Correct:** A web does not guarantee resilience, but alternative routes can reduce
+  dependence on one link.
 
-A. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-B. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-C. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-D. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
+**Remediation:** Replace “diversity guarantees stability” with “specific redundancy may
+improve response to a specified shock.”
 
-**Answer: A.**
-**Explanation:** Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 9 — Energy and matter
 
-### Q18. Which option preserves the ecological boundary of Detritivore and decomposer distinction?
+Which statement is ecologically correct?
 
-A. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-B. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-C. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-D. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
+A. Energy flows through trophic transfers and dissipates, while matter can move repeatedly among biotic and abiotic pools.
+B. Energy and nutrients both return unchanged to producers after microbial decomposition within the same system.
+C. Matter is destroyed at each trophic transfer, whereas metabolic heat is recycled by producers into food.
+D. Energy recirculates through complex food webs, whereas matter recirculates through linear food chains.
 
-**Answer: B.**
-**Explanation:** Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q19. Which statement uses Detritivore and decomposer distinction without changing its scale, parameter or status?
+**Option-specific explanation**
+- **A — Correct:** It preserves the one-way energy pathway and recurrent matter transfers.
+- **B — Incorrect:** Nutrient atoms may return, but dissipated heat is not recovered as the
+  original trophic energy.
+- **C — Incorrect:** Matter is transformed, not destroyed; producers do not recycle metabolic
+  heat into food energy.
+- **D — Incorrect:** Chain versus web geometry does not reverse thermodynamic rules.
 
-A. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-B. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-C. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-D. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
+**Remediation:** Use the exact pair: **energy flows; matter cycles**.
 
-**Answer: C.**
-**Explanation:** Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 10 — Ecological-efficiency calculation
 
-### Q20. Which option avoids the standard UPSC close-option trap about Detritivore and decomposer distinction?
+Producer production is 20,000 kJ m⁻² yr⁻¹ and herbivore production is
+2,000 kJ m⁻² yr⁻¹. What is the trophic transfer efficiency?
 
-A. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-B. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-C. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-D. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
+A. 1%
+B. 10%
+C. 20%
+D. 90%
 
-**Answer: D.**
-**Explanation:** Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q21. Which statement correctly identifies Energy movement versus matter cycling?
+**Option-specific explanation**
+- **A — Incorrect:** It would require herbivore production of 200 kJ m⁻² yr⁻¹.
+- **B — Correct:** `2,000 ÷ 20,000 × 100 = 10%`.
+- **C — Incorrect:** It doubles the actual ratio.
+- **D — Incorrect:** It confuses energy not transferred with energy transferred.
 
-A. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-B. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-C. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-D. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
+**Remediation:** Keep numerator and denominator as production at adjacent trophic levels.
 
-**Answer: A.**
-**Explanation:** Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 11 — Meaning of the ten-percent rule
 
-### Q22. Which option preserves the ecological boundary of Energy movement versus matter cycling?
+Which interpretation of the “about 10%” ecological-efficiency rule is sound?
 
-A. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-B. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-C. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-D. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
+A. Exactly 10% is transferred regardless of ecosystem, season or organism.
+B. At least 90% of biomass, rather than energy, must pass to the next level.
+C. It is a useful average heuristic; actual transfer varies with organisms, diet and conditions.
+D. It applies to nutrient atoms but not to organic-energy transfer.
 
-**Answer: B.**
-**Explanation:** Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q23. Which statement uses Energy movement versus matter cycling without changing its scale, parameter or status?
+**Option-specific explanation**
+- **A — Incorrect:** Ecological efficiency is variable, not a universal fixed constant.
+- **B — Incorrect:** The heuristic concerns production/energy transfer, not compulsory biomass
+  passage.
+- **C — Correct:** Digestibility, metabolism and environment alter realised efficiency.
+- **D — Incorrect:** Nutrient cycling and trophic-energy efficiency are different questions.
 
-A. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-B. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-C. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-D. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
+**Remediation:** Use “about” or “on average”; never present the heuristic as an invariant law.
 
-**Answer: C.**
-**Explanation:** Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 12 — Why chains are usually short
 
-### Q24. Which option avoids the standard UPSC close-option trap about Energy movement versus matter cycling?
+Which mechanism best explains why food chains usually contain few trophic transfers?
 
-A. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-B. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-C. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-D. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
+A. Higher trophic levels receive less because chemical elements are destroyed during feeding.
+B. Producer fixation ceases after a food web reaches a particular level of consumer richness.
+C. Decomposers divert all basal production away from consumers in the grazing pathway.
+D. Repeated metabolic and heat losses leave progressively less production for higher levels.
 
-**Answer: D.**
-**Explanation:** Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q25. Which statement correctly identifies Food chain versus food web?
+**Option-specific explanation**
+- **A — Incorrect:** Elements are conserved and can cycle.
+- **B — Incorrect:** No fixed consumer-richness threshold mechanically stops producer fixation.
+- **C — Incorrect:** Decomposers process dead material but do not block all grazing transfer.
+- **D — Correct:** Cumulative transfer losses constrain the production available at higher
+  trophic levels.
 
-A. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-B. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-C. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-D. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
+**Remediation:** Chain length is an energy-budget problem, not disappearance of matter.
 
-**Answer: A.**
-**Explanation:** A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 13 — Primary productivity
 
-### Q26. Which option preserves the ecological boundary of Food chain versus food web?
+Which equation is correct?
 
-A. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-B. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-C. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-D. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
+A. Net primary productivity = gross primary productivity − producer respiration
+B. Gross primary productivity = net primary productivity − consumer respiration
+C. Secondary productivity = gross primary productivity + producer respiration
+D. Standing crop = gross primary productivity × trophic level
 
-**Answer: B.**
-**Explanation:** A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q27. Which statement uses Food chain versus food web without changing its scale, parameter or status?
+**Option-specific explanation**
+- **A — Correct:** NPP is the portion of total fixation remaining after producer respiration.
+- **B — Incorrect:** GPP is not derived by subtracting consumer respiration from NPP.
+- **C — Incorrect:** Secondary productivity concerns consumer biomass formation.
+- **D — Incorrect:** A standing stock cannot be calculated by that invented relation.
 
-A. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-B. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-C. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-D. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
+**Remediation:** Memorise `NPP = GPP − R`, with `R` referring to producer respiration.
 
-**Answer: C.**
-**Explanation:** A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 14 — Secondary productivity
 
-### Q28. Which option avoids the standard UPSC close-option trap about Food chain versus food web?
+Secondary productivity is best defined as:
 
-A. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-B. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-C. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-D. A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
+A. total solar radiation reaching producers per unit area and time.
+B. the rate at which consumers form new organic matter or biomass.
+C. the quantity of mineral nutrient present in soil at one moment.
+D. the dry mass of all producers measured at one moment.
 
-**Answer: D.**
-**Explanation:** A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q29. Which statement correctly identifies Habitat, niche and niche dimensions?
+**Option-specific explanation**
+- **A — Incorrect:** Incoming radiation is an energy input, not consumer production.
+- **B — Correct:** Secondary productivity measures new heterotroph biomass over time.
+- **C — Incorrect:** That is a standing-state measure.
+- **D — Incorrect:** That is producer standing crop, not a rate.
 
-A. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-B. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-C. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-D. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
+**Remediation:** “Productivity” always requires a time dimension.
 
-**Answer: A.**
-**Explanation:** Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 15 — Standing crop and standing state
 
-### Q30. Which option preserves the ecological boundary of Habitat, niche and niche dimensions?
+Consider the following pairs:
 
-A. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-B. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-C. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-D. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
+1. Standing crop — living biomass present at a stated time
+2. Standing state — quantity of an abiotic nutrient at a stated time
+3. Net primary productivity — total living biomass without a time dimension
 
-**Answer: B.**
-**Explanation:** Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which pairs are correctly matched?
 
-### Q31. Which statement uses Habitat, niche and niche dimensions without changing its scale, parameter or status?
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-A. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-B. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-C. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-D. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option-specific explanation**
+- **A — Incorrect:** Pair 2 is also correct.
+- **B — Incorrect:** Pair 3 wrongly turns a production rate into a stock.
+- **C — Correct:** Standing crop is biotic stock; standing state is abiotic nutrient stock.
+- **D — Incorrect:** NPP must be expressed per unit time.
 
-### Q32. Which option avoids the standard UPSC close-option trap about Habitat, niche and niche dimensions?
+**Remediation:** Ask whether the variable is living/abiotic and stock/rate.
 
-A. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-B. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-C. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-D. Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
+### MCQ 16 — Biomass
 
-**Answer: D.**
-**Explanation:** Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which statement about biomass is incorrect?
 
-### Q33. Which statement correctly identifies Ecotone and edge effect?
+A. It is commonly expressed per unit area or volume.
+B. Dry weight is preferred because water content varies greatly.
+C. It describes a stock present at a stated time.
+D. It can substitute directly for the rate of net primary production.
 
-A. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-B. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-C. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-D. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option-specific explanation**
+- **A — Correct statement:** Biomass requires a spatial basis.
+- **B — Correct statement:** Dry mass improves comparability.
+- **C — Correct statement:** Biomass is a standing quantity.
+- **D — Incorrect statement:** NPP is a rate; biomass is a stock.
 
-### Q34. Which option preserves the ecological boundary of Ecotone and edge effect?
+**Remediation:** A large stock may have slow turnover, while a small stock may be highly
+productive.
 
-A. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-B. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-C. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-D. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
+### MCQ 17 — Decomposition sequence
 
-**Answer: B.**
-**Explanation:** An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which sequence best links dead plant matter to renewed producer uptake?
 
-### Q35. Which statement uses Ecotone and edge effect without changing its scale, parameter or status?
+A. Fragmentation/leaching/catabolism → humification and mineralisation → inorganic pool → uptake
+B. Photosynthesis → animal predation → evaporation → long geological burial → producer uptake
+C. Mineralisation → direct solar capture → fragmentation → trophic transfer → final humification
+D. Leaching → producer respiration → animal pollination → chemical fixation → standing crop
 
-A. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-B. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-C. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
-D. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
+**Answer: A**
 
-**Answer: C.**
-**Explanation:** An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option-specific explanation**
+- **A — Correct:** It combines the overlapping decomposition processes with nutrient return.
+- **B — Incorrect:** Predation and evaporation do not constitute the cellulose decomposition
+  sequence.
+- **C — Incorrect:** It reverses major steps and mixes energy capture into decomposition.
+- **D — Incorrect:** Pollination and photosynthetic fixation are not litter-breakdown stages.
 
-### Q36. Which option avoids the standard UPSC close-option trap about Ecotone and edge effect?
+**Remediation:** The processes overlap, but mineralisation is the direct bridge to inorganic
+nutrient availability.
 
-A. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-B. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-C. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-D. An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
+### MCQ 18 — Controls on decomposition
 
-**Answer: D.**
-**Explanation:** An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which condition generally favours faster decomposition of plant litter?
 
-### Q37. Which statement correctly identifies Stratification and resource partitioning?
+A. Low temperature, oxygen exclusion and lignin-rich litter
+B. Warm moisture, oxygen availability and nitrogen-rich litter
+C. Permanent freezing, water exclusion and chitin-rich litter
+D. Anaerobic saturation, low microbial activity and resistant humus
 
-A. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-B. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-C. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-D. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option-specific explanation**
+- **A — Incorrect:** Cold, anaerobiosis and resistant compounds slow microbial processing.
+- **B — Correct:** Warmth, suitable moisture, oxygen and more labile litter generally
+  accelerate decomposition.
+- **C — Incorrect:** Freezing, dryness and chitin resist rapid breakdown.
+- **D — Incorrect:** Anaerobic conditions and resistant humus favour slow accumulation.
 
-### Q38. Which option preserves the ecological boundary of Stratification and resource partitioning?
+**Remediation:** Moisture helps only within a usable range; waterlogging can create
+oxygen limitation.
 
-A. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-B. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-C. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-D. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
+### MCQ 19 — Humification and mineralisation
 
-**Answer: B.**
-**Explanation:** Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which distinction is correct?
 
-### Q39. Which statement uses Stratification and resource partitioning without changing its scale, parameter or status?
+A. Humification releases atmospheric nitrogen, while mineralisation forms living biomass from inorganic matter.
+B. Humification and mineralisation are names for animal fragmentation at different trophic levels.
+C. Humification forms relatively resistant humus; mineralisation releases inorganic nutrients.
+D. Humification recycles heat; mineralisation prevents matter from returning to producers.
 
-A. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-B. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-C. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-D. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option-specific explanation**
+- **A — Incorrect:** Neither process has that nitrogen-release or biomass-formation meaning.
+- **B — Incorrect:** Both are microbial/soil decomposition processes, not animal trophic ranks.
+- **C — Correct:** Humus formation stores resistant organic matter; mineralisation returns
+  inorganic forms.
+- **D — Incorrect:** Heat is not recycled, and mineralisation enables nutrient reuse.
 
-### Q40. Which option avoids the standard UPSC close-option trap about Stratification and resource partitioning?
+**Remediation:** Humus is an organic store; mineral nutrients are the released inorganic pool.
 
-A. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-B. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-C. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-D. Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
+### MCQ 20 — Tropical rainforest soil
 
-**Answer: D.**
-**Explanation:** Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Statement I: Tropical rainforest soils are necessarily rich in plant-available nutrients.
+Statement II: High temperature and moisture can cause dead organic matter to decompose rapidly.
 
-### Q41. Which statement correctly identifies Gross and net primary productivity?
+Which option is correct?
 
-A. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-B. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-C. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-D. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
+A. Both statements are correct, and II explains I.
+B. Both statements are correct, but II does not explain I.
+C. Statement I is correct, but Statement II is incorrect.
+D. Statement I is incorrect, but Statement II is correct.
 
-**Answer: A.**
-**Explanation:** Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q42. Which option preserves the ecological boundary of Gross and net primary productivity?
+**Option-specific explanation**
+- **A — Incorrect:** Rapid cycling does not make the soil necessarily nutrient-rich.
+- **B — Incorrect:** Statement I remains false as a generalisation.
+- **C — Incorrect:** Warm and moist conditions generally accelerate decomposition.
+- **D — Correct:** Nutrients can be rapidly taken up or leached despite fast decomposition.
 
-A. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-B. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-C. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-D. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
+**Remediation:** Distinguish rapid nutrient **cycling** from a large nutrient **stock in soil**.
 
-**Answer: B.**
-**Explanation:** Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 21 — Habitat and niche
 
-### Q43. Which statement uses Gross and net primary productivity without changing its scale, parameter or status?
+Which statement is correct?
 
-A. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-B. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-C. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-D. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
+A. Habitat is the physical place occupied; niche is the organism's resource use and interactions.
+B. Habitat is a feeding role; niche is the geographic coordinate recorded for occurrence.
+C. Habitat and niche are interchangeable whenever two species occupy one forest.
+D. Niche is restricted to reproduction and excludes food or microhabitat.
 
-**Answer: C.**
-**Explanation:** Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q44. Which option avoids the standard UPSC close-option trap about Gross and net primary productivity?
+**Option-specific explanation**
+- **A — Correct:** It preserves the address-versus-function distinction.
+- **B — Incorrect:** The meanings are reversed and unduly narrowed.
+- **C — Incorrect:** Co-occurrence does not imply ecological identity.
+- **D — Incorrect:** Reproductive, trophic and habitat dimensions can all form part of niche.
 
-A. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-B. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-C. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-D. Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
+**Remediation:** Use the memory pair: habitat = **where**; niche = **how**.
 
-**Answer: D.**
-**Explanation:** Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 22 — Niche dimensions
 
-### Q45. Which statement correctly identifies Standing crop and standing state?
+Which set matches the three niche dimensions used in the canonical owner?
 
-A. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-B. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-C. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-D. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
+A. Genetic, species and ecosystem
+B. Habitat, trophic and reproductive
+C. Climatic, edaphic and geological
+D. Producer, consumer and decomposer
 
-**Answer: A.**
-**Explanation:** Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q46. Which option preserves the ecological boundary of Standing crop and standing state?
+**Option-specific explanation**
+- **A — Incorrect:** These are biodiversity levels.
+- **B — Correct:** They describe where an organism lives, feeds and reproduces.
+- **C — Incorrect:** These are broad abiotic controls, not the three niche dimensions.
+- **D — Incorrect:** These are functional trophic groups.
 
-A. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-B. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-C. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-D. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
+**Remediation:** A species may overlap another in one niche dimension while separating in
+another.
 
-**Answer: B.**
-**Explanation:** Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 23 — Resource partitioning
 
-### Q47. Which statement uses Standing crop and standing state without changing its scale, parameter or status?
+Two insectivorous birds feed in the same tree, one mainly in the canopy at dawn and the
+other near the trunk in the afternoon. This most directly illustrates:
 
-A. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-B. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-C. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-D. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
+A. complete niche overlap followed by inevitable immediate extinction.
+B. primary succession after removal of vegetation.
+C. resource partitioning by space and time.
+D. conversion of a food web into a nutrient cycle.
 
-**Answer: C.**
-**Explanation:** Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q48. Which option avoids the standard UPSC close-option trap about Standing crop and standing state?
+**Option-specific explanation**
+- **A — Incorrect:** The birds separate both spatial and temporal resource use.
+- **B — Incorrect:** No new-community sequence on bare substrate is described.
+- **C — Correct:** Partitioning reduces direct overlap in use of a shared resource base.
+- **D — Incorrect:** Feeding relations and nutrient cycling are not interchangeable.
 
-A. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-B. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-C. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-D. Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
+**Remediation:** Partitioning can occur by food, microhabitat or time.
 
-**Answer: D.**
-**Explanation:** Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 24 — Stratification and life zones
 
-### Q49. Which statement correctly identifies Stability and resilience?
+Which comparison is accurate?
 
-A. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-B. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-C. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-D. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
+A. Stratification and life zone both mean the number of trophic transfers in a chain.
+B. Stratification is regional climate, while a life zone is a single canopy layer.
+C. Both terms mean a legal category of protected forest.
+D. Stratification is vertical layering within a community; life zones are broader altitudinal climatic communities.
 
-**Answer: A.**
-**Explanation:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q50. Which option preserves the ecological boundary of Stability and resilience?
+**Option-specific explanation**
+- **A — Incorrect:** Neither term counts trophic transfers.
+- **B — Incorrect:** It reverses their spatial meanings.
+- **C — Incorrect:** Both are ecological, not statutory, concepts.
+- **D — Correct:** Canopy-to-floor layering differs from elevation-linked community zones.
 
-A. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-B. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-C. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-D. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
+**Remediation:** Keep local vertical structure separate from landscape-scale altitudinal
+zonation.
 
-**Answer: B.**
-**Explanation:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 25 — Ecotone
 
-### Q51. Which statement uses Stability and resilience without changing its scale, parameter or status?
+Which description best defines an ecotone?
 
-A. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-B. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-C. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-D. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
+A. A transition zone of variable width between adjoining ecosystems
+B. A line beyond which no species from either community can occur
+C. A trophic level reserved for omnivores and decomposers
+D. A legally notified buffer surrounding protected areas
 
-**Answer: C.**
-**Explanation:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q52. Which option avoids the standard UPSC close-option trap about Stability and resilience?
+**Option-specific explanation**
+- **A — Correct:** An ecotone is a spatial transition with overlapping and sometimes distinct
+  conditions.
+- **B — Incorrect:** Species from adjoining communities commonly overlap.
+- **C — Incorrect:** Ecotone is spatial, not a feeding level.
+- **D — Incorrect:** It is an ecological concept, not automatically a legal notification.
 
-A. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-B. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-C. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-D. Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
+**Remediation:** Write “zone,” not “boundary line.”
 
-**Answer: D.**
-**Explanation:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 26 — Edge effect
 
-### Q53. Which statement correctly identifies Ecosystem services and NCP?
+Which statement about edge effect is most defensible?
 
-A. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-B. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-C. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-D. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
+A. Edge creation normally raises native richness and indicates improved ecosystem health.
+B. Edge conditions may increase some species while disadvantaging interior specialists.
+C. Edge effect and ecotone describe the same spatial ecological feature.
+D. Human-created fragmentation cannot produce an ecological edge.
 
-**Answer: A.**
-**Explanation:** The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q54. Which option preserves the ecological boundary of Ecosystem services and NCP?
+**Option-specific explanation**
+- **A — Incorrect:** Richness and benefit are context-dependent, not universal.
+- **B — Correct:** Light, wind, predation and invasion can favour some organisms and harm
+  others.
+- **C — Incorrect:** Ecotone is the transition zone; edge effect is a response pattern.
+- **D — Incorrect:** Roads and clearing can create abrupt edges.
 
-A. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-B. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-C. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-D. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
+**Remediation:** Never infer ecosystem improvement merely from greater edge abundance.
 
-**Answer: B.**
-**Explanation:** The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 27 — Resistance, resilience and recovery
 
-### Q55. Which statement uses Ecosystem services and NCP without changing its scale, parameter or status?
+After a cyclone, Wetland X loses little function but recovers slowly; Wetland Y loses much
+function but returns rapidly. Which reading is correct?
 
-A. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-B. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-C. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-D. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
+A. X has lower resistance and Y has lower resilience.
+B. X and Y have the same stability because both systems eventually persist after the cyclone.
+C. X shows higher resistance, while Y shows faster recovery and potentially higher resilience.
+D. Recovery and resistance are the same variable measured at different sites.
 
-**Answer: C.**
-**Explanation:** The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q56. Which option avoids the standard UPSC close-option trap about Ecosystem services and NCP?
+**Option-specific explanation**
+- **A — Incorrect:** X's small immediate change indicates higher, not lower, resistance.
+- **B — Incorrect:** Different response dimensions cannot be collapsed into one conclusion.
+- **C — Correct:** The scenario separates immediate displacement from rebound.
+- **D — Incorrect:** Resistance concerns change during the shock; recovery concerns the
+  post-shock path.
 
-A. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-B. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-C. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-D. The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
+**Remediation:** Always name the disturbance, response variable and time window.
 
-**Answer: D.**
-**Explanation:** The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 28 — Carrying capacity
 
-### Q57. Which statement correctly identifies Carrying capacity?
+A hill town expands water supply through technology but continues losing recharge zones and
+raising waste loads. Which conclusion is best?
 
-A. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-B. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-C. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-D. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
+A. The supply technology alone establishes a higher capacity because water is the limiting variable.
+B. Present population equals capacity whenever average annual supply matches average annual demand.
+C. Resource supply is sufficient for estimation without waste assimilation or habitat connectivity.
+D. Capacity remains dynamic because supply, assimilation, habitat and governance all matter.
 
-**Answer: A.**
-**Explanation:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q58. Which option preserves the ecological boundary of Carrying capacity?
+**Option-specific explanation**
+- **A — Incorrect:** Efficiency can modify but not abolish ecological limits.
+- **B — Incorrect:** Present load may be above, below or temporarily supported beyond a
+  sustainable threshold.
+- **C — Incorrect:** Water, waste, habitat and disturbance capacity are also relevant.
+- **D — Correct:** Carrying capacity is conditional on multiple functions and management.
 
-A. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-B. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-C. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-D. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
+**Remediation:** A capacity estimate must specify boundary, season, consumption and the
+function protected.
 
-**Answer: B.**
-**Explanation:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 29 — Ecosystem-service classification
 
-### Q59. Which statement uses Carrying capacity without changing its scale, parameter or status?
+Which pair is correctly matched?
 
-A. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-B. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-C. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-D. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
+A. Supporting service — nutrient cycling that enables other services
+B. Provisioning service — flood moderation by wetland storage
+C. Cultural service — primary production of plant biomass
+D. Regulating service — direct harvest of fish for food
 
-**Answer: C.**
-**Explanation:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q60. Which option avoids the standard UPSC close-option trap about Carrying capacity?
+**Option-specific explanation**
+- **A — Correct:** Nutrient cycling underpins the production of many other benefits.
+- **B — Incorrect:** Flood moderation is regulating.
+- **C — Incorrect:** Primary production is supporting in the MEA taxonomy.
+- **D — Incorrect:** Harvested fish are provisioning.
 
-A. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-B. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-C. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-D. Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
+**Remediation:** Provisioning gives products; regulating moderates processes; supporting
+enables; cultural is non-material.
 
-**Answer: D.**
-**Explanation:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 30 — Nature's Contributions to People
 
-### Q61. Which statement correctly identifies Interaction and coevolution PYQ routes?
+Why is the IPBES Nature's Contributions to People framing analytically useful?
 
-A. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-B. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-C. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-D. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
+A. It narrows assessment to market-priced material outputs from ecosystems.
+B. It makes relational and Indigenous/local-knowledge values more visible alongside material values.
+C. It converts culturally different values into one commensurable monetary measure.
+D. It treats nature's contributions as independent of social and spatial context.
 
-**Answer: A.**
-**Explanation:** The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q61. Which statement correctly identifies Interaction and coevolution PYQ routes?”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Option-specific explanation**
+- **A — Incorrect:** NCP broadens rather than narrows the recognised value field.
+- **B — Correct:** It broadens valuation beyond a narrowly instrumental frame.
+- **C — Incorrect:** Plural values cannot all be collapsed into one monetary measure.
+- **D — Incorrect:** Cultural, temporal and spatial context is central to the framing.
 
-**Detailed examiner-grade model answer:**
+**Remediation:** MEA supplies a useful four-part taxonomy; NCP adds plural values and
+relationships.
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q61. Which statement correctly identifies Interaction and coevolution PYQ routes?”.
+### MCQ 31 — Extent versus quality
 
-**Analytical body:**
+ISFR reports an increase in forest and tree cover. Which conclusion is justified by that
+fact alone?
 
-1. **Claim and named evidence:** Q61. Which statement correctly identifies Interaction and coevolution PYQ routes? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+A. Native richness can be inferred from cover increase whenever mapped patches are contiguous.
+B. Old-growth forest area rises in the same proportion as total forest and tree cover.
+C. Canopy extent changed under the report's method; ecosystem quality needs additional evidence.
+D. Nutrient cycling improves wherever canopy density crosses the report's mapping threshold.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Answer: C**
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q61. Which statement correctly identifies Interaction and coevolution PYQ routes?”.
+**Option-specific explanation**
+- **A — Incorrect:** Cover data alone do not establish richness.
+- **B — Incorrect:** Plantation and natural forest may both contribute to cover.
+- **C — Correct:** The statistic measures extent under a defined methodology.
+- **D — Incorrect:** Function requires separate process and composition evidence.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Remediation:** Match the conclusion to the variable actually measured.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+### MCQ 32 — Programme status
 
-**How to improve this answer:** For “Q61. Which statement correctly identifies Interaction and coevolution PYQ routes?”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+Which wording correctly uses the Economic Survey 2025-26 evidence on MISHTI?
 
-### Q62. Which option preserves the ecological boundary of Interaction and coevolution PYQ routes?
+A. MISHTI reports completed restoration of 540 sq km and delivery of projected livelihood and carbon outcomes.
+B. MISHTI legally guarantees a uniform cyclone-damage reduction percentage across Indian coastal settings.
+C. MISHTI's estimated carbon sink proves that native mangrove biodiversity and hydrology have already recovered.
+D. MISHTI envisages about 540 sq km of work during 2023-2028; targets and estimates are not audited outcomes.
 
-A. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-B. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-C. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-D. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
+**Answer: D**
 
-**Answer: B.**
-**Explanation:** The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Option-specific explanation**
+- **A — Incorrect:** It changes an envisaged programme scale into completed achievement.
+- **B — Incorrect:** No universal legal performance guarantee follows.
+- **C — Incorrect:** A carbon estimate cannot establish biodiversity recovery.
+- **D — Correct:** It preserves the official status verbs and evidence limit.
 
-**Demand decoding:** Treat “Q62. Which option preserves the ecological boundary of Interaction and coevolution PYQ routes?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+**Remediation:** Use *envisages*, *expected* and *estimated* exactly where the source does.
 
-**Detailed examiner-grade model answer:**
+### MCQ 33 — Keystone role
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q62. Which option preserves the ecological boundary of Interaction and coevolution PYQ routes?”.
+Which observation most strongly supports calling a species a keystone?
 
-**Analytical body:**
+A. Its removal causes a community change disproportionately large relative to its abundance.
+B. It is the most abundant plant and physically forms nearly all available habitat.
+C. Its population trend is easy to measure and tracks one pollutant.
+D. Its large home range makes it useful for reserve planning.
 
-1. **Claim and named evidence:** Q62. Which option preserves the ecological boundary of Interaction and coevolution PYQ routes? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Answer: A**
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Option-specific explanation**
+- **A — Correct:** Disproportionate ecological effect is the keystone test.
+- **B — Incorrect:** Dominant habitat formation points to a foundation species.
+- **C — Incorrect:** Diagnostic response points to an indicator.
+- **D — Incorrect:** Broad spatial protection points to an umbrella.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q62. Which option preserves the ecological boundary of Interaction and coevolution PYQ routes?”.
+**Remediation:** Keystone concerns causal effect, not popularity, abundance or monitoring
+convenience.
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+### MCQ 34 — Foundation species
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+Which case best illustrates a foundation species?
 
-**How to improve this answer:** For “Q62. Which option preserves the ecological boundary of Interaction and coevolution PYQ routes?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+A. A rare predator whose removal releases prey populations
+B. A dominant mangrove tree that creates intertidal habitat used by many organisms
+C. A lichen monitored because it responds to sulphur pollution
+D. A tiger chosen to mobilise public support for a landscape conservation campaign
 
-### Q63. Which statement uses Interaction and coevolution PYQ routes without changing its scale, parameter or status?
+**Answer: B**
 
-A. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-B. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-C. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
-D. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
+**Option-specific explanation**
+- **A — Incorrect:** Disproportionate trophic control is a keystone pattern.
+- **B — Correct:** Abundance and physical habitat formation define the foundation role.
+- **C — Incorrect:** Pollution response is an indicator role.
+- **D — Incorrect:** Public mobilisation is a flagship role.
 
-**Answer: C.**
-**Explanation:** The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Remediation:** Foundation species build or maintain the physical template of a community.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q63. Which statement uses Interaction and coevolution PYQ routes without changing its scale,…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+### MCQ 35 — Indicator species
 
-**Detailed examiner-grade model answer:**
+Which is the best use of an indicator species?
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q63. Which statement uses Interaction and coevolution PYQ routes without changing its scale, parameter or status?”.
+A. Assuming its protection conserves the full species assemblage in a landscape
+B. Inferring that sensitivity to pollution means it creates habitat for other species
+C. Using its presence, absence or condition to assess a specified environmental state
+D. Treating its high abundance as proof that it is a keystone
 
-**Analytical body:**
+**Answer: C**
 
-1. **Claim and named evidence:** Q63. Which statement uses Interaction and coevolution PYQ routes without changing its scale, parameter or status? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Option-specific explanation**
+- **A — Incorrect:** That overstates umbrella logic.
+- **B — Incorrect:** Sensitivity does not make the organism a habitat former.
+- **C — Correct:** Indicator value is diagnostic and condition-specific.
+- **D — Incorrect:** Keystone status depends on disproportionate effect, not abundance.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Remediation:** State what condition the indicator signals; avoid “indicator of health” in
+the abstract.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q63. Which statement uses Interaction and coevolution PYQ routes without changing its scale, parameter or status?”.
+### MCQ 36 — Umbrella and flagship
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+Which statement best distinguishes umbrella from flagship species?
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+A. Umbrella species are plants, while flagship species are animals.
+B. Umbrella status proves a disproportionate trophic effect, while flagship status proves abundance.
+C. Flagship selection protects all co-occurring species by definition, while umbrella selection raises funds.
+D. Umbrella selection seeks habitat co-benefits; flagship selection chiefly mobilises public support.
 
-**How to improve this answer:** For “Q63. Which statement uses Interaction and coevolution PYQ routes without changing its scale,…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Answer: D**
 
-### Q64. Which option avoids the standard UPSC close-option trap about Interaction and coevolution PYQ routes?
+**Option-specific explanation**
+- **A — Incorrect:** Neither label is restricted in that way.
+- **B — Incorrect:** It confuses umbrella with keystone and flagship with foundation.
+- **C — Incorrect:** The functions are reversed and the guarantee is unjustified.
+- **D — Correct:** The labels may overlap, but their principal tests differ.
 
-A. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-B. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-C. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-D. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
+**Remediation:** Tiger can be both, yet each label needs its own justification.
 
-**Answer: D.**
-**Explanation:** The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 37 — Parasitoid
 
-### Q65. Which statement correctly identifies Ocean producers, filter feeders and detritivores?
+Which feature most clearly distinguishes a parasitoid from a typical parasite?
 
-A. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-B. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-C. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-D. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
+A. Its developing stage ultimately kills the individual host it exploits.
+B. It consumes dead organic matter outside a host.
+C. It benefits the host by improving reproduction.
+D. It captures and immediately eats many prey individuals.
 
-**Answer: A.**
-**Explanation:** The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q66. Which option preserves the ecological boundary of Ocean producers, filter feeders and detritivores?
+**Option-specific explanation**
+- **A — Correct:** A parasitoid develops in or on one host and ultimately kills it.
+- **B — Incorrect:** That describes detrital feeding, not parasitoidism.
+- **C — Incorrect:** Benefiting both partners is mutualism.
+- **D — Incorrect:** Immediate consumption of multiple prey is predation.
 
-A. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-B. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-C. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-D. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
+**Remediation:** Parasite usually depends on continued host survival; parasitoid development
+ends in host death.
 
-**Answer: B.**
-**Explanation:** The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 38 — Fig–wasp relationship
 
-### Q67. Which statement uses Ocean producers, filter feeders and detritivores without changing its scale, parameter or status?
+The close association between a fig species and its specific pollinating wasp is best
+described as:
 
-A. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-B. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-C. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
-D. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
+A. commensalism without reproductive dependence.
+B. coevolved pollination mutualism.
+C. detritivory followed by mineralisation.
+D. umbrella-species conservation.
 
-**Answer: C.**
-**Explanation:** The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q68. Which option avoids the standard UPSC close-option trap about Ocean producers, filter feeders and detritivores?
+**Option-specific explanation**
+- **A — Incorrect:** The association involves reciprocal reproductive benefit.
+- **B — Correct:** The wasp pollinates the fig while using the fig reproductive structure.
+- **C — Incorrect:** No dead-matter pathway defines the relationship.
+- **D — Incorrect:** Umbrella is a conservation-planning label, not a species interaction.
 
-A. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-B. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-C. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-D. The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list.
+**Remediation:** Keep ecological interaction type separate from conservation label.
 
-**Answer: D.**
-**Explanation:** The audited routes require primary producers in ocean food chains, filter-feeding organisms and detritivore function to remain in Basic practice; each is a functional role and not a claim about one universal species list. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 39 — Ocean functional roles
 
-### Q69. Which statement correctly identifies Wetland filtering as structure-function evidence?
+Which set is correctly classified?
 
-A. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-B. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-C. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-D. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
+A. Copepods—zooplankton consumers; oysters—filter feeders; diatoms—microbial decomposers
+B. Foraminifera—primary producers; oysters—suspension filter feeders; cyanobacteria—consumers
+C. Cyanobacteria and diatoms—primary producers; oyster—filter feeder; copepods—consumers
+D. Diatoms—primary producers; oyster—grazing aquatic herbivore; copepods—microbial decomposers
 
-**Answer: A.**
-**Explanation:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q70. Which option preserves the ecological boundary of Wetland filtering as structure-function evidence?
+**Option-specific explanation**
+- **A — Incorrect:** The first two pairings are sound, but diatoms are photosynthetic
+  producers rather than decomposers.
+- **B — Incorrect:** Oysters filter feed, but foraminifera and cyanobacteria are misclassified.
+- **C — Correct:** It preserves the tested marine functional roles.
+- **D — Incorrect:** Diatoms produce, but oysters and copepods are misclassified.
 
-A. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-B. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-C. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-D. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
+**Remediation:** Organism size or aquatic habitat does not determine trophic function.
 
-**Answer: B.**
-**Explanation:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 40 — Integrated mangrove appraisal
 
-### Q71. Which statement uses Wetland filtering as structure-function evidence without changing its scale, parameter or status?
+A coastal project retains a narrow mangrove strip but blocks tidal exchange and fragments
+fish-nursery creeks. Which appraisal is strongest?
 
-A. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-B. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-C. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-D. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
+A. Tree presence alone proves all ecosystem services are intact.
+B. Carbon storage alone proves carrying capacity has not been exceeded.
+C. Flagship-species publicity can substitute for hydrological monitoring.
+D. Structure, connectivity, hydrology and service performance must be tested together.
 
-**Answer: C.**
-**Explanation:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q72. Which option avoids the standard UPSC close-option trap about Wetland filtering as structure-function evidence?
+**Option-specific explanation**
+- **A — Incorrect:** Retained stems do not establish intact processes.
+- **B — Incorrect:** One service cannot establish whole-system capacity.
+- **C — Incorrect:** Communication value cannot replace functional evidence.
+- **D — Correct:** Ecosystem appraisal must connect structural integrity to actual functions.
 
-A. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-B. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-C. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-D. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
+**Remediation:** Protecting a visible component is not the same as preserving the operating
+system.
 
-**Answer: D.**
-**Explanation:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### Original-MCQ audit
 
-### Q73. Which statement correctly identifies Extent versus ecosystem quality?
-
-A. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-B. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-C. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-D. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-
-**Answer: A.**
-**Explanation:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q74. Which option preserves the ecological boundary of Extent versus ecosystem quality?
-
-A. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-B. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-C. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-D. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-
-**Answer: B.**
-**Explanation:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q75. Which statement uses Extent versus ecosystem quality without changing its scale, parameter or status?
-
-A. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-B. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-C. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-D. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-
-**Answer: C.**
-**Explanation:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Extent versus ecosystem quality?
-
-A. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-B. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-C. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-D. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-
-**Answer: D.**
-**Explanation:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q77. Which statement correctly identifies Institution and evidence boundary?
-
-A. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-B. The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-C. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-D. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-
-**Answer: A.**
-**Explanation:** MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q78. Which option preserves the ecological boundary of Institution and evidence boundary?
-
-A. Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-B. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-C. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-D. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-
-**Answer: B.**
-**Explanation:** MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q79. Which statement uses Institution and evidence boundary without changing its scale, parameter or status?
-
-A. Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-B. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-C. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-D. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-
-**Answer: C.**
-**Explanation:** MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Institution and evidence boundary?
-
-A. Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-B. Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-C. Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
-D. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
-
-**Answer: D.**
-**Explanation:** MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+- **Count:** 40
+- **Answer sequence:** `ABCD ABCD ABCD ABCD ABCD ABCD ABCD ABCD ABCD ABCD`
+- **Distribution:** A = 10, B = 10, C = 10, D = 10
+- **Formats used:** single-best answer, multi-statement code, assertion-reason, calculation,
+  sequence, matching, negative stem, caselet and policy-status application.
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q64. Which option avoids the standard UPSC close-option trap about Interaction and…” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+### PYQ verification legend
 
-**Detailed examiner-grade model answer:**
+| Label | Meaning |
+|---|---|
+| **OFFICIAL KEY** | Set-A answer read from the locally held UPSC key |
+| **INFERRED ANSWER** | official question verified; no official local key held; answer derived from authoritative ecology |
+| **PROVISIONAL KEY** | answer read from a locally held key explicitly marked provisional |
+| **DROPPED** | question excluded from scoring in the held key |
+| **DIRECT OWNER** | central routing ledger assigns the question to Environment and Ecology Topic 01 |
+| **SHARED/APPLICATION** | another topic remains primary owner, while Topic 01 supplies an indispensable mechanism |
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q64. Which option avoids the standard UPSC close-option trap about Interaction and coevolution PYQ routes?”.
+**Exact/OCR note:** English stems and options below are transcribed from the local official
+paper images/OCR. Line wrapping, Roman-numeral typography and obvious OCR punctuation are
+normalised; substantive wording and options are preserved. No selected question is marked
+dropped in the locally held key.
 
-**Analytical body:**
+### PYQ-P1 — 2019 Prelims GS-I, Question 28 — DIRECT OWNER
 
-1. **Claim and named evidence:** Q64. Which option avoids the standard UPSC close-option trap about Interaction and coevolution PYQ routes? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** D. The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Q65. Which statement correctly identifies Ocean producers, filter feeders and detritivores? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** B. Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** C. Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Status:** OFFICIAL QUESTION · **INFERRED ANSWER — official local key unavailable** · High confidence
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Consider the following statements:
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q64. Which option avoids the standard UPSC close-option trap about Interaction and coevolution PYQ routes?”.
+1. Some species of turtles are herbivores.
+2. Some species of fish are herbivores.
+3. Some species of marine mammals are herbivores.
+4. Some species of snakes are viviparous.
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+Which of the statements given above are correct?
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+A. 1 and 3 only
+B. 2, 3 and 4 only
+C. 2 and 4 only
+D. 1, 2, 3 and 4
 
-**How to improve this answer:** For “Q64. Which option avoids the standard UPSC close-option trap about Interaction and…”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+**Answer: D — Inferred, high confidence**
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+**Option-specific explanation**
+- **A — Incorrect:** Statements 2 and 4 are also correct.
+- **B — Incorrect:** Statement 1 is correct; herbivorous turtles include species specialised
+  on plant material.
+- **C — Incorrect:** It omits true statements 1 and 3.
+- **D — Correct:** Herbivory occurs among turtles, fishes and marine mammals such as sirenians,
+  while viviparity occurs in some snakes.
 
-The audited owners route the 2019 GS-III carrying-capacity demand directly to this topic and route objective concepts on primary producers, filter feeders, detritivores, symbiosis, parasitoids, fig pollination and wetland function. The direct Mains demand is solved as a demand card; objective routes remain answer-free because this package does not infer an official option or key.
+**Ownership note:** Directly routed to Topic 01 because it tests consumer feeding roles and
+reproductive variation. The answer is not presented as an official key.
 
-### OWNER PYQ LEDGER EXTRACTS
+### PYQ-P2 — 2021 Prelims GS-I, Question 22 — DIRECT OWNER
 
-#### 9. PYQ application
+**Status:** OFFICIAL QUESTION · **INFERRED ANSWER — official local key unavailable** · High confidence
 
-- ⚠️ Recurring Prelims pattern: identify correct statements on energy flow, trophic levels
-  and decomposer function using elimination against the traps above.
-- ⚠️ Mains linkage: ecosystem-services framing (provisioning, regulating, supporting,
-  cultural) is used to justify conservation and EIA arguments across GS-III.
+Consider the following kinds of organisms:
 
-#### Recent PYQ Integration (2024-2025)
+1. Copepods
+2. Cyanobacteria
+3. Diatoms
+4. Foraminifera
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+Which of the above are primary producers in the food chains of oceans?
 
-- **Years represented:** 2024, 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
+A. 1 and 2
+B. 2 and 3
+C. 3 and 4
+D. 1 and 4
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 18 | Parasitoid species among organisms (carabid beetles, centipedes, flies, termites, wasps) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2024 | Prelims GS-I | 28 | Tree uniquely pollinated by a coevolved insect (fig) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 40 | Sources of the planet's oxygen (rainforests, phytoplankton, surface water) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Answer: B — Inferred, high confidence**
 
-##### What this owner must now support
+**Option-specific explanation**
+- **A — Incorrect:** Cyanobacteria produce, but copepods are zooplankton consumers.
+- **B — Correct:** Cyanobacteria and diatoms photosynthesise and form part of marine primary
+  production.
+- **C — Incorrect:** Foraminifera are primarily heterotrophic protists, not the producer
+  group intended here.
+- **D — Incorrect:** Both listed groups are consumer/heterotrophic components in this
+  classification.
 
-- Parasitoid species among organisms (carabid beetles, centipedes, flies, termites, wasps)
-- Tree uniquely pollinated by a coevolved insect (fig)
-- Sources of the planet's oxygen (rainforests, phytoplankton, surface water)
+**Ownership note:** Direct Topic 01 route: producer identity and the base of an oceanic food
+web.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+### PYQ-P3 — 2021 Prelims GS-I, Question 26 — DIRECT OWNER
 
-#### Historical PYQ Integration (2018-2023)
+**Status:** OFFICIAL QUESTION · **INFERRED ANSWER — official local key unavailable** · High confidence
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+Which one of the following is a filter feeder?
 
-- **Years represented:** 2019, 2021, 2022
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 8
+A. Catfish
+B. Octopus
+C. Oyster
+D. Pelican
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 17 | Ecosystem carrying capacity concept and sustainable development planning | Define · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | Prelims GS-I | 28 | Marine and reptile animal dietary and reproductive characteristics | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 22 | Primary producers in ocean food chains | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 26 | Filter feeder organisms in marine ecology | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 28 | Detritivores and their role in decomposition | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2021 | Prelims GS-I | 30 | Organisms capable of establishing symbiotic relationships | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 43 | Wetland ecosystem filtering and heavy metal absorption functions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 90 | Species known for cultivating fungi symbiotic relationship | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+**Answer: C — Inferred, high confidence**
 
-##### What this owner must now support
+**Option-specific explanation**
+- **A — Incorrect:** Catfish feeding modes vary, but it is not the standard filter-feeder
+  answer among these options.
+- **B — Incorrect:** Octopuses are active predators.
+- **C — Correct:** Oysters filter suspended particles and plankton from water.
+- **D — Incorrect:** Pelicans capture fish; the bill pouch does not make them suspension
+  filter feeders.
 
-- Ecosystem carrying capacity concept and sustainable development planning
-- Marine and reptile animal dietary and reproductive characteristics
-- Primary producers in ocean food chains
-- Filter feeder organisms in marine ecology
-- Detritivores and their role in decomposition
-- Organisms capable of establishing symbiotic relationships
-- Wetland ecosystem filtering and heavy metal absorption functions
-- Species known for cultivating fungi symbiotic relationship
+**Ownership note:** Direct Topic 01 route: a feeding guild is a functional role, not a
+taxonomic level.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+### PYQ-P4 — 2021 Prelims GS-I, Question 28 — DIRECT OWNER
 
-#### 10. PYQ-based analytical application
+**Status:** OFFICIAL QUESTION · **INFERRED ANSWER — official local key unavailable** · High confidence
 
-- ⚠️ Trophic-level and energy-flow statement-based Prelims questions are answered fastest by
-  applying the one-way-energy / cyclic-matter rule and the ecological-efficiency figure.
-- ⚠️ Mains questions on "ecosystem services" or "valuing nature" expect the four-category
-  framework plus a governance-gap critique (Section 4-5 above), not a textbook definition.
+Which of the following are detritivores?
 
-#### Historical PYQ Integration (2018-2023)
+1. Earthworms
+2. Jellyfish
+3. Millipedes
+4. Seahorses
+5. Woodlice
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+Select the correct answer using the code given below.
 
-- **Years represented:** 2019
-- **Paper(s):** GS-III
-- **Routed question demands:** 1
+A. 1, 2 and 4 only
+B. 2, 3, 4 and 5 only
+C. 1, 3 and 5 only
+D. 1, 2, 3, 4 and 5
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2019 | GS-III | 17 | Ecosystem carrying capacity concept and sustainable development planning | Define · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Answer: C — Inferred, high confidence**
 
-##### What this owner must now support
+**Option-specific explanation**
+- **A — Incorrect:** Jellyfish and seahorses are not detritivores, while millipedes and
+  woodlice were omitted.
+- **B — Incorrect:** It wrongly includes jellyfish and seahorses and omits earthworms.
+- **C — Correct:** Earthworms, many millipedes and woodlice feed on and fragment detrital
+  material.
+- **D — Incorrect:** Jellyfish are predators and seahorses feed on small aquatic animals.
 
-- Ecosystem carrying capacity concept and sustainable development planning
+**Ownership note:** Direct Topic 01 route: it tests detritivore versus decomposer and
+consumer distinctions.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+### PYQ-P5 — 2021 Prelims GS-I, Question 30 — DIRECT OWNER
 
-### PYQ DEMAND CARD 1 — 2019 GS-III, Question 17
+**Status:** OFFICIAL QUESTION · **INFERRED ANSWER — official local key unavailable** · High confidence
 
-**Demand:** Define ecosystem carrying capacity and explain its relevance to sustainable development planning.
+Which of the following have species that can establish symbiotic relationship with other
+organisms?
 
-**Status:** Verified routed Mains demand; model answer is original and not an official UPSC solution.
+1. Cnidarians
+2. Fungi
+3. Protozoa
 
-**Model solution:** **Ecosystem as a bounded functional unit:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. **Stability and resilience:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Carrying capacity:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. **Wetland filtering as structure-function evidence:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Extent versus ecosystem quality:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+Select the correct answer using the code given below.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2019 GS-III, Question 17”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-**Detailed examiner-grade model answer:**
+**Answer: D — Inferred, high confidence**
 
-**Introduction and thesis:** **Ecosystem as a bounded functional unit:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. **Stability and resilience:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Carrying capacity:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. **Wetland filtering as structure-function evidence:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Extent versus ecosystem quality:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+**Option-specific explanation**
+- **A — Incorrect:** Protozoan species also participate in symbioses, including digestive
+  associations in animal guts.
+- **B — Incorrect:** Cnidarians include coral hosts associated with photosynthetic symbionts.
+- **C — Incorrect:** Fungi form lichens, mycorrhizae and other close associations.
+- **D — Correct:** Each of the three broad groups includes symbiotic species.
 
-**Analytical body:**
+**Ownership note:** Direct Topic 01 route: symbiosis is an interaction category; the outcome
+must be specified rather than assumed.
 
-1. **Claim and named evidence:** Demand: Define ecosystem carrying capacity and explain its relevance to sustainable development planning. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Status: Verified routed Mains demand; model answer is original and not an official UPSC solution. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### PYQ-P6 — 2022 Prelims GS-I, Question 43 — DIRECT OWNER
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Status:** OFFICIAL QUESTION · **INFERRED ANSWER — official local key unavailable** · High confidence
 
-**Qualified conclusion:** **Ecosystem as a bounded functional unit:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. **Stability and resilience:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Carrying capacity:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. **Wetland filtering as structure-function evidence:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Extent versus ecosystem quality:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. The answer therefore separates definition, mechanism, evidence and limitation, and does not infer an official model answer or objective key.
+“If rainforests and tropical forests are the lungs of the Earth, then surely wetlands
+function as its kidneys.” Which one of the following functions of wetlands best reflects
+the above statement?
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+A. The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation.
+B. Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive.
+C. Wetlands play a vital role in maintaining sedimentation balance and soil stabilization.
+D. Aquatic plants absorb heavy metals and excess nutrients.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Answer: D — Inferred, high confidence**
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2019 GS-III, Question 17”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Option-specific explanation**
+- **A — Incorrect:** It describes hydrological movement, not the “kidney” purification
+  analogy.
+- **B — Incorrect:** It describes a trophic-base function.
+- **C — Incorrect:** Sediment balance and stabilisation are important but do not best match
+  filtration/removal.
+- **D — Correct:** Uptake and retention of excess nutrients and some contaminants most
+  directly express the analogy.
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**Ownership note:** Direct Topic 01 route for structure-function reasoning; wetland law and
+site governance remain Topic 07.
 
-**Question:** Explain why energy flow is unidirectional while matter cycles in an ecosystem. Answer in about 150 words.
+### PYQ-P7 — 2022 Prelims GS-I, Question 90 — DIRECT OWNER
 
-**Model thesis:** **Claim:** Producer entry point. **Named evidence/example:** Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Detritivore and decomposer distinction. **Named evidence/example:** Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Energy movement versus matter cycling. **Named evidence/example:** Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Status:** OFFICIAL QUESTION · **INFERRED ANSWER — official local key unavailable** · High confidence
 
-**Claim → named evidence → analysis → qualification:**
+Certain species of which one of the following organisms are well known as cultivators of
+fungi?
 
-- Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point.
-- Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms.
-- Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are.
+A. Ant
+B. Cockroach
+C. Crab
+D. Spider
 
-**Qualified conclusion:** **Claim:** Producer entry point. **Named evidence/example:** Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Detritivore and decomposer distinction. **Named evidence/example:** Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Energy movement versus matter cycling. **Named evidence/example:** Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Answer: A — Inferred, high confidence**
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why energy flow is unidirectional while matter cycles in an ecosystem. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Option-specific explanation**
+- **A — Correct:** Fungus-growing ants cultivate fungal gardens used as food.
+- **B — Incorrect:** Cockroaches may host microbes but are not the well-known fungus
+  cultivators intended here.
+- **C — Incorrect:** Crabs are not the standard fungus-farming group in this question.
+- **D — Incorrect:** Spiders are predators and do not form the recognised cultivation
+  association.
 
-**Detailed examiner-grade model answer:**
+**Ownership note:** Direct Topic 01 route: a specialised mutualistic interaction within a
+food web.
 
-**Introduction and thesis:** **Claim:** Producer entry point. **Named evidence/example:** Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Detritivore and decomposer distinction. **Named evidence/example:** Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Energy movement versus matter cycling. **Named evidence/example:** Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+### PYQ-P8 — 2023 Prelims GS-I, Question 63 — SHARED/APPLICATION
 
-**Analytical body:**
+**Primary owner:** `Geography/basic/15_Hot-Wet-Equatorial-Climate.md`
+**Topic 01 use:** climate control of decomposition and nutrient stocks
+**Status:** OFFICIAL QUESTION · **INFERRED ANSWER — official local key unavailable** · High confidence
 
-1. **Claim and named evidence:** Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Consider the following statements:
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Statement-I:** The soil in tropical rain forests is rich in nutrients.
+**Statement-II:** The high temperature and moisture of tropical rain forests cause dead
+organic matter in the soil to decompose quickly.
 
-**Qualified conclusion:** **Claim:** Producer entry point. **Named evidence/example:** Producers introduce usable chemical energy through photosynthesis or chemosynthesis; green plants are not the only producers, and the source does not support treating consumers or decomposers as an energy entry point. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Detritivore and decomposer distinction. **Named evidence/example:** Detritivores physically fragment dead organic material, whereas microbial decomposers such as bacteria and fungi chemically break it down and release nutrients; the two roles cooperate but are not synonyms. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Energy movement versus matter cycling. **Named evidence/example:** Energy passes one way through trophic transfers and dissipates as heat, whereas chemical matter returns through decomposition and uptake; energy is not recycled merely because nutrients are. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Which one of the following is correct in respect of the above statements?
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+A. Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.
+B. Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.
+C. Statement-I is correct but Statement-II is incorrect.
+D. Statement-I is incorrect but Statement-II is correct.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Answer: D — Inferred, high confidence**
 
-**How to improve this answer:** For “Explain why energy flow is unidirectional while matter cycles in an ecosystem. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Option-specific explanation**
+- **A — Incorrect:** Rapid decomposition does not make tropical soils necessarily rich;
+  rapid uptake and leaching can keep the soil nutrient stock low.
+- **B — Incorrect:** Statement-I is a false generalisation.
+- **C — Incorrect:** Warmth and moisture generally accelerate decomposition.
+- **D — Correct:** Statement-II is sound, while Statement-I confuses rapid cycling with a
+  large standing soil nutrient pool.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+**Ownership note:** Retained as application because it directly tests the decomposition-rate
+mechanism and standing-state distinction taught in Topic 01.
 
-**Question:** Distinguish habitat, niche, ecotone and edge effect. Answer in about 150 words.
+### PYQ-P9 — 2024 Prelims GS-I, Question 18 — DIRECT OWNER
 
-**Model thesis:** **Claim:** Habitat, niche and niche dimensions. **Named evidence/example:** Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecotone and edge effect. **Named evidence/example:** An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Status:** OFFICIAL QUESTION · **OFFICIAL SET-A KEY: B**
 
-**Claim → named evidence → analysis → qualification:**
+Consider the following:
 
-- Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche.
-- An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone.
+1. Carabid beetles
+2. Centipedes
+3. Flies
+4. Termites
+5. Wasps
 
-**Qualified conclusion:** **Claim:** Habitat, niche and niche dimensions. **Named evidence/example:** Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecotone and edge effect. **Named evidence/example:** An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Parasitoid species are found in how many of the above kind of organisms?
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish habitat, niche, ecotone and edge effect. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+A. Only two
+B. Only three
+C. Only four
+D. All five
 
-**Detailed examiner-grade model answer:**
+**Answer: B — Official**
 
-**Introduction and thesis:** **Claim:** Habitat, niche and niche dimensions. **Named evidence/example:** Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecotone and edge effect. **Named evidence/example:** An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Option-specific explanation**
+- **A — Incorrect:** The official key recognises more than two listed groups.
+- **B — Correct:** Parasitoid species occur among carabid beetles, flies and wasps.
+- **C — Incorrect:** Centipedes are predators and termites are social detritivores/consumers,
+  not additional parasitoid groups for this question.
+- **D — Incorrect:** Parasitoidism is not represented in all five listed kinds.
 
-**Analytical body:**
+**Ownership note:** Direct Topic 01 route: parasite, predator and parasitoid are distinct
+interaction strategies.
 
-1. **Claim and named evidence:** Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### PYQ-P10 — 2024 Prelims GS-I, Question 28 — DIRECT OWNER
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Status:** OFFICIAL QUESTION · **OFFICIAL SET-A KEY: A**
 
-**Qualified conclusion:** **Claim:** Habitat, niche and niche dimensions. **Named evidence/example:** Habitat is the physical place a species occupies, while niche is its functional resource use and interactions; the owner separates habitat, trophic or food, and reproductive dimensions of niche. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecotone and edge effect. **Named evidence/example:** An ecotone is a transition zone of variable width between adjoining ecosystems and may show an edge effect, but the higher density or variety often associated with an edge is a pattern, not the definition of the zone. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Which one of the following shows a unique relationship with an insect that has coevolved
+with it and that is the only insect that can pollinate this tree?
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+A. Fig
+B. Mahua
+C. Sandalwood
+D. Silk cotton
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Answer: A — Official**
 
-**How to improve this answer:** For “Distinguish habitat, niche, ecotone and edge effect. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Option-specific explanation**
+- **A — Correct:** Fig species and their specific fig wasps exemplify specialised coevolved
+  pollination mutualism.
+- **B — Incorrect:** Mahua is pollinated by a wider assemblage and does not fit the exclusive
+  fig-wasp relationship.
+- **C — Incorrect:** Sandalwood does not have the stated obligate one-insect pollination
+  system.
+- **D — Incorrect:** Silk cotton is associated with broader animal pollination, not the
+  unique relationship described.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+**Ownership note:** Direct Topic 01 route: mutualism, coevolution and food-web interaction.
 
-**Question:** Define ecosystem carrying capacity and explain its relevance to sustainable planning. Answer in about 250 words.
+### PYQ-P11 — 2025 Prelims GS-I, Question 40 — DIRECT OWNER
 
-**Model thesis:** **Claim:** Ecosystem as a bounded functional unit. **Named evidence/example:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stability and resilience. **Named evidence/example:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Carrying capacity. **Named evidence/example:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Extent versus ecosystem quality. **Named evidence/example:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Status:** OFFICIAL QUESTION · **OFFICIAL SET-A KEY: B**
 
-**Claim → named evidence → analysis → qualification:**
+With reference to the planet Earth, consider the following statements:
 
-- The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit.
-- Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-- Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount.
-- Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
+I. Rain forests produce more oxygen than that produced by oceans.
+II. Marine phytoplankton and photosynthetic bacteria produce about 50% of world's oxygen.
+III. Well-oxygenated surface water contains several folds higher oxygen than that in
+atmospheric air.
 
-**Qualified conclusion:** **Claim:** Ecosystem as a bounded functional unit. **Named evidence/example:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stability and resilience. **Named evidence/example:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Carrying capacity. **Named evidence/example:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Extent versus ecosystem quality. **Named evidence/example:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Which of the statements given above is/are correct?
 
-**Demand decoding:** The directive **explain** requires a direct position on “Define ecosystem carrying capacity and explain its relevance to sustainable planning. Answer…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+A. I and II
+B. II only
+C. I and III
+D. None of the above statements is correct
 
-**Detailed examiner-grade model answer:**
+**Answer: B — Official**
 
-**Introduction and thesis:** **Claim:** Ecosystem as a bounded functional unit. **Named evidence/example:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stability and resilience. **Named evidence/example:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Carrying capacity. **Named evidence/example:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Extent versus ecosystem quality. **Named evidence/example:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Option-specific explanation**
+- **A — Incorrect:** Statement I is wrong; marine photosynthetic organisms account for a
+  very large share, while forest respiration and decomposition consume much gross oxygen.
+- **B — Correct:** Statement II matches the official key and the accepted approximate global
+  contribution.
+- **C — Incorrect:** Both I and III are wrong; dissolved oxygen concentration in water is
+  not several-fold higher than oxygen in air.
+- **D — Incorrect:** Statement II is correct.
 
-**Analytical body:**
+**Ownership note:** Direct Topic 01 route: producer function at planetary scale. The
+“about 50%” figure is used only as printed and officially keyed in this PYQ.
 
-1. **Claim and named evidence:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### PYQ-P12 — 2026 Prelims GS-I, Question 23 — SHARED/APPLICATION
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Primary owner:** `Environment-and-Ecology/basic/24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+**Topic 01 use:** structure, ecosystem services and resilience
+**Status:** OFFICIAL LOCAL QUESTION · **PROVISIONAL SET-A KEY: D**
 
-**Qualified conclusion:** **Claim:** Ecosystem as a bounded functional unit. **Named evidence/example:** The owner defines an ecosystem as interacting biotic communities and their abiotic physical and chemical environment exchanging energy and matter; A. G. Tansley coined the term in 1935, and every claim must state the practical system boundary rather than treat all nature as one unit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stability and resilience. **Named evidence/example:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Carrying capacity. **Named evidence/example:** Carrying capacity is the population or project load an ecosystem can sustain over time without eroding regenerative functions; it is a conditional threshold shaped by consumption, technology and governance, not a fixed headcount. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Extent versus ecosystem quality. **Named evidence/example:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Which of the following best explain(s) the rationale for protecting mangrove ecosystems in
+the context of climate resilience?
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+1. Mangroves reduce tidal energy and store freshwater, making them ideal sites for paddy
+   cultivation in saline estuarine belts.
+2. Their salt-sensitive roots filter seawater, making mangroves key to converting coastal
+   land into freshwater aquaculture zones.
+3. By withstanding tidal surges and offering biomass resources, mangroves function both as
+   natural bio-shields and livelihood bases for rural communities.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+Select the answer using the code given below:
 
-**How to improve this answer:** For “Define ecosystem carrying capacity and explain its relevance to sustainable planning. Answer…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+A. 1 only
+B. 1 and 2
+C. 2 and 3
+D. 3 only
 
-### ORIGINAL MAINS 4 — 15 MARKS
+**Answer: D — Provisional**
 
-**Question:** Analyse how ecosystem structure enables ecosystem services. Answer in about 250 words.
+**Option-specific explanation**
+- **A — Incorrect:** Mangroves can attenuate wave/tidal energy, but the freshwater-storage
+  and paddy-conversion conclusion makes Statement 1 wrong as a whole.
+- **B — Incorrect:** Both statements contain false freshwater-conversion claims.
+- **C — Incorrect:** Statement 2 wrongly calls mangrove roots salt-sensitive and misstates
+  their ecological function.
+- **D — Correct under the provisional key:** Statement 3 captures the regulating and
+  provisioning/livelihood rationale without the false conversion claims.
 
-**Model thesis:** **Claim:** Biotic and abiotic structure. **Named evidence/example:** Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stratification and resource partitioning. **Named evidence/example:** Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem services and NCP. **Named evidence/example:** The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Wetland filtering as structure-function evidence. **Named evidence/example:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Ownership note:** Primary route remains Topic 24; this workbook retains it as a
+structure-function application. The answer must remain labelled provisional until an
+official UPSC key replaces the local provisional key.
 
-**Claim → named evidence → analysis → qualification:**
+### PYQ-M1 — 2019 GS-III, Question 17 — DIRECT OWNER
 
-- Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do.
-- Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity.
-- The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values.
-- Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
+**Status:** OFFICIAL QUESTION · 15 marks · 250 words · ORIGINAL MODEL ANSWER
 
-**Qualified conclusion:** **Claim:** Biotic and abiotic structure. **Named evidence/example:** Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stratification and resource partitioning. **Named evidence/example:** Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem services and NCP. **Named evidence/example:** The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Wetland filtering as structure-function evidence. **Named evidence/example:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+> Define the concept of carrying capacity of an ecosystem as relevant to an environment.
+> Explain how understanding this concept is vital while planning for sustainable
+> development of a region.
 
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse how ecosystem structure enables ecosystem services. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Demand decoding**
 
-**Detailed examiner-grade model answer:**
+- **Define:** identify a sustained load relative to regenerative, assimilative and
+  life-support functions.
+- **Explain:** show how the concept changes regional planning decisions.
+- **Scope:** a defined ecosystem/region; the answer must not reduce capacity to population
+  alone.
 
-**Introduction and thesis:** **Claim:** Biotic and abiotic structure. **Named evidence/example:** Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stratification and resource partitioning. **Named evidence/example:** Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem services and NCP. **Named evidence/example:** The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Wetland filtering as structure-function evidence. **Named evidence/example:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+<!-- MODEL-ANSWER-START:PYQ-M1 -->
+**Model answer**
 
-**Analytical body:**
+Carrying capacity is the sustained population, consumption or project load that a defined
+ecosystem can support without progressively eroding its regenerative, assimilative and
+life-support functions. It is therefore a relationship among ecological supply, human
+demand and time, not a fixed headcount.
 
-1. **Claim and named evidence:** Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Regional planning must examine at least four limits. **Regenerative capacity** concerns
+water recharge, soil renewal and biomass production. **Assimilative capacity** concerns
+waste and pollution that air, water and soil can process without functional decline.
+**Habitat capacity** concerns area, connectivity and trophic relations needed to maintain
+species. **Disturbance capacity** concerns resistance and recovery under drought, flood,
+fire or climate stress.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+This framework improves decisions on land-use zoning, seasonal tourism and grazing,
+infrastructure scale, water allocation, waste treatment and cumulative EIA. For example,
+a wetland catchment cannot be planned only through land area: inflow, vegetation,
+sediment, pollutant load and downstream flood moderation jointly determine the load it can
+sustain. Similarly, mangrove cover without tidal connectivity may retain trees but lose
+nursery and regulating functions.
 
-**Qualified conclusion:** **Claim:** Biotic and abiotic structure. **Named evidence/example:** Biotic structure comprises producers, consumers, decomposers and detritivores, while abiotic structure comprises climatic, edaphic, water and nutrient conditions; structure identifies what is present before function explains what those components do. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stratification and resource partitioning. **Named evidence/example:** Vertical layering such as canopy, understorey, shrub and forest floor creates different microhabitats and niches; greater layering may support coexistence without proving universal stability or biodiversity. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Ecosystem services and NCP. **Named evidence/example:** The owner uses provisioning, regulating, supporting and cultural services as the Millennium Ecosystem Assessment vocabulary, while IPBES Nature's Contributions to People broadens valuation to relational and indigenous or local-knowledge values. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Wetland filtering as structure-function evidence. **Named evidence/example:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Capacity is dynamic. Efficient technology and governance may reduce pressure, while
+climate change or fragmentation may lower the threshold. Sustainable planning should
+therefore set monitored limits, retain ecological buffers and revise them through observed
+functional response rather than assume that development can expand indefinitely.
+<!-- MODEL-ANSWER-END:PYQ-M1 -->
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Why this earns marks:** Direct definition; four planning dimensions; two ecosystem
+applications; dynamic-threshold qualification; clear answer to both parts.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+### PYQ-M2 — 2022 GS-III, Question 6 — SHARED/APPLICATION
 
-**How to improve this answer:** For “Analyse how ecosystem structure enables ecosystem services. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Primary owner:** `Science-and-Technology/basic/23_General-Science-Biology-and-Physiology.md`
+**Topic 01 use:** complete decomposition mechanism
+**Status:** OFFICIAL QUESTION · 10 marks · 150 words · ORIGINAL MODEL ANSWER
 
-### ORIGINAL MAINS 5 — 20 MARKS
+> Each year a large amount of plant material, cellulose, is deposited on the surface of
+> Planet Earth. What are the natural processes this cellulose undergoes before yielding
+> carbon dioxide, water and other end products?
 
-**Question:** Assess whether food-web complexity necessarily guarantees ecosystem resilience. Answer in about 300 words.
+**Demand decoding:** Follow cellulose from litter through physical and microbial
+decomposition to gaseous, dissolved, humic and inorganic products.
 
-**Model thesis:** **Claim:** Consumers and trophic position. **Named evidence/example:** Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Food chain versus food web. **Named evidence/example:** A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stability and resilience. **Named evidence/example:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Interaction and coevolution PYQ routes. **Named evidence/example:** The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+<!-- MODEL-ANSWER-START:PYQ-M2 -->
+**Model answer**
 
-**Claim → named evidence → analysis → qualification:**
+Cellulose enters the detritus pathway as dead plant litter. Detritivores such as earthworms
+first **fragment** it, increasing surface area. Water causes **leaching** of soluble
+substances through soil. Cellulolytic bacteria and fungi then secrete enzymes that drive
+**catabolism**, converting cellulose into simpler compounds.
 
-- Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank.
-- A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless.
-- Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock.
-- The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred.
+Under aerobic conditions, microbial respiration oxidises these products mainly to carbon
+dioxide and water while releasing heat. Oxygen-poor microsites may yield partly reduced
+products, including organic acids and methane. Alongside catabolism, **humification**
+stores resistant organic matter as humus, and **mineralisation** releases inorganic
+nutrients into soil or water for producer uptake.
 
-**Qualified conclusion:** **Claim:** Consumers and trophic position. **Named evidence/example:** Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Food chain versus food web. **Named evidence/example:** A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stability and resilience. **Named evidence/example:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Interaction and coevolution PYQ routes. **Named evidence/example:** The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Temperature, moisture, oxygen and litter chemistry control the rate. Warm, moist
+conditions generally accelerate decomposition; cold, anaerobic or lignin-rich conditions
+slow it. Thus cellulose decomposition recycles matter and nutrients, whereas its usable
+chemical energy ultimately dissipates.
+<!-- MODEL-ANSWER-END:PYQ-M2 -->
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess whether food-web complexity necessarily guarantees ecosystem resilience. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Why this earns marks:** It names every NCERT process, biological agents, products,
+rate controls and the exact matter-energy conclusion.
 
-**Detailed examiner-grade model answer:**
+### PYQ-M3 — 2026 GS-III, Question 7 — SHARED/APPLICATION
 
-**Introduction and thesis:** **Claim:** Consumers and trophic position. **Named evidence/example:** Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Food chain versus food web. **Named evidence/example:** A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stability and resilience. **Named evidence/example:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Interaction and coevolution PYQ routes. **Named evidence/example:** The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Primary owner:** `Disaster-Management/basic/10_Landslides-Avalanches-and-GLOF-Risk.md`
+**Support owner in routing:** `Disaster-Management/basic/14_Urban-and-Critical-Infrastructure-Resilience.md`
+**Topic 01 use:** carrying capacity, ecosystem buffers, resistance and recovery
+**Status:** OFFICIAL QUESTION · 10 marks · 150 words · ORIGINAL MODEL ANSWER
 
-**Analytical body:**
+> Discuss how the contradiction between “rapid infrastructure development” and
+> “disaster-risk reduction” in ecologically-sensitive areas of India can be managed, with
+> suitable examples.
 
-1. **Claim and named evidence:** Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+<!-- MODEL-ANSWER-START:PYQ-M3 -->
+**Model answer**
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+The contradiction arises when infrastructure raises exposure or removes the ecosystem
+functions that moderate hazards. Management must therefore make development
+**risk-informed and capacity-bound**, rather than choose between blanket prohibition and
+unqualified construction.
 
-**Qualified conclusion:** **Claim:** Consumers and trophic position. **Named evidence/example:** Consumers obtain energy from other organisms and may occupy more than one trophic position when omnivory occurs, so trophic level is a feeding relation within the stated web rather than a permanent taxonomic rank. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Food chain versus food web. **Named evidence/example:** A food chain is one linear feeding route, while a food web is the network of interconnected chains; alternative links can support resilience, but a web does not make every disturbance harmless. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Stability and resilience. **Named evidence/example:** Stability or resistance describes limited change under disturbance, whereas resilience describes recovery after disturbance; a uniform plantation can appear stable yet remain poorly resilient to a specific shock. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Interaction and coevolution PYQ routes. **Named evidence/example:** The Basic owner carries routed objective concepts on parasitoids, fig pollination, symbiosis and fungus cultivation; these are interaction types within ecological networks, and no official answer option is inferred. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+In the Himalaya, road cutting, tunnelling, spoil disposal and blocked drainage can
+condition landslides and cascading river blockage. In the Western Ghats, quarrying and
+construction on monsoon-saturated, deeply weathered slopes can similarly increase failure
+risk.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+Projects should use hazard zonation, cumulative basin/corridor assessment,
+carrying-capacity and water budgets, avoidance of the highest-risk alignments, engineered
+drainage and spoil control, and retention of forest, wetland and riparian buffers.
+Monitoring must use rainfall, slope movement and ecosystem-condition triggers linked to
+pre-authorised closure or evacuation. Local knowledge, livelihood safeguards and
+independent lifecycle audits improve legitimacy and compliance.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+Thus infrastructure is compatible with disaster-risk reduction only when siting, design,
+operation and recovery preserve ecological buffers and disclose residual risk.
+<!-- MODEL-ANSWER-END:PYQ-M3 -->
 
-**How to improve this answer:** For “Assess whether food-web complexity necessarily guarantees ecosystem resilience. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It resolves the apparent binary, uses two named Indian regions
+and links carrying capacity and ecosystem function to enforceable lifecycle measures.
 
-### ORIGINAL MAINS 6 — 20 MARKS
+### PYQ audit summary
 
-**Question:** Evaluate the limits of using forest or tree cover as a proxy for ecosystem health. Answer in about 300 words.
+- **Objective PYQs:** 12 — 10 direct and 2 shared/application.
+- **Mains PYQs:** 3 — 1 direct and 2 shared/application.
+- **Official objective keys:** 2024 Q18, 2024 Q28 and 2025 Q40.
+- **Provisional objective key:** 2026 Q23.
+- **Inferred objective answers:** seven direct 2019-2022 questions plus shared 2023 Q63.
+- **Dropped among selected questions:** none.
 
-**Model thesis:** **Claim:** Gross and net primary productivity. **Named evidence/example:** Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Standing crop and standing state. **Named evidence/example:** Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Wetland filtering as structure-function evidence. **Named evidence/example:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Extent versus ecosystem quality. **Named evidence/example:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Institution and evidence boundary. **Named evidence/example:** MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Application boundary:** Ramsar-designation, wetland-programme and biodiversity-framework
+questions remain with their primary owners unless Topic 01 supplies the indispensable
+mechanism. They are not duplicated merely because the word “ecosystem” could appear in an
+answer.
 
-**Claim → named evidence → analysis → qualification:**
+## ORIGINAL MAINS PRACTICE
 
-- Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers.
-- Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate.
-- Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage.
-- Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims.
-- MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim.
+### ORIGINAL MAINS 1 — 10 MARKS — LIMIT 150 WORDS
 
-**Qualified conclusion:** **Claim:** Gross and net primary productivity. **Named evidence/example:** Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Standing crop and standing state. **Named evidence/example:** Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Wetland filtering as structure-function evidence. **Named evidence/example:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Extent versus ecosystem quality. **Named evidence/example:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Institution and evidence boundary. **Named evidence/example:** MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Question:** Explain why energy flow is unidirectional whereas nutrient movement is cyclic
+in an ecosystem.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the limits of using forest or tree cover as a proxy for ecosystem health. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+<!-- MODEL-ANSWER-START:OM1 -->
+**Model answer**
 
-**Detailed examiner-grade model answer:**
+Energy and matter follow different pathways. Producers capture solar or chemical energy
+and store part of it in organic matter. Feeding transfers this energy to consumers and the
+detritus pathway, but respiration at every level degrades a substantial share into heat.
+That dispersed heat cannot be recaptured as the same trophic energy; therefore energy flow
+is unidirectional and requires continuous external input.
 
-**Introduction and thesis:** **Claim:** Gross and net primary productivity. **Named evidence/example:** Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Standing crop and standing state. **Named evidence/example:** Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Wetland filtering as structure-function evidence. **Named evidence/example:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Extent versus ecosystem quality. **Named evidence/example:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Institution and evidence boundary. **Named evidence/example:** MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Nutrient atoms are not destroyed. Earthworms and other detritivores fragment litter;
+bacteria and fungi catabolise it; mineralisation releases inorganic nutrients into soil or
+water; producers assimilate them again. The Sundarbans illustrates the linkage: mangrove
+litter supports detrital food webs while nutrients move through sediment, water and
+biomass.
 
-**Analytical body:**
+However, cycling is not perfectly closed within every local boundary. Nutrients may be
+leached, exported, buried or imported. Hence the exact formulation is: energy flows and
+dissipates, while matter repeatedly moves among pools.
+<!-- MODEL-ANSWER-END:OM1 -->
 
-1. **Claim and named evidence:** Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Why this earns marks:** It states the thermodynamic reason, gives the decomposition
+mechanism, uses named evidence and qualifies local cycling.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+### ORIGINAL MAINS 2 — 10 MARKS — LIMIT 150 WORDS
 
-**Qualified conclusion:** **Claim:** Gross and net primary productivity. **Named evidence/example:** Gross primary productivity is total producer fixation over time, while net primary productivity is gross primary productivity minus producer respiration and is the production available for growth and consumers. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Standing crop and standing state. **Named evidence/example:** Standing crop is living material present at a stated time and is often expressed as biomass or number, whereas standing state is the quantity of an abiotic nutrient in the ecosystem; neither is a productivity rate. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Wetland filtering as structure-function evidence. **Named evidence/example:** Wetland vegetation, sediments and microbial processes can retain or transform pollutants and support flood regulation, but a routed wetland function does not justify an unsupported universal removal percentage. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Extent versus ecosystem quality. **Named evidence/example:** Forest or tree-cover extent is a canopy measure and cannot by itself establish native composition, age structure, biodiversity, resilience or ecosystem functioning; extent and ecological quality are different claims. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Institution and evidence boundary. **Named evidence/example:** MoEFCC, WII, BSI, ZSI and FSI occupy different policy, research, taxonomic and monitoring roles; the owner and audited routing ledgers remain primary, while thin live pages and unavailable answer keys add no claim. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Question:** Distinguish keystone, foundation, indicator and umbrella species with suitable
+Indian-use examples.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+<!-- MODEL-ANSWER-START:OM2 -->
+**Model answer**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+These labels answer different ecological or management questions.
 
-**How to improve this answer:** For “Evaluate the limits of using forest or tree cover as a proxy for ecosystem health. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+- A **keystone species/resource** has an effect disproportionate to its abundance. Fruiting
+  *Ficus* can sustain many Indian tropical-forest frugivores during scarcity; the test is
+  functional impact, not rarity.
+- A **foundation species** creates the physical habitat mainly through dominance or
+  biomass. Habitat-forming mangrove trees structure intertidal nurseries and sediment
+  environments.
+- An **indicator species** signals a specified condition through its presence, absence or
+  health. Lichen communities are used to indicate air-quality stress; they need not control
+  the ecosystem.
+- An **umbrella species** has habitat requirements whose protection benefits many
+  co-occurring species. Tiger-landscape conservation can protect large connected forest
+  areas.
+
+The terms can overlap but are not synonyms. Tiger is also a flagship used to mobilise
+support, yet neither charisma nor range alone proves a keystone effect. Each label therefore
+requires evidence for its own defining test.
+<!-- MODEL-ANSWER-END:OM2 -->
+
+**Why this earns marks:** It gives four discriminating definitions, four usable examples
+and an overlap qualification.
+
+### ORIGINAL MAINS 3 — 15 MARKS — LIMIT 250 WORDS
+
+**Question:** Analyse how primary productivity, decomposition and food-web architecture
+jointly determine ecosystem functioning.
+
+<!-- MODEL-ANSWER-START:OM3 -->
+**Model answer**
+
+Ecosystem functioning depends on the linked rates of organic-matter creation, transfer and
+return.
+
+**Primary productivity supplies the budget.** Gross primary productivity is total producer
+fixation; after producer respiration, net primary productivity is available for growth,
+consumers and detritus. Marine phytoplankton demonstrate that rapid production can support
+large food webs despite modest standing biomass. Yet high NPP alone does not establish
+biodiversity or resilience.
+
+**Food-web architecture distributes that budget.** Grazing chains transfer living producer
+biomass, while detritus chains receive dead material from every trophic level. Omnivory and
+alternative links can provide functional redundancy. However, a common dependence on
+water, habitat or one basal resource can transmit failure across a complex web.
+
+**Decomposition reconnects production to nutrient supply.** Earthworms fragment litter;
+bacteria and fungi catabolise it; humification stores resistant organic matter; and
+mineralisation returns inorganic nutrients for producer uptake. The 2023 tropical-rainforest
+PYQ—applicable to warm, wet forest sectors of the Western Ghats—shows the rate effect:
+warmth and moisture accelerate decomposition, but rapid uptake and leaching can leave soil
+nutrient stocks low.
+
+Thus production, transfer and decomposition form one feedback system. Management should
+monitor NPP, trophic structure, litter processing and nutrient pools together. A high-yield
+monoculture may maximise one output while simplifying food-web responses and nutrient
+retention; functional assessment must therefore combine rate, structure and recovery, not
+use biomass or species count alone.
+<!-- MODEL-ANSWER-END:OM3 -->
+
+**Why this earns marks:** It integrates three mechanisms, distinguishes stocks from rates,
+uses the Western Ghats/tropical-rainforest and marine-production evidence routes, and
+rejects a single-metric conclusion.
+
+### ORIGINAL MAINS 4 — 15 MARKS — LIMIT 250 WORDS
+
+**Question:** Discuss the use and limits of the ecosystem-services framework in Indian
+environmental planning.
+
+<!-- MODEL-ANSWER-START:OM4 -->
+**Model answer**
+
+The ecosystem-services framework translates ecological processes into consequences for
+human welfare. The Millennium Ecosystem Assessment groups services as **provisioning**
+(food, fibre, water), **regulating** (flood moderation, pollination, climate regulation),
+**supporting** (primary production, soil formation, nutrient cycling) and **cultural**
+(spiritual, recreational and knowledge values).
+
+This vocabulary improves Indian planning by exposing benefits that project accounts often
+treat as free. Sundarbans mangroves combine nursery habitat, wave moderation, carbon
+storage and livelihoods. Wetland vegetation, sediment and microbes support water-quality
+and flood functions. The Economic Survey 2025-26 accordingly describes an
+“ecosystem-led, development-integrated climate resilience” approach; MISHTI, NPCA and the
+National Coastal Mission connect habitat structure with adaptation.
+
+However, three limits matter. First, services are site-specific: a narrow damaged mangrove
+strip cannot be assigned a universal protection value. Second, market valuation may
+undervalue cultural, relational and Indigenous/local-knowledge meanings; IPBES's Nature's
+Contributions to People framing addresses this wider value field. Third, extent is not
+quality: ISFR canopy data cannot by itself establish native composition, connectivity or
+resilience.
+
+Planning should therefore map beneficiaries and trade-offs, identify the structural
+component producing each service, assess cumulative loss and monitor functional recovery.
+Valuation is useful for revealing hidden costs, but ecological irreplaceability and
+distributional justice must constrain the idea that every loss can simply be compensated.
+<!-- MODEL-ANSWER-END:OM4 -->
+
+**Why this earns marks:** It uses the full taxonomy, three official Indian anchors,
+limitations and a planning method rather than a decorative list.
+
+### ORIGINAL MAINS 5 — 20 MARKS — LIMIT 300 WORDS
+
+**Question:** “A complex food web is neither a guarantee of resistance nor of recovery.”
+Critically examine.
+
+<!-- MODEL-ANSWER-START:OM5 -->
+**Model answer**
+
+A food web is a network of intersecting feeding pathways. Complexity can support
+stability, but the quoted claim is correct because **resistance** and **recovery** depend on
+the type of disturbance and the traits connecting organisms, not on link count alone.
+
+Complex webs may improve response in three ways. Alternative prey or resources reduce
+dependence on one route; omnivory permits trophic switching; and response diversity allows
+species performing a similar function to react differently. In a wetland, grazing and
+detrital pathways can continue moving organic matter even when one consumer declines.
+
+Yet complexity can fail to provide resistance. Many species may share the same dependence
+on freshwater inflow, oxygen, temperature or a foundation habitat. Blocking tidal exchange
+in mangroves can simultaneously damage nursery habitat, detrital transfer and sediment
+processes. Dense connectivity may also transmit contaminants or population changes through
+several routes.
+
+Nor does limited immediate change guarantee recovery. A uniform plantation may appear
+resistant under ordinary conditions but recover poorly from a host-specific pest. Conversely,
+a seasonal grassland may change visibly after drought or fire yet recover rapidly from
+below-ground organs and seed banks. Resistance is the size of change during the shock;
+resilience is the capacity to retain or regain function; recovery is the observed trajectory.
+
+Assessment should therefore specify the shock, ecosystem boundary, response variable and
+time scale. Relevant indicators include NPP, native composition, trophic links,
+decomposition, hydrology and return toward a functional range. Food-web complexity is best
+treated as one potential source of redundancy, qualified by common dependencies,
+connectivity, disturbance intensity and the presence of keystone or foundation elements.
+
+Thus, policy should conserve functional diversity and habitat processes rather than maximise
+species or link counts as ends in themselves.
+<!-- MODEL-ANSWER-END:OM5 -->
+
+**Why this earns marks:** It defines the three stability terms, presents both sides, uses
+wetland, mangrove, plantation and grassland mechanisms, and gives an operational test.
+
+### ORIGINAL MAINS 6 — 20 MARKS — LIMIT 300 WORDS
+
+**Question:** Develop an ecological appraisal framework for deciding whether a development
+project remains within the carrying capacity of a region.
+
+<!-- MODEL-ANSWER-START:OM6 -->
+**Model answer**
+
+Carrying capacity is the sustained project or population load that a defined region can
+support without progressive loss of regenerative, assimilative and life-support functions.
+An appraisal should therefore test ecological processes, not merely legal compliance or
+land area.
+
+**1. Fix the system and baseline.** Delineate the catchment, coast, forest or landscape;
+record season and trends in hydrology, soil, native composition, habitat connectivity,
+standing crop, NPP and disturbance history. ISFR forest-cover data may provide extent, but
+cannot alone establish quality.
+
+**2. Build resource and waste budgets.** Compare water withdrawal, biomass removal and land
+demand with recharge and regeneration. Compare sewage, emissions and solid waste with
+treatment plus ecosystem assimilative capacity. Include cumulative loads from existing
+projects.
+
+**3. Trace structure-function dependencies.** Identify foundation habitat, keystone
+interactions, ecotones, migration routes and detrital processes. In a mangrove coast,
+retaining trees while blocking tidal creeks may preserve apparent cover but impair nursery,
+sediment and wave-moderation functions.
+
+**4. Stress-test stability.** Estimate resistance and recovery under drought, flood,
+cyclone, fire and climate scenarios. Thresholds should include seasonal peaks and low-flow
+periods, not annual averages alone.
+
+**5. Evaluate services and distribution.** Record provisioning, regulating, supporting and
+cultural/NCP losses, who benefits, who bears risk and whether a function is genuinely
+replaceable. The wetland “kidney” role, for example, cannot justify unlimited pollutant
+loading.
+
+**6. Decide and monitor.** Apply avoidance first, then scale reduction, buffers, restoration
+and enforceable indicators with stop/review triggers. Technology may improve efficiency,
+but it does not erase biophysical limits.
+
+The project is within carrying capacity only when monitored loads remain below dynamic
+thresholds while core ecosystem functions and equitable livelihood security persist.
+<!-- MODEL-ANSWER-END:OM6 -->
+
+**Why this earns marks:** It converts the concept into a six-stage, exam-executable
+framework with named evidence, cumulative assessment and adaptive safeguards.
+
+### Mains practice audit
+
+| Item | Marks | Required maximum | Validation target |
+|---|---:|---:|---|
+| Original Mains 1 | 10 | 150 words | energy versus matter |
+| Original Mains 2 | 10 | 150 words | functional-species distinctions |
+| Original Mains 3 | 15 | 250 words | productivity-decomposition-web integration |
+| Original Mains 4 | 15 | 250 words | services and planning |
+| Original Mains 5 | 20 | 300 words | resistance-resilience critique |
+| Original Mains 6 | 20 | 300 words | carrying-capacity appraisal |
+
+Every answer follows **claim → named evidence/example → analysis → qualification** and is
+subject to the automated body-word-count check run after editing.

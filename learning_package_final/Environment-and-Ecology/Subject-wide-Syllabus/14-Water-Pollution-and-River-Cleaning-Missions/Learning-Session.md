@@ -1,2917 +1,873 @@
-# Water Pollution and River Cleaning Missions — Learner-v2 Complete Learning Session
+# Water Pollution and River-Cleaning Missions — Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.
+> **Subject:** Environment and Ecology | **UPSC use:** Prelims + GS-III
+> **Review cut-off:** 29 September 2026 (IST)
+> **Latest programme-status source used:** PIB, 2 July 2026
+> **Ownership rule:** this session follows the matching canonical Basic and Advanced Topic 14
+> owners, the Environment Master Framework, verified PYQ routing and official sources. It does
+> not transfer wetland law, waste rules, EIA/NGT doctrine or groundwater-irrigation policy from
+> their primary owners.
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+## Source and scope control
 
-- **Generation date:** 2026-09-06.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. OCR-searchable local official General Studies papers were used only to confirm printed routed demands. No answer key, marking scheme, unsupported page precision, ecological rate, species count, pollution standard, rule threshold, mission outcome or current status was inferred.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** Audited ledgers route direct Mains demands on industrial river pollution and freshwater technologies, plus objective concepts on membrane bioreactors, activated carbon, PFAS, microbeads and sand-mining effects. No objective key or current mission metric is inferred.
-- **Live-link boundary:** NMCG home, status and guideline pages were stubs; the 2026 press PDF was retrievable only as raw bytes; CPCB pages exposed only a yearly-data heading or board title. No outlay, target, sewage generation, installed or utilised capacity, project count, river value or outcome was imported.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
+### Canonical and official source ledger
 
-### LIVE OFFICIAL-SOURCE ATTEMPT LOG
+| ID | Read-only source | Use in this session |
+|---|---|---|
+| C1 | `upsc-ai-kit/knowledge/Environment-and-Ecology/00_Master-Framework.md` | Source-to-outcome, last-mile and status-verb discipline |
+| C2 | `.../basic/14_Water-Pollution-and-River-Cleaning-Missions.md` | Topic 14 foundation, institutions, mission and PYQ ownership |
+| C3 | `.../advanced/14_Water-Pollution-and-River-Cleaning-Missions.md` | Utilisation, coordination, season/stretch and non-point-source cautions |
+| O1 | CPCB, [Designated-Best-Use Water Quality Criteria](https://cpcb.gov.in/water-quality-criteria/) and official PDF | Exact Classes A–E |
+| O2 | CPCB/Gazette, [Primary Water Quality Criteria for Bathing Waters](https://cpcb.gov.in/wqm/Primary_Water_Quality_Criteria.pdf), G.S.R. 742(E), 25 September 2000 | Exact organised-bathing criteria |
+| O3 | [Water (Prevention and Control of Pollution) Act, 1974, India Code](https://www.indiacode.nic.in/indiacode/bitstream/123456789/1612/1/AAA1974-06.pdf); MoEFCC, [Water Amendment Act, 2024](https://moef.gov.in/storage/tender/The-Water-(Prevention-and-Control-of-Pollution)-Amendment-Act-2024.pdf) | Legal powers, consent, enforcement and amendment scope |
+| O4 | [Environment (Protection) Act, 1986, India Code](https://www.indiacode.nic.in/indiacode/bitstream/123456789/15263/1/enironment__act_1986.pdf) and Environment (Protection) Rules, 1986 | Central powers and discharge standards |
+| O5 | NMCG, [About NMCG](https://nmcg.nic.in/about_nmcg.aspx) and [2016 Authorities Order](https://nmcg.nic.in/pdf/AuthorityNotification.pdf) | Five-tier Ganga architecture |
+| O6 | NMCG, [Namami Gange Programme](https://nmcg.nic.in/NamamiGanga.aspx) | Programme components |
+| O7 | NMCG, [Ganga Action Plan](https://nmcg.nic.in/gangaactionplan1.aspx) and [GAP-I record](https://nmcg.nic.in/pdf/GANGAACTIONPLANPHASE.pdf) | Mission chronology |
+| O8 | PIB, [Cleaning and Conservation of Rivers](https://pib.gov.in/PressReleasePage.aspx?PRID=1982444), 4 December 2023 | ULB/industry duties, NRCP, YAP-III and technology neutrality |
+| O9 | Lok Sabha UQ 2452, [Arth Ganga Project](https://www.sansad.in/getFile/loksabhaquestions/annex/1712/AU2452.pdf?source=pqals), answered 3 August 2023 | Exact six Arth Ganga pillars |
+| O10 | PIB, [Uniform Consent Guidelines](https://pib.gov.in/PressReleasePage.aspx?PRID=2219415&reg=3&lang=1), 28 January 2026 | Current consent-process reforms |
+| O11 | PIB, [Progress under Namami Gange](https://pib.gov.in/PressReleasePage.aspx?PRID=2248377&reg=3&lang=1), 2 April 2026 | NRCP/Namami status, e-flow and PRAYAG |
+| O12 | PIB, [19th Empowered Task Force meeting](https://pib.gov.in/PressReleasePage.aspx?PRID=2280512&reg=3&lang=1), 2 July 2026 | Latest located project/capacity status |
+| P1 | `_PYQ-ROUTING-PRELIMS-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2026.md` | Objective ownership and key status |
+| P2 | `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, local official paper OCR and local official 2024–2025 Set-A keys | Exact Mains demands, options and keys |
 
-The checks below were made on 2026-09-06. Substantive official text is used only for the proposition it supports. Stubs, access failures, unrelated pages and thin landing pages are recorded and are not converted into ecological or current-status claims.
+**Evidence convention**
 
-- https://nmcg.nic.in/ — attempted 2026-09-06; the official NMCG home page returned minister profile headings but no substantive programme metric. No mission outlay, project count or outcome was imported.
-- https://nmcg.nic.in/status_report.aspx — attempted 2026-09-06; the official page returned only the title 'Status Reports'. No sewerage capacity, utilisation or water-quality value was extracted.
-- https://nmcg.nic.in/Guideline.aspx — attempted 2026-09-06; the official page returned only the guidelines title. No standard, target or institutional power was inferred from the stub.
-- https://nmcg.nic.in/press_pdf/Status%20of%20Namami%20Gange%20Programme%202026%20ENG%20Press%20Release.pdf — attempted 2026-09-06; the official PDF was retrievable only as raw PDF bytes. It was logged but not text-mined for outlays, capacities, outputs or outcomes.
-- https://cpcb.nic.in/nwmp-data/ — attempted 2026-09-06; the official CPCB page returned the heading 'WATER QUALITY DATA (YEARLY)' without a substantive dated table. No river-quality value was imported.
-- https://cpcb.nic.in/water-quality-criteria/ — attempted 2026-09-06; the official CPCB page returned only the board title. No designated-best-use class, criterion, unit or effluent standard was transcribed.
+- **Official criterion** = a receiving-water quality threshold.
+- **Official discharge standard** = a limit at an outlet for the specified source/category.
+- **Dated status** = true only for the reporting date and metric stated.
+- **Analysis** = a reasoned implication, never presented as a measured outcome.
+
+---
 
 ## BASIC LEARNING SESSION
 
-### DEEP-REVIEW LEARNING CONTRACT
+## 1. The complete water-pollution chain
 
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Environment and Ecology Basic/Core is answer-complete before optional Advanced depth. |
-| Ecology boundary | System boundary, scale, trophic level, stock/flow, pool/flux, gross/net, unit and time interval are explicit. |
-| Species boundary | Taxon, range, habitat, population trend, IUCN assessment, Indian legal schedule, CITES/CMS listing and endemism remain distinct. |
-| Law/status boundary | Act, amendment, rule, notification, draft, judgment, policy, target, implementation and observed outcome remain distinct and dated. |
-| Institution boundary | Legal form, parent authority, mandate, jurisdiction, standard, consent, enforcement, science and adjudication are not conflated. |
-| Treaty boundary | Membership, annex/appendix, amendment acceptance, target, COP decision, national instrument and outcome remain distinct. |
-| Climate boundary | Emission flow, concentration stock, cumulative budget, forcing, scenario, baseline, unit, mitigation, adaptation, loss-and-damage, avoidance and removal are exact. |
-| Pollution boundary | Source, emission/load, ambient concentration, exposure, parameter, averaging period, unit, standard and jurisdiction are explicit. |
-| Causal method | Chronology, designation, expenditure, capacity, registration and correlation are not promoted into ecological or policy outcomes without mechanism and evidence. |
-| Practice contract | Every solved item has demand decoding, detailed examiner-grade model, executable timed/compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\14_Water-Pollution-and-River-Cleaning-Missions.md`  
-**Substantive canonical provenance owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\learning-sessions\v2\subject-wide-syllabus\environment-and-ecology-14_Learning-Session.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\14_Water-Pollution-and-River-Cleaning-Missions.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Environment-and-Ecology\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- Ecological mechanisms retain direction, pool, flux, limiting factor, spatial scale and time scale.
-- Current species/news claims retain taxon, source, event/publication date, assessment/listing date and access date.
-- IUCN category never substitutes for Wildlife Protection Act schedule, CITES appendix, CMS appendix or endemism.
-- Protected-area categories, treaty designations and institution mandates retain exact legal character.
-- Acts, amendments, rules, draft instruments, notifications and judgments retain operative status and date.
-- Climate figures retain unit, baseline, period, scenario and stock-flow character; global evidence is not silently downscaled to India.
-- Mitigation, adaptation and loss-and-damage remain separate; allowance, offset, avoidance, removal, capture and storage remain separate.
-- PYQ wording is preserved only where verified; reconstructed or routed demands remain labelled.
-- **Current-status note, rechecked 2026-09-06:** volatile targets, standards, schedules, species status, treaty outcomes and programme claims retain source/date/status.
-
-**Generation-local live/current sources:**
-- `https://nmcg.nic.in/ — attempted 2026-09-06; the official NMCG home page returned minister profile headings but no substantive programme metric. No mission outlay, project count or outcome was imported.`
-- `https://nmcg.nic.in/status_report.aspx — attempted 2026-09-06; the official page returned only the title 'Status Reports'. No sewerage capacity, utilisation or water-quality value was extracted.`
-- `https://nmcg.nic.in/Guideline.aspx — attempted 2026-09-06; the official page returned only the guidelines title. No standard, target or institutional power was inferred from the stub.`
-- `https://nmcg.nic.in/press_pdf/Status%20of%20Namami%20Gange%20Programme%202026%20ENG%20Press%20Release.pdf — attempted 2026-09-06; the official PDF was retrievable only as raw PDF bytes. It was logged but not text-mined for outlays, capacities, outputs or outcomes.`
-- `https://cpcb.nic.in/nwmp-data/ — attempted 2026-09-06; the official CPCB page returned the heading 'WATER QUALITY DATA (YEARLY)' without a substantive dated table. No river-quality value was imported.`
-- `https://cpcb.nic.in/water-quality-criteria/ — attempted 2026-09-06; the official CPCB page returned only the board title. No designated-best-use class, criterion, unit or effluent standard was transcribed.`
-
-**Topic 26 dedicated Disaster Management cross-owners (scope boundary):**
-- Not applicable to this topic.
-
-### SESSION 1 — FOUNDATION — Point sources non-point sources and pathways
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Point sources non-point sources and pathways explains how Point and non-point sources and Water-quality and effluent boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Point sources non-point sources and pathways separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Point sources non-point sources and pathways must be read through Point and non-point sources and Water-quality and effluent boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Point**
-- **sources**
-- **non-point**
-- **pathways**
-- **Water-quality**
-- **effluent**
-
-**How to use them:** Define Point, sources, non-point; attach pathways to its source, scale, instrument and status; then qualify the answer with this limit: Do not write a receiving-water criterion as an effluent limit.
-
-#### VISUAL FIRST
+### 1.1 Visual first
 
 ```text
-POINT SOURCES NON-POINT SOURCES AND PATHWAYS
-01. Point and non-point sources
-    |
-    v
-02. Water-quality and effluent boundary
-BOUNDARY -> Do not write a receiving-water criterion as an effluent limit.
+ACTIVITY / SOURCE
+household | industry | farm | mine | landfill | power plant
+        ↓
+PATHWAY
+pipe/outfall | sewer/drain | runoff | leaching | atmospheric deposition
+        ↓
+POLLUTANT + LOAD
+physical | chemical | biological
+concentration × flow × time
+        ↓
+CONTROL
+avoid/minimise → segregate → collect → treat → reuse/safely discharge
+        ↓
+LEGAL AND OPERATIONAL PROOF
+consent + sampling + inspection + plant uptime + compliant effluent
+        ↓
+RECEIVING-WATER OUTCOME
+DO/BOD/COD | coliform/pathogens | nutrients | toxics | salinity | ecology
 ```
 
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
+> **Core thesis:** river cleaning succeeds only when source control and continuously operated
+> treatment reduce pollutant **load**, and comparable ambient monitoring then shows a sustained
+> ecological improvement. Money sanctioned, capacity installed or a ghat beautified is not that
+> outcome.
 
-#### CORE EXPLANATION
+### 1.2 Six questions for every case
 
-A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
+1. **Who/what generated it?**
+2. **Is the pathway point or non-point?**
+3. **Which pollutant and which measured parameter are involved?**
+4. **What prevention/treatment fits that pollutant?**
+5. **Which institution has the legal or service-delivery duty?**
+6. **What evidence would prove an environmental outcome?**
 
-#### NAMED EVIDENCE AND MECHANISM
+---
 
-- A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-- Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
+## 2. Point and non-point pollution
 
-#### EXAMINER CAUTION
+### 2.1 Exact distinction
 
-- Do not write a receiving-water criterion as an effluent limit.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Begin by locating the discharge and deciding whether the source is point or diffuse.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Point and non-point sources -> Water-quality and effluent boundary
-- **Qualified use:** Begin by locating the discharge and deciding whether the source is point or diffuse.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Point sources non-point sources and pathways
-EXACT TERMS: Point | sources | non-point | pathways | Water-quality | effluent
-MECHANISM / ARGUMENT: connect Point and non-point sources and Water-quality and effluent boundary through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Begin by locating the discharge and deciding whether the source is point or diffuse.
-UPSC TRAP / ANSWER-USE: Do not write a receiving-water criterion as an effluent limit.
-ANSWER-GRABBING FORMULATION: Point sources non-point sources and pathways converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 2 — FOUNDATION — Receiving-water quality and effluent standards
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Receiving-water quality and effluent standards explains how Water class and discharge boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Receiving-water quality and effluent standards separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Receiving-water quality and effluent standards must be read through Water class and discharge boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Receiving-water**
-- **quality**
-- **effluent**
-- **standards**
-- **Water**
-- **class**
-
-**How to use them:** Define Receiving-water, quality, effluent; attach standards to its source, scale, instrument and status; then qualify the answer with this limit: Do not treat a designated water-use class as a source standard.
-
-#### VISUAL FIRST
-
-```text
-RECEIVING-WATER QUALITY AND EFFLUENT STANDARDS
-01. Water class and discharge boundary
-BOUNDARY -> Do not treat a designated water-use class as a source standard.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-
-#### EXAMINER CAUTION
-
-- Do not treat a designated water-use class as a source standard.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Keep receiving-water and source-discharge standards on separate lines.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Water class and discharge boundary
-- **Qualified use:** Keep receiving-water and source-discharge standards on separate lines.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Receiving-water quality and effluent standards
-EXACT TERMS: Receiving-water | quality | effluent | standards | Water | class
-MECHANISM / ARGUMENT: connect Water class and discharge boundary through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Keep receiving-water and source-discharge standards on separate lines.
-UPSC TRAP / ANSWER-USE: Do not treat a designated water-use class as a source standard.
-ANSWER-GRABBING FORMULATION: Receiving-water quality and effluent standards converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 3 — FOUNDATION — Water-use classes indicators units and sampling
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Water-use classes indicators units and sampling explains how BOD and DO relation fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Water-use classes indicators units and sampling separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Water-use classes indicators units and sampling must be read through BOD and DO relation, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Water-use**
-- **classes**
-- **indicators**
-- **units**
-- **sampling**
-- **relation**
-
-**How to use them:** Define Water-use, classes, indicators; attach units to its source, scale, instrument and status; then qualify the answer with this limit: Do not say high BOD means oxygen-rich clean water.
-
-#### VISUAL FIRST
-
-```text
-WATER-USE CLASSES INDICATORS UNITS AND SAMPLING
-01. BOD and DO relation
-BOUNDARY -> Do not say high BOD means oxygen-rich clean water.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-
-#### EXAMINER CAUTION
-
-- Do not say high BOD means oxygen-rich clean water.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Name the indicator, use class, unit and sampling basis before quoting a value.
-
-#### MINI RECAP
-
-- **Mechanism chain:** BOD and DO relation
-- **Qualified use:** Name the indicator, use class, unit and sampling basis before quoting a value.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Water-use classes indicators units and sampling
-EXACT TERMS: Water-use | classes | indicators | units | sampling | relation
-MECHANISM / ARGUMENT: connect BOD and DO relation through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Name the indicator, use class, unit and sampling basis before quoting a value.
-UPSC TRAP / ANSWER-USE: Do not say high BOD means oxygen-rich clean water.
-ANSWER-GRABBING FORMULATION: Water-use classes indicators units and sampling converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 4 — CORE — BOD DO and faecal contamination
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** BOD DO and faecal contamination explains how Faecal-indicator boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, BOD DO and faecal contamination separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> BOD DO and faecal contamination must be read through Faecal-indicator boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **faecal**
-- **contamination**
-- **Faecal-indicator**
-- **boundary**
-- **coliform**
-- **indicator**
-
-**How to use them:** Define faecal, contamination, Faecal-indicator; attach boundary to its source, scale, instrument and status; then qualify the answer with this limit: Do not treat faecal coliform as a count of every pathogen.
-
-#### VISUAL FIRST
-
-```text
-BOD DO AND FAECAL CONTAMINATION
-01. Faecal-indicator boundary
-BOUNDARY -> Do not treat faecal coliform as a count of every pathogen.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-
-#### EXAMINER CAUTION
-
-- Do not treat faecal coliform as a count of every pathogen.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Explain organic load through BOD and DO, then add the pathogen-indicator limit.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Faecal-indicator boundary
-- **Qualified use:** Explain organic load through BOD and DO, then add the pathogen-indicator limit.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: BOD DO and faecal contamination
-EXACT TERMS: faecal | contamination | Faecal-indicator | boundary | coliform | indicator
-MECHANISM / ARGUMENT: connect Faecal-indicator boundary through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Explain organic load through BOD and DO, then add the pathogen-indicator limit.
-UPSC TRAP / ANSWER-USE: Do not treat faecal coliform as a count of every pathogen.
-ANSWER-GRABBING FORMULATION: BOD DO and faecal contamination converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 5 — CORE — Eutrophication and nutrient loading
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Eutrophication and nutrient loading explains how Eutrophication chain fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Eutrophication and nutrient loading separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Eutrophication and nutrient loading must be read through Eutrophication chain, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Eutrophication**
-- **nutrient**
-- **loading**
-- **chain**
-- **Excess**
-- **drive**
-
-**How to use them:** Define Eutrophication, nutrient, loading; attach chain to its source, scale, instrument and status; then qualify the answer with this limit: Do not merge nutrient eutrophication with every form of sewage pollution.
-
-#### VISUAL FIRST
-
-```text
-EUTROPHICATION AND NUTRIENT LOADING
-01. Eutrophication chain
-BOUNDARY -> Do not merge nutrient eutrophication with every form of sewage pollution.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-
-#### EXAMINER CAUTION
-
-- Do not merge nutrient eutrophication with every form of sewage pollution.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Trace nutrients to algal growth, decomposition and oxygen depletion.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Eutrophication chain
-- **Qualified use:** Trace nutrients to algal growth, decomposition and oxygen depletion.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Eutrophication and nutrient loading
-EXACT TERMS: Eutrophication | nutrient | loading | chain | Excess | drive
-MECHANISM / ARGUMENT: connect Eutrophication chain through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Trace nutrients to algal growth, decomposition and oxygen depletion.
-UPSC TRAP / ANSWER-USE: Do not merge nutrient eutrophication with every form of sewage pollution.
-ANSWER-GRABBING FORMULATION: Eutrophication and nutrient loading converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 6 — CORE — Water Act CPCB and SPCB architecture
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Water Act CPCB and SPCB architecture explains how Water Act institution layer and CTE and CTO boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Water Act CPCB and SPCB architecture separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Water Act CPCB and SPCB architecture must be read through Water Act institution layer and CTE and CTO boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Water**
-- **CPCB**
-- **SPCB**
-- **architecture**
-- **institution**
-- **layer**
-
-**How to use them:** Define Water, CPCB, SPCB; attach architecture to its source, scale, instrument and status; then qualify the answer with this limit: Do not exchange CPCB coordination and SPCB consent enforcement.
-
-#### VISUAL FIRST
-
-```text
-WATER ACT CPCB AND SPCB ARCHITECTURE
-01. Water Act institution layer
-    |
-    v
-02. CTE and CTO boundary
-BOUNDARY -> Do not exchange CPCB coordination and SPCB consent enforcement.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-- Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-
-#### EXAMINER CAUTION
-
-- Do not exchange CPCB coordination and SPCB consent enforcement.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Assign standards, coordination, consent and enforcement to the correct board.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Water Act institution layer -> CTE and CTO boundary
-- **Qualified use:** Assign standards, coordination, consent and enforcement to the correct board.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Water Act CPCB and SPCB architecture
-EXACT TERMS: Water | CPCB | SPCB | architecture | institution | layer
-MECHANISM / ARGUMENT: connect Water Act institution layer and CTE and CTO boundary through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Assign standards, coordination, consent and enforcement to the correct board.
-UPSC TRAP / ANSWER-USE: Do not exchange CPCB coordination and SPCB consent enforcement.
-ANSWER-GRABBING FORMULATION: Water Act CPCB and SPCB architecture converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 7 — CORE — CTE CTO and prior-clearance boundary
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** CTE CTO and prior-clearance boundary explains how Sewage quantity chain fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, CTE CTO and prior-clearance boundary separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> CTE CTO and prior-clearance boundary must be read through Sewage quantity chain, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **prior-clearance**
-- **boundary**
-- **Sewage**
-- **quantity**
-- **chain**
-- **generated**
-
-**How to use them:** Define prior-clearance, boundary, Sewage; attach quantity to its source, scale, instrument and status; then qualify the answer with this limit: Do not merge CTE, CTO and prior environmental clearance.
-
-#### VISUAL FIRST
-
-```text
-CTE CTO AND PRIOR-CLEARANCE BOUNDARY
-01. Sewage quantity chain
-BOUNDARY -> Do not merge CTE, CTO and prior environmental clearance.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-
-#### EXAMINER CAUTION
-
-- Do not merge CTE, CTO and prior environmental clearance.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** List each approval separately and never infer compliance from possession.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Sewage quantity chain
-- **Qualified use:** List each approval separately and never infer compliance from possession.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: CTE CTO and prior-clearance boundary
-EXACT TERMS: prior-clearance | boundary | Sewage | quantity | chain | generated
-MECHANISM / ARGUMENT: connect Sewage quantity chain through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: List each approval separately and never infer compliance from possession.
-UPSC TRAP / ANSWER-USE: Do not merge CTE, CTO and prior environmental clearance.
-ANSWER-GRABBING FORMULATION: CTE CTO and prior-clearance boundary converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 8 — CORE — Sewage generation sewering and treatment chain
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Sewage generation sewering and treatment chain explains how Capacity and utilisation fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Sewage generation sewering and treatment chain separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Sewage generation sewering and treatment chain must be read through Capacity and utilisation, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Sewage**
-- **generation**
-- **sewering**
-- **treatment**
-- **chain**
-- **Capacity**
-
-**How to use them:** Define Sewage, generation, sewering; attach treatment to its source, scale, instrument and status; then qualify the answer with this limit: Do not report sewage generation as sewered or treated flow.
-
-#### VISUAL FIRST
-
-```text
-SEWAGE GENERATION SEWERING AND TREATMENT CHAIN
-01. Capacity and utilisation
-BOUNDARY -> Do not report sewage generation as sewered or treated flow.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-
-#### EXAMINER CAUTION
-
-- Do not report sewage generation as sewered or treated flow.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Trace sewage from generation through sewer connection to actual treatment.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Capacity and utilisation
-- **Qualified use:** Trace sewage from generation through sewer connection to actual treatment.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Sewage generation sewering and treatment chain
-EXACT TERMS: Sewage | generation | sewering | treatment | chain | Capacity
-MECHANISM / ARGUMENT: connect Capacity and utilisation through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Trace sewage from generation through sewer connection to actual treatment.
-UPSC TRAP / ANSWER-USE: Do not report sewage generation as sewered or treated flow.
-ANSWER-GRABBING FORMULATION: Sewage generation sewering and treatment chain converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 9 — CORE — Installed capacity operation and utilisation
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Installed capacity operation and utilisation explains how Municipal and industrial streams fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Installed capacity operation and utilisation separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Installed capacity operation and utilisation must be read through Municipal and industrial streams, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Installed**
-- **capacity**
-- **operation**
-- **utilisation**
-- **Municipal**
-- **industrial**
-
-**How to use them:** Define Installed, capacity, operation; attach utilisation to its source, scale, instrument and status; then qualify the answer with this limit: Do not report installed STP capacity as utilisation or outcome.
-
-#### VISUAL FIRST
-
-```text
-INSTALLED CAPACITY OPERATION AND UTILISATION
-01. Municipal and industrial streams
-BOUNDARY -> Do not report installed STP capacity as utilisation or outcome.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-
-#### EXAMINER CAUTION
-
-- Do not report installed STP capacity as utilisation or outcome.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Use operation and compliant output, not installed nameplate capacity, as evidence.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Municipal and industrial streams
-- **Qualified use:** Use operation and compliant output, not installed nameplate capacity, as evidence.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Installed capacity operation and utilisation
-EXACT TERMS: Installed | capacity | operation | utilisation | Municipal | industrial
-MECHANISM / ARGUMENT: connect Municipal and industrial streams through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Use operation and compliant output, not installed nameplate capacity, as evidence.
-UPSC TRAP / ANSWER-USE: Do not report installed STP capacity as utilisation or outcome.
-ANSWER-GRABBING FORMULATION: Installed capacity operation and utilisation converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 10 — CORE — Municipal sewage and industrial effluent
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Municipal sewage and industrial effluent explains how STP ETP and CETP fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Municipal sewage and industrial effluent separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Municipal sewage and industrial effluent must be read through STP ETP and CETP, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Municipal**
-- **sewage**
-- **industrial**
-- **effluent**
-- **CETP**
-- **treats**
-
-**How to use them:** Define Municipal, sewage, industrial; attach effluent to its source, scale, instrument and status; then qualify the answer with this limit: Do not merge municipal sewage with industrial effluent.
-
-#### VISUAL FIRST
-
-```text
-MUNICIPAL SEWAGE AND INDUSTRIAL EFFLUENT
-01. STP ETP and CETP
-BOUNDARY -> Do not merge municipal sewage with industrial effluent.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-
-#### EXAMINER CAUTION
-
-- Do not merge municipal sewage with industrial effluent.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Diagnose municipal and industrial streams separately before combining policy.
-
-#### MINI RECAP
-
-- **Mechanism chain:** STP ETP and CETP
-- **Qualified use:** Diagnose municipal and industrial streams separately before combining policy.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Municipal sewage and industrial effluent
-EXACT TERMS: Municipal | sewage | industrial | effluent | CETP | treats
-MECHANISM / ARGUMENT: connect STP ETP and CETP through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Diagnose municipal and industrial streams separately before combining policy.
-UPSC TRAP / ANSWER-USE: Do not merge municipal sewage with industrial effluent.
-ANSWER-GRABBING FORMULATION: Municipal sewage and industrial effluent converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 11 — CORE — STP ETP and CETP treatment roles
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** STP ETP and CETP treatment roles explains how Regulation and mission boundary and NMCG institutional boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, STP ETP and CETP treatment roles separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> STP ETP and CETP treatment roles must be read through Regulation and mission boundary and NMCG institutional boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **CETP**
-- **treatment**
-- **roles**
-- **Regulation**
-- **mission**
-- **boundary**
-
-**How to use them:** Define CETP, treatment, roles; attach Regulation to its source, scale, instrument and status; then qualify the answer with this limit: Do not treat an installed ETP or CETP as continuous compliance.
-
-#### VISUAL FIRST
-
-```text
-STP ETP AND CETP TREATMENT ROLES
-01. Regulation and mission boundary
-    |
-    v
-02. NMCG institutional boundary
-BOUNDARY -> Do not treat an installed ETP or CETP as continuous compliance.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-- NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-
-#### EXAMINER CAUTION
-
-- Do not treat an installed ETP or CETP as continuous compliance.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Match STP, ETP and CETP to the waste stream and responsible operator.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Regulation and mission boundary -> NMCG institutional boundary
-- **Qualified use:** Match STP, ETP and CETP to the waste stream and responsible operator.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: STP ETP and CETP treatment roles
-EXACT TERMS: CETP | treatment | roles | Regulation | mission | boundary
-MECHANISM / ARGUMENT: connect Regulation and mission boundary and NMCG institutional boundary through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Match STP, ETP and CETP to the waste stream and responsible operator.
-UPSC TRAP / ANSWER-USE: Do not treat an installed ETP or CETP as continuous compliance.
-ANSWER-GRABBING FORMULATION: STP ETP and CETP treatment roles converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 12 — CORE — Regulation river missions and NMCG
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Regulation river missions and NMCG explains how Namami Gange component boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Regulation river missions and NMCG separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Regulation river missions and NMCG must be read through Namami Gange component boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Regulation**
-- **river**
-- **missions**
-- **NMCG**
-- **Namami**
-- **Gange**
-
-**How to use them:** Define Regulation, river, missions; attach NMCG to its source, scale, instrument and status; then qualify the answer with this limit: Do not treat Namami Gange as the Water Act regulator.
-
-#### VISUAL FIRST
-
-```text
-REGULATION RIVER MISSIONS AND NMCG
-01. Namami Gange component boundary
-BOUNDARY -> Do not treat Namami Gange as the Water Act regulator.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-
-#### EXAMINER CAUTION
-
-- Do not treat Namami Gange as the Water Act regulator.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Place statutory regulation beside the mission rather than replacing it.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Namami Gange component boundary
-- **Qualified use:** Place statutory regulation beside the mission rather than replacing it.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Regulation river missions and NMCG
-EXACT TERMS: Regulation | river | missions | NMCG | Namami | Gange
-MECHANISM / ARGUMENT: connect Namami Gange component boundary through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Place statutory regulation beside the mission rather than replacing it.
-UPSC TRAP / ANSWER-USE: Do not treat Namami Gange as the Water Act regulator.
-ANSWER-GRABBING FORMULATION: Regulation river missions and NMCG converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 13 — CORE SYNTHESIS — Namami Gange components and NRCP scope
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Namami Gange components and NRCP scope explains how NRCP and river scope fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Namami Gange components and NRCP scope separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Namami Gange components and NRCP scope must be read through NRCP and river scope, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Namami**
-- **Gange**
-- **components**
-- **NRCP**
-- **scope**
-- **river**
-
-**How to use them:** Define Namami, Gange, components; attach NRCP to its source, scale, instrument and status; then qualify the answer with this limit: Do not generalise a Ganga institution or result to every river.
-
-#### VISUAL FIRST
-
-```text
-NAMAMI GANGE COMPONENTS AND NRCP SCOPE
-01. NRCP and river scope
-BOUNDARY -> Do not generalise a Ganga institution or result to every river.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-
-#### EXAMINER CAUTION
-
-- Do not generalise a Ganga institution or result to every river.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** State the Ganga-specific and wider river-programme boundaries.
-
-#### MINI RECAP
-
-- **Mechanism chain:** NRCP and river scope
-- **Qualified use:** State the Ganga-specific and wider river-programme boundaries.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Namami Gange components and NRCP scope
-EXACT TERMS: Namami | Gange | components | NRCP | scope | river
-MECHANISM / ARGUMENT: connect NRCP and river scope through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: State the Ganga-specific and wider river-programme boundaries.
-UPSC TRAP / ANSWER-USE: Do not generalise a Ganga institution or result to every river.
-ANSWER-GRABBING FORMULATION: Namami Gange components and NRCP scope converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 14 — CORE SYNTHESIS — Inputs outputs outcomes stretch and season
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Inputs outputs outcomes stretch and season explains how Input output outcome chain and Stretch season indicator fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Inputs outputs outcomes stretch and season separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Inputs outputs outcomes stretch and season must be read through Input output outcome chain and Stretch season indicator, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Inputs**
-- **outputs**
-- **outcomes**
-- **stretch**
-- **season**
-- **Input**
-
-**How to use them:** Define Inputs, outputs, outcomes; attach stretch to its source, scale, instrument and status; then qualify the answer with this limit: Do not report mission input or output as river-quality outcome.
-
-#### VISUAL FIRST
-
-```text
-INPUTS OUTPUTS OUTCOMES STRETCH AND SEASON
-01. Input output outcome chain
-    |
-    v
-02. Stretch season indicator
-BOUNDARY -> Do not report mission input or output as river-quality outcome.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-- River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-
-#### EXAMINER CAUTION
-
-- Do not report mission input or output as river-quality outcome.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Move from money and assets to treated flow, load reduction and monitored outcome.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Input output outcome chain -> Stretch season indicator
-- **Qualified use:** Move from money and assets to treated flow, load reduction and monitored outcome.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Inputs outputs outcomes stretch and season
-EXACT TERMS: Inputs | outputs | outcomes | stretch | season | Input
-MECHANISM / ARGUMENT: connect Input output outcome chain and Stretch season indicator through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Move from money and assets to treated flow, load reduction and monitored outcome.
-UPSC TRAP / ANSWER-USE: Do not report mission input or output as river-quality outcome.
-ANSWER-GRABBING FORMULATION: Inputs outputs outcomes stretch and season converts a precise environmental distinction into a qualified conclusion
-```
-
-### SESSION 15 — CORE SYNTHESIS — Evidence-safe exam synthesis
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Evidence-safe exam synthesis explains how Dilution and ecological flow and Audited evidence boundary fit into one examinable ecological mechanism.
-
-**Technical definition:** In Environment and Ecology, Evidence-safe exam synthesis separates the environmental system and receiving medium from the measured parameter, source or precursor, responsible actor, regulatory instrument, spatial scale, temporal stage, rule vintage and legal or scientific status attached to the claim.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Evidence-safe exam synthesis must be read through Dilution and ecological flow and Audited evidence boundary, with the ecological level, system boundary and measured parameter fixed before the inference.
-
-#### MUST-WRITE KEYWORDS
-
-- **Evidence-safe**
-- **exam**
-- **synthesis**
-- **Dilution**
-- **flow**
-- **Audited**
-
-**How to use them:** Define Evidence-safe, exam, synthesis; attach Dilution to its source, scale, instrument and status; then qualify the answer with this limit: Do not infer an entire river's status from one stretch, season or indicator.
-
-#### VISUAL FIRST
-
-```text
-EVIDENCE-SAFE EXAM SYNTHESIS
-01. Dilution and ecological flow
-    |
-    v
-02. Audited evidence boundary
-BOUNDARY -> Do not infer an entire river's status from one stretch, season or indicator.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-- Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-
-#### EXAMINER CAUTION
-
-- Do not infer an entire river's status from one stretch, season or indicator.
-
-#### EXAM LINK
-
-- **Prelims:** Preserve the exact receiving medium, system boundary, measured parameter, actor, process, spatial and temporal scale, rule vintage and scientific or legal status; never turn a context-dependent pattern into a universal rule.
-- **Mains:** Close with verified PYQ ownership and explicit current-data limits.
-
-#### MINI RECAP
-
-- **Mechanism chain:** Dilution and ecological flow -> Audited evidence boundary
-- **Qualified use:** Close with verified PYQ ownership and explicit current-data limits.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Evidence-safe exam synthesis
-EXACT TERMS: Evidence-safe | exam | synthesis | Dilution | flow | Audited
-MECHANISM / ARGUMENT: connect Dilution and ecological flow and Audited evidence boundary through the source, pathway, instrument and evidence chain
-CONSEQUENCE / CONTRAST: Close with verified PYQ ownership and explicit current-data limits.
-UPSC TRAP / ANSWER-USE: Do not infer an entire river's status from one stretch, season or indicator.
-ANSWER-GRABBING FORMULATION: Evidence-safe exam synthesis converts a precise environmental distinction into a qualified conclusion
-```
-
-### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims.
-> **Core area:** Water-quality regulation and river-restoration governance.
-> **Grounded in:** Water (Prevention and Control of Pollution) Act, 1974 (India Code); National Mission for Clean Ganga (Namami Gange Programme), MoJS; CPCB water-quality criteria; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
-> *Companion: `advanced/14_Water-Pollution-and-River-Cleaning-Missions.md`.*
-
-#### 1. Visual foundation
-
-```text
-WATER POLLUTION SOURCES              KEY QUALITY INDICATORS              GOVERNANCE RESPONSE
-Untreated sewage, industrial   ->    BOD (Biochemical Oxygen        ->   Water Act, 1974 +
-effluent, agricultural runoff        Demand), Dissolved Oxygen (DO),      CPCB/SPCB consent
-(fertiliser/pesticide),              faecal coliform count, nutrient      mechanism + river-
-solid waste dumping                  (N/P) load                           specific missions
-                                                                           (Namami Gange, NRCP)
-
-HIGH BOD + LOW DO + HIGH FAECAL COLIFORM = classic sewage/organic-pollution signature
-```
-
-**Core proposition:** India's water-pollution governance combines a general regulatory
-framework (the Water Act, 1974, administered through CPCB/SPCB "consent" mechanisms) with
-dedicated, large-scale river-specific missions (most prominently Namami Gange) — the two
-operate together, since general regulation alone has historically proven insufficient for
-India's most degraded major rivers.
-
-#### 2. Essential definitions
-
-| Concept | Exam-ready meaning |
-|---|---|
-| ✅ **BOD (Biochemical Oxygen Demand)** | The amount of dissolved oxygen consumed by microorganisms decomposing organic matter in water; higher BOD indicates greater organic pollution. |
-| ✅ **DO (Dissolved Oxygen)** | Oxygen dissolved in water, essential for aquatic life; low DO indicates poor water quality/oxygen depletion. |
-| ✅ **Faecal coliform count** | Bacterial indicator of sewage/human or animal waste contamination in water. |
-| ✅ **Eutrophication** | Nutrient (nitrogen/phosphorus) over-enrichment of a water body causing algal blooms and subsequent oxygen depletion (cross-refer Topic 02). |
-| ✅ **Consent to Establish / Consent to Operate** | Statutory approvals under the Water Act, 1974 (and Air Act, 1981) that industries/projects must obtain from SPCBs before establishing or operating a polluting activity. |
-| ✅ **Namami Gange Programme** | India's flagship integrated river-conservation mission for the Ganga, covering sewage treatment infrastructure, industrial effluent monitoring, river-front development, biodiversity and public participation. |
-| ✅ **National Ganga Council** | The apex body for Ganga rejuvenation, **chaired by the Prime Minister**, created by the *River Ganga (Rejuvenation, Protection and Management) Authorities Order, 2016* issued under the **Environment (Protection) Act, 1986** — with an Empowered Task Force under the Union Jal Shakti Minister, plus State and District Ganga Committees below it. ⚠️ NMCG is its implementation arm (a registered society vested with Authority powers), not a statutory board like CPCB. |
-| ✅ **"National River"** | The Ganga was declared India's **National River in 2008** — a declaratory status that raised priority and funding, not a new legal protection category. |
-| ✅ **Arth Ganga** | The economic-model extension of Namami Gange, built on six verticals: zero-budget natural farming, monetisation and reuse of treated water and sludge, livelihood generation, increased public participation, cultural heritage and tourism, and institution building. |
-| ✅ **Hybrid Annuity Model (HAM)** | The PPP contracting model used for Namami Gange sewage-treatment plants, under which a share of capital cost is paid during construction and the balance as performance-linked annuities over a long operation period — designed to fix the historic failure mode of *built-but-not-operated* STPs. |
-
-#### 3. Topic mechanism
-
-1. The Water (Prevention and Control of Pollution) Act, 1974 established CPCB (at the
-   national level) and SPCBs (at the state level) as the regulatory bodies empowered to set
-   effluent standards, grant/refuse "Consent to Establish/Operate" for polluting industries,
-   and take enforcement action against violations.
-2. Water quality is assessed through indicators like BOD, DO, and faecal coliform count,
-   which together diagnose whether pollution is primarily organic/sewage-driven (high BOD,
-   low DO, high coliform) or from other sources (industrial chemical effluent, agricultural
-   runoff/eutrophication).
-3. Despite this general regulatory framework, India's major rivers (especially the Ganga)
-   continued to receive large volumes of untreated sewage and industrial effluent, prompting
-   dedicated, mission-mode central interventions beyond routine SPCB enforcement.
-4. The National Mission for Clean Ganga, operating the Namami Gange Programme, integrates
-   sewage-treatment-infrastructure creation, industrial-effluent monitoring, river-surface
-   cleaning, biodiversity conservation, afforestation along the riverbank, and public
-   awareness/participation as a comprehensive, river-specific mission rather than relying
-   solely on general pollution-control law.
-5. Similar but generally smaller-scale river-action programmes exist for other rivers under
-   the broader National River Conservation Plan (NRCP) framework, reflecting a template of
-   dedicated river-specific missions where general regulatory enforcement alone has proven
-   insufficient.
-
-#### 4. Institutions and policy tools
-
-- ✅ **CPCB / SPCBs:** set effluent standards and administer the Consent to Establish/Operate
-  mechanism under the Water Act, 1974.
-- ✅ **National Mission for Clean Ganga (NMCG), under the Ministry of Jal Shakti:** implements
-  the Namami Gange Programme.
-- ✅ **State-level river-conservation agencies:** implement components of NRCP and other
-  river-specific missions at the state level.
-- ⚠️ Urban local bodies play a critical, often under-resourced role in sewage-treatment
-  infrastructure creation and maintenance, a frequent implementation bottleneck.
-
-#### 5. Indian applications and examples
-
-- ⚠️ Namami Gange's sewage-treatment-infrastructure creation directly targets the largest
-  documented pollution source for the Ganga — untreated municipal sewage from riverside
-  towns and cities.
-- ⚠️ Industrial effluent from sectors like tanneries (e.g., historically significant leather-
-  industry clusters along parts of the Ganga basin) has required targeted effluent-treatment
-  and compliance monitoring as a distinct pollution-source category from municipal sewage.
-- ⚠️ Agricultural runoff (fertiliser/pesticide residues) contributing to nutrient pollution
-  and eutrophication in various rivers/water bodies illustrates a non-point-source pollution
-  challenge that is harder to regulate than identifiable industrial/municipal point sources.
-
-#### 6. Must-Know Facts for Prelims
-
-- ✅ The Water (Prevention and Control of Pollution) Act, 1974 established CPCB and SPCBs as
-  the regulatory bodies for water-pollution control in India.
-- ✅ High BOD combined with low Dissolved Oxygen and high faecal coliform count is the
-  classic signature of sewage/organic pollution.
-- ✅ The Namami Gange Programme is implemented by the National Mission for Clean Ganga under
-  the Ministry of Jal Shakti.
-- ✅ Untreated municipal sewage has historically been documented as the largest single
-  pollution-load contributor to the Ganga.
-- ✅ "Consent to Establish" and "Consent to Operate" are statutory approvals industries must
-  obtain from SPCBs under the Water Act, 1974.
-- ✅ The **National Ganga Council is chaired by the Prime Minister** and was constituted under
-  the **Environment (Protection) Act, 1986** through the 2016 Authorities Order — a rare
-  instance of a river-governance body created under environmental, not water, legislation.
-- ✅ The Ganga was declared a **National River in 2008**.
-- ✅ **Arth Ganga** has **six verticals**, of which zero-budget natural farming and the
-  monetisation/reuse of treated water and sludge are the most frequently examined.
-- ✅ Namami Gange uses the **Hybrid Annuity Model** with a "one city, one operator" approach
-  to tie payment to sustained STP *performance* rather than construction completion.
-- ✅ Because **"water" is a State List subject**, the criminal provisions of the Water Act,
-  1974 were amended (decriminalised) using **Article 252(1)** — legislation by Parliament for
-  two or more consenting States — whereas the Air Act, EPA and Indian Forest Act were
-  decriminalised directly through the Jan Vishwas route (Economic Survey 2025-26, Ch. 10).
-
-#### 7. UPSC traps
-
-- ❌ High BOD indicates clean, oxygen-rich water. -> High BOD indicates heavy organic
-  pollution, which depletes dissolved oxygen as it is broken down.
-- ❌ Namami Gange is administered by MoEFCC. -> It is implemented by the National Mission for
-  Clean Ganga under the Ministry of Jal Shakti.
-- ❌ Industrial effluent is the largest pollution-load contributor to the Ganga. ->
-  Untreated municipal sewage has historically been documented as the largest single
-  contributor.
-- ❌ CPCB alone directly enforces water-pollution law on the ground everywhere. -> On-ground
-  enforcement (consent mechanism, monitoring) is primarily carried out by State Pollution
-  Control Boards, with CPCB setting standards and coordinating nationally.
-- ❌ Eutrophication and organic sewage pollution are the same phenomenon. -> Eutrophication
-  is specifically nutrient (N/P) over-enrichment causing algal blooms; sewage pollution is
-  broader organic-matter and pathogen contamination, though the two can co-occur.
-- ❌ The National Ganga Council is chaired by the Union Jal Shakti Minister. -> It is chaired
-  by the **Prime Minister**; the Empowered Task Force is chaired by the Jal Shakti Minister.
-- ❌ NMCG is a statutory board like CPCB. -> It is a registered society vested with the powers
-  of an Authority under the 2016 Order issued under the Environment (Protection) Act, 1986.
-- ❌ Declaring the Ganga a "National River" (2008) created a new legal protection category. ->
-  It was a declaratory, priority-signalling status, not a new statutory regime.
-
-#### 8. 📰 Current anchor
-
-- 📰 The Namami Gange Programme remains India's flagship river-conservation mission,
-  continuing sewage-treatment-infrastructure expansion and effluent-monitoring efforts along
-  the Ganga; verify the latest sewage-treatment-capacity figures and river-stretch water-
-  quality status against the most recent NMCG/CPCB report before citing specific numbers.
-
-⚠️ **Interpretation caution:** claims about a river stretch becoming "fit for bathing" or
-similar water-quality-improvement milestones should be attributed to the specific CPCB/NMCG
-monitoring report and its date, as water quality can vary seasonally and by river stretch.
-
-#### 9. PYQ application
-
-- ✅ **2024 GS-III direct PYQ:** “Industrial pollution of river water is a
-  significant environmental issue in India.” It asks for mitigation measures
-  and government initiatives. Route the exact demand via `../README.md`.
-- ✅ **2024 GS-III direct PYQ (250 words):** “The world is facing an acute shortage of clean
-  and safe freshwater. What are the alternative technologies which can solve this crisis?
-  Briefly discuss any three such technologies citing their key merits and demerits.” ⚠️ Note
-  the exact demand: **three** technologies, each with **merits and demerits** — a structured
-  three-block answer (e.g., desalination, wastewater recycling/reuse, atmospheric water
-  generation or advanced membrane treatment), not a general water-scarcity essay.
-- ✅ **2025 GS-III direct PYQ (250 words):** “Examine the factors responsible for depleting
-  groundwater in India. What are the steps taken by the government to mitigate such
-  depletion of groundwater?” ⚠️ This is a **groundwater quantity** question; keep it distinct
-  from the surface-water **quality** framing of Namami Gange, and use Atal Bhujal Yojana,
-  Jal Shakti Abhiyan/Catch the Rain, the Central Ground Water Authority's notified
-  over-exploited blocks and the Master Plan for Artificial Recharge as the "steps taken".
-- ⚠️ Recurring Prelims pattern: identify the correct water-quality indicator (BOD/DO/
-  faecal coliform) implied by a described pollution scenario.
-- ⚠️ Mains linkage: the sewage-versus-industrial-effluent pollution-source distinction is
-  used to argue for infrastructure investment (sewage treatment) as the primary river-
-  cleaning priority.
-
-#### 10. Mains angles
-
-- ⚠️ Argue that river cleaning requires sustained sewage-treatment-infrastructure investment
-  and maintenance (not just periodic river-front beautification) since untreated sewage is
-  the largest documented pollution source.
-- ⚠️ Use the point-source (industrial/municipal) versus non-point-source (agricultural
-  runoff) distinction to argue that different pollution types need different regulatory
-  tools.
-- ⚠️ Conclude with an infrastructure-and-behaviour thesis: technical infrastructure (sewage
-  treatment plants) must be paired with urban local body capacity and public participation
-  for durable river-water-quality improvement.
-
-> **Answer thesis:** Treat general water-pollution law (Water Act, 1974/CPCB-SPCB consent mechanism) and dedicated river-specific missions (Namami Gange) as complementary layers, and judge river-cleaning success by sustained sewage-treatment infrastructure and maintenance capacity, not by river-front visual improvement alone.
-
-#### 11. Probable questions
-
-- ⚠️ **Prelims:** Identify the water-quality indicators (BOD, DO, faecal coliform) implied
-  by a described pollution scenario and their correct interpretation.
-- ⚠️ **Mains (10 marks):** Why has untreated municipal sewage been identified as the
-  largest pollution-load contributor to the Ganga?
-- ⚠️ **Mains (15 marks):** Evaluate the Namami Gange Programme's integrated approach to
-  river conservation and identify its key implementation challenges.
-
-#### 12. Study links
-
-- ✅ Advanced companion: `advanced/14_Water-Pollution-and-River-Cleaning-Missions.md`.
-- ✅ `02_Biogeochemical-Cycles-and-Ecological-Pyramids.md` — the eutrophication mechanism
-  underlying nutrient-pollution discussions.
-- ✅ `13_Air-Pollution-and-CPCB-Standards.md` — the parallel CPCB-led air-quality governance
-  framework.
-- ✅ `15_Solid-Plastic-and-E-Waste-Rules.md` — solid-waste dumping as a contributing water-
-  pollution source.
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
-
-- **Years represented:** 2024, 2025
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 5
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-III | 7 | Industrial pollution of river water and mitigation measures | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2024 | GS-III | 15 | Alternative technologies for the freshwater crisis | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2024 | Prelims GS-I | 17 | PFAS in consumer products | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2024 | Prelims GS-I | 39 | 'Membrane Bioreactors' in wastewater treatment | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 50 | Activated carbon for removing pollutants from effluents | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Industrial pollution of river water and mitigation measures
-- Alternative technologies for the freshwater crisis
-- PFAS in consumer products
-- 'Membrane Bioreactors' in wastewater treatment
-- Activated carbon for removing pollutants from effluents
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-#### 13. Core answer architecture (10/15/20-mark support)
-
-##### 13.1 Direct demand A — industrial river pollution (2024 GS-III, 10 marks)
-
-**Thesis:** industrial river pollution requires a source-to-river chain: prevent toxic discharge at source, enforce lawful consent and standards, treat residual effluent, and verify receiving-water outcomes; river-front work cannot substitute for this chain.
-
-| Claim | Named evidence/example → significance | Qualification |
+| Feature | Point source | Non-point source |
 |---|---|---|
-| Point sources can be controlled before discharge. | **Water Act consent to establish/operate, SPCB effluent standards, ETP/CETP and online monitoring** → connect a factory’s process to enforceable prevention/treatment. | Consent or installed treatment is not proof of continuous compliance. |
-| Basin missions complement regulation. | **NMCG/Namami Gange** combines sewage infrastructure, industrial monitoring and river-basin action. | It is Ganga-specific; do not call it a national substitute for every SPCB/ULB. |
-| Accountability must survive beyond construction. | **Polluter Pays/NGT remedies and compliance monitoring** → make remediation and closure costs visible. | A penalty after damage cannot fully restore a polluted river stretch. |
+| Pathway | Identifiable pipe, drain, channel or outfall | Diffuse runoff/leaching over a catchment |
+| Typical examples | Industrial outlet; municipal sewer outfall; STP bypass | Fertiliser/pesticide runoff; eroded sediment; dispersed septic leakage; urban wash-off |
+| Monitoring | Outlet flow and concentration plus receiving water | Catchment, event, land-use and sub-basin monitoring |
+| Main tool | Consent, source standard, inspection, ETP/STP, closure/penalty | Farm/land-use practice, riparian buffer, drainage design, nutrient budget, catchment management |
+| Attribution | Usually more direct | Harder because sources, rainfall and pathways interact |
 
-**150-word spine:** one-line source diagnosis → three mitigation clusters (cleaner production/segregation; treatment/zero-discharge where technically appropriate; consent-monitoring-liability) → government initiatives (Water Act/CPCB-SPCB, NMCG/Namami Gange) → last-mile verdict on verified operation and basin coordination.
+### 2.2 Boundary cases UPSC can exploit
 
-##### 13.2 Direct demand B — three freshwater technologies (2024 GS-III, 15 marks)
+- A **municipal outfall** is a point source even though sewage originated in many homes.
+- A **storm drain** may aggregate diffuse road runoff and illegal point discharges; inspect both.
+- A **CETP outlet** is one point, but its influent comes from many member industries.
+- A leaking cluster of septic tanks can create diffuse groundwater contamination.
+- A visible pipe does not prove it is the only source affecting the monitored stretch.
 
-| Technology | Mechanism and merit | Demerit/condition |
+### 2.3 Concentration is not load
+
+```text
+Pollutant load (kg/day) = concentration (mg/L) × flow (MLD)
+```
+
+The numerical conversion works because 1 mg/L carried in 1 million litres equals 1 kilogram.
+Higher river flow may dilute concentration without reducing the mass discharged. Conversely, a
+small high-concentration outlet and a large moderate-concentration outlet can carry similar loads.
+
+---
+
+## 3. Pollutant taxonomy and effects
+
+### 3.1 Physical, chemical and biological
+
+| Class | Examples | Principal effects / exam link |
 |---|---|---|
-| **Desalination** (reverse osmosis or thermal) | Converts seawater/brackish water into potable supply; useful for water-stressed coasts and islands because source is climate-independent. | Energy/capital intensive; brine and intake need marine safeguards; it does not restore an overdrawn aquifer. |
-| **Wastewater recycling and reuse** (tertiary treatment, including membrane bioreactor where justified) | Creates a dependable local non-potable/industrial or, after fit-for-purpose treatment, reuse supply; also reduces river discharge. | Needs sewer connectivity, reliable power/O&M, sludge management, quality monitoring and public trust. |
-| **Managed aquifer recharge/rainwater harvesting** | Stores wet-season water underground with low evaporation and can rebuild groundwater where hydrogeology permits. | Requires clean recharge water, suitable aquifer and extraction control; contaminated recharge or impermeable/overdrawn settings can fail. |
-
-**250-word spine:** define fit-for-purpose water security → three equal technology blocks (mechanism + merit + demerit) → allocation/quality/MRV → verdict: a diversified portfolio, not one “silver-bullet” plant.
-
-##### 13.3 Direct demand C — groundwater depletion (2025 GS-III, 15 marks)
-
-**Causal chain:** high irrigation demand and water-intensive cropping + subsidised/cheap pumping incentives + urban/industrial abstraction + sealed recharge zones + variable rainfall and poorly protected recharge areas → falling water table, higher pumping cost, quality/salinity risk and food-security stress.
-
-**Government-response spine:** demand management/crop and micro-irrigation choices; **Atal Bhujal Yojana** participatory groundwater management; **Jal Shakti Abhiyan–Catch the Rain**; **CGWA** abstraction regulation in notified areas; **Master Plan for Artificial Recharge**; recharge/wetland protection. State the implementation condition: aquifer-level data, local water budgets and enforceable extraction discipline.
-
-##### 13.4 Water-quality evidence discipline
-
-Use **high BOD + low DO + high faecal coliform** only for the organic/sewage signature. Keep industrial toxics, nutrients and groundwater quantity analytically separate; an STP’s installed capacity, its actual operation and a river stretch’s monitored quality are three different facts.
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018, 2019
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 81 | Heavy sand mining riverbeds environmental and groundwater consequences | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 30 | Environmental concern about microbeads released in water | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Heavy sand mining riverbeds environmental and groundwater consequences
-- Environmental concern about microbeads released in water
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### Semantic-completeness ownership and PYQ control
-
-- **Official syllabus/index and owned core:** a region is a historically,
-  culturally, economically or ecologically perceived territory; regionalism
-  is organised assertion around it; sub-regionalism operates within an existing
-  region/state; regional disparity concerns unequal outcomes. Diversity,
-  disparity, regionalism, autonomy, statehood and secession are not synonyms.
-- **Indispensable sociology and historical mechanism:** linguistic reorganisation after 1956
-  shows accommodation through recognition. Andhra, Maharashtra-Gujarat,
-  Telangana, Gorkhaland, Bodoland and Northeast autonomy claims must be located
-  in their own histories. Grievance, leadership, organisation, political
-  opportunity and institutional response link identity or disparity to an
-  outcome; no demand follows an automatic escalation ladder.
-- **Two causal axes and intersectionality:** identity-driven regionalism seeks
-  recognition and representation; disparity-driven regionalism seeks
-  redistribution and capability. They may compound but remain analytically
-  independent. State averages can conceal sub-regional, tribal, rural-urban,
-  class, caste and gender inequalities.
-- **Constitutional/institutional boundary:** statehood, autonomy, inter-state
-  disputes, Article 263, special provisions and fiscal federalism have distinct
-  constitutional routes whose detailed doctrine remains Polity-owned. Zonal
-  Councils are statutory advisory forums under the States Reorganisation Act,
-  1956; the Inter-State Council is a separate constitutional coordination
-  mechanism.
-- **Data/source control:** NITI Aayog's SDG India Index 2023-24 is a composite
-  state/UT benchmark, not a sub-regional diagnosis or causal proof. No ranking,
-  income, infrastructure or fiscal figure is used without edition, unit and
-  geographical scale.
-- **Non-deterministic conclusion:** regional parties and constitutional
-  statehood demands are not presumptively separatist or anti-national.
-  Recognition, redistribution, representation and cooperative forums must
-  match the diagnosed grievance; creating a new unit can relocate rather than
-  eliminate internal disparity.
-- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
-  taxonomy and PYQs were checked for concept, scale, historical sequence,
-  identity/disparity mechanisms, federal boundaries, intersectionality,
-  indicator limits and non-secessionist counter-cases.
-- **Verified PYQ ownership, 2018-2026:** direct routes cover cultural
-  assertiveness and regionalism in 2020 and regional disparity versus diversity
-  in 2024. No unavailable 2026 question, current movement outcome or unsupported
-  regional ranking is invented.
+| **Physical** | Suspended solids, sediment, turbidity, colour, litter, heat | Light reduction, smothering, habitat change, temperature/oxygen stress |
+| **Chemical** | Acids/alkalis, nutrients, salts, pesticides, petroleum, solvents, metals, PFAS | Toxicity, eutrophication, salinisation, endocrine/persistent effects |
+| **Biological** | Pathogenic bacteria, viruses, protozoa and helminths | Water-borne disease and faecal-contamination risk |
+
+These are useful headings, not sealed boxes. Sewage contains solids, chemicals, biodegradable
+organic matter and pathogens; heat is physical but produces chemical and biological consequences.
+
+### 3.2 Oxygen-demanding organic matter
+
+Domestic sewage, food-processing wastes and other biodegradable organics feed microbial
+decomposition. If oxygen consumption exceeds reaeration and photosynthetic supply, dissolved
+oxygen falls and anaerobic conditions, odour and aquatic mortality can follow.
 
-### ENVIRONMENT AND ECOLOGY DEEP-REVIEW CORE CONTROL
+### 3.3 Eutrophication
+
+```text
+excess nitrogen/phosphorus
+        ↓
+algal/macrophyte growth
+        ↓
+shading + possible toxins + large biomass
+        ↓
+death and microbial decomposition
+        ↓
+BOD rises → DO falls → hypoxia/anoxia + food-web change
+```
 
-- **Must remember:** Water pollution links pollutant load, concentration, dissolved oxygen, BOD/COD, ecological assimilation, treatment chain and basin governance across local bodies, pollution boards and river missions.
-- **Close distinction:** BOD is not COD, sewage generation is not treatment capacity or actual treatment, installed STP capacity is not compliant discharge, and river-mission expenditure is not water-quality improvement.
-- **Mechanism / status / evidence limit:** Fix parameter, unit, sampling location/time and standard; map sewer capture, treatment, operation, discharge, monitoring and basin flow while qualifying institutional jurisdiction.
+Nutrient enrichment is not identical to sewage pollution. Sewage can supply nutrients and organic
+matter together, but farm runoff can drive eutrophication without a sewer outfall.
 
-## BASIC MCQS / REMEDIATION
+### 3.4 Pathogens and indicators
 
-### Q1. Which statement correctly identifies Point and non-point sources?
+- Faecal contamination can carry bacterial, viral, protozoan and helminth risks.
+- **Total coliform, faecal coliform and faecal streptococci are indicators**; they are not a count
+  of every pathogen.
+- A low BOD does not by itself prove microbiological safety.
+- Disinfection without adequate solids removal can be unreliable because particles shield microbes.
 
-A. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-B. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-C. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-D. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
+### 3.5 Heavy metals
 
-**Answer: A.**
-**Explanation:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+Metals such as lead, mercury, cadmium, chromium and arsenic can be toxic at low concentrations.
+Their mobility and toxicity depend on chemical form, pH, redox conditions and suspended matter.
+They do not “biodegrade”; treatment may precipitate, adsorb, exchange or separate them, after which
+the contaminated sludge/media still requires safe management.
 
-### Q2. Which option preserves the ecological boundary of Point and non-point sources?
+### 3.6 Thermal pollution
+
+Heated discharge can reduce oxygen solubility while increasing organism metabolism and reaction
+rates. The resulting oxygen squeeze, thermal shock and species-composition change are distinct
+from BOD pollution, though they may intensify it.
+
+### 3.7 Salinity and groundwater
 
-A. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-B. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-C. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-D. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
+- Salinity is reflected through dissolved salts, total dissolved solids and electrical conductivity.
+- Causes include seawater intrusion, saline irrigation return flow, evaporation, industrial brines
+  and geogenic dissolution.
+- Conventional biological sewage treatment does not remove most dissolved salts; source
+  segregation, membranes, ion exchange or other fit-for-purpose systems may be required.
+- Groundwater can receive nitrate, pathogens, pesticides, salts, hydrocarbons and metals through
+  leaching. Fluoride or arsenic may also be geogenic: **presence does not by itself prove an
+  anthropogenic source**.
+- Aquifers respond slowly and are difficult to remediate; protection of recharge zones, source
+  control and well-network monitoring are therefore central.
 
-**Answer: B.**
-**Explanation:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### 3.8 Emerging contaminants
 
-### Q3. Which statement uses Point and non-point sources without changing its scale, parameter or status?
+This label means detection, risk assessment or regulation is evolving; it does not mean the
+substance was recently invented.
 
-A. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-B. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-C. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-D. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
+| Group | Why it matters | Control caution |
+|---|---|---|
+| PFAS | Persistent, mobile and capable of bioaccumulation; directly tested in 2024 | Conventional treatment may be inadequate; source substitution and specialised separation/destruction are distinct tasks |
+| Pharmaceuticals/personal-care chemicals | Continuous low-dose inputs and mixture effects | Removal varies by compound and process |
+| Endocrine-active substances | Effects may occur through biological signalling | COD/BOD cannot diagnose them |
+| Microplastics/microbeads | Persistent particles, ingestion and contaminant-carrier concerns | Screening/filtration captures some sizes; source control remains important |
+| Antimicrobial residues/resistant organisms | Selection and transmission risk | Treat wastewater, control antimicrobial discharge and monitor organisms/genes appropriately |
 
-**Answer: C.**
-**Explanation:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### 3.9 Sand mining as a water-system stressor
 
-### Q4. Which option avoids the standard UPSC close-option trap about Point and non-point sources?
+Heavy riverbed sand mining can alter channel form, habitats and the river–aquifer interface. The
+2018 routed PYQ tests groundwater pollution and lowering of the water table; it should not be
+reduced to a “sediment only” issue.
+
+---
 
-A. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-B. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-C. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-D. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
+## 4. DO, BOD and COD — relationship without shortcuts
 
-**Answer: D.**
-**Explanation:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### 4.1 Definitions
 
-### Q5. Which statement correctly identifies Water-quality and effluent boundary?
+| Indicator | What it measures | What a high value usually means | What it does **not** prove |
+|---|---|---|---|
+| **DO** — dissolved oxygen | Oxygen present in water at sampling | High DO is generally favourable, subject to natural temperature/flow cycles | Absence of pathogens or toxics |
+| **BOD** — biochemical oxygen demand | Oxygen used by microbes to oxidise biodegradable matter under a specified test | Higher biodegradable organic load | Total chemical pollution or toxicity |
+| **COD** — chemical oxygen demand | Oxygen equivalent of material oxidised by the specified chemical test | Larger oxidisable load, including matter not rapidly biodegraded | Biodegradability, pathogen count or one named pollutant |
 
-A. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-B. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-C. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-D. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
+### 4.2 The causal relation
 
-**Answer: A.**
-**Explanation:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q6. Which option preserves the ecological boundary of Water-quality and effluent boundary?
-
-A. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-B. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-C. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-D. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-
-**Answer: B.**
-**Explanation:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q7. Which statement uses Water-quality and effluent boundary without changing its scale, parameter or status?
-
-A. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-B. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-C. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-D. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-
-**Answer: C.**
-**Explanation:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q8. Which option avoids the standard UPSC close-option trap about Water-quality and effluent boundary?
-
-A. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-B. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-C. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-D. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-
-**Answer: D.**
-**Explanation:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q9. Which statement correctly identifies Water class and discharge boundary?
-
-A. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-B. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-C. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-D. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-
-**Answer: A.**
-**Explanation:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q10. Which option preserves the ecological boundary of Water class and discharge boundary?
-
-A. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-B. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-C. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-D. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-
-**Answer: B.**
-**Explanation:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q11. Which statement uses Water class and discharge boundary without changing its scale, parameter or status?
-
-A. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-B. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-C. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-D. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-
-**Answer: C.**
-**Explanation:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q12. Which option avoids the standard UPSC close-option trap about Water class and discharge boundary?
-
-A. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-B. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-C. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-D. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-
-**Answer: D.**
-**Explanation:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q13. Which statement correctly identifies BOD and DO relation?
-
-A. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-B. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-C. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-D. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-
-**Answer: A.**
-**Explanation:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q14. Which option preserves the ecological boundary of BOD and DO relation?
-
-A. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-B. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-C. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-D. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-
-**Answer: B.**
-**Explanation:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q15. Which statement uses BOD and DO relation without changing its scale, parameter or status?
-
-A. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-B. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-C. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-D. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-
-**Answer: C.**
-**Explanation:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q16. Which option avoids the standard UPSC close-option trap about BOD and DO relation?
-
-A. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-B. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-C. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-D. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-
-**Answer: D.**
-**Explanation:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q17. Which statement correctly identifies Faecal-indicator boundary?
-
-A. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-B. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-C. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-D. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-
-**Answer: A.**
-**Explanation:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q18. Which option preserves the ecological boundary of Faecal-indicator boundary?
-
-A. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-B. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-C. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-D. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-
-**Answer: B.**
-**Explanation:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q19. Which statement uses Faecal-indicator boundary without changing its scale, parameter or status?
-
-A. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-B. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-C. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-D. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-
-**Answer: C.**
-**Explanation:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q20. Which option avoids the standard UPSC close-option trap about Faecal-indicator boundary?
-
-A. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-B. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-C. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-D. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-
-**Answer: D.**
-**Explanation:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q21. Which statement correctly identifies Eutrophication chain?
-
-A. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-B. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-C. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-D. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-
-**Answer: A.**
-**Explanation:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q22. Which option preserves the ecological boundary of Eutrophication chain?
-
-A. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-B. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-C. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-D. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-
-**Answer: B.**
-**Explanation:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q23. Which statement uses Eutrophication chain without changing its scale, parameter or status?
-
-A. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-B. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-C. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-D. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-
-**Answer: C.**
-**Explanation:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q24. Which option avoids the standard UPSC close-option trap about Eutrophication chain?
-
-A. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-B. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-C. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-D. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-
-**Answer: D.**
-**Explanation:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q25. Which statement correctly identifies Water Act institution layer?
-
-A. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-B. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-C. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-D. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-
-**Answer: A.**
-**Explanation:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q26. Which option preserves the ecological boundary of Water Act institution layer?
-
-A. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-B. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-C. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-D. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-
-**Answer: B.**
-**Explanation:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q27. Which statement uses Water Act institution layer without changing its scale, parameter or status?
-
-A. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-B. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-C. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-D. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-
-**Answer: C.**
-**Explanation:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q28. Which option avoids the standard UPSC close-option trap about Water Act institution layer?
-
-A. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-B. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-C. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-D. The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-
-**Answer: D.**
-**Explanation:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q29. Which statement correctly identifies CTE and CTO boundary?
-
-A. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-B. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-C. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-D. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-
-**Answer: A.**
-**Explanation:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q30. Which option preserves the ecological boundary of CTE and CTO boundary?
-
-A. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-B. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-C. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-D. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-
-**Answer: B.**
-**Explanation:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q31. Which statement uses CTE and CTO boundary without changing its scale, parameter or status?
-
-A. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-B. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-C. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-D. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-
-**Answer: C.**
-**Explanation:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q32. Which option avoids the standard UPSC close-option trap about CTE and CTO boundary?
-
-A. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-B. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-C. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-D. Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-
-**Answer: D.**
-**Explanation:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q33. Which statement correctly identifies Sewage quantity chain?
-
-A. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-B. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-C. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-D. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-
-**Answer: A.**
-**Explanation:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q34. Which option preserves the ecological boundary of Sewage quantity chain?
-
-A. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-B. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-C. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-D. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-
-**Answer: B.**
-**Explanation:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q35. Which statement uses Sewage quantity chain without changing its scale, parameter or status?
-
-A. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-B. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-C. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-D. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-
-**Answer: C.**
-**Explanation:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q36. Which option avoids the standard UPSC close-option trap about Sewage quantity chain?
-
-A. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-B. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-C. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-D. Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-
-**Answer: D.**
-**Explanation:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q37. Which statement correctly identifies Capacity and utilisation?
-
-A. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-B. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-C. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-D. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-
-**Answer: A.**
-**Explanation:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q38. Which option preserves the ecological boundary of Capacity and utilisation?
-
-A. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-B. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-C. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-D. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-
-**Answer: B.**
-**Explanation:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q39. Which statement uses Capacity and utilisation without changing its scale, parameter or status?
-
-A. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-B. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-C. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-D. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-
-**Answer: C.**
-**Explanation:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q40. Which option avoids the standard UPSC close-option trap about Capacity and utilisation?
-
-A. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-B. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-C. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-D. An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-
-**Answer: D.**
-**Explanation:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q41. Which statement correctly identifies Municipal and industrial streams?
-
-A. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-B. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-C. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-D. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-
-**Answer: A.**
-**Explanation:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q42. Which option preserves the ecological boundary of Municipal and industrial streams?
-
-A. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-B. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-C. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-D. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-
-**Answer: B.**
-**Explanation:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q43. Which statement uses Municipal and industrial streams without changing its scale, parameter or status?
-
-A. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-B. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-C. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-D. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-
-**Answer: C.**
-**Explanation:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q44. Which option avoids the standard UPSC close-option trap about Municipal and industrial streams?
-
-A. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-B. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-C. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-D. Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-
-**Answer: D.**
-**Explanation:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q45. Which statement correctly identifies STP ETP and CETP?
-
-A. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-B. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-C. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-D. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-
-**Answer: A.**
-**Explanation:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q46. Which option preserves the ecological boundary of STP ETP and CETP?
-
-A. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-B. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-C. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-D. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-
-**Answer: B.**
-**Explanation:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q47. Which statement uses STP ETP and CETP without changing its scale, parameter or status?
-
-A. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-B. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-C. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-D. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-
-**Answer: C.**
-**Explanation:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q48. Which option avoids the standard UPSC close-option trap about STP ETP and CETP?
-
-A. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-B. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-C. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-D. An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-
-**Answer: D.**
-**Explanation:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q49. Which statement correctly identifies Regulation and mission boundary?
-
-A. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-B. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-C. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-D. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-
-**Answer: A.**
-**Explanation:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q50. Which option preserves the ecological boundary of Regulation and mission boundary?
-
-A. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-B. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-C. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-D. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-
-**Answer: B.**
-**Explanation:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q51. Which statement uses Regulation and mission boundary without changing its scale, parameter or status?
-
-A. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-B. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-C. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-D. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-
-**Answer: C.**
-**Explanation:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q52. Which option avoids the standard UPSC close-option trap about Regulation and mission boundary?
-
-A. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-B. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-C. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-D. Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-
-**Answer: D.**
-**Explanation:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q53. Which statement correctly identifies NMCG institutional boundary?
-
-A. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-B. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-C. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-D. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-
-**Answer: A.**
-**Explanation:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q54. Which option preserves the ecological boundary of NMCG institutional boundary?
-
-A. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-B. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-C. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-D. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-
-**Answer: B.**
-**Explanation:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q55. Which statement uses NMCG institutional boundary without changing its scale, parameter or status?
-
-A. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-B. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-C. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-D. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-
-**Answer: C.**
-**Explanation:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q56. Which option avoids the standard UPSC close-option trap about NMCG institutional boundary?
-
-A. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-B. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-C. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-D. NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-
-**Answer: D.**
-**Explanation:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q57. Which statement correctly identifies Namami Gange component boundary?
-
-A. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-B. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-C. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-D. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-
-**Answer: A.**
-**Explanation:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q58. Which option preserves the ecological boundary of Namami Gange component boundary?
-
-A. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-B. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-C. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-D. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-
-**Answer: B.**
-**Explanation:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q59. Which statement uses Namami Gange component boundary without changing its scale, parameter or status?
-
-A. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-B. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-C. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-D. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-
-**Answer: C.**
-**Explanation:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q60. Which option avoids the standard UPSC close-option trap about Namami Gange component boundary?
-
-A. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-B. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-C. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-D. River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-
-**Answer: D.**
-**Explanation:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q61. Which statement correctly identifies NRCP and river scope?
-
-A. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-B. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-C. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-D. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-
-**Answer: A.**
-**Explanation:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q62. Which option preserves the ecological boundary of NRCP and river scope?
-
-A. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-B. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-C. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-D. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-
-**Answer: B.**
-**Explanation:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q63. Which statement uses NRCP and river scope without changing its scale, parameter or status?
-
-A. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-B. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-C. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-D. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-
-**Answer: C.**
-**Explanation:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q64. Which option avoids the standard UPSC close-option trap about NRCP and river scope?
-
-A. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-B. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-C. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-D. The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-
-**Answer: D.**
-**Explanation:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q65. Which statement correctly identifies Input output outcome chain?
-
-A. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-B. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-C. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-D. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-
-**Answer: A.**
-**Explanation:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q66. Which option preserves the ecological boundary of Input output outcome chain?
-
-A. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-B. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-C. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-D. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-
-**Answer: B.**
-**Explanation:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q67. Which statement uses Input output outcome chain without changing its scale, parameter or status?
-
-A. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-B. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-C. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-D. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-
-**Answer: C.**
-**Explanation:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Input output outcome chain?
-
-A. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-B. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-C. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-D. Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-
-**Answer: D.**
-**Explanation:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q69. Which statement correctly identifies Stretch season indicator?
-
-A. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-B. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-C. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-D. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-
-**Answer: A.**
-**Explanation:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q70. Which option preserves the ecological boundary of Stretch season indicator?
-
-A. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-B. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-C. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-D. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-
-**Answer: B.**
-**Explanation:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q71. Which statement uses Stretch season indicator without changing its scale, parameter or status?
-
-A. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-B. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-C. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-D. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-
-**Answer: C.**
-**Explanation:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Stretch season indicator?
-
-A. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-B. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-C. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-D. River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-
-**Answer: D.**
-**Explanation:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q73. Which statement correctly identifies Dilution and ecological flow?
-
-A. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-B. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-C. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-D. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-
-**Answer: A.**
-**Explanation:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q74. Which option preserves the ecological boundary of Dilution and ecological flow?
-
-A. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-B. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-C. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-D. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-
-**Answer: B.**
-**Explanation:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q75. Which statement uses Dilution and ecological flow without changing its scale, parameter or status?
-
-A. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-B. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-C. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-D. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-
-**Answer: C.**
-**Explanation:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Dilution and ecological flow?
-
-A. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-B. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-C. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-D. Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-
-**Answer: D.**
-**Explanation:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q77. Which statement correctly identifies Audited evidence boundary?
-
-A. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-B. A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-C. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-D. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-
-**Answer: A.**
-**Explanation:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q78. Which option preserves the ecological boundary of Audited evidence boundary?
-
-A. Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-B. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-C. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-D. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-
-**Answer: B.**
-**Explanation:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q79. Which statement uses Audited evidence boundary without changing its scale, parameter or status?
-
-A. A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-B. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-C. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-D. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-
-**Answer: C.**
-**Explanation:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Audited evidence boundary?
-
-A. Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-B. Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-C. Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-D. Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-
-**Answer: D.**
-**Explanation:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
-
-## PYQS AND ANSWER PRACTICE
-
-### AUDITED WATER-POLLUTION, TREATMENT AND RIVER-MISSION PYQ OWNERSHIP
-
-Audited ledgers route direct Mains demands on industrial river pollution and freshwater technologies, plus objective concepts on membrane bioreactors, activated carbon, PFAS, microbeads and sand-mining effects. No objective key or current mission metric is inferred.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 9. PYQ application
-
-- ✅ **2024 GS-III direct PYQ:** “Industrial pollution of river water is a
-  significant environmental issue in India.” It asks for mitigation measures
-  and government initiatives. Route the exact demand via `../README.md`.
-- ✅ **2024 GS-III direct PYQ (250 words):** “The world is facing an acute shortage of clean
-  and safe freshwater. What are the alternative technologies which can solve this crisis?
-  Briefly discuss any three such technologies citing their key merits and demerits.” ⚠️ Note
-  the exact demand: **three** technologies, each with **merits and demerits** — a structured
-  three-block answer (e.g., desalination, wastewater recycling/reuse, atmospheric water
-  generation or advanced membrane treatment), not a general water-scarcity essay.
-- ✅ **2025 GS-III direct PYQ (250 words):** “Examine the factors responsible for depleting
-  groundwater in India. What are the steps taken by the government to mitigate such
-  depletion of groundwater?” ⚠️ This is a **groundwater quantity** question; keep it distinct
-  from the surface-water **quality** framing of Namami Gange, and use Atal Bhujal Yojana,
-  Jal Shakti Abhiyan/Catch the Rain, the Central Ground Water Authority's notified
-  over-exploited blocks and the Master Plan for Artificial Recharge as the "steps taken".
-- ⚠️ Recurring Prelims pattern: identify the correct water-quality indicator (BOD/DO/
-  faecal coliform) implied by a described pollution scenario.
-- ⚠️ Mains linkage: the sewage-versus-industrial-effluent pollution-source distinction is
-  used to argue for infrastructure investment (sewage treatment) as the primary river-
-  cleaning priority.
-
-#### Recent PYQ Integration (2024-2025)
-
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
-
-- **Years represented:** 2024, 2025
-- **Paper(s):** GS-III, Prelims GS-I
-- **Routed question demands:** 5
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-III | 7 | Industrial pollution of river water and mitigation measures | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2024 | GS-III | 15 | Alternative technologies for the freshwater crisis | Discuss · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2024 | Prelims GS-I | 17 | PFAS in consumer products | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2024 | Prelims GS-I | 39 | 'Membrane Bioreactors' in wastewater treatment | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2025 | Prelims GS-I | 50 | Activated carbon for removing pollutants from effluents | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Industrial pollution of river water and mitigation measures
-- Alternative technologies for the freshwater crisis
-- PFAS in consumer products
-- 'Membrane Bioreactors' in wastewater treatment
-- Activated carbon for removing pollutants from effluents
-
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018, 2019
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 81 | Heavy sand mining riverbeds environmental and groundwater consequences | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 30 | Environmental concern about microbeads released in water | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Heavy sand mining riverbeds environmental and groundwater consequences
-- Environmental concern about microbeads released in water
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 10. PYQ-based analytical application
-
-- ✅ **2024 GS-III direct PYQ:** industrial river-water pollution—mitigation
-  measures plus government initiatives. Use source segregation, consent/
-  monitoring, treatment, liability and basin governance; exact route:
-  `../README.md`.
-
-- ⚠️ Prelims questions on Namami Gange's institutional home (Ministry of Jal Shakli/NMCG) and
-  its multi-component design should be answered by recalling the full component list, not
-  just the infrastructure element.
-- ⚠️ Mains answers on "river cleaning in India" should explicitly engage the "last-mile" gap
-  and the stretch/season-specific water-quality-claim caution to demonstrate analytical
-  rigour beyond a simple programme description.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish receiving-water criteria from source-effluent standards. Answer in about 150 words.
-
-**Model thesis:** **Claim:** Point and non-point sources. **Named evidence/example:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water-quality and effluent boundary. **Named evidence/example:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water class and discharge boundary. **Named evidence/example:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-- Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-- A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-
-**Qualified conclusion:** **Claim:** Point and non-point sources. **Named evidence/example:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water-quality and effluent boundary. **Named evidence/example:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water class and discharge boundary. **Named evidence/example:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish receiving-water criteria from source-effluent standards. Answer in about 150…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Point and non-point sources. **Named evidence/example:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water-quality and effluent boundary. **Named evidence/example:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water class and discharge boundary. **Named evidence/example:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Point and non-point sources. **Named evidence/example:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water-quality and effluent boundary. **Named evidence/example:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water class and discharge boundary. **Named evidence/example:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish receiving-water criteria from source-effluent standards. Answer in about 150…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Explain the use and limits of BOD, DO and faecal indicators. Answer in about 150 words.
-
-**Model thesis:** **Claim:** BOD and DO relation. **Named evidence/example:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Faecal-indicator boundary. **Named evidence/example:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Eutrophication chain. **Named evidence/example:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-- Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-- Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-
-**Qualified conclusion:** **Claim:** BOD and DO relation. **Named evidence/example:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Faecal-indicator boundary. **Named evidence/example:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Eutrophication chain. **Named evidence/example:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the use and limits of BOD, DO and faecal indicators. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** BOD and DO relation. **Named evidence/example:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Faecal-indicator boundary. **Named evidence/example:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Eutrophication chain. **Named evidence/example:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** BOD and DO relation. **Named evidence/example:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Faecal-indicator boundary. **Named evidence/example:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Eutrophication chain. **Named evidence/example:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain the use and limits of BOD, DO and faecal indicators. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Trace sewage from generation to compliant treatment and reuse. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Sewage quantity chain. **Named evidence/example:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity and utilisation. **Named evidence/example:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** STP ETP and CETP. **Named evidence/example:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-- An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-- An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-
-**Qualified conclusion:** **Claim:** Sewage quantity chain. **Named evidence/example:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity and utilisation. **Named evidence/example:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** STP ETP and CETP. **Named evidence/example:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace sewage from generation to compliant treatment and reuse. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Sewage quantity chain. **Named evidence/example:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity and utilisation. **Named evidence/example:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** STP ETP and CETP. **Named evidence/example:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Sewage quantity chain. **Named evidence/example:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity and utilisation. **Named evidence/example:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** STP ETP and CETP. **Named evidence/example:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Trace sewage from generation to compliant treatment and reuse. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Distinguish Water Act regulation from river-mission implementation. Answer in about 250 words.
-
-**Model thesis:** **Claim:** Water Act institution layer. **Named evidence/example:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** CTE and CTO boundary. **Named evidence/example:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Regulation and mission boundary. **Named evidence/example:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NMCG institutional boundary. **Named evidence/example:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NRCP and river scope. **Named evidence/example:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-- Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-- Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-- NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-- The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-
-**Qualified conclusion:** **Claim:** Water Act institution layer. **Named evidence/example:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** CTE and CTO boundary. **Named evidence/example:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Regulation and mission boundary. **Named evidence/example:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NMCG institutional boundary. **Named evidence/example:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NRCP and river scope. **Named evidence/example:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish Water Act regulation from river-mission implementation. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Water Act institution layer. **Named evidence/example:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** CTE and CTO boundary. **Named evidence/example:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Regulation and mission boundary. **Named evidence/example:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NMCG institutional boundary. **Named evidence/example:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NRCP and river scope. **Named evidence/example:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Water Act institution layer. **Named evidence/example:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** CTE and CTO boundary. **Named evidence/example:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Regulation and mission boundary. **Named evidence/example:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NMCG institutional boundary. **Named evidence/example:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NRCP and river scope. **Named evidence/example:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Distinguish Water Act regulation from river-mission implementation. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate river cleaning through input, output, utilisation and outcome metrics. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Sewage quantity chain. **Named evidence/example:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity and utilisation. **Named evidence/example:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Namami Gange component boundary. **Named evidence/example:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Input output outcome chain. **Named evidence/example:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stretch season indicator. **Named evidence/example:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Dilution and ecological flow. **Named evidence/example:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-- An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-- River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-- Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-- River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-- Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-
-**Qualified conclusion:** **Claim:** Sewage quantity chain. **Named evidence/example:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity and utilisation. **Named evidence/example:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Namami Gange component boundary. **Named evidence/example:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Input output outcome chain. **Named evidence/example:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stretch season indicator. **Named evidence/example:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Dilution and ecological flow. **Named evidence/example:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate river cleaning through input, output, utilisation and outcome metrics. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Sewage quantity chain. **Named evidence/example:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity and utilisation. **Named evidence/example:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Namami Gange component boundary. **Named evidence/example:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Input output outcome chain. **Named evidence/example:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stretch season indicator. **Named evidence/example:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Dilution and ecological flow. **Named evidence/example:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Sewage quantity chain. **Named evidence/example:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Capacity and utilisation. **Named evidence/example:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Namami Gange component boundary. **Named evidence/example:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Input output outcome chain. **Named evidence/example:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stretch season indicator. **Named evidence/example:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Dilution and ecological flow. **Named evidence/example:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Evaluate river cleaning through input, output, utilisation and outcome metrics. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Build an integrated response to municipal, industrial and diffuse water pollution. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Point and non-point sources. **Named evidence/example:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Eutrophication chain. **Named evidence/example:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water Act institution layer. **Named evidence/example:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Municipal and industrial streams. **Named evidence/example:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** STP ETP and CETP. **Named evidence/example:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Regulation and mission boundary. **Named evidence/example:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stretch season indicator. **Named evidence/example:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Audited evidence boundary. **Named evidence/example:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-- Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-- The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-- Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-- An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-- Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-- River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-- Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
-
-**Qualified conclusion:** **Claim:** Point and non-point sources. **Named evidence/example:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Eutrophication chain. **Named evidence/example:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water Act institution layer. **Named evidence/example:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Municipal and industrial streams. **Named evidence/example:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** STP ETP and CETP. **Named evidence/example:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Regulation and mission boundary. **Named evidence/example:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stretch season indicator. **Named evidence/example:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Audited evidence boundary. **Named evidence/example:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Build an integrated response to municipal, industrial and diffuse water pollution. Answer in…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Point and non-point sources. **Named evidence/example:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Eutrophication chain. **Named evidence/example:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water Act institution layer. **Named evidence/example:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Municipal and industrial streams. **Named evidence/example:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** STP ETP and CETP. **Named evidence/example:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Regulation and mission boundary. **Named evidence/example:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stretch season indicator. **Named evidence/example:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Audited evidence boundary. **Named evidence/example:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-8. **Claim and named evidence:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Point and non-point sources. **Named evidence/example:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Eutrophication chain. **Named evidence/example:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Water Act institution layer. **Named evidence/example:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Municipal and industrial streams. **Named evidence/example:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** STP ETP and CETP. **Named evidence/example:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Regulation and mission boundary. **Named evidence/example:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Stretch season indicator. **Named evidence/example:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Audited evidence boundary. **Named evidence/example:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Build an integrated response to municipal, industrial and diffuse water pollution. Answer in…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+```text
+organic load ↑ → microbial oxygen demand/BOD ↑
+                     ↓
+if demand > reaeration + photosynthesis
+                     ↓
+DO ↓ → stress, hypoxia or anaerobic conditions
+```
+
+For the same sample, COD is commonly greater than or equal to BOD because it captures a wider
+oxidisable fraction, but there is **no universal COD:BOD conversion ratio**. Industrial chemistry,
+test method and inhibitory substances change the relationship.
+
+### 4.3 Exact official method/limit firewall
+
+| Context | Exact official treatment |
+|---|---|
+| CPCB Designated-Best-Use Classes A–C | BOD is **5 days at 20°C**; receiving-water criterion |
+| Organised bathing, G.S.R. 742(E), 25 September 2000 | BOD is **3 days at 27°C**, maximum 3 mg/L; receiving-water criterion |
+| Schedule VI general standard for discharge into inland surface water | BOD **3 days at 27°C: 30 mg/L**; COD **250 mg/L** |
+
+The Schedule VI figures are general outlet standards, not river-quality targets. Industry-specific
+standards and consent conditions can be different or stricter. COD does not appear in CPCB's
+Designated-Best-Use A–E table; never invent a “Class B COD limit”.
+
+---
+
+## 5. Exact CPCB water-quality criteria
+
+### 5.1 Designated-Best-Use Classes A–E
+
+| Class | Designated best use | Exact criteria |
+|---|---|---|
+| **A** | Drinking-water source without conventional treatment but after disinfection | Total coliform ≤ **50 MPN/100 mL**; pH **6.5–8.5**; DO ≥ **6 mg/L**; BOD₅ at 20°C ≤ **2 mg/L** |
+| **B** | Outdoor bathing (organised) | Total coliform ≤ **500 MPN/100 mL**; pH **6.5–8.5**; DO ≥ **5 mg/L**; BOD₅ at 20°C ≤ **3 mg/L** |
+| **C** | Drinking-water source after conventional treatment and disinfection | Total coliform ≤ **5,000 MPN/100 mL**; pH **6.0–9.0**; DO ≥ **4 mg/L**; BOD₅ at 20°C ≤ **3 mg/L** |
+| **D** | Propagation of wildlife and fisheries | pH **6.5–8.5**; DO ≥ **4 mg/L**; free ammonia as N ≤ **1.2 mg/L** |
+| **E** | Irrigation, industrial cooling and controlled waste disposal | pH **6.0–8.5**; electrical conductivity at 25°C ≤ **2,250 µmhos/cm**; sodium absorption ratio ≤ **26**; boron ≤ **2 mg/L** |
+
+**Below-E** means the sample does not meet A, B, C, D or E criteria.
+
+### 5.2 Separate organised-bathing criteria under G.S.R. 742(E)
+
+| Parameter | Exact criterion |
+|---|---|
+| Faecal coliform | **500 MPN/100 mL desirable; 2,500 maximum permissible** |
+| Faecal streptococci | **100 MPN/100 mL desirable; 500 maximum permissible** |
+| pH | **6.5–8.5** |
+| DO | **5 mg/L or more** |
+| BOD, 3 days at 27°C | **3 mg/L or less** |
+
+**UPSC close-option distinction:** Class B's designated-use table uses **total coliform** and a
+five-day BOD method; the 2000 bathing notification uses **faecal indicators** and three-day BOD.
+Do not splice one table into the other.
+
+---
+
+## 6. Monitoring: what is being measured?
+
+### 6.1 Five different evidence streams
+
+| Evidence stream | Sampling point | What it can establish |
+|---|---|---|
+| Process monitoring | Units inside a plant | Whether treatment stages are functioning |
+| Influent/effluent monitoring | Before and after STP/ETP/CETP | Removal and outlet compliance |
+| Outfall/drain monitoring | Final discharge pathway | Load entering the receiving water |
+| Ambient monitoring | Upstream/downstream or fixed river/well stations | Receiving-water condition and trend |
+| Ecological/health monitoring | Biota, habitat or exposed population | Biological consequence, with attribution limits |
+
+### 6.2 Method distinctions
+
+- **Grab sample:** one place/time; useful but vulnerable to timing.
+- **Composite sample:** combines intervals or flow; better for variable discharge.
+- **Continuous/online monitoring:** high-frequency operational evidence; requires calibration,
+  maintenance and data validation.
+- **Concentration:** parameter per volume.
+- **Load:** concentration × flow.
+- **Compliance:** whether a specified outlet met its applicable limit.
+- **Trend:** comparable data across stations, seasons and years.
+
+### 6.3 What one result cannot prove
+
+- A compliant outlet does not prove every upstream source complies.
+- A clean upstream station does not prove the downstream city is controlled.
+- Monsoon dilution does not prove source-load reduction.
+- A DO/BOD result does not prove metal, PFAS, salinity or pathogen safety.
+- “Fit for bathing” must identify station, date/period, indicator and applicable criterion.
+
+---
+
+## 7. Water law, consent and enforcement
+
+### 7.1 Water Act, 1974 — functional map
+
+| Provision | Exam-ready function |
+|---|---|
+| **Section 16** | CPCB advises the Union, coordinates State Boards, supports research/training and lays down/coordinates national programmes and water-quality standards |
+| **Section 17** | SPCB plans State programmes, advises the State, inspects treatment/disposal systems, monitors and sets/enforces applicable effluent conditions |
+| **Section 21** | Statutory sampling procedure; evidentiary integrity matters |
+| **Section 23** | Entry and inspection |
+| **Section 24** | Prohibition on knowingly causing/permitting polluting matter to enter a stream or well, subject to the Act's terms |
+| **Sections 25–26** | Previous consent for new outlets/discharges and control of existing discharges |
+| **Section 27** | Consent conditions, refusal/cancellation/variation architecture |
+| **Section 32** | Emergency measures |
+| **Section 33** | Application to court to restrain apprehended pollution |
+| **Section 33A** | Written directions, including closure/regulation and stoppage/regulation of electricity, water or other service |
+
+### 7.2 CTE and CTO
+
+```text
+project/process proposed
+      ↓
+applicable Consent to Establish (CTE)
+      ↓
+construction + pollution-control systems
+      ↓
+inspection/testing and applicable Consent to Operate (CTO)
+      ↓
+continuous compliance, reporting, sampling and enforcement
+```
+
+Consent is not a one-time immunity. It identifies lawful conditions, monitoring duties and the
+enforcement hook. An ETP installed for inspection but bypassed during production is non-compliance.
+
+### 7.3 Water Amendment Act, 2024 — exact caution
+
+- The Act received assent on **15 February 2024**.
+- It applies initially to **Himachal Pradesh, Rajasthan and Union territories**; another State must
+  adopt it through the Article 252 route.
+- It inserted **section 27A**, enabling Central guidelines on grant, refusal/cancellation,
+  time-bound disposal and consent validity, binding the relevant State Boards.
+- It empowered the Central Government, after consultation with CPCB, to exempt notified industrial
+  categories from section 25(1).
+- It shifted several contraventions to monetary adjudication, but **section 45E retains
+  imprisonment for failure to comply with sections 25 or 26**, and for failure to pay a penalty
+  within the specified period.
+
+> **Trap:** “The Water Act was completely decriminalised nationwide” is wrong on both scope and
+> substance.
+
+### 7.4 Dated consent reform — 28 January 2026
+
+PIB reported that amended Uniform Consent Guidelines provide:
+
+- consolidated consent/authorisation processing;
+- CTO validity until cancelled, with inspections and cancellation for violation continuing;
+- a **90-day** processing period for Red-category consent applications instead of 120 days;
+- use of registered environmental auditors alongside Board inspections;
+- deemed CTE on self-certified application for qualifying micro/small units in notified industrial
+  estates/areas;
+- State/UT provision for a one-time CTO fee period of **5–25 years**.
+
+This is a dated process reform, not evidence that a particular industry is compliant. The 2024
+Act's State-adoption caveat must not be erased when discussing statutory penalty changes.
+
+### 7.5 Environment (Protection) Act, 1986
+
+- **Section 3:** Central Government measures to protect/improve the environment and prevent,
+  control or abate pollution.
+- **Section 5:** binding written directions, including closure/regulation and service stoppage.
+- **Section 6:** rules for environmental quality, pollutant limits and safeguards.
+- The Environment (Protection) Rules carry general and industry-specific discharge standards.
+- The **River Ganga Authorities Order, 2016** was issued under the EPA architecture.
+
+### 7.6 Who does what?
+
+| Actor | Core mandate in this topic | What it is not |
+|---|---|---|
+| **MoEFCC/Central Government** | EPA rules/standards and central legal directions; Water Act rule/guideline roles | Day-to-day sewer operator |
+| **CPCB** | National coordination, criteria/standards, technical guidance and oversight | Sole field regulator for every outlet |
+| **SPCB** | Consent, inspection, sampling and enforcement in the State | Municipal sewerage service provider |
+| **PCC** | Delegated pollution-control functions in Union territories | A separate river mission |
+| **Urban local body / utility** | Collect, convey and treat municipal sewage/faecal sludge; maintain networks/plants | Statutory substitute for SPCB consent enforcement |
+| **Industry** | Prevent/minimise pollution; obtain applicable consent; operate ETP or lawful CETP route; monitor and manage sludge | Discharged from responsibility merely because a CETP exists |
+| **NMCG/SPMG/project agency** | Coordinate/fund/implement Ganga-basin mission projects and monitor programme delivery | A replacement for CPCB/SPCB/PCC under the Water Act |
+
+---
+
+## 8. Treatment trains: match the waste stream
+
+### 8.1 Municipal sewage / STP
+
+```text
+collection and conveyance
+ → screening
+ → grit removal
+ → primary settling where designed
+ → biological treatment
+ → clarification / membrane separation
+ → tertiary polishing as required
+ → disinfection
+ → fit-for-purpose reuse or compliant discharge
+
+sludge line:
+thickening → stabilisation/digestion → dewatering → tested reuse or safe disposal
+```
+
+Secondary biological treatment targets biodegradable organics. Tertiary treatment is a function,
+not one technology: nutrient removal, filtration, membranes, adsorption or disinfection may be
+selected according to influent, outlet standard and reuse purpose.
+
+### 8.2 Faecal sludge and septage
+
+```text
+safe containment
+ → scheduled/mechanised emptying
+ → licensed transport
+ → reception and screening
+ → solids/liquid separation or controlled co-treatment
+ → stabilisation + pathogen reduction
+ → dewatering/drying
+ → tested reuse or safe disposal
+```
+
+Co-treatment at an STP is suitable only where hydraulic, organic, solids and inhibitory loads are
+compatible. Dumping tanker contents into a drain merely converts an onsite problem into a point
+source.
+
+### 8.3 Industrial effluent / ETP or CETP
+
+```text
+process audit and cleaner production
+ → segregate high-strength/toxic/saline streams
+ → equalisation
+ → pH adjustment
+ → physical/chemical treatment
+ → biological stage where wastewater is biodegradable and non-inhibitory
+ → advanced polishing where required
+ → compliant reuse/discharge
+ → hazardous/non-hazardous sludge managed by its legal character
+```
+
+### 8.4 STP, ETP and CETP
+
+| Plant | Waste stream | Responsibility |
+|---|---|---|
+| **STP** | Municipal sewage | ULB/utility/project operator |
+| **ETP** | One establishment's trade effluent | Individual industry/establishment |
+| **CETP** | Compatible effluent from a cluster | Common operator **plus** each member's segregation/pre-treatment/compliance duties |
+
+A CETP is not designed to accept every chemical mixture. Shock loads, incompatible streams and
+member bypass can defeat the common plant.
+
+### 8.5 Technology tested by UPSC
+
+| Technology | Correct use | Limit |
+|---|---|---|
+| **Membrane bioreactor (MBR)** | Biological reactor plus membrane solids separation for wastewater treatment | It is not automatically reverse osmosis and does not by itself remove all dissolved salts/PFAS |
+| **Activated carbon** | Adsorption of selected dissolved organics and some metals, depending on media and water chemistry | Finite capacity; regeneration/replacement and spent-media management are required |
+| **Reverse osmosis/nanofiltration** | Separation of many dissolved salts/contaminants | Energy, concentrate/brine and membrane fouling |
+| **Advanced oxidation** | Oxidation of selected refractory organic contaminants | Energy/chemical demand and by-product control |
+| **Constructed wetland/nature-based polishing** | Low-energy polishing, nutrient/solids attenuation and habitat co-benefit | Land, seasonal loading, maintenance and pre-treatment constraints |
+
+---
+
+## 9. Capacity, performance and outcome
+
+### 9.1 Status ladder
+
+```text
+announced
+ → sanctioned
+ → tendered/awarded
+ → under construction
+ → mechanically complete
+ → trial testing
+ → commissioned/operational
+ → connected and utilised
+ → compliant effluent
+ → lower river pollutant load
+ → sustained ambient/ecological improvement
+```
+
+Never move a project up this ladder without evidence.
+
+### 9.2 Plant-performance test
+
+Ask for:
+
+- actual influent versus design hydraulic and organic load;
+- household/industrial connection and intercepted-drain coverage;
+- uptime, power, chemicals, skilled staff and bypass events;
+- influent/effluent BOD, COD, solids, nutrients, pathogens and relevant toxics;
+- sludge quantity, quality and destination;
+- flow-calibrated load reduction;
+- downstream ambient trend with upstream, season and river-flow controls.
+
+**Installed MLD** is an output. **MLD actually treated** is utilisation. **Compliant outlet quality**
+is performance. **Improved river water/ecology** is outcome.
+
+---
+
+## 10. River-basin and ecological restoration
+
+### 10.1 Why a pipe-and-plant approach is insufficient
+
+Rivers integrate the whole basin: tributaries, drains, floodplains, wetlands, groundwater,
+sediment, land use and flow regulation. End-of-pipe treatment cannot alone correct diffuse
+nutrient runoff, lost floodplain storage, saline intrusion, depleted baseflow or habitat
+fragmentation.
+
+### 10.2 Integrated hierarchy
+
+1. **Prevent at source:** cleaner production, nutrient efficiency, safe sanitation, hazardous-stream
+   segregation and solid-waste control.
+2. **Intercept and treat:** sewer/drain capture, STP/ETP/CETP/FSTP, reliable O&M.
+3. **Reuse safely:** match treated-water quality to use; control exposure and salts.
+4. **Protect hydrology:** environmental flow, groundwater recharge, floodplain and tributary
+   connectivity.
+5. **Restore ecological buffers:** wetlands, riparian vegetation and erosion control.
+6. **Monitor outcomes:** load, ambient quality, biodiversity and public-health indicators.
+
+### 10.3 Environmental flow
+
+Flow supports dilution, sediment transport, habitat, temperature and river–groundwater exchange;
+it is not a licence to dilute untreated waste. PIB on 2 April 2026 reported implementation of the
+minimum Ganga e-flow norms notified in **October 2018**, with compliance monitored by the Central
+Water Commission. Quote no percentage or reach-specific flow without the notification/site record.
+
+### 10.4 Wetland and riparian role
+
+Wetlands and vegetated buffers can retain sediment/nutrients, moderate floods, protect banks and
+provide habitat. They have finite assimilative capacity: using a wetland as an untreated-waste
+sink is not “nature-based treatment”. Detailed Ramsar/Wetlands Rules doctrine remains Topic 07
+owned.
+
+---
+
+## 11. River-cleaning missions and institutional evolution
+
+### 11.1 Timeline
+
+```text
+June 1985     Ganga Action Plan Phase I launched
+31 Mar 2000   GAP-I officially closed
+1993          NMCG history records GAP Phase II launch
+2008          Ganga declared National River (declaratory priority, not a new statute)
+12 Aug 2011   NMCG registered as a society
+2014–15       Namami Gange launched
+7 Oct 2016    River Ganga Authorities Order: five-tier architecture
+2019          Arth Ganga concept placed before first National Ganga Council meeting
+2026          Official reviews continue project implementation and monitoring
+```
+
+GAP's sewerage focus generated important infrastructure but exposed fragmentation, O&M and
+network-utilisation gaps. NRCP supplies central assistance for identified rivers outside the Ganga
+basin. Namami Gange combines infrastructure with basin, biodiversity, afforestation, e-flow,
+industrial-monitoring and participation components.
+
+### 11.2 Five-tier Ganga governance
+
+1. **National Ganga Council** — chaired by the Prime Minister.
+2. **Empowered Task Force** — chaired by the Union Jal Shakti Minister.
+3. **National Mission for Clean Ganga**.
+4. **State Ganga Committees**.
+5. **District Ganga Committees** in specified districts abutting the Ganga and tributaries.
+
+NMCG's Governing Council and Executive Committee are headed by its Director General; State
+Programme Management Groups act as implementing arms. NMCG is not a statutory pollution board
+equivalent to CPCB.
+
+### 11.3 Namami Gange component map
+
+- sewerage treatment and networks;
+- industrial-effluent monitoring;
+- river-surface cleaning;
+- riverfront/ghat and crematoria works;
+- biodiversity conservation;
+- afforestation and wetland-linked interventions;
+- rural sanitation and public participation;
+- environmental flow, monitoring and knowledge systems.
+
+Hybrid Annuity and One City–One Operator arrangements seek to link payment/contract responsibility
+to sustained O&M, not construction alone. Contract design still cannot replace sewer connections,
+valid data and regulatory enforcement.
+
+### 11.4 Dated current status — do not convert outputs into outcomes
+
+**Namami Gange, PIB 2 July 2026**
+
+| Metric reported | Exact dated status |
+|---|---:|
+| All projects sanctioned / completed | **524 / 363** |
+| Estimated sanctioned cost | **₹43,031 crore** |
+| Sewerage projects sanctioned / completed | **218 / 145** |
+| Sanctioned treatment capacity | **6,610 MLD** |
+| Capacity created/rehabilitated by completed sewerage projects | **4,263 MLD** |
+| Sewer network sanctioned / created | **5,233 km / over 4,611 km** |
+| Expenditure reported | **over ₹21,550 crore** |
+
+These are project, expenditure and capacity metrics. They do not by themselves establish actual
+daily utilisation, compliant effluent at every plant or uniform Ganga water quality.
+
+**Programme-period caution:** PIB on 2 April 2026 said Namami Gange had been extended to March
+2026; the 2 July 2026 ETF review shows continuing implementation. Do not invent a new formal
+terminal date from that later review.
+
+### 11.5 NRCP — dated current status
+
+PIB on 2 April 2026 reported that NRCP, excluding the Ganga basin, had covered **58 rivers in 100
+towns across 17 States**, with **₹8,970.51 crore** sanctioned and **3,019 MLD** treatment capacity
+created. “Capacity created” remains an output, not a utilisation or river-quality finding.
+
+### 11.6 Yamuna and other rivers
+
+- The Yamuna is a Ganga tributary; Ganga-basin mission works can therefore include Yamuna projects.
+- A 4 December 2023 official annexure listed YAP-III Rithala and Okhla-zone projects in Delhi as
+  ongoing. That historical listing is not proof of their present operational performance.
+- On 2 July 2026, PIB described the **100 MLD Dhandhupura STP at Agra as in trial testing** and
+  stated the expected pollution benefit would follow **after commissioning**. Trial ≠ commissioned.
+- Outside the Ganga basin, State/UT proposals are supported under NRCP subject to appraisal,
+  priority, scheme conditions and funding.
+
+### 11.7 Arth Ganga — dated and qualified
+
+Lok Sabha UQ 2452, answered **3 August 2023**, describes Arth Ganga as a self-sustaining economic
+model based on a river–people relationship and records six pillars:
+
+1. zero-budget natural farming;
+2. monetisation and reuse of sludge and treated wastewater;
+3. livelihood-generation opportunities;
+4. increased public participation;
+5. revival of cultural heritage and tourism;
+6. institutional capacity building.
+
+These are programme pillars, not proof that reuse markets, natural farming or livelihoods have
+reached a uniform basin-wide scale.
+
+---
+
+## 12. Input–output–outcome evaluation
+
+| Level | Water-policy example | Correct question |
+|---|---|---|
+| Input | Budget, land, staff, sanction | Was the resource actually available and timely? |
+| Activity | Tender, construction, inspection, training | Was it executed to specification? |
+| Output | STP/network completed; consent issued | Is it connected, operational and used? |
+| Intermediate outcome | Compliant effluent; pollutant load reduced | Is reduction flow-calibrated and sustained? |
+| Environmental outcome | Better ambient quality/ecology | Which stretch, season, indicator and baseline? |
+| Social outcome | Lower exposure/disease; reliable reuse/livelihood | Is attribution credible and distribution equitable? |
+
+### Policy scorecard
+
+1. Source coverage: sewage, industry and diffuse runoff.
+2. Legal enforceability: applicable consent, limit, sampling and remedy.
+3. Treatment fit: pollutant-specific, not technology-brand driven.
+4. Last mile: connections, conveyance, O&M, power and sludge.
+5. Basin integrity: tributaries, e-flow, wetlands, riparian zone and groundwater.
+6. Evidence quality: concentration plus flow, upstream/downstream, season and comparable method.
+7. Status honesty: sanctioned/constructed/trial/commissioned/utilised/outcome kept separate.
+8. Institutional accountability: regulator, service provider and mission agency not conflated.
+
+---
+
+## 13. High-yield UPSC traps
+
+| Trap | Exact correction |
+|---|---|
+| High BOD means oxygen-rich water | High BOD means greater microbial oxygen demand; DO may fall |
+| COD is always twice BOD | No universal ratio exists |
+| Low BOD proves potable water | Pathogens, salts and toxics may remain |
+| Class B uses faecal coliform 500 | The A–E table uses **total coliform**; the separate bathing notification uses faecal indicators |
+| Effluent standard = river criterion | Outlet compliance and receiving-water condition are different |
+| More river flow equals less pollution | It may only dilute concentration |
+| STP capacity created = sewage treated | Connections, influent, uptime and bypass determine utilisation |
+| CETP removes member-industry liability | Members retain segregation/pre-treatment and lawful-discharge duties |
+| MBR = reverse osmosis | MBR combines biological treatment with membrane solids separation |
+| Activated carbon destroys every contaminant | It adsorbs selected contaminants and later requires regeneration/disposal |
+| Namami Gange replaces the Water Act | Mission implementation complements statutory regulation |
+| NMCG = CPCB | NMCG is the Ganga mission implementation institution; CPCB is a statutory pollution board |
+| Riverfront beautification = river cleaning | Water outcome depends on source/load control and ecology |
+| “Ganga is clean” | Specify station, season, indicator, criterion and reporting period |
+| Water Act fully decriminalised nationwide | 2024 applicability is Article-252 based and section 45E retains imprisonment for sections 25/26 failures |
+
+---
+
+## 14. PYQ demand map and ownership
+
+### Direct Topic 14 ownership
+
+- **2018 Prelims Q81:** heavy sand mining in riverbeds — groundwater/water-table consequences.
+- **2019 Prelims Q30:** microbeads released into the environment.
+- **2024 Prelims Q17:** PFAS persistence/exposure/bioaccumulation.
+- **2024 Prelims Q39:** membrane bioreactors and wastewater treatment.
+- **2025 Prelims Q50:** activated carbon in effluent remediation.
+- **2024 GS-III Q7:** industrial river-water pollution, mitigation and government initiatives.
+- **2024 GS-III Q15:** three alternative freshwater technologies with merits and demerits.
+
+### Application, not primary ownership
+
+- **2025 GS-III Q13:** groundwater depletion and government response is primarily routed to
+  Economy Topic 14. Topic 14 contributes pollution/salinity/recharge-quality cautions.
+
+### 2026 routing result
+
+No 2026 Prelims or GS-III question is routed to Topic 14. The provisional 2026 key is therefore
+irrelevant to this workbook and no 2026 answer is invented.
+
+---
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims.
-> **Core area:** Water-quality regulation and river-restoration governance.
-> **Grounded in:** Water (Prevention and Control of Pollution) Act, 1974; National Mission for Clean Ganga institutional framework; CAG/parliamentary standing committee reviews of Namami Gange; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
-> *Companion: `basic/14_Water-Pollution-and-River-Cleaning-Missions.md`.*
+## 15. Why non-point pollution resists command-and-control
 
-#### 1. Why India moved from regulation to mission-mode: a governance-design question
+Consent law works best where a regulator can identify an outlet, measure flow/concentration and
+name the responsible operator. Diffuse farm and urban runoff varies with rainfall, soil, slope and
+practice. Effective control therefore combines nutrient/pesticide planning, soil cover, buffers,
+wetland/drain design, event monitoring and incentives. A “one standard at one pipe” model cannot
+simply be copied.
 
-⚠️ The key advanced-level question this topic tests is *why* general pollution law (Water
-Act, 1974, in force since the mid-1970s) proved insufficient to prevent continued severe
-Ganga pollution for decades, necessitating a dedicated, heavily resourced mission (Namami
-Gange, launched 2014-15) instead of simply strengthening SPCB enforcement. The standard
-analytical answer cites: fragmented responsibility across many state governments and urban
-local bodies along the river's course, chronic under-investment in sewage-treatment
-infrastructure relative to rapidly growing urban sewage generation, weak SPCB enforcement
-capacity/independence in several states, and the absence of a single empowered, adequately
-funded coordinating authority prior to the mission's creation.
+## 16. Treatment can transfer pollution
 
-#### 2. Namami Gange's institutional architecture and its "infrastructure-first" logic
+- Coagulation/precipitation transfers contaminants into sludge.
+- Activated carbon transfers them to spent media until regeneration/destruction.
+- Membranes create a concentrated reject stream.
+- Scrubbing/advanced oxidation can create by-products.
+- Disinfection can leave viable risks if dose/contact/turbidity are poorly controlled.
 
-| Component | Function | Analytical significance |
-|---|---|---|
-| ✅ Sewage treatment infrastructure creation (STPs) | Builds/upgrades sewage-treatment-plant capacity in riverside towns and cities. | Directly targets the largest documented pollution-load source; treatment *capacity* creation, however, does not guarantee treatment *utilisation* if sewer networks connecting households to STPs remain incomplete. |
-| ✅ Industrial effluent monitoring | Real-time/periodic monitoring of Grossly Polluting Industries (GPIs) along the river. | Targets point-source industrial pollution (e.g., tanneries, distilleries) distinct from municipal sewage. |
-| ⚠️ River-front development and "Ghat" beautification | Public-facing infrastructure and cultural/religious-site improvement. | Frequently critiqued as the most visible but least water-quality-relevant component if not matched by underlying sewage-treatment capacity — a recurring Mains critique point. |
-| ⚠️ Afforestation, biodiversity and public-participation components | Riverbank afforestation, aquatic-species conservation, public awareness campaigns. | Addresses ecological and behavioural dimensions beyond pure engineering infrastructure, reflecting a broader river-ecosystem (not just pipe-and-plant) conception of "cleaning." |
+The correct question is not “was the water clearer?” but “where did each pollutant mass go?”
 
-⚠️ **Key analytical insight — the "last-mile" gap:** even where STP capacity has been
-created, actual pollution-load reduction depends on the completion of sewer networks
-connecting households/establishments to that capacity and on STPs operating continuously at
-their rated capacity (not merely existing on paper) — a documented implementation gap
-flagged in various government and independent assessments of river-cleaning missions.
+## 17. Hydraulic capacity versus organic capacity
 
-#### 3. Water-quality trend interpretation: a genuinely contested empirical question
+An STP may receive fewer MLD than design yet be overloaded by high-strength sewage, or receive its
+rated MLD but have low organic loading because of infiltration/dilution. Performance assessment
+therefore needs both hydraulic load and pollutant load, not only MLD.
 
-- ⚠️ River water-quality monitoring (BOD, DO, faecal coliform trends at various monitoring
-  points along the Ganga) shows measurable improvement at some monitored stretches over
-  the mission period, according to CPCB/NMCG reporting, but water quality varies
-  significantly by season (dry season versus monsoon dilution effects) and by specific
-  river stretch (heavily industrialised/urbanised stretches versus less-impacted upstream
-  stretches).
-- ⚠️ **Analytical caution:** a claim that "the Ganga is now clean" or "is now fit for
-  bathing" at a national scale overstates what stretch-specific and seasonally variable
-  monitoring data can support; a precise answer should specify the stretch, indicator and
-  reporting period rather than making a blanket national claim.
+## 18. Emerging-contaminant governance
 
-#### 4. Governance and implementation critique: fund utilisation and coordination
+Conventional standards focus on recognised parameters, while compound-specific monitoring is
+costly. A risk-based framework should prioritise source inventories, sentinel monitoring,
+pollutant-specific treatment, producer/industrial controls and transparent uncertainty. Absence
+from a routine panel does not prove absence from water.
 
-- ⚠️ Parliamentary standing committee and CAG-type reviews of large river-mission spending
-  have periodically flagged concerns including project-completion delays, cost overruns,
-  and gaps between sanctioned STP capacity and actually operational/utilised capacity —
-  paralleling the CAMPA fund-utilisation critique pattern seen in forest governance (Topic
-  12), suggesting a more general Indian large-mission-implementation challenge rather than
-  one unique to river cleaning.
-- ⚠️ **Federal coordination challenge:** because the Ganga flows through multiple states
-  (each with its own urban local bodies, SPCB capacity and political priorities), sustained
-  central-state coordination is required for consistent sewage-infrastructure investment and
-  maintenance — a structurally harder coordination problem than pollution control confined
-  within a single state's jurisdiction.
+## 19. Federal and institutional design
 
-#### 5. Data and conceptual limitations
+Water service delivery is local/State-heavy, national standards and central missions add
+coordination/funding, and rivers cross jurisdictions. This creates a three-part problem:
 
-- ⚠️ Precise, real-time figures for sewage-treatment capacity created versus actually
-  operational, and for pollution-load reduction achieved, are reported through periodic
-  NMCG/CPCB documents and should be cited with their specific reporting date rather than
-  treated as a permanently fixed achievement figure.
-- ⚠️ Non-point-source agricultural-runoff pollution (fertiliser/pesticide-driven nutrient
-  loading) is inherently harder to measure and attribute precisely than point-source
-  municipal/industrial discharge, since it is diffuse across an entire agricultural
-  catchment rather than emerging from an identifiable pipe/outfall — this measurement
-  asymmetry should be acknowledged when comparing point-source and non-point-source
-  pollution-control progress.
+1. standardise minimum evidence and consent practice;
+2. preserve State/local operational accountability;
+3. manage the basin across administrative boundaries.
 
-#### 6. Recurring UPSC analytical tensions
+The 2024 amendment and 2026 uniform-consent changes target procedural variation, but monitoring
+capacity, auditor independence and credible sanctions remain implementation questions.
 
-| Tension | Balanced framing |
-|---|---|
-| Visible river-front development vs underlying sewage-treatment infrastructure | Both have a role, but water-quality outcomes depend fundamentally on treatment capacity and sewer-network completion, not visual/cultural-site improvement alone. |
-| Mission-mode central funding vs state/local implementation capacity | Central mission funding is necessary but insufficient without adequate state SPCB and urban local body execution capacity and sustained O&M (operations and maintenance) funding. |
-| Point-source industrial/municipal control vs diffuse agricultural-runoff pollution | Point-source pollution is more tractable through existing consent/monitoring mechanisms; non-point-source pollution requires different tools (e.g., buffer zones, fertiliser-use practices) that are less developed in current Indian water-pollution governance. |
+## 20. Ecological restoration versus cosmetic success
 
-#### 7. Must-Know Facts for Advanced Prelims
+Ghats, tourism and public spaces can improve access and participation. They cannot substitute for
+sewer interception, effluent control, environmental flow, floodplain/wetland function and habitat
+connectivity. A balanced answer values social/cultural works but refuses to use them as a proxy for
+water quality.
 
-- ✅ Namami Gange addresses multiple components — sewage-treatment infrastructure,
-  industrial-effluent monitoring, river-front development, afforestation, biodiversity and
-  public participation — rather than being a single-intervention programme.
-- ✅ A documented implementation gap in river-cleaning missions is the "last-mile" problem:
-  STP capacity creation does not guarantee full sewer-network connection or continuous
-  operational utilisation.
-- ✅ River water-quality improvement is stretch-specific and season-variable; blanket
-  national claims about a river being "clean" oversimplify CPCB/NMCG monitoring data.
-- ✅ Non-point-source agricultural-runoff pollution is measured and regulated with
-  fundamentally different (and less mature) tools than point-source industrial/municipal
-  pollution in India.
+## 21. Examiner-grade answer architecture
 
-#### 8. Advanced Prelims traps
+### Ten-marker
 
-- ❌ Namami Gange is solely a sewage-treatment-infrastructure programme. -> It integrates
-  multiple components including river-front development, afforestation, biodiversity and
-  public participation alongside infrastructure creation.
-- ❌ Created sewage-treatment-plant capacity automatically means proportionate pollution-load
-  reduction. -> Actual reduction depends on completed sewer-network connectivity and
-  continuous operational utilisation of that capacity — the "last-mile" gap.
-- ❌ Ganga water-quality improvement is uniform across its entire length and all seasons. ->
-  Improvement is stretch-specific and varies seasonally; blanket claims oversimplify
-  monitoring data.
-- ❌ Agricultural-runoff pollution is regulated through the same consent-based mechanism as
-  industrial effluent. -> Non-point-source runoff is diffuse and lacks an equivalent
-  point-source consent/monitoring mechanism in current governance.
+```text
+define exact source/indicator
+ → draw one causal chain
+ → give law/institution/treatment
+ → add one named evidence unit
+ → qualify metric/status
+```
 
-#### 9. 📰 Current anchor — analytical use
+### Fifteen-/twenty-marker
 
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 Namami Gange Programme continuing sewage-treatment-infrastructure expansion and effluent monitoring (verify latest NMCG/CPCB capacity and water-quality figures with their report date before citing). | Use to illustrate the infrastructure-first governance model while explicitly flagging the "last-mile" implementation gap and the stretch/season-specific nature of water-quality claims. |
-| 📰 **Water Act criminal provisions amended under Article 252(1)**, alongside Jan Vishwas decriminalisation of the EPA, Air Act and Indian Forest Act (Economic Survey 2025-26, Ch. 10); MoEFCC has also issued **uniform guidelines for grant of consent to establish/operate across all SPCBs**. | Two distinct analytical points. First, the **federal** one: water's State List status forced a different constitutional route — a precise GS-II crossover. Second, the **regulatory-design** one: uniform consent guidelines attack the inter-state variability that made "same industry, different SPCB, different outcome" a standing critique. |
-| 📰 **Environment Audit Rules, 2025** introduce **certified third-party environmental auditors** under major environmental statutes, and **PARIVESH 3.0** provides a single-window clearance and post-approval compliance platform (Economic Survey 2025-26, Ch. 10). | The structural answer to the classic "SPCBs lack monitoring capacity" critique is **outsourcing verification while retaining sanction**. A balanced answer notes the obvious risk: third-party auditors are paid by the audited entity, which is precisely the conflict of interest that has undermined audit regimes elsewhere. |
+```text
+source-pathway diagnosis
+ → pollutant science and load
+ → source control + treatment train
+ → Water Act/EPA/institution map
+ → basin/ecological measures
+ → project-performance and monitoring test
+ → dated mission evidence
+ → qualified outcome verdict
+```
 
-⚠️ **Capacity-created vs capacity-used discipline:** installed **STP capacity (MLD)** is not
-the same as **capacity actually operated at design load**, which is not the same as
-**river-stretch water quality**. The recurring CAG/standing-committee finding in this sector
-is the gap between the first and second — say which of the three a cited number measures.
+> **Reusable thesis:** India does not lack river-cleaning institutions or treatment projects;
+> the decisive gap is converting lawful source control, connected and continuously operated
+> treatment, environmental flow and basin restoration into verified pollutant-load and
+> stretch-specific ecological outcomes.
 
-#### 10. PYQ-based analytical application
-
-- ✅ **2024 GS-III direct PYQ:** industrial river-water pollution—mitigation
-  measures plus government initiatives. Use source segregation, consent/
-  monitoring, treatment, liability and basin governance; exact route:
-  `../README.md`.
-
-- ⚠️ Prelims questions on Namami Gange's institutional home (Ministry of Jal Shakli/NMCG) and
-  its multi-component design should be answered by recalling the full component list, not
-  just the infrastructure element.
-- ⚠️ Mains answers on "river cleaning in India" should explicitly engage the "last-mile" gap
-  and the stretch/season-specific water-quality-claim caution to demonstrate analytical
-  rigour beyond a simple programme description.
-
-#### 11. Mains-ready framework
-
-**Central thesis:** India's shift from general pollution-control law to dedicated,
-mission-mode river cleaning (Namami Gange) reflects a deliberate governance response to
-fragmented multi-state responsibility and chronic sewage-infrastructure under-investment,
-but genuine, durable water-quality improvement depends on closing the "last-mile" gap
-between created treatment capacity and actual, continuous operational utilisation — a
-challenge that mirrors broader Indian large-mission implementation patterns seen elsewhere
-(e.g., forest-fund utilisation).
-
-1. Explain why general Water Act, 1974 regulation proved insufficient, necessitating
-   mission-mode intervention.
-2. Describe Namami Gange's multi-component architecture, emphasising the infrastructure-
-   first logic and its components beyond sewage treatment.
-3. Introduce the "last-mile" implementation gap (STP capacity versus actual utilisation) as
-   the central critique.
-4. Caution against blanket national water-quality-improvement claims, citing the stretch/
-   season-specific nature of the data.
-5. Conclude with a sustained O&M-funding and sewer-network-completion recommendation as the
-   genuine determinant of long-term success.
-
-#### 12. Probable questions
-
-- ⚠️ **Prelims:** Identify the correct institutional home and full component list of the
-  Namami Gange Programme.
-- ⚠️ **Mains (10 marks):** What is the "last-mile" implementation gap in India's river-
-  cleaning missions, and why does it matter?
-- ⚠️ **Mains (15 marks):** Critically evaluate why general water-pollution law proved
-  insufficient for the Ganga, necessitating a dedicated mission-mode intervention.
-
-#### 13. Study links
-
-- ✅ Foundation companion: `basic/14_Water-Pollution-and-River-Cleaning-Missions.md`.
-- ✅ `02_Biogeochemical-Cycles-and-Ecological-Pyramids.md` — the eutrophication/nutrient-
-  pollution mechanism relevant to agricultural-runoff discussion.
-- ✅ `12_Forest-Governance-CAMPA-and-Green-India-Mission.md` — the parallel fund-utilisation
-  implementation-gap pattern in large Indian environmental missions.
-- ✅ `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` — CPCB's institutional mandate in
-  full.
+---
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Water Pollution and River Cleaning Missions: SOURCE, PATHWAY, INDICATOR, STANDARD AND TREATMENT MAP
+### Source–pathway spine
 
-1. **Point and non-point sources:** A point source has an identifiable discharge location, while non-point pollution is diffuse across a catchment; the monitoring and regulatory tools are therefore different.
-2. **Water-quality and effluent boundary:** Receiving-water quality describes the water body, whereas an effluent standard controls a discharge from a source; meeting one cannot be assumed from the other.
-3. **Water class and discharge boundary:** A designated water-use class or criterion is not an industry effluent limit; each numeric value must retain its indicator, unit, sampling basis and legal source.
-4. **BOD and DO relation:** Biochemical Oxygen Demand indicates oxygen used in microbial decomposition of organic matter, while Dissolved Oxygen is oxygen available in water; high organic load can raise BOD and depress DO.
-5. **Faecal-indicator boundary:** Faecal coliform is an indicator of faecal contamination and possible pathogen risk; it is not a direct count of every pathogen or a complete water-quality verdict.
-6. **Eutrophication chain:** Excess nutrient loading can drive algal growth, decomposition and oxygen depletion; nutrient enrichment is distinct from, though it can coexist with, sewage and toxic industrial pollution.
-7. **Water Act institution layer:** The Water Act establishes the CPCB-SPCB pollution-control architecture, while state boards administer major consent, monitoring and enforcement functions for discharges.
-8. **CTE and CTO boundary:** Consent to Establish and Consent to Operate regulate a source under pollution-control law; neither is the same as prior environmental clearance, river-mission approval or proof of continuous compliance.
-9. **Sewage quantity chain:** Sewage generated, sewered flow, installed treatment capacity, commissioned capacity, actual inflow, compliant treatment and reuse are separate quantities.
-10. **Capacity and utilisation:** An STP's rated or installed capacity is not its actual operating load, treatment performance, utilisation or receiving-river outcome.
-11. **Municipal and industrial streams:** Municipal sewage and industrial effluent differ in source, composition, treatment train, monitoring and responsible institution; neither should be used as a proxy for the other.
-12. **STP ETP and CETP:** An STP treats sewage, an ETP treats an individual establishment's effluent, and a CETP serves a group of units; installation is not proof of compliant operation.
-13. **Regulation and mission boundary:** Water Act regulation applies through pollution-control institutions, while a river-cleaning mission coordinates projects and basin action; a mission does not replace statutory consent enforcement.
-14. **NMCG institutional boundary:** NMCG implements the Ganga mission within its notified institutional architecture; it is not interchangeable with CPCB, an SPCB, an urban local body or a generic all-river regulator.
-15. **Namami Gange component boundary:** River rejuvenation can combine sewage infrastructure, industrial monitoring, river-surface action, biodiversity, afforestation and public participation; visible works alone do not prove water-quality improvement.
-16. **NRCP and river scope:** The National River Conservation Plan and Ganga-specific architecture have different programme scopes; a Ganga institution or result cannot automatically be assigned to every river.
-17. **Input output outcome chain:** Mission outlay, sanction, expenditure, infrastructure completed, flow treated, pollutant load reduced and river-quality outcome are distinct stages.
-18. **Stretch season indicator:** River quality varies by monitoring location, season, flow and indicator; a result for one stretch or period cannot establish that an entire river is clean.
-19. **Dilution and ecological flow:** Higher flow may dilute a measured concentration without removing pollutant mass or source discharge; river rejuvenation therefore cannot be reduced to dilution.
-20. **Audited evidence boundary:** Audited ledgers carry industrial river pollution, freshwater treatment technologies, membrane bioreactors, activated carbon, microbeads and sand-mining effects into practice without inventing keys, capacities, outlays or river-quality values.
+- Point = identifiable outlet; non-point = diffuse catchment pathway.
+- Municipal outfall is point; scattered septic leakage can be diffuse.
+- Load kg/day = concentration mg/L × flow MLD.
+- Dilution can lower concentration without removing mass.
 
-### Water Pollution and River Cleaning Missions: WATER CLASS, EFFLUENT, CAPACITY, UTILISATION AND OUTCOME TRAPS
+### Pollutant spine
 
-- Do not write a receiving-water criterion as an effluent limit.
-- Do not treat a designated water-use class as a source standard.
-- Do not say high BOD means oxygen-rich clean water.
-- Do not treat faecal coliform as a count of every pathogen.
-- Do not merge nutrient eutrophication with every form of sewage pollution.
-- Do not exchange CPCB coordination and SPCB consent enforcement.
-- Do not merge CTE, CTO and prior environmental clearance.
-- Do not report sewage generation as sewered or treated flow.
-- Do not report installed STP capacity as utilisation or outcome.
-- Do not merge municipal sewage with industrial effluent.
-- Do not treat an installed ETP or CETP as continuous compliance.
-- Do not treat Namami Gange as the Water Act regulator.
-- Do not generalise a Ganga institution or result to every river.
-- Do not report mission input or output as river-quality outcome.
-- Do not infer an entire river's status from one stretch, season or indicator.
+- Physical: solids/turbidity/heat; chemical: nutrients/salts/toxics; biological: pathogens.
+- Eutrophication: N/P → bloom → decomposition → BOD↑ → DO↓.
+- Heavy metals persist; treatment transfers them to sludge/media.
+- Heat lowers oxygen solubility and raises metabolic stress.
+- Salinity needs source control or desalting; ordinary biological STP does not remove salts.
+- Emerging: PFAS, pharmaceuticals, endocrine-active compounds, microplastics and AMR.
 
-### Water Pollution and River Cleaning Missions: RIVER-CLEANING GOVERNANCE ANSWER SPINE
+### DO–BOD–COD spine
 
-```text
-IDENTIFY POINT OR NON-POINT SOURCE AND RECEIVING WATER
--> SEPARATE WATER-QUALITY CRITERION FROM EFFLUENT STANDARD
--> USE BOD, DO, FAECAL INDICATOR AND NUTRIENTS PRECISELY
--> TRACE GENERATED, SEWERED, INSTALLED, OPERATED AND TREATED FLOW
--> MATCH STP, ETP AND CETP TO THE CORRECT STREAM
--> SEPARATE WATER ACT REGULATION FROM RIVER-MISSION DELIVERY
--> CONCLUDE WITH LOAD REDUCTION AND STRETCH-SEASON OUTCOME MONITORING
-```
+- DO = oxygen present; BOD = microbial demand; COD = chemically oxidisable load.
+- Organic load↑ → BOD↑; if demand exceeds replenishment, DO↓.
+- COD commonly ≥ BOD, but no fixed ratio.
+- CPCB A/B/C: BOD₅ at 20°C.
+- Bathing Gazette: BOD₃ at 27°C ≤3 mg/L.
+- General inland-surface-water discharge: BOD₃ ≤30; COD ≤250 mg/L; source-specific rules may differ.
 
-### Water Pollution and River Cleaning Missions: LIVE CAPACITY, OUTLAY, RIVER-QUALITY AND PYQ EVIDENCE BOUNDARY
+### Exact class spine
 
-NMCG home, status and guideline pages were stubs; the 2026 press PDF was retrievable only as raw bytes; CPCB pages exposed only a yearly-data heading or board title. No outlay, target, sewage generation, installed or utilised capacity, project count, river value or outcome was imported.
+- A: TC50; pH6.5–8.5; DO6; BOD2.
+- B: TC500; pH6.5–8.5; DO5; BOD3.
+- C: TC5000; pH6–9; DO4; BOD3.
+- D: pH6.5–8.5; DO4; free ammonia-N1.2.
+- E: pH6–8.5; EC2250; SAR26; boron2.
+- Bathing notification: FC500 desirable/2500 maximum; FS100/500; DO≥5; BOD₃≤3.
 
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+### Governance spine
 
-#### ASCII MASTER FLOW — PANEL 1/12: Source-pathway map
+- Water Act: CPCB s16; SPCB s17; sampling s21; inspection s23; prohibition s24; consent ss25–27;
+  emergency s32; court s33; directions s33A.
+- EPA ss3/5/6 supplies umbrella powers/rules and the 2016 Ganga authority route.
+- 2024 amendment: HP/Rajasthan/UT initially; other States adopt under Article 252; s27A guidelines;
+  section 45E retains imprisonment for sections25/26 failure.
+- ULB treats sewage/FSS; industry treats trade effluent; SPCB regulates; NMCG coordinates Ganga mission.
 
-```ascii-master
-POINT SOURCE -> identifiable pipe, drain or outfall
-NON-POINT SOURCE -> diffuse catchment runoff
-PATHWAY -> source to receiving water
-MONITORING -> source sample versus catchment evidence
-CONTROL -> tool must match the pathway
-MUST REMEMBER: Water pollution links pollutant load, concentration, dissolved oxygen,...
-```
+### Treatment spine
 
-#### ASCII MASTER FLOW — PANEL 2/12: Standard firewall
+- STP: sewage; ETP: one industry's effluent; CETP: compatible cluster effluent.
+- Sewage: screen/grit → primary → biological → clarification/polishing → disinfection → sludge line.
+- FSS: containment → emptying → transport → reception → treatment → pathogen-safe reuse/disposal.
+- Industrial: minimise/segregate → equalise/neutralise → physico-chemical → biological if suitable
+  → advanced polish → sludge management.
+- MBR = biology + membrane solids separation; activated carbon = adsorption with finite capacity.
 
-```ascii-master
-EFFLUENT STANDARD -> controls discharge from a source
-WATER-QUALITY CRITERION -> describes receiving water
-USE CLASS -> intended-water-use framework
-UNIT AND SAMPLING -> belong to the exact indicator
-RULE -> never exchange these values
-```
+### Mission and evidence spine
 
-#### ASCII MASTER FLOW — PANEL 3/12: Organic-pollution diagnostic
+- GAP-I: June1985–31March2000; Phase II recorded from 1993.
+- Namami Gange: launched 2014–15; 2016 five-tier architecture.
+- 2 July 2026: 524 sanctioned/363 completed; 218/145 sewerage projects; 6610 MLD sanctioned,
+  4263 MLD created/rehabilitated.
+- NRCP, 2 April 2026: 58 rivers, 100 towns, 17 States, 3019 MLD created.
+- Arth Ganga's six pillars are from the 3 August 2023 parliamentary answer.
+- Sanctioned ≠ completed ≠ trial ≠ commissioned ≠ utilised ≠ compliant ≠ river improved.
 
-```ascii-master
-ORGANIC LOAD -> microbial decomposition
-BOD -> oxygen demand during decomposition
-DO -> oxygen remaining for aquatic life
-FAECAL INDICATOR -> contamination warning
-DIAGNOSIS -> use indicators together, not interchangeably
-```
+### Final examiner line
 
-#### ASCII MASTER FLOW — PANEL 4/12: Eutrophication chain
-
-```ascii-master
-NUTRIENT INPUT -> nitrogen or phosphorus enrichment
-ALGAL GROWTH -> biomass increase
-DECOMPOSITION -> oxygen demand
-LOW OXYGEN -> ecological stress
-BOUNDARY -> not identical to toxic industrial discharge
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Institution and approval ladder
-
-```ascii-master
-WATER ACT -> statutory pollution-control framework
-CPCB -> national coordination and framework
-SPCB OR PCC -> consent, monitoring and enforcement
-CTE OR CTO -> source permission layer
-ENVIRONMENTAL CLEARANCE -> separate prior-appraisal layer
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Sewage quantity ledger
-
-```ascii-master
-GENERATED -> total wastewater produced
-SEWERED -> flow reaching a network
-INSTALLED -> nameplate treatment capacity
-ACTUALLY TREATED -> operating inflow and performance
-REUSED OR DISCHARGED -> final pathway and quality
-CLOSE DISTINCTION: BOD is not COD, sewage generation is not treatment capacity or actual...
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Treatment-plant matrix
-
-```ascii-master
-STP -> municipal or domestic sewage
-ETP -> one establishment's industrial effluent
-CETP -> common treatment for a group of units
-INSTALLATION -> infrastructure output
-COMPLIANT OPERATION -> separately verified performance
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Regulator-mission firewall
-
-```ascii-master
-CPCB OR SPCB -> statutory pollution-control role
-RIVER MISSION -> project and basin coordination
-NMCG -> Ganga mission implementation architecture
-ULB -> sewerage service and local operation
-RULE -> one actor never substitutes for all others
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: River-mission component wheel
-
-```ascii-master
-SEWAGE INFRASTRUCTURE -> intercept and treat flow
-INDUSTRIAL MONITORING -> source compliance
-ECOLOGY -> biodiversity and riverbank measures
-PUBLIC PARTICIPATION -> behaviour and accountability
-VISIBLE WORK -> not itself a water-quality outcome
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Programme-scope gate
-
-```ascii-master
-GANGA QUESTION -> use notified Ganga architecture
-OTHER RIVER -> identify applicable programme and state actors
-NRCP -> wider river-conservation programme context
-RESULT -> retain river, stretch and date
-NO TRANSFER -> never move one mission result to another river
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Performance and evidence chain
-
-```ascii-master
-OUTLAY OR SANCTION -> input
-EXPENDITURE -> financial activity
-ASSET COMPLETED -> physical output
-FLOW TREATED OR LOAD REDUCED -> operational result
-RIVER QUALITY -> stretch-season-indicator outcome
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Water answer spine
-
-```ascii-master
-DIAGNOSE -> source, pathway and pollutant
-MEASURE -> indicator, unit, location, season and sampling
-REGULATE -> consent, effluent control and enforcement
-TREAT -> sewer network, STP, ETP or CETP operation
-JUDGE -> load and river outcome, with PYQ and live-data limits
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix parameter, unit, sampling...
-```
+> Judge river-cleaning policy by pollutant load prevented and treated, lawful continuous plant
+> performance, environmental flow and comparable stretch–season–indicator outcomes—not by
+> expenditure, installed MLD or visible riverfront works alone.

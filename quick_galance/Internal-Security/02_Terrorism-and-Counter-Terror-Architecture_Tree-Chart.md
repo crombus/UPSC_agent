@@ -3,255 +3,119 @@
 ## Quick-Glance Tree Chart
 
 ```text
-                         TERRORISM
-                             │
-                             ▼
-      Organised use or threat of violence for political,
-          religious or ideological coercion and fear
-                             │
-          ┌──────────────────┴──────────────────┐
-          ▼                                     ▼
-        ACTORS                               OBJECTIVES
- • External State                     • Intimidate population
- • State-sponsored proxy              • Coerce government
- • Terror organisation                • Destabilise institutions
- • Domestic module                    • Polarise society
- • Lone actor                         • Publicise ideology
-                             │
-                             ▼
-                   TERRORISM ECOSYSTEM
-                             │
-  Ideology/grievance → radicalisation → recruitment
-                             │
-                             ▼
- Finance → training → weapons → logistics → target selection
-                             │
-                             ▼
-                Attack → publicity → fear
-                             │
-                             ▼
-               Propaganda → further recruitment
-                             │
-          ┌──────────────────┴──────────────────┐
-          ▼                                     ▼
-        FUNDING                              ENABLERS
- • State sponsorship                  • Cross-border sanctuary
- • Hawala/FICN                        • Sleeper cells
- • Drugs and contraband               • Encrypted communication
- • Extortion                          • Porous borders
- • Donations/front bodies             • Organised-crime networks
-                             │
-                             ▼
-                 PROXY-WAR ADVANTAGE
- External sponsor provides money, sanctuary, training or weapons
-                             │
-                             ▼
-          Proxy executes violence with plausible deniability
-                             │
-                             ▼
-                  DISTINCTION TREE
-                             │
- ┌─────────────────┬──────────────────┬─────────────────────┐
- ▼                 ▼                  ▼
-Terrorism          Insurgency         Left-Wing Extremism
-Violent method     Armed political    Maoist-inspired armed
-to intimidate      challenge seeking  challenge seeking
-wider audience     control/autonomy   revolutionary change
-                             │
-                             ▼
-                  COUNTER-TERROR CYCLE
-                             │
-                       PREVENTION
- • Intelligence
- • Community trust
- • Counter-radicalisation
- • Reduce vulnerabilities
-                             │
-                             ▼
-                       PROTECTION
- • Secure critical infrastructure and crowded places
- • Border and coastal surveillance
- • Cybersecurity
-                             │
-                             ▼
-                       DISRUPTION
- • Interdict operatives, weapons, finance and communication
- • Intelligence-led targeted policing
-                             │
-                             ▼
-                     INVESTIGATION
-        State Police / NIA → forensics → lawful evidence
-                             │
-                             ▼
-                      PROSECUTION
-               Special Courts → adjudication
-                             │
-                             ▼
-                RECOVERY AND RESILIENCE
- Restore services → assist victims → communicate accurately
-          → review failure → strengthen capability
-                             │
-                             ▼
-               LEGAL ARCHITECTURE
-                             │
- ┌─────────────────┬──────────────────┬─────────────────────┐
- ▼                 ▼                  ▼
-UAPA, 1967         NIA Act, 2008      BNS, 2023
-Special anti-      Central terror     Section 113:
-terror law         investigation      terrorist act
-                             │
-                             ▼
-                  UAPA AMENDMENT, 2019
- • Central Government may designate an individual as terrorist
- • NIA Inspector or above may investigate
- • DG NIA approves property attachment in NIA cases
-                             │
-                             ▼
-                         TRAP
-Designation ≠ arrest ≠ charge-sheet ≠ conviction
-                             │
-                             ▼
-                  NIA AMENDMENT, 2019
- • Certain scheduled offences committed outside India covered
- • Protects Indian citizens and Indian interests
- • Added specified scheduled offences
- • Sessions Courts may be designated Special Courts
-                             │
-                             ▼
-                  BNS SECTION 113
- General penal law also defines terrorist act
-                             │
-                             ▼
- UAPA remains the special anti-terror law—it was not repealed
-                             │
-                             ▼
-          HISTORICAL LEGAL EVOLUTION
- TADA, 1985–1995
-        │
-        ▼
- POTA, 2002–2004
-        │
-        ▼
- Expanded UAPA framework
-        │
-        ▼
- NIA Act, 2008
-        │
-        ▼
- UAPA/NIA Amendments, 2019
-        │
-        ▼
- BNS–BNSS–BSA operational from 1 July 2024
-                             │
-                             ▼
-             POST-26/11 INSTITUTIONAL RESPONSE
- ┌─────────────────┬──────────────────┬─────────────────────┐
- ▼                 ▼                  ▼
-NIA                MAC               NATGRID
-Investigation      Intelligence      Data-access and
-                   coordination      intelligence grid
-
- ┌─────────────────┬────────────────────────────────────────┐
- ▼                 ▼
-NSG hubs           NCTC proposal
-Rapid response     Proposed apex body; opposed on federal
-                   and intelligence-arrest-power grounds
-                             │
-                             ▼
-             INSTITUTIONAL BOUNDARIES
- Intelligence lead
-        ≠
- admissible evidence
-        ≠
- prosecution
-        ≠
- judicial conviction
-                             │
-                             ▼
-              CURRENT POLICY — PRAHAAR, 2026
-                             │
- ┌───────────────────────────────────────────────────────────┐
- │ • Prevention                                              │
- │ • Response                                                │
- │ • Aggregating national capacities                         │
- │ • Human-rights-based process                              │
- │ • Attenuating conditions enabling radicalisation          │
- │ • International cooperation                               │
- │ • Recovery and resilience                                 │
- └───────────────────────────────────────────────────────────┘
-                             │
-                             ▼
-                CENTRE–STATE DIMENSION
- Police and public order = primarily State responsibility
-                             │
-                             ▼
- Terror networks cross State and national boundaries
-                             │
-                             ▼
- State Police + Central agencies + intelligence bodies
-         must coordinate without erasing federal roles
-                             │
-                             ▼
-               RIGHTS AND SECURITY BALANCE
- Counter-terror power must satisfy:
- legality → necessity → proportionality
- → procedural safeguards → judicial review
-                             │
-                             ▼
- Overbroad or indiscriminate coercion
-                             │
-                             ▼
- Alienation + weak trust + reduced intelligence cooperation
-                             │
-                             ▼
-                 DURABLE RESPONSE
-      Targeted enforcement + fair prosecution
-       + prevention + community resilience
-                             │
-                             ▼
-                 HIGH-YIELD TRAPS
- • Terrorism and insurgency are not synonyms
- • Every non-State actor is not independent of State support
- • TADA and POTA are no longer in force
- • UAPA amendment history does not end in 2012
- • Individual designation under UAPA is not conviction
- • BNS Section 113 has not replaced UAPA
- • NIA, NATGRID and NCTC perform different functions
- • Prevention is different from visible operational response
- • Arrest or property attachment does not prove guilt
-                             │
-                             ▼
-                 MAINS ANSWER SPINE
- Define terrorism
-       │
-       ▼
- Identify manifestation and actor
-       │
-       ▼
- Explain recruitment, finance and operational ecosystem
-       │
-       ▼
- Show exploited vulnerabilities and consequences
-       │
-       ▼
- Present prevention, protection, disruption,
- investigation, prosecution and recovery
-       │
-       ▼
- Add legal, federal, capacity and rights limitations
-       │
-       ▼
- Give a qualified conclusion
-                             │
-                             ▼
-                    MODEL CONCLUSION
-Terrorism is not merely an isolated act of violence but an
-ecosystem connecting ideology, recruitment, finance, technology
-and external support. An effective response must therefore join
-preventive intelligence and social resilience with targeted
-policing, financial disruption, lawful investigation, fair
-prosecution and international cooperation. Security becomes
-durable only when operational effectiveness reinforces rather
-than weakens constitutional legitimacy.
+TERRORISM
+├─ Meaning
+│  ├─ organised violence/threat
+│  ├─ political, religious or ideological coercion
+│  └─ immediate victim + wider audience of fear
+│
+├─ Distinguish
+│  ├─ terrorism → coercive method
+│  ├─ insurgency → sustained armed political challenge
+│  ├─ LWE → Maoist revolutionary movement
+│  └─ organised crime → profit; nexus ≠ identity
+│
+├─ Actors
+│  ├─ external State / independent non-State
+│  ├─ State-sponsored proxy
+│  │  └─ finance + sanctuary + training + weapons → deniability
+│  └─ local module / facilitator / lone actor
+│     └─ attribution needs dated competent evidence
+│
+├─ Radicalisation pathway
+│  ├─ grievance/exposure ≠ inevitable violence
+│  ├─ recruiter + narrative + network → mobilisation
+│  └─ off-ramps: family/community, counselling,
+│     education, grievance access, lawful online action
+│     └─ assess behaviour, not identity
+│
+├─ Ecosystem
+│  ├─ recruitment → finance → training → logistics
+│  ├─ reconnaissance → attack → publicity → recruitment
+│  └─ sponsorship/extortion/hawala/FICN/contraband/fronts
+│     └─ finance detail: Topic 10; crime nexus: Topic 11
+│
+├─ India frame
+│  ├─ hinterland terrorism
+│  ├─ J&K militancy → Topic 05
+│  ├─ North-East insurgency → Topic 04
+│  └─ LWE → Topic 03
+│
+├─ Lifecycle
+│  ├─ PREVENT → intelligence + trust
+│  ├─ PROTECT → sites/borders/coast/cyber
+│  ├─ DISRUPT → people/weapons/money/comms
+│  ├─ RESPOND → police; NSG for exceptional crisis
+│  ├─ INVESTIGATE → State police/NIA by law
+│  ├─ PROSECUTE → competent/Special Court
+│  └─ RECOVER → victims + services + resilience
+│
+├─ Mandate firewall
+│  ├─ State Police → first response + scene/evidence
+│  ├─ MAC/SMAC → 24×7 intelligence sharing
+│  ├─ NATGRID → authorised data support
+│  ├─ NIA → scheduled-offence investigation/prosecution
+│  ├─ NSG → specialist response; hubs: Mumbai/Kolkata/Chennai/Hyderabad
+│  ├─ CTCR Division → policy/legal administration
+│  └─ NCTC → proposed; kept in abeyance
+│
+├─ Federal spine
+│  ├─ State List 1/2 → public order/police
+│  ├─ Union List 2A → forces in aid of civil power
+│  ├─ Article 355 → Union duty, not State displacement
+│  └─ NCTC objections
+│     ├─ State-police bypass
+│     └─ arrest power in intelligence body
+│
+├─ Legal chronology
+│  ├─ TADA 1985–1995 → lapsed
+│  ├─ POTA 2002–2004 → repealed
+│  ├─ UAPA 1967 → amended 1969/1972/1986/2004/2008/2012/2019
+│  ├─ NIA Act 2008 → scheduled-offence agency
+│  ├─ 2019
+│  │  ├─ UAPA: individual → Fourth Schedule
+│  │  ├─ NIA Inspector-or-above investigation
+│  │  ├─ DG-NIA property approval in NIA cases
+│  │  └─ NIA Act: overseas reach + Schedule/Court changes
+│  └─ BNS in force 1 July 2024
+│     ├─ s.113 = general-law terrorist act
+│     ├─ SP-or-above chooses BNS/UAPA registration
+│     └─ UAPA continues
+│
+├─ Status ladder
+│  ├─ proscription ≠ individual designation
+│  ├─ intelligence ≠ admissible proof
+│  ├─ designation ≠ arrest ≠ charge-sheet ≠ conviction
+│  ├─ attachment ≠ confiscation
+│  └─ policy ≠ delivery ≠ impact
+│
+├─ Rights controls
+│  ├─ legality + necessity + proportionality
+│  ├─ non-discrimination + reasons + review
+│  ├─ UAPA s.43D(5) bail threshold
+│  └─ UAPA s.45 sanction + fair/timely trial
+│
+├─ PRAHAAR — 23 February 2026
+│  ├─ prevention + response + capacity aggregation
+│  ├─ human rights/rule of law
+│  ├─ attenuating enabling conditions
+│  ├─ international alignment
+│  └─ recovery/resilience
+│     └─ policy through existing bodies; not a new agency
+│
+├─ Measure separately
+│  ├─ readiness → warning/response/interoperability
+│  ├─ disruption → network/finance/logistics
+│  ├─ justice → evidence/trial/adjudication
+│  └─ resilience → recruitment/trust/recovery
+│
+├─ PYQ spine
+│  ├─ 2019 → exact amendments + rights/federal limits
+│  ├─ 2021 → causes/linkages/nexus + matched response
+│  └─ 2025 → manifestations + verified examples
+│             + lifecycle + PRAHAAR + outcome caution
+│
+└─ Verdict
+   └─ prevent + disrupt + lawful investigate/prosecute
+      + recover; defeat the network, preserve legitimacy.
 ```
-

@@ -1,1177 +1,1081 @@
-# CMS Bonn Convention Migratory Species — Solved Practice Workbook
+# CMS / Bonn Convention and Migratory Species — Verified Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-06. Uses the same source-bounded ecological distinctions and strict A-B-C-D rotation.
+> **Topic:** Environment and Ecology 10
+> **Repair date and status cut-off:** 29 September 2026
+> **Practice contract:** exactly **40 distinct MCQs**, four options each, full explanations,
+> strict key rotation **A → B → C → D** repeated ten times; every routed PYQ has full options,
+> provenance, ownership and key-status labels; exactly six original Mains questions, two each at
+> 10, 15 and 20 marks.
+
+## Source control
+
+This workbook uses the read-only Topic 10 Basic and Advanced owners, the Environment Master
+Framework, official syllabus mapping, audited 2018–2026 PYQ routing, the local official 2026
+Set-A paper and provisional key, and dated official CMS, UNEP, MoEFCC and PIB records identified
+in the active Learning Session.
+
+Current-status controls:
+
+- latest completed meeting: **CMS COP15, Campo Grande, 23–29 March 2026**;
+- COP15 Appendix amendments effective **27 June 2026**;
+- COP15 Decision 15.152 requests support for setting up the CAF Coordination Unit in India by
+  end-2026; it is not treated as proof of completion;
+- no MCQ depends on an unverified species-level current Appendix placement.
+
+---
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Migratory-species test?
+### MCQ 1
 
-A. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-B. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-C. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-D. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
+Which one of the following most accurately states the legal character and central purpose of CMS?
 
-**Answer: A.**
-**Explanation:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. A binding treaty for its Parties that coordinates conservation of migratory wild animals and
+their habitats across the animals’ range
+B. A voluntary scientific register that assigns extinction-risk categories without creating
+international obligations
+C. A global licensing convention confined to international commerce in wildlife specimens and
+their derivatives
+D. A supranational wildlife authority empowered to prosecute offences directly in every Range
+State without relying on national legislation or courts
 
-### Q2. Which option preserves the ecological boundary of Migratory-species test?
+**Answer: A**
 
-A. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-B. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-C. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-D. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
+**Explanation:** CMS is a legally binding intergovernmental treaty for its Parties and addresses
+complete-range conservation. B describes neither its legal force nor its function. C describes
+CITES’ trade-control focus. D is wrong because implementation and prosecution remain with States;
+the CMS Secretariat has no supranational police power.
 
-**Answer: B.**
-**Explanation:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q3. Which statement uses Migratory-species test without changing its scale, parameter or status?
+### MCQ 2
 
-A. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-B. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-C. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-D. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
+For a particular migratory species, which State falls within the CMS definition of a “Range
+State”?
 
-**Answer: C.**
-**Explanation:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Only a State containing a confirmed breeding population
+B. A State exercising jurisdiction over any part of the range, or the flag State of vessels
+taking that species beyond national jurisdiction
+C. Only a State in which the species remains for more than half of each year
+D. Every State in the same biogeographic region, on the theory that ecological similarity alone
+creates treaty jurisdiction
 
-### Q4. Which option avoids the standard UPSC close-option trap about Migratory-species test?
+**Answer: B**
 
-A. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-B. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-C. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-D. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
+**Explanation:** The definition covers jurisdiction over any range segment and includes the
+flag-vessel limb. A and C unlawfully restrict the term to breeding or duration. D ignores the
+species-specific range: regional proximity alone does not make a State a Range State.
 
-**Answer: D.**
-**Explanation:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q5. Which statement correctly identifies Range definition?
+### MCQ 3
 
-A. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-B. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-C. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-D. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
+Which formulation best reproduces the CMS test for a “migratory species”?
 
-**Answer: A.**
-**Explanation:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. Any wild animal capable of seasonal movement between two habitats
+B. Every taxon whose historical distribution spans countries, even if no member crosses a
+boundary during its normal life cycle
+C. A whole population, or geographically separate part, a significant proportion of whose
+members cyclically and predictably cross jurisdictional boundaries
+D. A species that changes habitat in response to drought, irrespective of whether a border is
+crossed
 
-### Q6. Which option preserves the ecological boundary of Range definition?
+**Answer: C**
 
-A. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-B. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-C. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-D. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
+**Explanation:** C preserves the population unit, significant-proportion test, cyclical and
+predictable movement, and cross-jurisdiction element. A and D can describe local movement. B
+confuses a transboundary distribution with a recurring migration.
 
-**Answer: B.**
-**Explanation:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q7. Which statement uses Range definition without changing its scale, parameter or status?
+### MCQ 4
 
-A. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-B. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-C. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-D. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
+Under the Convention, the “range” of a migratory species includes:
 
-**Answer: C.**
-**Explanation:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. only its breeding and nesting areas
+B. only areas occupied continuously for one season
+C. breeding and wintering areas, but not temporary stopovers, passage waters or overflight
+corridors
+D. areas inhabited, used temporarily, crossed or overflown on its normal migration route
 
-### Q8. Which option avoids the standard UPSC close-option trap about Range definition?
+**Answer: D**
 
-A. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-B. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-C. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-D. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
+**Explanation:** D reflects the treaty definition. A–C omit temporary sites, passage corridors,
+water routes or overflights. A short stopover can be part of the range even though the species
+does not remain there for a season.
 
-**Answer: D.**
-**Explanation:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q9. Which statement correctly identifies Range State definition?
+### MCQ 5
 
-A. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-B. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-C. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-D. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
+Consider the following duties concerning an Appendix I migratory species:
 
-**Answer: A.**
-**Explanation:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+1. Conserving and, where feasible and appropriate, restoring important habitat
+2. Addressing activities or obstacles that seriously impede migration
+3. Prohibiting taking, subject to the Convention’s limited exceptions
 
-### Q10. Which option preserves the ecological boundary of Range State definition?
+Which of the above are part of the Appendix I regime?
 
-A. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-B. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-C. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-D. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 and 3 only
+D. 3 only
 
-**Answer: B.**
-**Explanation:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q11. Which statement uses Range State definition without changing its scale, parameter or status?
+**Explanation:** All three arise from Article III. Appendix I is not confined to a taking ban; it
+also addresses habitat and migration obstacles. B, C and D each omit at least one express branch
+of the regime.
 
-A. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-B. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-C. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-D. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
+---
 
-**Answer: C.**
-**Explanation:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 6
 
-### Q12. Which option avoids the standard UPSC close-option trap about Range State definition?
+Which statement about an exception to the Appendix I prohibition on taking is correct?
 
-A. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-B. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-C. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-D. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
+A. A Range State may create any permanent exception it considers economically useful after a
+general policy notice with no species-specific limit
+B. It must fit a Convention ground, be precise in content, limited in space and time, and not
+disadvantage the species
+C. Once a species is also in Appendix II, the taking prohibition automatically ceases
+D. The Secretariat may grant an open-ended hunting licence directly to private persons
 
-**Answer: D.**
-**Explanation:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q13. Which statement correctly identifies Weakest-link logic?
+**Explanation:** B states the treaty safeguards. A contradicts the narrow and time/space-limited
+exception rule. C misunderstands dual listing; Appendix II does not cancel Appendix I. D invents a
+licensing power that the Secretariat does not possess.
 
-A. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-B. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-C. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-D. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
+---
 
-**Answer: A.**
-**Explanation:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 7
 
-### Q14. Which option preserves the ecological boundary of Weakest-link logic?
+Appendix II is principally concerned with migratory species that:
 
-A. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-B. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-C. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-D. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
+A. are traded internationally but have no transboundary movement
+B. occur only in areas beyond national jurisdiction
+C. have an unfavourable status requiring agreements, or would significantly benefit from
+international cooperation
+D. must receive the same taking prohibition and identical habitat duties as every Appendix I
+species
 
-**Answer: B.**
-**Explanation:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q15. Which statement uses Weakest-link logic without changing its scale, parameter or status?
+**Explanation:** C states Article IV’s two entry routes. A is a CITES-style trade formulation. B
+is too narrow. D erases the distinct legal functions of the two Appendices.
 
-A. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-B. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-C. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-D. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
+---
 
-**Answer: C.**
-**Explanation:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 8
 
-### Q16. Which option avoids the standard UPSC close-option trap about Weakest-link logic?
+Which one of the following is correct regarding the relationship between CMS Appendix I and
+Appendix II?
 
-A. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-B. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-C. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-D. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
+A. Appendix II automatically replaces Appendix I after an Agreement is signed and extinguishes
+all direct duties under the earlier listing
+B. Listing in Appendix I bars later consideration under Appendix II
+C. The two Appendices are merely different names for the same obligation
+D. A species may appear in both because strict protection and cooperative instruments serve
+different functions
 
-**Answer: D.**
-**Explanation:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q17. Which statement correctly identifies Appendix I?
+**Explanation:** The Convention expressly permits dual listing. A and B invent exclusivity. C is
+wrong because the criteria and legal routes differ: Appendix I centres immediate protection,
+while Appendix II centres international cooperation and Agreements.
 
-A. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-B. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-C. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-D. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
+---
 
-**Answer: A.**
-**Explanation:** Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 9
 
-### Q18. Which option preserves the ecological boundary of Appendix I?
+An amendment to the CMS Appendices adopted by the COP ordinarily:
 
-A. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-B. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-C. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-D. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
+A. enters into force after 90 days for Parties that have not made a reservation
+B. applies only after every Range State ratifies that listing through a separate instrument
+deposited following domestic legislative approval
+C. takes effect immediately as domestic criminal law in all Parties
+D. remains advisory until approved by the Scientific Council after the COP
 
-**Answer: B.**
-**Explanation:** Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q19. Which statement uses Appendix I without changing its scale, parameter or status?
+**Explanation:** A follows the Convention’s amendment rule. B replaces the treaty procedure with
+unanimous species-by-species ratification. C confuses international entry into force with domestic
+translation. D reverses roles: the Scientific Council advises before decision; the COP adopts.
 
-A. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-B. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-C. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-D. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
+---
 
-**Answer: C.**
-**Explanation:** Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 10
 
-### Q20. Which option avoids the standard UPSC close-option trap about Appendix I?
+Which legal-status pairing is correct?
 
-A. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-B. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-C. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-D. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
+A. CMS Agreement — non-binding; CMS MOU — binding
+B. CMS Agreement — legally binding treaty; CMS MOU — non-legally-binding cooperation framework
+C. Appendix II listing — separate treaty; Action Plan — Appendix amendment effective after
+ninety days unless a reservation is entered
+D. COP resolution — automatically enforceable national statute; MOU — judicial order
 
-**Answer: D.**
-**Explanation:** Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q21. Which statement correctly identifies Taking exceptions?
+**Explanation:** B gives the institutional distinction. A reverses it. C confuses listing,
+instrument and planning categories. D converts international policy instruments into forms of
+domestic law without a legal basis.
 
-A. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-B. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-C. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-D. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
+---
 
-**Answer: A.**
-**Explanation:** Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 11
 
-### Q22. Which option preserves the ecological boundary of Taking exceptions?
+Which feature is envisaged by Article V for a CMS AGREEMENT?
 
-A. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-B. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-C. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-D. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
+A. It should be restricted to States already Parties to the parent Convention
+B. It should normally cover only one breeding site to keep obligations narrow
+C. It should cover the whole range and remain open to all Range States, whether or not they are
+CMS Parties
+D. It should exclude monitoring machinery because that is solely the Secretariat’s function
+under every daughter instrument and national arrangement
 
-**Answer: B.**
-**Explanation:** Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q23. Which statement uses Taking exceptions without changing its scale, parameter or status?
+**Explanation:** C is an express Article V design principle. A is wrong because non-Parties that
+are Range States may join. B defeats complete-range conservation. D is wrong because an Agreement
+may establish implementation, monitoring and reporting machinery.
 
-A. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-B. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-C. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-D. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
+---
 
-**Answer: C.**
-**Explanation:** Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 12
 
-### Q24. Which option avoids the standard UPSC close-option trap about Taking exceptions?
+A COP adopts a species Action Plan. Which conclusion is legally safest?
 
-A. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-B. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-C. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-D. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
+A. Every recommendation in the plan immediately becomes a criminal offence in each Party without
+national legislation, notice or an implementing authority
+B. The plan automatically converts the species into an Appendix I species
+C. The plan is necessarily a binding daughter Agreement because the COP adopted it
+D. Its legal effect must be read from the constitutive instrument and domestic implementation;
+adoption alone does not prove enforceability or outcome
 
-**Answer: D.**
-**Explanation:** Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q25. Which statement correctly identifies Appendix II?
+**Explanation:** D applies status discipline. A invents automatic domestic offences. B confuses a
+plan with an Appendix amendment. C treats every plan as a treaty; some plans guide action or are
+annexed to other instruments, so their force must be examined rather than assumed.
 
-A. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-B. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-C. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-D. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
+---
 
-**Answer: A.**
-**Explanation:** Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 13
 
-### Q26. Which option preserves the ecological boundary of Appendix II?
+Which CMS body is the Convention’s decision-making organ?
 
-A. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-B. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-C. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-D. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
+A. Conference of the Parties
+B. Scientific Council acting on technical evidence and national reports
+C. Secretariat
+D. Standing Committee
 
-**Answer: B.**
-**Explanation:** Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q27. Which statement uses Appendix II without changing its scale, parameter or status?
+**Explanation:** The COP reviews implementation, adopts budgets and guidance, and decides
+Appendix amendments. The Scientific Council advises, the Secretariat coordinates and services,
+and the Standing Committee gives intersessional policy and administrative guidance.
 
-A. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-B. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-C. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-D. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
+---
 
-**Answer: C.**
-**Explanation:** Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 14
 
-### Q28. Which option avoids the standard UPSC close-option trap about Appendix II?
+Which function belongs most directly to the CMS Scientific Council?
 
-A. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-B. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-C. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-D. Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
+A. Issuing domestic hunting licences
+B. Advising on science, research, Appendix proposals and conservation measures
+C. Adopting the Convention budget without COP approval and setting national contribution scales
+by its own vote
+D. Prosecuting illegal taking before national courts
 
-**Answer: D.**
-**Explanation:** Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q29. Which statement correctly identifies Dual listing?
+**Explanation:** B captures Article VIII. A and D are domestic functions. C belongs to the COP,
+not the Council. Scientific advice can shape a decision but does not itself amend an Appendix.
 
-A. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-B. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-C. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-D. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
+---
 
-**Answer: A.**
-**Explanation:** The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 15
 
-### Q30. Which option preserves the ecological boundary of Dual listing?
+The CMS Secretariat is best described as:
 
-A. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-B. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-C. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-D. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
+A. the appellate court with compulsory jurisdiction over Parties, MOUs and private actors under
+every daughter instrument
+B. an independent police service for migratory-species offences
+C. the UNEP-provided coordinating body based in Bonn that services meetings and promotes
+implementation and instruments
+D. a scientific panel empowered to add species to the Appendices
 
-**Answer: B.**
-**Explanation:** The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q31. Which statement uses Dual listing without changing its scale, parameter or status?
+**Explanation:** C reflects Article IX and the official organizational record. A and B invent
+adjudicatory and enforcement powers. D confuses the Secretariat with Scientific Council advice
+and COP decision-making.
 
-A. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-B. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-C. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
-D. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
+---
 
-**Answer: C.**
-**Explanation:** The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 16
 
-### Q32. Which option avoids the standard UPSC close-option trap about Dual listing?
+What is the principal role of the CMS Standing Committee?
 
-A. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-B. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-C. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-D. The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
+A. To replace the COP when Appendix amendments are proposed
+B. To conduct population censuses in every Range State
+C. To negotiate domestic legislation on behalf of Parties
+D. To provide policy and administrative guidance between COP meetings
 
-**Answer: D.**
-**Explanation:** The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q33. Which statement correctly identifies AGREEMENT architecture?
+**Explanation:** D is the official intersessional role. A overstates its authority. B is a task
+for scientific and national programmes, not its universal function. C would violate State
+responsibility for domestic law.
 
-A. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-B. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-C. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-D. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
+---
 
-**Answer: A.**
-**Explanation:** A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 17
 
-### Q34. Which option preserves the ecological boundary of AGREEMENT architecture?
+Which description of a current CMS Concerted Action is most accurate?
 
-A. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-B. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-C. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-D. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
+A. A time-bound priority initiative involving multiple Range States for selected CMS-listed taxa,
+adopted under the Convention’s process
+B. A permanent Appendix category that also imports all Article III taking duties directly into
+national law
+C. A trade permit issued by the Secretariat for transboundary movement
+D. A bilateral treaty that can be concluded only by two CMS Parties
 
-**Answer: B.**
-**Explanation:** A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q35. Which statement uses AGREEMENT architecture without changing its scale, parameter or status?
+**Explanation:** A captures the current mechanism. B confuses implementation with listing. C
+imports CITES-style paperwork. D is too narrow in actor, form and geographic scope.
 
-A. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-B. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-C. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-D. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
+---
 
-**Answer: C.**
-**Explanation:** A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 18
 
-### Q36. Which option avoids the standard UPSC close-option trap about AGREEMENT architecture?
+What is the present exam-relevant status of “Cooperative Actions” under CMS?
 
-A. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-B. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-C. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-D. A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
+A. They remain the exclusive current mechanism for Appendix II species and may never cover a
+species also listed in Appendix I
+B. They are a historical separate track consolidated with Concerted Actions at COP12
+C. They are binding daughter Agreements requiring ratification
+D. They are domestic projects administered only by non-Parties
 
-**Answer: D.**
-**Explanation:** A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q37. Which statement correctly identifies Agreement versus MOU?
+**Explanation:** B preserves the chronology. A treats an older distinction as current. C
+misclassifies an action mechanism as a treaty. D has no basis in CMS architecture.
 
-A. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-B. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-C. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-D. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
+---
 
-**Answer: A.**
-**Explanation:** A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 19
 
-### Q38. Which option preserves the ecological boundary of Agreement versus MOU?
+Which statement best describes a migratory-bird flyway?
 
-A. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-B. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-C. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-D. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
+A. A treaty boundary identical to the territory of its member States
+B. A single fixed line followed by every individual of every covered species
+C. A broad route-and-site system linking breeding, passage, stopover and non-breeding areas
+D. A list of Ramsar sites that automatically excludes all non-wetland habitats
 
-**Answer: B.**
-**Explanation:** A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q39. Which statement uses Agreement versus MOU without changing its scale, parameter or status?
+**Explanation:** C captures ecological function. A confuses geography with law. B ignores
+population and individual variation. D wrongly limits a flyway to Ramsar wetlands and excludes
+other essential habitats.
 
-A. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-B. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-C. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-D. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
+---
 
-**Answer: C.**
-**Explanation:** A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 20
 
-### Q40. Which option avoids the standard UPSC close-option trap about Agreement versus MOU?
+Two breeding populations of the same species use different wintering areas. Loss of one wintering
+area causes decline only in the linked breeding population. This most directly illustrates:
 
-A. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-B. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-C. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-D. A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
+A. appendix reservation
+B. legal acquisition
+C. taxonomic endemism
+D. migratory connectivity
 
-**Answer: D.**
-**Explanation:** A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q41. Which statement correctly identifies Action Plan boundary?
+**Explanation:** Migratory connectivity links individuals or populations across seasonal areas,
+explaining the population-specific effect. A is a treaty procedure. B belongs to trade-law
+verification. C concerns geographic restriction of a taxon, not seasonal linkage.
 
-A. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-B. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-C. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-D. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
+---
 
-**Answer: A.**
-**Explanation:** An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 21
 
-### Q42. Which option preserves the ecological boundary of Action Plan boundary?
+A wetland used for only ten days each year allows a large share of a bird population to refuel
+before crossing an ecological barrier. Which inference is strongest?
 
-A. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-B. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-C. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-D. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
+A. Brief occupancy can still make a stopover a demographic bottleneck requiring protection
+B. The site lies outside the species’ range because the treaty counts only places occupied for a
+complete season
+C. Only the breeding site can affect population trend
+D. CMS applies only if the wetland is also a Ramsar site
 
-**Answer: B.**
-**Explanation:** An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q43. Which statement uses Action Plan boundary without changing its scale, parameter or status?
+**Explanation:** A follows the treaty range definition and migration ecology. B excludes temporary
+use contrary to Article I. C ignores carry-over and bottleneck effects. D confuses CMS range with
+Ramsar designation.
 
-A. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-B. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-C. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-D. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
+---
 
-**Answer: C.**
-**Explanation:** An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 22
 
-### Q44. Which option avoids the standard UPSC close-option trap about Action Plan boundary?
+Which pair is correctly matched?
 
-A. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-B. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-C. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-D. An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
+A. Dams and weirs — primary cause of artificial-light disorientation and seasonal disruption of
+marine-mammal communication
+B. Power lines — collision risk; dams — loss of longitudinal fish connectivity
+C. Underwater noise — creates a CITES import-permit requirement
+D. Coastal lighting — prevents all marine bycatch
 
-**Answer: D.**
-**Explanation:** An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q45. Which statement correctly identifies Concerted Action boundary?
+**Explanation:** B matches barrier to mechanism. Dams/weirs obstruct aquatic migration, while
+power lines can create collision risk. A mismatches pressures. C converts noise into trade law.
+D attributes a fisheries effect to lighting control.
 
-A. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-B. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-C. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-D. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
+---
 
-**Answer: A.**
-**Explanation:** CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 23
 
-### Q46. Which option preserves the ecological boundary of Concerted Action boundary?
+Which intervention most directly addresses artificial-light risk to nocturnal migrants and
+marine-turtle hatchlings?
 
-A. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-B. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-C. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-D. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
+A. Increasing floodlighting throughout the migratory season to make every route segment more
+visible
+B. Moving all nesting activity to captive facilities
+C. Shielding lights, reducing intensity, choosing suitable spectra and using seasonal dark periods
+D. Replacing habitat monitoring with remote trade permits
 
-**Answer: B.**
-**Explanation:** CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: C**
 
-### Q47. Which statement uses Concerted Action boundary without changing its scale, parameter or status?
+**Explanation:** C targets the physical exposure. A can intensify attraction or disorientation. B
+is neither generally feasible nor a substitute for habitat protection. D addresses neither light
+nor movement ecology.
 
-A. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-B. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-C. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
-D. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
+---
 
-**Answer: C.**
-**Explanation:** CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 24
 
-### Q48. Which option avoids the standard UPSC close-option trap about Concerted Action boundary?
+Why is anthropogenic underwater noise relevant to migratory-species conservation?
 
-A. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-B. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-C. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-D. CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
+A. It automatically changes the species’ Appendix II status without a proposal, scientific review
+or COP vote
+B. It affects only stationary benthic plants, not mobile animals
+C. It is relevant solely when generated by an illegal fishing vessel
+D. It can mask communication or alter behaviour and navigation, requiring source- and area-based
+mitigation
 
-**Answer: D.**
-**Explanation:** CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: D**
 
-### Q49. Which statement correctly identifies Central Asian Flyway?
+**Explanation:** D states the ecological mechanism and response. A confuses threat with listing.
+B is biologically overbroad and excludes marine migrants. C wrongly limits the source and legal
+context of harmful noise.
 
-A. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-B. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-C. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-D. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
+---
 
-**Answer: A.**
-**Explanation:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 25
 
-### Q50. Which option preserves the ecological boundary of Central Asian Flyway?
+Which policy combination most directly reduces fisheries bycatch of migratory marine fauna?
 
-A. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-B. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-C. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-D. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
+A. Gear modification, spatial or seasonal controls, monitoring, safe handling and compliance
+B. Appendix delisting followed by unrestricted retention
+C. Wetland designation without any fisheries measure
+D. Night lighting of nets in every fishery regardless of species and evidence
 
-**Answer: B.**
-**Explanation:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: A**
 
-### Q51. Which statement uses Central Asian Flyway without changing its scale, parameter or status?
+**Explanation:** A is a threat-specific package. B removes safeguards and permits retention. C
+does not address fishing mortality. D turns one context-dependent mitigation option into a
+universal prescription; measures must fit fishery and taxon.
 
-A. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-B. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-C. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-D. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
+---
 
-**Answer: C.**
-**Explanation:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 26
 
-### Q52. Which option avoids the standard UPSC close-option trap about Central Asian Flyway?
+Earlier spring food peaks occur at a breeding site, but migrants still arrive on their historical
+schedule and miss the peak. This is an example of:
 
-A. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-B. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-C. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-D. The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
+A. a reservation to an Appendix amendment
+B. climate-related phenological mismatch
+C. a CITES non-detriment finding
+D. legal dual listing
 
-**Answer: D.**
-**Explanation:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Answer: B**
 
-### Q53. Which statement correctly identifies COP14 initiative?
+**Explanation:** B describes decoupling between migration timing and resource timing. A and D are
+legal categories. C is a trade-science finding under CITES and does not describe the ecological
+process.
 
-A. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-B. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-C. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-D. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
+---
 
-**Answer: A.**
-**Explanation:** The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 27
 
-### Q54. Which option preserves the ecological boundary of COP14 initiative?
+With reference to the official COP15 summary’s 2026 interim status signal, consider the following:
 
-A. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-B. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-C. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-D. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
+1. It reported that 49% of populations of CMS-listed migratory species were declining.
+2. It reported that 24% faced global extinction risk.
+3. These findings prove that every CMS instrument has failed.
 
-**Answer: B.**
-**Explanation:** The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which of the above is/are correct?
 
-### Q55. Which statement uses COP14 initiative without changing its scale, parameter or status?
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-A. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-B. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-C. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-D. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** Statements 1 and 2 reproduce the dated official summary. Statement 3 is an
+unsupported causal verdict: aggregate decline can reveal an implementation challenge without
+proving failure of every instrument, species action or national programme.
 
-### Q56. Which option avoids the standard UPSC close-option trap about COP14 initiative?
+---
 
-A. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-B. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-C. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-D. The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
+### MCQ 28
 
-**Answer: D.**
-**Explanation:** The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which sequence best preserves the difference between designation and ecological outcome?
 
-### Q57. Which statement correctly identifies Strategic plan status?
+A. COP proposal → population recovery → domestic law → monitoring → later threat assessment and
+legal adoption
+B. MOU signature → automatic enforcement → Appendix listing → budget
+C. Appendix listing → immediate recovery → plan → threat assessment
+D. adopted status → instrument/plan → domestic capacity and action → measured pressure and
+population response
 
-A. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-B. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-C. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-D. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** D keeps the causal stages in order. A–C jump to recovery before implementation
+or mix legally distinct steps. Listing and signature can enable action but cannot substitute for
+funding, compliance and ecological evidence.
 
-### Q58. Which option preserves the ecological boundary of Strategic plan status?
+---
 
-A. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-B. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-C. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-D. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
+### MCQ 29
 
-**Answer: B.**
-**Explanation:** COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which statement about India and CMS is correct?
 
-### Q59. Which statement uses Strategic plan status without changing its scale, parameter or status?
+A. India has been a Party since 1 November 1983 and hosted COP13 at Gandhinagar in February 2020
+B. India joined only after hosting COP13, and its treaty obligations began with that decision
+rather than earlier accession
+C. India hosted COP14 and became a Party in 2024
+D. India participates only through CITES and is not a CMS Party
 
-A. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-B. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-C. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
-D. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
+**Answer: A**
 
-**Answer: C.**
-**Explanation:** COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** A combines the verified Party date and COP13 hosting. B–D contradict the official
+chronology. COP14 was held at Samarkand, not in India.
 
-### Q60. Which option avoids the standard UPSC close-option trap about Strategic plan status?
+---
 
-A. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-B. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-C. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-D. COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
+### MCQ 30
 
-**Answer: D.**
-**Explanation:** COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+India’s four verified CMS instrument signatures for the Siberian Crane, IOSEA Marine Turtles,
+Dugong and Raptors are:
 
-### Q61. Which statement correctly identifies Threat classification?
+A. four binding daughter Agreements
+B. four non-legally-binding MOUs
+C. four Appendix amendments
+D. four Ramsar regional initiatives
 
-A. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-B. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-C. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-D. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** B is the exact legal-status classification. A upgrades MOUs into treaties. C
+confuses instruments with lists. D shifts them into a different convention.
 
-### Q62. Which option preserves the ecological boundary of Threat classification?
+---
 
-A. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-B. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-C. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-D. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
+### MCQ 31
 
-**Answer: B.**
-**Explanation:** Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which chronological order is correct for India’s participation in the four verified MOUs?
 
-### Q63. Which statement uses Threat classification without changing its scale, parameter or status?
+A. Dugong → IOSEA → Siberian Crane → Raptors
+B. IOSEA → Siberian Crane → Raptors → Dugong
+C. Siberian Crane → IOSEA → Dugong → Raptors
+D. Raptors → Dugong → IOSEA → Siberian Crane
 
-A. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-B. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-C. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-D. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
+**Answer: C**
 
-**Answer: C.**
-**Explanation:** Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** India’s verified sequence is Siberian Crane (1998), IOSEA Marine Turtles (2007),
+Dugong (2008) and Raptors (2016). The other options reverse or scramble that chronology.
 
-### Q64. Which option avoids the standard UPSC close-option trap about Threat classification?
+---
 
-A. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-B. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-C. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-D. Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
+### MCQ 32
 
-**Answer: D.**
-**Explanation:** Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+The official record of India joining the Raptors MOU uses the Amur Falcon stopover in Nagaland
+mainly to show that:
 
-### Q65. Which statement correctly identifies Amur Falcon PYQ anchor?
+A. tracking devices guide birds physically back to Doyang through active signals transmitted by
+the tag across the route
+B. the species has become permanently resident in India
+C. only international diplomacy, not local action, matters
+D. enforcement and community engagement at one stopover can protect a link in a transcontinental
+migration
 
-A. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-B. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-C. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-D. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
+**Answer: D**
 
-**Answer: A.**
-**Explanation:** The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** D captures the case. A confuses observation with guidance. B contradicts annual
+migration. C ignores the local mechanism through which range-wide cooperation becomes meaningful.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q65. Which statement correctly identifies Amur Falcon PYQ anchor?”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+---
 
-**Detailed examiner-grade model answer:**
+### MCQ 33
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q65. Which statement correctly identifies Amur Falcon PYQ anchor?”.
+Which sequence correctly describes the Central Asian Flyway institutional chronology?
 
-**Analytical body:**
+A. CAF Action Plan → COP13 mandate → COP14 Initiative → COP15 end-2026 Coordination Unit task
+B. COP15 Initiative → 2008 Action Plan → COP13 abolition → COP14 withdrawal
+C. Ramsar listing → CITES permit system → CMS membership → CBD target
+D. COP13 Initiative → COP14 National Action Plan 2018–2023 → COP15 dissolution, replacing the
+Convention’s flyway process with domestic planning
 
-1. **Claim and named evidence:** Q65. Which statement correctly identifies Amur Falcon PYQ anchor? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** D. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Answer: A**
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Explanation:** A preserves the verified progression: 2008 Action Plan, COP13 institutional
+mandate, COP14 Initiative and COP15 Decision 15.152. B–D mix treaties, dates or events that did
+not occur.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q65. Which statement correctly identifies Amur Falcon PYQ anchor?”.
+---
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+### MCQ 34
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+As of the 29 September 2026 status cut-off, Decision 15.152 should be described as:
 
-**How to improve this answer:** For “Q65. Which statement correctly identifies Amur Falcon PYQ anchor?”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+A. proof that the CAF Coordination Unit has already achieved recovery through verified survival,
+breeding and population indicators
+B. a request to support India and the Secretariat in setting up the Unit by the end of 2026
+C. a legally binding CMS Agreement ratified by all CAF Range States
+D. an amendment placing every CAF bird in Appendix I
 
-### Q66. Which option preserves the ecological boundary of Amur Falcon PYQ anchor?
+**Answer: B**
 
-A. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-B. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-C. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-D. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
+**Explanation:** B reproduces the decision’s operative status. A converts a deadline into an
+outcome. C misclassifies a COP decision as a daughter treaty. D invents a blanket Appendix
+amendment.
 
-**Answer: B.**
-**Explanation:** The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-**Demand decoding:** Treat “Q66. Which option preserves the ecological boundary of Amur Falcon PYQ anchor?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+### MCQ 35
 
-**Detailed examiner-grade model answer:**
+Which statement best explains the CMS–Indian-law interface?
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q66. Which option preserves the ecological boundary of Amur Falcon PYQ anchor?”.
+A. Every CMS listing automatically rewrites the Wild Life (Protection) Act schedule without any
+parliamentary, executive or schedule-specific legal step
+B. The CMS Secretariat directly prosecutes offences committed in India
+C. CMS creates international obligations, while Indian statutes, regulations, agencies and
+communities supply domestic implementation
+D. India’s CITES Chapter under the wildlife law is also the domestic CMS chapter
 
-**Analytical body:**
+**Answer: C**
 
-1. **Claim and named evidence:** Q66. Which option preserves the ecological boundary of Amur Falcon PYQ anchor? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** B. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** C. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Explanation:** C distinguishes international obligation from domestic execution. A invents
+automatic statutory amendment. B invents supranational prosecution. D conflates CITES trade
+implementation with CMS range conservation.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+---
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q66. Which option preserves the ecological boundary of Amur Falcon PYQ anchor?”.
+### MCQ 36
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+Which set is correctly matched?
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+A. CMS—wetland designation; Ramsar—trade permits; CITES—domestic criminal schedules; WPA—global
+range cooperation without a role for national implementation
+B. CMS—extinction-risk assessment; IUCN—binding migration treaty; CBD—trade permits; WPA—flyway
+agreement
+C. CMS—international specimen trade; CITES—migratory range; Ramsar—genetic benefit-sharing;
+CBD—Indian hunting law
+D. CMS—migratory range; CITES—international specimen trade; Ramsar—wetlands; CBD—broad
+biodiversity; WPA—Indian domestic wildlife law
 
-**How to improve this answer:** For “Q66. Which option preserves the ecological boundary of Amur Falcon PYQ anchor?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+**Answer: D**
 
-### Q67. Which statement uses Amur Falcon PYQ anchor without changing its scale, parameter or status?
+**Explanation:** D assigns each regime its primary object. A–C systematically transpose legal and
+scientific functions. Overlap is possible, but the regulated object remains distinct.
 
-A. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-B. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-C. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-D. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
+---
 
-**Answer: C.**
-**Explanation:** The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+### MCQ 37
 
-**Demand decoding:** The directive **answer** requires a direct position on “Q67. Which statement uses Amur Falcon PYQ anchor without changing its scale, parameter or…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+If a CMS-relevant bird is being killed mainly by unmarked power lines within one Indian
+landscape, the first analytical diagnosis should be:
 
-**Detailed examiner-grade model answer:**
+A. a domestic infrastructure-siting and mitigation failure, though wider range cooperation may
+still matter
+B. proof that all Range States have breached the same duty, regardless of whether comparable
+infrastructure exists elsewhere on the route
+C. a CITES import-permit defect
+D. absence of a Ramsar designation alone
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q67. Which statement uses Amur Falcon PYQ anchor without changing its scale, parameter or status?”.
+**Answer: A**
 
-**Analytical body:**
+**Explanation:** A matches remedy to scale: line routing, marking, burying where justified and
+monitoring are primarily domestic. B overgeneralizes. C is unrelated to trade. D assumes a site
+label would by itself remove collision risk.
 
-1. **Claim and named evidence:** Q67. Which statement uses Amur Falcon PYQ anchor without changing its scale, parameter or status? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+---
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+### MCQ 38
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q67. Which statement uses Amur Falcon PYQ anchor without changing its scale, parameter or status?”.
+India’s COP15 National Report identifies it as a CMS Party, a signatory to four named MOUs, and a
+Range State but not signatory to the Sharks MOU. Which rule does this illustrate?
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+A. Joining CMS automatically makes a State party to every CMS Agreement and MOU, including
+instruments concluded before its accession
+B. A State’s status under each Agreement or MOU must be checked separately from its CMS Party
+status
+C. Only non-Parties to CMS may join daughter instruments
+D. Signing an MOU automatically amends the CMS Appendices
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Answer: B**
 
-**How to improve this answer:** For “Q67. Which statement uses Amur Falcon PYQ anchor without changing its scale, parameter or…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Explanation:** B is the necessary membership discipline and explains the reported Sharks
+status. A invents automatic accession. C is wrong because instruments can include CMS Parties and,
+where provided, other Range States. D confuses participation with the COP’s Appendix-amendment
+process.
 
-### Q68. Which option avoids the standard UPSC close-option trap about Amur Falcon PYQ anchor?
+---
 
-A. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-B. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-C. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-D. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
+### MCQ 39
 
-**Answer: D.**
-**Explanation:** The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Which is the most complete policy response to declining migratory populations?
 
-### Q69. Which statement correctly identifies Amur Falcon distinction?
+A. Add more species to lists and treat the number of listings as the outcome even where budgets,
+compliance and monitoring remain absent
+B. Rely only on protected breeding sites within one State
+C. Map connectivity, secure critical sites, mitigate route-specific mortality, coordinate Range
+States, fund domestic delivery and monitor outcomes
+D. Replace threat-specific measures with a single awareness campaign
 
-A. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-B. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-C. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-D. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
+**Answer: C**
 
-**Answer: A.**
-**Explanation:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+**Explanation:** C integrates ecology, law, implementation and evaluation. A confuses designation
+with result. B ignores the full annual cycle. D may support conservation but cannot replace
+barrier, bycatch, light, noise or habitat measures.
 
-### Q70. Which option preserves the ecological boundary of Amur Falcon distinction?
+---
 
-A. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-B. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-C. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-D. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
+### MCQ 40
 
-**Answer: B.**
-**Explanation:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+Consider the following statements:
 
-### Q71. Which statement uses Amur Falcon distinction without changing its scale, parameter or status?
+1. COP15 is the latest completed CMS COP at the stated cut-off.
+2. COP15 Appendix amendments entered into force on 27 June 2026.
+3. The Samarkand Strategic Plan 2024–2032 is evidence that its targets have already been achieved.
+4. A Concerted Action is an implementation mechanism, not a synonym for ecological recovery.
 
-A. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-B. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-C. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-D. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
+Which option is correct?
 
-**Answer: C.**
-**Explanation:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+A. 1, 2 and 3 only
+B. 2, 3 and 4 only
+C. 1, 3 and 4 only
+D. 1, 2 and 4 only
 
-### Q72. Which option avoids the standard UPSC close-option trap about Amur Falcon distinction?
+**Answer: D**
 
-A. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-B. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-C. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-D. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
+**Explanation:** Statements 1, 2 and 4 are correct. Statement 3 violates the plan-versus-outcome
+rule: adoption creates a strategic framework, not proof of achieved targets. The correct set is
+therefore 1, 2 and 4.
 
-**Answer: D.**
-**Explanation:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
-### Q73. Which statement correctly identifies CMS-CITES-Ramsar split?
+## MCQ answer-distribution audit
 
-A. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-B. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-C. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-D. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
+| Key | Questions | Count |
+|---|---|---:|
+| A | 1, 5, 9, 13, 17, 21, 25, 29, 33, 37 | 10 |
+| B | 2, 6, 10, 14, 18, 22, 26, 30, 34, 38 | 10 |
+| C | 3, 7, 11, 15, 19, 23, 27, 31, 35, 39 | 10 |
+| D | 4, 8, 12, 16, 20, 24, 28, 32, 36, 40 | 10 |
 
-**Answer: A.**
-**Explanation:** CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q74. Which option preserves the ecological boundary of CMS-CITES-Ramsar split?
-
-A. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-B. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-C. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-D. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-
-**Answer: B.**
-**Explanation:** CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q75. Which statement uses CMS-CITES-Ramsar split without changing its scale, parameter or status?
-
-A. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-B. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-C. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-D. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-
-**Answer: C.**
-**Explanation:** CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q76. Which option avoids the standard UPSC close-option trap about CMS-CITES-Ramsar split?
-
-A. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-B. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-C. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-D. CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-
-**Answer: D.**
-**Explanation:** CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q77. Which statement correctly identifies Current-listing boundary?
-
-A. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-B. The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-C. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-D. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-
-**Answer: A.**
-**Explanation:** The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q78. Which option preserves the ecological boundary of Current-listing boundary?
-
-A. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-B. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-C. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-D. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-
-**Answer: B.**
-**Explanation:** The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q79. Which statement uses Current-listing boundary without changing its scale, parameter or status?
-
-A. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-B. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-C. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-D. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-
-**Answer: C.**
-**Explanation:** The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Current-listing boundary?
-
-A. Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-B. Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-C. Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-D. The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-
-**Answer: D.**
-**Explanation:** The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. The other options belong to different ecological levels, parameters, processes, scales, institutions or status categories.
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q68. Which option avoids the standard UPSC close-option trap about Amur Falcon PYQ anchor?” as a taxon, ecological mechanism, legal category, institution, treaty/status, parameter, unit, chronology and source-date problem.
+### Routing audit
 
-**Detailed examiner-grade model answer:**
+✅ The controlling repository ledgers for 2018–2026 contain:
 
-**Introduction and thesis:** The answer must resolve the Environment and Ecology demand in “Q68. Which option avoids the standard UPSC close-option trap about Amur Falcon PYQ anchor?”.
+- **Direct Topic 10 Prelims routes:** one — 2026 Q27.
+- **Other direct/shared Topic 10 Prelims routes in 2018–2025:** none.
+- **Relevant adjacent application routes identified by the controlling ledgers:** none.
+- **Direct Topic 10 Mains routes in the audited 2018–2025 GS-III ledgers:** none.
 
-**Analytical body:**
+No historical question, wording, marks or key is invented to fill those gaps.
 
-1. **Claim and named evidence:** Q68. Which option avoids the standard UPSC close-option trap about Amur Falcon PYQ anchor? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** B. A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** C. A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** D. The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Q69. Which statement correctly identifies Amur Falcon distinction? **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** A. The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### Direct PYQ 1 — Prelims 2026, Question 27
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Ownership label:** **DIRECT TOPIC 10 PYQ** — routed to
+`Environment-and-Ecology/basic/10_CMS-Bonn-Convention-Migratory-Species.md`.
 
-**Qualified conclusion:** The answer must resolve the Environment and Ecology demand in “Q68. Which option avoids the standard UPSC close-option trap about Amur Falcon PYQ anchor?”.
+**Official local paper:**
 
-**Executable exam-length answer / compression plan:** Fix the system/taxon and scale; mark stock/flow and unit; identify the competent law, institution or treaty status; test each statement against mechanism, date, jurisdiction and closest exception.
+`C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\prelima_question_paper_answers\2026-GS1-Set A.pdf`,
+Set A, PDF page 13.
 
-**Why this earns marks:** It prevents ecological categories, species statuses, legal schedules, treaty appendices, standards and policy stages from being conflated.
+**Routing provenance:**
 
-**How to improve this answer:** For “Q68. Which option avoids the standard UPSC close-option trap about Amur Falcon PYQ anchor?”, explain why the closest distractor fails on mechanism, scale, taxon, unit, mandate, legal/treaty status, date or causation.
+`upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`, row
+“2026 | 27 | Amur Falcon migration to Doyang Lake and community-based conservation.”
 
-### PROVISIONAL OBJECTIVE-ONLY PYQ OWNERSHIP AUDIT
+**Local key provenance:**
 
-The audited provisional 2026 routing ledger carries one Topic 10 objective demand: Amur Falcon migration to Doyang Lake and community-based conservation. The provisional answer key is not recorded or inferred.
+`C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf`,
+Series A, page 1, Q27.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Key label:** **PROVISIONAL OFFICIAL SET-A KEY: A — not a final key.**
 
-#### 9. PYQ application
+**Question:** Which of the following statements with regard to the arrival of Amur Falcons at
+Doyang Lake in Nagaland each year from Mongolia is/are correct?
 
-- ⚠️ Recurring Prelims pattern: identify CMS's distinct focus (range-state, migratory-
-  species cooperation) versus CITES (trade regulation) and Ramsar (wetland-specific).
-- ⚠️ Mains linkage: the Central Asian Flyway and dugong examples are used to argue for
-  transboundary cooperation as essential to migratory-species conservation.
+1. It showcases how sustained local conservation efforts can contribute to the arrival and
+   protection of international migratory birds.
+2. It reflects the global success of advanced tracking technologies that guide migratory birds
+   back to their stopover sites.
+3. It confirms that Amur Falcons have adapted to permanent residency in India due to favourable
+   habitat changes.
 
-#### 2026 PYQ Integration
+Select the answer using the code given below:
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+A. 1 only
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+B. 1 and 2
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 27 | Amur Falcon migration to Doyang Lake and community-based conservation | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+C. 2 and 3
 
-##### What this owner must now support
+D. 3 only
 
-- Amur Falcon migration to Doyang Lake and community-based conservation
+**Provisional answer: A**
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+**Explanation:** Statement 1 is correct: sustained enforcement and community engagement can make
+a recurring stopover safer. Statement 2 is false because tracking technology records movement; it
+does not guide wild birds back. Statement 3 is false because annual stopover migration does not
+establish permanent Indian residency.
 
-#### 10. PYQ-based analytical application
+**Why this earns marks:** The solution distinguishes observation from causation, migration from
+residency, and local implementation from the wider range-state framework.
 
-- ⚠️ Prelims questions distinguishing CMS Appendix I/II obligations from Agreements/MOUs
-  should be solved by applying the graduated binding-versus-voluntary toolkit logic.
-- ⚠️ Mains answers on migratory-species conservation should explicitly identify whether the
-  cited threat is a range-state-coordination problem (requiring CMS-type cooperation) or a
-  domestic-implementation problem (requiring purely national fixes) to show precise
-  analytical framing.
+---
 
-### ORIGINAL MAINS 1 — 10 MARKS
+## ORIGINAL MAINS PRACTICE
 
-**Question:** Define a CMS migratory species, its range and a Range State. Answer in about 150 words.
+### Original Mains 1 — 10 marks
 
-**Model thesis:** **Claim:** Migratory-species test. **Named evidence/example:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range definition. **Named evidence/example:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range State definition. **Named evidence/example:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Question:** Explain the legal character and purpose of the Bonn Convention. How does its concept
+of a “Range State” expand responsibility beyond breeding and wintering countries?
 
-**Claim → named evidence → analysis → qualification:**
+**Answer in 150 words.**
 
-- The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-- A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-- A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
+**Model answer (150 words):**
 
-**Qualified conclusion:** **Claim:** Migratory-species test. **Named evidence/example:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range definition. **Named evidence/example:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range State definition. **Named evidence/example:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+CMS, or the Bonn Convention, is a binding UNEP-aegis treaty conserving migratory wild animals and
+habitats throughout their range. Its premise is that a population crossing jurisdictions cannot
+be secured by one State protecting only an endpoint.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Define a CMS migratory species, its range and a Range State. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+The treaty defines range broadly: land or water inhabited, temporarily used, crossed or overflown
+on the normal route. A Range State is therefore any State exercising jurisdiction over any part of
+that range, not merely a breeding or wintering country. The definition also covers a State whose
+flag vessels take the species beyond national jurisdiction.
 
-**Detailed examiner-grade model answer:**
+This widens responsibility to passage States, stopover hosts and relevant flag States. Each may
+control a decisive threat—habitat loss, hunting, barriers or bycatch. CMS consequently combines
+Appendix duties with international instruments and domestic implementation. Its value lies in
+making conservation correspond to life-cycle geography; its limitation is that legal coverage
+still requires coordinated enforcement, finance and monitoring.
 
-**Introduction and thesis:** **Claim:** Migratory-species test. **Named evidence/example:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range definition. **Named evidence/example:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range State definition. **Named evidence/example:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Why this earns marks:** It defines the treaty, reproduces both limbs of Range State, explains
+their ecological significance and ends with a qualified implementation verdict.
 
-**Analytical body:**
+---
 
-1. **Claim and named evidence:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### Original Mains 2 — 10 marks
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Question:** Distinguish CMS from CITES, Ramsar, CBD and India’s Wild Life (Protection) Act.
+Why can all five apply to one migratory species?
 
-**Qualified conclusion:** **Claim:** Migratory-species test. **Named evidence/example:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range definition. **Named evidence/example:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range State definition. **Named evidence/example:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Answer in 150 words.**
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+**Model answer (149 words):**
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+The five regimes regulate different objects. CMS addresses migratory animals across their range
+through Range-State duties, Appendices and instruments. CITES controls international trade in
+listed specimens through permits. Ramsar covers wetland designation and wise use. CBD frames
+biodiversity conservation, sustainable use and benefit-sharing. India’s Wild Life (Protection)
+Act creates domestic prohibitions, schedules, protected areas and enforcement powers.
 
-**How to improve this answer:** For “Define a CMS migratory species, its range and a Range State. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+They can overlap without becoming substitutes. A marine turtle may require CMS or IOSEA
+cooperation across nesting, feeding and oceanic areas; CITES controls cross-border specimen trade;
+Ramsar may protect a wetland used by the species; CBD shapes national biodiversity planning; and
+the Indian Act penalizes unlawful conduct within India. Fisheries, coastal and environmental
+rules may add bycatch and habitat measures.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+Thus, effective conservation is layered: range cooperation, trade control, site protection,
+biodiversity policy and domestic enforcement must work together. A label under one regime never
+automatically supplies the legal effect of another.
 
-**Question:** Distinguish CMS Appendix I, Appendix II and dual listing. Answer in about 150 words.
+**Why this earns marks:** It compares by regulated object, gives one integrated example and
+states the non-substitution principle clearly.
 
-**Model thesis:** **Claim:** Appendix I. **Named evidence/example:** Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Taking exceptions. **Named evidence/example:** Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix II. **Named evidence/example:** Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Dual listing. **Named evidence/example:** The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+---
 
-**Claim → named evidence → analysis → qualification:**
+### Original Mains 3 — 15 marks
 
-- Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions.
-- Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission.
-- Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I.
-- The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions.
+**Question:** “Migratory-species conservation is a full-annual-cycle connectivity problem.”
+Discuss with reference to flyways, stopovers, barriers, artificial light, noise, bycatch and
+climate change.
 
-**Qualified conclusion:** **Claim:** Appendix I. **Named evidence/example:** Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Taking exceptions. **Named evidence/example:** Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix II. **Named evidence/example:** Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Dual listing. **Named evidence/example:** The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Answer in 250 words.**
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish CMS Appendix I, Appendix II and dual listing. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Model answer (230 words):**
 
-**Detailed examiner-grade model answer:**
+Migration links breeding, staging, passage, stopover and non-breeding sites into one demographic
+system. A flyway is therefore a route-and-site network, while migratory connectivity identifies
+which populations use which seasonal areas. Damage at a short-lived but heavily used stopover can
+reduce body condition, survival and later breeding success; protection of endpoints alone is
+insufficient.
 
-**Introduction and thesis:** **Claim:** Appendix I. **Named evidence/example:** Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Taking exceptions. **Named evidence/example:** Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix II. **Named evidence/example:** Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Dual listing. **Named evidence/example:** The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+Threats operate through different mechanisms. Habitat loss removes feeding or resting capacity.
+Dams and weirs interrupt fish migration; fences, buildings, turbines and power lines can obstruct
+or kill terrestrial and avian migrants. Artificial light can disorient nocturnal birds, insects
+and turtle hatchlings. Anthropogenic noise can mask communication or alter behaviour and
+navigation, especially in marine systems. Fisheries bycatch creates incidental mortality far from
+protected nesting or breeding sites. Climate change shifts food peaks, water regimes, routes and
+coastal suitability, producing phenological mismatch and concentrating animals at fewer refuges.
 
-**Analytical body:**
+The response must be equally connected: identify critical sites and bottlenecks; protect and
+restore a distributed habitat network; make infrastructure route-sensitive; use dark-corridor and
+noise controls; deploy fishery-specific bycatch mitigation; and share telemetry, counts and
+mortality data among Range States. Community protection at Doyang illustrates how one local link
+can be repaired, but it cannot secure the remaining route.
 
-1. **Claim and named evidence:** Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+CMS supplies the cooperative architecture, including Appendix duties, Agreements, MOUs and
+Concerted Actions. Success should be judged through pressure, survival, breeding and population
+trends—not the number of designations adopted.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Why this earns marks:** It explains connectivity, covers every named pressure through mechanism,
+links measures to threats and finishes with an outcome metric.
 
-**Qualified conclusion:** **Claim:** Appendix I. **Named evidence/example:** Appendix I lists endangered migratory species and requires Range States to endeavour to conserve or restore important habitat, address migration obstacles and prohibit taking subject only to precise Convention exceptions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Taking exceptions. **Named evidence/example:** Appendix I exceptions for taking must fit the Convention grounds and remain precise in content and limited in space and time; an exception is not a general permission. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Appendix II. **Named evidence/example:** Appendix II covers migratory species with unfavourable conservation status requiring agreements and species that would significantly benefit from international cooperation; it opens a cooperation route rather than duplicating Appendix I. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Dual listing. **Named evidence/example:** The Convention expressly permits a migratory species to be listed in both Appendix I and Appendix II because strict protection and cooperative agreement serve different functions. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+---
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+### Original Mains 4 — 15 marks
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Question:** Examine the graduated institutional toolkit of CMS. Distinguish Appendix listings,
+binding Agreements, non-binding MOUs and Concerted Actions, and assess the roles of the COP,
+Scientific Council and Secretariat.
 
-**How to improve this answer:** For “Distinguish CMS Appendix I, Appendix II and dual listing. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Answer in 250 words.**
 
-### ORIGINAL MAINS 3 — 15 MARKS
+**Model answer (235 words):**
 
-**Question:** Explain the legal and functional differences among Agreements, MOUs, Action Plans and Concerted Actions. Answer in about 250 words.
+CMS combines treaty duties with instruments of differing legal force. Appendix I lists endangered
+migratory species and requires Party-Range States to protect important habitat, address migration
+obstacles and prohibit taking subject to narrow exceptions. Appendix II covers species requiring
+agreements or significantly benefiting from international cooperation. A species may appear in
+both because protection and cooperation serve different functions.
 
-**Model thesis:** **Claim:** AGREEMENT architecture. **Named evidence/example:** A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Agreement versus MOU. **Named evidence/example:** A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Action Plan boundary. **Named evidence/example:** An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Concerted Action boundary. **Named evidence/example:** CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+A CMS Agreement is a separate legally binding treaty for its Parties. Article V expects
+whole-range coverage, accession by all Range States, national authorities, coordinated plans,
+monitoring and measures concerning habitats, obstacles and illegal taking. A CMS MOU is
+non-legally binding: it can secure quicker and broader cooperation but relies more heavily on
+political commitment, finance and domestic delivery. Action Plans and initiatives require
+instrument-specific reading; their titles do not determine legal force.
 
-**Claim → named evidence → analysis → qualification:**
+Concerted Actions are time-bound priority measures for selected Appendix I and/or II taxa,
+involving multiple Range States. The current mechanism consolidated the earlier separate
+Cooperative Actions track and can support an Article IV instrument or advance measures while one
+is absent.
 
-- A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable.
-- A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists.
-- An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome.
-- CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection.
+Institutionally, the COP decides, reviews implementation and amends Appendices. The Scientific
+Council supplies evidence and recommendations. The UNEP-provided Secretariat in Bonn coordinates,
+services meetings and promotes instruments; it does not prosecute offences.
 
-**Qualified conclusion:** **Claim:** AGREEMENT architecture. **Named evidence/example:** A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Agreement versus MOU. **Named evidence/example:** A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Action Plan boundary. **Named evidence/example:** An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Concerted Action boundary. **Named evidence/example:** CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+The toolkit’s strength is flexibility. Its risk is confusing a listing, signature or plan with
+implementation. Evaluation must trace participation, budget, domestic law, compliance, threat
+reduction and population response.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the legal and functional differences among Agreements, MOUs, Action Plans and…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Why this earns marks:** It separates every legal category, assigns institutional roles and
+balances flexibility against the implementation gap.
 
-**Detailed examiner-grade model answer:**
+---
 
-**Introduction and thesis:** **Claim:** AGREEMENT architecture. **Named evidence/example:** A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Agreement versus MOU. **Named evidence/example:** A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Action Plan boundary. **Named evidence/example:** An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Concerted Action boundary. **Named evidence/example:** CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+### Original Mains 5 — 20 marks
 
-**Analytical body:**
+**Question:** Evaluate India’s role under CMS from Party status and COP13 leadership to the
+Central Asian Flyway Initiative. How should India convert international commitments into domestic
+and regional outcomes?
 
-1. **Claim and named evidence:** A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Answer in 250 words.**
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Model answer (245 words):**
 
-**Qualified conclusion:** **Claim:** AGREEMENT architecture. **Named evidence/example:** A CMS AGREEMENT should cover the whole range, remain open to Range States and address coordinated conservation, monitoring, information exchange, habitat networks and obstacles as applicable. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Agreement versus MOU. **Named evidence/example:** A binding Agreement and a non-binding Memorandum of Understanding must be identified by the exact instrument; neither an Appendix listing nor an Action Plan proves that one of those instruments exists. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Action Plan boundary. **Named evidence/example:** An Action Plan can organise conservation measures for a species or flyway, but its legal and institutional status must be read from the adopting instrument; plan adoption is not a recovery outcome. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Concerted Action boundary. **Named evidence/example:** CMS Concerted Actions prioritise focused cooperative work between COPs; they do not replace Appendix status, an Agreement, an MOU or domestic legal protection. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+India has been a CMS Party since 1 November 1983. Its participation includes four verified,
+non-legally-binding MOUs: Siberian Crane, IOSEA Marine Turtles, Dugong and Raptors. These
+instruments cover birds, coastal habitats and marine fauna but do not, by signature alone, prove
+uniform implementation across the range.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+India’s diplomatic profile rose at COP13, Gandhinagar, in February 2020. The “Gibi” mascot and
+Gandhinagar Declaration foregrounded migratory species and ecological connectivity, while India
+assumed the ensuing COP presidency. Domestically, the MoEFCC National Action Plan for Central
+Asian Flyway birds covered 2018–2023 and should now be cited as historical, not current.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+At COP14, Parties established the Central Asian Flyway Initiative and accepted an India-hosted
+Coordination Unit. COP15 Decision 15.152 requested Range States to support India and the
+Secretariat in setting it up by end-2026. The deadline is an implementation task, not evidence
+that the Unit is already operational or that bird populations have recovered.
 
-**How to improve this answer:** For “Explain the legal and functional differences among Agreements, MOUs, Action Plans and…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+India should now provide transparent staffing and finance; update the flyway work programme;
+connect national wetland, grassland, coastal and protected-area planning; mitigate power-line,
+light, hunting and bycatch risks; standardise monitoring; and institutionalise data-sharing among
+Range States. Domestic law and State agencies must translate CMS commitments into enforceable
+site and threat measures. Community conservation at Doyang shows the value of local ownership,
+while route-wide recovery requires comparable action elsewhere.
 
-### ORIGINAL MAINS 4 — 15 MARKS
+India’s leadership should therefore be judged by a functioning regional institution, protected
+connectivity and measurable survival/population trends—not by hosting, declarations or signatures
+alone.
 
-**Question:** Explain the Central Asian Flyway's status after CMS COP14 without overstating the instrument or outcome. Answer in about 250 words.
+**Why this earns marks:** It uses dated Indian evidence, preserves current-status limits, links
+diplomacy to domestic law and supplies outcome-based recommendations.
 
-**Model thesis:** **Claim:** Central Asian Flyway. **Named evidence/example:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** COP14 initiative. **Named evidence/example:** The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Strategic plan status. **Named evidence/example:** COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+---
 
-**Claim → named evidence → analysis → qualification:**
+### Original Mains 6 — 20 marks
 
-- The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-- The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU.
-- COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved.
+**Question:** CMS has created a sophisticated legal and cooperative architecture, yet many
+migratory populations continue to decline. Analyse this implementation gap and propose an
+accountable range-wide conservation framework.
 
-**Qualified conclusion:** **Claim:** Central Asian Flyway. **Named evidence/example:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** COP14 initiative. **Named evidence/example:** The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Strategic plan status. **Named evidence/example:** COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+**Answer in 250 words.**
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the Central Asian Flyway's status after CMS COP14 without overstating the instrument…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Model answer (242 words):**
 
-**Detailed examiner-grade model answer:**
+CMS addresses a structurally difficult problem: one population depends on several jurisdictions,
+habitats and sectors. The Convention provides Appendix I protection duties, Appendix II
+cooperation, binding Agreements, non-binding MOUs and Concerted Actions. Nevertheless, the COP15
+summary’s 2026 interim assessment reported 49% of CMS-listed populations declining and 24% facing
+global extinction risk.
 
-**Introduction and thesis:** **Claim:** Central Asian Flyway. **Named evidence/example:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** COP14 initiative. **Named evidence/example:** The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Strategic plan status. **Named evidence/example:** COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
+The gap begins with uneven participation and legal force. A strong Agreement may lack complete
+Range-State membership, while a broad MOU may lack enforceability or finance. National laws can
+protect animals yet leave migration corridors outside protected areas. Sectoral decisions on
+dams, transmission, lighting, shipping and fisheries may ignore connectivity. Monitoring is also
+fragmented: telemetry samples individuals, bycatch is under-reported, and population trends may
+lag behind interventions. Climate change shifts routes and timing faster than static site
+networks adapt.
 
-**Analytical body:**
+An accountable framework should follow six links. First, map population-specific routes,
+bottlenecks and future climate refugia. Second, secure connected breeding, stopover and
+non-breeding sites. Third, require threat-specific safeguards—fish passage, collision mitigation,
+dark corridors, noise controls and fishery bycatch measures. Fourth, align CMS instruments with
+enforceable domestic law, budgets and responsible agencies. Fifth, support communities and share
+data, emergency protocols and compliance information among Range States. Sixth, publish common
+indicators: habitat condition, barrier passability, mortality per unit effort, survival, breeding
+success and population trend.
 
-1. **Claim and named evidence:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+COP decisions and Appendix amendments remain necessary agenda-setting tools, but performance
+begins only after implementation. CMS succeeds when legal connectivity produces ecological
+connectivity throughout the full annual cycle.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Central Asian Flyway. **Named evidence/example:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** COP14 initiative. **Named evidence/example:** The official CMS COP14 release states that Samarkand in February 2024 adopted a Central Asian Flyway initiative including a coordinating unit in India with Indian Government financial support; it must be called an initiative, not silently upgraded to an Agreement or MOU. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Strategic plan status. **Named evidence/example:** COP14 adopted the Samarkand Strategic Plan for Migratory Species 2024-2032; adoption establishes targets and direction, not proof that populations, habitats or route safety improved. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Explain the Central Asian Flyway's status after CMS COP14 without overstating the instrument…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Assess migratory-species conservation as a weakest-link problem requiring both international and domestic action. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Range definition. **Named evidence/example:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range State definition. **Named evidence/example:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Weakest-link logic. **Named evidence/example:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Threat classification. **Named evidence/example:** Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon distinction. **Named evidence/example:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places.
-- A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination.
-- Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-- Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures.
-- The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-
-**Qualified conclusion:** **Claim:** Range definition. **Named evidence/example:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range State definition. **Named evidence/example:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Weakest-link logic. **Named evidence/example:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Threat classification. **Named evidence/example:** Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon distinction. **Named evidence/example:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess migratory-species conservation as a weakest-link problem requiring both international…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Range definition. **Named evidence/example:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range State definition. **Named evidence/example:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Weakest-link logic. **Named evidence/example:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Threat classification. **Named evidence/example:** Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon distinction. **Named evidence/example:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Range definition. **Named evidence/example:** A migratory range includes land or water inhabited, used temporarily, crossed or overflown on the normal migration route; breeding and wintering sites are not the only relevant places. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Range State definition. **Named evidence/example:** A Range State exercises jurisdiction over any part of that range, with the Convention text also addressing relevant flag-vessel situations; it is not limited to the breeding State or final destination. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Weakest-link logic. **Named evidence/example:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Threat classification. **Named evidence/example:** Habitat loss, taking, barriers, power lines, light pollution, bycatch and other pressures must be located on the route; some are transboundary coordination failures and others are domestic implementation failures. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon distinction. **Named evidence/example:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Assess migratory-species conservation as a weakest-link problem requiring both international…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Use the Amur Falcon route to build a source-disciplined CMS answer. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Migratory-species test. **Named evidence/example:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Weakest-link logic. **Named evidence/example:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Central Asian Flyway. **Named evidence/example:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon PYQ anchor. **Named evidence/example:** The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon distinction. **Named evidence/example:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CMS-CITES-Ramsar split. **Named evidence/example:** CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Current-listing boundary. **Named evidence/example:** The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough.
-- Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem.
-- The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument.
-- The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key.
-- The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit.
-- CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects.
-- The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source.
-
-**Qualified conclusion:** **Claim:** Migratory-species test. **Named evidence/example:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Weakest-link logic. **Named evidence/example:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Central Asian Flyway. **Named evidence/example:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon PYQ anchor. **Named evidence/example:** The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon distinction. **Named evidence/example:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CMS-CITES-Ramsar split. **Named evidence/example:** CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Current-listing boundary. **Named evidence/example:** The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Use the Amur Falcon route to build a source-disciplined CMS answer. Answer in about 300 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Migratory-species test. **Named evidence/example:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Weakest-link logic. **Named evidence/example:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Central Asian Flyway. **Named evidence/example:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon PYQ anchor. **Named evidence/example:** The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon distinction. **Named evidence/example:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CMS-CITES-Ramsar split. **Named evidence/example:** CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Current-listing boundary. **Named evidence/example:** The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** Migratory-species test. **Named evidence/example:** The CMS Convention text defines a migratory species through a significant proportion of members cyclically and predictably crossing one or more national jurisdictional boundaries; merely moving within one landscape is not enough. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Weakest-link logic. **Named evidence/example:** Because the life cycle spans route segments and jurisdictions, loss at one breeding, stopover, wintering or passage site can undermine protection elsewhere; CMS is a coordination response to that transboundary problem. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Central Asian Flyway. **Named evidence/example:** The flyway is an ecological route and cooperation geography, not itself a species, Appendix or treaty; every claim about its institution, Range States or action plan requires the dated official instrument. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon PYQ anchor. **Named evidence/example:** The provisional 2026 routed demand concerns Amur Falcon migration to Doyang Lake and community-based conservation; it is carried as an answer-free concept anchor without inferring the option key. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Amur Falcon distinction. **Named evidence/example:** The Doyang or Pangti conservation example illustrates protection of a stopover or roost link through local action; it does not by itself prove protection across the species' complete migratory circuit. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** CMS-CITES-Ramsar split. **Named evidence/example:** CMS coordinates migratory-range conservation, CITES regulates international trade and Ramsar concerns wetland wise use and designation; one migratory bird can engage all three without merging their legal effects. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner. **Claim:** Current-listing boundary. **Named evidence/example:** The package does not assert a current species Appendix, Party count, MOU signatory count or post-COP14 action-plan status unless it was substantively retrieved from the dated official source. **Analysis:** This identifies the ecological mechanism, system boundary, state variable and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecosystem, trophic parameter, spatial scale, temporal stage, taxonomic level, legal status and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Use the Amur Falcon route to build a source-disciplined CMS answer. Answer in about 300 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It diagnoses legal, sectoral, data and climate causes; proposes a
+sequenced framework; and uses measurable indicators for a qualified verdict.

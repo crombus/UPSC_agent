@@ -1,1158 +1,866 @@
 ---
-title: "Indian Legal and Institutional Architecture — Solved Practice Workbook"
+title: "Disaster Management 02 — Indian Legal and Institutional Architecture — Solved Practice Workbook"
 topic_key: disaster-management-02
+reviewed: 2026-09-26
 ---
+
 # Indian Legal and Institutional Architecture — Solved Practice Workbook
+
+## PYQ AND PRACTICE AUDIT
+
+- **Original MCQs:** exactly 40.
+- **Correct-option sequence:** `ABCD` repeated ten times.
+- **Coverage:** legal basis, chronology, NDMA/NEC, SDMA/SEC, DDMA/local bodies, NCMC/HLC, UDMA, NDRF/NIDM, plans, databases, regulatory powers, finance, federal delivery and evidence discipline.
+- **Verified direct Mains PYQ:** 2020 GS-III Q18.
+- **Verified shared Mains PYQ:** 2020 GS-II Q11; Polity retains the full federal-balance ownership, while this workbook develops the disaster-law limb.
+- **Verified application Mains PYQ:** 2024 GS-III Q18; Topic 08 retains primary urban-flood ownership.
+- **Verified Prelims PYQs:** none routed to this topic in the audited 2018–2026 central ledgers; therefore no official objective question or answer key is invented.
+- **Wording rule:** question text below is transcribed from local official-paper OCR with only line-break, spacing and obvious OCR punctuation/spelling normalisation, each expressly labelled.
+- **Key rule:** UPSC publishes no official descriptive answer key or model answer. All solutions are instructional models.
+- **Boundary:** the 2026 GS-III community-participation question is directly owned and solved in Topic 03, not duplicated here.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies DM Act foundation?
+### Q1. Which development best represents the institutional shift produced by the Disaster Management Act, 2005?
 
-A. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-B. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-C. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-D. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
+A. It replaced episodic relief administration with permanent authorities and whole-cycle responsibilities at national, State and district levels.
+B. It permanently transferred every disaster-management function from State Governments to a single Union ministry operating through temporary directions.
+C. It confined statutory action to post-impact rescue while leaving mitigation and preparedness outside the legal framework.
+D. It created only a national response force and left policy, planning and local coordination to non-statutory practice.
 
-**Answer: A.**
-**Explanation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q2. Which option preserves the risk or institutional boundary of DM Act foundation?
+- **A — Correct.** The Act institutionalised national, State and district authorities and responsibilities across prevention, mitigation, preparedness, response and recovery.
+- **B — Incorrect.** States and districts retain substantial statutory responsibilities; the architecture is multi-level rather than exclusively Union-controlled.
+- **C — Incorrect.** Pre-disaster risk reduction and preparedness are integral to the Act’s conception of disaster management.
+- **D — Incorrect.** The Act creates authorities, committees, plans, institutes, forces and funds, not merely a national response force.
 
-A. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-B. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-C. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-D. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
+**Examiner trap:** equating “proactive” only with faster rescue instead of a whole-cycle legal system.
 
-**Answer: B.**
-**Explanation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q2. With reference to the constitutional basis described in the canonical source, which statement is most accurate?
 
-### Q3. Which statement uses DM Act foundation without changing its hazard, mandate or status?
+A. Disaster management appears as an exclusive subject in the Union List and therefore leaves no legislative space for States.
+B. It has no dedicated Seventh Schedule entry; the Act’s basis has been linked to Concurrent List Entries 23 and 29.
+C. It is listed only in the State List because rescue, relief and rehabilitation are primarily State responsibilities.
+D. It falls exclusively under the residuary power because infectious-disease control is unrelated to disaster legislation.
 
-A. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-B. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-C. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-D. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
+**Answer: B**
 
-**Answer: C.**
-**Explanation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** “Disaster management” is not a separately named Union List entry.
+- **B — Correct.** The checked canonical source links the Act to Concurrent List Entries 23 and 29 while noting the absence of a dedicated entry.
+- **C — Incorrect.** Primary State responsibility for operations does not create an exclusive State List entry.
+- **D — Incorrect.** Entry 29 expressly concerns prevention of interstate spread of infectious or contagious disease.
 
-### Q4. Which option avoids the standard UPSC close-option trap about DM Act foundation?
+**Examiner trap:** inferring legislative classification from the tier that performs most field operations.
 
-A. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-B. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-C. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-D. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
+### Q3. Consider the following statements about the Disaster Management (Amendment) Act, 2025:
 
-**Answer: D.**
-**Explanation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+1. It received presidential assent and was gazetted on 29 March 2025.
+2. Its provisions came into force on 9 April 2025.
+3. It inserted statutory provisions for NCMC, HLC, UDMA and State Disaster Response Force.
 
-### Q5. Which statement correctly identifies Current amendment status?
+Which of the statements given above are correct?
 
-A. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-B. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-C. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-D. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
+A. Only statements 1 and 2
+B. Only statements 2 and 3
+C. Statements 1, 2 and 3
+D. Only statement 1
 
-**Answer: A.**
-**Explanation:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q6. Which option preserves the risk or institutional boundary of Current amendment status?
+- **A — Incorrect.** Statement 3 is also correct.
+- **B — Incorrect.** Statement 1 is also verified by the official Gazette.
+- **C — Correct.** All three statements match the official Act and commencement notification.
+- **D — Incorrect.** The commencement date and inserted institutional provisions are also correct.
 
-A. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-B. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-C. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-D. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
+**Examiner trap:** continuing to describe the 2025 measure as a pending Bill after commencement.
 
-**Answer: B.**
-**Explanation:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q4. Which statement reflects the amended statutory boundary concerning a “disaster”?
 
-### Q7. Which statement uses Current amendment status without changing its hazard, mandate or status?
+A. Every public-order disturbance is automatically a man-made disaster whenever property damage occurs.
+B. Law-and-order events fall within the Act only when a State Government has first constituted a UDMA.
+C. NCMC’s national role alone converts any security incident with interstate effects into a disaster under the Act.
+D. The expression “man made causes” excludes a law-and-order matter or a situation arising from such a matter.
 
-A. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-B. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-C. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-D. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** The amendment expressly excludes the stated law-and-order category.
+- **B — Incorrect.** UDMA constitution has no bearing on the statutory exclusion.
+- **C — Incorrect.** NCMC’s role in major disasters does not erase the law-and-order boundary.
+- **D — Correct.** This is the amended explanation attached to the definition of disaster.
 
-### Q8. Which option avoids the standard UPSC close-option trap about Current amendment status?
+**Examiner trap:** treating administrative escalation and statutory subject-matter coverage as the same question.
 
-A. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-B. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-C. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-D. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
+### Q5. Which pairing correctly identifies NDMA’s institutional character?
 
-**Answer: D.**
-**Explanation:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Prime Minister-chaired apex authority responsible for national policy, guidelines and plan approval/coordination.
+B. Union Home Secretary-chaired executive committee responsible for routine national coordination and monitoring across ministries.
+C. Cabinet Secretary-chaired crisis body limited to disasters with serious or national ramifications.
+D. Union Home Minister-chaired advisory platform representing States, mayors, legislators and other stakeholders.
 
-### Q9. Which statement correctly identifies NDMA?
+**Answer: A**
 
-A. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-B. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-C. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-D. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
+- **A — Correct.** It states NDMA’s chair and apex policy/plan role.
+- **B — Incorrect.** This describes NEC.
+- **C — Incorrect.** This describes NCMC.
+- **D — Incorrect.** This describes the broad character of NPDRR, not NDMA.
 
-**Answer: A.**
-**Explanation:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** matching a familiar chairperson to the wrong national body.
 
-### Q10. Which option preserves the risk or institutional boundary of NDMA?
+### Q6. The National Executive Committee is best described as:
 
-A. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-B. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-C. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-D. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
+A. the Prime Minister-chaired body that exercises general superintendence over NDRF.
+B. the Union Home Secretary-chaired body for national coordination, monitoring and response.
+C. the Union Home Minister-chaired committee approving all State and district disaster plans.
+D. the Cabinet Secretary-chaired body created solely to release mitigation finance to States.
 
-**Answer: B.**
-**Explanation:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q11. Which statement uses NDMA without changing its hazard, mandate or status?
+- **A — Incorrect.** The first description belongs to NDMA.
+- **B — Correct.** NEC is the executive coordination and monitoring body chaired by the Union Home Secretary.
+- **C — Incorrect.** The Union Home Minister does not chair NEC, and plan approval is not described accurately.
+- **D — Incorrect.** HLC concerns specified financial assistance; NCMC is Cabinet Secretary-chaired.
 
-A. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-B. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-C. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-D. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
+**Examiner trap:** assuming every “national” body has the same chair and mandate.
 
-**Answer: C.**
-**Explanation:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q7. Which statement about the National Crisis Management Committee is correct?
 
-### Q12. Which option avoids the standard UPSC close-option trap about NDMA?
+A. It is the permanent field-command wing of NDRF and is headed by the Director General, NDRF.
+B. It replaces NDMA whenever a State seeks financial assistance from a national disaster fund.
+C. Section 8A makes it the Cabinet Secretary-chaired nodal body for major disasters with national ramifications.
+D. Section 41A empowers every Municipal Commissioner to constitute it without a State notification or Cabinet approval.
 
-A. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-B. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-C. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-D. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** NCMC is a coordinating committee, not NDRF’s operational command.
+- **B — Incorrect.** It does not replace NDMA, and HLC addresses specified assistance decisions.
+- **C — Correct.** This states section 8A’s current legal position.
+- **D — Incorrect.** Section 41A concerns UDMAs and requires State action.
 
-### Q13. Which statement correctly identifies NEC?
+**Examiner trap:** confusing a crisis-escalation committee with a response force or financial committee.
 
-A. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-B. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-C. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-D. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
+### Q8. Under section 8B, the High Level Committee primarily:
 
-**Answer: A.**
-**Explanation:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. prepares the National Plan and reviews it every three years.
+B. maintains the national disaster database and publishes district risk registers.
+C. commands specialist response forces deployed across more than one State.
+D. approves section 46 response assistance to States and section 47 mitigation assistance.
 
-### Q14. Which option preserves the risk or institutional boundary of NEC?
+**Answer: D**
 
-A. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-B. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-C. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-D. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
+- **A — Incorrect.** National-plan responsibility belongs to NDMA under the amended Act.
+- **B — Incorrect.** Database creation is assigned to NDMA, with State inputs.
+- **C — Incorrect.** HLC is not a response-force command body.
+- **D — Correct.** This is the statutory financial role assigned by section 8B.
 
-**Answer: B.**
-**Explanation:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** reading “High Level” as a general power over all disaster institutions.
 
-### Q15. Which statement uses NEC without changing its hazard, mandate or status?
+### Q9. Which statement correctly describes the State Disaster Management Authority?
 
-A. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-B. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-C. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-D. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
+A. It is chaired by the Chief Minister and coordinates preparation and approval of the State Plan.
+B. It is chaired by the Chief Secretary and serves only as the State’s incident-response control room.
+C. It is chaired by the Governor and approves the National Plan for application within the State.
+D. It is chaired by the District Collector and supervises all municipal corporations across the State.
 
-**Answer: C.**
-**Explanation:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q16. Which option avoids the standard UPSC close-option trap about NEC?
+- **A — Correct.** SDMA is Chief Minister-chaired and has State policy and plan responsibilities.
+- **B — Incorrect.** The Chief Secretary chairs SEC, whose functions are broader than a control room.
+- **C — Incorrect.** The Governor does not chair SDMA, and the National Plan is not approved by a State body.
+- **D — Incorrect.** The District Collector heads the DDMA, not SDMA.
 
-A. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-B. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-C. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-D. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
+**Examiner trap:** swapping the authority and executive-committee chairpersons.
 
-**Answer: D.**
-**Explanation:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q10. Which amended feature belongs to the State Executive Committee?
 
-### Q17. Which statement correctly identifies SDMA?
+A. The Municipal Commissioner became its ex officio Chairperson.
+B. The State Director General of Police became an ex officio member.
+C. The elected local-authority representative became its statutory Co-Chairperson.
+D. The Cabinet Secretary became its Chairperson for disasters crossing State boundaries.
 
-A. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-B. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-C. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-D. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** The Municipal Commissioner chairs a constituted UDMA.
+- **B — Correct.** The 2025 amendment added the State DGP as an ex officio SEC member.
+- **C — Incorrect.** The elected local representative is associated with DDMA co-chairing.
+- **D — Incorrect.** SEC remains Chief Secretary-chaired.
 
-### Q18. Which option preserves the risk or institutional boundary of SDMA?
+**Examiner trap:** attaching an amendment to the wrong tier.
 
-A. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-B. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-C. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-D. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
+### Q11. Which description of a District Disaster Management Authority is correct?
 
-**Answer: B.**
-**Explanation:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. It is a Union-appointed regional office applying one plan across several States and reporting to Parliament.
+B. It is a municipal body chaired by the Mayor and limited to urban flood management.
+C. It is Collector/DM/DC-headed, has an elected local-body Co-Chairperson and prepares the District Plan.
+D. It is a training institute that supports DDMAs but has no district planning role of its own.
 
-### Q19. Which statement uses SDMA without changing its hazard, mandate or status?
+**Answer: C**
 
-A. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-B. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-C. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-D. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
+- **A — Incorrect.** DDMA is a district statutory authority, not a Union regional office.
+- **B — Incorrect.** This neither describes DDMA nor the current UDMA composition.
+- **C — Correct.** It captures the district chair, local representative and plan role.
+- **D — Incorrect.** Training and research describe NIDM.
 
-**Answer: C.**
-**Explanation:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** reducing DDMA to a Collector’s temporary response meeting.
 
-### Q20. Which option avoids the standard UPSC close-option trap about SDMA?
+### Q12. Which activity is most directly attributable to a local authority under the Act?
 
-A. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-B. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-C. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-D. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
+A. Approving the National Plan after consulting all State Governments.
+B. Exercising NDRF superintendence and supervising each notified State response force.
+C. Granting national mitigation assistance under section 47.
+D. Training staff, maintaining resources and carrying out assigned local disaster functions.
 
-**Answer: D.**
-**Explanation:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q21. Which statement correctly identifies SEC?
+- **A — Incorrect.** This is a national authority function.
+- **B — Incorrect.** This belongs to NDMA.
+- **C — Incorrect.** HLC approves specified mitigation assistance.
+- **D — Correct.** Local authorities have personnel, resource, planning and implementation duties closest to communities.
 
-A. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-B. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-C. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-D. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
+**Examiner trap:** treating local bodies only as beneficiaries rather than statutory actors.
 
-**Answer: A.**
-**Explanation:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q13. Which statement about an Urban Disaster Management Authority is correct?
 
-### Q22. Which option preserves the risk or institutional boundary of SEC?
+A. A State may notify it; the Municipal Commissioner chairs and the District Collector is Vice-Chairperson.
+B. It comes into existence automatically in every city on commencement of section 41A and is chaired by the Mayor.
+C. It is compulsory only for Delhi and Chandigarh because those territories lack a State Disaster Management Authority.
+D. It prepares a National Urban Plan that requires approval from the National Executive Committee.
 
-A. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-B. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-C. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-D. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Correct.** This accurately states section 41A’s enabling character and composition.
+- **B — Incorrect.** Constitution is not automatic and the statutory chair is the Municipal Commissioner.
+- **C — Incorrect.** NCT Delhi and UT Chandigarh are expressly excluded from section 41A.
+- **D — Incorrect.** It prepares an Urban Plan approved by the State Authority.
 
-### Q23. Which statement uses SEC without changing its hazard, mandate or status?
+**Examiner trap:** converting “may constitute” into a universal, self-executing mandate.
 
-A. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-B. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-C. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-D. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
+### Q14. Section 44A of the current Act:
 
-**Answer: C.**
-**Explanation:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. requires NDMA to create a national specialist force for every category of hazard.
+B. permits a State to notify a specialist State Disaster Response Force.
+C. converts the State Disaster Response Fund into a uniformed response organisation.
+D. places every existing State police unit under the Director General of the national force.
 
-### Q24. Which option avoids the standard UPSC close-option trap about SEC?
+**Answer: B**
 
-A. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-B. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-C. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-D. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
+- **A — Incorrect.** The national force exists under section 44; section 44A concerns States.
+- **B — Correct.** The provision is enabling and notification-dependent.
+- **C — Incorrect.** A financial fund cannot be converted into a force by acronym.
+- **D — Incorrect.** The provision does not create that blanket command relationship.
 
-**Answer: D.**
-**Explanation:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** missing both the permissive verb and the force–fund distinction.
 
-### Q25. Which statement correctly identifies DDMA?
+### Q15. NIDM’s core institutional role is:
 
-A. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-B. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-C. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-D. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
+A. approving national assistance and auditing State relief expenditure after severe disasters.
+B. commanding NDRF battalions and directing State police during multi-State deployments.
+C. training, research, documentation, human-resource development and policy advocacy.
+D. preparing every District Plan, approving Urban Plans and auditing local expenditure.
 
-**Answer: A.**
-**Explanation:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q26. Which option preserves the risk or institutional boundary of DDMA?
+- **A — Incorrect.** Specified assistance approval belongs to HLC.
+- **B — Incorrect.** NIDM is not a response-force command body.
+- **C — Correct.** These are its central capacity-building functions.
+- **D — Incorrect.** DDMAs prepare District Plans; NIDM supports capacity rather than replacing them.
 
-A. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-B. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-C. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-D. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
+**Examiner trap:** treating every institution under the Act as an operational response agency.
 
-**Answer: B.**
-**Explanation:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q16. Which statement correctly distinguishes NDRF’s governance from its field command?
 
-### Q27. Which statement uses DDMA without changing its hazard, mandate or status?
+A. Both general superintendence and operational command vest in the Union Home Secretary as NEC Chair.
+B. Both functions vest in NIDM because training and response are combined under one institution.
+C. General superintendence vests in the Cabinet Committee on Security, while command rests with SDMAs.
+D. NDMA holds general superintendence, while the Director General holds command and supervision.
 
-A. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-B. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-C. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-D. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** NEC does not hold both roles.
+- **B — Incorrect.** NIDM and NDRF have distinct mandates.
+- **C — Incorrect.** CCS and SDMAs do not hold the stated force-command arrangement.
+- **D — Correct.** It preserves the statutory oversight–command distinction.
 
-### Q28. Which option avoids the standard UPSC close-option trap about DDMA?
+**Examiner trap:** assuming oversight and operational command must vest in the same office.
 
-A. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-B. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-C. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-D. The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
+### Q17. Which pair is correctly matched?
 
-**Answer: D.**
-**Explanation:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. NDRF force—specialist responders; NDRF fund—national disaster-finance window.
+B. NDRF force—mitigation finance; NDRF fund—uniformed rescue and medical teams.
+C. State Disaster Response Force—section 48 fund; State Disaster Response Fund—section 44A unit.
+D. NIDM—national relief-finance institute; NDMA—specialist training and deployment battalion.
 
-### Q29. Which statement correctly identifies Local authorities?
+**Answer: A**
 
-A. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-B. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-C. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-D. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
+- **A — Correct.** It separates the identically abbreviated force and fund.
+- **B — Incorrect.** It reverses their functions.
+- **C — Incorrect.** Section 44A concerns the force; section 48 concerns funds.
+- **D — Incorrect.** NIDM is an institute and NDMA is the apex authority.
 
-**Answer: A.**
-**Explanation:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** allowing a shared acronym to erase legal identity.
 
-### Q30. Which option preserves the risk or institutional boundary of Local authorities?
+### Q18. After the 2025 amendment, which allocation of plan responsibility is correct?
 
-A. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-B. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-C. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-D. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
+A. NEC prepares and approves the National Plan; SEC prepares and approves the State Plan.
+B. NDMA owns National Plan coordination/approval; SDMA owns State Plan coordination/approval.
+C. NCMC prepares the National Plan; HLC approves all State Plans after examining financial viability.
+D. NIDM prepares both plans; NDMA and SDMA only monitor training and research.
 
-**Answer: B.**
-**Explanation:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q31. Which statement uses Local authorities without changing its hazard, mandate or status?
+- **A — Incorrect.** It repeats the earlier arrangement and ignores the amended shift to the Authorities.
+- **B — Correct.** This is the current division under amended sections 11 and 23.
+- **C — Incorrect.** NCMC and HLC do not own these plans.
+- **D — Incorrect.** NIDM is not the statutory plan-preparation authority.
 
-A. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-B. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-C. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-D. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
+**Examiner trap:** memorising the unamended plan architecture.
 
-**Answer: C.**
-**Explanation:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q19. Which plan-review statement is correct under the amended Act?
 
-### Q32. Which option avoids the standard UPSC close-option trap about Local authorities?
+A. National and State Plans must be updated every year, while District Plans have no statutory review cycle.
+B. National and State Plans are reviewed every five years and updated every three years.
+C. National and State Plans are reviewed once every three years and updated at least once every five years.
+D. Only the National Plan has a review rule; State and District Plans depend entirely on executive instructions.
 
-A. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-B. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-C. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-D. Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** The current Act provides different, express review/update cycles.
+- **B — Incorrect.** It reverses review and update periods.
+- **C — Correct.** This is the amended rule for National and State Plans.
+- **D — Incorrect.** State and District Plans also have statutory provisions.
 
-### Q33. Which statement correctly identifies NDRF force?
+**Examiner trap:** reversing “review” and “update.”
 
-A. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-B. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-C. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-D. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
+### Q20. The District Plan must now be reviewed:
 
-**Answer: A.**
-**Explanation:** The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. once every five years, with no power to review sooner.
+B. annually, exactly as required by the original unamended section.
+C. only after NDMA declares a nationally significant disaster.
+D. at least once every two years, or earlier when necessary.
 
-### Q34. Which option preserves the risk or institutional boundary of NDRF force?
+**Answer: D**
 
-A. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-B. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-C. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-D. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
+- **A — Incorrect.** Five years is not the amended district rule.
+- **B — Incorrect.** The amendment replaced the annual wording.
+- **C — Incorrect.** District review is not conditioned on a national declaration.
+- **D — Correct.** This is the amended section 31 requirement.
 
-**Answer: B.**
-**Explanation:** The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** carrying forward the original annual rule after amendment.
 
-### Q35. Which statement uses NDRF force without changing its hazard, mandate or status?
+### Q21. The statutory definition of “disaster database” includes:
 
-A. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-B. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-C. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-D. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
+A. assessments, fund allocation and expenditure, plans, risk registers and policy-determined matters.
+B. only meteorological observations, climate models and forecasts archived by IMD after severe weather.
+C. only beneficiary lists prepared after relief payments from State and national response funds.
+D. confidential military intelligence concerning disasters with security implications.
 
-**Answer: C.**
-**Explanation:** The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q36. Which option avoids the standard UPSC close-option trap about NDRF force?
+- **A — Correct.** These components appear in section 2(da).
+- **B — Incorrect.** The definition is much broader than meteorological records.
+- **C — Incorrect.** Relief-beneficiary data alone do not exhaust the statutory scope.
+- **D — Incorrect.** The definition is not a military-intelligence provision.
 
-A. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-B. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-C. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-D. The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
+**Examiner trap:** reducing disaster data to forecasts or post-event loss lists.
 
-**Answer: D.**
-**Explanation:** The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q22. Which assignment of database responsibility is correct?
 
-### Q37. Which statement correctly identifies NDRF fund?
+A. NEC creates the national database, while DDMAs alone maintain all State inputs.
+B. NDMA creates the national database; SDMAs maintain State databases and provide inputs to it.
+C. NIDM creates both databases and publishes district risk registers without any role for statutory authorities.
+D. HLC creates the database only after approving a State’s claim for financial assistance.
 
-A. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-B. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-C. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-D. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** The amended provisions assign the duties to NDMA and SDMAs.
+- **B — Correct.** Sections 6(2)(v) and 18(2)(p) create this national–State relationship.
+- **C — Incorrect.** NIDM’s capacity role does not replace the statutory database duties.
+- **D — Incorrect.** HLC’s assistance role is separate from database creation.
 
-### Q38. Which option preserves the risk or institutional boundary of NDRF fund?
+**Examiner trap:** confusing the user of information with the legally assigned database owner.
 
-A. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-B. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-C. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-D. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
+### Q23. Hazard-wise nodal departments under the amended Act are intended to:
 
-**Answer: B.**
-**Explanation:** The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. replace State and district authorities during a notified emergency and assume their planning powers.
+B. confine departmental responsibility nationwide to relief accounts prepared after losses have been formally assessed.
+C. cover monitoring, warning, prevention, mitigation, preparedness and capacity building for assigned hazards.
+D. decide compensation disputes and impose penalties after each formally notified disaster event.
 
-### Q39. Which statement uses NDRF fund without changing its hazard, mandate or status?
+**Answer: C**
 
-A. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-B. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-C. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-D. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
+- **A — Incorrect.** Nodal departments operate within, not instead of, the wider architecture.
+- **B — Incorrect.** Their mandate spans pre-disaster functions.
+- **C — Correct.** It reflects the amended hazard-specific responsibility.
+- **D — Incorrect.** They are administrative lead departments, not courts.
 
-**Answer: C.**
-**Explanation:** The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** interpreting “nodal” as exclusive or judicial authority.
 
-### Q40. Which option avoids the standard UPSC close-option trap about NDRF fund?
+### Q24. Which statement about section 60A is correct?
 
-A. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-B. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-C. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-D. The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
+A. It permanently transfers municipal regulatory powers to NDMA for the duration of every notified disaster plan.
+B. It authorises NCMC to imprison persons who disregard an evacuation advisory.
+C. It permits only the Central Government to issue an indefinite hazard-related order.
+D. It permits Central or State hazard-action orders lasting the specified period or at most six months.
 
-**Answer: D.**
-**Explanation:** The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q41. Which statement correctly identifies NIDM?
+- **A — Incorrect.** The section concerns temporary hazard-related action, not permanent municipal transfer.
+- **B — Incorrect.** NCMC is not given the stated criminal power.
+- **C — Incorrect.** Both Central and State Governments may act, and duration is limited.
+- **D — Correct.** The notified penalty is also capped at ₹10,000.
 
-A. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-B. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-C. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-D. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
+**Examiner trap:** overlooking the issuing authority, limited duration and monetary cap.
 
-**Answer: A.**
-**Explanation:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q25. Section 76A empowers:
 
-### Q42. Which option preserves the risk or institutional boundary of NIDM?
+A. NDMA, with prior Central approval, to make regulations consistent with the Act and rules.
+B. every DDMA to amend the Act through district regulations during an emergency.
+C. NIDM to issue binding criminal procedure for all disaster-related offences.
+D. HLC to revise fund-sharing ratios through executive resolution without government approval or Gazette notification.
 
-A. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-B. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-C. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-D. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Correct.** This is the regulation-making power inserted for the National Authority.
+- **B — Incorrect.** A district authority cannot amend an Act of Parliament.
+- **C — Incorrect.** NIDM has no such criminal-law power.
+- **D — Incorrect.** HLC’s statutory assistance role does not include unilateral law-making.
 
-### Q43. Which statement uses NIDM without changing its hazard, mandate or status?
+**Examiner trap:** treating regulations as equivalent to primary legislation.
 
-A. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-B. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-C. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-D. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
+### Q26. Which statement correctly describes the statutory fund architecture?
 
-**Answer: C.**
-**Explanation:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Sections 46 and 47 create only State funds, while section 48 creates the two national funds.
+B. Sections 46–47 create national response/mitigation funds; section 48 covers State and district counterparts.
+C. Section 44A creates State response and mitigation funds, fixes annual allocations and also establishes the optional force.
+D. The Act recognises response funds but contains no statutory mitigation-fund provision.
 
-### Q44. Which option avoids the standard UPSC close-option trap about NIDM?
+**Answer: B**
 
-A. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-B. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-C. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-D. NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
+- **A — Incorrect.** It reverses the national and State/district provisions.
+- **B — Correct.** This is the correct section mapping.
+- **C — Incorrect.** Section 44A concerns a specialist force.
+- **D — Incorrect.** Sections 47 and 48 expressly address mitigation funds.
 
-**Answer: D.**
-**Explanation:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** remembering “fund” without its level, purpose and section.
 
-### Q45. Which statement correctly identifies NCMC and HLC?
+### Q27. Which finding best captures the current district-finance implementation gap?
 
-A. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-B. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-C. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-D. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
+A. The Act omits district funds and directs DDMAs to depend entirely on national relief grants.
+B. District funds operate nationwide, but the Act bars their use for mitigation and preparedness.
+C. Section 48 contemplates district funds, but the Sixteenth Finance Commission reported them as the exception.
+D. District funds ceased when the 2025 amendment gave HLC assistance powers and transferred district balances to Union control.
 
-**Answer: A.**
-**Explanation:** Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q46. Which option preserves the risk or institutional boundary of NCMC and HLC?
+- **A — Incorrect.** The statutory text contemplates both district windows.
+- **B — Incorrect.** Universal operationalisation is not established.
+- **C — Correct.** It distinguishes drafting from implementation.
+- **D — Incorrect.** HLC’s statutory recognition did not abolish section 48 funds.
 
-A. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-B. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-C. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-D. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
+**Examiner trap:** calling an implementation deficit a legislative omission.
 
-**Answer: B.**
-**Explanation:** Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q28. The National Policy on Disaster Management, 2009 is associated with:
 
-### Q47. Which statement uses NCMC and HLC without changing its hazard, mandate or status?
+A. replacing every State Plan with a single national emergency manual.
+B. limiting disaster policy to relief standards and compensation schedules.
+C. creating the first National Plan and requiring NDMA approval every five years under Sendai.
+D. a safe, disaster-resilient India built through prevention, mitigation, preparedness and response.
 
-A. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-B. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-C. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-D. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** State planning remains integral to the architecture.
+- **B — Incorrect.** The policy vision is broader than relief and compensation.
+- **C — Incorrect.** The first NDMP was issued in 2016, not 2009.
+- **D — Correct.** This reflects the policy’s stated vision in the canonical source.
 
-### Q48. Which option avoids the standard UPSC close-option trap about NCMC and HLC?
+**Examiner trap:** confusing policy date, plan date and statutory date.
 
-A. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-B. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-C. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-D. Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
+### Q29. Which chronology is correct?
 
-**Answer: D.**
-**Explanation:** Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. DM Act 2005 → NPDM 2009 → first NDMP 2016 → revised NDMP 2019 → Amendment Act 2025.
+B. NPDM 2005 → DM Act 2009 → revised NDMP 2016 → first NDMP 2019 → Amendment Act 2025.
+C. DM Act 2005 → first NDMP 2009 → NPDM 2016 → revised NDMP 2019 → Amendment Act 2025.
+D. DM Act 2005 → Amendment Act 2009 → NPDM 2016 → first NDMP 2019 → revised NDMP 2025.
 
-### Q49. Which statement correctly identifies Urban authority?
+**Answer: A**
 
-A. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-B. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-C. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-D. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
+- **A — Correct.** It preserves the verified statutory, policy and plan sequence.
+- **B — Incorrect.** It misdates both the Act and policy and reverses the plan editions.
+- **C — Incorrect.** NPDM preceded the first NDMP.
+- **D — Incorrect.** There was no 2009 amendment in this sequence and NDMP 2019 was a revision.
 
-**Answer: A.**
-**Explanation:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** treating policy, plan and Act as interchangeable documents.
 
-### Q50. Which option preserves the risk or institutional boundary of Urban authority?
+### Q30. Which set reproduces the five broad thematic areas attributed to the first NDMP?
 
-A. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-B. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-C. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-D. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
+A. Rescue, compensation, criminal enforcement, insurance and international assistance.
+B. Risk understanding, coordination, structural and non-structural DRR investment, and capacity development.
+C. Forecasting, evacuation, relief camps, rehabilitation and judicial review.
+D. Risk transfer, market regulation, fiscal devolution, urban planning and security management.
 
-**Answer: B.**
-**Explanation:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q51. Which statement uses Urban authority without changing its hazard, mandate or status?
+- **A — Incorrect.** It substitutes a relief/legal list for the plan’s thematic organisation.
+- **B — Correct.** These are the five areas recorded in the canonical source.
+- **C — Incorrect.** These are useful activities but not the stated five-part framework.
+- **D — Incorrect.** The list mixes cross-sector concepts not presented as the plan’s five areas.
 
-A. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-B. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-C. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-D. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
+**Examiner trap:** choosing a plausible disaster-cycle list instead of the named plan framework.
 
-**Answer: C.**
-**Explanation:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q31. The canonical source’s reference to eighteen broad response activities is best understood as:
 
-### Q52. Which option avoids the standard UPSC close-option trap about Urban authority?
+A. eighteen separate disasters that automatically trigger national financial assistance.
+B. eighteen statutory authorities created by the 2025 amendment.
+C. a scalable response matrix extending assigned roles to Panchayat and ULB levels.
+D. eighteen mandatory NDRF battalions fixed permanently by the National Plan.
 
-A. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-B. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-C. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-D. Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** The number concerns activities, not a notified-disaster list.
+- **B — Incorrect.** The amendment did not create eighteen authorities.
+- **C — Correct.** This is how the canonical source characterises the response matrix.
+- **D — Incorrect.** Plan activities and force strength are unrelated.
 
-### Q53. Which statement correctly identifies State response force?
+**Examiner trap:** attaching a remembered number to the wrong institutional object.
 
-A. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-B. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-C. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-D. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
+### Q32. Which current-capacity statement is supported by the MHA reply of 22 July 2025?
 
-**Answer: A.**
-**Explanation:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. NDRF had twelve operational battalions and no sanctioned strength was reported.
+B. Every State had already constituted a section 44A specialist force.
+C. NDRF had eighteen operational battalions with 16,000 sanctioned personnel.
+D. NDRF had sixteen operational battalions with a sanctioned strength of 18,581.
 
-### Q54. Which option preserves the risk or institutional boundary of State response force?
+**Answer: D**
 
-A. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-B. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-C. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-D. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
+- **A — Incorrect.** Twelve is the older document-period figure.
+- **B — Incorrect.** The reply does not establish universal State-force constitution.
+- **C — Incorrect.** Both figures are wrong.
+- **D — Correct.** These are the dated official figures.
 
-**Answer: B.**
-**Explanation:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** treating an older book figure as current or converting sanctioned strength into deployed strength.
 
-### Q55. Which statement uses State response force without changing its hazard, mandate or status?
+### Q33. Which statement most accurately captures responsibility during a severe natural disaster?
 
-A. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-B. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-C. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-D. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
+A. States hold primary responsibility; Union support supplements them when needs exceed State capacity.
+B. The Union assumes exclusive responsibility immediately after the first NDRF team is pre-positioned.
+C. DDMA loses its statutory role whenever NCMC treats a disaster as nationally significant.
+D. Local authorities act only after Parliament passes a hazard law and issues a district notification.
 
-**Answer: C.**
-**Explanation:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q56. Which option avoids the standard UPSC close-option trap about State response force?
+- **A — Correct.** This is the federal responsibility stated in the MHA reply.
+- **B — Incorrect.** Union support does not erase primary State responsibility.
+- **C — Incorrect.** National escalation does not dissolve district functions.
+- **D — Incorrect.** Local duties arise under the standing statutory framework.
 
-A. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-B. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-C. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-D. Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
+**Examiner trap:** confusing Union supplementation with complete operational takeover.
 
-**Answer: D.**
-**Explanation:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q34. Which inference is valid under the mandate–delivery–impact ladder?
 
-### Q57. Which statement correctly identifies Plan responsibility?
+A. A statutory database duty proves complete, interoperable and publicly accessible data in every State.
+B. A UDMA notification proves constitution; staffing, plan approval, exercises and reduced loss need separate proof.
+C. An allocated mitigation corpus proves that every sanctioned project has been completed and reduced future losses.
+D. Sixteen operational battalions prove that disaster mortality has fallen because of NDRF expansion alone.
 
-A. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-B. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-C. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-D. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
+**Answer: B**
 
-**Answer: A.**
-**Explanation:** The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** A legal mandate does not prove implementation quality or public access.
+- **B — Correct.** It distinguishes legal status from delivery and impact.
+- **C — Incorrect.** Allocation is only one rung in the finance chain.
+- **D — Incorrect.** Force strength is an input, and causal outcome attribution needs evidence.
 
-### Q58. Which option preserves the risk or institutional boundary of Plan responsibility?
+**Examiner trap:** jumping from institutional existence to successful impact.
 
-A. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-B. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-C. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-D. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
+### Q35. Which combination best evidences a proactive rather than relief-only system?
 
-**Answer: B.**
-**Explanation:** The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Ex gratia payments, damage memoranda and temporary shelters after impact.
+B. A larger rescue force deployed only after a State exhausts every local resource.
+C. Risk assessment, mitigation, plans, training, pre-positioning, response and safer recovery.
+D. a national policy document without costed local plans, drills or implementation monitoring.
 
-### Q59. Which statement uses Plan responsibility without changing its hazard, mandate or status?
+**Answer: C**
 
-A. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-B. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-C. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-D. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
+- **A — Incorrect.** These are mainly post-impact relief measures.
+- **B — Incorrect.** Strong response alone does not establish whole-cycle proactivity.
+- **C — Correct.** It spans action before, during and after impact.
+- **D — Incorrect.** A document without delivery evidence is an institutional input.
 
-**Answer: C.**
-**Explanation:** The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** using “proactive” as a synonym for efficient emergency response.
 
-### Q60. Which option avoids the standard UPSC close-option trap about Plan responsibility?
+### Q36. Which evaluation of centralisation is most defensible?
 
-A. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-B. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-C. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-D. The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
+A. National standards destroy federalism because disaster effects never cross State boundaries.
+B. State responsibility prevents the Union from coordinating or directing disaster response.
+C. A Prime Minister-chaired authority leaves districts and local bodies without statutory disaster functions.
+D. National coordination addresses spillovers, while State adaptation and local accountability preserve federal delivery.
 
-**Answer: D.**
-**Explanation:** The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q61. Which statement correctly identifies Plan hierarchy?
+- **A — Incorrect.** Disasters can cross borders and disrupt national networks.
+- **B — Incorrect.** The Act provides national coordination and direction within a multi-level system.
+- **C — Incorrect.** DDMAs and local authorities have express statutory roles.
+- **D — Correct.** It captures the balance between common standards and federal delivery.
 
-A. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-B. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-C. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-D. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
+**Examiner trap:** presenting federal disaster governance as an all-or-nothing choice.
 
-**Answer: A.**
-**Explanation:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q37. Why is the elected local-authority representative’s DDMA role analytically significant?
 
-### Q62. Which option preserves the risk or institutional boundary of Plan hierarchy?
+A. It creates a local-accountability channel, although formal co-chairing does not guarantee participation.
+B. It transfers every district power from the Collector and makes the representative the sole approving disaster authority.
+C. It makes the DDMA a municipal corporation and removes rural Panchayats from disaster planning.
+D. It authorises the representative to approve national fund releases without HLC review.
 
-A. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-B. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-C. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-D. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
+**Answer: A**
 
-**Answer: B.**
-**Explanation:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Correct.** It recognises both the institutional opening and its practical limit.
+- **B — Incorrect.** The Collector/DM/DC remains the head under the stated structure.
+- **C — Incorrect.** DDMA is district-wide and local authorities include rural bodies.
+- **D — Incorrect.** National assistance decisions are not transferred to the DDMA Co-Chairperson.
 
-### Q63. Which statement uses Plan hierarchy without changing its hazard, mandate or status?
+**Examiner trap:** mistaking formal representation for decisive participation.
 
-A. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-B. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-C. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-D. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
+### Q38. Which pair correctly distinguishes parallel national channels?
 
-**Answer: C.**
-**Explanation:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. NCMC—State Plan approval and monitoring; CCS—national disaster-database creation.
+B. NCMC—major disasters with national ramifications; CCS—serious security implications.
+C. NCMC—mitigation-fund approval and release; CCS—NDRF field command during every deployment.
+D. NCMC—capacity-building research institute; CCS—District Plan review and approval.
 
-### Q64. Which option avoids the standard UPSC close-option trap about Plan hierarchy?
+**Answer: B**
 
-A. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-B. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-C. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-D. The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
+- **A — Incorrect.** Those functions belong to SDMA and NDMA.
+- **B — Correct.** It preserves the disaster-escalation and security distinction.
+- **C — Incorrect.** HLC and the Director General/NDMA framework are relevant instead.
+- **D — Incorrect.** NIDM handles capacity building; DDMA handles District Plans.
 
-**Answer: D.**
-**Explanation:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** merging crisis coordination, security review, finance and command.
 
-### Q65. Which statement correctly identifies Fund architecture?
+### Q39. Why can a strong apex architecture coexist with weak disaster outcomes?
 
-A. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-B. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-C. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-D. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
+A. National guidelines lapse whenever a district lacks a mitigation fund or current State plan.
+B. The Act prevents States from adapting policy to locally assessed hazards and vulnerabilities.
+C. Outcomes depend on the weakest link: district staff, local plans, finance, data, drills and community access.
+D. Disaster outcomes follow hazard intensity alone and cannot be altered by institutions or capacity.
 
-**Answer: A.**
-**Explanation:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q66. Which option preserves the risk or institutional boundary of Fund architecture?
+- **A — Incorrect.** Guidelines do not automatically lapse for that reason.
+- **B — Incorrect.** State adaptation is a core function.
+- **C — Correct.** Legal design must pass through multiple implementation links.
+- **D — Incorrect.** Exposure, vulnerability and capacity shape losses.
 
-A. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-B. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-C. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-D. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
+**Examiner trap:** measuring governance by apex design alone.
 
-**Answer: B.**
-**Explanation:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### Q40. A State cites section 41A, announces a future urban authority, allocates mitigation money and reports a city warning platform. Which conclusion is strongest?
 
-### Q67. Which statement uses Fund architecture without changing its hazard, mandate or status?
+A. The city has achieved resilience because four institutional inputs have been announced.
+B. Section 41A itself proves that the authority is staffed and its Urban Plan has been approved.
+C. Allocation proves expenditure, while a warning platform proves action across all wards and vulnerable groups.
+D. Each sits on a different rung; notification, staffing, plan approval, delivery and outcome need separate proof.
 
-A. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-B. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-C. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-D. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
+**Answer: D**
 
-**Answer: C.**
-**Explanation:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A — Incorrect.** Announced inputs do not establish system performance.
+- **B — Incorrect.** Section 41A is enabling; constitution and operationalisation need separate evidence.
+- **C — Incorrect.** Allocation and warning issuance do not prove expenditure or protective action.
+- **D — Correct.** It applies the mandate–status–delivery–impact firewall consistently.
 
-### Q68. Which option avoids the standard UPSC close-option trap about Fund architecture?
-
-A. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-B. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-C. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-D. Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-
-**Answer: D.**
-**Explanation:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q69. Which statement correctly identifies Finance coordination?
-
-A. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-B. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-C. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-D. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-
-**Answer: A.**
-**Explanation:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q70. Which option preserves the risk or institutional boundary of Finance coordination?
-
-A. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-B. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-C. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-D. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-
-**Answer: B.**
-**Explanation:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q71. Which statement uses Finance coordination without changing its hazard, mandate or status?
-
-A. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-B. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-C. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-D. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-
-**Answer: C.**
-**Explanation:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Finance coordination?
-
-A. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-B. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-C. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-D. Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-
-**Answer: D.**
-**Explanation:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q73. Which statement correctly identifies Federal cascade?
-
-A. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-B. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-C. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-D. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-
-**Answer: A.**
-**Explanation:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q74. Which option preserves the risk or institutional boundary of Federal cascade?
-
-A. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-B. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-C. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-D. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-
-**Answer: B.**
-**Explanation:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q75. Which statement uses Federal cascade without changing its hazard, mandate or status?
-
-A. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-B. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-C. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-D. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-
-**Answer: C.**
-**Explanation:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Federal cascade?
-
-A. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-B. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-C. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-D. The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-
-**Answer: D.**
-**Explanation:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q77. Which statement correctly identifies Mandate-outcome firewall?
-
-A. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-B. The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-C. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-D. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-
-**Answer: A.**
-**Explanation:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q78. Which option preserves the risk or institutional boundary of Mandate-outcome firewall?
-
-A. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-B. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-C. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-D. The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-
-**Answer: B.**
-**Explanation:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q79. Which statement uses Mandate-outcome firewall without changing its hazard, mandate or status?
-
-A. NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-B. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-C. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-D. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-
-**Answer: C.**
-**Explanation:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Mandate-outcome firewall?
-
-A. The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-B. The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-C. The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-D. A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
-
-**Answer: D.**
-**Explanation:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Examiner trap:** aggregating several inputs and relabelling the total as impact.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### PYQ ownership and evidence note
 
-The 2020 GS-III card is directly routed. The 2020 GS-II card is explicitly cross-cutting. The 2024 urban-flood card is an institutional application and does not displace Topic 08 ownership.
+The local official papers provide descriptive questions but no official model answers. The wording is reproduced below with line breaks joined and obvious OCR errors normalised. The 2020 GS-III question is direct; the 2020 GS-II question is shared with Polity; the 2024 GS-III question is an application whose primary hazard ownership remains Topic 08.
 
-### PYQ DEMAND CARD 1 — 2020 GS-III
+### PYQ 1 — 2020 GS-III Q18 — DIRECT
 
-**Demand:** Discuss how the Government's proactive disaster-management approach replaced the earlier reactive strategy.
+**Question — exact English wording with line-break normalisation:** “Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier reactive approach.” **(15 marks, 250 words)**
 
-**Status:** Verified direct routing: Discuss · 15 marks · 250 words.
+**Model answer (within 250 words):**
 
-**Model solution:** **DM Act foundation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **NDMA:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **NEC:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **SDMA:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **SEC:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **NIDM:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. **Plan hierarchy:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Federal cascade:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+India’s disaster policy has moved from relief after impact towards management of risk across the entire cycle.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2020 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**First, the legal shift:** the Disaster Management Act, 2005 created permanent national, State and district authorities. NDMA lays down policy and guidelines; NEC coordinates and monitors; SDMA and SEC adapt and implement at State level; DDMA and local authorities translate plans into last-mile action. This replaces ad hoc relief administration with assigned responsibility.
 
-**Detailed examiner-grade model answer:**
+**Second, planning and prevention:** the National Policy on Disaster Management, 2009 emphasised prevention, mitigation and preparedness. India’s first NDMP appeared in 2016 and the revised NDMP 2019 remains the latest published national plan checked. Risk assessment, structural and non-structural mitigation, capacity development and inter-agency coordination therefore precede impact.
 
-**Introduction and thesis:** **DM Act foundation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **NDMA:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **NEC:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **SDMA:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **SEC:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **NIDM:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. **Plan hierarchy:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Federal cascade:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Third, preparedness and response:** NIDM develops skills and knowledge, while NDRF provides specialist response and can be pre-positioned. MHA reported sixteen operational NDRF battalions in July 2025. Statutory response and mitigation funds support different stages.
 
-**Analytical body:**
+**Fourth, continuing reform:** Act 10 of 2025 gave NCMC and HLC statutory status, enabled Urban Disaster Management Authorities and State response forces, reassigned plan ownership and mandated disaster databases.
 
-1. **Claim:** Demand: Discuss how the Government's proactive disaster-management approach replaced the earlier reactive strategy. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct routing: Discuss · 15 marks · 250 words. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+However, law and plans are inputs. Uneven district staff, local finance, data, drills and community access can preserve a reactive reality beneath a proactive framework.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Thus, India has built a proactive architecture; its success depends on costed local plans, interoperable warnings, trained personnel and measured reduction of loss.
 
-**Qualified conclusion:** **DM Act foundation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **NDMA:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **NEC:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **SDMA:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **SEC:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **NIDM:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. **Plan hierarchy:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Federal cascade:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Why this earns marks:** It answers the before–after comparison, uses a chronology and named institutions, and qualifies institutional change with delivery evidence.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+### PYQ 2 — 2020 GS-II Q11 — SHARED
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Question — exact English wording with line-break and punctuation normalisation:** “Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; the Disaster Management Act, 2005 and recently passed Farm Acts.” **(15 marks, 250 words)**
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2020 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Ownership:** Shared. Polity owns the complete constitutional and Farm-Acts analysis; Topic 02 owns the disaster-law institutional limb. The model remains a complete answer blueprint while avoiding unsupported detail.
 
-### PYQ DEMAND CARD 2 — 2020 GS-II
+**Model answer (within 250 words):**
 
-**Demand:** Elucidate centralising tendencies through disaster-management legislation and other contemporary legislation.
+The Constitution combines federal government with instruments that permit nationally coordinated action when fragmentation threatens collective welfare. The three legislative examples expose both the utility and the tension of that design.
 
-**Status:** Verified cross-cutting routing: Elucidate · 15 marks · 250 words; this card addresses only the disaster-law and federal-balance limb.
+The Epidemic Diseases Act, 1897 and the Disaster Management Act, 2005 were used during a nationwide health emergency. Under the DM Act, a Prime Minister-chaired NDMA, a Union Home Secretary-chaired NEC and Central directions create common standards and coordination. This can appear centralising because decisions made at the Union level shape State and district action.
 
-**Model solution:** **DM Act foundation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **NDMA:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **NEC:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **SDMA:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **DDMA:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Federal cascade:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Mandate-outcome firewall:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Yet the same Act is not institutionally unitary. Chief Minister-chaired SDMAs, Chief Secretary-chaired SECs, Collector-led DDMAs and local authorities carry policy adaptation, planning, implementation, rescue, relief and rehabilitation responsibilities. MHA has reaffirmed that primary operational responsibility rests with States and that the Union supplements their effort where required.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2020 GS-II’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+The Farm Acts controversy similarly illustrated the political cost of nationally uniform legislation where States perceive intrusion into domains affecting agriculture and markets. The issue is therefore not whether all centralisation is unconstitutional, but whether national action respects legislative competence, consultation and local knowledge.
 
-**Detailed examiner-grade model answer:**
+Central coordination is defensible for interstate spillovers, common standards and scarce specialist capacity. It becomes excessive when it bypasses States, weakens accountability or substitutes uniform command for subsidiarity.
 
-**Introduction and thesis:** **DM Act foundation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **NDMA:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **NEC:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **SDMA:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **DDMA:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Federal cascade:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Mandate-outcome firewall:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Hence unity and integrity may justify a strong coordinating Union, but durable federal legitimacy requires consultation, transparent reasons, State adaptation and empowered local execution.
 
-**Analytical body:**
+**Why this earns marks:** It elucidates rather than merely condemns centralisation and shows how the DM Act combines national direction with federal delivery.
 
-1. **Claim:** Demand: Elucidate centralising tendencies through disaster-management legislation and other contemporary legislation. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified cross-cutting routing: Elucidate · 15 marks · 250 words; this card addresses only the disaster-law and federal-balance limb. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+### PYQ 3 — 2024 GS-III Q18 — APPLICATION
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Question — official-paper wording with obvious OCR spelling and grammar normalisation:** “Flooding in urban areas is an emerging climate-induced disaster. Discuss the causes of this disaster. Mention the features of two major floods in the last two decades in India. Describe the policies and frameworks in India that aim at tackling such floods.” **(15 marks, 250 words)**
 
-**Qualified conclusion:** **DM Act foundation:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **NDMA:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **NEC:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **SDMA:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **DDMA:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Federal cascade:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Mandate-outcome firewall:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Ownership:** Application here; primary urban-flood ownership remains Topic 08.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Model answer (within 250 words):**
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+Urban flooding occurs when intense rainfall or river/tidal influence exceeds the city’s drainage, storage and safe-discharge capacity. Climate change can intensify extreme precipitation, but losses are co-produced by impermeable surfaces, wetland and floodplain encroachment, blocked drains, undersized infrastructure, unsafe construction and fragmented basin governance.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2020 GS-II’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+The **Mumbai flood of 2005** combined exceptional rainfall with tidal and drainage constraints, dense exposure and obstruction of natural channels. The **Chennai flood of 2015** exposed the interaction of heavy rainfall, altered wetlands and waterways, reservoir-management and metropolitan planning failures. They show that rainfall becomes disaster through accumulated urban vulnerability.
 
-### PYQ DEMAND CARD 3 — 2024 GS-III
+India’s framework operates at several levels. The Disaster Management Act, 2005 creates NDMA–SDMA–DDMA responsibilities and local-authority duties. The revised NDMP 2019 connects risk assessment, preparedness, response and recovery. NDMA’s urban-flood guidance supports catchment-based planning, drainage mapping, forecasting, emergency coordination and protection of natural buffers. Response and mitigation funds provide separate financing routes.
 
-**Demand:** Discuss policies and frameworks for tackling urban flooding.
+Current law adds section 41A: a State may notify a UDMA for its capital and municipal-corporation cities, with the Municipal Commissioner as Chairperson, the District Collector as Vice-Chairperson and an Urban Plan approved by SDMA. This can reduce fragmented city command.
 
-**Status:** Conservative cross-topic application of the verified 2024 Q18 demand; primary ownership remains Topic 08.
+However, statutory permission is not implementation. Effective policy requires notified and staffed authorities, ward-level plans, interoperable forecasts, drain maintenance, wetland protection, risk-sensitive land use, inclusive evacuation and post-event audits.
 
-**Model solution:** **DDMA:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Local authorities:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Urban authority:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. **Plan hierarchy:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Fund architecture:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Federal cascade:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Mandate-outcome firewall:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Thus, urban floods are climate-amplified but governance-mediated; resilience depends on integrating basin science with accountable city institutions.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2024 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Why this earns marks:** It answers causes, cases and frameworks while keeping climate attribution and institutional implementation qualified.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **DDMA:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Local authorities:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Urban authority:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. **Plan hierarchy:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Fund architecture:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Federal cascade:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Mandate-outcome firewall:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Analytical body:**
-
-1. **Claim:** Demand: Discuss policies and frameworks for tackling urban flooding. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Conservative cross-topic application of the verified 2024 Q18 demand; primary ownership remains Topic 08. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **DDMA:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Local authorities:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Urban authority:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. **Plan hierarchy:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Fund architecture:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Federal cascade:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Mandate-outcome firewall:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2024 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+## ORIGINAL MAINS PRACTICE
 
 ### ORIGINAL MAINS 1 — 10 MARKS
 
-**Question:** Distinguish NDMA, NEC, SDMA, SEC and DDMA by composition and mandate. Answer in about 150 words.
+**Question:** Distinguish the roles of NDMA, NEC, SDMA, SEC and DDMA in India’s disaster-management architecture. **Answer in 150 words.**
 
-**Model thesis:** **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+The Disaster Management Act separates policy authority from executive coordination across three levels.
 
-- NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-- The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-- The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-- The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-- The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
+**NDMA**, chaired by the Prime Minister, is the apex authority for national policy, guidelines, National Plan coordination and approval, and NDRF superintendence. **NEC**, chaired by the Union Home Secretary, coordinates disaster management, monitors plans, evaluates preparedness and coordinates response.
 
-**Qualified conclusion:** **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+At State level, **SDMA**, chaired by the Chief Minister, lays down State policy, coordinates preparation and approves the State Plan, and maintains the State disaster database. **SEC**, chaired by the Chief Secretary, monitors and coordinates implementation and response.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish NDMA, NEC, SDMA, SEC and DDMA by composition and mandate. Answer in about 150…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**DDMA**, headed by the Collector/DM/DC with an elected local-authority Co-Chairperson, prepares and implements the District Plan and coordinates departments and local bodies.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Distinguish NDMA, NEC, SDMA, SEC and DDMA by composition and mandate. Answer in about 150…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+Thus, NDMA/SDMA primarily set and approve policy, NEC/SEC connect it to administration, and DDMA converts it into local delivery. The distinction matters because a national guideline does not itself prove district execution.
 
 ### ORIGINAL MAINS 2 — 10 MARKS
 
-**Question:** Differentiate NDRF-the-force from disaster-response and mitigation funds. Answer in about 150 words.
+**Question:** Explain the force–fund distinction in India’s disaster-management framework and its significance for accountability. **Answer in 150 words.**
 
-**Model thesis:** **Claim:** NDRF force. **Named evidence/example:** The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDRF fund. **Named evidence/example:** The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** State response force. **Named evidence/example:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fund architecture. **Named evidence/example:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 150 words):**
 
-**Claim → named evidence → analysis → qualification:**
+India uses identical abbreviations for different legal instruments.
 
-- The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions.
-- The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force.
-- Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-- Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
+The **National Disaster Response Force** is a specialist uniformed response force. Its general superintendence, direction and control vest in NDMA, while operational command and supervision vest in the Director General. Section 44A separately permits a State to constitute a specialist **State Disaster Response Force**.
 
-**Qualified conclusion:** **Claim:** NDRF force. **Named evidence/example:** The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDRF fund. **Named evidence/example:** The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** State response force. **Named evidence/example:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fund architecture. **Named evidence/example:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+By contrast, the **National Disaster Response Fund** under section 46 is a financial window for disaster-management expenditure. Section 48 provides the **State Disaster Response Fund** and also contemplates State and district mitigation and response funds. The HLC has specified assistance roles under sections 46 and 47.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Differentiate NDRF-the-force from disaster-response and mitigation funds. Answer in about 150…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** NDRF force. **Named evidence/example:** The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDRF fund. **Named evidence/example:** The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** State response force. **Named evidence/example:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fund architecture. **Named evidence/example:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** NDRF force. **Named evidence/example:** The National Disaster Response Force is a specialist response force under the Act; official NDRF material states that it has expanded to 16 battalions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDRF fund. **Named evidence/example:** The National Disaster Response Fund under section 46 finances eligible response and relief needs and is institutionally distinct from the identically abbreviated response force. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** State response force. **Named evidence/example:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fund architecture. **Named evidence/example:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Differentiate NDRF-the-force from disaster-response and mitigation funds. Answer in about 150…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+The distinction prevents three errors: treating personnel as money, treating allocation as deployment, and treating a statutory fund as evidence of expenditure or reduced loss. Accountability therefore requires separate proof of force readiness, fund allocation, release, utilisation and impact.
 
 ### ORIGINAL MAINS 3 — 15 MARKS
 
-**Question:** Explain the significance and limits of the Disaster Management (Amendment) Act, 2025. Answer in about 250 words.
+**Question:** Evaluate the principal institutional changes made by the Disaster Management (Amendment) Act, 2025. **Answer in 250 words.**
 
-**Model thesis:** **Claim:** Current amendment status. **Named evidence/example:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NCMC and HLC. **Named evidence/example:** Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban authority. **Named evidence/example:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** State response force. **Named evidence/example:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan responsibility. **Named evidence/example:** The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Act 10 of 2025, gazetted on 29 March and commenced on 9 April 2025, updates the Disaster Management Act’s authority, planning, urban, data and regulatory architecture.
 
-- The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-- Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee.
-- Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city.
-- Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund.
-- The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles.
-- A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
+**Legal clarity:** sections 8A and 8B give statutory footing to the pre-existing NCMC and HLC. NCMC, chaired by the Cabinet Secretary, deals with major disasters having serious or national ramifications; HLC provides specified response assistance and approves mitigation assistance.
 
-**Qualified conclusion:** **Claim:** Current amendment status. **Named evidence/example:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NCMC and HLC. **Named evidence/example:** Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban authority. **Named evidence/example:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** State response force. **Named evidence/example:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan responsibility. **Named evidence/example:** The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Planning:** NDMA now coordinates preparation and approval of the National Plan, while SDMA coordinates and approves the State Plan. Both are reviewed every three years and updated at least every five years. District Plans are reviewed at least every two years. This clarifies ownership while retaining NEC/SEC coordination and monitoring.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain the significance and limits of the Disaster Management (Amendment) Act, 2025. Answer…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Urban and State capacity:** section 41A permits State-notified UDMAs; section 44A permits specialist State Disaster Response Forces. These address urban risk and the gap beneath NDRF.
 
-**Detailed examiner-grade model answer:**
+**Information and regulation:** sections 2(da), 6(2)(v) and 18(2)(p) create national and State database duties; hazard-wise nodal departments, section 60A orders and section 76A regulations strengthen implementation tools.
 
-**Introduction and thesis:** **Claim:** Current amendment status. **Named evidence/example:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NCMC and HLC. **Named evidence/example:** Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban authority. **Named evidence/example:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** State response force. **Named evidence/example:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan responsibility. **Named evidence/example:** The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+However, several provisions are enabling. A section does not prove notification, staff, finance, database quality or outcomes. MHA reported only Karnataka’s BBMP UDMA as of 11 February 2026.
 
-**Analytical body:**
-
-1. **Claim:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Current amendment status. **Named evidence/example:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NCMC and HLC. **Named evidence/example:** Sections 8A and 8B inserted in 2025 give statutory status to the National Crisis Management Committee and High Level Committee. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Urban authority. **Named evidence/example:** Section 41A enables a State Government to constitute an Urban Disaster Management Authority by notification; the statutory permission does not prove constitution in every eligible city. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** State response force. **Named evidence/example:** Section 44A enables a State Government to constitute a specialist State Disaster Response Force; this force must not be confused with the SDRF fund. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan responsibility. **Named evidence/example:** The amended architecture assigns National and State Plan preparation to NDMA and SDMA, while executive committees retain implementation and monitoring roles. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Explain the significance and limits of the Disaster Management (Amendment) Act, 2025. Answer…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+The amendment strengthens legal accountability, but its success depends on State adoption, local capacity, interoperable data and transparent outcome monitoring.
 
 ### ORIGINAL MAINS 4 — 15 MARKS
 
-**Question:** Analyse district and local capacity as the weak link in India's disaster-management cascade. Answer in about 250 words.
+**Question:** “India’s disaster-management system is centrally framed but federally delivered.” Discuss. **Answer in 250 words.**
 
-**Model thesis:** **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Local authorities. **Named evidence/example:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NIDM. **Named evidence/example:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 250 words):**
 
-**Claim → named evidence → analysis → qualification:**
+India’s framework combines national standard-setting with State and local operational responsibility.
 
-- The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-- Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-- NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy.
-- The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-- A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
+At the Centre, the Prime Minister-chaired NDMA lays down policy and guidelines, coordinates the National Plan and oversees NDRF. The Union Home Secretary-chaired NEC monitors implementation and coordinates response. NCMC provides escalation for major disasters with serious or national ramifications, while HLC decides specified financial assistance. These arrangements support common standards, interstate coordination and specialist capacity.
 
-**Qualified conclusion:** **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Local authorities. **Named evidence/example:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NIDM. **Named evidence/example:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Delivery, however, is territorially distributed. Chief Minister-chaired SDMAs adapt policy and approve State Plans; Chief Secretary-chaired SECs coordinate execution. DDMAs prepare and implement district plans, while local authorities manage staff, resources and assigned prevention, response and recovery functions. MHA’s July 2025 parliamentary reply states that primary responsibility for rescue, relief and rehabilitation rests with State Governments, with Union supplementation when required.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse district and local capacity as the weak link in India's disaster-management cascade.…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+This design is justified because hazards and infrastructure networks cross borders, while vulnerability and response conditions remain local. Its weakness appears when national directives are generic, State adaptation is delayed, districts lack permanent technical staff or local bodies lack finance.
 
-**Detailed examiner-grade model answer:**
+The 2025 amendment sharpens the balance by clarifying plan ownership and enabling UDMAs and State response forces. Yet “may constitute” leaves uneven adoption.
 
-**Introduction and thesis:** **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Local authorities. **Named evidence/example:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NIDM. **Named evidence/example:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Local authorities. **Named evidence/example:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NIDM. **Named evidence/example:** NIDM is the statutory nodal institute for human-resource development, capacity building, training, research, documentation and policy advocacy. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Analyse district and local capacity as the weak link in India's disaster-management cascade.…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+Therefore, federal effectiveness requires national interoperability and minimum standards, but also consultation, subsidiarity, costed State and district plans, transparent fund flows and empowered local institutions.
 
 ### ORIGINAL MAINS 5 — 20 MARKS
 
-**Question:** Evaluate India's legal, planning and financial architecture for proactive disaster risk reduction. Answer in about 300 words.
+**Question:** Critically examine whether India’s dense disaster-management architecture has translated into accountable local risk reduction. Suggest reforms. **Answer in 300 words.**
 
-**Model thesis:** **Claim:** DM Act foundation. **Named evidence/example:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan hierarchy. **Named evidence/example:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fund architecture. **Named evidence/example:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance coordination. **Named evidence/example:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 300 words):**
 
-**Claim → named evidence → analysis → qualification:**
+India possesses a comprehensive statutory architecture: NDMA and NEC at Union level, SDMA and SEC at State level, DDMA and local authorities at the operational tier, NDRF and NIDM as specialist bodies, and response and mitigation funds. The 2025 amendment added statutory NCMC and HLC, plan-cycle reforms, database duties, hazard-wise nodal departments and enabling provisions for UDMAs and State response forces.
 
-- The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions.
-- NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-- The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-- The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-- The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-- The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition.
-- Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational.
-- Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-- The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
+This design has three strengths. First, it assigns responsibility across the whole disaster cycle rather than only relief. Second, it permits national standards and specialist support while retaining State responsibility. Third, it now provides clearer urban, information and mitigation mechanisms.
 
-**Qualified conclusion:** **Claim:** DM Act foundation. **Named evidence/example:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan hierarchy. **Named evidence/example:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fund architecture. **Named evidence/example:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance coordination. **Named evidence/example:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Yet local accountability remains the weak link.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Evaluate India's legal, planning and financial architecture for proactive disaster risk…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+1. **Mandate–capacity gap:** a DDMA may exist without permanent technical staff, current inventories or tested plans.
+2. **Plan–action gap:** generic activities without cost, owner and deadline are difficult to monitor.
+3. **Finance gap:** section 48 contemplates district funds, but the Sixteenth Finance Commission reported their constitution as the exception.
+4. **Data gap:** statutory database duties do not guarantee standardised, timely, disaggregated or public data.
+5. **Participation gap:** an elected DDMA Co-Chairperson or consultation clause does not prove influence by vulnerable communities.
+6. **Enabling-power gap:** sections 41A and 44A require State notification and resourcing.
 
-**Detailed examiner-grade model answer:**
+Reform should therefore staff DDMAs and UDMAs permanently; cost and publish plans; link funds to hazard, exposure and vulnerability; standardise national–State–district data; conduct interoperable exercises; audit warnings through protective action; and publish recovery, service-continuity and distributional indicators.
 
-**Introduction and thesis:** **Claim:** DM Act foundation. **Named evidence/example:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan hierarchy. **Named evidence/example:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fund architecture. **Named evidence/example:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance coordination. **Named evidence/example:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-9. **Claim:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** DM Act foundation. **Named evidence/example:** The Disaster Management Act, 2005 establishes national, state and district authorities and assigns prevention, mitigation, preparedness, response and recovery functions. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan hierarchy. **Named evidence/example:** The revised National Disaster Management Plan, 2019 is the latest published national plan and must be distinguished from the first 2016 edition. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Fund architecture. **Named evidence/example:** Sections 46, 47 and 48 contemplate national, state and district response and mitigation funds; statutory provision does not establish that every district fund is operational. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance coordination. **Named evidence/example:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Evaluate India's legal, planning and financial architecture for proactive disaster risk…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+India needs no merely decorative layer. It needs traceability from statutory mandate to institution, staff, finance, delivery and reduced risk. The strongest architecture is the one whose weakest local link works.
 
 ### ORIGINAL MAINS 6 — 20 MARKS
 
-**Question:** Examine federal coordination in disaster management while separating statutory mandate from operational outcome. Answer in about 300 words.
+**Question:** Analyse how plans, databases and disaster finance can become an integrated accountability system under the current Disaster Management Act. **Answer in 300 words.**
 
-**Model thesis:** **Claim:** Current amendment status. **Named evidence/example:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Local authorities. **Named evidence/example:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance coordination. **Named evidence/example:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (within 300 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Plans, data and finance are often treated as separate administrative products. Under the current Act they can form one accountability chain.
 
-- The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text.
-- NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act.
-- The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans.
-- The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan.
-- The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation.
-- The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan.
-- Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population.
-- Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs.
-- The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity.
-- A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence.
+**Plans define responsibility.** NDMA coordinates preparation and approval of the National Plan; SDMA coordinates and approves the State Plan; DDMAs and constituted UDMAs prepare district and urban plans. Review cycles—three-year review and five-year update for National and State Plans, and at least two-year review for District Plans—create opportunities to revise risk assumptions.
 
-**Qualified conclusion:** **Claim:** Current amendment status. **Named evidence/example:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Local authorities. **Named evidence/example:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance coordination. **Named evidence/example:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Databases test those assumptions.** The section 2(da) disaster database covers assessment, fund allocation and expenditure, preparedness and mitigation plans and risk registers. NDMA must create the national database; SDMAs maintain State databases and feed it. Standardised local data can reveal whether exposure, vulnerable groups, lifelines and recurrent losses are actually represented.
 
-**Demand decoding:** The directive **examine** requires a direct position on ‘Examine federal coordination in disaster management while separating statutory mandate from…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Finance converts intent into action.** Sections 46–48 separate response and mitigation windows. The Sixteenth Finance Commission recommended an 80:20 State split and a Disaster Risk Index using hazard, exposure and vulnerability. HLC’s statutory role connects national assistance decisions to sections 46 and 47.
 
-**Detailed examiner-grade model answer:**
+Integration would mean each plan action has a hazard, location, responsible institution, cost, funding window, deadline and measurable output; expenditure records then connect to completion and post-event outcomes.
 
-**Introduction and thesis:** **Claim:** Current amendment status. **Named evidence/example:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Local authorities. **Named evidence/example:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance coordination. **Named evidence/example:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+However, three safeguards are essential. Allocation must not be equated with expenditure; database entry must not be equated with accuracy or public access; and a completed project must not be attributed loss reduction without credible evaluation.
 
-**Analytical body:**
+India should use common data standards, geotagged assets, public dashboards, independent audit, disaggregated inclusion indicators and post-disaster learning reviews. The result would be a closed loop: risk evidence shapes plans, plans guide finance, delivery updates data, and outcomes reshape the next plan.
 
-1. **Claim:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-9. **Claim:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-10. **Claim:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+## RAPID SELF-CHECK
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Current amendment status. **Named evidence/example:** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025; the current position is not the unamended 2005 text. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NDMA. **Named evidence/example:** NDMA is the Prime Minister-chaired apex authority that lays down policies, plans and guidelines and exercises statutory functions under the Act. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** NEC. **Named evidence/example:** The National Executive Committee is chaired by the Union Home Secretary and coordinates, monitors and implements national disaster-management policy and plans. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SDMA. **Named evidence/example:** The State Disaster Management Authority is chaired by the Chief Minister and lays down state policy and approves the State Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** SEC. **Named evidence/example:** The State Executive Committee is chaired by the Chief Secretary and coordinates and monitors state-level implementation. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** DDMA. **Named evidence/example:** The District Disaster Management Authority is chaired by the District Collector or Magistrate, with the elected local-authority representative as Co-Chairperson, and prepares the District Plan. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Local authorities. **Named evidence/example:** Panchayats, municipalities and other local authorities perform assigned preparedness, mitigation, response and recovery functions closest to the affected population. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Finance coordination. **Named evidence/example:** Finance Commission awards and Central-State assistance shape disaster financing, but allocation, release, expenditure and verified outcome are separate evidence rungs. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Federal cascade. **Named evidence/example:** The NDMA-SDMA-DDMA-local cascade distributes policy, coordination and implementation across federal levels; an apex guideline does not itself prove local capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Mandate-outcome firewall. **Named evidence/example:** A statute, authority, plan, force, fund, notification or database mandate proves its legal or institutional rung only; operational readiness and disaster outcomes require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Examine federal coordination in disaster management while separating statutory mandate from…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+- Can you distinguish NDMA from NEC and SDMA from SEC?
+- Can you draw the Union–State–district–local cascade?
+- Can you state the chairs of NDMA, NEC, SDMA, SEC, DDMA and UDMA?
+- Can you explain sections 8A, 8B, 41A and 44A without confusing mandatory and enabling provisions?
+- Can you reproduce the National/State and District Plan review cycles?
+- Can you distinguish NDRF force, NDRF fund, State force and State fund?
+- Can you explain the national and State database duties?
+- Can you apply the mandate–status–delivery–impact ladder?
+- Can you use current official NDRF and UDMA evidence with dates?
+- Can you answer the 2020 proactive-approach PYQ without reducing proactivity to response?

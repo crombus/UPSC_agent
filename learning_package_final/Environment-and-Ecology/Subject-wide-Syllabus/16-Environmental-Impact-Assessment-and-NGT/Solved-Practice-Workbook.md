@@ -1,1163 +1,990 @@
 # Environmental Impact Assessment and NGT — Solved Practice Workbook
 
-> **Authoring-only generation:** 2026-09-06. Uses the same source-bounded ecological distinctions and strict A-B-C-D rotation.
+> **Legally verified:** 29 September 2026
+> **Owner scope:** Environment and Ecology Topic 16
+> **Evidence used:** canonical Basic + Advanced owners; audited PYQ routing; locally held official UPSC papers; EIA Notification, 2006 and amendments; NGT Act, 2010 and Practice Rules; Supreme Court judgments identified in the source note.
+> **MCQ control:** exactly 40 original MCQs; key rotation `ABCD` repeated ten times.
+> **PYQ control:** eight routed PYQs—two Prelims and six Mains. The repository has no official 2018-2023 Prelims keys; those two answers are expressly labelled inferred.
+
+---
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Prior EC boundary?
+### MCQ 1 — Purpose of EIA
 
-A. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-B. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-C. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-D. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
+Which formulation best captures the central purpose of Environmental Impact Assessment?
 
-**Answer: A.**
-**Explanation:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. To inform a decision before irreversible project commitments by predicting impacts, comparing alternatives and designing mitigation
+B. To calculate compensation only after environmental damage has occurred
+C. To replace every forest, wildlife, pollution-control and land approval with one clearance
+D. To guarantee approval once an Environmental Management Plan is filed
 
-### Q2. Which option preserves the ecological boundary of Prior EC boundary?
+**Answer: A**
 
-A. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-B. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-C. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-D. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
+- **A — Correct:** EIA is an anticipatory decision-support process. It should affect whether, where and how a proposal proceeds.
+- **B — Incorrect:** Post-damage compensation is corrective; it is not the central preventive purpose of EIA.
+- **C — Incorrect:** Environmental clearance does not erase distinct statutory approvals or consents.
+- **D — Incorrect:** An EMP supports appraisal and compliance; it creates no entitlement to clearance.
 
-**Answer: B.**
-**Explanation:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Remedial trap:** Assessment is not the same as approval, and approval is not proof of harmlessness.
 
-### Q3. Which statement uses Prior EC boundary without changing its scale, parameter or status?
+### MCQ 2 — Schedule gate
 
-A. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-B. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-C. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-D. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
+A promoter proposes an activity not listed in the Schedule to the EIA Notification, 2006. What is the first defensible conclusion?
 
-**Answer: C.**
-**Explanation:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. It automatically becomes Category B2 and follows a reduced State-level appraisal route without any further Schedule or threshold inquiry
+B. The Notification's prior-EC requirement does not apply merely by analogy; other environmental laws may still apply
+C. It must be appraised by the central EAC
+D. It requires an NGT order before construction
 
-### Q4. Which option avoids the standard UPSC close-option trap about Prior EC boundary?
+**Answer: B**
 
-A. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-B. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-C. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-D. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
+- **A — Incorrect:** B2 is a classification within the notified regime, not a residual class for every unlisted activity.
+- **B — Correct:** The legal inquiry begins with the Schedule, thresholds and attached conditions. Pollution consent, forest, wildlife, CRZ or other requirements remain separate.
+- **C — Incorrect:** Central appraisal cannot be assumed without a Schedule or other valid legal trigger.
+- **D — Incorrect:** The NGT adjudicates disputes; it is not the ordinary project-approval authority.
 
-**Answer: D.**
-**Explanation:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Remedial trap:** “Outside this notification” never means “outside environmental law.”
 
-### Q5. Which statement correctly identifies EC and consent boundary?
+### MCQ 3 — Institutional roles
 
-A. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-B. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-C. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-D. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
+Which institutional pairing is correct under the EIA Notification, 2006?
 
-**Answer: A.**
-**Explanation:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. EAC grants and renews Category A clearance, while MoEFCC only publishes the committee's already binding technical decision
+B. SEAC grants Category B clearance; SEIAA conducts technical appraisal
+C. EAC recommends and MoEFCC decides Category A; SEAC recommends and SEIAA decides Category B
+D. CPCB grants Category A clearance and SPCBs grant Category B clearance
 
-### Q6. Which option preserves the ecological boundary of EC and consent boundary?
+**Answer: C**
 
-A. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-B. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-C. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-D. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
+- **A — Incorrect:** The EAC is recommendatory; the central regulatory authority takes the clearance decision.
+- **B — Incorrect:** SEAC appraises and recommends; SEIAA is the state-level decision-making authority.
+- **C — Correct:** It preserves the expert-committee/regulatory-authority distinction at both levels.
+- **D — Incorrect:** CPCB/SPCB pollution-control functions are distinct from the EAC-SEAC clearance architecture.
 
-**Answer: B.**
-**Explanation:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Remedial trap:** Committee appraisal is not the same legal act as grant or refusal of EC.
 
-### Q7. Which statement uses EC and consent boundary without changing its scale, parameter or status?
+### MCQ 4 — Absence of state bodies
 
-A. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-B. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-C. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-D. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
+If a duly constituted SEIAA or SEAC is absent, the amended notification states that a Category B project shall be:
 
-**Answer: C.**
-**Explanation:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. deemed cleared after the prescribed period and permitted to begin construction without appraisal by any substitute authority
+B. converted automatically into Category A
+C. appraised by the district administration
+D. considered at the central level as a Category B project
 
-### Q8. Which option avoids the standard UPSC close-option trap about EC and consent boundary?
+**Answer: D**
 
-A. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-B. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-C. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-D. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
+- **A — Incorrect:** Institutional absence creates no deemed clearance.
+- **B — Incorrect:** The 2009 text preserves the Category B character.
+- **C — Incorrect:** District authorities have roles in public hearing and administration, not this substitute appraisal.
+- **D — Correct:** Category B is considered centrally as Category B when the state authority/committee is not duly constituted.
 
-**Answer: D.**
-**Explanation:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Remedial trap:** Central level does not necessarily mean Category A.
 
-### Q9. Which statement correctly identifies Multiple-clearance boundary?
+### MCQ 5 — B1 and B2
 
-A. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-B. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-C. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-D. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
+Which statement is most accurate?
 
-**Answer: A.**
-**Explanation:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. B1 requires an EIA report; B2 does not require an EIA report, subject to the applicable Schedule/guidelines and amendments
+B. B1 is appraised only by MoEFCC and B2 only by the NGT
+C. Every B2 project must undergo the same public consultation as B1
+D. B2 means that no environmental condition can be imposed
 
-### Q10. Which option preserves the ecological boundary of Multiple-clearance boundary?
+**Answer: A**
 
-A. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-B. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-C. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-D. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
+- **A — Correct:** Screening/category rules distinguish B1 from B2 by the need for further EIA study; current sectoral amendments must still be checked.
+- **B — Incorrect:** Category B ordinarily follows the SEAC-SEIAA route.
+- **C — Incorrect:** B2 projects are among the express public-consultation exemptions in the notification.
+- **D — Incorrect:** Reduced process does not remove regulatory conditions or other laws.
 
-**Answer: B.**
-**Explanation:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Remedial trap:** B2 means a different assessment route, not “zero regulation.”
 
-### Q11. Which statement uses Multiple-clearance boundary without changing its scale, parameter or status?
+### MCQ 6 — General Condition
 
-A. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-B. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-C. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-D. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
+Under the Schedule's General Condition, a Category B project is treated as Category A when it is located wholly or partly within the specified distance from:
 
-**Answer: C.**
-**Explanation:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. any municipal boundary, railway line, national highway or major port
+B. a notified protected area, identified critically polluted area, notified eco-sensitive area, or inter-State/international boundary
+C. every forest recorded in revenue records, irrespective of distance
+D. every Ramsar site, biosphere reserve, elephant corridor or reserved forest, irrespective of the notification's listed legal categories
 
-### Q12. Which option avoids the standard UPSC close-option trap about Multiple-clearance boundary?
+**Answer: B**
 
-A. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-B. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-C. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-D. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
+- **A — Incorrect:** These are not the four General Condition triggers.
+- **B — Correct:** The Schedule specifies 10 km from the four listed classes, with the notified proviso concerning inter-State boundaries.
+- **C — Incorrect:** Forest status may trigger other laws, but that is not the exact General Condition text.
+- **D — Incorrect:** Such designations can be relevant, but the legal test must use the notification's stated categories.
 
-**Answer: D.**
-**Explanation:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Remedial trap:** Use the exact four classes; do not replace them with a broader ecological wish-list.
 
-### Q13. Which statement correctly identifies Schedule applicability?
+### MCQ 7 — Specific Condition
 
-A. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-B. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-C. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-D. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
+The Schedule's Specific Condition chiefly addresses:
 
-**Answer: A.**
-**Explanation:** The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+A. automatic renewal of every mining EC
+B. exemption of all industries located in any notified industrial area, regardless of the estate's own clearance or compliance arrangements
+C. individual industries within a qualifying, prior-EC industrial estate/complex, subject to compliance and an identified responsible management
+D. transfer of EC between legal persons
 
-### Q14. Which option preserves the ecological boundary of Schedule applicability?
+**Answer: C**
 
-A. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-B. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-C. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-D. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
+- **A — Incorrect:** Mining validity is governed by paragraph 9 as amended, not the Specific Condition.
+- **B — Incorrect:** The condition is not a blanket industrial-area exemption.
+- **C — Correct:** It concerns specified estates/complexes with homogeneous or predefined activities that themselves obtain prior EC; compliance responsibility remains identified.
+- **D — Incorrect:** Transferability is dealt with separately in paragraph 11.
 
-**Answer: B.**
-**Explanation:** The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Remedial trap:** The Specific Condition attaches responsibility to the estate's clearance; it does not create an unregulated enclave.
 
-### Q15. Which statement uses Schedule applicability without changing its scale, parameter or status?
+### MCQ 8 — Prior-EC triggers
 
-A. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-B. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-C. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-D. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
+Consider the following:
 
-**Answer: C.**
-**Explanation:** The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+1. A new project listed in the Schedule
+2. Expansion/modernisation that crosses the applicable threshold
+3. A scheduled manufacturing unit changing product mix beyond the specified range
 
-### Q16. Which option avoids the standard UPSC close-option trap about Schedule applicability?
+Which require prior EC under paragraph 2, subject to the notification's exact terms?
 
-A. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-B. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-C. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-D. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
+A. 1 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-**Answer: D.**
-**Explanation:** The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q17. Which statement correctly identifies Category A and B boundary?
+- **A — Incorrect:** The notification also covers qualifying expansion/modernisation and product-mix change.
+- **B — Incorrect:** It omits the specified product-mix trigger.
+- **C — Incorrect:** It omits new scheduled projects.
+- **D — Correct:** All three appear in paragraph 2.
 
-A. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-B. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-C. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-D. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
+**Remedial trap:** Existing units are not immunised from prior EC when a notified change crosses the legal boundary.
 
-**Answer: A.**
-**Explanation:** Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 9 — Stage sequence
 
-### Q18. Which option preserves the ecological boundary of Category A and B boundary?
+Which is the correct maximum four-stage sequence for a new project under paragraph 7?
 
-A. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-B. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-C. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-D. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
+A. Screening → Scoping → Public Consultation → Appraisal
+B. Scoping → Screening → Appraisal → Public Consultation
+C. Baseline study → Clearance → Hearing → Monitoring
+D. Public Consultation → Screening → Scoping → Appraisal
 
-**Answer: B.**
-**Explanation:** Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q19. Which statement uses Category A and B boundary without changing its scale, parameter or status?
+- **A — Correct:** This is the notification's sequential order, though all four stages do not apply in every case.
+- **B — Incorrect:** Screening precedes scoping, and consultation precedes appraisal.
+- **C — Incorrect:** Baseline work sits within EIA preparation; clearance is the decision after appraisal.
+- **D — Incorrect:** Consultation cannot precede route determination and study design.
 
-A. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-B. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-C. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-D. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
+**Remedial trap:** “Maximum four stages” means exemptions exist; it does not change the order.
 
-**Answer: C.**
-**Explanation:** Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 10 — Screening
 
-### Q20. Which option avoids the standard UPSC close-option trap about Category A and B boundary?
+Screening under the EIA Notification is:
 
-A. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-B. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-C. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-D. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
+A. conducted for every Category A project to choose the EAC, fix clearance conditions and determine the final validity period
+B. confined to Category B projects and used to determine whether further EIA study is required
+C. the final grant or refusal of EC by SEIAA
+D. identical to the public hearing
 
-**Answer: D.**
-**Explanation:** Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q21. Which statement correctly identifies B1 and B2 boundary?
+- **A — Incorrect:** The notification labels screening as only for Category B.
+- **B — Correct:** SEAC scrutiny distinguishes B1 from B2 based on the applicable legal framework.
+- **C — Incorrect:** Screening is an early expert step, not the final regulatory decision.
+- **D — Incorrect:** A hearing is one component of public consultation.
 
-A. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-B. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-C. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-D. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
+**Remedial trap:** Screening asks “how much assessment?”; appraisal asks “should clearance be recommended?”
 
-**Answer: A.**
-**Explanation:** The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 11 — Scoping
 
-### Q22. Which option preserves the ecological boundary of B1 and B2 boundary?
+Which statement about scoping is correct?
 
-A. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-B. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-C. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-D. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
+A. The project proponent unilaterally fixes binding Terms of Reference, selects the appraisal body and determines whether consultation will occur at all
+B. Scoping is required only after EC is granted
+C. EAC/SEAC determines comprehensive Terms of Reference for A/B1 cases; listed item-8 projects follow the notification's special route
+D. Scoping decides compensation under section 15 of the NGT Act
 
-**Answer: B.**
-**Explanation:** The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q23. Which statement uses B1 and B2 boundary without changing its scale, parameter or status?
+- **A — Incorrect:** The proponent may suggest ToR, but the competent appraisal committee determines them.
+- **B — Incorrect:** Scoping precedes EIA preparation and appraisal.
+- **C — Correct:** It captures both the general rule and the notification's item-8 qualification.
+- **D — Incorrect:** NGT compensation is a separate adjudicatory function.
 
-A. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-B. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-C. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-D. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
+**Remedial trap:** A generic ToR can miss site-specific pathways; scoping must frame the actual study.
 
-**Answer: C.**
-**Explanation:** The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 12 — Baseline
 
-### Q24. Which option avoids the standard UPSC close-option trap about B1 and B2 boundary?
+Which baseline design is most defensible?
 
-A. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-B. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-C. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-D. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
+A. A single convenient-day sample collected after construction begins and extrapolated as representative of all seasons and receptors
+B. Only project-proponent production data
+C. National averages substituted for site data
+D. Pre-project, spatially and seasonally relevant measurements using disclosed, quality-controlled methods
 
-**Answer: D.**
-**Explanation:** The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q25. Which statement correctly identifies Screening boundary?
+- **A — Incorrect:** It cannot establish representative pre-project conditions.
+- **B — Incorrect:** Environmental receptors and community use patterns also matter.
+- **C — Incorrect:** National averages cannot reveal local exposure or ecological sensitivity.
+- **D — Correct:** A sound baseline provides the counterfactual against which predicted and observed change can be tested.
 
-A. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-B. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-C. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-D. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
+**Remedial trap:** Weak baseline data weakens prediction, conditions, monitoring and later liability together.
 
-**Answer: A.**
-**Explanation:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 13 — Impact prediction
 
-### Q26. Which option preserves the ecological boundary of Screening boundary?
+Impact prediction should primarily:
 
-A. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-B. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-C. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-D. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
+A. connect project actions to receptors, magnitude, duration, reversibility, distribution and uncertainty
+B. list only pollutants for which standards already exist
+C. exclude indirect and induced effects because they are not on the project site
+D. treat uncertainty as proof that no harm will occur
 
-**Answer: B.**
-**Explanation:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q27. Which statement uses Screening boundary without changing its scale, parameter or status?
+- **A — Correct:** Prediction is a causal exercise, not a descriptive inventory.
+- **B — Incorrect:** Ecological, health and social pathways can matter even without a single numerical standard.
+- **C — Incorrect:** Off-site and induced effects may be decision-relevant.
+- **D — Incorrect:** The precautionary principle rejects using scientific uncertainty as a reason for inaction.
 
-A. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-B. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-C. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-D. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
+**Remedial trap:** “No measured impact” and “impact not measured” are opposite propositions.
 
-**Answer: C.**
-**Explanation:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 14 — Alternatives
 
-### Q28. Which option avoids the standard UPSC close-option trap about Screening boundary?
+Which set best represents a genuine alternatives analysis?
 
-A. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-B. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-C. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-D. Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
+A. Only two brands of the same pollution-control equipment
+B. No-project, alternative site, scale, technology, layout and timing, with reasons for rejection
+C. Only the promoter's preferred design, a standard mitigation list and a post-decision comparison of equipment suppliers
+D. A post-clearance comparison of contractors
 
-**Answer: D.**
-**Explanation:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q29. Which statement correctly identifies Scoping and terms of reference?
+- **A — Incorrect:** It is too narrow to test the fundamental development choice.
+- **B — Correct:** Alternatives preserve decision space and expose avoidable harm.
+- **C — Incorrect:** Mitigating a predetermined choice is not a genuine alternatives inquiry.
+- **D — Incorrect:** Contractor selection after clearance cannot substitute for pre-decision analysis.
 
-A. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-B. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-C. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-D. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
+**Remedial trap:** An EIA without a credible alternative can become justification rather than assessment.
 
-**Answer: A.**
-**Explanation:** Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 15 — Mitigation hierarchy
 
-### Q30. Which option preserves the ecological boundary of Scoping and terms of reference?
+Select the correct hierarchy:
 
-A. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-B. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-C. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-D. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
+A. Offset → restore → minimise → avoid
+B. Minimise → compensate → approve → monitor
+C. Avoid → minimise → restore/rehabilitate → offset or compensate residual impacts
+D. Predict → pay compensation → treat all residual effects as authorised → expand without revisiting avoidable impacts
 
-**Answer: B.**
-**Explanation:** Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q31. Which statement uses Scoping and terms of reference without changing its scale, parameter or status?
+- **A — Incorrect:** It reverses the hierarchy.
+- **B — Incorrect:** Approval is not a mitigation step, and compensation should not precede avoidance.
+- **C — Correct:** Avoidance has priority; offsets address only residual impacts and cannot make every loss ecologically substitutable.
+- **D — Incorrect:** Payment does not legalise avoidable or irreversible damage.
 
-A. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-B. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-C. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-D. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
+**Remedial trap:** “Compensable” does not necessarily mean “ecologically replaceable.”
 
-**Answer: C.**
-**Explanation:** Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 16 — EMP
 
-### Q32. Which option avoids the standard UPSC close-option trap about Scoping and terms of reference?
+An effective Environmental Management Plan should contain:
 
-A. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-B. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-C. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-D. Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
+A. broad aspirations without responsibility or budget
+B. only construction-phase measures
+C. only standard conditions copied from another project, without assigned responsibility, finance, indicators or corrective thresholds
+D. mitigation actions, accountable persons, schedule, finance, indicators, monitoring, reporting and corrective triggers
 
-**Answer: D.**
-**Explanation:** Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q33. Which statement correctly identifies Assessment evidence?
+- **A — Incorrect:** Unassigned aspirations are not implementable controls.
+- **B — Incorrect:** Operation, closure and emergencies can be equally important.
+- **C — Incorrect:** Conditions must respond to the assessed project and site.
+- **D — Correct:** An EMP converts analysis into auditable obligations.
 
-A. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-B. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-C. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-D. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
+**Remedial trap:** If a measure lacks an owner, indicator and correction trigger, it is difficult to enforce.
 
-**Answer: A.**
-**Explanation:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 17 — Consultation components
 
-### Q34. Which option preserves the ecological boundary of Assessment evidence?
+Public consultation ordinarily comprises:
 
-A. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-B. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-C. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-D. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
+A. a site/near-site, district-wise public hearing plus written responses from other persons with a plausible stake
+B. an EAC meeting plus a parliamentary debate
+C. only comments by local elected representatives
+D. only an online survey administered by the proponent
 
-**Answer: B.**
-**Explanation:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q35. Which statement uses Assessment evidence without changing its scale, parameter or status?
+- **A — Correct:** These are the two components specified in paragraph 7.
+- **B — Incorrect:** Neither substitutes for the notification's consultation design.
+- **C — Incorrect:** Standing is not confined to elected representatives.
+- **D — Incorrect:** Written responses are broader and the hearing is ordinarily separate.
 
-A. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-B. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-C. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-D. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
+**Remedial trap:** Public hearing is a component of public consultation, not a synonym for the whole process.
 
-**Answer: C.**
-**Explanation:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 18 — Consultation exemptions
 
-### Q36. Which option avoids the standard UPSC close-option trap about Assessment evidence?
+Which group is composed only of exemptions stated in the amended notification?
 
-A. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-B. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-C. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-D. A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
+A. Every mining project, thermal plant, port expansion and linear-infrastructure proposal, irrespective of location, land acquisition, legal category or impact significance
+B. Irrigation modernisation; qualifying estates; no-new-land road expansion; in-port maintenance dredging; item 8; B2; defence/security or centrally determined strategic projects
+C. Every project below a State's financial threshold; every public-sector project
+D. Every renewable-energy and border-area project without qualification
 
-**Answer: D.**
-**Explanation:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q37. Which statement correctly identifies Public-consultation boundary?
+- **A — Incorrect:** These are not blanket exemptions.
+- **B — Correct:** It tracks the notified list, including amendments reflected in the consolidated text.
+- **C — Incorrect:** Ownership and project cost alone do not create these exemptions.
+- **D — Incorrect:** Such broad wording is not the EIA Notification, 2006 exemption list.
 
-A. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-B. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-C. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-D. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
+**Remedial trap:** Exempt from public consultation does not mean exempt from appraisal or all other approvals.
 
-**Answer: A.**
-**Explanation:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 19 — Hearing access
 
-### Q38. Which option preserves the ecological boundary of Public-consultation boundary?
+Which procedural package is correctly matched to Appendix IV?
 
-A. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-B. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-C. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-D. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
+A. Seven days' public notice, an English-only summary and access confined to the project proponent's registered corporate office without local-language disclosure
+B. Thirty days' notice, but no access to the draft EIA
+C. National and regional-language daily notice, thirty days, and identified access points for the draft and summary EIA
+D. Notice only after the hearing minutes are approved
 
-**Answer: B.**
-**Explanation:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q39. Which statement uses Public-consultation boundary without changing its scale, parameter or status?
+- **A — Incorrect:** Seven days applies to finalising hearing arrangements after receipt; public response gets a minimum thirty-day notice.
+- **B — Incorrect:** The draft/summary must be made accessible through identified offices and arrangements.
+- **C — Correct:** It captures the notice, language and access architecture.
+- **D — Incorrect:** Notice must precede the hearing.
 
-A. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-B. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-C. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-D. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
+**Remedial trap:** Formal availability is not necessarily meaningful accessibility; quality also depends on language, timing, venue and usable data.
 
-**Answer: C.**
-**Explanation:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 20 — Appraisal and decision
 
-### Q40. Which option avoids the standard UPSC close-option trap about Public-consultation boundary?
+At appraisal:
 
-A. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-B. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-C. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-D. Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
+A. the project proponent issues the EC after answering questions
+B. the public hearing automatically binds the regulator to reject
+C. the EAC/SEAC may verify forms and attendance records but cannot examine alternatives, baseline quality, consultation or proposed safeguards
+D. EAC/SEAC scrutinises the record and makes a reasoned categorical recommendation; the regulatory authority grants or rejects
 
-**Answer: D.**
-**Explanation:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q41. Which statement correctly identifies Appraisal and decision?
+- **A — Incorrect:** A proponent cannot clear its own project.
+- **B — Incorrect:** Consultation concerns must be addressed, but there is no automatic outcome rule.
+- **C — Incorrect:** Appraisal is substantive scrutiny of the EIA, consultation and validated information.
+- **D — Correct:** It preserves both expert scrutiny and the final regulatory decision.
 
-A. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-B. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-C. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-D. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
+**Remedial trap:** A reasoned appraisal must engage material concerns, not merely record that documents exist.
 
-**Answer: A.**
-**Explanation:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 21 — Current EC validity
 
-### Q42. Which option preserves the ecological boundary of Appraisal and decision?
+Under S.O. 1807(E) of 12 April 2022, which summary is correct?
 
-A. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-B. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-C. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-D. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
+A. River-valley 13; nuclear 15; other non-mining 10; mining-plan life with a conditional route from 30 to 50 years
+B. All projects, including mining and nuclear facilities, receive a uniform ten-year validity and an automatic five-year extension without fresh scrutiny
+C. Mining EC is perpetual once granted
+D. River-valley and nuclear ECs both expire after ten years without extension
 
-**Answer: B.**
-**Explanation:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q43. Which statement uses Appraisal and decision without changing its scale, parameter or status?
+- **A — Correct:** It states the amended validity design and the conditional mining extension with periodic safeguard review.
+- **B — Incorrect:** That reflects neither the current differentiated periods nor extension provisions.
+- **C — Incorrect:** Mining validity is bounded by plan/lease/life and statutory maxima.
+- **D — Incorrect:** The amended periods differ and provide limited extension routes.
 
-A. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-B. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-C. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-D. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
+**Remedial trap:** EC “validity” concerns the period to start production/complete construction as defined; it is not a declaration that impacts cease later.
 
-**Answer: C.**
-**Explanation:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 22 — Transfer
 
-### Q44. Which option avoids the standard UPSC close-option trap about Appraisal and decision?
+Which statement correctly describes transfer of EC under paragraph 11?
 
-A. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-B. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-C. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-D. An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
+A. Every transfer requires a fresh EIA, repeat public hearing, reclassification, new conditions and a completely renewed validity period after authority review
+B. During validity, transfer may occur to an entitled legal person through the prescribed application/no-objection route, retaining terms and remaining validity
+C. Transfer erases past non-compliance
+D. Transfer converts Category B into Category A
 
-**Answer: D.**
-**Explanation:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q45. Which statement correctly identifies Post-clearance compliance?
+- **A — Incorrect:** Paragraph 11 does not impose a fresh hearing in every transfer.
+- **B — Correct:** The clearance and its conditions continue; the legal person changes through regulatory approval.
+- **C — Incorrect:** Transfer is not amnesty.
+- **D — Incorrect:** Project category is not altered merely by transfer.
 
-A. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-B. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-C. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-D. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
+**Remedial trap:** The asset may change hands; the environmental obligations do not disappear.
 
-**Answer: A.**
-**Explanation:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 23 — Post-clearance compliance
 
-### Q46. Which option preserves the ecological boundary of Post-clearance compliance?
+Which combination reflects paragraph 10?
 
-A. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-B. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-C. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-D. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
+A. Compliance reports are confidential commercial documents
+B. Only Category A proponents disclose EC and conditions; Category B compliance reports remain confidential unless litigation begins or enforcement notice issues
+C. EC disclosure applies; half-yearly reports are due on 1 June and 1 December and remain public documents
+D. Monitoring begins only when the NGT registers a case
 
-**Answer: B.**
-**Explanation:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q47. Which statement uses Post-clearance compliance without changing its scale, parameter or status?
+- **A — Incorrect:** The notification treats compliance reports as public documents.
+- **B — Incorrect:** Category B has its own disclosure requirement.
+- **C — Correct:** It links publicity, recurring reporting and public access.
+- **D — Incorrect:** Compliance is a continuing regulatory duty, not litigation-dependent.
 
-A. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-B. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-C. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-D. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
+**Remedial trap:** Clearance conditions matter only if monitored against evidence and corrected when breached.
 
-**Answer: C.**
-**Explanation:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 24 — Wider assessments
 
-### Q48. Which option avoids the standard UPSC close-option trap about Post-clearance compliance?
+Which mapping is correct?
 
-A. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-B. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-C. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-D. A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
+A. Strategic assessment—single machine; cumulative assessment—one emission stack
+B. Carrying capacity—promoter's financial capacity; social assessment—only land price
+C. Health assessment covers occupational safety and nearby hospitals only, while biodiversity assessment ends with a one-season species inventory
+D. Strategic tests policies/plans; cumulative combines pressures; carrying capacity tests limits; specialist assessments trace distribution and receptors
 
-**Answer: D.**
-**Explanation:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q49. Which statement correctly identifies NGT statutory identity?
+- **A — Incorrect:** Strategic and cumulative assessments operate at broader decision scales.
+- **B — Incorrect:** Carrying capacity is not financial solvency, and social effects exceed market land value.
+- **C — Incorrect:** Community exposure, habitat function, seasonality and ecosystem services also matter.
+- **D — Correct:** It distinguishes complementary assessment lenses.
 
-A. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-B. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-C. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-D. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
+**Remedial trap:** A project EIA can be technically competent yet still miss landscape-level or distributional harm.
 
-**Answer: A.**
-**Explanation:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 25 — NGT composition
 
-### Q50. Which option preserves the ecological boundary of NGT statutory identity?
+Section 4 provides for:
 
-A. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-B. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-C. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-D. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
+A. Full-time Chairperson; 10–20 Judicial and 10–20 Expert Members; equal Judicial-Expert numbers on a hearing bench
+B. Only serving Supreme Court and High Court judges, assisted by external scientists who never participate in adjudication or voting
+C. a chairperson and one pollution-control officer in every State
+D. an elected environmental jury
 
-**Answer: B.**
-**Explanation:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q51. Which statement uses NGT statutory identity without changing its scale, parameter or status?
+- **A — Correct:** It states the statutory composition and parity rule for hearing benches.
+- **B — Incorrect:** The Tribunal combines judicial and expert members.
+- **C — Incorrect:** NGT is one national tribunal with notified places of sitting, not one tribunal per State.
+- **D — Incorrect:** Its membership is statutory, not electoral.
 
-A. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-B. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-C. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-D. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
+**Remedial trap:** The expert member is part of adjudication, not merely an external witness.
 
-**Answer: C.**
-**Explanation:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 26 — Benches
 
-### Q52. Which option avoids the standard UPSC close-option trap about NGT statutory identity?
+Which list correctly identifies the current ordinary institutional map shown by the NGT?
 
-A. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-B. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-C. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-D. The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
+A. Principal Bench Mumbai, with permanent zonal benches at Delhi, Jaipur, Kochi, Guwahati and every State capital
+B. Principal Bench New Delhi; zonal benches at Bhopal, Kolkata, Chennai and Pune
+C. Principal Bench Bhopal; one bench in every State capital
+D. Supreme Court environmental bench plus CPCB regional benches
 
-**Answer: D.**
-**Explanation:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q53. Which statement correctly identifies Original-jurisdiction boundary?
+- **A — Incorrect:** The locations are wrong.
+- **B — Correct:** Delhi is the Principal Bench; the four zonal benches correspond to Central, Eastern, Southern and Western zones.
+- **C — Incorrect:** There is no permanent NGT bench in every State capital.
+- **D — Incorrect:** Constitutional courts and pollution boards are distinct institutions.
 
-A. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-B. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-C. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-D. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
+**Remedial trap:** Circuit sittings do not convert every venue into a permanent zonal bench.
 
-**Answer: A.**
-**Explanation:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 27 — Section 14
 
-### Q54. Which option preserves the ecological boundary of Original-jurisdiction boundary?
+Section 14 principally covers:
 
-A. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-B. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-C. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-D. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
+A. every civil or criminal environmental allegation, regardless of Schedule I, remedy, limitation or the existence of a legal dispute
+B. appeals from NGT to the Supreme Court
+C. Civil cases raising a substantial environmental question under Schedule I, within six months plus up to sixty days
+D. compensation claims filed within five years
 
-**Answer: B.**
-**Explanation:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q55. Which statement uses Original-jurisdiction boundary without changing its scale, parameter or status?
+- **A — Incorrect:** Section 14 is civil original jurisdiction.
+- **B — Incorrect:** Supreme Court appeals are under section 22.
+- **C — Correct:** Both subject-matter and limitation elements are essential.
+- **D — Incorrect:** Five years belongs to section 15 relief/restitution applications.
 
-A. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-B. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-C. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-D. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
+**Remedial trap:** An environmental flavour alone is insufficient; the Schedule I and substantial-question links must be shown.
 
-**Answer: C.**
-**Explanation:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 28 — Section 15
 
-### Q56. Which option avoids the standard UPSC close-option trap about Original-jurisdiction boundary?
+Which relief falls squarely under section 15?
 
-A. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-B. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-C. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-D. NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
+A. Appointment of an SPCB chairperson
+B. Criminal conviction and imprisonment for every offence under the Wildlife (Protection) Act, Indian Forest Act and mining legislation
+C. Advisory opinion on a draft Bill
+D. Victim compensation plus property/environment restitution, ordinarily within five years and a possible further sixty days
 
-**Answer: D.**
-**Explanation:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q57. Which statement correctly identifies Appellate-jurisdiction boundary?
+- **A — Incorrect:** *Techi Tagi Tara* illustrates why appointment disputes do not fit sections 14–15.
+- **B — Incorrect:** NGT is not the criminal trial court for every wildlife offence.
+- **C — Incorrect:** It does not issue abstract advisory opinions.
+- **D — Correct:** These are the three express remedial heads and the section 15 limitation.
 
-A. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-B. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-C. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-D. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
+**Remedial trap:** Restitution is distinct from merely imposing a monetary penalty.
 
-**Answer: A.**
-**Explanation:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 29 — Section 16
 
-### Q58. Which option preserves the ecological boundary of Appellate-jurisdiction boundary?
+Section 16:
 
-A. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-B. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-C. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-D. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
+A. Appeals from specified statutory orders, including EC grant/refusal, within thirty days plus a possible further sixty days
+B. Unlimited appellate power over every environmental, land, wildlife, planning and contractual decision made by any public or private body
+C. governs review by the same NGT bench
+D. fixes the five-year compensation limitation
 
-**Answer: B.**
-**Explanation:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q59. Which statement uses Appellate-jurisdiction boundary without changing its scale, parameter or status?
+- **A — Correct:** Appellate jurisdiction is enumeration-based and time-bound.
+- **B — Incorrect:** The appeal must fit a listed order/decision/direction/determination.
+- **C — Incorrect:** Review derives from section 19(4)(f) and Rule 22.
+- **D — Incorrect:** That clock belongs to section 15.
 
-A. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-B. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-C. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-D. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
+**Remedial trap:** Before filing, identify the exact clause of section 16—not merely an environmental grievance.
 
-**Answer: C.**
-**Explanation:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 30 — Section 18 standing
 
-### Q60. Which option avoids the standard UPSC close-option trap about Appellate-jurisdiction boundary?
+Who may apply under section 18, subject to its terms?
 
-A. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-B. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-C. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-D. NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
+A. Only a person owning the polluted land and able to prove registered title, direct physical injury and exclusive financial loss
+B. Injured persons, owners, representatives, agents, aggrieved organisations and listed governments or environmental authorities
+C. Only the Central Government
+D. Only an advocate authorised by the NGT
 
-**Answer: D.**
-**Explanation:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q61. Which statement correctly identifies Remedy boundary?
+- **A — Incorrect:** Standing is much broader.
+- **B — Correct:** Section 18 deliberately permits representative and public-authority access.
+- **C — Incorrect:** Governments are included but not exclusive.
+- **D — Incorrect:** Legal representation is not the source of substantive standing.
 
-A. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-B. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-C. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-D. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
+**Remedial trap:** Broad standing does not remove jurisdictional and limitation requirements.
 
-**Answer: A.**
-**Explanation:** Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 31 — Section 19
 
-### Q62. Which option preserves the ecological boundary of Remedy boundary?
+Which statement is correct?
 
-A. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-B. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-C. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-D. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
+A. NGT is strictly bound by every CPC and Evidence Act rule and lacks power to regulate procedure, review or grant interim relief
+B. NGT cannot review its own decision or grant interim relief
+C. NGT follows natural justice, regulates procedure, is not bound by CPC/Evidence Act rules, and has specified civil-court powers
+D. NGT proceedings are purely administrative
 
-**Answer: B.**
-**Explanation:** Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q63. Which statement uses Remedy boundary without changing its scale, parameter or status?
+- **A — Incorrect:** Sections 19(1) and 19(3) say the opposite.
+- **B — Incorrect:** Section 19(4) includes review and interim orders.
+- **C — Correct:** Flexibility is coupled with natural justice and enumerated powers.
+- **D — Incorrect:** Proceedings are deemed judicial for specified purposes.
 
-A. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-B. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-C. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-D. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
+**Remedial trap:** Procedural flexibility never authorises denial of notice, disclosure or hearing.
 
-**Answer: C.**
-**Explanation:** Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 32 — Section 20
 
-### Q64. Which option avoids the standard UPSC close-option trap about Remedy boundary?
+Which trio must the NGT apply while passing an order, decision or award?
 
-A. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-B. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-C. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-D. Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
+A. Inter-generational equity, public trust and absolute liability only
+B. Natural justice, res judicata, proportionality, legitimate expectation and strict liability as an exhaustive statutory list
+C. Federalism, subsidiarity and separation of powers only
+D. Sustainable development, precautionary principle and polluter pays principle
 
-**Answer: D.**
-**Explanation:** Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q65. Which statement correctly identifies Principles and adjudication?
+- **A — Incorrect:** These doctrines may inform environmental law, but they are not the exact statutory trio.
+- **B — Incorrect:** They are procedural/general doctrines, not section 20's text.
+- **C — Incorrect:** These are not the section 20 principles.
+- **D — Correct:** The Act expressly names all three.
 
-A. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-B. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-C. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-D. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
+**Remedial trap:** Quote the statutory trio exactly before adding wider constitutional doctrines.
 
-**Answer: A.**
-**Explanation:** Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 33 — Limitation clocks
 
-### Q66. Which option preserves the ecological boundary of Principles and adjudication?
+Which row is correct?
 
-A. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-B. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-C. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-D. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
+A. Section 14: 6 months + 60 days; section 15: 5 years + 60 days; section 16: 30 days + 60 days
+B. Sections 14, 15 and 16: all 90 days
+C. Section 14: five years plus sixty days; section 15: thirty days plus ninety; section 16: six months without condonation
+D. No statutory limitation applies where environmental harm is alleged
 
-**Answer: B.**
-**Explanation:** Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q67. Which statement uses Principles and adjudication without changing its scale, parameter or status?
+- **A — Correct:** The remedy chosen determines the clock.
+- **B — Incorrect:** Ninety days is the section 22 appeal period to the Supreme Court.
+- **C — Incorrect:** It scrambles all three provisions.
+- **D — Incorrect:** Environmental importance does not erase express limitation clauses, though continuing causes require case-specific legal analysis.
 
-A. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-B. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-C. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
-D. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
+**Remedial trap:** Forum selection and limitation must be solved together.
 
-**Answer: C.**
-**Explanation:** Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 34 — Section 22
 
-### Q68. Which option avoids the standard UPSC close-option trap about Principles and adjudication?
+An appeal from an NGT award, decision or order lies:
 
-A. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-B. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-C. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-D. Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
+A. to the High Court within thirty days on a complete rehearing of facts, scientific merits, compensation and every interlocutory direction
+B. to the Supreme Court within ninety days on section 100 CPC grounds, subject to sufficient-cause delay power
+C. to MoEFCC within sixty days
+D. to a larger NGT bench within five years
 
-**Answer: D.**
-**Explanation:** Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q69. Which statement correctly identifies Limitation discipline?
+- **A — Incorrect:** Section 22 names the Supreme Court.
+- **B — Correct:** It states the forum, period and statutory grounds.
+- **C — Incorrect:** The executive is not the appellate forum over NGT decisions.
+- **D — Incorrect:** Review is different from statutory appeal.
 
-A. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-B. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-C. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-D. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
+**Remedial trap:** A review before NGT and an appeal to the Supreme Court are not interchangeable remedies.
 
-**Answer: A.**
-**Explanation:** Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 35 — Schedule I
 
-### Q70. Which option preserves the ecological boundary of Limitation discipline?
+Which statement is accurate?
 
-A. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-B. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-C. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-D. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
+A. The Wildlife (Protection) Act, 1972 is expressly in Schedule I
+B. The Indian Forest Act, Wildlife Act, Mines and Minerals Act and Disaster Management Act are all expressly listed in Schedule I
+C. Printed Schedule: seven Acts; Wildlife/Indian Forest Acts absent; Water Cess repealed; forest Act renamed
+D. Any environmental statute is automatically incorporated without notification
 
-**Answer: B.**
-**Explanation:** Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q71. Which statement uses Limitation discipline without changing its scale, parameter or status?
+- **A — Incorrect:** The Wildlife Act is a classic close-option trap because it is absent.
+- **B — Incorrect:** Neither enactment is listed.
+- **C — Correct:** It preserves the printed-list fact while recognising later repeal/renaming history.
+- **D — Incorrect:** Section 34 provides a formal mechanism to amend Schedule I.
 
-A. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-B. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-C. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-D. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
+**Remedial trap:** “Environment-related” is broader than “within Schedule I.”
 
-**Answer: C.**
-**Explanation:** Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 36 — Review, appeal, execution and contempt
 
-### Q72. Which option avoids the standard UPSC close-option trap about Limitation discipline?
+Which distinction is correct?
 
-A. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-B. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-C. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-D. Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
+A. Review and appeal are the same proceeding
+B. Every delayed compliance is automatically contempt punishable by NGT
+C. NGT orders require a fresh civil suit, a new finding on merits and separate High Court confirmation before any recovery or compliance step
+D. Review: s19/Rule 22; appeal: s22; execution: s25; penal non-compliance: s26, distinct from constitutional contempt
 
-**Answer: D.**
-**Explanation:** Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
 
-### Q73. Which statement correctly identifies Constitutional-court boundary?
+- **A — Incorrect:** Review corrects limited errors in the same forum; appeal invokes a superior forum under statute.
+- **B — Incorrect:** Penal liability requires strict statutory application; the Supreme Court has rejected automatic personal liability.
+- **C — Incorrect:** Section 25 makes NGT orders executable as civil-court decrees and permits transmission/revenue recovery.
+- **D — Correct:** It separates four often-confused mechanisms.
 
-A. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-B. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-C. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-D. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
+**Remedial trap:** Do not label every enforcement step “contempt.”
 
-**Answer: A.**
-**Explanation:** The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 37 — Suo motu power
 
-### Q74. Which option preserves the ecological boundary of Constitutional-court boundary?
+*Municipal Corporation of Greater Mumbai v. Ankita Sinha* (2021) is important because the Supreme Court:
 
-A. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-B. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-C. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-D. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
+A. affirmed NGT suo motu power within its environmental mandate, while preserving notice, hearing and other requirements of fair procedure
+B. abolished NGT original jurisdiction and confined the Tribunal to appeals filed only by governments and statutory pollution-control boards at central level
+C. placed the Wildlife Act in Schedule I
+D. barred reliance on media reports in every circumstance
 
-**Answer: B.**
-**Explanation:** The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: A**
 
-### Q75. Which statement uses Constitutional-court boundary without changing its scale, parameter or status?
+- **A — Correct:** The Court treated NGT as a distinctive environmental forum capable of initiating action, while natural justice remains binding.
+- **B — Incorrect:** The decision strengthened, not abolished, its role.
+- **C — Incorrect:** Courts do not rewrite Schedule I through this holding.
+- **D — Incorrect:** A report may trigger proceedings; it does not replace proof or hearing.
 
-A. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-B. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-C. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
-D. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
+**Remedial trap:** Suo motu initiation and final adjudication are separate stages.
 
-**Answer: C.**
-**Explanation:** The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 38 — Jurisdictional boundary
 
-### Q76. Which option avoids the standard UPSC close-option trap about Constitutional-court boundary?
+In *Techi Tagi Tara v. Rajendra Singh Bhandari*, the Supreme Court held that:
 
-A. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-B. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-C. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-D. The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
+A. every SPCB appointment, service, qualification and removal dispute belongs exclusively to NGT because the institution performs environmental functions under pollution statutes
+B. An appointment challenge did not fit ss.14–15 merely because the body was environmental; constitutional-court review was appropriate
+C. NGT may amend the eligibility rules for public offices
+D. section 20 overrides every jurisdictional limit
 
-**Answer: D.**
-**Explanation:** The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: B**
 
-### Q77. Which statement correctly identifies Instrument and evidence boundary?
+- **A — Incorrect:** The holding was the opposite.
+- **B — Correct:** Subject matter, “dispute,” substantial question and available relief must all fit the Act.
+- **C — Incorrect:** The Tribunal cannot redesign appointments beyond jurisdiction.
+- **D — Incorrect:** Environmental principles guide relief within jurisdiction; they do not create jurisdiction.
 
-A. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-B. Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-C. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-D. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
+**Remedial trap:** A green institution does not make every dispute about it a green dispute.
 
-**Answer: A.**
-**Explanation:** An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 39 — Ex-post-facto EC: current law
 
-### Q78. Which option preserves the ecological boundary of Instrument and evidence boundary?
+After *Vanashakti v. Union of India*, 2026 INSC 761, which statement is most accurate?
 
-A. Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-B. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-C. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-D. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
+A. Every project may obtain retrospective EC through an office memorandum
+B. The 2017 notification and 2021 office memorandum remain permanently open for all fresh violation applications, without category or time limits
+C. Prior EC mandatory; 2021 OM prospectively quashed; 2017 window upheld but closed to fresh applications
+D. Courts have held that prior EC is merely optional guidance
 
-**Answer: B.**
-**Explanation:** An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: C**
 
-### Q79. Which statement uses Instrument and evidence boundary without changing its scale, parameter or status?
+- **A — Incorrect:** The Court rejected a perpetual administrative regularisation route.
+- **B — Incorrect:** Paragraphs 79–80 bar fresh applications under those instruments.
+- **C — Correct:** It states the rule, the limited delegated-legislation exception and the prospective treatment of past/pending cases.
+- **D — Incorrect:** The judgment repeatedly affirms the mandatory character of prior EC.
 
-A. Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-B. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-C. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-D. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
+**Remedial trap:** Do not reduce the current law to either “all ex-post EC banned forever” or “routine regularisation allowed.”
 
-**Answer: C.**
-**Explanation:** An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+### MCQ 40 — Integrated governance
 
-### Q80. Which option avoids the standard UPSC close-option trap about Instrument and evidence boundary?
+Which synthesis is best?
 
-A. The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-B. Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-C. The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-D. An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
+A. EIA and NGT are interchangeable clearance bodies
+B. NGT performs baseline sampling while EAC awards compensation
+C. Once EC is issued, NGT cannot examine conditions, statutory harm, compensation, restitution, post-clearance breach or any appeal against the clearance decision
+D. EIA is preventive and decision-forming; NGT provides statutory adjudication, appeal, relief and restitution when qualifying disputes or harm arise
 
-**Answer: D.**
-**Explanation:** An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims. The other options belong to different media, parameters, processes, scales, actors, institutions, instruments or status categories.
+**Answer: D**
+
+- **A — Incorrect:** Their legal functions and timing differ.
+- **B — Incorrect:** It reverses technical appraisal and adjudicatory roles.
+- **C — Incorrect:** Section 16 expressly includes EC appeals, and sections 14–15 cover qualifying disputes/remedies.
+- **D — Correct:** It captures the preventive-corrective pair without overstating either institution.
+
+**Remedial trap:** Good governance requires both a credible ex-ante choice and enforceable ex-post accountability.
+
+---
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED EIA, CLEARANCE, NGT AND ENVIRONMENTAL-JUSTICE PYQ OWNERSHIP
+### PYQ ownership and provenance ledger
 
-Audited ledgers route direct Mains demands on EIA reform, NGO and activist influence, mining hazards and constitutional environmental adjudication, plus objective distinctions between NGT and CPCB and Environment Protection Act powers. No answer key is inferred.
+| Year | Stage/Paper | Printed question | Ownership | Local official source | Key status |
+|---:|---|---:|---|---|---|
+| 2018 | Prelims GS-I, Series C | Q4 | **Cross-owned:** Topic 16 + Polity tribunal/regulator classification | `books/more_previous_papers/QP-CSP-18-GS-I-C.pdf`, code `CYRF-F-TXLI` | Official key unavailable locally; inferred below |
+| 2018 | Mains GS-II | Q6 | **Application/cross-owned:** Governance policy design + Topic 16 | `books/more_previous_papers/GENERAL-STUDIES-PAPER-II.pdf`, code `EGT-G-GSD` | Mains—no official answer key |
+| 2019 | Mains GS-I | Q15 | **Direct routed owner:** Topic 16 | `books/more_previous_papers/QP-CSM19-GeneralStudies-I.pdf`, code `SDF-G-GSU` | Mains—no official answer key |
+| 2019 | Prelims GS-I, local booklet | Q58 | **Direct routed owner:** Topic 16 | `books/more_previous_papers/csp-p1.pdf`, code `BKL-F-GHP/54A` | Official key unavailable locally; inferred below |
+| 2020 | Mains GS-III | Q7 | **Direct routed owner:** Topic 16 | `books/more_previous_papers/Gen_St_P3.pdf`, code `URC-G-GST` | Mains—no official answer key |
+| 2022 | Mains GS-II | Q1 | **Application/cross-owned:** Supreme Court + Topic 16 | `books/more_previous_papers/QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf`, code `CRNA-X-GSB` | Mains—no official answer key |
+| 2024 | Mains GS-III | Q8 | **Direct routed owner:** Topic 16 | `books/mains/03 UPSC 2024 Paper-III.pdf` | Mains—no official answer key |
+| 2025 | Mains GS-III | Q17 | **Direct routed owner:** Topic 16; mining geography is supportive | `books/mains/UPSC Mains 2025 GS Paper 3 3.pdf` | Mains—no official answer key |
 
-### OWNER PYQ LEDGER EXTRACTS
+### PYQ 1 — UPSC Prelims 2018, GS-I, Series C, Q4
 
-#### 9. PYQ application
+**Question:** How is the National Green Tribunal (NGT) different from the Central Pollution Control Board (CPCB)?
 
-- ✅ **2024 GS-III direct PYQ:** role of environmental NGOs/activists in
-  influencing EIA outcomes, requiring **four properly sourced examples**.
-- ✅ **2025 GS-III cross-route:** mining as an environmental hazard and
-  remedial measures; use this file for EIA/clearance/closure governance and
-  Geography topic 31 for mineral occurrence. Exact routes: `../README.md`.
+1. The NGT has been established by an Act whereas the CPCB has been created by executive order of the Government.
+2. The NGT provides environmental justice and helps reduce the burden of litigation in the higher courts whereas the CPCB promotes cleanliness of streams and wells, and aims to improve the quality of air in the country.
 
-- ⚠️ Recurring Prelims pattern: distinguish Category A/B/B1/B2 clearance requirements and
-  identify the four EIA process stages correctly.
-- ⚠️ Mains linkage: NGT case examples are used to illustrate the application of the Polluter
-  Pays and Precautionary Principles in Indian environmental jurisprudence.
+Which of the statements given above is/are correct?
 
-#### Recent PYQ Integration (2024-2025)
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+**Key label:** **INFERRED ANSWER — NOT OFFICIALLY VERIFIED LOCALLY: B**
 
-- **Years represented:** 2024, 2025
-- **Paper(s):** GS-III
-- **Routed question demands:** 2
+**Solution:** Statement 1 is false. NGT was established under the NGT Act, 2010, but CPCB is also statutory: it was constituted under the Water (Prevention and Control of Pollution) Act, 1974 and later received Air Act functions. Statement 2 correctly contrasts adjudicatory environmental justice with CPCB's regulatory and pollution-control mandate. Therefore, only statement 2 is correct.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-III | 8 | Role of environmental NGOs and activists in EIA outcomes | Cite examples · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | GS-III | 17 | Mining as an environmental hazard and remedial measures | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Why this earns marks:** It identifies the exact trap—“statutory tribunal versus executive regulator”—without accepting the false premise that CPCB is merely executive.
 
-##### What this owner must now support
+### PYQ 2 — UPSC Mains 2018, GS-II, Q6
 
-- Role of environmental NGOs and activists in EIA outcomes
-- Mining as an environmental hazard and remedial measures
+**Question:** “Policy contradictions among various competing sectors and stakeholders have resulted in inadequate ‘protection and prevention of degradation’ to environment.” Comment with relevant illustrations. *(10 marks, 150 words)*
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Model answer:**
 
-#### Historical PYQ Integration (2018-2023)
+Environmental degradation reflects not absence of law but incoherence between sectoral decisions. Mining or infrastructure agencies may value output and connectivity, while EIA, forest, wildlife, water and community-rights authorities examine fragments of the same landscape. POSCO illustrated the danger of appraising a smaller project phase while wider linked impacts remained material. Niyamgiri showed that mineral policy could not ignore forest, livelihood and religious rights recognised through the Gram Sabha route. At Mopa, the Supreme Court required expert scrutiny because appraisal must engage material environmental concerns, not merely complete procedure.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+The cure is integrated spatial planning, cumulative-impact and carrying-capacity studies, shared baseline data, early alternatives analysis, and reasoned reconciliation of public-hearing concerns. Independent post-clearance monitoring must connect approval conditions to outcomes. Yet coordination should not become dilution: each specialised law protects a distinct interest. A coherent “whole-project, whole-landscape” decision is therefore better than either clearance silos or a single weak window.
 
-- **Years represented:** 2018, 2019, 2020, 2022
-- **Paper(s):** GS-I, GS-II, GS-III, Prelims GS-I
-- **Routed question demands:** 6
+**Why this earns marks:** It comments on the proposition, uses three bounded examples, explains causation and gives a qualified institutional remedy.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-II | 6 | Policy contradictions across sectors and environmental degradation | Comment with relevant illustrations · 10 marks · 150 words | Cross-cutting; policy design and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2018 | Prelims GS-I | 4 | National Green Tribunal versus Central Pollution Control Board | Objective question; official key unavailable locally | Cross-routed to environmental specialist and tribunal-versus-regulator classification; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | GS-I | 15 | Restoring mountain ecosystems from development and tourism impacts | How can it be restored · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | Prelims GS-I | 58 | Environment Protection Act 1986 Government of India powers | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2020 | GS-III | 7 | Draft EIA Notification 2020 differences from 2006 notification | How does · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-II | 1 | Constitutionalization of environmental problems by the Supreme Court | Discuss with case laws · 10 marks · 150 words | Cross-cutting; judicial review and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+### PYQ 3 — UPSC Mains 2019, GS-I, Q15
 
-##### What this owner must now support
+**Question:** How can the mountain ecosystem be restored from the negative impact of development initiatives and tourism? *(15 marks, 250 words)*
 
-- Policy contradictions across sectors and environmental degradation
-- National Green Tribunal versus Central Pollution Control Board
-- Restoring mountain ecosystems from development and tourism impacts
-- Environment Protection Act 1986 Government of India powers
-- Draft EIA Notification 2020 differences from 2006 notification
-- Constitutionalization of environmental problems by the Supreme Court
+**Model answer:**
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+Mountain ecosystems combine steep slopes, young geology, concentrated biodiversity and narrow settlement corridors; damage therefore travels through landslides, altered drainage, waste, habitat fragmentation and livelihood loss. Restoration must begin by avoiding fresh stress, not by planting after construction.
 
-#### 10. PYQ-based analytical application
+First, landscape-level carrying-capacity and cumulative-impact studies should precede roads, hydropower, hotels and town expansion; project EIAs must test no-project, alignment and scale alternatives. Second, hazard zonation should exclude unstable slopes, floodplains, recharge areas and wildlife corridors, while construction follows slope stabilisation, muck-disposal and drainage plans. Third, tourism should shift from unlimited footfall to destination-specific caps, public transport, parking controls, eco-sensitive zoning and user fees earmarked for waste and sanitation. The NGT's Rohtang interventions illustrate the regulatory logic of controlling vehicular pressure in a fragile destination.
 
-- ✅ **2024 GS-III direct PYQ:** NGOs/activists influencing EIA outcomes,
-  with four evidence-backed examples—not generic advocacy claims.
-- ✅ **2025 GS-III cross-route:** mining hazard/remedies; analyse appraisal,
-  compliance, reclamation and mine closure here, with resource geography in
-  Geography topic 31. Exact routes: `../README.md`.
+Fourth, native vegetation, springs, wetlands and riparian buffers should be restored through catchment treatment, assisted natural regeneration and invasive-species control rather than monoculture planting. Fifth, solid waste, sewage and plastic must be managed by local bodies under enforceable service standards. Gram Sabhas, forest-right holders, women and pastoral communities should co-design measures because they hold seasonal ecological knowledge and bear opportunity costs.
 
-- ⚠️ Prelims questions on NGT jurisdiction should be answered by applying the specified-
-  statute-schedule rule rather than assuming unlimited environmental jurisdiction.
-- ⚠️ Mains answers on "EIA effectiveness" or "NGT's role" should explicitly engage the
-  post-facto-clearance controversy and the implementation-capacity limitation to
-  demonstrate analytical depth beyond a purely descriptive account.
+Monitoring should use slope movement, water quality, spring discharge, habitat connectivity and waste leakage—not expenditure alone. Restoration succeeds when development stays within ecological and disaster-risk limits; engineering repair cannot indefinitely compensate for excessive siting and scale.
 
-#### Historical PYQ Integration (2018-2023)
+**Why this earns marks:** It links mountain processes to remedies, integrates EIA, carrying capacity, tourism and community governance, and ends with a measurable verdict.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+### PYQ 4 — UPSC Prelims 2019, GS-I, Q58
 
-- **Years represented:** 2018, 2019, 2020, 2022
-- **Paper(s):** GS-I, GS-II, GS-III
-- **Routed question demands:** 4
+**Question:** Consider the following statements:
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-II | 6 | Policy contradictions across sectors and environmental degradation | Comment with relevant illustrations · 10 marks · 150 words | Cross-cutting; policy design and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | GS-I | 15 | Restoring mountain ecosystems from development and tourism impacts | How can it be restored · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2020 | GS-III | 7 | Draft EIA Notification 2020 differences from 2006 notification | How does · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | GS-II | 1 | Constitutionalization of environmental problems by the Supreme Court | Discuss with case laws · 10 marks · 150 words | Cross-cutting; judicial review and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+The Environment (Protection) Act, 1986 empowers the Government of India to:
 
-##### What this owner must now support
+1. state the requirement of public participation in the process of environmental protection, and the procedure and manner in which it is sought;
+2. lay down the standards for emission or discharge of environmental pollutants from various sources.
 
-- Policy contradictions across sectors and environmental degradation
-- Restoring mountain ecosystems from development and tourism impacts
-- Draft EIA Notification 2020 differences from 2006 notification
-- Constitutionalization of environmental problems by the Supreme Court
+Which of the statements given above is/are correct?
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**Key label:** **INFERRED ANSWER — NOT OFFICIALLY VERIFIED LOCALLY: C**
 
-**Question:** Distinguish prior environmental clearance from pollution-control consent. Answer in about 150 words.
+**Solution:** Statement 2 follows the Central Government's standard-setting powers under the Environment (Protection) Act and Rules. Statement 1 is supported by the Act's broad rule-making/direction framework as operationalised through instruments such as the EIA Notification's public-consultation procedure. The locally held official booklet is verified, but the repository contains no official 2019 key; hence the answer is transparently inferred rather than presented as UPSC's official key.
 
-**Model thesis:** **Claim:** Prior EC boundary. **Named evidence/example:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** EC and consent boundary. **Named evidence/example:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Multiple-clearance boundary. **Named evidence/example:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Why this earns marks:** It separates source verification from key verification and grounds both statements in the EPA-based regulatory framework.
 
-**Claim → named evidence → analysis → qualification:**
+### PYQ 5 — UPSC Mains 2020, GS-III, Q7
 
-- Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-- Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-- Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
+**Question:** How does the draft Environment Impact Assessment (EIA) Notification, 2020 differ from the existing EIA Notification, 2006? *(10 marks, 150 words)*
 
-**Qualified conclusion:** **Claim:** Prior EC boundary. **Named evidence/example:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** EC and consent boundary. **Named evidence/example:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Multiple-clearance boundary. **Named evidence/example:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish prior environmental clearance from pollution-control consent. Answer in about 150…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+The 2020 instrument was a **draft**, not the replacement law; the EIA Notification, 2006 continued to govern. Compared with 2006, the draft proposed a classification and procedure, wider B2/exemption space for activities, shorter public-hearing notice, and annual rather than half-yearly compliance reporting. It also proposed longer validity periods and a formal “violation” route for projects begun without prior clearance, supported by appraisal, remediation and resource-augmentation plans.
 
-**Detailed examiner-grade model answer:**
+These changes promised quicker, risk-differentiated approvals and a route to bring violators under regulation. Critics, however, argued that reduced participation, broader exemptions and post-facto processing weaken EIA's preventive logic: information received after construction cannot inform the original siting or no-project choice.
 
-**Introduction and thesis:** **Claim:** Prior EC boundary. **Named evidence/example:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** EC and consent boundary. **Named evidence/example:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Multiple-clearance boundary. **Named evidence/example:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+The legal-status distinction is decisive. Draft provisions never became the governing notification merely because they were published for comment. Later amendments to the 2006 regime must be cited independently, and current ex-post-facto law is controlled by the Supreme Court's 2026 *Vanashakti* ruling.
 
-**Analytical body:**
+**Why this earns marks:** It answers “how different,” preserves draft-versus-law status and avoids projecting later legal developments backward.
 
-1. **Claim and named evidence:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+### PYQ 6 — UPSC Mains 2022, GS-II, Q1
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+**Question:** “The most significant achievement of modern law in India is the constitutionalization of environmental problems by the Supreme Court.” Discuss this statement with the help of relevant case laws. *(10 marks, 150 words)*
 
-**Qualified conclusion:** **Claim:** Prior EC boundary. **Named evidence/example:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** EC and consent boundary. **Named evidence/example:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Multiple-clearance boundary. **Named evidence/example:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Model answer:**
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+The Supreme Court transformed environmental protection from statutory control into a constitutional obligation. It read a healthy environment into Article 21, reinforced by State duty under Article 48A and citizen duty under Article 51A(g). In *M.C. Mehta* (Oleum Gas Leak), absolute liability strengthened remedies for hazardous industry. *Vellore Citizens Welfare Forum* treated precaution, polluter pays and sustainable development as principles. *M.C. Mehta v. Kamal Nath* applied the public-trust doctrine to natural resources, while *A.P. Pollution Control Board v. M.V. Nayudu* linked precaution to scientific uncertainty and institutional expertise.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+This constitutionalisation widened standing, enabled continuing mandamus and made environmental reasoning relevant to executive approvals. Yet courts cannot replace baseline science, public consultation or enforcement. The NGT Act, 2010 institutionalised specialist adjudication, but jurisdiction remains statutory. The achievement is therefore constitutional accountability combined with—rather than substituted for—competent regulators, credible EIA and legislatively bounded tribunals.
 
-**How to improve this answer:** For “Distinguish prior environmental clearance from pollution-control consent. Answer in about 150…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+**Why this earns marks:** It uses Articles, four cases, doctrines and a balanced institutional qualification within the limit.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+### PYQ 7 — UPSC Mains 2024, GS-III, Q8
 
-**Question:** Explain screening, scoping, public consultation and appraisal. Answer in about 150 words.
+**Question:** What role do environmental NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important details. *(10 marks, 150 words)*
 
-**Model thesis:** **Claim:** Screening boundary. **Named evidence/example:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scoping and terms of reference. **Named evidence/example:** Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appraisal and decision. **Named evidence/example:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Model answer:**
 
-**Claim → named evidence → analysis → qualification:**
+NGOs and affected citizens improve EIA by exposing missing baseline data, livelihood effects and appraisal failures through hearings, independent evidence and litigation.
 
-- Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-- Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate.
-- Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-- An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
+1. **Mopa airport—*Hanuman Laxman Aroskar* (2019):** citizen challenges led the Supreme Court to require renewed expert review; this was procedural correction, not permanent cancellation.
+2. **Niyamgiri—*Orissa Mining Corporation* (2013):** Dongria Kondh mobilisation made religious, forest and livelihood claims decision-relevant through Gram Sabhas; it was primarily a forest-rights route.
+3. **POSCO—*Prafulla Samantray* (NGT, 2012):** litigation exposed appraisal of a 4-MTPA phase within a proposed 12-MTPA project; the EC was remitted/suspended for fuller review.
+4. **Kudremukh—*Godavarman/K.M. Chinnappa* (2002):** conservation litigation secured precautionary limits, closure and reclamation in a national park.
 
-**Qualified conclusion:** **Claim:** Screening boundary. **Named evidence/example:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scoping and terms of reference. **Named evidence/example:** Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appraisal and decision. **Named evidence/example:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Thus civil society supplies information and accountability, but cannot replace transparent expert appraisal. Its strongest contribution is forcing the State to confront the whole project and give reasons.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain screening, scoping, public consultation and appraisal. Answer in about 150 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Why this earns marks:** It gives four named, bounded examples and distinguishes EIA, forest-rights and wildlife routes.
 
-**Detailed examiner-grade model answer:**
+### PYQ 8 — UPSC Mains 2025, GS-III, Q17
 
-**Introduction and thesis:** **Claim:** Screening boundary. **Named evidence/example:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scoping and terms of reference. **Named evidence/example:** Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appraisal and decision. **Named evidence/example:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Question:** Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining. *(15 marks, 250 words)*
 
-**Analytical body:**
+**Model answer:**
 
-1. **Claim and named evidence:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Mining concentrates environmental risk across the entire life cycle. Vegetation and topsoil removal fragment habitat and accelerate erosion; drilling, blasting, crushing and haulage generate dust, vibration and noise. Overburden and tailings can cause sedimentation, instability and chemical drainage; dewatering changes aquifers and stream flow. Roads and worker settlements induce further land-use change. Abandoned pits, fires and unstable dumps convert short extraction into long liability, while Adivasi and forest-dependent communities may bear displacement and livelihood losses.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Remedy should follow the mitigation hierarchy. **Avoid:** strategic mineral planning, no-go screening for irreplaceable habitats, cumulative-impact/carrying-capacity studies and genuine site alternatives. **Minimise:** rigorous prior EC, hydrogeological and biodiversity baselines, dust suppression, enclosed transport, water balance, controlled blasting, safe tailings design and emergency plans. **Restore progressively:** conserve topsoil, stabilise/backfill dumps, rehabilitate with native ecological communities and begin reclamation during extraction. **Govern closure:** a funded, enforceable mine-closure plan, measurable completion criteria and post-closure water/geotechnical monitoring must prevent orphan liabilities.
 
-**Qualified conclusion:** **Claim:** Screening boundary. **Named evidence/example:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Scoping and terms of reference. **Named evidence/example:** Scoping identifies the significant issues and terms of reference for study; it does not itself grant clearance or establish that baseline evidence is adequate. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appraisal and decision. **Named evidence/example:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Public consultation, Forest Rights Act due diligence and accessible grievance redress make distributional impacts visible. Independent inspections and public half-yearly compliance reports should trigger corrective action; NGT relief and restitution remain available for qualifying statutory harm. Kudremukh demonstrates why precaution may require limiting extraction in a protected landscape.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+Minerals are economically necessary, but clearance is only permission subject to conditions—not evidence that restoration has occurred.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Why this earns marks:** It traces hazard pathways, organises remedies by hierarchy, uses named law/case evidence and gives a qualified economic-environmental verdict.
 
-**How to improve this answer:** For “Explain screening, scoping, public consultation and appraisal. Answer in about 150 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
-### ORIGINAL MAINS 3 — 15 MARKS
+## ORIGINAL MAINS PRACTICE
 
-**Question:** Assess the evidence chain from baseline study to post-clearance monitoring. Answer in about 250 words.
+### ORIGINAL MAINS 1 — 10 MARKS, 150 WORDS
 
-**Model thesis:** **Claim:** Assessment evidence. **Named evidence/example:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appraisal and decision. **Named evidence/example:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Post-clearance compliance. **Named evidence/example:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Question:** Distinguish screening, scoping and appraisal under the EIA Notification, 2006. Why does collapsing these stages weaken environmental decision-making?
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer:**
 
-- A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-- Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-- An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct.
-- A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
+Screening applies only to Category B and determines whether a proposal is B1, requiring EIA, or B2, following the applicable reduced route. Scoping follows for Category A/B1: EAC or SEAC frames project- and site-specific Terms of Reference defining the evidence required. Appraisal is the later scrutiny of the application, final EIA, consultation record and validated information, ending in a reasoned recommendation to grant with conditions or reject.
 
-**Qualified conclusion:** **Claim:** Assessment evidence. **Named evidence/example:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appraisal and decision. **Named evidence/example:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Post-clearance compliance. **Named evidence/example:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+The stages answer different questions: **how much study, what must be studied, and what decision follows from the evidence**. Merging them lets an early classification prejudge merits, permits generic ToR, and turns appraisal into document checking. *Hanuman Laxman Aroskar* shows why expert appraisal must engage material concerns rather than merely complete procedure.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the evidence chain from baseline study to post-clearance monitoring. Answer in about…”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+However, procedural separation should not cause avoidable delay. Digital data, concurrent lawful approvals and clear timelines can improve speed while preserving each stage's distinct decision function.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It defines all three stages, explains causal harm from collapse, uses authority and gives a balanced reform.
 
-**Introduction and thesis:** **Claim:** Assessment evidence. **Named evidence/example:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appraisal and decision. **Named evidence/example:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Post-clearance compliance. **Named evidence/example:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+### ORIGINAL MAINS 2 — 10 MARKS, 150 WORDS
 
-**Analytical body:**
+**Question:** Explain how sections 14, 15 and 16 of the NGT Act require different forum-selection questions.
 
-1. **Claim and named evidence:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+**Model answer:**
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Section 14 asks whether a **civil dispute** involves a substantial environmental question arising from a Schedule I enactment; its ordinary limitation is six months plus at most sixty days. Section 15 asks whether victims, property or the environment require compensation or restitution; its clock is five years plus sixty days. Section 16 asks whether the impugned order is one of the enumerated appealable decisions—such as grant or refusal of EC—and allows thirty days plus sixty days.
 
-**Qualified conclusion:** **Claim:** Assessment evidence. **Named evidence/example:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appraisal and decision. **Named evidence/example:** An expert committee appraises the record and recommends a decision, while the competent authority grants, conditions or rejects clearance; recommendation and final order are distinct. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Post-clearance compliance. **Named evidence/example:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Thus one incident may generate different remedies, but a pleading must identify the door, relief and limitation rather than invoke “environment.” Section 18 supplies standing, while section 20 guides the Tribunal only after jurisdiction exists. *Techi Tagi Tara* confirms that an institution's appointment dispute does not fit sections 14–15.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+Forum selection combines cause of action, Schedule I nexus, impugned order, remedy and clock. Environmental importance cannot cure jurisdictional defects.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Why this earns marks:** It compares all provisions, integrates standing/principles and states the controlling jurisdictional lesson.
 
-**How to improve this answer:** For “Assess the evidence chain from baseline study to post-clearance monitoring. Answer in about…”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+### ORIGINAL MAINS 3 — 15 MARKS, 250 WORDS
 
-### ORIGINAL MAINS 4 — 15 MARKS
+**Question:** The legal design of public consultation is stronger than its frequent implementation. Critically examine.
 
-**Question:** Distinguish NGT original and appellate jurisdiction. Answer in about 250 words.
+**Model answer:**
 
-**Model thesis:** **Claim:** NGT statutory identity. **Named evidence/example:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Original-jurisdiction boundary. **Named evidence/example:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appellate-jurisdiction boundary. **Named evidence/example:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Constitutional-court boundary. **Named evidence/example:** The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Paragraph 7 gives consultation a substantive purpose: ascertain concerns of locally affected persons and others with a plausible stake so material issues shape project design. It ordinarily combines a district-wise site/near-site hearing with written responses. Appendix IV requires a major national and regional vernacular/official-language daily, at least thirty days' notice, English and local-language summary, access to the draft EIA, videography, same-day agreed minutes and public display. The proponent must address material concerns in the final EIA/EMP.
 
-**Claim → named evidence → analysis → qualification:**
+Implementation can still be weak. A technically dense report may be formally available but unusable; remote offices, inconvenient venue, incomplete local translation or missing raw data restrict informed participation. Because the proponent commissions the EIA, consultant incentives can favour a preferred design. Hearings late in project planning create sunk-cost pressure, while minutes may record objections without showing how appraisal resolved them. Exemptions, though lawful, also remove local evidence from specified cases.
 
-- The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-- NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-- NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-- The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes.
+Reform should require searchable raw baseline data, plain-language and local-language disclosure, independent conflict declarations and audits, accessible hybrid submission, reasoned issue-response matrices, protection against intimidation and committee reasons on every material concern. Consultation should begin while alternatives remain open.
 
-**Qualified conclusion:** **Claim:** NGT statutory identity. **Named evidence/example:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Original-jurisdiction boundary. **Named evidence/example:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appellate-jurisdiction boundary. **Named evidence/example:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Constitutional-court boundary. **Named evidence/example:** The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Yet a hearing cannot become a local veto over every project; appraisal must reconcile evidence, rights, wider public interest and statutory mandates. Quality participation improves legitimacy because it changes reasons and conditions—not because attendance alone determines the result.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish NGT original and appellate jurisdiction. Answer in about 250 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Why this earns marks:** It tests design against access, timing, conflict and decision-use, then supplies practical and qualified reform.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 4 — 15 MARKS, 250 WORDS
 
-**Introduction and thesis:** **Claim:** NGT statutory identity. **Named evidence/example:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Original-jurisdiction boundary. **Named evidence/example:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appellate-jurisdiction boundary. **Named evidence/example:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Constitutional-court boundary. **Named evidence/example:** The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Question:** Why must project EIA be supplemented by strategic, cumulative, carrying-capacity, social, health and biodiversity assessments?
 
-**Analytical body:**
+**Model answer:**
 
-1. **Claim and named evidence:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+Project EIA is strongest at a defined site and proposal, but many environmental decisions are made earlier or operate at larger scales. **Strategic environmental assessment** tests policies, plans and programmes before individual projects lock in a corridor or energy pathway. **Cumulative assessment** measures combined past, present and reasonably foreseeable pressures that separate EIAs can understate. **Carrying-capacity analysis** asks whether an airshed, basin, coast, mountain destination or city can absorb total use without unacceptable ecological or social change.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Specialist lenses correct distributional blind spots. Social assessment identifies displacement, livelihoods, culture, gender and community institutions; health assessment traces exposure pathways and vulnerable groups; biodiversity assessment examines seasonal species use, habitat connectivity, ecosystem services and irreplaceability rather than a one-season species list.
 
-**Qualified conclusion:** **Claim:** NGT statutory identity. **Named evidence/example:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Original-jurisdiction boundary. **Named evidence/example:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appellate-jurisdiction boundary. **Named evidence/example:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Constitutional-court boundary. **Named evidence/example:** The NGT does not replace Supreme Court or High Court constitutional jurisdiction; tribunal review, statutory appeal and writ review remain distinct routes. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+These tools matter because project boundaries can fragment river basins, mining clusters, wildlife corridors and induced development. They improve alternatives: the answer may be a different policy, regional cap or no-go area, not merely a taller stack or compensatory plantation.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+However, additional studies can become paperwork unless they share quality-controlled data, define decision thresholds and bind appraisal. Nor should one assessment substitute for Forest Rights Act, wildlife, forest, land or pollution-control duties. India needs tiered assessment: strategic choices first, regional cumulative/carrying-capacity limits second, and project EIA/EMP last, followed by public monitoring.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Why this earns marks:** It defines every requested assessment, shows what each adds, and qualifies integration against duplication.
 
-**How to improve this answer:** For “Distinguish NGT original and appellate jurisdiction. Answer in about 250 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+### ORIGINAL MAINS 5 — 20 MARKS, 250 WORDS
 
-### ORIGINAL MAINS 5 — 20 MARKS
+**Question:** State the current legal position on prior and ex-post-facto environmental clearance after *Vanashakti v. Union of India* (2026). Evaluate its implications for regulators and project proponents.
 
-**Question:** Evaluate India's preventive EIA and corrective NGT architecture. Answer in about 300 words.
+**Model answer:**
 
-**Model thesis:** **Claim:** Prior EC boundary. **Named evidence/example:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule applicability. **Named evidence/example:** The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Screening boundary. **Named evidence/example:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment evidence. **Named evidence/example:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Post-clearance compliance. **Named evidence/example:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NGT statutory identity. **Named evidence/example:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Remedy boundary. **Named evidence/example:** Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Principles and adjudication. **Named evidence/example:** Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+The EIA Notification, 2006 makes prior EC mandatory for scheduled new projects, threshold-crossing expansion/modernisation and specified product-mix change before construction or land preparation, except securing land. *Common Cause* and *Alembic Pharmaceuticals* treated retrospective clearance as contrary to this preventive design. Later decisions, including *Pahwa Plastics*, addressed consequences under the violation instruments, creating doctrinal tension.
 
-**Claim → named evidence → analysis → qualification:**
+In *Vanashakti v. Union of India*, 2026 INSC 761 (29 July 2026), the Supreme Court restored a rule-exception structure. It held that the 2006 regime does not itself accommodate post-facto EC. The 2017 notification survived because it was a narrow, time-bound delegated-legislation amnesty under section 3 of the Environment (Protection) Act. The perpetual 2021 Office Memorandum was an impermissible administrative alteration and was quashed prospectively. Existing ECs remain open to merits challenge; pending applications may conclude; no fresh applications under either instrument are allowed. Future executive office orders cannot regularise new violations, although a valid narrowly tailored notification—and Article 142 in an appropriate case—remain legally distinct possibilities.
 
-- Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management.
-- The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route.
-- Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision.
-- A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions.
-- A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved.
-- The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee.
-- Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence.
-- Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements.
+Regulators must detect violation early, stop treating penalty as permission, and link any lawful exceptional scheme to restoration, proportionality and public interest. Proponents face strong incentives to secure EC before irreversible commitment; finance and contracts should condition disbursement on legal clearance.
 
-**Qualified conclusion:** **Claim:** Prior EC boundary. **Named evidence/example:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule applicability. **Named evidence/example:** The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Screening boundary. **Named evidence/example:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment evidence. **Named evidence/example:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Post-clearance compliance. **Named evidence/example:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NGT statutory identity. **Named evidence/example:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Remedy boundary. **Named evidence/example:** Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Principles and adjudication. **Named evidence/example:** Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+The judgment avoids both routine amnesty and indiscriminate demolition. Its success now depends on monitoring, transparent enforcement and refusal to convert exceptional delegated legislation into a recurring business model.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate India's preventive EIA and corrective NGT architecture. Answer in about 300 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
+**Why this earns marks:** It states the operative directions precisely, reconciles the case line and evaluates consequences without an absolute overclaim.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 6 — 20 MARKS, 250 WORDS
 
-**Introduction and thesis:** **Claim:** Prior EC boundary. **Named evidence/example:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule applicability. **Named evidence/example:** The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Screening boundary. **Named evidence/example:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment evidence. **Named evidence/example:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Post-clearance compliance. **Named evidence/example:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NGT statutory identity. **Named evidence/example:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Remedy boundary. **Named evidence/example:** Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Principles and adjudication. **Named evidence/example:** Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+**Question:** Assess whether the NGT's statutory design is adequate to deliver environmental justice in India.
 
-**Analytical body:**
+**Model answer:**
 
-1. **Claim and named evidence:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-8. **Claim and named evidence:** Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
+The NGT Act creates a specialised preventive-remedial forum. A full-time Chairperson, Judicial and Expert Members, equal representation on hearing benches and flexible procedure address the scientific-legal character of environmental disputes. Section 14 supplies original civil jurisdiction over substantial questions arising from Schedule I laws; section 16 supplies enumerated appeals, including EC decisions. Sections 15 and 17 enable compensation and restitution, section 19 provides review/interim/cease-and-desist powers, and section 20 mandates sustainable development, precaution and polluter pays. Section 18's broad standing and *Ankita Sinha*'s recognition of suo motu power improve access.
 
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
+Design nevertheless has boundaries. Schedule I omits the Wildlife (Protection) Act and Indian Forest Act; *Techi Tagi Tara* confirms that principles cannot manufacture jurisdiction. Short section 14/16 clocks can burden dispersed communities. Technical quality depends on members, transparent experts and natural justice. Orders also require executive implementation: section 25 enables decree-like execution and revenue recovery, while section 26 is penal and must be strictly applied. In *I.S. Tomar/Umesh Pratap Singh* (2025), the Supreme Court rejected personal penalties without proven responsibility/wilful default.
 
-**Qualified conclusion:** **Claim:** Prior EC boundary. **Named evidence/example:** Prior environmental clearance is a project-appraisal decision required before the prohibited starting point under the applicable notification; it is not a post-construction certificate of impact management. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Schedule applicability. **Named evidence/example:** The first EIA question is whether the proposed project or activity falls within the current notification and schedule; not every project automatically requires the same appraisal route. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Screening boundary. **Named evidence/example:** Screening determines the applicable assessment route where the notification requires it; it is distinct from scoping, public consultation, appraisal and the final clearance decision. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Assessment evidence. **Named evidence/example:** A credible EIA examines baseline conditions, alternatives, likely impacts, mitigation and an environmental management plan; prediction remains bounded by data quality and assumptions. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Post-clearance compliance. **Named evidence/example:** A granted clearance and listed conditions are inputs to compliance monitoring; neither proves that safeguards were implemented or environmental outcomes achieved. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** NGT statutory identity. **Named evidence/example:** The National Green Tribunal is a specialised statutory adjudicatory body under the NGT Act, 2010; it is not the pollution-control regulator or the project appraisal committee. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Remedy boundary. **Named evidence/example:** Relief or compensation to affected persons, restitution of property and restitution of the environment are distinct statutory remedies; a remedy must match jurisdiction and evidence. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Principles and adjudication. **Named evidence/example:** Sustainable development, precaution and polluter-pays guide NGT adjudication within the Act; they do not erase statutory jurisdiction, procedure or proof requirements. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
+Reform should maintain full bench strength, circuit/digital access, legal aid, open scientific data, reasoned compensation methods and time-bound agency compliance dashboards. Schedule coverage should be reviewed legislatively rather than stretched judicially. High Courts and the Supreme Court retain constitutional review; section 22 provides statutory appeal.
 
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
+Thus the architecture is strong but not self-executing. Environmental justice requires expert adjudication plus credible regulators, enforceable restoration and fair participation.
 
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
+**Why this earns marks:** It evaluates composition, jurisdiction, remedies, access, limits, enforcement and reform with section-specific evidence.
 
-**How to improve this answer:** For “Evaluate India's preventive EIA and corrective NGT architecture. Answer in about 300 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+---
 
-### ORIGINAL MAINS 6 — 20 MARKS
+## Source note
 
-**Question:** Build a legally disciplined project-clearance and remedy answer. Answer in about 300 words.
-
-**Model thesis:** **Claim:** EC and consent boundary. **Named evidence/example:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Multiple-clearance boundary. **Named evidence/example:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Category A and B boundary. **Named evidence/example:** Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** B1 and B2 boundary. **Named evidence/example:** The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Original-jurisdiction boundary. **Named evidence/example:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appellate-jurisdiction boundary. **Named evidence/example:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Limitation discipline. **Named evidence/example:** Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Instrument and evidence boundary. **Named evidence/example:** An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other.
-- Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others.
-- Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project.
-- The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule.
-- Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification.
-- NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction.
-- NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review.
-- Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy.
-- An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims.
-
-**Qualified conclusion:** **Claim:** EC and consent boundary. **Named evidence/example:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Multiple-clearance boundary. **Named evidence/example:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Category A and B boundary. **Named evidence/example:** Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** B1 and B2 boundary. **Named evidence/example:** The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Original-jurisdiction boundary. **Named evidence/example:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appellate-jurisdiction boundary. **Named evidence/example:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Limitation discipline. **Named evidence/example:** Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Instrument and evidence boundary. **Named evidence/example:** An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Build a legally disciplined project-clearance and remedy answer. Answer in about 300 words.”, every clause, exact ecological mechanism and scale, named Indian law or institution, dated treaty/policy status, evidence, trade-offs and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** EC and consent boundary. **Named evidence/example:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Multiple-clearance boundary. **Named evidence/example:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Category A and B boundary. **Named evidence/example:** Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** B1 and B2 boundary. **Named evidence/example:** The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Original-jurisdiction boundary. **Named evidence/example:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appellate-jurisdiction boundary. **Named evidence/example:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Limitation discipline. **Named evidence/example:** Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Instrument and evidence boundary. **Named evidence/example:** An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-2. **Claim and named evidence:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-3. **Claim and named evidence:** Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-4. **Claim and named evidence:** The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-5. **Claim and named evidence:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-6. **Claim and named evidence:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-7. **Claim and named evidence:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-8. **Claim and named evidence:** Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-9. **Claim and named evidence:** An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims. **Analysis:** Connect the defined system/taxon and named evidence → ecological mechanism or legal/institutional instrument → implementation pathway → ecological and social consequence. **Qualification:** State scale, stock/flow, parameter/unit, source/date/status, jurisdiction, uncertainty, causal limit, exception or residual risk.
-
-**Counter-position / limit:** A designation, schedule, COP decision, policy target, budget, installed capacity, registration, treatment capacity or chronological association cannot alone establish ecological recovery, compliance, attribution or net climate benefit; test mechanism, monitoring, counterfactual and implementation.
-
-**Qualified conclusion:** **Claim:** EC and consent boundary. **Named evidence/example:** Environmental clearance and Consent to Establish or Operate arise from different instruments and authorities; possession of one does not grant or prove the other. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Multiple-clearance boundary. **Named evidence/example:** Environmental, forest, wildlife and coastal clearances protect different legal interests; one approval cannot be treated as a substitute for all others. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Category A and B boundary. **Named evidence/example:** Category A and Category B allocation determines the competent appraisal level under the owner, but the current schedule and thresholds must be checked before classifying a real project. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** B1 and B2 boundary. **Named evidence/example:** The B1-B2 distinction affects assessment and consultation requirements under the applicable notification; it must not be guessed from project size or label without the owner and current schedule. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Public-consultation boundary. **Named evidence/example:** Public consultation is a defined process for applicable projects, not a universal stage without exceptions; every claimed exemption, notice period or hearing rule must be tied to the current notification. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Original-jurisdiction boundary. **Named evidence/example:** NGT original jurisdiction concerns substantial environmental questions arising from the enactments within its statutory boundary; an environment-related label alone does not create jurisdiction. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Appellate-jurisdiction boundary. **Named evidence/example:** NGT appellate jurisdiction attaches to specified appealable decisions under the governing statutes; it is distinct from original civil jurisdiction and constitutional writ review. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Limitation discipline. **Named evidence/example:** Original applications, compensation claims and statutory appeals can have different limitation clocks and extension rules; no period is stated without the exact provision and remedy. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner. **Claim:** Instrument and evidence boundary. **Named evidence/example:** An EIA notification, draft proposal, amendment, office memorandum, clearance order and judgment have different legal force; audited PYQs and live pages are used without inventing thresholds, exemptions, penalties or current claims. **Analysis:** This identifies the environmental mechanism, system boundary, measured parameter, responsible actor and causal link that make the claim examinable. **Qualification:** The conclusion must retain the source's ecological or regulatory scale, temporal stage, rule vintage, legal status, metric and evidence boundary rather than generalise beyond the owner.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing definition → mechanism/status → institution/instrument → implementation → ecological and social outcome; write four to seven claim → named evidence → analysis → qualification points; reserve the final minute for taxon, unit, baseline, date, jurisdiction, exception, causation and residual-risk checks.
-
-**Why this earns marks:** The answer obeys the directive, explains mechanisms rather than listing schemes, uses India-centric evidence and preserves ecological, species, legal, treaty, institutional, climate-unit, pollution-standard and causal distinctions.
-
-**How to improve this answer:** For “Build a legally disciplined project-clearance and remedy answer. Answer in about 300 words.”, replace the weakest catalogue point with one exact mechanism or distinction, named law/institution/treaty/species, dated status, measurable outcome, implementation constraint and answer-specific qualification.
+- Canonical owners (read-only): `upsc-ai-kit/knowledge/Environment-and-Ecology/basic/16_Environmental-Impact-Assessment-and-NGT.md`; matching `advanced/` owner; `00_Master-Framework.md`.
+- Syllabus ownership (read-only): `OFFICIAL-UPSC-SYLLABUS-MAPPING.md` assigns environmental impact assessment directly to Topic 16 and environmental degradation with cross-subject support.
+- PYQ routing (read-only): `_PYQ-ROUTING-PRELIMS-2018-2023.md`; `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`; `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`; `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+- EIA law: S.O. 1533(E), 14 September 2006; S.O. 3067(E), 1 December 2009; S.O. 1807(E), 12 April 2022; MoEFCC EIA-notification portal.
+- NGT law: National Green Tribunal Act, 2010, especially sections 3, 4, 14–16, 18–20, 22, 25–26 and Schedule I; NGT (Practices and Procedure) Rules, 2011, Rule 22.
+- Supreme Court: *Vellore Citizens Welfare Forum* (1996); *Techi Tagi Tara* (22 September 2017); *Hanuman Laxman Aroskar* (29 March 2019); *Alembic Pharmaceuticals* (1 April 2020); *Municipal Corporation of Greater Mumbai v. Ankita Sinha* (7 October 2021); *Pahwa Plastics* (2022); *Dr. I.S. Tomar/Umesh Pratap Singh* (23 May 2025); *Vanashakti v. Union of India*, 2026 INSC 761 (29 July 2026).

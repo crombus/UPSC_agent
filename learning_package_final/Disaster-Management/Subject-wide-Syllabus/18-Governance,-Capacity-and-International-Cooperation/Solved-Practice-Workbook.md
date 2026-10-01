@@ -1,1144 +1,775 @@
 ---
-title: "Governance, Capacity and International Cooperation — Solved Practice Workbook"
+title: "Disaster Management 18 — Governance, Capacity and International Cooperation — Solved Practice Workbook"
 topic_key: disaster-management-18
+reviewed: 2026-09-27
 ---
+
 # Governance, Capacity and International Cooperation — Solved Practice Workbook
+
+## PRACTICE AUDIT
+
+- **Original MCQs:** exactly 40; strict `ABCD` rotation repeated ten times.
+- **Coverage:** multi-level governance, capability, drills, interoperability, accountability, Sendai, UNDRR/GPDRR, CDRI, EW4All, regional cooperation, HADR, consent and localisation.
+- **Cue control:** 20 concept-elimination items plus 20 application scenarios; every option is plausible and explained.
+- **PYQs:** shared/application routes with exact or provenance-qualified wording; Mains has no options/key.
+- **Original Mains:** six solved questions—two each at 10, 15 and 20 marks.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Policy governance capacity coordination accountability?
+### MCQ 1. Which statement accurately distinguishes Policy, governance, capacity, coordination and accountability?
 
-A. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-B. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-C. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-D. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
+A. Policy sets direction, governance allocates authority/rules, capacity enables performance, coordination aligns actors and accountability tests duty/results; they are related but not interchangeable.
+B. Exercises test assumptions, roles, communications, resources and thresholds; they validate only what was tested and corrected.
+C. Accountability links assigned duty, resources, standards, reporting, review, grievance and corrective action; coordination without responsibility diffuses blame.
+D. International assistance depends on affected-State consent, domestic law, entry/customs arrangements, coordination and applicable agreements; an offer creates no automatic access.
 
-**Answer: A.**
-**Explanation:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q2. Which option preserves the risk or institutional boundary of Policy governance capacity coordination accountability?
+- **A:** Correct: This is the precise meaning of **Policy, governance, capacity, coordination and accountability**.
+- **B:** Incorrect: This describes **Preparedness exercises**, not the concept asked.
+- **C:** Incorrect: This describes **Accountability chain**, not the concept asked.
+- **D:** Incorrect: This describes **International assistance legal status**, not the concept asked.
 
-A. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-B. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-C. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-D. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
+### MCQ 2. Which option best explains Centre–State–local architecture?
 
-**Answer: B.**
-**Explanation:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Training builds skill, but capability requires selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+B. Union, States, districts, ULBs/PRIs and line departments have differentiated responsibilities; subsidiarity places action near risk while preserving higher support and standards.
+C. Sendai 2015–30 is voluntary and non-binding, with four priorities and seven global targets; it creates no enforceable treaty obligations.
+D. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership.
 
-### Q3. Which statement uses Policy governance capacity coordination accountability without changing its hazard, mandate or status?
+**Answer: B**
 
-A. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-B. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-C. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-D. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
+- **A:** Incorrect: This describes **Training and capacity development**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **Centre–State–local architecture**.
+- **C:** Incorrect: This describes **Sendai Framework**, not the concept asked.
+- **D:** Incorrect: This describes **Sovereignty and humanitarian diplomacy**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 3. Which formulation preserves the accountability boundary of Whole-of-society?
 
-### Q4. Which option avoids the standard UPSC close-option trap about Policy governance capacity coordination accountability?
+A. Incident response arrangements define leadership, operations, planning, logistics, finance and information; tactical detail remains context-specific.
+B. UNDRR coordinates the UN DRR agenda and GPDRR supports review/knowledge exchange; neither substitutes for national law or enforces it.
+C. Whole-of-society includes government, communities, civil society, volunteers, academia, media and private operators, without diluting public accountability.
+D. Localisation gives local responders meaningful leadership, resources, information and voice while international actors provide requested surge; proximity alone does not prove inclusion.
 
-A. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-B. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-C. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-D. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Incident command governance**, not the concept asked.
+- **B:** Incorrect: This describes **UNDRR and GPDRR**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **Whole-of-society**.
+- **D:** Incorrect: This describes **Localisation**, not the concept asked.
 
-### Q5. Which statement correctly identifies Centre State local architecture?
+### MCQ 4. Which statement captures Plan-to-capability gap?
 
-A. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-B. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-C. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-D. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
+A. Coordination needs shared terminology, contacts, data standards, mutual-aid procedures, interoperable communications and lead/support roles before impact.
+B. CDRI supports infrastructure risk, standards, finance and recovery cooperation; membership demonstrates a platform, not resilient assets or reduced losses.
+C. Shared data, standards, research, training and warning are cooperation outputs; interoperability, access, maintenance and local use determine capability.
+D. A plan proves intent; capability also needs trained people, procedures, equipment, communications, finance, authority, exercises, maintenance and corrective learning.
 
-**Answer: A.**
-**Explanation:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q6. Which option preserves the risk or institutional boundary of Centre State local architecture?
+- **A:** Incorrect: This describes **Coordination and interoperability**, not the concept asked.
+- **B:** Incorrect: This describes **CDRI**, not the concept asked.
+- **C:** Incorrect: This describes **Knowledge and technology cooperation**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **Plan-to-capability gap**.
 
-A. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-B. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-C. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-D. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+### MCQ 5. Which option correctly states what Preparedness exercises can prove?
 
-**Answer: B.**
-**Explanation:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Exercises test assumptions, roles, communications, resources and thresholds; they validate only what was tested and corrected.
+B. Risk, loss, expenditure, exercise and after-action data should enable transparent review, correction and memory; a database/report is not implementation.
+C. Regional routes can support exercises, knowledge, warning, mutual assistance and procedures; an agreement, meeting or exercise is not outcome evidence.
+D. Signing establishes commitment, implementation shows action, outputs show delivered activities and outcomes show changed capability/risk.
 
-### Q7. Which statement uses Centre State local architecture without changing its hazard, mandate or status?
+**Answer: A**
 
-A. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-B. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-C. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-D. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+- **A:** Correct: This is the precise meaning of **Preparedness exercises**.
+- **B:** Incorrect: This describes **Data, learning and audit**, not the concept asked.
+- **C:** Incorrect: This describes **Regional cooperation**, not the concept asked.
+- **D:** Incorrect: This describes **Agreement–implementation–outcome ladder**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 6. Which formulation best defines Training and capacity development?
 
-### Q8. Which option avoids the standard UPSC close-option trap about Centre State local architecture?
+A. Accountability links assigned duty, resources, standards, reporting, review, grievance and corrective action; coordination without responsibility diffuses blame.
+B. Training builds skill, but capability requires selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+C. International assistance depends on affected-State consent, domestic law, entry/customs arrangements, coordination and applicable agreements; an offer creates no automatic access.
+D. A law, plan, training, drill, summit, agreement, platform, database or membership proves activity only; coordination quality, capability and reduced loss need separate evidence.
 
-A. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-B. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-C. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-D. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Accountability chain**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **Training and capacity development**.
+- **C:** Incorrect: This describes **International assistance legal status**, not the concept asked.
+- **D:** Incorrect: This describes **Governance–outcome firewall**, not the concept asked.
 
-### Q9. Which statement correctly identifies Whole-of-society?
+### MCQ 7. Which statement accurately frames Incident command governance?
 
-A. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-B. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-C. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-D. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+A. Sendai 2015–30 is voluntary and non-binding, with four priorities and seven global targets; it creates no enforceable treaty obligations.
+B. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership.
+C. Incident response arrangements define leadership, operations, planning, logistics, finance and information; tactical detail remains context-specific.
+D. Policy sets direction, governance allocates authority/rules, capacity enables performance, coordination aligns actors and accountability tests duty/results; they are related but not interchangeable.
 
-**Answer: A.**
-**Explanation:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q10. Which option preserves the risk or institutional boundary of Whole-of-society?
+- **A:** Incorrect: This describes **Sendai Framework**, not the concept asked.
+- **B:** Incorrect: This describes **Sovereignty and humanitarian diplomacy**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **Incident command governance**.
+- **D:** Incorrect: This describes **Policy, governance, capacity, coordination and accountability**, not the concept asked.
 
-A. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-B. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-C. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-D. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
+### MCQ 8. Which option gives the operational meaning of Coordination and interoperability?
 
-**Answer: B.**
-**Explanation:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. UNDRR coordinates the UN DRR agenda and GPDRR supports review/knowledge exchange; neither substitutes for national law or enforces it.
+B. Localisation gives local responders meaningful leadership, resources, information and voice while international actors provide requested surge; proximity alone does not prove inclusion.
+C. Union, States, districts, ULBs/PRIs and line departments have differentiated responsibilities; subsidiarity places action near risk while preserving higher support and standards.
+D. Coordination needs shared terminology, contacts, data standards, mutual-aid procedures, interoperable communications and lead/support roles before impact.
 
-### Q11. Which statement uses Whole-of-society without changing its hazard, mandate or status?
+**Answer: D**
 
-A. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-B. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-C. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-D. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
+- **A:** Incorrect: This describes **UNDRR and GPDRR**, not the concept asked.
+- **B:** Incorrect: This describes **Localisation**, not the concept asked.
+- **C:** Incorrect: This describes **Centre–State–local architecture**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **Coordination and interoperability**.
 
-**Answer: C.**
-**Explanation:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 9. Which description best captures Data, learning and audit?
 
-### Q12. Which option avoids the standard UPSC close-option trap about Whole-of-society?
+A. Risk, loss, expenditure, exercise and after-action data should enable transparent review, correction and memory; a database/report is not implementation.
+B. CDRI supports infrastructure risk, standards, finance and recovery cooperation; membership demonstrates a platform, not resilient assets or reduced losses.
+C. Shared data, standards, research, training and warning are cooperation outputs; interoperability, access, maintenance and local use determine capability.
+D. Whole-of-society includes government, communities, civil society, volunteers, academia, media and private operators, without diluting public accountability.
 
-A. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-B. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-C. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-D. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Correct: This is the precise meaning of **Data, learning and audit**.
+- **B:** Incorrect: This describes **CDRI**, not the concept asked.
+- **C:** Incorrect: This describes **Knowledge and technology cooperation**, not the concept asked.
+- **D:** Incorrect: This describes **Whole-of-society**, not the concept asked.
 
-### Q13. Which statement correctly identifies Plan-to-capability gap?
+### MCQ 10. Which statement defines Accountability chain precisely?
 
-A. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-B. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-C. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-D. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
+A. Regional routes can support exercises, knowledge, warning, mutual assistance and procedures; an agreement, meeting or exercise is not outcome evidence.
+B. Accountability links assigned duty, resources, standards, reporting, review, grievance and corrective action; coordination without responsibility diffuses blame.
+C. Signing establishes commitment, implementation shows action, outputs show delivered activities and outcomes show changed capability/risk.
+D. A plan proves intent; capability also needs trained people, procedures, equipment, communications, finance, authority, exercises, maintenance and corrective learning.
 
-**Answer: A.**
-**Explanation:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q14. Which option preserves the risk or institutional boundary of Plan-to-capability gap?
+- **A:** Incorrect: This describes **Regional cooperation**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **Accountability chain**.
+- **C:** Incorrect: This describes **Agreement–implementation–outcome ladder**, not the concept asked.
+- **D:** Incorrect: This describes **Plan-to-capability gap**, not the concept asked.
 
-A. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-B. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-C. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-D. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+### MCQ 11. Which option correctly states the status of Sendai Framework?
 
-**Answer: B.**
-**Explanation:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. International assistance depends on affected-State consent, domestic law, entry/customs arrangements, coordination and applicable agreements; an offer creates no automatic access.
+B. A law, plan, training, drill, summit, agreement, platform, database or membership proves activity only; coordination quality, capability and reduced loss need separate evidence.
+C. Sendai 2015–30 is voluntary and non-binding, with four priorities and seven global targets; it creates no enforceable treaty obligations.
+D. Exercises test assumptions, roles, communications, resources and thresholds; they validate only what was tested and corrected.
 
-### Q15. Which statement uses Plan-to-capability gap without changing its hazard, mandate or status?
+**Answer: C**
 
-A. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-B. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-C. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-D. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
+- **A:** Incorrect: This describes **International assistance legal status**, not the concept asked.
+- **B:** Incorrect: This describes **Governance–outcome firewall**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **Sendai Framework**.
+- **D:** Incorrect: This describes **Preparedness exercises**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 12. Which formulation preserves the mandate of UNDRR and GPDRR?
 
-### Q16. Which option avoids the standard UPSC close-option trap about Plan-to-capability gap?
+A. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership.
+B. Policy sets direction, governance allocates authority/rules, capacity enables performance, coordination aligns actors and accountability tests duty/results; they are related but not interchangeable.
+C. Training builds skill, but capability requires selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+D. UNDRR coordinates the UN DRR agenda and GPDRR supports review/knowledge exchange; neither substitutes for national law or enforces it.
 
-A. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-B. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-C. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-D. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Sovereignty and humanitarian diplomacy**, not the concept asked.
+- **B:** Incorrect: This describes **Policy, governance, capacity, coordination and accountability**, not the concept asked.
+- **C:** Incorrect: This describes **Training and capacity development**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **UNDRR and GPDRR**.
 
-### Q17. Which statement correctly identifies Preparedness exercises?
+### MCQ 13. Which statement best describes CDRI?
 
-A. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-B. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-C. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-D. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
+A. CDRI supports infrastructure risk, standards, finance and recovery cooperation; membership demonstrates a platform, not resilient assets or reduced losses.
+B. Localisation gives local responders meaningful leadership, resources, information and voice while international actors provide requested surge; proximity alone does not prove inclusion.
+C. Union, States, districts, ULBs/PRIs and line departments have differentiated responsibilities; subsidiarity places action near risk while preserving higher support and standards.
+D. Incident response arrangements define leadership, operations, planning, logistics, finance and information; tactical detail remains context-specific.
 
-**Answer: A.**
-**Explanation:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q18. Which option preserves the risk or institutional boundary of Preparedness exercises?
+- **A:** Correct: This is the precise meaning of **CDRI**.
+- **B:** Incorrect: This describes **Localisation**, not the concept asked.
+- **C:** Incorrect: This describes **Centre–State–local architecture**, not the concept asked.
+- **D:** Incorrect: This describes **Incident command governance**, not the concept asked.
 
-A. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-B. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-C. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-D. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
+### MCQ 14. Which option avoids overclaiming Regional cooperation?
 
-**Answer: B.**
-**Explanation:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Shared data, standards, research, training and warning are cooperation outputs; interoperability, access, maintenance and local use determine capability.
+B. Regional routes can support exercises, knowledge, warning, mutual assistance and procedures; an agreement, meeting or exercise is not outcome evidence.
+C. Whole-of-society includes government, communities, civil society, volunteers, academia, media and private operators, without diluting public accountability.
+D. Coordination needs shared terminology, contacts, data standards, mutual-aid procedures, interoperable communications and lead/support roles before impact.
 
-### Q19. Which statement uses Preparedness exercises without changing its hazard, mandate or status?
+**Answer: B**
 
-A. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-B. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-C. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-D. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
+- **A:** Incorrect: This describes **Knowledge and technology cooperation**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **Regional cooperation**.
+- **C:** Incorrect: This describes **Whole-of-society**, not the concept asked.
+- **D:** Incorrect: This describes **Coordination and interoperability**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 15. Which formulation states International assistance legal status correctly?
 
-### Q20. Which option avoids the standard UPSC close-option trap about Preparedness exercises?
+A. Signing establishes commitment, implementation shows action, outputs show delivered activities and outcomes show changed capability/risk.
+B. A plan proves intent; capability also needs trained people, procedures, equipment, communications, finance, authority, exercises, maintenance and corrective learning.
+C. International assistance depends on affected-State consent, domestic law, entry/customs arrangements, coordination and applicable agreements; an offer creates no automatic access.
+D. Risk, loss, expenditure, exercise and after-action data should enable transparent review, correction and memory; a database/report is not implementation.
 
-A. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-B. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-C. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-D. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Agreement–implementation–outcome ladder**, not the concept asked.
+- **B:** Incorrect: This describes **Plan-to-capability gap**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **International assistance legal status**.
+- **D:** Incorrect: This describes **Data, learning and audit**, not the concept asked.
 
-### Q21. Which statement correctly identifies Training and capacity development?
+### MCQ 16. Which statement balances Sovereignty and humanitarian diplomacy?
 
-A. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-B. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-C. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-D. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
+A. A law, plan, training, drill, summit, agreement, platform, database or membership proves activity only; coordination quality, capability and reduced loss need separate evidence.
+B. Exercises test assumptions, roles, communications, resources and thresholds; they validate only what was tested and corrected.
+C. Accountability links assigned duty, resources, standards, reporting, review, grievance and corrective action; coordination without responsibility diffuses blame.
+D. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership.
 
-**Answer: A.**
-**Explanation:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q22. Which option preserves the risk or institutional boundary of Training and capacity development?
+- **A:** Incorrect: This describes **Governance–outcome firewall**, not the concept asked.
+- **B:** Incorrect: This describes **Preparedness exercises**, not the concept asked.
+- **C:** Incorrect: This describes **Accountability chain**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **Sovereignty and humanitarian diplomacy**.
 
-A. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-B. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-C. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-D. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
+### MCQ 17. Which option captures Localisation without romanticising proximity?
 
-**Answer: B.**
-**Explanation:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Localisation gives local responders meaningful leadership, resources, information and voice while international actors provide requested surge; proximity alone does not prove inclusion.
+B. Policy sets direction, governance allocates authority/rules, capacity enables performance, coordination aligns actors and accountability tests duty/results; they are related but not interchangeable.
+C. Training builds skill, but capability requires selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+D. Sendai 2015–30 is voluntary and non-binding, with four priorities and seven global targets; it creates no enforceable treaty obligations.
 
-### Q23. Which statement uses Training and capacity development without changing its hazard, mandate or status?
+**Answer: A**
 
-A. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-B. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-C. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-D. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
+- **A:** Correct: This is the precise meaning of **Localisation**.
+- **B:** Incorrect: This describes **Policy, governance, capacity, coordination and accountability**, not the concept asked.
+- **C:** Incorrect: This describes **Training and capacity development**, not the concept asked.
+- **D:** Incorrect: This describes **Sendai Framework**, not the concept asked.
 
-**Answer: C.**
-**Explanation:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 18. Which formulation correctly operationalises Knowledge and technology cooperation?
 
-### Q24. Which option avoids the standard UPSC close-option trap about Training and capacity development?
+A. Union, States, districts, ULBs/PRIs and line departments have differentiated responsibilities; subsidiarity places action near risk while preserving higher support and standards.
+B. Shared data, standards, research, training and warning are cooperation outputs; interoperability, access, maintenance and local use determine capability.
+C. Incident response arrangements define leadership, operations, planning, logistics, finance and information; tactical detail remains context-specific.
+D. UNDRR coordinates the UN DRR agenda and GPDRR supports review/knowledge exchange; neither substitutes for national law or enforces it.
 
-A. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-B. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-C. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-D. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: This describes **Centre–State–local architecture**, not the concept asked.
+- **B:** Correct: This is the precise meaning of **Knowledge and technology cooperation**.
+- **C:** Incorrect: This describes **Incident command governance**, not the concept asked.
+- **D:** Incorrect: This describes **UNDRR and GPDRR**, not the concept asked.
 
-### Q25. Which statement correctly identifies Incident command governance?
+### MCQ 19. Which statement best explains the Agreement–implementation–outcome ladder?
 
-A. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-B. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-C. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-D. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
+A. Whole-of-society includes government, communities, civil society, volunteers, academia, media and private operators, without diluting public accountability.
+B. Coordination needs shared terminology, contacts, data standards, mutual-aid procedures, interoperable communications and lead/support roles before impact.
+C. Signing establishes commitment, implementation shows action, outputs show delivered activities and outcomes show changed capability/risk.
+D. CDRI supports infrastructure risk, standards, finance and recovery cooperation; membership demonstrates a platform, not resilient assets or reduced losses.
 
-**Answer: A.**
-**Explanation:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q26. Which option preserves the risk or institutional boundary of Incident command governance?
+- **A:** Incorrect: This describes **Whole-of-society**, not the concept asked.
+- **B:** Incorrect: This describes **Coordination and interoperability**, not the concept asked.
+- **C:** Correct: This is the precise meaning of **Agreement–implementation–outcome ladder**.
+- **D:** Incorrect: This describes **CDRI**, not the concept asked.
 
-A. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-B. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-C. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-D. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
+### MCQ 20. Which option applies the Governance–outcome firewall?
 
-**Answer: B.**
-**Explanation:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. A plan proves intent; capability also needs trained people, procedures, equipment, communications, finance, authority, exercises, maintenance and corrective learning.
+B. Risk, loss, expenditure, exercise and after-action data should enable transparent review, correction and memory; a database/report is not implementation.
+C. Regional routes can support exercises, knowledge, warning, mutual assistance and procedures; an agreement, meeting or exercise is not outcome evidence.
+D. A law, plan, training, drill, summit, agreement, platform, database or membership proves activity only; coordination quality, capability and reduced loss need separate evidence.
 
-### Q27. Which statement uses Incident command governance without changing its hazard, mandate or status?
+**Answer: D**
 
-A. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-B. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-C. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-D. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
+- **A:** Incorrect: This describes **Plan-to-capability gap**, not the concept asked.
+- **B:** Incorrect: This describes **Data, learning and audit**, not the concept asked.
+- **C:** Incorrect: This describes **Regional cooperation**, not the concept asked.
+- **D:** Correct: This is the precise meaning of **Governance–outcome firewall**.
 
-**Answer: C.**
-**Explanation:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 21. A review distinguishes who sets policy, who has authority, who can perform, who aligns actors and who answers for failure. Which concept is illustrated?
 
-### Q28. Which option avoids the standard UPSC close-option trap about Incident command governance?
+A. Policy, governance, capacity, coordination and accountability
+B. Plan-to-capability gap
+C. Data, learning and audit
+D. Regional cooperation
 
-A. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-B. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-C. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-D. Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Correct: The scenario directly illustrates **Policy, governance, capacity, coordination and accountability**: Policy sets direction, governance allocates authority/rules, capacity enables performance, coordination aligns actors and accountability tests duty/results; they are related but not interchangeable.
+- **B:** Incorrect: **Plan-to-capability gap** instead means: A plan proves intent; capability also needs trained people, procedures, equipment, communications, finance, authority, exercises, maintenance and corrective learning.
+- **C:** Incorrect: **Data, learning and audit** instead means: Risk, loss, expenditure, exercise and after-action data should enable transparent review, correction and memory; a database/report is not implementation.
+- **D:** Incorrect: **Regional cooperation** instead means: Regional routes can support exercises, knowledge, warning, mutual assistance and procedures; an agreement, meeting or exercise is not outcome evidence.
 
-### Q29. Which statement correctly identifies Coordination and interoperability?
+### MCQ 22. A district leads local action while the State supplies surge resources and the Union supplies standards and inter-State coordination. Which concept is illustrated?
 
-A. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-B. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-C. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-D. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
+A. Preparedness exercises
+B. Centre–State–local architecture
+C. Accountability chain
+D. International assistance legal status
 
-**Answer: A.**
-**Explanation:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q30. Which option preserves the risk or institutional boundary of Coordination and interoperability?
+- **A:** Incorrect: **Preparedness exercises** instead means: Exercises test assumptions, roles, communications, resources and thresholds; they validate only what was tested and corrected.
+- **B:** Correct: The scenario directly illustrates **Centre–State–local architecture**: Union, States, districts, ULBs/PRIs and line departments have differentiated responsibilities; subsidiarity places action near risk while preserving higher support and standards.
+- **C:** Incorrect: **Accountability chain** instead means: Accountability links assigned duty, resources, standards, reporting, review, grievance and corrective action; coordination without responsibility diffuses blame.
+- **D:** Incorrect: **International assistance legal status** instead means: International assistance depends on affected-State consent, domestic law, entry/customs arrangements, coordination and applicable agreements; an offer creates no automatic access.
 
-A. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-B. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-C. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-D. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
+### MCQ 23. Utilities, media, volunteers and communities participate, but government remains accountable for rights and minimum services. Which concept is illustrated?
 
-**Answer: B.**
-**Explanation:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Training and capacity development
+B. Sendai Framework
+C. Whole-of-society
+D. Sovereignty and humanitarian diplomacy
 
-### Q31. Which statement uses Coordination and interoperability without changing its hazard, mandate or status?
+**Answer: C**
 
-A. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-B. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-C. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-D. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
+- **A:** Incorrect: **Training and capacity development** instead means: Training builds skill, but capability requires selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+- **B:** Incorrect: **Sendai Framework** instead means: Sendai 2015–30 is voluntary and non-binding, with four priorities and seven global targets; it creates no enforceable treaty obligations.
+- **C:** Correct: The scenario directly illustrates **Whole-of-society**: Whole-of-society includes government, communities, civil society, volunteers, academia, media and private operators, without diluting public accountability.
+- **D:** Incorrect: **Sovereignty and humanitarian diplomacy** instead means: Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership.
 
-**Answer: C.**
-**Explanation:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 24. A district plan is not rated operational until staff, equipment, radio procedures, finance and drills are demonstrated. Which concept is illustrated?
 
-### Q32. Which option avoids the standard UPSC close-option trap about Coordination and interoperability?
+A. Incident command governance
+B. UNDRR and GPDRR
+C. Localisation
+D. Plan-to-capability gap
 
-A. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-B. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-C. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-D. Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: **Incident command governance** instead means: Incident response arrangements define leadership, operations, planning, logistics, finance and information; tactical detail remains context-specific.
+- **B:** Incorrect: **UNDRR and GPDRR** instead means: UNDRR coordinates the UN DRR agenda and GPDRR supports review/knowledge exchange; neither substitutes for national law or enforces it.
+- **C:** Incorrect: **Localisation** instead means: Localisation gives local responders meaningful leadership, resources, information and voice while international actors provide requested surge; proximity alone does not prove inclusion.
+- **D:** Correct: The scenario directly illustrates **Plan-to-capability gap**: A plan proves intent; capability also needs trained people, procedures, equipment, communications, finance, authority, exercises, maintenance and corrective learning.
 
-### Q33. Which statement correctly identifies Data learning and audit?
+### MCQ 25. A flood drill reveals radio failure; an owner, budget and retest date are assigned. Which concept is illustrated?
 
-A. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-B. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-C. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-D. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
+A. Preparedness exercises
+B. Coordination and interoperability
+C. CDRI
+D. Knowledge and technology cooperation
 
-**Answer: A.**
-**Explanation:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q34. Which option preserves the risk or institutional boundary of Data learning and audit?
+- **A:** Correct: The scenario directly illustrates **Preparedness exercises**: Exercises test assumptions, roles, communications, resources and thresholds; they validate only what was tested and corrected.
+- **B:** Incorrect: **Coordination and interoperability** instead means: Coordination needs shared terminology, contacts, data standards, mutual-aid procedures, interoperable communications and lead/support roles before impact.
+- **C:** Incorrect: **CDRI** instead means: CDRI supports infrastructure risk, standards, finance and recovery cooperation; membership demonstrates a platform, not resilient assets or reduced losses.
+- **D:** Incorrect: **Knowledge and technology cooperation** instead means: Shared data, standards, research, training and warning are cooperation outputs; interoperability, access, maintenance and local use determine capability.
 
-A. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-B. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-C. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-D. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
+### MCQ 26. One-off trainees without equipment or refresher practice are not counted as deployable teams. Which concept is illustrated?
 
-**Answer: B.**
-**Explanation:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Data, learning and audit
+B. Training and capacity development
+C. Regional cooperation
+D. Agreement–implementation–outcome ladder
 
-### Q35. Which statement uses Data learning and audit without changing its hazard, mandate or status?
+**Answer: B**
 
-A. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-B. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-C. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-D. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
+- **A:** Incorrect: **Data, learning and audit** instead means: Risk, loss, expenditure, exercise and after-action data should enable transparent review, correction and memory; a database/report is not implementation.
+- **B:** Correct: The scenario directly illustrates **Training and capacity development**: Training builds skill, but capability requires selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
+- **C:** Incorrect: **Regional cooperation** instead means: Regional routes can support exercises, knowledge, warning, mutual assistance and procedures; an agreement, meeting or exercise is not outcome evidence.
+- **D:** Incorrect: **Agreement–implementation–outcome ladder** instead means: Signing establishes commitment, implementation shows action, outputs show delivered activities and outcomes show changed capability/risk.
 
-**Answer: C.**
-**Explanation:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 27. Operations, planning, logistics and finance roles are assigned under one response structure without erasing technical mandates. Which concept is illustrated?
 
-### Q36. Which option avoids the standard UPSC close-option trap about Data learning and audit?
+A. Accountability chain
+B. International assistance legal status
+C. Incident command governance
+D. Governance–outcome firewall
 
-A. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-B. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-C. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-D. Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: **Accountability chain** instead means: Accountability links assigned duty, resources, standards, reporting, review, grievance and corrective action; coordination without responsibility diffuses blame.
+- **B:** Incorrect: **International assistance legal status** instead means: International assistance depends on affected-State consent, domestic law, entry/customs arrangements, coordination and applicable agreements; an offer creates no automatic access.
+- **C:** Correct: The scenario directly illustrates **Incident command governance**: Incident response arrangements define leadership, operations, planning, logistics, finance and information; tactical detail remains context-specific.
+- **D:** Incorrect: **Governance–outcome firewall** instead means: A law, plan, training, drill, summit, agreement, platform, database or membership proves activity only; coordination quality, capability and reduced loss need separate evidence.
 
-### Q37. Which statement correctly identifies Accountability chain?
+### MCQ 28. Two States pre-agree terminology, contacts, data formats, radios and mutual-aid request procedures. Which concept is illustrated?
 
-A. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-B. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-C. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-D. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
+A. Sendai Framework
+B. Sovereignty and humanitarian diplomacy
+C. Policy, governance, capacity, coordination and accountability
+D. Coordination and interoperability
 
-**Answer: A.**
-**Explanation:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q38. Which option preserves the risk or institutional boundary of Accountability chain?
+- **A:** Incorrect: **Sendai Framework** instead means: Sendai 2015–30 is voluntary and non-binding, with four priorities and seven global targets; it creates no enforceable treaty obligations.
+- **B:** Incorrect: **Sovereignty and humanitarian diplomacy** instead means: Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership.
+- **C:** Incorrect: **Policy, governance, capacity, coordination and accountability** instead means: Policy sets direction, governance allocates authority/rules, capacity enables performance, coordination aligns actors and accountability tests duty/results; they are related but not interchangeable.
+- **D:** Correct: The scenario directly illustrates **Coordination and interoperability**: Coordination needs shared terminology, contacts, data standards, mutual-aid procedures, interoperable communications and lead/support roles before impact.
 
-A. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-B. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-C. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-D. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
+### MCQ 29. After-action findings are stored with expenditure and loss data, assigned for correction and checked later. Which concept is illustrated?
 
-**Answer: B.**
-**Explanation:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Data, learning and audit
+B. UNDRR and GPDRR
+C. Localisation
+D. Centre–State–local architecture
 
-### Q39. Which statement uses Accountability chain without changing its hazard, mandate or status?
+**Answer: A**
 
-A. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-B. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-C. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-D. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
+- **A:** Correct: The scenario directly illustrates **Data, learning and audit**: Risk, loss, expenditure, exercise and after-action data should enable transparent review, correction and memory; a database/report is not implementation.
+- **B:** Incorrect: **UNDRR and GPDRR** instead means: UNDRR coordinates the UN DRR agenda and GPDRR supports review/knowledge exchange; neither substitutes for national law or enforces it.
+- **C:** Incorrect: **Localisation** instead means: Localisation gives local responders meaningful leadership, resources, information and voice while international actors provide requested surge; proximity alone does not prove inclusion.
+- **D:** Incorrect: **Centre–State–local architecture** instead means: Union, States, districts, ULBs/PRIs and line departments have differentiated responsibilities; subsidiarity places action near risk while preserving higher support and standards.
 
-**Answer: C.**
-**Explanation:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 30. A named agency receives resources and standards, reports performance and must respond to independent review and grievances. Which concept is illustrated?
 
-### Q40. Which option avoids the standard UPSC close-option trap about Accountability chain?
+A. CDRI
+B. Accountability chain
+C. Knowledge and technology cooperation
+D. Whole-of-society
 
-A. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-B. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-C. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-D. Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
+**Answer: B**
 
-**Answer: D.**
-**Explanation:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: **CDRI** instead means: CDRI supports infrastructure risk, standards, finance and recovery cooperation; membership demonstrates a platform, not resilient assets or reduced losses.
+- **B:** Correct: The scenario directly illustrates **Accountability chain**: Accountability links assigned duty, resources, standards, reporting, review, grievance and corrective action; coordination without responsibility diffuses blame.
+- **C:** Incorrect: **Knowledge and technology cooperation** instead means: Shared data, standards, research, training and warning are cooperation outputs; interoperability, access, maintenance and local use determine capability.
+- **D:** Incorrect: **Whole-of-society** instead means: Whole-of-society includes government, communities, civil society, volunteers, academia, media and private operators, without diluting public accountability.
 
-### Q41. Which statement correctly identifies Sendai Framework?
+### MCQ 31. An answer gives four priorities and seven targets but rejects the claim that Sendai is a treaty. Which concept is illustrated?
 
-A. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-B. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-C. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-D. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
+A. Regional cooperation
+B. Agreement–implementation–outcome ladder
+C. Sendai Framework
+D. Plan-to-capability gap
 
-**Answer: A.**
-**Explanation:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: C**
 
-### Q42. Which option preserves the risk or institutional boundary of Sendai Framework?
+- **A:** Incorrect: **Regional cooperation** instead means: Regional routes can support exercises, knowledge, warning, mutual assistance and procedures; an agreement, meeting or exercise is not outcome evidence.
+- **B:** Incorrect: **Agreement–implementation–outcome ladder** instead means: Signing establishes commitment, implementation shows action, outputs show delivered activities and outcomes show changed capability/risk.
+- **C:** Correct: The scenario directly illustrates **Sendai Framework**: Sendai 2015–30 is voluntary and non-binding, with four priorities and seven global targets; it creates no enforceable treaty obligations.
+- **D:** Incorrect: **Plan-to-capability gap** instead means: A plan proves intent; capability also needs trained people, procedures, equipment, communications, finance, authority, exercises, maintenance and corrective learning.
 
-A. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-B. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-C. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-D. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
+### MCQ 32. A global forum reviews progress and exchanges practice but cannot compel a national authority. Which concept is illustrated?
 
-**Answer: B.**
-**Explanation:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. International assistance legal status
+B. Governance–outcome firewall
+C. Preparedness exercises
+D. UNDRR and GPDRR
 
-### Q43. Which statement uses Sendai Framework without changing its hazard, mandate or status?
+**Answer: D**
 
-A. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-B. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-C. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-D. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
+- **A:** Incorrect: **International assistance legal status** instead means: International assistance depends on affected-State consent, domestic law, entry/customs arrangements, coordination and applicable agreements; an offer creates no automatic access.
+- **B:** Incorrect: **Governance–outcome firewall** instead means: A law, plan, training, drill, summit, agreement, platform, database or membership proves activity only; coordination quality, capability and reduced loss need separate evidence.
+- **C:** Incorrect: **Preparedness exercises** instead means: Exercises test assumptions, roles, communications, resources and thresholds; they validate only what was tested and corrected.
+- **D:** Correct: The scenario directly illustrates **UNDRR and GPDRR**: UNDRR coordinates the UN DRR agenda and GPDRR supports review/knowledge exchange; neither substitutes for national law or enforces it.
 
-**Answer: C.**
-**Explanation:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 33. Assertion (A): Signing an international DRR agreement does not prove improved local capability. Reason (R): Implementation, deployable outputs and outcomes are separate evidence rungs.
 
-### Q44. Which option avoids the standard UPSC close-option trap about Sendai Framework?
+A. Both A and R are true, and R explains A.
+B. Both A and R are true, but R does not explain A.
+C. A is true, but R is false.
+D. A is false, but R is true.
 
-A. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-B. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-C. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-D. The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
+**Answer: A**
 
-**Answer: D.**
-**Explanation:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Correct: R explains why commitment and outcome cannot be merged.
+- **B:** Incorrect: R directly explains A.
+- **C:** Incorrect: both are true.
+- **D:** Incorrect: A is true.
 
-### Q45. Which statement correctly identifies UNDRR and GPDRR?
+### MCQ 34. Which sequence is chronologically correct?
 
-A. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-B. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-C. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-D. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
+A. Sendai → Yokohama → Hyogo
+B. Yokohama 1994 → Hyogo 2005–15 → Sendai 2015–30
+C. Hyogo → Sendai → Yokohama
+D. Yokohama → Sendai → Hyogo
 
-**Answer: A.**
-**Explanation:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: B**
 
-### Q46. Which option preserves the risk or institutional boundary of UNDRR and GPDRR?
+- **A:** Incorrect: the sequence is reversed.
+- **B:** Correct: this is the historical progression.
+- **C:** Incorrect: Yokohama preceded both.
+- **D:** Incorrect: Hyogo preceded Sendai.
 
-A. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-B. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-C. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-D. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
+### MCQ 35. Match EW4All pillar and lead: 1. Risk knowledge; 2. Detection/forecasting; 3. Dissemination; 4. Preparedness/response. a. IFRC; b. ITU; c. UNDRR; d. WMO.
 
-**Answer: B.**
-**Explanation:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. 1-a, 2-b, 3-c, 4-d
+B. 1-d, 2-c, 3-a, 4-b
+C. 1-c, 2-d, 3-b, 4-a
+D. 1-b, 2-a, 3-d, 4-c
 
-### Q47. Which statement uses UNDRR and GPDRR without changing its hazard, mandate or status?
+**Answer: C**
 
-A. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-B. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-C. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-D. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
+- **A:** Incorrect: the leads are mismatched.
+- **B:** Incorrect: the first two are reversed.
+- **C:** Correct: UNDRR, WMO, ITU and IFRC lead the four pillars respectively.
+- **D:** Incorrect: the pairings are wrong.
 
-**Answer: C.**
-**Explanation:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 36. An UNDAC team is ready after a sudden-onset disaster, but the affected State has not requested or consented to deployment. Which principle applies?
 
-### Q48. Which option avoids the standard UPSC close-option trap about UNDRR and GPDRR?
+A. Humanitarian urgency automatically overrides sovereignty.
+B. UNDAC may deploy as an enforcement body.
+C. Membership in the UN is sufficient consent.
+D. Deployment requires affected-State request/consent and supports, rather than replaces, national leadership.
 
-A. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-B. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-C. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-D. UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
+**Answer: D**
 
-**Answer: D.**
-**Explanation:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: urgency does not erase consent.
+- **B:** Incorrect: UNDAC is support, not enforcement.
+- **C:** Incorrect: a specific request/consent is required.
+- **D:** Correct: sovereignty and requested coordination govern deployment.
 
-### Q49. Which statement correctly identifies CDRI?
+### MCQ 37. CDRI membership grows. What is the most defensible inference?
 
-A. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-B. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-C. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-D. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
+A. The platform’s convening reach increased; resilient assets and reduced loss still need implementation evidence.
+B. All members now use binding identical infrastructure codes.
+C. CDRI commands domestic utilities during disasters.
+D. Membership proves every financed project achieved resilience.
 
-**Answer: A.**
-**Explanation:** The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: A**
 
-### Q50. Which option preserves the risk or institutional boundary of CDRI?
+- **A:** Correct: membership is an output/reach indicator only.
+- **B:** Incorrect: CDRI cooperation is not a binding uniform code.
+- **C:** Incorrect: domestic authorities retain command.
+- **D:** Incorrect: project outcomes require separate evidence.
 
-A. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-B. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-C. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-D. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
+### MCQ 38. Which statement is incorrect?
 
-**Answer: B.**
-**Explanation:** The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+A. Sendai has four priorities and seven targets.
+B. Sendai is a binding treaty enforceable against States.
+C. Target E alone carried a 2020 deadline.
+D. The framework covers prevention, preparedness and BBB.
 
-### Q51. Which statement uses CDRI without changing its hazard, mandate or status?
+**Answer: B**
 
-A. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-B. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-C. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-D. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
+- **A:** Incorrect as requested: this is true.
+- **B:** Correct: Sendai is voluntary and non-binding.
+- **C:** Incorrect as requested: this is true.
+- **D:** Incorrect as requested: this is true.
 
-**Answer: C.**
-**Explanation:** The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+### MCQ 39. Consider: 1. NPDRR reviews/appraises/advises. 2. GPDRR supports review and knowledge exchange. 3. Both exercise binding enforcement over States. Which is correct?
 
-### Q52. Which option avoids the standard UPSC close-option trap about CDRI?
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-A. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-B. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-C. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-D. The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
+**Answer: C**
 
-**Answer: D.**
-**Explanation:** The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: statement 2 is also true.
+- **B:** Incorrect: statement 3 is false.
+- **C:** Correct: both are review/knowledge bodies, not binding enforcers.
+- **D:** Incorrect: statement 3 is false.
 
-### Q53. Which statement correctly identifies Regional cooperation?
+### MCQ 40. An international agency funds a local plan but selects priorities without local decision power, excludes marginal groups and runs a parallel data system. Which assessment is best?
 
-A. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-B. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-C. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-D. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
+A. Proximity alone proves localisation.
+B. External finance automatically creates accountability.
+C. Parallel delivery is always more efficient.
+D. This is weak localisation; meaningful local leadership, inclusion, system alignment and grievance routes are missing.
 
-**Answer: A.**
-**Explanation:** SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+**Answer: D**
 
-### Q54. Which option preserves the risk or institutional boundary of Regional cooperation?
-
-A. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-B. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-C. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-D. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-
-**Answer: B.**
-**Explanation:** SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q55. Which statement uses Regional cooperation without changing its hazard, mandate or status?
-
-A. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-B. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-C. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-D. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-
-**Answer: C.**
-**Explanation:** SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q56. Which option avoids the standard UPSC close-option trap about Regional cooperation?
-
-A. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-B. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-C. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-D. SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-
-**Answer: D.**
-**Explanation:** SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q57. Which statement correctly identifies International assistance legal status?
-
-A. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-B. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-C. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-D. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-
-**Answer: A.**
-**Explanation:** International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q58. Which option preserves the risk or institutional boundary of International assistance legal status?
-
-A. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-B. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-C. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-D. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-
-**Answer: B.**
-**Explanation:** International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q59. Which statement uses International assistance legal status without changing its hazard, mandate or status?
-
-A. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-B. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-C. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-D. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-
-**Answer: C.**
-**Explanation:** International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q60. Which option avoids the standard UPSC close-option trap about International assistance legal status?
-
-A. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-B. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-C. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-D. International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-
-**Answer: D.**
-**Explanation:** International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q61. Which statement correctly identifies Sovereignty and humanitarian diplomacy?
-
-A. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-B. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-C. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-D. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-
-**Answer: A.**
-**Explanation:** Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q62. Which option preserves the risk or institutional boundary of Sovereignty and humanitarian diplomacy?
-
-A. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-B. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-C. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-D. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-
-**Answer: B.**
-**Explanation:** Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q63. Which statement uses Sovereignty and humanitarian diplomacy without changing its hazard, mandate or status?
-
-A. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-B. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-C. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-D. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-
-**Answer: C.**
-**Explanation:** Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q64. Which option avoids the standard UPSC close-option trap about Sovereignty and humanitarian diplomacy?
-
-A. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-B. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-C. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-D. Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-
-**Answer: D.**
-**Explanation:** Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q65. Which statement correctly identifies Localisation?
-
-A. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-B. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-C. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-D. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-
-**Answer: A.**
-**Explanation:** Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q66. Which option preserves the risk or institutional boundary of Localisation?
-
-A. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-B. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-C. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-D. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-
-**Answer: B.**
-**Explanation:** Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q67. Which statement uses Localisation without changing its hazard, mandate or status?
-
-A. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-B. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-C. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-D. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-
-**Answer: C.**
-**Explanation:** Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q68. Which option avoids the standard UPSC close-option trap about Localisation?
-
-A. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-B. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-C. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-D. Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-
-**Answer: D.**
-**Explanation:** Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q69. Which statement correctly identifies Knowledge and technology cooperation?
-
-A. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-B. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-C. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-D. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-
-**Answer: A.**
-**Explanation:** Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q70. Which option preserves the risk or institutional boundary of Knowledge and technology cooperation?
-
-A. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-B. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-C. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-D. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-
-**Answer: B.**
-**Explanation:** Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q71. Which statement uses Knowledge and technology cooperation without changing its hazard, mandate or status?
-
-A. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-B. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-C. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-D. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-
-**Answer: C.**
-**Explanation:** Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q72. Which option avoids the standard UPSC close-option trap about Knowledge and technology cooperation?
-
-A. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-B. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-C. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-D. Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-
-**Answer: D.**
-**Explanation:** Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q73. Which statement correctly identifies Agreement implementation outcome ladder?
-
-A. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-B. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-C. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-D. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-
-**Answer: A.**
-**Explanation:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q74. Which option preserves the risk or institutional boundary of Agreement implementation outcome ladder?
-
-A. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-B. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-C. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-D. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-
-**Answer: B.**
-**Explanation:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q75. Which statement uses Agreement implementation outcome ladder without changing its hazard, mandate or status?
-
-A. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-B. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-C. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-D. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-
-**Answer: C.**
-**Explanation:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q76. Which option avoids the standard UPSC close-option trap about Agreement implementation outcome ladder?
-
-A. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-B. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-C. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-D. Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-
-**Answer: D.**
-**Explanation:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q77. Which statement correctly identifies Governance-outcome firewall?
-
-A. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-B. Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-C. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-D. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-
-**Answer: A.**
-**Explanation:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q78. Which option preserves the risk or institutional boundary of Governance-outcome firewall?
-
-A. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-B. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-C. The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-D. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-
-**Answer: B.**
-**Explanation:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q79. Which statement uses Governance-outcome firewall without changing its hazard, mandate or status?
-
-A. Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-B. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-C. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-D. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-
-**Answer: C.**
-**Explanation:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
-
-### Q80. Which option avoids the standard UPSC close-option trap about Governance-outcome firewall?
-
-A. Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-B. Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-C. A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-D. A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-
-**Answer: D.**
-**Explanation:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The other options change the hazard or risk category, institutional owner, legal instrument, warning stage, evidence rung or implementation status.
+- **A:** Incorrect: local presence can still exclude.
+- **B:** Incorrect: finance alone does not allocate accountability.
+- **C:** Incorrect: parallel systems can weaken national/local capacity.
+- **D:** Correct: localisation requires power, resources, inclusion, alignment and remedy.
 
 ## PYQS AND ANSWER PRACTICE
 
-### AUDITED TOPIC-SPECIFIC PYQ OWNERSHIP
+### PYQ OWNERSHIP AND KEY AUDIT
 
-The 2018 Hyogo-Sendai question and 2024 resilience question are verified direct framework routes, with Topic 01 retaining primary ownership. The 2020 reactive-to-proactive question is a bounded domestic-governance application.
+The audited routes are shared/application questions. All are Mains: **options not applicable; answer key not applicable**.
 
-### PYQ DEMAND CARD 1 — 2018 GS-III
+### SHARED PYQ 1 — 2018 GS-III Q18 — 15 marks, 250 words
 
-**Demand:** Describe measures taken in India for disaster risk reduction before and after the Sendai Framework and explain how Sendai differs from Hyogo.
+**Question:** Describe various measures taken in India for Disaster Risk Reduction (DRR) before and after signing 'Sendai Framework for DRR (2015-2030)'. How is this framework different from 'Hyogo Framework for Action, 2005'?
 
-**Status:** Verified direct framework route owned by Topic 01 but central to this governance topic; preserve the comparative demand and voluntary-framework boundary.
+**Provenance:** Exact wording reproduced in the canonical local source from the UPSC 2018 paper; Topic 01 is primary and Topic 18 co-owns governance/cooperation.
 
-**Model solution:** **Policy governance capacity coordination accountability:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Centre State local architecture:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Plan-to-capability gap:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Data learning and audit:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Accountability chain:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Sendai Framework:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **UNDRR and GPDRR:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. **Agreement implementation outcome ladder:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Governance-outcome firewall:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Options:** Not applicable — Mains.
+**Key:** Not applicable — Mains.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 1 — 2018 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Model answer (196 words):**
 
-**Detailed examiner-grade model answer:**
+Before Sendai, India had the Disaster Management Act, 2005; NDMA–SDMA–DDMA institutions; National Policy on Disaster Management, 2009; hazard guidelines; specialist NDRF; warning systems and community programmes. These reflected the Hyogo priorities of making DRR a priority, improving risk information/early warning, building safety culture, reducing sectoral risk and strengthening preparedness.
 
-**Introduction and thesis:** **Policy governance capacity coordination accountability:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Centre State local architecture:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Plan-to-capability gap:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Data learning and audit:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Accountability chain:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Sendai Framework:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **UNDRR and GPDRR:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. **Agreement implementation outcome ladder:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Governance-outcome firewall:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+After Sendai, India's NDMP 2016 and revised NDMP 2019 aligned planning with the four Sendai priorities: understand risk, strengthen risk governance, invest in resilience, and prepare/respond/Build Back Better. Later developments include wider multi-hazard warning, mitigation-fund windows, CDRI, local volunteer expansion and the 2025 statutory governance amendments. Each measure still requires implementation evidence.
 
-**Analytical body:**
+Hyogo (2005–15) set five action priorities and was the first detailed multi-sector plan. Sendai (2015–30) shifts toward managing existing and new risk, a stronger governance/investment frame and seven measurable global targets. A–D reduce mortality, affected people, economic loss and infrastructure/service disruption; E–G expand strategies, cooperation and warning/risk information. Target E used 2020; others use 2030.
 
-1. **Claim:** Demand: Describe measures taken in India for disaster risk reduction before and after the Sendai Framework and explain how Sendai differs from Hyogo. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct framework route owned by Topic 01 but central to this governance topic; preserve the comparative demand and voluntary-framework boundary. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+Both are voluntary, non-binding frameworks. The key change is greater measurability and whole-of-society risk governance, not a treaty obligation. India's success must be judged by district capability and loss outcomes, not formal alignment alone.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Why this earns marks:** It preserves framework and institutional status, links cooperation to local capability and uses an explicit outcome test.
 
-**Qualified conclusion:** **Policy governance capacity coordination accountability:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Centre State local architecture:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Plan-to-capability gap:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Data learning and audit:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Accountability chain:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Sendai Framework:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **UNDRR and GPDRR:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. **Agreement implementation outcome ladder:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Governance-outcome firewall:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### SHARED PYQ 2 — 2024 GS-III Q17 — 15 marks, 250 words
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Question:** What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also mention the global targests of Sendai Framework for Disaster Risk Reduction (2015-2030).
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Provenance:** Local official UPSC 2024 GS-III extract; Topic 01 primary, Topic 18 supplies governance/cooperation.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 1 — 2018 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Options:** Not applicable — Mains.
+**Key:** Not applicable — Mains.
 
-### PYQ DEMAND CARD 2 — 2024 GS-III
+**Model answer (181 words):**
 
-**Demand:** Describe disaster resilience, how it is determined and the elements of the Sendai Framework.
+Disaster resilience is the capacity of an exposed system to resist, absorb, adapt to and recover from hazards while preserving essential functions. It is determined through hazard, exposure, vulnerability and capacity, including institutional authority, trained personnel, interoperable systems, finance, local participation and learning.
 
-**Status:** Verified direct support route: governance, capacity, accountability and international cooperation operationalise resilience while all seven targets remain Topic 01-owned.
+A resilience framework contains risk knowledge; multi-level governance; risk-sensitive development and investment; warning and preparedness; incident coordination; service continuity; inclusive response; finance and BBB recovery. Plans become capability only through assigned roles, equipment, communications, exercises, after-action correction and maintenance. International cooperation can add standards, data, warning and surge support, but cannot replace national and local duty.
 
-**Model solution:** **Policy governance capacity coordination accountability:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Centre State local architecture:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Plan-to-capability gap:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Preparedness exercises:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Training and capacity development:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Data learning and audit:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Accountability chain:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Sendai Framework:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **Agreement implementation outcome ladder:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Governance-outcome firewall:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Sendai's targets are to reduce mortality, affected people, direct economic loss relative to GDP, and damage to critical infrastructure/basic-service disruption; and increase national/local DRR strategies, international cooperation to developing countries, and access to multi-hazard warning/risk information. Target E used 2020; the others use 2030. Sendai is voluntary.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 2 — 2024 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Governance should therefore track the chain from framework and plan to deployable district capability and measurable outcome. A summit, database, exercise or membership is an input/output, not proof of reduced risk.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It preserves framework and institutional status, links cooperation to local capability and uses an explicit outcome test.
 
-**Introduction and thesis:** **Policy governance capacity coordination accountability:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Centre State local architecture:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Plan-to-capability gap:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Preparedness exercises:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Training and capacity development:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Data learning and audit:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Accountability chain:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Sendai Framework:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **Agreement implementation outcome ladder:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Governance-outcome firewall:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+### APPLICATION PYQ 1 — 2020 GS-III Q18 — 15 marks, 250 words
 
-**Analytical body:**
+**Question:** Discuss the shift from reactive to proactive disaster management in India.
 
-1. **Claim:** Demand: Describe disaster resilience, how it is determined and the elements of the Sendai Framework. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified direct support route: governance, capacity, accountability and international cooperation operationalise resilience while all seven targets remain Topic 01-owned. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Provenance:** Repository-verified routed demand; Topic 02 primary, Topic 18 applies governance/capacity.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+**Options:** Not applicable — Mains.
+**Key:** Not applicable — Mains.
 
-**Qualified conclusion:** **Policy governance capacity coordination accountability:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Centre State local architecture:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Plan-to-capability gap:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Preparedness exercises:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Training and capacity development:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Data learning and audit:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Accountability chain:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Sendai Framework:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **Agreement implementation outcome ladder:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Governance-outcome firewall:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer (182 words):**
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+India's approach has shifted from relief administration toward risk governance across prevention, mitigation, preparedness, response and BBB. The DM Act created NDMA, SDMAs and DDMAs; the National Policy and NDMP provide planning; specialised agencies and warning systems support anticipatory action; Finance Commission mitigation windows support ex-ante investment.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+The governance shift is visible in risk assessment, hazard guidelines, land-use and code expectations, multi-hazard warning, NDRF pre-positioning, IRS/EOC arrangements, Aapda Mitra, exercises and CDRI-led infrastructure cooperation. The 2025 Amendment adds statutory NCMC/HLC arrangements, optional UDMAs/State forces and disaster-database duties. Internationally, Sendai frames risk understanding, governance, investment and preparedness/BBB.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 2 — 2024 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+Yet institutions and plans are not capability. States, districts, ULBs and utilities differ in staff, finance, interoperable communication, maintenance and exercises. NPDRR reviews and advises but is not a binding enforcement body. Digital platforms and social media require authoritative protocols and fallback.
 
-### PYQ DEMAND CARD 3 — 2020 GS-III
+The shift should be evaluated through warning-to-action, plan implementation, local inclusion, service continuity, corrective learning and reduced loss. India has built a proactive architecture; the remaining task is localisation and accountable performance rather than further multiplication of plans and forums.
 
-**Demand:** Discuss the shift from reactive to proactive disaster management in India.
+**Why this earns marks:** It preserves framework and institutional status, links cooperation to local capability and uses an explicit outcome test.
 
-**Status:** Verified adjacent governance route: plans, capacity, exercises, data, accountability and local roles demonstrate proactivity without inferring implementation outcomes.
+### SHARED PYQ 3 — 2026 GS-III Q18 — 15 marks, 250 words
 
-**Model solution:** **Policy governance capacity coordination accountability:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Centre State local architecture:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Whole-of-society:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. **Plan-to-capability gap:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Preparedness exercises:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Training and capacity development:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Coordination and interoperability:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Data learning and audit:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Accountability chain:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Governance-outcome firewall:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Question:** "Community participation is the cornerstone of effective disaster management." Analyse this statement with suitable examples from India. Also discuss the challenges to community participation and measures to strengthen it.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘PYQ DEMAND CARD 3 — 2020 GS-III’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+**Provenance:** Repository-verified `_PYQ-GS3-2026.md`; Topic 03 primary, Topic 18 shares whole-of-society/localisation governance.
 
-**Detailed examiner-grade model answer:**
+**Options:** Not applicable — Mains.
+**Key:** Not applicable — Mains.
 
-**Introduction and thesis:** **Policy governance capacity coordination accountability:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Centre State local architecture:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Whole-of-society:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. **Plan-to-capability gap:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Preparedness exercises:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Training and capacity development:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Coordination and interoperability:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Data learning and audit:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Accountability chain:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Governance-outcome firewall:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+**Model answer (197 words):**
 
-**Analytical body:**
+Community participation improves risk knowledge, warning credibility, evacuation, first response, needs identification and recovery ownership. Aapda Mitra provides trained volunteers; local bodies and SHGs can map vulnerable people, shelters and access; community monitoring can reveal exclusion and maintain local assets.
 
-1. **Claim:** Demand: Discuss the shift from reactive to proactive disaster management in India. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Status: Verified adjacent governance route: plans, capacity, exercises, data, accountability and local roles demonstrate proactivity without inferring implementation outcomes. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+It is a cornerstone because disaster decisions are place-specific and behaviour-dependent. Yet participation does not transfer the State's duty to unpaid volunteers. Effective localisation gives local actors authority, resources, information and voice while connecting them to DDMAs, ULBs, utilities, IRS/EOCs and professional responders.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Challenges include token consultation, elite capture, caste/gender/disability exclusion, volunteer safety, weak refresher training/equipment, unclear command links, digital exclusion, mistrust, fatigue and opaque funding. “Local” organisations may not represent all affected groups.
 
-**Qualified conclusion:** **Policy governance capacity coordination accountability:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Centre State local architecture:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Whole-of-society:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. **Plan-to-capability gap:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Preparedness exercises:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Training and capacity development:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Coordination and interoperability:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Data learning and audit:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Accountability chain:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Governance-outcome firewall:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. The solution therefore answers the routed demand without inventing an official model answer or an objective answer key.
+Measures include representative committees; accessible risk maps and warnings; trained, equipped and insured volunteers; predictable local budgets; mutual-aid and interoperable communication; participatory drills and recovery planning; public criteria and social audits; confidential grievance channels; and after-action correction. National/international partners should fund and support local capacity rather than create parallel systems.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+Participation is effective when it changes decisions and outcomes—warning action, safe evacuation, equitable relief and durable recovery—not when attendance or volunteer counts are the only evidence.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Why this earns marks:** It preserves framework and institutional status, links cooperation to local capability and uses an explicit outcome test.
 
-**How to improve this answer:** For ‘PYQ DEMAND CARD 3 — 2020 GS-III’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+## ORIGINAL MAINS PRACTICE
 
-### ORIGINAL MAINS 1 — 10 MARKS
+### ORIGINAL 1 — 10 marks, 150 words
 
-**Question:** Distinguish policy, governance, capacity, coordination and accountability in disaster management. Answer in about 150 words.
+**Question:** Distinguish policy, governance, coordination, capacity and accountability in disaster management. Answer in about 150 words.
 
-**Model thesis:** **Claim:** Policy governance capacity coordination accountability. **Named evidence/example:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Model answer (147 words):**
 
-**Claim → named evidence → analysis → qualification:**
+Policy sets objectives and priorities. Governance allocates authority, rules and resources among institutions. Coordination aligns actors, information and timing across those mandates. Capacity is the practical ability to perform through trained people, procedures, equipment, finance, communications and maintenance. Accountability links assigned duty and resources to reporting, review, grievance and correction.
 
-- Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable.
-- A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-- Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-- Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
+The distinctions explain common failure. A policy without governance has no responsible owner; governance without capacity produces plans without performance; coordination without responsibility diffuses blame; capacity without accountability may be misused or decay.
 
-**Qualified conclusion:** **Claim:** Policy governance capacity coordination accountability. **Named evidence/example:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+For example, a district flood plan becomes capability only when roles, contact routes, shelters, equipment and finance are tested. An exercise becomes accountability only when findings receive owners, deadlines, budgets and retesting.
 
-**Demand decoding:** The directive **answer** requires a direct position on ‘Distinguish policy, governance, capacity, coordination and accountability in disaster…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+A complete framework therefore follows: risk evidence → policy → assigned authority/resources → interoperable action → monitored result → correction. Reduced loss and service continuity, not the number of plans or meetings, are the final proof.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the limit.
 
-**Introduction and thesis:** **Claim:** Policy governance capacity coordination accountability. **Named evidence/example:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+### ORIGINAL 2 — 10 marks, 150 words
 
-**Analytical body:**
+**Question:** Compare the Hyogo Framework for Action and the Sendai Framework. Answer in about 150 words.
 
-1. **Claim:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Model answer (137 words):**
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+Hyogo (2005–15) organised DRR through five priorities: make DRR a priority; improve risk information and early warning; build a culture of safety; reduce risk in key sectors; and strengthen preparedness. It was the first detailed multi-sector action framework.
 
-**Qualified conclusion:** **Claim:** Policy governance capacity coordination accountability. **Named evidence/example:** Policy sets direction, governance allocates authority and rules, capacity enables performance, coordination aligns actors, and accountability tests duty and results; the five terms are related but not interchangeable. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Sendai (2015–30) has four priorities: understand risk; strengthen risk governance; invest in resilience; and enhance preparedness and Build Back Better. It adds seven global targets: four loss-reduction targets—mortality, affected people, economic loss and infrastructure/service disruption—and three means targets—strategies, international cooperation and warning/risk information. Target E used 2020; the others use 2030.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+The shift is from a priority-led action plan toward broader management of existing and new risk with measurable global outcomes and stronger governance/investment language. Both are voluntary and non-binding, not treaties. Adoption or plan alignment does not prove national or local implementation.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the limit.
 
-**How to improve this answer:** For ‘Distinguish policy, governance, capacity, coordination and accountability in disaster…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+### ORIGINAL 3 — 15 marks, 250 words
 
-### ORIGINAL MAINS 2 — 10 MARKS
+**Question:** Explain the plan-to-capability gap and propose a district-level accountability framework. Answer in about 250 words.
 
-**Question:** Explain the plan-to-capability gap and the role of exercises and training. Answer in about 150 words.
+**Model answer (229 words):**
 
-**Model thesis:** **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness exercises. **Named evidence/example:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Training and capacity development. **Named evidence/example:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incident command governance. **Named evidence/example:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+A disaster plan proves documented intent, not operational capability. Capability additionally requires assigned authority, trained and retained people, usable SOPs, equipment, interoperable communications, finance, maintenance, exercises and corrective learning. Districts often possess plans while contact lists, shelters, inventories or mutual-aid procedures are stale.
 
-**Claim → named evidence → analysis → qualification:**
+A district framework should begin with a risk and critical-service register linked to named departments, ULBs/PRIs and utilities. Each function needs a lead, support roles, escalation route, minimum staffing, resource inventory, alternates and service-restoration target. IRS/EOC procedures should use shared terminology and data formats.
 
-- A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-- Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-- Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-- Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
+Exercises should vary from tabletop to functional and field scenarios, including communication failure, night operations, vulnerable groups and handover. An after-action register should assign every gap an owner, deadline, budget and retest. Training should record competence and deployment, not attendance alone.
 
-**Qualified conclusion:** **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness exercises. **Named evidence/example:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Training and capacity development. **Named evidence/example:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incident command governance. **Named evidence/example:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Accountability requires public plan summaries, expenditure and readiness reporting, legislative/local-body review, community participation and accessible grievances. The 2025 disaster-database duties can support records, but public access and use must be verified. Independent spot checks should test shelters, warning reach, equipment and backup communications.
 
-**Demand decoding:** The directive **explain** requires a direct position on ‘Explain the plan-to-capability gap and the role of exercises and training. Answer in about…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+Metrics should follow the result chain: warning received and acted upon; responders mobilised; minimum services maintained; excluded groups reached; restoration time; corrective actions closed. State and Union bodies should provide standards, finance and surge while respecting subsidiarity. The gap closes when the plan repeatedly produces coordinated field performance, not when documents or drills merely exist.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the limit.
 
-**Introduction and thesis:** **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness exercises. **Named evidence/example:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Training and capacity development. **Named evidence/example:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incident command governance. **Named evidence/example:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+### ORIGINAL 4 — 15 marks, 250 words
 
-**Analytical body:**
+**Question:** Assess the roles and limits of UNDRR, GPDRR, EW4All and CDRI. Answer in about 250 words.
 
-1. **Claim:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Model answer (199 words):**
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+The mechanisms perform different functions. UNDRR coordinates the UN disaster-risk-reduction agenda and supports Sendai implementation. The Global Platform for DRR is a review and knowledge-exchange forum feeding wider sustainable-development deliberation; it is not an enforcement body.
 
-**Qualified conclusion:** **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness exercises. **Named evidence/example:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Training and capacity development. **Named evidence/example:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incident command governance. **Named evidence/example:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Early Warnings for All is an operational initiative targeting universal protection by end-2027. Its pillars divide labour: UNDRR—risk knowledge; WMO—observation and forecasting; ITU—dissemination; IFRC—preparedness and response. The value lies in an end-to-end chain, not sensors alone.
 
-**Executable exam-length answer / compression plan:** For 10 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+CDRI, launched by India in 2019, supports infrastructure risk assessment, standards, finance and recovery cooperation. Its membership is dynamic and is not reduced here to an unstable snapshot total. Membership shows convening reach, not resilient assets.
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+Together, these mechanisms provide norms, review, knowledge, technology, finance approaches and partnerships. Their limits are non-binding authority, dependence on national implementation, unequal finance/capacity, interoperability and the localisation gap. Global coverage or membership indicators may conceal whether warnings are accessible or local utilities apply standards.
 
-**How to improve this answer:** For ‘Explain the plan-to-capability gap and the role of exercises and training. Answer in about…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+India should use them to strengthen domestic risk data, codes, multi-channel warnings, exercises and local capacity, with transparent outcome reporting. International cooperation is effective when global inputs become national rules and maintained district/community capability; it cannot substitute for sovereign responsibility.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the limit.
 
-**Question:** Analyse Centre-State-local and whole-of-society roles in disaster governance. Answer in about 250 words.
+### ORIGINAL 5 — 20 marks, 300 words
 
-**Model thesis:** **Claim:** Centre State local architecture. **Named evidence/example:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Whole-of-society. **Named evidence/example:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Data learning and audit. **Named evidence/example:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Question:** Examine how India should govern incoming and outgoing HADR while balancing sovereignty, speed, localisation and accountability. Answer in about 300 words.
 
-**Claim → named evidence → analysis → qualification:**
+**Model answer (246 words):**
 
-- The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards.
-- Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability.
-- Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-- Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-- Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
+HADR may combine civilian relief agencies, specialist search-and-rescue, medical teams, logistics and military assets. Its governance must reconcile rapid assistance with the affected State's sovereignty and national leadership.
 
-**Qualified conclusion:** **Claim:** Centre State local architecture. **Named evidence/example:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Whole-of-society. **Named evidence/example:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Data learning and audit. **Named evidence/example:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+For incoming assistance, India should use designated request and contact channels, a national lead, mission-specific acceptance, entry/visa/customs and equipment rules, tasking through domestic coordination structures, data and protection standards, and clear handover/exit. OCHA's UNDAC and INSARAG mechanisms illustrate requested assessment/coordination and urban-search-and-rescue support; they do not deploy as supranational authorities. Pre-agreed procedures can reduce delay without waiving consent.
 
-**Demand decoding:** The directive **analyse** requires a direct position on ‘Analyse Centre-State-local and whole-of-society roles in disaster governance. Answer in about…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
+For outgoing assistance, offers should match expressed needs and national priorities. Teams need self-sufficiency, interoperable standards, cultural competence, safeguarding, medical and logistics clarity, information discipline and coordination with the host government and humanitarian system. Tactical detail remains mission-specific.
 
-**Detailed examiner-grade model answer:**
+Localisation should guide both directions. International actors should reinforce national and local responders, share information, procure locally where safe, build capacity and avoid parallel systems. Yet “local” is not automatically representative; women, minorities, migrants and disabled persons need voice and grievance channels.
 
-**Introduction and thesis:** **Claim:** Centre State local architecture. **Named evidence/example:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Whole-of-society. **Named evidence/example:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Data learning and audit. **Named evidence/example:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+Accountability follows the ladder from offer/request to entry, tasking, outputs, affected-person feedback, handover and outcome. Public communication should distinguish assistance offered, accepted, deployed and delivered. Costs, incidents and lessons need review.
 
-**Analytical body:**
+Sovereignty and humanitarian effectiveness are therefore compatible when consent is informed, procedures are pre-arranged and national leadership is transparent. HADR succeeds when requested surge fills a temporary gap, protects dignity and leaves stronger local capability—not when visibility, tonnage or deployment alone is counted.
 
-1. **Claim:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the limit.
 
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
+### ORIGINAL 6 — 20 marks, 300 words
 
-**Qualified conclusion:** **Claim:** Centre State local architecture. **Named evidence/example:** The Union, States, districts, urban and rural local bodies and line departments hold differentiated legal, fiscal and operational responsibilities; subsidiarity should place action close to risk while preserving support and standards. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Whole-of-society. **Named evidence/example:** Whole-of-society disaster management includes government, communities, civil society, volunteers, academia, media, private operators and critical-service providers, but participation does not dilute public accountability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Data learning and audit. **Named evidence/example:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+**Question:** Critically evaluate India's international DRR leadership against the challenge of domestic localisation. Answer in about 300 words.
 
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
+**Model answer (254 words):**
 
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
+India has substantial DRR diplomatic and technical visibility. The local source records SAARC, BRICS, BIMSTEC, SCO, bilateral workshops and a dense 2015–23 hosting chronology. India launched CDRI in 2019 and participated in G20 DRR work. Its tsunami-warning capacity and regional exercises position it as a provider of knowledge and cooperation, not only a recipient.
 
-**How to improve this answer:** For ‘Analyse Centre-State-local and whole-of-society roles in disaster governance. Answer in about…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+This leadership has value: common standards, hazard data, training, mutual-assistance procedures, infrastructure finance and review forums can reduce duplication and build trust. CDRI's infrastructure focus and EW4All's end-to-end division of labour provide concrete mechanisms. Sendai and its 2023 Midterm Review create common targets and political accountability.
 
-### ORIGINAL MAINS 4 — 15 MARKS
+However, diplomatic output and domestic outcome are separate. A summit, agreement, membership or exercise does not prove district staffing, ULB risk planning, accessible warning, maintained equipment or reduced loss. NPDRR reviews and advises but lacks binding direction. State and local capacities vary, data may not drive correction, and social-media innovation cannot replace official infrastructure.
 
-**Question:** Examine Sendai, UNDRR, GPDRR and CDRI through their distinct governance functions. Answer in about 250 words.
+Localisation requires more than decentralised responsibility. Districts, ULBs, PRIs, community organisations and utilities need predictable resources, authority, interoperable information, repeated exercises and accountability. Direct local participation must include marginalised groups and avoid elite capture. International assistance should support national/local systems rather than establish parallel structures.
 
-**Model thesis:** **Claim:** Sendai Framework. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** UNDRR and GPDRR. **Named evidence/example:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** CDRI. **Named evidence/example:** The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Agreement implementation outcome ladder. **Named evidence/example:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
+India should publish plan-to-capability indicators; close after-action findings; link finance to maintenance and risk outcomes; institutionalise mutual aid; expand accessible multi-channel warning; and report agreement implementation beyond events held. International leadership and local weakness can coexist. India's leadership becomes credible when global knowledge and convening power produce measurable, equitable last-mile capability and service continuity.
 
-**Claim → named evidence → analysis → qualification:**
-
-- The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations.
-- UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body.
-- The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses.
-- Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-
-**Qualified conclusion:** **Claim:** Sendai Framework. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** UNDRR and GPDRR. **Named evidence/example:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** CDRI. **Named evidence/example:** The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Agreement implementation outcome ladder. **Named evidence/example:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **examine** requires a direct position on ‘Examine Sendai, UNDRR, GPDRR and CDRI through their distinct governance functions. Answer in…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Sendai Framework. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** UNDRR and GPDRR. **Named evidence/example:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** CDRI. **Named evidence/example:** The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Agreement implementation outcome ladder. **Named evidence/example:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Sendai Framework. **Named evidence/example:** The Sendai Framework for Disaster Risk Reduction 2015-2030 is a voluntary non-binding framework with four priorities and seven global targets; it does not itself create enforceable treaty obligations. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** UNDRR and GPDRR. **Named evidence/example:** UNDRR coordinates the UN disaster-risk-reduction agenda, while the Global Platform supports review and knowledge exchange; neither substitutes for national law or acts as a binding enforcement body. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** CDRI. **Named evidence/example:** The Coalition for Disaster Resilient Infrastructure supports cooperation on infrastructure risk, standards, finance and recovery; participation or membership demonstrates a cooperation platform, not resilient assets or reduced losses. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Agreement implementation outcome ladder. **Named evidence/example:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 15 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Examine Sendai, UNDRR, GPDRR and CDRI through their distinct governance functions. Answer in…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Design an accountable capacity-development system using interoperability, exercises, data, audit and corrective learning. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness exercises. **Named evidence/example:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Training and capacity development. **Named evidence/example:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incident command governance. **Named evidence/example:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Data learning and audit. **Named evidence/example:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Governance-outcome firewall. **Named evidence/example:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning.
-- Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected.
-- Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention.
-- Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific.
-- Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident.
-- Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented.
-- Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame.
-- A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-
-**Qualified conclusion:** **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness exercises. **Named evidence/example:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Training and capacity development. **Named evidence/example:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incident command governance. **Named evidence/example:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Data learning and audit. **Named evidence/example:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Governance-outcome firewall. **Named evidence/example:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **answer** requires a direct position on ‘Design an accountable capacity-development system using interoperability, exercises, data,…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness exercises. **Named evidence/example:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Training and capacity development. **Named evidence/example:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incident command governance. **Named evidence/example:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Data learning and audit. **Named evidence/example:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Governance-outcome firewall. **Named evidence/example:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-8. **Claim:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Plan-to-capability gap. **Named evidence/example:** A plan proves documented intent; capability additionally requires trained people, usable procedures, equipment, interoperable communications, finance, authority, exercises, maintenance and evidence of corrective learning. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Preparedness exercises. **Named evidence/example:** Exercises test assumptions, roles, communications, resource mobilisation and decision thresholds in a controlled setting; an exercise validates only what was actually tested and corrected. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Training and capacity development. **Named evidence/example:** Training builds knowledge and skill, but capability requires appropriate selection, refresher cycles, supervision, equipment, deployment opportunity and institutional retention. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Incident command governance. **Named evidence/example:** Incident command or response arrangements should define leadership, operations, planning, logistics, finance and information at an exam-safe governance level; tactical details remain context-specific. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Coordination and interoperability. **Named evidence/example:** Coordination requires shared terminology, contact routes, data standards, mutual-aid procedures, interoperable communications and clear lead/support roles before an incident. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Data learning and audit. **Named evidence/example:** Risk, loss, expenditure, exercise and after-action data should support transparent review, correction and institutional memory; a database or report is not proof that recommendations were implemented. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Accountability chain. **Named evidence/example:** Accountability links assigned duty, resources, standards, reporting, independent or legislative review, grievance and corrective action; coordination without identifiable responsibility can create diffusion of blame. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Governance-outcome firewall. **Named evidence/example:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Design an accountable capacity-development system using interoperability, exercises, data,…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Critically evaluate regional and international disaster cooperation through sovereignty, localisation and the agreement-to-outcome ladder. Answer in about 300 words.
-
-**Model thesis:** **Claim:** Regional cooperation. **Named evidence/example:** SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** International assistance legal status. **Named evidence/example:** International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereignty and humanitarian diplomacy. **Named evidence/example:** Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Localisation. **Named evidence/example:** Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Knowledge and technology cooperation. **Named evidence/example:** Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Agreement implementation outcome ladder. **Named evidence/example:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Governance-outcome firewall. **Named evidence/example:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Claim → named evidence → analysis → qualification:**
-
-- SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence.
-- International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access.
-- Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites.
-- Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity.
-- Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability.
-- Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung.
-- A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence.
-
-**Qualified conclusion:** **Claim:** Regional cooperation. **Named evidence/example:** SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** International assistance legal status. **Named evidence/example:** International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereignty and humanitarian diplomacy. **Named evidence/example:** Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Localisation. **Named evidence/example:** Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Knowledge and technology cooperation. **Named evidence/example:** Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Agreement implementation outcome ladder. **Named evidence/example:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Governance-outcome firewall. **Named evidence/example:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on ‘Critically evaluate regional and international disaster cooperation through sovereignty,…’, each clause, risk mechanism, named Indian law/institution/event, dated status, implementation and qualification.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** **Claim:** Regional cooperation. **Named evidence/example:** SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** International assistance legal status. **Named evidence/example:** International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereignty and humanitarian diplomacy. **Named evidence/example:** Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Localisation. **Named evidence/example:** Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Knowledge and technology cooperation. **Named evidence/example:** Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Agreement implementation outcome ladder. **Named evidence/example:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Governance-outcome firewall. **Named evidence/example:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Analytical body:**
-
-1. **Claim:** SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-2. **Claim:** International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-3. **Claim:** Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-4. **Claim:** Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-5. **Claim:** Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-6. **Claim:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-7. **Claim:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Named evidence/example:** Identify the exact Indian law, institution, guideline, warning system, fund, plan or dated event owned by the source. **Analysis:** Connect hazard -> exposure/vulnerability/capacity -> disaster consequence -> competent prevention/response/recovery route. **Qualification:** State source/date/unit/status, mandate, uncertainty, implementation gap, inclusion limit, event/inference boundary or residual risk.
-
-**Counter-position / limit:** An Act, plan, guideline, scheme, forecast, warning, drill, team, sanctioned capacity, allocation or dispatch cannot alone establish implementation, evacuation, expenditure, reduced loss, equitable recovery or resilience; test mandate, process, status and evidence.
-
-**Qualified conclusion:** **Claim:** Regional cooperation. **Named evidence/example:** SAARC, BIMSTEC and other regional routes can support exercises, knowledge, warning, mutual assistance and common procedures, but an agreement, meeting or exercise is not implementation or outcome evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** International assistance legal status. **Named evidence/example:** International assistance is governed by the affected State's consent, domestic law, entry and customs arrangements, coordination structures and applicable agreements; a humanitarian offer does not create automatic access. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Sovereignty and humanitarian diplomacy. **Named evidence/example:** Humanitarian diplomacy seeks timely access, cooperation and protection while respecting sovereignty, consent and national leadership; these principles must be balanced rather than presented as opposites. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Localisation. **Named evidence/example:** Localisation gives national and local responders meaningful leadership, resources, information and voice, while international actors provide requested surge, expertise or finance; proximity alone does not prove inclusion or capacity. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Knowledge and technology cooperation. **Named evidence/example:** Shared hazard data, standards, research, training and warning can be cooperation outputs, but interoperability, access, maintenance and local decision use determine whether they become capability. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Agreement implementation outcome ladder. **Named evidence/example:** Signing an agreement establishes a formal commitment, implementation shows operational action, outputs show delivered activities, and outcomes show changed capacity or risk; evidence must stop at the verified rung. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary. **Claim:** Governance-outcome firewall. **Named evidence/example:** A law, institution, plan, training, drill, summit, agreement, platform, database or membership proves its own existence or activity; preparedness, coordination quality, local capability and reduced loss require separate evidence. **Analysis:** This fixes the hazard, risk or protection category, institutional mandate and verified evidence rung before drawing the policy implication. **Qualification:** The conclusion retains the owner's date, institution, legal character and the mandate-to-implementation-to-outcome boundary.
-
-**Executable exam-length answer / compression plan:** For 20 marks, spend one-sixth of the time decoding the directive and drawing hazard -> exposure/vulnerability/capacity -> risk/impact -> prevention/mitigation/preparedness -> response/recovery/BBB; write four to seven claim -> named evidence/example -> analysis -> qualification points; reserve the final minute for source, date, unit, status, mandate and event/inference checks.
-
-**Why this earns marks:** The answer obeys the directive, uses India-centric evidence, and preserves risk terms, legal character, institutional mandate, warning/cycle stage, finance status, implementation and resilience distinctions.
-
-**How to improve this answer:** For ‘Critically evaluate regional and international disaster cooperation through sovereignty,…’, replace the weakest generic point with one exact Indian mechanism, institution/guideline/event, dated source and unit, implementation bottleneck, local-capacity or inclusion safeguard and answer-specific qualification.
+**Why this earns marks:** It follows claim → named evidence → analysis → qualification and remains within the limit.
