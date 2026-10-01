@@ -219,6 +219,7 @@
 | Ethics | Topic 08 - Moral Theories: Deontology, Consequentialism and Virtue Ethics | 16 | 31,824 | `4417f445b7f0` | [Ethics/08-Moral-Theories-Deontology-Consequentialism-Virtue-Ethics/Learning-Session-Live-Edition.md](Ethics/08-Moral-Theories-Deontology-Consequentialism-Virtue-Ethics/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 09 - Public Service Values, Status and Ethical Dilemmas | 13 | 24,400 | `f68d5d1e39c6` | [Ethics/09-Public-Service-Values-Status-and-Ethical-Dilemmas/Learning-Session-Live-Edition.md](Ethics/09-Public-Service-Values-Status-and-Ethical-Dilemmas/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 10 - Sources of Ethical Guidance: Laws, Rules and Conscience | 13 | 28,800 | `087f16c0cafd` | [Ethics/10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience/Learning-Session-Live-Edition.md](Ethics/10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 11 - Accountability and Ethical Governance | 15 | 31,684 | `f367aef9b7dd` | [Ethics/11-Accountability-and-Ethical-Governance/Learning-Session-Live-Edition.md](Ethics/11-Accountability-and-Ethical-Governance/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
