@@ -232,6 +232,7 @@
 | Ethics | Topic 21 - Protecting Honest Officials and Vigilance Administration | 15 | 40,946 | `6f7732ea95c3` | [Ethics/21-Protecting-Honest-Officials-and-Vigilance-Administration/Learning-Session-Live-Edition.md](Ethics/21-Protecting-Honest-Officials-and-Vigilance-Administration/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 22 - Case Study Method and Answer Architecture | 28 | 70,959 | `d6680edab2c9` | [Ethics/22-Case-Study-Method-and-Answer-Architecture/Learning-Session-Live-Edition.md](Ethics/22-Case-Study-Method-and-Answer-Architecture/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 23 - Comparative and Named Real Case Studies | 18 | 43,797 | `7b85d3a2f583` | [Ethics/23-Comparative-and-Named-Real-Case-Studies/Learning-Session-Live-Edition.md](Ethics/23-Comparative-and-Named-Real-Case-Studies/Learning-Session-Live-Edition.md) |
+| Political Theory | Topic 01 - Nature and Significance of Political Theory | 16 | 45,822 | `a0e59fb0fe4d` | [Political-Theory/01-Nature-and-Significance-of-Political-Theory/Learning-Session-Live-Edition.md](Political-Theory/01-Nature-and-Significance-of-Political-Theory/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
