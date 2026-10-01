@@ -234,6 +234,7 @@
 | Ethics | Topic 23 - Comparative and Named Real Case Studies | 18 | 43,797 | `7b85d3a2f583` | [Ethics/23-Comparative-and-Named-Real-Case-Studies/Learning-Session-Live-Edition.md](Ethics/23-Comparative-and-Named-Real-Case-Studies/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 01 - Nature and Significance of Political Theory | 16 | 45,822 | `a0e59fb0fe4d` | [Political-Theory/01-Nature-and-Significance-of-Political-Theory/Learning-Session-Live-Edition.md](Political-Theory/01-Nature-and-Significance-of-Political-Theory/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 02 - Ideology and End of Ideology | 21 | 60,032 | `b194a4a99a30` | [Political-Theory/02-Ideology-and-End-of-Ideology/Learning-Session-Live-Edition.md](Political-Theory/02-Ideology-and-End-of-Ideology/Learning-Session-Live-Edition.md) |
+| Political Theory | Topic 03 - Liberalism and Neoliberalism | 18 | 52,816 | `9d86e961e6e7` | [Political-Theory/03-Liberalism-and-Neoliberalism/Learning-Session-Live-Edition.md](Political-Theory/03-Liberalism-and-Neoliberalism/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
