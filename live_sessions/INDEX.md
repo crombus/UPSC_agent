@@ -216,6 +216,7 @@
 | Ethics | Topic 05 - Emotional Intelligence in Administration | 11 | 16,476 | `cecac8068801` | [Ethics/05-Emotional-Intelligence-in-Administration/Learning-Session-Live-Edition.md](Ethics/05-Emotional-Intelligence-in-Administration/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 06 - Indian Moral Thinkers and Philosophers | 10 | 17,001 | `4d3c4d4dc45e` | [Ethics/06-Indian-Moral-Thinkers-and-Philosophers/Learning-Session-Live-Edition.md](Ethics/06-Indian-Moral-Thinkers-and-Philosophers/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 07 - Western Moral Philosophers and Thinkers | 13 | 30,884 | `f14482d1e648` | [Ethics/07-Western-Moral-Philosophers-and-Thinkers/Learning-Session-Live-Edition.md](Ethics/07-Western-Moral-Philosophers-and-Thinkers/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 08 - Moral Theories: Deontology, Consequentialism and Virtue Ethics | 16 | 31,824 | `4417f445b7f0` | [Ethics/08-Moral-Theories-Deontology-Consequentialism-Virtue-Ethics/Learning-Session-Live-Edition.md](Ethics/08-Moral-Theories-Deontology-Consequentialism-Virtue-Ethics/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
