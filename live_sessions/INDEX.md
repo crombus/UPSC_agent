@@ -225,6 +225,7 @@
 | Polity | Topic 22 - Special Provisions | 11 | 20,846 | `1c0596e7d226` | [Polity/22-Special-Provisions/Learning-Session-Live-Edition.md](Polity/22-Special-Provisions/Learning-Session-Live-Edition.md) |
 | Polity | Topic 23 - Panchayati Raj | 13 | 22,115 | `072a767ff227` | [Polity/23-Panchayati-Raj/Learning-Session-Live-Edition.md](Polity/23-Panchayati-Raj/Learning-Session-Live-Edition.md) |
 | Polity | Topic 24 - Municipalities | 16 | 20,835 | `b515a36b1714` | [Polity/24-Municipalities/Learning-Session-Live-Edition.md](Polity/24-Municipalities/Learning-Session-Live-Edition.md) |
+| Polity | Topic 25 - Union Territories | 15 | 51,094 | `f60c5a4411be` | [Polity/25-Union-Territories/Learning-Session-Live-Edition.md](Polity/25-Union-Territories/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
