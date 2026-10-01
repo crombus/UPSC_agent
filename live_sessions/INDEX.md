@@ -224,6 +224,7 @@
 | Ethics | Topic 13 - Emerging Ethics: Technology, AI and Environment | 15 | 32,824 | `00a4385d8d19` | [Ethics/13-Emerging-Ethics-Technology-AI-and-Environment/Learning-Session-Live-Edition.md](Ethics/13-Emerging-Ethics-Technology-AI-and-Environment/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 14 - Probity: Concept and Philosophical Basis of Governance | 10 | 13,220 | `d3c8c26d3168` | [Ethics/14-Probity-Concept-and-Philosophical-Basis-of-Governance/Learning-Session-Live-Edition.md](Ethics/14-Probity-Concept-and-Philosophical-Basis-of-Governance/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 15 - Transparency, RTI and Information Sharing | 10 | 20,466 | `437d01066b83` | [Ethics/15-Transparency-RTI-and-Information-Sharing/Learning-Session-Live-Edition.md](Ethics/15-Transparency-RTI-and-Information-Sharing/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 16 - Codes of Ethics and Codes of Conduct | 13 | 23,658 | `962183504701` | [Ethics/16-Codes-of-Ethics-and-Codes-of-Conduct/Learning-Session-Live-Edition.md](Ethics/16-Codes-of-Ethics-and-Codes-of-Conduct/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
