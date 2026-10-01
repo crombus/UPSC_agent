@@ -229,6 +229,7 @@
 | Ethics | Topic 18 - Utilization of Public Funds and Challenges of Corruption | 14 | 16,927 | `5328d6c3ec5e` | [Ethics/18-Utilization-of-Public-Funds-and-Challenges-of-Corruption/Learning-Session-Live-Edition.md](Ethics/18-Utilization-of-Public-Funds-and-Challenges-of-Corruption/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 19 - Corruption: Legal Framework | 14 | 20,756 | `54c861043e46` | [Ethics/19-Corruption-Legal-Framework/Learning-Session-Live-Edition.md](Ethics/19-Corruption-Legal-Framework/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 20 - Anti-Corruption Institutions | 12 | 21,292 | `39d3281b7d14` | [Ethics/20-Anti-Corruption-Institutions/Learning-Session-Live-Edition.md](Ethics/20-Anti-Corruption-Institutions/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 21 - Protecting Honest Officials and Vigilance Administration | 15 | 40,946 | `6f7732ea95c3` | [Ethics/21-Protecting-Honest-Officials-and-Vigilance-Administration/Learning-Session-Live-Edition.md](Ethics/21-Protecting-Honest-Officials-and-Vigilance-Administration/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
