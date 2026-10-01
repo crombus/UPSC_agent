@@ -220,6 +220,7 @@
 | Polity | Topic 17 - Parliament | 13 | 21,611 | `64896acc58e8` | [Polity/17-Parliament/Learning-Session-Live-Edition.md](Polity/17-Parliament/Learning-Session-Live-Edition.md) |
 | Polity | Topic 18 - Supreme Court | 14 | 23,051 | `29b0b363c0be` | [Polity/18-Supreme-Court/Learning-Session-Live-Edition.md](Polity/18-Supreme-Court/Learning-Session-Live-Edition.md) |
 | Polity | Topic 19 - Governor, CM and State Council | 16 | 19,776 | `b434a42e537b` | [Polity/19-Governor-CM-and-State-Council/Learning-Session-Live-Edition.md](Polity/19-Governor-CM-and-State-Council/Learning-Session-Live-Edition.md) |
+| Polity | Topic 20 - State Legislature | 14 | 23,457 | `c832a93c527b` | [Polity/20-State-Legislature/Learning-Session-Live-Edition.md](Polity/20-State-Legislature/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
