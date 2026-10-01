@@ -221,6 +221,7 @@
 | Polity | Topic 18 - Supreme Court | 14 | 23,051 | `29b0b363c0be` | [Polity/18-Supreme-Court/Learning-Session-Live-Edition.md](Polity/18-Supreme-Court/Learning-Session-Live-Edition.md) |
 | Polity | Topic 19 - Governor, CM and State Council | 16 | 19,776 | `b434a42e537b` | [Polity/19-Governor-CM-and-State-Council/Learning-Session-Live-Edition.md](Polity/19-Governor-CM-and-State-Council/Learning-Session-Live-Edition.md) |
 | Polity | Topic 20 - State Legislature | 14 | 23,457 | `c832a93c527b` | [Polity/20-State-Legislature/Learning-Session-Live-Edition.md](Polity/20-State-Legislature/Learning-Session-Live-Edition.md) |
+| Polity | Topic 21 - High Court and Subordinate Courts | 10 | 12,266 | `d4c05bd2b7b7` | [Polity/21-High-Court-and-Subordinate-Courts/Learning-Session-Live-Edition.md](Polity/21-High-Court-and-Subordinate-Courts/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
