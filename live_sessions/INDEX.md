@@ -220,6 +220,7 @@
 | Ethics | Topic 09 - Public Service Values, Status and Ethical Dilemmas | 13 | 24,400 | `f68d5d1e39c6` | [Ethics/09-Public-Service-Values-Status-and-Ethical-Dilemmas/Learning-Session-Live-Edition.md](Ethics/09-Public-Service-Values-Status-and-Ethical-Dilemmas/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 10 - Sources of Ethical Guidance: Laws, Rules and Conscience | 13 | 28,800 | `087f16c0cafd` | [Ethics/10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience/Learning-Session-Live-Edition.md](Ethics/10-Sources-of-Ethical-Guidance-Laws-Rules-Conscience/Learning-Session-Live-Edition.md) |
 | Ethics | Topic 11 - Accountability and Ethical Governance | 15 | 31,684 | `f367aef9b7dd` | [Ethics/11-Accountability-and-Ethical-Governance/Learning-Session-Live-Edition.md](Ethics/11-Accountability-and-Ethical-Governance/Learning-Session-Live-Edition.md) |
+| Ethics | Topic 12 - Corporate Governance and International Ethics | 17 | 42,355 | `8173e28d408d` | [Ethics/12-Corporate-Governance-and-International-Ethics/Learning-Session-Live-Edition.md](Ethics/12-Corporate-Governance-and-International-Ethics/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
