@@ -226,6 +226,7 @@
 | Polity | Topic 23 - Panchayati Raj | 13 | 22,115 | `072a767ff227` | [Polity/23-Panchayati-Raj/Learning-Session-Live-Edition.md](Polity/23-Panchayati-Raj/Learning-Session-Live-Edition.md) |
 | Polity | Topic 24 - Municipalities | 16 | 20,835 | `b515a36b1714` | [Polity/24-Municipalities/Learning-Session-Live-Edition.md](Polity/24-Municipalities/Learning-Session-Live-Edition.md) |
 | Polity | Topic 25 - Union Territories | 15 | 51,094 | `f60c5a4411be` | [Polity/25-Union-Territories/Learning-Session-Live-Edition.md](Polity/25-Union-Territories/Learning-Session-Live-Edition.md) |
+| Polity | Topic 26 - Scheduled and Tribal Areas | 21 | 82,034 | `b20eb3d4f61b` | [Polity/26-Scheduled-and-Tribal-Areas/Learning-Session-Live-Edition.md](Polity/26-Scheduled-and-Tribal-Areas/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
