@@ -244,6 +244,7 @@
 | Political Theory | Topic 10 - State, Civil Society, Nation and Internationalism | 45 | 138,723 | `b382f02b3dd9` | [Political-Theory/10-State-Civil-Society-Nation-and-Internationalism/Learning-Session-Live-Edition.md](Political-Theory/10-State-Civil-Society-Nation-and-Internationalism/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 11 - Sovereignty and Pluralism | 38 | 122,938 | `48b04476527d` | [Political-Theory/11-Sovereignty-and-Pluralism/Learning-Session-Live-Edition.md](Political-Theory/11-Sovereignty-and-Pluralism/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 12 - Globalisation and Challenges to Sovereignty | 32 | 87,349 | `e0e2fdd16107` | [Political-Theory/12-Globalisation-and-Challenges-to-Sovereignty/Learning-Session-Live-Edition.md](Political-Theory/12-Globalisation-and-Challenges-to-Sovereignty/Learning-Session-Live-Edition.md) |
+| Political Theory | Topic 13 - Diverse Perspectives on the State | 67 | 153,490 | `805fd878ac38` | [Political-Theory/13-Diverse-Perspectives-on-the-State/Learning-Session-Live-Edition.md](Political-Theory/13-Diverse-Perspectives-on-the-State/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
