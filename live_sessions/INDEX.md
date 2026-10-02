@@ -236,6 +236,7 @@
 | Polity | Topic 33 - Attorney-General and Advocate-General | 15 | 35,347 | `9cc56071477e` | [Polity/33-Attorney-General-and-Advocate-General/Learning-Session-Live-Edition.md](Polity/33-Attorney-General-and-Advocate-General/Learning-Session-Live-Edition.md) |
 | Polity | Topic 34 - NITI Aayog | 17 | 31,347 | `cbf3f0ef74d6` | [Polity/34-NITI-Aayog/Learning-Session-Live-Edition.md](Polity/34-NITI-Aayog/Learning-Session-Live-Edition.md) |
 | Polity | Topic 35 - NHRC and SHRC | 13 | 26,883 | `9204e374826d` | [Polity/35-NHRC-and-SHRC/Learning-Session-Live-Edition.md](Polity/35-NHRC-and-SHRC/Learning-Session-Live-Edition.md) |
+| Polity | Topic 36 - Central and State Information Commissions (CIC and SIC) | 18 | 39,943 | `8369ca0fb3ad` | [Polity/36-CIC-and-SIC/Learning-Session-Live-Edition.md](Polity/36-CIC-and-SIC/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
