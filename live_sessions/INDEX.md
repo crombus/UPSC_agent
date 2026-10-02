@@ -237,6 +237,7 @@
 | Political Theory | Topic 03 - Liberalism and Neoliberalism | 18 | 52,816 | `9d86e961e6e7` | [Political-Theory/03-Liberalism-and-Neoliberalism/Learning-Session-Live-Edition.md](Political-Theory/03-Liberalism-and-Neoliberalism/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 04 - Marxism and Neo-Marxism | 20 | 58,075 | `38361f7282de` | [Political-Theory/04-Marxism-and-Neo-Marxism/Learning-Session-Live-Edition.md](Political-Theory/04-Marxism-and-Neo-Marxism/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 05 - Socialism, Fascism, Anarchism and Gandhism | 24 | 82,080 | `c8866570699c` | [Political-Theory/05-Socialism-Fascism-Anarchism-and-Gandhism/Learning-Session-Live-Edition.md](Political-Theory/05-Socialism-Fascism-Anarchism-and-Gandhism/Learning-Session-Live-Edition.md) |
+| Political Theory | Topic 06 - Feminism, Sex and Gender | 24 | 73,694 | `7f8129465f95` | [Political-Theory/06-Feminism-Sex-and-Gender/Learning-Session-Live-Edition.md](Political-Theory/06-Feminism-Sex-and-Gender/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
