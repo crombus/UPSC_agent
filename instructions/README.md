@@ -22,8 +22,9 @@ these repository instruction files.
 
 | Area | Instruction file | Scope |
 |---|---|---|
-| Generation optimization and integrity | `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md` | All new UPSC generation workflows |
-| Live-session validation and release | `instructions\LIVE-SESSION-VALIDATION-AND-RELEASE.md` | Mechanical validation, source manifest and fail-fast release |
+| Generation optimization and integrity | `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md` | All new UPSC generation workflows, including source exclusions and mandatory pre-handoff defect prevention |
+| Live-session validation and release | `instructions\LIVE-SESSION-VALIDATION-AND-RELEASE.md` | Mechanical validation, excluded-source manifest handling and fail-fast release |
+| Reusable rolling live-session prompt | `instructions\REUSABLE-ROLLING-LIVE-SESSION-PROMPT.md` | Copy-paste entry point for starting or resuming isolated subject pipelines without duplicating the authoritative rules |
 | PDF learning sessions | `instructions\pdf-learning-session\PDF-LEARNING-SESSION-STANDARD.md` | PDF sessions, topic packages and visual revision packages |
 | Live learning sessions | `live_sessions\LIVE-SESSION-GENERATION-RULES.md` | Interactive/live Markdown generation and validation |
 
