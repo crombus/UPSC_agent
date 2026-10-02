@@ -242,6 +242,7 @@
 | Polity | Topic 39 - Cooperative Societies | 16 | 33,709 | `2cac00a15027` | [Polity/39-Cooperative-Societies/Learning-Session-Live-Edition.md](Polity/39-Cooperative-Societies/Learning-Session-Live-Edition.md) |
 | Polity | Topic 40 - Official Language | 17 | 31,859 | `de1d36ccfd37` | [Polity/40-Official-Language/Learning-Session-Live-Edition.md](Polity/40-Official-Language/Learning-Session-Live-Edition.md) |
 | Polity | Topic 41 - Public Services | 16 | 33,943 | `0c31cb24a6b0` | [Polity/41-Public-Services/Learning-Session-Live-Edition.md](Polity/41-Public-Services/Learning-Session-Live-Edition.md) |
+| Polity | Topic 42 - Anti-Defection Law | 18 | 39,736 | `6c952e6a711b` | [Polity/42-Anti-Defection-Law/Learning-Session-Live-Edition.md](Polity/42-Anti-Defection-Law/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
