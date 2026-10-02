@@ -239,6 +239,7 @@
 | Political Theory | Topic 05 - Socialism, Fascism, Anarchism and Gandhism | 24 | 82,080 | `c8866570699c` | [Political-Theory/05-Socialism-Fascism-Anarchism-and-Gandhism/Learning-Session-Live-Edition.md](Political-Theory/05-Socialism-Fascism-Anarchism-and-Gandhism/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 06 - Feminism, Sex and Gender | 24 | 73,694 | `7f8129465f95` | [Political-Theory/06-Feminism-Sex-and-Gender/Learning-Session-Live-Edition.md](Political-Theory/06-Feminism-Sex-and-Gender/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 07 - Nature of Politics and Communitarianism | 24 | 75,426 | `261956647a8b` | [Political-Theory/07-Nature-of-Politics-and-Communitarianism/Learning-Session-Live-Edition.md](Political-Theory/07-Nature-of-Politics-and-Communitarianism/Learning-Session-Live-Edition.md) |
+| Political Theory | Topic 08 - Approaches, Behaviouralism and Post-Behaviouralism | 34 | 92,625 | `0463e22b617b` | [Political-Theory/08-Approaches-Behaviouralism-and-Post-Behaviouralism/Learning-Session-Live-Edition.md](Political-Theory/08-Approaches-Behaviouralism-and-Post-Behaviouralism/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
