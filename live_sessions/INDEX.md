@@ -235,6 +235,7 @@
 | Polity | Topic 32 - Comptroller and Auditor General (CAG) | 11 | 28,573 | `86b6b4dcc154` | [Polity/32-CAG/Learning-Session-Live-Edition.md](Polity/32-CAG/Learning-Session-Live-Edition.md) |
 | Polity | Topic 33 - Attorney-General and Advocate-General | 15 | 35,347 | `9cc56071477e` | [Polity/33-Attorney-General-and-Advocate-General/Learning-Session-Live-Edition.md](Polity/33-Attorney-General-and-Advocate-General/Learning-Session-Live-Edition.md) |
 | Polity | Topic 34 - NITI Aayog | 17 | 31,347 | `cbf3f0ef74d6` | [Polity/34-NITI-Aayog/Learning-Session-Live-Edition.md](Polity/34-NITI-Aayog/Learning-Session-Live-Edition.md) |
+| Polity | Topic 35 - NHRC and SHRC | 13 | 26,883 | `9204e374826d` | [Polity/35-NHRC-and-SHRC/Learning-Session-Live-Edition.md](Polity/35-NHRC-and-SHRC/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
