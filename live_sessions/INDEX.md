@@ -230,6 +230,7 @@
 | Polity | Topic 27 - Election Commission | 20 | 74,910 | `761140104dec` | [Polity/27-Election-Commission/Learning-Session-Live-Edition.md](Polity/27-Election-Commission/Learning-Session-Live-Edition.md) |
 | Polity | Topic 28 - UPSC and SPSC | 12 | 29,006 | `5f1533bc0661` | [Polity/28-UPSC-and-SPSC/Learning-Session-Live-Edition.md](Polity/28-UPSC-and-SPSC/Learning-Session-Live-Edition.md) |
 | Polity | Topic 29 - Finance Commission | 18 | 49,323 | `bba869f2de11` | [Polity/29-Finance-Commission/Learning-Session-Live-Edition.md](Polity/29-Finance-Commission/Learning-Session-Live-Edition.md) |
+| Polity | Topic 30 - GST Council | 15 | 39,003 | `a082362f0cff` | [Polity/30-GST-Council/Learning-Session-Live-Edition.md](Polity/30-GST-Council/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
