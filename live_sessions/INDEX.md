@@ -238,6 +238,7 @@
 | Polity | Topic 35 - NHRC and SHRC | 13 | 26,883 | `9204e374826d` | [Polity/35-NHRC-and-SHRC/Learning-Session-Live-Edition.md](Polity/35-NHRC-and-SHRC/Learning-Session-Live-Edition.md) |
 | Polity | Topic 36 - Central and State Information Commissions (CIC and SIC) | 18 | 39,943 | `8369ca0fb3ad` | [Polity/36-CIC-and-SIC/Learning-Session-Live-Edition.md](Polity/36-CIC-and-SIC/Learning-Session-Live-Edition.md) |
 | Polity | Topic 37 - Central Vigilance Commission (CVC) and Central Bureau of Investigation (CBI) | 14 | 30,788 | `f8d717be38ad` | [Polity/37-CVC-and-CBI/Learning-Session-Live-Edition.md](Polity/37-CVC-and-CBI/Learning-Session-Live-Edition.md) |
+| Polity | Topic 38 - Lokpal and Lokayuktas | 19 | 31,672 | `707a5dd811e5` | [Polity/38-Lokpal-and-Lokayuktas/Learning-Session-Live-Edition.md](Polity/38-Lokpal-and-Lokayuktas/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
