@@ -241,6 +241,7 @@
 | Political Theory | Topic 07 - Nature of Politics and Communitarianism | 24 | 75,426 | `261956647a8b` | [Political-Theory/07-Nature-of-Politics-and-Communitarianism/Learning-Session-Live-Edition.md](Political-Theory/07-Nature-of-Politics-and-Communitarianism/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 08 - Approaches, Behaviouralism and Post-Behaviouralism | 34 | 92,625 | `0463e22b617b` | [Political-Theory/08-Approaches-Behaviouralism-and-Post-Behaviouralism/Learning-Session-Live-Edition.md](Political-Theory/08-Approaches-Behaviouralism-and-Post-Behaviouralism/Learning-Session-Live-Edition.md) |
 | Political Theory | Topic 09 - Interdisciplinary Political Analysis | 31 | 91,809 | `bd3156ead741` | [Political-Theory/09-Interdisciplinary-Political-Analysis/Learning-Session-Live-Edition.md](Political-Theory/09-Interdisciplinary-Political-Analysis/Learning-Session-Live-Edition.md) |
+| Political Theory | Topic 10 - State, Civil Society, Nation and Internationalism | 45 | 138,723 | `b382f02b3dd9` | [Political-Theory/10-State-Civil-Society-Nation-and-Internationalism/Learning-Session-Live-Edition.md](Political-Theory/10-State-Civil-Society-Nation-and-Internationalism/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
