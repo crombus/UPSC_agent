@@ -24,4 +24,3 @@ Mains\
 
 Mains-focused editions are indexed only in `Mains\INDEX.md`. They do not replace or
 duplicate rows in `live_sessions\INDEX.md`.
-

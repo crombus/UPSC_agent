@@ -45,4 +45,3 @@ Every lesson must include:
 - Final 15- and 20-mark models: no more than 250 words.
 - Compression must remove low-utility depth, not definitions, causal logic, major
   objections, balanced conclusions or answer-writing practice.
-
