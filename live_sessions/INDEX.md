@@ -234,6 +234,7 @@
 | Polity | Topic 31 - National Commissions for SC, ST and BC | 18 | 42,105 | `f267c2a9d975` | [Polity/31-National-Commissions-SC-ST-BC/Learning-Session-Live-Edition.md](Polity/31-National-Commissions-SC-ST-BC/Learning-Session-Live-Edition.md) |
 | Polity | Topic 32 - Comptroller and Auditor General (CAG) | 11 | 28,573 | `86b6b4dcc154` | [Polity/32-CAG/Learning-Session-Live-Edition.md](Polity/32-CAG/Learning-Session-Live-Edition.md) |
 | Polity | Topic 33 - Attorney-General and Advocate-General | 15 | 35,347 | `9cc56071477e` | [Polity/33-Attorney-General-and-Advocate-General/Learning-Session-Live-Edition.md](Polity/33-Attorney-General-and-Advocate-General/Learning-Session-Live-Edition.md) |
+| Polity | Topic 34 - NITI Aayog | 17 | 31,347 | `cbf3f0ef74d6` | [Polity/34-NITI-Aayog/Learning-Session-Live-Edition.md](Polity/34-NITI-Aayog/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
