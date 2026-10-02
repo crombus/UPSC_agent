@@ -240,6 +240,7 @@
 | Polity | Topic 37 - Central Vigilance Commission (CVC) and Central Bureau of Investigation (CBI) | 14 | 30,788 | `f8d717be38ad` | [Polity/37-CVC-and-CBI/Learning-Session-Live-Edition.md](Polity/37-CVC-and-CBI/Learning-Session-Live-Edition.md) |
 | Polity | Topic 38 - Lokpal and Lokayuktas | 19 | 31,672 | `707a5dd811e5` | [Polity/38-Lokpal-and-Lokayuktas/Learning-Session-Live-Edition.md](Polity/38-Lokpal-and-Lokayuktas/Learning-Session-Live-Edition.md) |
 | Polity | Topic 39 - Cooperative Societies | 16 | 33,709 | `2cac00a15027` | [Polity/39-Cooperative-Societies/Learning-Session-Live-Edition.md](Polity/39-Cooperative-Societies/Learning-Session-Live-Edition.md) |
+| Polity | Topic 40 - Official Language | 17 | 31,859 | `de1d36ccfd37` | [Polity/40-Official-Language/Learning-Session-Live-Edition.md](Polity/40-Official-Language/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
