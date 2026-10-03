@@ -2,49 +2,35 @@
 
 ## Learning Roadmap
 
-This 20-lesson sequence moves from meaning and institutional distinctions to mission families, adoption, governance, evaluation and redesign. It retains predecessor-successor chains and treats mutable claims as date-bound.
+| Phase | Lessons | Learning purpose |
+|---|---:|---|
+| Core foundations | 1-4 | Mission meaning, policy instruments, status discipline and chronology |
+| Core mission families | 5-9 | Food security, horticulture, edible oils, commodity portfolios and horizontal capabilities |
+| Core delivery economics | 10-14 | Institutions, adoption, equity, federal finance and market convergence |
+| Optional Advanced | 15-20 | Political economy, monitoring, causal evaluation, ecology, life cycle and integrated reform |
 
-| Lesson | Stage | Learner dependency |
-|---:|---|---|
-| 1 | Foundation | Mission mode: public problem, innovation direction and the design test |
-| 2 | Foundation | Mission, department, umbrella, component, project, programme, campaign and platform |
-| 3 | Foundation | Approval to outcome: theory of change and status discipline |
-| 4 | Foundation | Historical technology missions: chronology, vintage and lessons |
-| 5 | Core | Food-security architecture: NFSM/NFSNM and production arithmetic |
-| 6 | Core | Horticulture: NHM to MIDH, perishability and the income gap |
-| 7 | Core | Oilseeds and oil palm: distinct systems and three economic tests |
-| 8 | Core | Pulses, cotton, jute, bamboo and beekeeping: tailored portfolios |
-| 9 | Core | Horizontal capabilities: seeds, soil, machinery, protection and resilience |
-| 10 | Core | Innovation institutions: DARE/ICAR, SAUs, KVKs, ATMA and feedback |
-| 11 | Core | Lab to land: adoption threshold, diffusion and durable use |
-| 12 | Core | Adoption heterogeneity: farm size, tenancy, gender and agro-climate |
-| 13 | Advanced | Financing and federal delivery: incentives, timing and capacity |
-| 14 | Advanced | Markets, procurement, processing and import dependence as complements |
-| 15 | Advanced | Mission failure: Goodhart, capture, additionality and path dependence |
-| 16 | Advanced | Monitoring scorecard: outlay to ecology and equity |
-| 17 | Advanced | Evaluation and attribution: causation, cost and durability |
-| 18 | Advanced | Environmental rebound, technology choice and portfolios |
-| 19 | Advanced | Mission life cycle: mainstream, sunset, successor or redesign |
-| 20 | Advanced | Integrated mission audit and answer-writing synthesis |
+```text
+COMPLETE CORE
+problem -> mission design -> chronology -> mission families -> institutions
+        -> adoption -> inclusion -> federal delivery -> markets
+                                      |
+                                      v
+DISTINCT OPTIONAL ADVANCED
+targets -> attribution -> ecology -> life cycle -> Mission 2.0
+```
 
-### Coverage orientation
+**Core-first rule:** Lessons 1-14 complete all mandatory canonical coverage. Lessons 15-20 are a clearly optional analytical block and are not prerequisites for the Core.
 
-This session owns agricultural mission-mode policy and the 2026 GS-III Technology Missions demand. Digital architecture routes to Topic 27; irrigation and RAD detail to Topic 14; markets and processing to Topics 13 and 15; subsidies/WTO to Topic 28; livestock and fisheries to Topic 30.
-
-### Current-status discipline
-
-- **Fact:** mutable dates, status and designs are tied to official publication/status or retrieval date **25 September 2026**.
-- **Inference:** welfare, causation, ecology and implementation claims are tested through a theory of change.
-- **Access limits:** Direct PIB and PM India cotton-page fetches returned HTTP 403, but their indexed official records were independently verified; the ICAR KVK page failed at transport/TLS level; the Economic Survey chapter URL returned HTTP 403. No unsupported live claim was imported.
+**Truth discipline:** A dated approval, guideline or official target is a policy fact, not proof of delivery or outcome. Welfare, causal, distributional and ecological conclusions are analytical inferences unless separately evidenced.
 
 ## Lesson 1 - Mission mode: public problem, innovation direction and the design test
 
-**Progress: 1 / 20 | Stage: Foundation | Subtopic: Mission mode: public problem, innovation direction and the design test**
+Progress: 1 / 20 | Stage: Foundation | Subtopic: Mission mode: public problem, innovation direction and the design test
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "official agricultural mission-mode policy India September 2026"
-CA found: Agriculture Ministry oilseeds and pulses pages retrieved 25 September 2026 show problem-focused value-chain architectures.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Mission mode: public problem, innovation direction and the design test through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Problem map
@@ -101,100 +87,44 @@ missions.
 
 > ⚠️ A programme does not acquire these qualities merely because “Mission” appears in its
 > title. Examine its actual design.
-#### Mission-oriented innovation model
 
-```text
-SOCIETAL CHALLENGE
-food/nutrition security · imports · climate risk · low income · poor quality
-                         |
-                         v
-DIRECTION OF INNOVATION
-What outcome should research and investment pursue?
-                         |
-                         v
-PORTFOLIO OF SOLUTIONS
-seed · agronomy · machinery · digital · institutions · processing · market
-                         |
-                         v
-CAPABILITY AND DIFFUSION
-research system · state capacity · extension · firms · FPOs · finance
-                         |
-                         v
-MEASURED PUBLIC VALUE
-income · resilience · quality · nutrition · resources · strategic autonomy
-```
+### Revision notes
 
-⚠️ A mission differs from a technology-push project because the public problem, adoption
-system and measurable social outcome—not the invention alone—organise the intervention.
+1. Mission mode begins with a defined public problem rather than a fashionable technology.
+2. It coordinates research, material supply, extension, finance, infrastructure and markets.
+3. Invention or asset distribution is an input, not proof of public value.
+4. Time-bound milestones and review distinguish focused mission delivery from indefinite routine activity.
+5. The official syllabus clause is plural and generic, so no single mission exhausts the topic.
+6. A programme earns the mission label through design and accountability, not through its title.
+7. This topic owns agricultural mission architecture; technical working details remain with relevant science topics.
+8. Success requires additional, durable and inclusive outcomes with a redesign or exit condition.
+### Mains application, responsive model and unique rubric
 
-### Directionality challenge
+**Question (10 marks, maximum 150 words):** What makes an agricultural intervention genuinely mission-mode?
 
-**Strongest objection:** Direction by government can entrench a politically favoured technology.
+**Responsive model:** A mission begins with a defined public problem—such as low productivity, import vulnerability or climate risk—and coordinates research, finance, extension, institutions and markets toward a measurable outcome. Unlike a technology-push project, it does not treat invention or distribution as success. The test is whether the portfolio removes a binding constraint, generates additional public value and reaches farmers durably and equitably. Mission design should therefore state the problem, causal chain, responsible institutions, adoption conditions, outcome indicators and redesign or exit rule. A fashionable technology without these links is a project input, not a mission outcome.
 
-**Reply:** Use outcome direction with competing technologies, open evidence and exit rules.
+**Unique scoring rubric:** Award 2 for problem definition, 3 for coordination chain, 3 for outcome test, 2 for title-versus-design verdict (10 total).
 
-**Qualified verdict:** Direction is defensible when government specifies the public outcome but keeps technologies contestable and reviewable.
-### Eight retrieval cues
+### Concept check
 
-1. Problem specificity precedes instrument choice.
-2. A mission coordinates a portfolio, not necessarily one technology.
-3. The word Mission is not proof of mission-mode design.
-4. Public value includes food, income, resilience, quality and ecology.
-5. Directionality is justified by public goods and coordination failure.
-6. Technology-push without adoption and outcome logic is only a project.
-7. Mission claims require a counterfactual.
-8. Digital tools are one category; detailed architecture belongs to Topic 27.
+**Question:** A district has low pulse yields, weak seed replacement, little extension and no assured aggregation. Which proposal is genuinely mission-mode?
 
-### 10-mark answer spine
+**Model answer:** It begins with the public problem and coordinates complementary instruments around an outcome.
 
-**Question (10 marks / 150 words):** What makes an agricultural intervention genuinely mission-mode?
+**Misconception to avoid:** A mission label proves mission-mode design.
 
-**Model answer:** Define the public problem, coordinated research-to-market portfolio and measurable public value. Distinguish the mechanism from a labelled routine scheme and end with an evaluation condition. Use one concrete mission to show how a defined public problem selects a portfolio; finish by stating the evidence that would justify continuation.
+### Transition — Problem before instrument
 
-### Diagnostic check (2 MCQs)
-
-**MCQ 1. A district has low pulse yields, weak seed replacement, little extension and no assured aggregation. Which proposal is genuinely mission-mode?**
-
-A. Set a measurable pulse-income and resilience objective and coordinate seed, trials, extension, finance and aggregation
-B. Rename the existing seed-distribution scheme as a mission
-C. Purchase one machine for every block without diagnosing constraints
-D. Run a one-week awareness campaign and treat attendance as impact
-
-**MCQ 2. A ministry first chooses a drone vendor and only later searches for a farm problem the drones might solve. What is the central design error?**
-
-A. It has allowed more than one technology supplier
-B. It has reversed mission logic by beginning with an instrument rather than a defined public problem
-C. It has included a private firm in implementation
-D. It has selected a digital rather than biological technology
-
-#### Answers and explanations
-
-**MCQ 1: A**
-
-- **A - Correct.** It begins with the public problem and coordinates complementary instruments around an outcome.
-- **B - Incorrect.** A new label does not add a causal chain, convergence or outcome accountability.
-- **C - Incorrect.** Uniform procurement selects an instrument before identifying the binding constraint.
-- **D - Incorrect.** Attendance is an activity measure and cannot establish adoption or welfare change.
-
-**MCQ 2: B**
-
-- **A - Incorrect.** Supplier plurality does not repair the missing problem definition.
-- **B - Correct.** Mission direction should specify the outcome first and then compare technologies capable of achieving it.
-- **C - Incorrect.** Private participation can be useful when incentives, standards and accountability are sound.
-- **D - Incorrect.** The error is technology-push sequencing, not the digital character of the tool.
-
-### Why classification comes next
-
-The next issue is institutional classification: not every directed programme is a mission.
-
+The next lesson tests whether administrative labels preserve—or obscure—the problem-led mission logic.
 ## Lesson 2 - Mission, department, umbrella, component, project, programme, campaign and platform
 
-**Progress: 2 / 20 | Stage: Foundation | Subtopic: Mission, department, umbrella, component, project, programme, campaign and platform**
+Progress: 2 / 20 | Stage: Foundation | Subtopic: Mission, department, umbrella, component, project, programme, campaign and platform
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "mission scheme programme campaign platform distinctions agriculture"
-CA found: No new mutable claim is needed; dated mission pages retrieved 25 September 2026 illustrate the categories.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Mission, department, umbrella, component, project, programme, campaign and platform through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Classification strip
@@ -244,70 +174,44 @@ Labels create traps. A department can run a mission; an umbrella can contain mis
 8. A platform enables interaction across policies.
 9. Preserve the vintage in which a label operated.
 
-### Comparison answer drill
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks / 150 words):** Distinguish mission, umbrella scheme, programme, campaign and platform.
+**Question (10 marks, maximum 150 words):** Distinguish mission, umbrella scheme, programme, campaign and platform.
 
-**Model answer:** Compare outcome authority, time horizon, convergence, deliverable and continuity. Note that one instrument may sit inside another, so labels cannot substitute for institutional analysis. Organise the answer by function—authority, grouping, deliverable, service, mobilisation and enabling layer—and show how forms can nest.
+**Responsive model:** Administrative labels describe different dimensions. A department is a permanent organisation; a programme is a continuing set of interventions; an umbrella groups components; a project has bounded deliverables; a campaign emphasises mobilisation; and a platform supplies common infrastructure. A mission is distinguished by a time-bound or outcome-focused mandate that coordinates actors around a public problem. Classification should ask who has authority, what is nested within what, how long the instrument operates, what it delivers and who owns the outcome. Calling every platform or scheme a mission hides accountability and encourages false comparisons.
 
-### Classification check (3 MCQs)
+**Unique scoring rubric:** Award 3 for functional classification, 2 for instrument distinctions, 3 for nested architecture, 2 for success-test conclusion (10 total).
 
-**MCQ 3. An interoperable digital layer lets several crop schemes verify beneficiaries and exchange records, but it does not own a crop-outcome target. How should it be classified?**
+### Revision notes
 
-A. A commodity mission
-B. A department
-C. A platform
-D. A time-bound field project
+1. *The strip separates organisational form from policy function, preventing labels from doing analytical work.* Labels create traps.
+2. A campaign may change awareness but lacks a full research-to-market chain.
+3. Classification method: ask separately about legal authority, administrative nesting, duration, deliverable and outcome ownership.
+4. Strongest objection: Real policies often combine mission, umbrella, programme and platform features.
+5. Reply: Classify each function separately instead of forcing one exclusive label.
+6. Qualified verdict: Hybrid forms are normal; analytical clarity comes from assigning each function and outcome to the right institutional layer.
+7. A department is an organisation, not an outcome chain.
+8. A component cannot be treated as the whole mission.
 
-**MCQ 4. Which description most accurately identifies a department in mission architecture?**
+### Concept check
 
-A. A temporary coalition created only to achieve one outcome
-B. A collection of unrelated schemes placed under one budget head
-C. A public mobilisation drive with no continuing administrative role
-D. An organisation that may host missions and programmes but is not itself an outcome chain
+**Question:** An interoperable digital layer lets several crop schemes verify beneficiaries and exchange records, but it does not own a crop-outcome target. How should it be classified?
 
-**MCQ 5. MIDH contains several interventions under a common administrative architecture. Which inference follows from calling it an umbrella?**
+**Model answer:** A shared enabling layer used across programmes is a platform.
 
-A. The grouping can contain components with distinct functions and should not be treated as one indivisible intervention
-B. Every component must have the same beneficiary, instrument and causal pathway
-C. The umbrella label proves all component outcomes
-D. No component may be evaluated separately
+**Misconception to avoid:** Mission, umbrella, component, project, campaign and platform are interchangeable labels.
 
-#### Answers and explanations
+### Transition — Label to evidence
 
-**MCQ 3: C**
-
-- **A - Incorrect.** A commodity mission would be accountable for a specified value-chain outcome.
-- **B - Incorrect.** A department is an administrative organisation with statutory or executive responsibilities.
-- **C - Correct.** A shared enabling layer used across programmes is a platform.
-- **D - Incorrect.** A project has a bounded deliverable; shared continuing infrastructure has a different function.
-
-**MCQ 4: D**
-
-- **A - Incorrect.** A mission unit may be temporary, but that is not what defines a department.
-- **B - Incorrect.** This describes an umbrella grouping, not the implementing organisation.
-- **C - Incorrect.** This is closer to a campaign.
-- **D - Correct.** Departments supply continuing authority and administration; particular missions may sit within them.
-
-**MCQ 5: A**
-
-- **A - Correct.** Umbrellas organise related interventions while preserving the need to analyse each component.
-- **B - Incorrect.** Administrative grouping does not erase functional differences among components.
-- **C - Incorrect.** A label establishes classification, not effectiveness.
-- **D - Incorrect.** Component-level evaluation is necessary when mechanisms and target groups differ.
-
-### From labels to implementation status
-
-Once labels are separated, implementation status must also be separated.
-
+Having separated institutional forms, move from names to the implementation evidence required for any outcome claim.
 ## Lesson 3 - Approval to outcome: theory of change and status discipline
 
-**Progress: 3 / 20 | Stage: Foundation | Subtopic: Approval to outcome: theory of change and status discipline**
+Progress: 3 / 20 | Stage: Foundation | Subtopic: Approval to outcome: theory of change and status discipline
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "official agriculture mission approval guideline fund release adoption outcome"
-CA found: Oilseeds and pulses pages retrieved 25 September 2026 provide approval periods and design claims, not proof of release, adoption or outcome.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Approval to outcome: theory of change and status discipline through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Implementation staircase
@@ -322,39 +226,18 @@ APPROVAL -> NOTIFICATION -> GUIDELINE -> RELEASE -> DELIVERY -> ADOPTION -> OUTC
 
 Cabinet approval authorises direction; notification and guidelines specify rules; allocation and release enable spending; delivery records activity; adoption means repeated use; outcome and attributable impact require changed welfare and a counterfactual. Treating these stages as synonyms is a major current-affairs error.
 
-### Trace every causal arrow
+### Core evidence ladder
 
-#### Evaluation design
-
-#### Theory of change
-
-```text
-INPUT -> ACTIVITY -> OUTPUT -> ADOPTION -> OUTCOME -> IMPACT
-```
-
-Every arrow needs an assumption:
-
-- material is timely and quality-assured;
-- training changes practice;
-- technology is profitable;
-- market absorbs output;
-- observed income change is attributable to mission;
-- resource effects remain sustainable.
-
-#### Methods
-
-| Question | Suitable approach |
+| Status claim | Minimum evidence required |
 |---|---|
-| Was implementation delivered? | Administrative/process audit |
-| Did adoption rise? | Baseline/endline and matched comparison |
-| Did mission cause yield/income change? | Experimental or credible quasi-experimental design where feasible |
-| Was it worth the cost? | Cost-effectiveness/cost-benefit analysis |
-| Who gained or lost? | Distributional incidence analysis |
-| Will gains persist? | Multi-season panel and maintenance/adoption tracking |
-| Did ecology worsen? | Resource and landscape indicators |
+| Approved | Authoritative approval record and date |
+| Operational | Notified guidelines and responsible institutions |
+| Funded | Allocation plus actual release |
+| Delivered | Time- and location-specific verified service or input |
+| Adopted | Evidence of farmer use, not registration alone |
+| Outcome | Measured change in yield, cost, quality, income or resilience |
 
-> ⚠️ National before-after production growth alone cannot identify mission impact because
-> rainfall, prices, trade, unrelated technology and area also change.
+Core discipline stops at distinguishing these claims. Counterfactual methods, cost-effectiveness and multi-season causal evaluation are developed only in Optional Advanced Lesson 17.
 
 ### The paperwork-is-progress objection
 
@@ -374,56 +257,44 @@ Every arrow needs an assumption:
 7. Outcome is not attributable impact without a counterfactual.
 8. Mutable status needs publication or retrieval dates.
 
-### Evaluation answer frame
+### Revision notes
 
-**Question (10 marks / 150 words):** Why must a technology mission publish a theory of change?
+1. Treating these stages as synonyms is a major current-affairs error.
+2. A production trend cannot advance from outcome to impact until rival explanations are tested.
+3. Strongest objection: A detailed theory of change can become paperwork detached from delivery.
+4. Reply: Make assumptions measurable and use the chain for in-season correction, not only approval.
+5. Qualified verdict: Implementation claims should advance only as far as the evidence—from approval through delivery to attributable impact—allows.
+6. Cabinet approval establishes authorisation, not field delivery or adoption.
+7. Release, expenditure, delivery and verified use require different indicators.
+8. Attribution needs a counterfactual because rainfall, prices, area and other policies also change.
 
-**Model answer:** Show the chain from inputs to impact, assumptions at each arrow, and stage-specific indicators. Status discipline prevents an approval announcement from being misreported as field success. Write the implementation ladder explicitly and attach a different indicator to release, delivery, adoption, outcome and impact.
+### Concept check
 
-### Status-discipline check (2 MCQs)
+**Question:** The Union Cabinet approves a new seed mission on 1 July. On that date, which claim is justified without further evidence?
 
-**MCQ 6. The Union Cabinet approves a new seed mission on 1 July. On that date, which claim is justified without further evidence?**
+**Model answer:** Cabinet approval supports an authorisation claim and nothing further down the implementation chain.
 
-A. Certified seed has reached every target village
-B. The policy direction has been authorised, while notification, release and delivery remain separate stages
-C. Farmers have adopted the promoted varieties
-D. The mission has raised yields
+**Misconception to avoid:** Approval, expenditure, adoption and impact are interchangeable statuses.
 
-**MCQ 7. Which indicator is an outcome rather than an input, activity or immediate output?**
+### Mains application, responsive model and unique rubric
 
-A. Budget released before sowing
-B. Number of demonstrations conducted
-C. Change in inflation-adjusted net income among adopters, assessed against a comparison group
-D. Quantity of seed distributed
+**Question (10 marks, maximum 150 words):** Why must a technology mission publish a theory of change?
 
-#### Answers and explanations
+**Responsive model:** A theory of change prevents approval from being confused with achievement. It maps authorisation, notification, funding, delivery, adoption, outcome and attributable impact, while stating the assumption at every link. Funds must arrive in season; inputs must meet quality standards; training must alter practice; farmers must find adoption profitable; and markets must absorb output. Separate indicators are needed for release, delivery, verified use, yield or cost response, income and ecological effects. Because rainfall, prices, cultivated area and other policies also change, national before-after production cannot alone establish causation. The chain should guide in-season correction, not become paperwork.
 
-**MCQ 6: B**
+**Unique scoring rubric:** Award 2 for status ladder, 2 for stage-specific evidence, 4 for confounders, 2 for dated causal verdict (10 total).
 
-- **A - Incorrect.** Approval alone contains no village-level delivery evidence.
-- **B - Correct.** Cabinet approval supports an authorisation claim and nothing further down the implementation chain.
-- **C - Incorrect.** Adoption requires evidence of actual and preferably repeated use.
-- **D - Incorrect.** Yield change is an outcome requiring later measurement and causal assessment.
+### Transition — Status to history
 
-**MCQ 7: C**
-
-- **A - Incorrect.** Timely finance is an input to implementation.
-- **B - Incorrect.** Demonstrations are activities intended to influence behaviour.
-- **C - Correct.** Net real income is a welfare result, and the comparison group helps test mission contribution.
-- **D - Incorrect.** Distribution records an output but not use, profitability or welfare.
-
-### Why history needs dated categories
-
-Status discipline prepares us to read historical redesign without confusing old and current structures.
-
+With the approval-to-impact ladder fixed, the next lesson dates predecessor and successor architectures without anachronism.
 ## Lesson 4 - Historical technology missions: chronology, vintage and lessons
 
-**Progress: 4 / 20 | Stage: Foundation | Subtopic: Historical technology missions: chronology, vintage and lessons**
+Progress: 4 / 20 | Stage: Foundation | Subtopic: Historical technology missions: chronology, vintage and lessons
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "official history Technology Mission Oilseeds Cotton NHM NFSM India"
-CA found: Canonical chronology was checked against official mission material available locally and pages retrieved 25 September 2026.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Historical technology missions: chronology, vintage and lessons through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Chronology at a glance
@@ -614,84 +485,43 @@ four sub-missions:
 7. A current umbrella list is a dated snapshot.
 8. Institutional functions may survive renaming.
 
-### Historical synthesis prompt
+### Concept check
 
-**Question (10 marks / 150 words):** What lessons emerge from the evolution of agricultural technology missions?
+**Question:** A 2026 answer describes a discontinued historical cotton mission as if its original institutional form still operates unchanged. What is the safest correction?
 
-**Model answer:** Use a selective timeline, then extract convergence, value-chain, federal and evaluation lessons. Explain why rebranding must be tested against a changed causal mechanism. Use a dated timeline, distinguish historical missions from successors, and extract design lessons rather than presenting a name-list.
+**Model answer:** Vintage discipline preserves chronology while permitting a reasoned continuity analysis.
 
-### Timeline check (4 MCQs)
+**Misconception to avoid:** Historical predecessors can be presented as current schemes without a date.
 
-**MCQ 8. A 2026 answer describes a discontinued historical cotton mission as if its original institutional form still operates unchanged. What is the safest correction?**
+### Revision notes
 
-A. Delete all historical references and discuss only current schemes
-B. Assume every successor retained identical objectives and instruments
-C. Treat mission names as interchangeable whenever the crop is the same
-D. Date the historical architecture, identify later successor arrangements separately and compare their functions
+1. Chronology prevents predecessor and successor programmes from being treated as simultaneous or identical.
+2. The 1986 Technology Mission on Oilseeds is the classic early agricultural mission-mode anchor.
+3. Later oilseed architectures must be identified by their own period, scope and instruments.
+4. The 2000 cotton architecture linked farm technology with processing and market concerns through four historical mini-missions.
+5. Current cotton architecture must not be assigned the historical four-mini-mission structure without verification.
+6. The historical jute mission illustrates coordination across agriculture, processing, skills and industrial markets.
+7. Rebranding proves reform only when the causal mechanism, responsibilities or outcome tests change.
+8. A useful timeline extracts design lessons rather than becoming an undated catalogue of names.
+### Mains application, responsive model and unique rubric
 
-**MCQ 9. Why should the historical Technology Mission on Cotton and the current Mission for Cotton Productivity be presented separately?**
+**Question (10 marks, maximum 150 words):** What lessons emerge from the evolution of agricultural technology missions?
 
-A. They belong to different policy vintages, so continuity in purpose does not establish identity of design or status
-B. The earlier mission dealt only with synthetic fibre
-C. The newer mission cannot contain research or extension
-D. UPSC answers must avoid all predecessor-successor comparisons
+**Responsive model:** Agricultural technology missions should be presented as an evolving policy architecture rather than a timeless list. Earlier commodity missions demonstrated the need to coordinate research, quality material, extension, processing and markets; later umbrellas and successor missions changed names, scope and instruments. A sound answer dates each architecture, distinguishes predecessor from successor and avoids projecting current labels backward. It then extracts durable lessons: technology requires complements, federal delivery matters, processing can be decisive and rebranding proves little unless the causal mechanism changes. Historical chronology is useful only when it improves present design and evaluation.
 
-**MCQ 10. In the 2021 palm-oil PYQ, why is the statement 'the palm oil tree is native to Southeast Asia' problematic?**
+**Unique scoring rubric:** Award 3 for chronology, 3 for predecessor-successor control, 2 for mechanism continuity, 2 for current-status caution (10 total).
 
-A. Oil palm cannot grow anywhere in Southeast Asia
-B. The commonly cultivated African oil palm is native to tropical West and Central Africa, although Southeast Asia became a major production region
-C. Palm oil is produced from a temperate cereal
-D. All commercial palms are native to India
+### Transition — Chronology to food security
 
-**MCQ 11. Which pairing correctly matches a mission family with its characteristic bottleneck?**
-
-A. Horticulture mission — only cereal procurement
-B. Horizontal seed mission — only one named commodity value chain
-C. Cotton or jute technology mission — crop-specific quality, productivity and value-chain constraints
-D. Sustainability mission — expansion of resource use without ecological safeguards
-
-#### Answers and explanations
-
-**MCQ 8: D**
-
-- **A - Incorrect.** Historical experience is relevant to design lessons and should not be erased.
-- **B - Incorrect.** Successors may alter scope, authority and instruments.
-- **C - Incorrect.** A common crop does not make different policy vintages identical.
-- **D - Correct.** Vintage discipline preserves chronology while permitting a reasoned continuity analysis.
-
-**MCQ 9: A**
-
-- **A - Correct.** Separate dating prevents anachronism and allows comparison of changed instruments and institutions.
-- **B - Incorrect.** The historical cotton mission addressed the cotton value chain, not only synthetic fibre.
-- **C - Incorrect.** A contemporary productivity mission may include research and extension mechanisms.
-- **D - Incorrect.** A careful predecessor-successor comparison is analytically useful.
-
-**MCQ 10: B**
-
-- **A - Incorrect.** Cultivation geography does not by itself establish botanical origin.
-- **B - Correct.** The statement confuses a later centre of production with the species’ native origin.
-- **C - Incorrect.** Oil palm is a tropical perennial, not a cereal.
-- **D - Incorrect.** Commercial palm species have different origins; a universal Indian origin is untenable.
-
-**MCQ 11: C**
-
-- **A - Incorrect.** Horticulture architecture addresses diversified, perishable produce rather than only cereal procurement.
-- **B - Incorrect.** Horizontal capability systems support multiple crops.
-- **C - Correct.** Crop-specific fibre missions can coordinate research, quality, processing and markets around that commodity.
-- **D - Incorrect.** Sustainability missions are meant to manage climate and resource constraints, not ignore them.
-
-### From institutional history to production arithmetic
-
-The chronology now leads to the food-security mission family and its production arithmetic.
-
+Historical lessons now become a quantitative test of how crop missions affect area, yield and food security.
 ## Lesson 5 - Food-security architecture: NFSM/NFSNM and production arithmetic
 
-**Progress: 5 / 20 | Stage: Core | Subtopic: Food-security architecture: NFSM/NFSNM and production arithmetic**
+Progress: 5 / 20 | Stage: Core | Subtopic: Food-security architecture: NFSM/NFSNM and production arithmetic
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "National Food Security Nutrition Mission official India 2026"
-CA found: Economic Survey 2025-26 and audited canonical evidence describe NFSNM in a dated architecture; no fresh web claim is made.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Food-security architecture: NFSM/NFSNM and production arithmetic through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Production arithmetic board
@@ -753,70 +583,44 @@ Food-security missions can raise production through area, yield or both. Tonnes 
 7. Net income depends on price and cost.
 8. Regional yield gaps can persist under national growth.
 
-### 10-mark calculation spine
+### Revision notes
 
-**Question (10 marks / 150 words):** How should NFSM/NFSNM be evaluated beyond aggregate production?
+1. Tonnes are not identical to nutrition security or farmer welfare.
+2. Procurement, prices, storage, distribution and dietary composition mediate the effect.
+3. A credible answer decomposes production and then tests net income.
+4. Strongest objection: Aggregate foodgrain growth can hide nutrition, access and regional inequality.
+5. Reply: Retain all four food-security dimensions and disaggregate yield, income and risk.
+6. Qualified verdict: Food-security gains are credible when area and yield arithmetic is supplemented by access, resilience, cost and causal evidence.
+7. Production growth should be decomposed into area, yield and their interaction before causal claims.
+8. Food security also requires access, utilisation and stability; tonnes alone are insufficient.
 
-**Model answer:** Decompose area and yield; discuss seed, demonstrations and agronomy; then test access, nutrition, regional equity, net income, resource use and attribution. Begin with P = A × Y, decompose the observed change, then test price, cost, distribution and attribution before claiming food-security gains.
+### Mains application, responsive model and unique rubric
 
-### Production lab (3 MCQs)
+**Question (10 marks, maximum 150 words):** How should NFSM/NFSNM be evaluated beyond aggregate production?
 
-**MCQ 12. Area under a mission crop rises from 100 to 110 and yield index rises from 100 to 120. What is the resulting production index?**
+**Responsive model:** Food-security missions can raise output through cultivated area, yield or their interaction; the identity P = A × Y makes this distinction explicit. Yet tonnes alone do not prove food security or farm welfare. Availability must be connected to access, utilisation and stability, while procurement, storage, distribution, prices and production costs determine whether gains become nutrition and net income. Evaluation should therefore decompose output growth, test attribution against rainfall and other policies, and disaggregate regional and farmer outcomes. Mission success is a sustained, inclusive improvement in productivity and security, not a headline production increase.
 
-A. 120
-B. 128
-C. 130
-D. 132
+**Unique scoring rubric:** Award 2 for area-yield decomposition, 3 for food-security channels, 3 for income caveat, 2 for attribution (10 total).
 
-**MCQ 13. Production increases while cultivated area expands and yield remains unchanged. Which diagnosis is correct?**
+### Concept check
 
-A. The output gain is area-led; no productivity gain has yet been shown
-B. The entire gain is a yield effect
-C. The change proves mission additionality
-D. Net farm income must rise by the same percentage
+**Question:** Area under a mission crop rises from 100 to 110 and yield index rises from 100 to 120. What is the resulting production index?
 
-**MCQ 14. Which change most directly strengthens food security without assuming that production alone is sufficient?**
+**Model answer:** Using P = A × Y gives 110 × 120 / 100 = 132.
 
-A. More demonstrations, irrespective of use
-B. A durable rise in accessible supply accompanied by resilience and reduced post-harvest loss
-C. A larger announced budget with unchanged delivery
-D. Expansion into water-stressed land regardless of yield
+**Misconception to avoid:** Higher aggregate production necessarily means higher productivity, nutrition and income.
 
-#### Answers and explanations
+### Transition — Staples to perishables
 
-**MCQ 12: D**
-
-- **A - Incorrect.** This counts only the yield index and ignores area expansion.
-- **B - Incorrect.** Multiplying the percentage increases directly without the interaction term understates production.
-- **C - Incorrect.** The area and yield indices do not sum to the production index.
-- **D - Correct.** Using P = A × Y gives 110 × 120 / 100 = 132.
-
-**MCQ 13: A**
-
-- **A - Correct.** With constant yield, the production identity attributes the arithmetic increase to area.
-- **B - Incorrect.** A yield effect requires yield per unit area to change.
-- **C - Incorrect.** Attribution still requires a credible without-mission comparison.
-- **D - Incorrect.** Prices and costs can move differently from physical output.
-
-**MCQ 14: B**
-
-- **A - Incorrect.** Demonstrations matter only through later adoption and results.
-- **B - Correct.** Availability, access and stability improve when usable supply rises and losses and shocks fall.
-- **C - Incorrect.** An outlay is an input, not food-security performance.
-- **D - Incorrect.** Resource-degrading expansion may undermine future availability and resilience.
-
-### Why perishables change the test
-
-Horticulture tests the same distinction under severe perishability.
-
+The next comparison shifts from storable foodgrains to horticulture, where time, loss and prices dominate.
 ## Lesson 6 - Horticulture: NHM to MIDH, perishability and the income gap
 
-**Progress: 6 / 20 | Stage: Core | Subtopic: Horticulture: NHM to MIDH, perishability and the income gap**
+Progress: 6 / 20 | Stage: Core | Subtopic: Horticulture: NHM to MIDH, perishability and the income gap
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "National Horticulture Mission MIDH official guideline 2026"
-CA found: MIDH guideline PDF was reachable as an official binary on 25 September 2026; no fresh subsidy percentage is imported.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Horticulture: NHM to MIDH, perishability and the income gap through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Perishability chain
@@ -852,7 +656,7 @@ Horticulture exposes the weakest-link problem. Clean plants and protected cultiv
 - cold chain, pack houses, processing and standards;
 - volatile prices and strong quality differentiation.
 
-#### National Horticulture Mission — complete 2018 PYQ closure
+#### National Horticulture Mission — answer-neutral 2018 PYQ linkage
 
 #### Exact demand
 
@@ -860,62 +664,26 @@ Horticulture exposes the weakest-link problem. Clean plants and protected cultiv
 > productivity and income of horticulture farms. How far has it succeeded in increasing the
 > income of farmers?
 
-#### Contribution chain
+#### Neutral demand map
 
-```text
-region-specific planning
- -> quality planting material and new gardens
- -> rejuvenation/protected cultivation/INM-IPM
- -> higher production and quality
- -> post-harvest, cold-chain and market support
- -> lower loss + higher value realisation
- -> potential farm-income gain
-```
+| Printed element | What the candidate must establish independently |
+|---|---|
+| `Assess` | Evidence on contribution, limitations and degree of success |
+| Production | Change in total output, with period and comparison stated |
+| Productivity | Output per relevant unit, kept distinct from area expansion |
+| Income | Net farm-income evidence, not a proxy based only on production |
+| `How far` | A reasoned degree judgement supported by evidence |
 
-#### Balanced assessment
+#### Evidence protocol
 
-**How it helped**
+1. Fix the relevant NHM period and distinguish it from later MIDH architecture.
+2. Separate production, productivity and net-income evidence.
+3. Identify the proposed causal mechanism before evaluating the observed result.
+4. Test costs, prices, losses, access and regional variation rather than assuming transmission.
+5. State data vintage and attribution limits.
+6. Reach no verdict in this linkage section; construct it only from verified evidence in the examination answer.
 
-- promoted regionally differentiated horticulture;
-- expanded access to planting material and production technology;
-- supported productivity, protected cultivation and rejuvenation;
-- encouraged post-harvest management, processing and market infrastructure;
-- enabled diversification toward high-value crops and rural employment;
-- created the foundation later integrated into MIDH.
-
-**Why income impact can lag production**
-
-- price collapses during gluts;
-- perishability and weak cold-chain/processing linkage;
-- small farmers lack aggregation, finance and bargaining;
-- uneven regional and crop coverage;
-- planting-material quality and extension gaps;
-- higher production may raise gross revenue but not net income after cost and risk;
-- water use, climate shocks and market standards affect sustainability.
-
-**Way forward**
-
-- clean and accredited planting material;
-- agro-climatic cluster planning with water budgets;
-- FPO aggregation and professional market linkage;
-- pack houses, pre-cooling, cold logistics, processing and traceability;
-- price/market intelligence and risk instruments;
-- evaluate net income, loss reduction, quality and smallholder inclusion—not area alone.
-
-#### 250-word structure
-
-**Introduction:** Define NHM as a production-to-market horticulture mission, now within MIDH.
-
-**Body 1:** Planting material, area/productivity, technology, protected cultivation,
-post-harvest and skills.
-
-**Body 2:** Production/diversification gains versus income constraints from perishability,
-price volatility, fragmented holdings, infrastructure and unequal access.
-
-**Way forward:** cluster + FPO + clean plant + water + cold chain + processing + market.
-
-**Conclusion:** NHM strengthened horticultural capability, but farm income rises only when
-productivity is converted into stable net value realisation.
+This local linkage preserves exact wording and directive discipline without supplying a solved answer, predetermined conclusion or marks-bearing content.
 
 ### The production-success objection
 
@@ -936,56 +704,43 @@ productivity is converted into stable net value realisation.
 8. Water and demand must guide clusters.
 9. Assess requires a qualified verdict.
 
-### 2018 PYQ answer architecture
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks / 150 words):** Why may horticulture production gains not become proportional income gains?
+**Question (10 marks, maximum 150 words):** Why may horticulture production gains not become proportional income gains?
 
-**Model answer:** Trace planting material to market, identify perishability and price risk, distinguish gross from net income, and propose clean plants, water-budgeted clusters, aggregation, cold chain and competition. Separate production, productivity and net income; trace perishability, storage, processing and price realisation before giving a partial-and-uneven verdict.
+**Responsive model:** Horticulture needs mission coordination because diverse crops require clean planting material, region-specific practices, protected cultivation, pollination, aggregation, cold chains, processing and quality-sensitive markets. Higher output or yield can improve income, but perishability creates a narrow selling window. If storage, logistics and buyer competition lag, a glut can depress farm-gate prices and erase productivity gains. Assessment must therefore separate production, productivity and net income, and examine losses, costs, price realisation, smallholder aggregation, water risk and regional variation. The justified verdict is conditional: technology raises income only when the post-harvest chain preserves value.
 
-### Horticulture application (2 MCQs)
+**Unique scoring rubric:** Award 3 for NHM/MIDH mechanisms, 2 for perishability chain, 3 for income constraints, 2 for degree-of-success judgement (10 total).
 
-**MCQ 15. A horticulture cluster reports 25% more output, but spoilage and a harvest-time price crash leave net farmer income unchanged. What has the mission not secured?**
+### Revision notes
 
-A. Any increase in biological production
-B. Any role for planting material
-C. Translation of production gains into value realisation and net income
-D. Any possible consumer benefit
+1. NHM must be evaluated separately on production, productivity and net farm income.
+2. Horticulture requires clean planting material, location-specific practices and post-harvest capability.
+3. Perishability creates a narrow selling window and magnifies logistics and market failures.
+4. Higher output can coincide with lower farm-gate prices during a glut.
+5. Cold-chain, aggregation, processing and buyer competition determine whether production retains value.
+6. Smallholder access and regional variation must be visible in any success claim.
+7. The 2018 PYQ requires an evidence-based degree judgement rather than a list of interventions.
+8. Exact PYQ linkage remains answer-neutral; the examination verdict must be built from verified evidence.
+### Concept check
 
-**MCQ 16. Which intervention is most specific to the perishability constraint in horticulture?**
+**Question:** A horticulture cluster reports 25% more output, but spoilage and a harvest-time price crash leave net farmer income unchanged. What has the mission not secured?
 
-A. Replacing all horticultural crops with cereals
-B. Counting nursery registrations as farmer income
-C. Increasing area without studying demand
-D. Coordinating pack-houses, cold-chain, processing and market timing with production clusters
+**Model answer:** Perishability, market absorption and prices broke the production-to-income chain.
 
-#### Answers and explanations
+**Misconception to avoid:** Higher horticulture output automatically raises each farmer's net income.
 
-**MCQ 15: C**
+### Transition — Perishability to strategic oils
 
-- **A - Incorrect.** The premise explicitly reports higher output.
-- **B - Incorrect.** Planting material may have contributed to production, but that does not settle income.
-- **C - Correct.** Perishability, market absorption and prices broke the production-to-income chain.
-- **D - Incorrect.** Lower prices may benefit consumers even while farmers fail to gain.
-
-**MCQ 16: D**
-
-- **A - Incorrect.** Crop replacement avoids rather than solves horticultural value-chain constraints.
-- **B - Incorrect.** Registration is administrative evidence, not value preservation.
-- **C - Incorrect.** More supply can intensify gluts when handling and demand remain weak.
-- **D - Correct.** Post-harvest and market coordination reduces loss and distress selling.
-
-### Why oil crops require another design
-
-Oilseed security next adds import economics and perennial-crop constraints.
-
+Horticulture’s value-chain lesson prepares the sharper resource and import tests required for oilseeds and oil palm.
 ## Lesson 7 - Oilseeds and oil palm: distinct systems and three economic tests
 
-**Progress: 7 / 20 | Stage: Core | Subtopic: Oilseeds and oil palm: distinct systems and three economic tests**
+Progress: 7 / 20 | Stage: Core | Subtopic: Oilseeds and oil palm: distinct systems and three economic tests
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "NMEO OS NMEO OP official Agriculture Ministry September 2026"
-CA found: Agriculture Ministry Oilseeds page fetched 25 September 2026: NMEO-OS approved 3 October 2024 for 2024-25 to 2030-31; NMEO-OP launched 2021-22. Targets are design claims, not outcomes.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Oilseeds and oil palm: distinct systems and three economic tests through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Two oil systems, three tests
@@ -1045,70 +800,43 @@ resilient domestic capability
 8. Import reduction is not sufficient welfare proof.
 9. Resource and processing tests are essential.
 
-### Three-part answer frame
+### Revision notes
 
-**Question (10 marks / 150 words):** How should India evaluate edible-oil mission strategy?
+1. Annual oilseeds and perennial oil palm require different agronomic, financial and processing architectures.
+2. Oil palm has long gestation and demands ecologically suitable siting plus timely processing proximity.
+3. Import substitution must pass productivity, resource-cost and value-chain tests.
+4. Planted area or a lower import ratio alone does not establish farmer welfare or sustainability.
+5. Palm oil and palm-kernel oil are distinct products from different parts of the fruit.
+6. Historical production geography must not be confused with botanical origin.
+7. Mission evaluation should track yield, cost, farmer income, processing competition and ecological effects.
+8. The 2021 Prelims question is preserved exactly and answer-neutrally in the verified PYQ section.
+### Concept check
 
-**Model answer:** Separate annual oilseeds from oil palm, apply productivity-resource-value-chain tests, recognise strategic import risk, and insist on ecological siting, competitive processing and outcome evaluation. Compare annual oilseeds and perennial oil palm on gestation, ecology, processing proximity and import substitution; recommend a diversified portfolio.
+**Question:** Which distinction between NMEO-OS and NMEO-OP is most important for design?
 
-### Oil-system check (3 MCQs)
+**Model answer:** Crop duration, gestation, ecological exposure and processing economics require different instruments.
 
-**MCQ 17. Which distinction between NMEO-OS and NMEO-OP is most important for design?**
+**Misconception to avoid:** Annual oilseeds and perennial oil palm have identical mission economics.
 
-A. NMEO-OS addresses annual oilseed systems, whereas NMEO-OP addresses a perennial crop with long gestation and processing-location constraints
-B. Both are merely alternative names for one unchanged mission
-C. NMEO-OP is a horticulture awareness campaign only
-D. Annual oilseeds require mills to stand next to every individual farm
+### Mains application, responsive model and unique rubric
 
-**MCQ 18. Why is assured proximity to processing especially important in an oil-palm strategy?**
+**Question (10 marks, maximum 150 words):** How should India evaluate edible-oil mission strategy?
 
-A. Because oil-palm seedlings cannot be transported before planting
-B. Because harvested fresh fruit bunches deteriorate rapidly and perennial investment locks farmers into a location
-C. Because annual oilseeds have no markets
-D. Because processing proximity removes all water and biodiversity risks
+**Responsive model:** Annual oilseeds and perennial oil palm address edible-oil dependence through different systems. Oilseeds permit seasonal crop choice; oil palm has long gestation, site-specific water and ecological requirements, and rapid-processing needs after harvest. Import substitution should pass three tests: sustainable domestic productivity, acceptable land-water-ecosystem cost, and a viable processing and marketing chain. Strategic autonomy is not achieved merely by expanding planted area or lowering an import ratio. Policy should combine suitable annual oilseeds, carefully sited oil palm, research, quality planting material, farmer safeguards and competitive processing, while measuring cost, income and ecological outcomes.
 
-**MCQ 19. A district replaces edible-oil imports but does so through water-intensive expansion that lowers local food-crop income. Which verdict is best?**
+**Unique scoring rubric:** Award 2 for annual-perennial distinction, 2 for three economic tests, 4 for ecological and processing risks, 2 for balanced import verdict (10 total).
 
-A. Import substitution alone establishes mission success
-B. Only the national import bill matters
-C. Strategic gain must be weighed against local opportunity cost, ecology and farmer welfare
-D. The crop should be banned in every agro-climatic zone
+### Transition — One import concern, several systems
 
-#### Answers and explanations
-
-**MCQ 17: A**
-
-- **A - Correct.** Crop duration, gestation, ecological exposure and processing economics require different instruments.
-- **B - Incorrect.** The two architectures target distinct production systems.
-- **C - Incorrect.** Oil-palm policy is not reducible to awareness activity.
-- **D - Incorrect.** Oilseeds need processing capacity, but not one mill per farm.
-
-**MCQ 18: B**
-
-- **A - Incorrect.** Seedling transport is not the central post-harvest economic constraint.
-- **B - Correct.** Perishability plus long-lived planting makes processor access a critical adoption and bargaining condition.
-- **C - Incorrect.** Annual oilseeds also require markets and processing.
-- **D - Incorrect.** Logistics cannot by itself neutralise ecological risk.
-
-**MCQ 19: C**
-
-- **A - Incorrect.** Import savings are one benefit, not a complete welfare test.
-- **B - Incorrect.** National aggregates can hide local costs and distribution.
-- **C - Correct.** A balanced appraisal tests economic, ecological and incidence effects together.
-- **D - Incorrect.** Suitability varies; evidence supports zoning and safeguards rather than an automatic universal ban.
-
-### Why commodity portfolios must remain tailored
-
-Other commodities require still different mission portfolios.
-
+The next lesson broadens the portfolio to pulses, fibres and allied missions whose bottlenecks cannot share one template.
 ## Lesson 8 - Pulses, cotton, jute, bamboo and beekeeping: tailored portfolios
 
-**Progress: 8 / 20 | Stage: Core | Subtopic: Pulses, cotton, jute, bamboo and beekeeping: tailored portfolios**
+Progress: 8 / 20 | Stage: Core | Subtopic: Pulses, cotton, jute, bamboo and beekeeping: tailored portfolios
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "official pulses cotton jute bamboo beekeeping mission India 2026"
-CA found: The pulses mission was Cabinet-approved on 1 October 2025 for 2025-26 to 2030-31 with Rs 11,440 crore outlay. The Mission for Cotton Productivity was Cabinet-approved on 5 May 2026 for 2026-27 to 2030-31 with Rs 5,659.22 crore outlay; official government records were verified through live indexed search on 25 September 2026.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Pulses, cotton, jute, bamboo and beekeeping: tailored portfolios through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Commodity portfolio board
@@ -1195,84 +923,43 @@ It illustrates how a crop mission may cross the Agriculture-Textiles boundary.
 7. Beekeeping creates pollination benefits.
 8. Livestock/fisheries detail belongs to Topic 30.
 
-### Portfolio answer drill
+### Concept check
 
-**Question (10 marks / 150 words):** Why use commodity-specific mission portfolios?
+**Question:** A pulses mission copies an oil-palm package centred on long-gestation plantations and nearby mills. What is the clearest design flaw?
 
-**Model answer:** Compare risk, gestation, quality, processing and markets across pulses, cotton and beekeeping; recommend common outcome guardrails with locally adapted instruments. Match each commodity bottleneck to its instrument and explain why convergence should coordinate, not erase, specialised mission design.
+**Model answer:** Mission design must follow the commodity’s own biology, risk and market bottlenecks.
 
-### Commodity diagnosis (4 MCQs)
+**Misconception to avoid:** One uniform package can solve every commodity value-chain bottleneck.
 
-**MCQ 20. A pulses mission copies an oil-palm package centred on long-gestation plantations and nearby mills. What is the clearest design flaw?**
+### Revision notes
 
-A. Pulses can never receive public support
-B. All commodity missions must use only research grants
-C. Processing has no relevance to pulses
-D. The instrument portfolio ignores pulses’ annual crop cycle, seed systems, rainfed risk and procurement conditions
+1. Commodity-specific biology, gestation, quality and markets require tailored mission portfolios.
+2. Pulses need risk-resilient seed, agronomy, procurement credibility and rainfed adaptation.
+3. Cotton links farm productivity and fibre quality to the textile value chain.
+4. The historical cotton mission and its current successor architecture require strict vintage separation.
+5. Jute and bamboo depend heavily on processing capacity, standards and industrial demand.
+6. Beekeeping combines pollination benefits with training, testing, traceability and market access.
+7. Livestock and fisheries share mission logic but detailed ownership remains with Topic 30.
+8. Convergence should share capabilities without erasing commodity-specific bottlenecks.
+### Mains application, responsive model and unique rubric
 
-**MCQ 21. A cotton mission raises yield but mills reject much of the crop because fibre quality is inconsistent. Which correction best fits the failure?**
+**Question (10 marks, maximum 150 words):** Why use commodity-specific mission portfolios?
 
-A. Link seed and agronomy support to quality testing, contamination control and buyer requirements
-B. Increase only the number of beneficiary registrations
-C. Replace cotton research with a generic food-grain campaign
-D. Measure success solely by cultivated area
+**Responsive model:** Mission design must follow the commodity bottleneck. Pulses require risk-resilient seed, agronomy and procurement credibility; cotton needs productivity, quality, pest management and fibre-chain coordination; jute and bamboo depend heavily on processing and industrial demand; beekeeping combines pollination services, quality control and market access. A single subsidy template would ignore differences in gestation, biological risk, quality and value chains. Common guardrails—farmer income, inclusion, ecological safety and independent evaluation—can coexist with specialised instruments. Convergence should coordinate shared capabilities without erasing commodity-specific design.
 
-**MCQ 22. Why may a beekeeping mission require landscape and pesticide coordination beyond distributing hive boxes?**
+**Unique scoring rubric:** Award 3 for commodity differentiation, 3 for value-chain examples, 2 for shared capabilities, 2 for portfolio verdict (10 total).
 
-A. Boxes automatically create floral resources
-B. Colony survival and pollination depend on forage, bee health, chemical exposure, skills and market links
-C. Honey has no quality or market requirements
-D. Beekeeping outcomes are independent of surrounding farming practices
+### Transition — Commodity portfolios to common capability
 
-**MCQ 23. Which proposal best demonstrates tailored convergence for bamboo?**
-
-A. Use the cotton package unchanged because both are crops
-B. Fund plantations without tenure clarity or buyers
-C. Coordinate suitable planting material, tenure and harvest rules, treatment facilities, standards and downstream demand
-D. Judge success by saplings distributed in the first month
-
-#### Answers and explanations
-
-**MCQ 20: D**
-
-- **A - Incorrect.** Public support may address research, risk, markets and coordination failures.
-- **B - Incorrect.** Commodity missions commonly need more than research finance.
-- **C - Incorrect.** Processing and value addition can matter for pulses.
-- **D - Correct.** Mission design must follow the commodity’s own biology, risk and market bottlenecks.
-
-**MCQ 21: A**
-
-- **A - Correct.** The value-chain bottleneck is quality, so farm practices, testing and market specifications must be coordinated.
-- **B - Incorrect.** Registration does not change fibre characteristics or acceptance.
-- **C - Incorrect.** A generic campaign would not address cotton-specific quality failure.
-- **D - Incorrect.** Area says nothing about quality-adjusted value or marketability.
-
-**MCQ 22: B**
-
-- **A - Incorrect.** An asset is unusable without biological and managerial complements.
-- **B - Correct.** Beekeeping is an ecosystem-linked activity, so mission design must extend beyond asset counts.
-- **C - Incorrect.** Quality assurance and marketing affect realised returns.
-- **D - Incorrect.** Pesticide use and cropping patterns directly influence bee mortality and forage.
-
-**MCQ 23: C**
-
-- **A - Incorrect.** Cotton and bamboo differ in biology, regulation and value-chain use.
-- **B - Incorrect.** Unclear rights and demand can strand a long-gestation investment.
-- **C - Correct.** The package follows the full bamboo chain from establishment to usable products and markets.
-- **D - Incorrect.** Distribution is an early output and cannot establish survival or value creation.
-
-### From vertical missions to shared capabilities
-
-This makes the common seed-extension-mechanisation backbone the next dependency.
-
+Specialised missions converge next on the horizontal systems—seed, soil, machinery, protection and resilience—that all require.
 ## Lesson 9 - Horizontal capabilities: seeds, soil, machinery, protection and resilience
 
-**Progress: 9 / 20 | Stage: Core | Subtopic: Horizontal capabilities: seeds, soil, machinery, protection and resilience**
+Progress: 9 / 20 | Stage: Core | Subtopic: Horizontal capabilities: seeds, soil, machinery, protection and resilience
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "extension seeds mechanisation plant protection climate resilient technology India"
-CA found: Stable capability architecture is taken from audited canonical and official guideline material; no unsupported live target is asserted.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Horizontal capabilities: seeds, soil, machinery, protection and resilience through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Capability stack
@@ -1341,56 +1028,43 @@ four sub-missions:
 7. Resilience is an uncertainty outcome.
 8. Digital architecture routes to Topic 27.
 
-### Infrastructure-and-adoption spine
+### Revision notes
 
-**Question (10 marks / 150 words):** Why invest in horizontal capabilities?
+1. Horizontal capabilities support several crop missions and cannot be replaced by one commodity subsidy.
+2. Quality seed and planting-material systems translate research into reliable farm availability.
+3. Extension must provide timely, locally validated advice and a farmer-feedback channel.
+4. Custom hiring can convert indivisible machinery into a service for smaller farms.
+5. Plant protection and quarantine manage biological risk across farm and trade boundaries.
+6. Soil and water diagnosis adapt recommendations to location rather than imposing uniform packages.
+7. Repair, finance and risk management determine whether equipment and practices remain usable.
+8. Technology includes biological, mechanical, process and institutional capability—not only frontier gadgets.
+### Mains application, responsive model and unique rubric
 
-**Model answer:** Show how seed, extension, machinery service, protection, soil-water advice and feedback enable many crop missions; add inclusion and ecological safeguards. Show the complement stack from quality input to finance, repair and resilience; identify the weakest link that prevents durable use.
+**Question (10 marks, maximum 150 words):** Why invest in horizontal capabilities?
 
-### Capability check (2 MCQs)
+**Responsive model:** Crop missions depend on horizontal capabilities that individual commodity subsidies cannot replace. Research becomes usable through reliable seed multiplication, soil and water diagnosis, locally adapted extension, machinery services, plant protection, quarantine, finance, repair and risk management. These complements determine timeliness, quality and continued use. Public policy should identify the weakest capability, support shared services where ownership is uneconomic, validate private advice and preserve farmer feedback. Digital tools can assist delivery, but they do not substitute for physical inputs, extension or service ecosystems. Mission performance should be measured by durable use and farm outcomes.
 
-**MCQ 24. A mission supplies improved seed, but germination is poor, dealers give no advice and replacements arrive after sowing. Which capability is missing?**
+**Unique scoring rubric:** Award 2 for technology breadth, 3 for capability complements, 3 for service ecosystem, 2 for repeated-use test (10 total).
 
-A. A larger national production target
-B. A new mission logo
-C. An export ban
-D. Quality assurance and a timely local seed-service system
+### Concept check
 
-**MCQ 25. Custom-hiring centres are most likely to widen mechanisation access when they are evaluated by which measure?**
+**Question:** A mission supplies improved seed, but germination is poor, dealers give no advice and replacements arrive after sowing. Which capability is missing?
 
-A. Timely machine-hours delivered to diverse farms at viable cost, with uptime and repeat use
-B. Number of machines purchased by the centre
-C. Value of subsidy sanctioned
-D. Number of inauguration events
+**Model answer:** Farmers need reliable quality, information and recourse within the crop calendar.
 
-#### Answers and explanations
+**Misconception to avoid:** Technology is exhausted by purchasing a machine or digital device.
 
-**MCQ 24: D**
+### Transition — Capability to institutions
 
-- **A - Incorrect.** A target does not repair defective material or late service.
-- **B - Incorrect.** Branding cannot substitute for certification, advice and replacement.
-- **C - Incorrect.** Trade restrictions do not solve the immediate delivery failure.
-- **D - Correct.** Farmers need reliable quality, information and recourse within the crop calendar.
-
-**MCQ 25: A**
-
-- **A - Correct.** Service use, reliability, affordability and inclusion show whether machinery became an effective capability.
-- **B - Incorrect.** Procurement can produce idle assets.
-- **C - Incorrect.** Sanctioned subsidy is an input, not access.
-- **D - Incorrect.** Ceremonial activity has no direct bearing on farm service.
-
-### Who connects the capability stack?
-
-Capabilities matter only if institutions carry them from research to farms.
-
+A capability stack exists only through organisations that generate, adapt, multiply and carry knowledge to farms.
 ## Lesson 10 - Innovation institutions: DARE/ICAR, SAUs, KVKs, ATMA and feedback
 
-**Progress: 10 / 20 | Stage: Core | Subtopic: Innovation institutions: DARE/ICAR, SAUs, KVKs, ATMA and feedback**
+Progress: 10 / 20 | Stage: Core | Subtopic: Innovation institutions: DARE/ICAR, SAUs, KVKs, ATMA and feedback
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "ICAR KVK technology assessment demonstration extension official 2026"
-CA found: Direct ICAR KVK page retrieval failed on 25 September 2026 at transport/TLS level; only stable roles from audited evidence are used.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Innovation institutions: DARE/ICAR, SAUs, KVKs, ATMA and feedback through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Institutional relay
@@ -1448,122 +1122,69 @@ Research does not travel automatically. ICAR institutes generate and validate; S
 7. Farmer feedback must alter research.
 8. Vendor advice needs safeguards.
 
-### Federal innovation answer frame
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks / 150 words):** Trace the research-to-adoption chain.
+**Question (10 marks, maximum 150 words):** Trace the research-to-adoption chain.
 
-**Model answer:** Name each institution and function, identify feedback and quality failures, and conclude with shared accountability for outcomes. Map generation, adaptation, extension, coordination and feedback to the appropriate institutions, then identify one federal accountability gap.
+**Responsive model:** Agricultural innovation travels through a two-way institutional relay. DARE and ICAR coordinate national research; institutes and State Agricultural Universities generate and adapt technology; KVKs test, demonstrate and build local capacity; ATMA and state systems organise extension; multiplication and service networks create availability; farmers provide feedback. Private firms and FPOs can scale inputs and services, but public validation, competition and conflict safeguards remain necessary. Because agriculture is locally implemented, central funding and standards must allow agro-climatic adaptation by states and districts. Accountability requires role-specific deliverables, common outcomes and feedback that changes research and extension.
 
-### Institutional-chain check (3 MCQs)
+**Unique scoring rubric:** Award 3 for institutional roles, 2 for two-way feedback, 3 for federal coordination, 2 for accountability (10 total).
 
-**MCQ 26. A new drought-tolerant variety performs well at an ICAR station. What is the next institutional task before large-scale recommendation?**
+### Revision notes
 
-A. Declare nationwide success from the station result
-B. Test and adapt it across relevant agro-climates with SAUs and field institutions
-C. Transfer all extension responsibility to the seed vendor
-D. Wait for national yield data without conducting local trials
+1. *Innovation reaches farms through a relay; feedback must travel back as reliably as recommendations travel outward.* Research does not travel automatically.
+2. Private firms scale services, but public validation and conflict safeguards remain necessary.
+3. Strongest objection: A long institutional chain may diffuse responsibility until nobody owns the outcome.
+4. Reply: Publish role-specific deliverables and a common outcome, with farmer feedback closing the chain.
+5. Qualified verdict: Institutional plurality becomes an advantage only when roles are clear and field evidence closes the feedback loop.
+6. DARE and ICAR coordinate national research, while SAUs provide regional adaptation.
+7. KVK assessment and demonstration must precede indiscriminate scale-up.
+8. A complete relay includes multiplication, service networks and farmer feedback that changes research.
 
-**MCQ 27. Which institutional loop best represents a responsive agricultural innovation system?**
+### Concept check
 
-A. Laboratory publishes a recommendation and receives no field information
-B. District office sends expenditure data only to the Union government
-C. Farm observations move through KVK/extension and SAU channels back to researchers, who revise the recommendation
-D. Every State waits for an identical central package
+**Question:** A new drought-tolerant variety performs well at an ICAR station. What is the next institutional task before large-scale recommendation?
 
-**MCQ 28. ATMA convenes district agencies and farmer groups, while a KVK demonstrates a practice and diagnoses field problems. What follows?**
+**Model answer:** Adaptive multi-location work tests external validity before broad diffusion.
 
-A. Both institutions are identical research laboratories
-B. ATMA alone develops all crop varieties
-C. The KVK replaces State agriculture departments
-D. Their functions are complementary: district coordination differs from technical demonstration and feedback
+**Misconception to avoid:** A laboratory result reaches farms without multiplication, extension or feedback.
 
-#### Answers and explanations
+### Transition — Institutions to behaviour
 
-**MCQ 26: B**
+The relay may deliver an innovation, but the farmer still decides whether trial, adoption and continued use are worthwhile.
+## Lesson 11 - Lab to land: trial, repeated use and durable adoption
 
-- **A - Incorrect.** Station performance does not reveal fit under varied soils, rainfall and management.
-- **B - Correct.** Adaptive multi-location work tests external validity before broad diffusion.
-- **C - Incorrect.** Vendors may assist, but public validation and farmer feedback remain necessary.
-- **D - Incorrect.** National outcomes cannot appear before field deployment and measurement.
-
-**MCQ 27: C**
-
-- **A - Incorrect.** One-way publication prevents learning from field failure.
-- **B - Incorrect.** Financial reporting alone omits agronomic and user feedback.
-- **C - Correct.** A two-way relay connects generation, adaptation, delivery and correction.
-- **D - Incorrect.** Uniform waiting suppresses local adaptation and experimentation.
-
-**MCQ 28: D**
-
-- **A - Incorrect.** The institutions have different mandates and positions in the system.
-- **B - Incorrect.** Varietal development is not ATMA’s sole or defining function.
-- **C - Incorrect.** KVKs support extension; they do not absorb the entire State administration.
-- **D - Correct.** Coordination and technical interface must connect without being conflated.
-
-### Why contact does not guarantee adoption
-
-The farmer adoption decision is therefore the next analytical centre.
-
-## Lesson 11 - Lab to land: adoption threshold, diffusion and durable use
-
-**Progress: 11 / 20 | Stage: Core | Subtopic: Lab to land: adoption threshold, diffusion and durable use**
+Progress: 11 / 20 | Stage: Core | Subtopic: Lab to land: trial, repeated use and durable adoption
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "agricultural technology adoption diffusion smallholders India"
-CA found: No current count is needed; the lesson uses standard adoption economics and local book formulations.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions lab to land extension trial repeated use through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Adoption threshold graph
+### Lab-to-land ladder
 
 ```text
-ADOPTION SHARE: pioneers -> early majority -> late adopters
-Expected benefit > purchase + finance + learning + risk + switching cost
+RESEARCH -> LOCAL TEST -> DEMONSTRATION -> FARMER TRIAL -> REPEATED USE -> FEEDBACK
 ```
 
-*Adoption occurs only above a farm-specific net-benefit threshold, after risk and transition costs are counted.*
+*A recommendation becomes a farm outcome only after local validation, usable delivery, repeated practice and feedback.*
 
-### A profitable average can hide an unprofitable farm
+### A successful demonstration can still fail to travel
 
-Availability is not adoption. Farmers compare discounted benefits with full adoption costs. Early adopters may be larger, irrigated or connected, so success cannot prove universal fit. Durable adoption means correct repeated use after promotional support weakens; diffusion needs trust, peer learning, service and profitability.
+Availability is not adoption. A farmer needs locally credible evidence, timely material, intelligible advice, complementary services and a reason to continue after the demonstration ends. Durable adoption means correct repeated use after promotional support weakens.
 
-### Break-even and diffusion lab
+### Core adoption sequence
 
-#### Adoption and diffusion
+| Stage | Core question | Evidence |
+|---|---|---|
+| Awareness | Did the farmer receive intelligible advice? | Reach and comprehension |
+| Trial | Was a locally relevant trial feasible? | Demonstration and first use |
+| Adoption | Was the recommended practice actually used? | Verified use |
+| Continuation | Was use repeated after initial promotion? | Multi-season retention |
+| Feedback | Did field experience alter advice, material or service design? | Recorded correction |
 
-#### Adoption threshold
-
-A farmer adopts if:
-
-```text
-Expected discounted benefit
-> purchase + learning + switching + finance + risk + irreversibility cost
-```
-
-Smallholders may rationally delay even a high-average-return technology because:
-
-- one failed season threatens consumption and debt repayment;
-- resale or repair markets are absent;
-- tenancy reduces the horizon for soil/water investment;
-- the technology is indivisible at farm scale;
-- output price is uncertain;
-- demonstration results are not trusted locally.
-
-#### Diffusion curve
-
-```text
-Adoption share
-100% |                         ______
-     |                    ____/
-     |                ___/
-     |            ___/
-     |        ___/
-  0% |_______/________________________ time
-       pioneers  early majority  late adopters
-```
-
-Early adoption by large/irrigated farmers does not prove universal suitability. Mission
-design must explain who remains below the threshold and why.
+This Core sequence establishes that availability and a demonstration are not the same as durable adoption. The optional Advanced block develops heterogeneous thresholds, selection and diffusion curves.
 
 ### The awareness-deficit objection
 
@@ -1574,93 +1195,53 @@ design must explain who remains below the threshold and why.
 **Qualified verdict:** A technically sound innovation becomes a policy success only after farmers can adopt it profitably and continue using it without artificial support.
 ### Adoption diagnostics
 
-1. Adoption is a choice under uncertainty.
-2. Benefits must exceed full costs.
-3. Learning and transition costs are real.
-4. Failure has unequal welfare effects.
-5. Early adoption is selected.
-6. Repeated use beats demonstration counts.
-7. Peer effects can spread benefit or error.
-8. Durability must be tested after subsidy.
+1. Local testing precedes a broad recommendation.
+2. Demonstration establishes possibility, not continued use.
+3. Timely material and intelligible advice are separate requirements.
+4. Repair, input and service availability affect repeated practice.
+5. Farmer feedback should modify research and extension.
+6. Verified use is stronger evidence than distribution.
+7. Repeated use is stronger evidence than one trial.
+8. Durability must be tested after promotional support weakens.
 
-### Diffusion answer spine
+### Revision notes
 
-**Question (10 marks / 150 words):** Why can a profitable technology diffuse slowly?
+1. Research-station success requires local testing before broad recommendation.
+2. Material availability, extension contact and actual use are different stages.
+3. Demonstration counts do not establish repeated farmer practice.
+4. Timeliness and quality can determine whether a technically sound recommendation is usable.
+5. Complementary repair, input and market services support continued use.
+6. Farmers are sources of diagnostic feedback, not passive recipients.
+7. Durable adoption means correct repeated use after initial promotion weakens.
+8. The Core test is whether the research-to-farm relay produces sustained practice and correction.
 
-**Model answer:** Discuss risk, indivisibility, finance, learning, repair, tenure, price uncertainty and trust; distinguish average profitability from heterogeneous thresholds. Use a farm-level break-even calculation, explain heterogeneous thresholds and distinguish trial, repeat use and diffusion.
+### Concept check
 
-### Adoption lab (4 MCQs)
+**Question:** A KVK demonstrates a machine successfully, but no local repair service or spare parts exist. What does the demonstration establish?
 
-**MCQ 29. A machine yields expected gross benefits of Rs 2,100 per acre and total purchase, learning, risk and switching costs of Rs 1,850. What does the threshold test show?**
+**Model answer:** It establishes technical possibility under demonstration conditions, not durable farm adoption.
 
-A. Expected net benefit is Rs 250 per acre, so adoption may be rational if liquidity and timing are manageable
-B. The machine guarantees a Rs 2,100 income increase
-C. Any positive agronomic result makes cost irrelevant
-D. Every farmer faces the same Rs 1,850 cost
+**Misconception to avoid:** Slow adoption proves farmer ignorance.
 
-**MCQ 30. Demonstration farmers adopt a new seed, but neighbouring farmers do not. Which finding most strongly points to a diffusion constraint?**
+### Mains application, responsive model and unique rubric
 
-A. The demonstration plot had a signboard
-B. Non-participants cannot obtain trusted seed in time and lack local evidence under their conditions
-C. The national mission has an approved budget
-D. Researchers published the variety name
+**Question (10 marks, maximum 150 words):** Why is demonstration an insufficient measure of lab-to-land success?
 
-**MCQ 31. Which observation best demonstrates durable adoption rather than subsidised trial?**
+**Responsive model:** A demonstration shows that a technology can work under specified conditions; it does not show that farmers received timely material, understood the practice, used it correctly or repeated it after support weakened. Lab-to-land success requires local validation, credible extension, quality inputs, complementary repair or service capacity and a feedback channel to research. Monitoring should therefore distinguish demonstrations held, farmer trials, verified use, multi-season continuation and correction of unsuitable advice. A mission succeeds when a useful practice becomes sustained farm capability, not when an event or distribution target is completed.
 
-A. A farmer attends one training session
-B. A machine is delivered before an inspection
-C. Farmers repurchase or continue using the technology after initial support because it remains profitable and serviceable
-D. The district records the farmer as covered
+**Unique scoring rubric:** Award 2 for demonstration-use distinction, 3 for relay requirements, 3 for evidence ladder, 2 for durability verdict (10 total).
 
-**MCQ 32. Why can an S-shaped diffusion curve arise even when a technology is useful?**
+### Transition — Average adoption to unequal access
 
-A. All farmers adopt simultaneously
-B. Adoption never depends on learning
-C. Only government orders determine farm decisions
-D. Early uncertainty slows take-up, networks then accelerate learning, and later saturation reduces new adoption
-
-#### Answers and explanations
-
-**MCQ 29: A**
-
-- **A - Correct.** Subtracting all relevant costs gives a positive expected surplus, subject to household constraints.
-- **B - Incorrect.** Gross benefit is not net income.
-- **C - Incorrect.** Adoption depends on the full private cost-risk calculation.
-- **D - Incorrect.** Scale, credit, learning and risk make thresholds heterogeneous.
-
-**MCQ 30: B**
-
-- **A - Incorrect.** Visibility alone does not diagnose the binding constraint.
-- **B - Correct.** Supply reliability and locally credible performance govern movement beyond subsidised demonstrators.
-- **C - Incorrect.** Budget authority does not ensure last-mile diffusion.
-- **D - Incorrect.** Publication is knowledge generation, not access or adoption.
-
-**MCQ 31: C**
-
-- **A - Incorrect.** Attendance precedes any use decision.
-- **B - Incorrect.** Delivery permits a trial but says nothing about persistence.
-- **C - Correct.** Continued use after support tests realised value and complementary services.
-- **D - Incorrect.** Administrative coverage may persist even when use stops.
-
-**MCQ 32: D**
-
-- **A - Incorrect.** Simultaneous adoption would not produce the characteristic curve.
-- **B - Incorrect.** Information and observed experience are central to diffusion.
-- **C - Incorrect.** Mandates are neither necessary nor sufficient for profitable farm adoption.
-- **D - Correct.** Changing information and the shrinking pool of non-adopters generate slow-fast-slow diffusion.
-
-### Whose threshold is being measured?
-
-Different households face different thresholds, requiring distributional analysis.
-
+The next lesson disaggregates that decision by scale, tenure, gender, irrigation and agro-climate.
 ## Lesson 12 - Adoption heterogeneity: farm size, tenancy, gender and agro-climate
 
-**Progress: 12 / 20 | Stage: Core | Subtopic: Adoption heterogeneity: farm size, tenancy, gender and agro-climate**
+Progress: 12 / 20 | Stage: Core | Subtopic: Adoption heterogeneity: farm size, tenancy, gender and agro-climate
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "inclusive agricultural technology women tenants rainfed India"
-CA found: No mutable quantitative claim is imported; distributional analysis follows canonical evaluation principles.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Adoption heterogeneity: farm size, tenancy, gender and agro-climate through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Heterogeneity dashboard
@@ -1675,54 +1256,16 @@ AVERAGE EFFECT -> farm size | tenure | gender | irrigation | region | service ac
 
 A mission can improve the average while widening gaps. Tenants may not recover long-lived investments. Ownership subsidy favours scale, while custom hiring turns capital into a service. Women may gain less drudgery yet lose tasks or training access. Rainfed and tribal regions face higher variance and thinner services. Distribution is part of effectiveness.
 
-### Distributional casework
+### Core inclusion screen
 
-#### Distribution and labour
+| Farmer circumstance | Foundational delivery question |
+|---|---|
+| Small or marginal holding | Is ownership necessary, or can a service/custom-hiring model work? |
+| Tenant or sharecropper | Can the cultivator qualify without a land-title barrier? |
+| Woman cultivator | Are timing, training access and control over benefits visible? |
+| Rainfed or tribal region | Is the package adapted to local risk, infrastructure and ecology? |
 
-#### Mechanisation
-
-- can reduce drudgery, improve timeliness and address labour scarcity;
-- may displace tasks unevenly by gender/caste/season;
-- ownership subsidy may favour larger farmers;
-- custom hiring can convert indivisible machinery into a service accessible to small farms.
-
-#### Seed and digital systems
-
-- intellectual-property/licensing or vendor concentration can affect seed autonomy;
-- digital records can improve targeting but exclude tenants or digitally constrained users;
-- algorithmic advisories can scale errors if local validation is weak.
-
-#### Distributional dashboard
-
-Disaggregate outcomes by:
-
-- farm size;
-- ownership versus tenancy;
-- irrigated versus rainfed;
-- gender;
-- social group/tribal region;
-- state/district;
-- crop and value-chain position.
-#### Cluster economics
-
-Clusters can lower:
-
-- extension cost per farmer;
-- machinery and service cost;
-- aggregation and assaying cost;
-- processor procurement cost;
-- traceability and certification cost.
-
-But cluster design can:
-
-- exclude isolated/tribal farmers;
-- concentrate ecological risk;
-- strengthen one buyer’s monopsony;
-- create political selection of locations;
-- lock regions into a promoted crop.
-
-**Design safeguard:** open entry criteria, FPO bargaining, buyer competition, crop rotation,
-resource budgets and transparent location selection.
+Core requires disaggregated access and welfare reporting. Labour displacement, seed/vendor power and digital-exclusion mechanisms are developed in Optional Advanced Lesson 17.
 
 ### The uniform-design objection
 
@@ -1742,56 +1285,44 @@ resource budgets and transparent location selection.
 7. Training timing affects women.
 8. Incidence belongs in evaluation.
 
-### Equity answer frame
+### Concept check
 
-**Question (10 marks / 150 words):** How can mission policy avoid cream-skimming?
+**Question:** A tractor subsidy is nominally open to all, but only large landowners can provide collateral and keep the machine fully utilised. What should an incidence audit conclude?
 
-**Model answer:** Identify selection mechanisms; propose transparent eligibility, custom services, tenant recognition, women-centred extension, rainfed adaptation and disaggregated reporting. Disaggregate benefits by farm size, tenure, gender, irrigation and agro-climate; propose service models that widen effective access.
+**Model answer:** Economic incidence depends on capacity to claim and use support, not only written eligibility.
 
-### Distribution check (2 MCQs)
+**Misconception to avoid:** Equal nominal subsidy guarantees equal capability and benefit.
 
-**MCQ 33. A tractor subsidy is nominally open to all, but only large landowners can provide collateral and keep the machine fully utilised. What should an incidence audit conclude?**
+### Revision notes
 
-A. Formal eligibility is equal, but effective access and benefits are skewed by scale and finance
-B. The subsidy is distribution-neutral because the guideline uses one rate
-C. Smallholders benefit equally merely by living in the same district
-D. Land size cannot affect machinery economics
+1. Ownership subsidy favours scale, while custom hiring turns capital into a service.
+2. Women may gain less drudgery yet lose tasks or training access.
+3. Rainfed and tribal regions face higher variance and thinner services.
+4. Disaggregate outcomes by: farm size; ownership versus tenancy; irrigated versus rainfed; gender; social group/tribal region; state/district; crop and value-chain position.
+5. Strongest objection: Targeting disadvantaged groups can increase delivery cost and lower headline success rates.
+6. Reply: Judge the mission by social additionality and incidence, not easy-beneficiary averages.
+7. Qualified verdict: Universal formal eligibility is inadequate; mission performance must be judged by effective access and disaggregated welfare incidence.
+8. Report both average effect and subgroup incidence so easy beneficiaries cannot define mission success.
 
-**MCQ 34. Which redesign most directly addresses the exclusion of tenant farmers from a technology mission?**
+### Mains application, responsive model and unique rubric
 
-A. Require a registered land title for every service
-B. Recognise verifiable cultivation arrangements and permit service-based support without asset ownership
-C. Replace all technology support with land purchase grants
-D. Report only owner-farmer adoption
+**Question (10 marks, maximum 150 words):** How can mission policy avoid cream-skimming?
 
-#### Answers and explanations
+**Responsive model:** Cream-skimming occurs when implementers select farmers who are easiest to reach or most likely to succeed, inflating averages while excluding those with higher social additionality. Prevention requires transparent selection, tenant recognition, women-centred training, rainfed and tribal adaptation, custom-hiring or service models for indivisible assets, and grievance access. Outcomes should be disaggregated by farm size, tenure, gender, irrigation, social group and agro-climate. Evaluation must examine both benefit and burden, including labour displacement or loss of women's control over income. Equal formal eligibility is insufficient when capability to claim and use support is unequal.
 
-**MCQ 33: A**
+**Unique scoring rubric:** Award 3 for heterogeneity dimensions, 3 for distributional mechanism, 2 for inclusive design, 2 for equity verdict (10 total).
 
-- **A - Correct.** Economic incidence depends on capacity to claim and use support, not only written eligibility.
-- **B - Incorrect.** Uniform rates can produce unequal effective subsidy and utilisation.
-- **C - Incorrect.** Geographic proximity does not confer service access.
-- **D - Incorrect.** Fixed costs and utilisation make scale central to machinery viability.
+### Transition — Incidence to delivery
 
-**MCQ 34: B**
-
-- **A - Incorrect.** A title-only rule reproduces the exclusion.
-- **B - Correct.** Cultivator recognition and shared services connect benefits to actual production responsibility.
-- **C - Incorrect.** Land purchase is not a feasible substitute for mission access.
-- **D - Incorrect.** Excluding tenants from the denominator hides rather than solves the problem.
-
-### Why delivery finance changes incidence
-
-Inclusion also depends on how Centre-state finance reaches the season.
-
+Unequal capability now meets the fiscal and federal chain that determines whether support arrives in usable form.
 ## Lesson 13 - Financing and federal delivery: incentives, timing and capacity
 
-**Progress: 13 / 20 | Stage: Advanced | Subtopic: Financing and federal delivery: incentives, timing and capacity**
+Progress: 13 / 20 | Stage: Core | Subtopic: Financing and federal delivery: incentives, timing and capacity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "agriculture mission fund release state implementation India 2026"
-CA found: Current mission pages retrieved 25 September 2026 confirm Centre-state architectures; no unverified state release figure is used.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Financing and federal delivery: incentives, timing and capacity through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Federal delivery chain
@@ -1805,31 +1336,10 @@ funds     plans      timing      quality       service          adoption
 
 ### A timely input can be defeated by a late release
 
-Mission finance is more than an announced outlay. Cost sharing, state action plans, seasonal release, procurement capacity and staffing determine usable services. Each principal-agent hand-off loses information and may reward expenditure over outcomes. A release after sowing can be formally complete but economically irrelevant.
+Mission finance is more than an announced outlay. Cost sharing, state action plans, seasonal release, procurement capacity and staffing determine usable services. Information and accountability can weaken across several delivery levels. A release after sowing can be formally complete but economically irrelevant.
 
-### Principal-agent and financing audit
+### Core federal-delivery audit
 
-#### Principal-agent chain
-
-```text
-Union -> State -> District -> Implementing agency -> Vendor/extension worker -> Farmer
-```
-
-At every link:
-
-- information becomes noisier;
-- incentives can shift from outcome to fund utilisation;
-- monitoring may privilege easily counted activities;
-- local knowledge may be filtered out;
-- blame can be passed between agencies.
-
-#### Control design
-
-- publish role and outcome responsibility at each level;
-- combine administrative data with farmer verification;
-- separate vendor selection, quality testing and outcome certification;
-- retain grievance and correction within the crop season;
-- compare districts/states after adjusting for agro-climate and baseline.
 #### Federalism
 
 - agriculture and local implementation depend heavily on states;
@@ -1855,70 +1365,44 @@ At every link:
 7. Farmer verification complements data.
 8. Grievance must work within season.
 
-### Federalism answer spine
+### Revision notes
 
-**Question (10 marks / 150 words):** Analyse principal-agent problems in agricultural missions.
+1. *The chain locates delay and accountability across Union design, State execution and last-mile delivery.* Mission finance is more than an announced outlay.
+2. Cost sharing, state action plans, seasonal release, procurement capacity and staffing determine usable services.
+3. Multiple delivery levels can weaken information, timing and responsibility.
+4. A release after sowing can be formally complete but economically irrelevant.
+5. Strongest objection: Greater state flexibility may weaken comparability and fiscal control.
+6. Reply: Set common outcomes and standards while allowing agro-climatic portfolios and baseline-adjusted review.
+7. Qualified verdict: Federal flexibility improves fit when finance is timely and common outcome, audit and grievance standards constrain discretion.
+8. Compare states against relevant baselines while preserving common quality and grievance standards.
 
-**Model answer:** Map Union-to-farmer hand-offs, explain incentive loss, and recommend role clarity, seasonal release, independent quality checks, farmer verification and adjusted comparisons. Trace funds and authority across governments, explain seasonal timing, and pair flexibility with verifiable outcomes and grievance control.
+### Mains application, responsive model and unique rubric
 
-### Delivery audit (3 MCQs)
+**Question (10 marks, maximum 150 words):** Explain why federal finance and seasonal timing determine mission delivery.
 
-**MCQ 35. A State receives mission funds after the sowing window and spends them on hurried purchases near year-end. Which governance failure is primary?**
+**Responsive model:** Federal delivery determines whether a mission's announced finance becomes a timely farm service. Union guidelines and cost sharing pass through state plans, district capacity, procurement, staffing, vendors and extension before reaching farmers. Delay beyond the sowing or planting window can make formally complete expenditure economically useless. Reform should set common outcomes and quality standards while allowing agro-climatic adaptation; publish role-specific responsibilities; release funds predictably; verify delivery with farmers; and maintain in-season grievance correction. State flexibility and fiscal control are compatible when baseline-adjusted outcomes, transparent audit and service quality—not expenditure alone—anchor accountability.
 
-A. Lack of a mission title
-B. Excessive farmer feedback
-C. Misalignment between fiscal release and the biological crop calendar
-D. Use of outcome indicators
+**Unique scoring rubric:** Award 2 for seasonal finance, 3 for Centre-state roles, 3 for flexibility-accountability balance, 2 for delivery verdict (10 total).
 
-**MCQ 36. Which control best balances State flexibility with national accountability?**
+### Concept check
 
-A. Mandate one crop and vendor for every district
-B. Allow unrestricted spending with no common indicators
-C. Centralise every field decision in the Union ministry
-D. Set common outcome and safeguard standards while allowing States to choose locally suitable instruments and report verifiable results
+**Question:** A State receives mission funds after the sowing window and spends them on hurried purchases near year-end. Which governance failure is primary?
 
-**MCQ 37. Which design most reduces principal-agent gaming in beneficiary selection?**
+**Model answer:** Agricultural inputs lose value when funds and procurement miss the operational window.
 
-A. Transparent eligibility, auditable records, random field verification and accessible grievance redress
-B. A higher numerical target without verification
-C. Vendor-certified beneficiary lists as the only evidence
-D. Evaluation based solely on expenditure exhaustion
+**Misconception to avoid:** A central allocation guarantees timely district delivery.
 
-#### Answers and explanations
+### Transition — Funds to farm-gate value
 
-**MCQ 35: C**
-
-- **A - Incorrect.** Branding is unrelated to seasonal timeliness.
-- **B - Incorrect.** Farmer feedback would help identify the consequence of delay.
-- **C - Correct.** Agricultural inputs lose value when funds and procurement miss the operational window.
-- **D - Incorrect.** Outcome indicators expose rather than cause the timing problem.
-
-**MCQ 36: D**
-
-- **A - Incorrect.** Uniform instruments ignore agro-climatic diversity.
-- **B - Incorrect.** Flexibility without evidence weakens accountability.
-- **C - Incorrect.** Complete centralisation sacrifices local knowledge and speed.
-- **D - Correct.** Guardrails preserve national purpose while decentralised portfolios adapt delivery.
-
-**MCQ 37: A**
-
-- **A - Correct.** Multiple checks raise the cost of favouritism and permit correction.
-- **B - Incorrect.** Pressure to meet a larger target can intensify gaming.
-- **C - Incorrect.** A financially interested vendor should not be the sole verifier.
-- **D - Incorrect.** Spending compliance cannot reveal whether eligible farmers benefited.
-
-### Why finance alone cannot clear market bottlenecks
-
-Finance must then converge with procurement, processing and markets.
-
+Timely delivery is still insufficient when added output encounters weak procurement, processing or demand.
 ## Lesson 14 - Markets, procurement, processing and import dependence as complements
 
-**Progress: 14 / 20 | Stage: Advanced | Subtopic: Markets, procurement, processing and import dependence as complements**
+Progress: 14 / 20 | Stage: Core | Subtopic: Markets, procurement, processing and import dependence as complements
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "agriculture mission procurement processing edible oil pulses India"
-CA found: Oilseeds and pulses pages retrieved 25 September 2026 use value-chain language; future targets are objectives, not achieved results.
+Book context: queried - canonical Basic owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Markets, procurement, processing and import dependence as complements through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Weakest-link value chain
@@ -1935,47 +1419,9 @@ aggregation/quality/processing: lower loss -> better realisation
 
 Production expansion changes markets. Procurement can reduce downside risk but may distort crop choice or remain inaccessible. Processing, assaying, storage and logistics determine whether quality is rewarded. Import policy affects domestic prices and mission credibility. Convergence means a common calendar and outcome, not scheme co-location.
 
-### Complementarity workshop
+### Core convergence rule
 
-#### Complementarity and the weakest-link problem
-
-Let mission outcome depend on research `R`, material supply `S`, extension `E`, farm
-complements `C` and market/value-chain readiness `M`.
-
-```text
-Outcome = f(R, S, E, C, M)
-```
-
-Where links are strongly complementary, a near-zero value in one link can sharply reduce the
-whole outcome:
-
-```text
-excellent variety
-x unavailable certified seed
-x weak extension
-x no buyer
-= little durable adoption
-```
-
-**Policy implication:** Do not maximise each department’s output separately. Diagnose and
-fund the binding constraint in the complete chain.
-#### From scheme convergence to outcome convergence
-
-Weak convergence:
-
-```text
-Several schemes operate in the same district.
-```
-
-Strong convergence:
-
-```text
-One diagnosed crop/value-chain bottleneck
- -> coordinated responsibilities and calendar
- -> common outcome indicators
- -> shared farmer feedback
- -> adaptive budget and redesign
-```
+Co-location is not enough. Core requires departments to share a diagnosed farm-to-market bottleneck, a seasonal calendar and a common outcome. Optional Advanced Lesson 20 develops adaptive budgeting, feedback and the full scheme-to-outcome convergence architecture.
 
 ### The production-first objection
 
@@ -1995,85 +1441,82 @@ One diagnosed crop/value-chain bottleneck
 7. Fund the binding constraint.
 8. Output can depress price.
 
-### Value-chain answer plan
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks / 150 words):** Why integrate market and processing policy?
+**Question (10 marks, maximum 150 words):** Why integrate market and processing policy?
 
-**Model answer:** Use the glut mechanism, procurement and processing roles, trade-policy consistency and production-to-net-income convergence. Follow output to aggregation, storage, processing, demand and price; show why market absorption determines whether productivity becomes income.
+**Responsive model:** Production technology raises farmer income only when markets preserve the value of additional output. Storage, assaying, aggregation, processing, logistics, procurement and competitive demand determine losses and price realisation. If these links lag, a successful yield mission can create a glut and lower farm-gate prices. Integration should begin with the diagnosed value-chain bottleneck, coordinate responsibilities and seasonal calendars, and use common outcome indicators such as net income, loss reduction and quality premiums. Support should remain transparent and time-bound so that procurement or processing assistance does not become permanent protection or monopsony.
 
-### Market-complement check (4 MCQs)
+**Unique scoring rubric:** Award 3 for market complements, 2 for value-chain examples, 3 for outcome convergence, 2 for net-income verdict (10 total).
 
-**MCQ 38. A pulse mission raises output, but farmers face a price collapse because procurement and private demand do not expand. Which complement failed?**
+### Revision notes
 
-A. Adaptive research
-B. Market absorption and price realisation
-C. Seed germination testing
-D. Weather forecasting alone
+1. Production technology creates income only when storage, processing, logistics and demand preserve value.
+2. Procurement access and private demand determine whether additional output is absorbed.
+3. Assaying and quality-linked pricing allow better produce to receive a market reward.
+4. Processing capacity must match crop location, scale and harvest timing.
+5. Import-policy changes can alter domestic prices and mission credibility.
+6. Core convergence requires a shared bottleneck, seasonal calendar and common outcome.
+7. Optional Advanced analysis adds shared feedback, adaptive budgeting and redesign.
+8. Support should protect competition and avoid permanent monopsony or open-ended protection.
+9. Net income, loss reduction and price realisation are stronger outcomes than output alone.
+### Concept check
 
-**MCQ 39. Which policy bundle best addresses a weakest-link problem in a perishable crop cluster?**
+**Question:** A pulse mission raises output, but farmers face a price collapse because procurement and private demand do not expand. Which complement failed?
 
-A. Increase production targets and postpone logistics
-B. Subsidise planting material while banning aggregation
-C. Sequence production support with aggregation, cold storage, processing contracts and market intelligence
-D. Measure only tonnes harvested
+**Model answer:** The bottleneck lies after production: demand, procurement, storage or processing did not absorb supply.
 
-**MCQ 40. Edible-oil imports fall after a mission, but domestic prices, exchange rates and global supply also changed. What is the correct analytical response?**
+**Misconception to avoid:** Production can be evaluated independently of processing, prices and buyers.
 
-A. Attribute the entire fall to the mission
-B. Ignore the import outcome because markets are complex
-C. Use only beneficiary testimonials
-D. Decompose domestic production, demand and trade effects and construct a counterfactual before claiming mission causation
+### Transition — Core completed
 
-**MCQ 41. A processing plant has spare capacity while nearby farmers cannot meet its quality standard. Which convergence measure is most appropriate?**
-
-A. Coordinate varieties, grading, extension, aggregation and transparent purchase specifications between farms and processor
-B. Subsidise additional plant capacity without changing farm quality
-C. Ask farmers to raise output with no information about standards
-D. Count installed processing capacity as income impact
-
-#### Answers and explanations
-
-**MCQ 38: B**
-
-- **A - Incorrect.** Research may have contributed to the output gain described.
-- **B - Correct.** The bottleneck lies after production: demand, procurement, storage or processing did not absorb supply.
-- **C - Incorrect.** Seed quality is not the immediate reason for a post-harvest price collapse.
-- **D - Incorrect.** Forecasts cannot substitute for buyers and value-chain capacity.
-
-**MCQ 39: C**
-
-- **A - Incorrect.** More supply can worsen losses when the bottleneck remains.
-- **B - Incorrect.** Preventing aggregation weakens smallholder bargaining and logistics.
-- **C - Correct.** The bundle joins the complementary links required to preserve value and sell output.
-- **D - Incorrect.** Harvest volume omits loss, price, cost and income.
-
-**MCQ 40: D**
-
-- **A - Incorrect.** A before-after change includes several simultaneous influences.
-- **B - Incorrect.** Complexity requires better analysis, not abandonment of the outcome.
-- **C - Incorrect.** Testimonials cannot quantify national trade effects.
-- **D - Correct.** A structured counterfactual separates mission contribution from prices, demand and external shocks.
-
-**MCQ 41: A**
-
-- **A - Correct.** The intervention aligns production characteristics with a real buyer and reduces coordination failure.
-- **B - Incorrect.** More capacity will remain idle if raw material still fails the specification.
-- **C - Incorrect.** Output expansion without quality alignment can deepen rejection and loss.
-- **D - Incorrect.** Installed capacity is an asset measure, not realised utilisation or farmer value.
-
-### Why targets can still mislead
-
-These safeguards lead directly to gaming, capture and lock-in risks.
-
+Core coverage is complete: mission families, institutions, adoption, inclusion, delivery and markets are in place. Optional Advanced depth now tests failure, causation and redesign.
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 ## Lesson 15 - Mission failure: Goodhart, capture, additionality and path dependence
 
-**Progress: 15 / 20 | Stage: Advanced | Subtopic: Mission failure: Goodhart, capture, additionality and path dependence**
+Progress: 15 / 20 | Stage: Optional Advanced | Subtopic: Mission failure: Goodhart, capture, additionality and path dependence
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "mission target gaming vendor capture additionality agriculture"
-CA found: No allegation is made against a named mission; these are analytical institutional risks.
+Book context: queried - canonical Advanced owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Mission failure: Goodhart, capture, additionality and path dependence through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Mission-oriented innovation and the weakest-link test
+
+```text
+SOCIETAL CHALLENGE
+food security · imports · climate risk · low income · poor quality
+          |
+          v
+DIRECTION OF INNOVATION
+          |
+          v
+PORTFOLIO OF SOLUTIONS
+seed · agronomy · machinery · institutions · processing · markets
+          |
+          v
+CAPABILITY + DIFFUSION -> MEASURED PUBLIC VALUE
+```
+
+⚠️ **Inference:** A mission differs from a technology-push project because the public
+problem, adoption system and measurable social outcome organise the intervention.
+
+Let outcome depend on research `R`, material supply `S`, extension `E`, farm complements
+`C` and market readiness `M`: `Outcome = f(R,S,E,C,M)`. Where these links are strongly
+complementary, a near-zero value in one link sharply reduces the whole result. The policy
+priority is therefore the binding constraint, not equal expansion of every departmental
+output.
+
+| Strategy | Strength | Failure risk |
+|---|---|---|
+| One flagship technology | Focus and visibility | Lock-in and regional misfit |
+| Technology portfolio | Adaptation and experimentation | Coordination and evaluation complexity |
+| Uniform national package | Scale and procurement simplicity | Agro-climatic mismatch |
+| District or cluster portfolio | Local fit and learning | Unequal state capacity |
+
+The Union can specify public outcomes, standards and learning systems while states and
+districts adapt technology portfolios within ecological and fiscal guardrails.
 
 ### Failure-mode dashboard
 
@@ -2142,57 +1585,52 @@ planned asset reuse.
 8. Path dependence raises switching cost.
 9. Sunset needs transition planning.
 
-### Critical-analysis spine
+### Revision notes
 
-**Question (10 marks / 150 words):** Evaluate political-economy risks of mission mode.
+1. Mission-oriented innovation directs a portfolio toward a measurable societal challenge.
+2. Strong complementarity means one near-zero link can sharply reduce the complete mission outcome.
+3. Binding-constraint analysis prevents equal expansion of every departmental output.
+4. Goodhart risk arises when area, kits, machines or demonstrations become ends in themselves.
+5. Additionality asks what occurred because of the mission rather than what participants reported.
+6. Deadweight, substitution, displacement and cream-skimming reduce genuine public value.
+7. Vendor-specific assets and specialised infrastructure can create costly path dependence.
+8. Open standards, competing options, farmer verification and exit triggers reduce capture and lock-in.
+### Concept check
 
-**Model answer:** Define Goodhart, additionality, deadweight and capture; illustrate distortion; propose open standards, competition, evaluation and redesign triggers. Name the specific failure mode, state the distorted behaviour it creates, and prescribe an indicator or institutional control that restores additionality.
+**Question:** Officials are rewarded for hectares “covered”, so they register land after one demonstration even when farmers never use the practice. Which failure is illustrated?
 
-### Failure diagnosis (2 MCQs)
+**Model answer:** Once coverage becomes the target, recording behaviour can replace genuine repeated use.
 
-**MCQ 42. Officials are rewarded for hectares “covered”, so they register land after one demonstration even when farmers never use the practice. Which failure is illustrated?**
+**Misconception to avoid:** A high target-achievement rate proves additional public value.
 
-A. Additionality from spillovers
-B. Goodhart-type target distortion: the proxy is being optimised instead of the intended adoption outcome
-C. Environmental rebound from efficiency
-D. A botanical classification error
+### Mains application, responsive model and unique rubric
 
-**MCQ 43. A subsidy goes mainly to farmers who had already ordered the technology before the mission opened. What evaluation problem is most direct?**
+**Question (10 marks, maximum 150 words):** Evaluate political-economy risks of mission mode.
 
-A. Displacement of production to another district
-B. Failure to notify programme guidelines
-C. Deadweight: public funds paid for adoption that would have occurred anyway
-D. Excessive ecological diversity
+**Responsive model:** Mission mode directs a portfolio toward a public problem, but its administrative proxies can displace that purpose. Goodhart's law appears when hectares, kits or machines are maximised despite nominal coverage or idle assets. Deadweight pays prior adopters; cream-skimming selects easy cases; vendor capture and specialised infrastructure create lock-in. Additionality therefore requires a credible without-mission comparison. Controls should combine verified repeated use, farmer feedback, competing technologies, open standards and redesign or exit triggers. Targets remain useful only when they are balanced by evidence of durable, inclusive public value.
 
-#### Answers and explanations
+**Unique scoring rubric:** Award 2 for Goodhart and additionality, 2 for failure mechanisms, 4 for institutional controls, 2 for qualified judgement (10 total).
 
-**MCQ 42: B**
+### Transition — Targets to monitoring
 
-- **A - Incorrect.** Spillover additionality would require effects beyond direct participants.
-- **B - Correct.** Once coverage becomes the target, recording behaviour can replace genuine repeated use.
-- **C - Incorrect.** Rebound concerns total resource use after efficiency gains.
-- **D - Incorrect.** No species-origin or classification claim is involved.
-
-**MCQ 43: C**
-
-- **A - Incorrect.** Displacement concerns shifting activity rather than paying pre-existing adopters.
-- **B - Incorrect.** Notification status does not explain the absence of behavioural change.
-- **C - Correct.** The counterfactual adopters are not additional, so the subsidy buys little mission-induced change.
-- **D - Incorrect.** Diversity may affect design but is not the stated causal failure.
-
-### Turn diagnosis into a balanced scorecard
-
-A better scorecard must distinguish every rung from outlay to impact.
-
+Once gaming and lock-in are visible, the next task is to build a scorecard that detects them before they become durable failures.
 ## Lesson 16 - Monitoring scorecard: outlay to ecology and equity
 
-**Progress: 16 / 20 | Stage: Advanced | Subtopic: Monitoring scorecard: outlay to ecology and equity**
+Progress: 16 / 20 | Stage: Optional Advanced | Subtopic: Monitoring scorecard: outlay to ecology and equity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "official agriculture mission monitoring outcomes 2026"
-CA found: Official pages retrieved 25 September 2026 state monitoring intentions; this scorecard is analytical, not an official dashboard.
+Book context: queried - canonical Advanced owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Monitoring scorecard: outlay to ecology and equity through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Principal-agent chain behind the dashboard
+
+```text
+UNION -> STATE -> DISTRICT -> AGENCY -> VENDOR/EXTENSION -> FARMER
+```
+
+Information becomes noisier and incentives may shift toward fund utilisation at every link. Strong control publishes responsibility, combines administrative data with farmer verification, separates vendor selection from quality certification and permits correction within the crop season.
 
 ### Mission scorecard
 
@@ -2262,71 +1700,64 @@ Each rung answers a different question. Inputs measure capability; activities ac
 8. Durability needs multi-season tracking.
 9. Balanced scorecards reduce gaming.
 
-### Monitoring answer design
+### Concept check
 
-**Question (10 marks / 150 words):** Design a mission monitoring framework.
+**Question:** Which dashboard is least vulnerable to mistaking administration for success?
 
-**Model answer:** Assign indicators to every rung; include timing, quality, adoption, net income, resilience, imports, ecology and distribution; explain why no single metric suffices. Build a compact dashboard across inputs, outputs, adoption, income, equity and ecology, while limiting indicators to decision-relevant measures.
+**Model answer:** The balanced chain links implementation to attributable, inclusive and sustainable outcomes.
 
-### Scorecard workshop (3 MCQs)
+**Misconception to avoid:** One administrative indicator can represent the complete mission outcome.
 
-**MCQ 44. Which dashboard is least vulnerable to mistaking administration for success?**
+### Revision notes
 
-A. Outlay, sanction and expenditure only
-B. Demonstrations, kits and beneficiary registrations only
-C. National production and one average income figure only
-D. Timeliness and quality, verified use, additional net income, distribution, resource effects and durability
+1. *The scorecard moves from administrative inputs to durable income, inclusion and ecological outcomes.* Each rung answers a different question.
+2. Leading indicators permit in-season correction; lagging indicators test durable welfare.
+3. Strongest objection: A broad scorecard can obscure priorities with too many indicators.
+4. Reply: Tie each indicator to a theory-of-change assumption and the mission’s binding constraint.
+5. Qualified verdict: A scorecard should be broad enough to detect welfare and ecological failure but small enough to guide actual decisions.
+6. Farmer verification checks whether administrative delivery became usable support.
+7. Total water, land and chemical effects can contradict an efficiency-only success claim.
+8. Every indicator needs an owner, reporting frequency and pre-agreed correction trigger.
 
-**MCQ 45. A mission scorecard has 70 indicators, most of which no manager uses. What is the best redesign?**
+### Mains application, responsive model and unique rubric
 
-A. Retain a small set tied to causal decisions, with clear definitions, owners, frequency and trigger thresholds
-B. Add more indicators so every possible activity appears
-C. Replace all field measures with expenditure
-D. Publish the dashboard once at mission closure
+**Question (10 marks, maximum 150 words):** Design a mission monitoring framework.
 
-**MCQ 46. Which pair should be reported separately to avoid hiding unequal mission performance?**
+**Responsive model:** A mission dashboard should follow the causal ladder from timely funds and quality inputs to activities, genuine outputs, repeated adoption, farm outcomes and public impact. Financial compliance must be paired with verified use, yield or cost response, net income, resilience and durability. Distribution by farm size, tenure, gender and region prevents averages from hiding exclusion; total water, land and chemical effects test ecology. Each indicator needs a responsible institution, reporting frequency and correction trigger. A compact theory-linked scorecard is superior to either expenditure-only monitoring or an unusable catalogue of indicators.
 
-A. Approved and notified, because they are always identical
-B. Average net-income change and its distribution by farm size, tenure, gender and region
-C. Research papers and weather reports, because neither affects policy
-D. Output and outcome, because the terms mean exactly the same thing
+**Unique scoring rubric:** Award 3 for indicator ladder, 3 for balanced dashboard, 2 for equity and ecology, 2 for decision use (10 total).
 
-#### Answers and explanations
+### Transition — Indicators to causation
 
-**MCQ 44: D**
-
-- **A - Incorrect.** Financial compliance is necessary but stops before delivery and welfare.
-- **B - Incorrect.** Activity counts do not show use or results.
-- **C - Incorrect.** Aggregates hide confounders and unequal incidence.
-- **D - Correct.** The balanced chain links implementation to attributable, inclusive and sustainable outcomes.
-
-**MCQ 45: A**
-
-- **A - Correct.** Decision-linked measures reduce reporting burden and make corrective action explicit.
-- **B - Incorrect.** Indicator accumulation can obscure priorities and encourage box-ticking.
-- **C - Incorrect.** Expenditure alone cannot reveal adoption or impact.
-- **D - Incorrect.** Late publication removes the feedback function of monitoring.
-
-**MCQ 46: B**
-
-- **A - Incorrect.** Approval and notification are distinct, but the claim that they are always identical is false.
-- **B - Correct.** An average can rise while vulnerable groups lose or fail to access support.
-- **C - Incorrect.** Research and weather can both affect decisions and evaluation.
-- **D - Incorrect.** Outputs are delivered goods or services; outcomes are resulting changes.
-
-### Monitoring is not yet causal evaluation
-
-Once measurement is organised, causal attribution and value for money can be tested.
-
+A balanced dashboard describes change; the next lesson asks how much of that change the mission actually caused.
 ## Lesson 17 - Evaluation and attribution: causation, cost and durability
 
-**Progress: 17 / 20 | Stage: Advanced | Subtopic: Evaluation and attribution: causation, cost and durability**
+Progress: 17 / 20 | Stage: Optional Advanced | Subtopic: Evaluation and attribution: causation, cost and durability
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "agriculture mission impact evaluation cost effectiveness India"
-CA found: No official causal estimate is claimed; standard evaluation methods caution against before-after attribution.
+Book context: queried - canonical Advanced owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Evaluation and attribution: causation, cost and durability through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Adoption, diffusion and cluster lens
+
+```text
+Expected discounted benefit > purchase + learning + switching + finance + risk
+                         -> adoption -> peer learning -> diffusion
+```
+
+Early adoption by large or irrigated farmers does not prove universal suitability. Clusters can lower extension, machinery, aggregation, assaying and processor-procurement costs, but may exclude isolated or tribal farmers, strengthen monopsony or concentrate ecological risk. Open entry, FPO bargaining, buyer competition, crop rotation and transparent location selection are safeguards. Outcomes must be disaggregated by farm size, tenure, irrigation, gender, social group, region and value-chain position.
+
+### Advanced distribution and labour incidence
+
+| Technology channel | Potential gain | Distributional risk | Evaluation control |
+|---|---|---|---|
+| Mechanisation | Timeliness, lower drudgery, response to labour scarcity | Uneven task displacement; ownership subsidy favours scale | Track users served, labour effects and custom-hiring access |
+| Seed systems | Quality and yield resilience | Licensing or vendor concentration can weaken autonomy | Track choice, switching and effective competition |
+| Digital records/advisories | Targeting and scalable information | Tenant exclusion, digital barriers and locally invalid advice | Audit inclusion, contestability and local validation |
+
+Advanced incidence analysis asks who controls the asset, who performs displaced work, who captures income and who bears transition risk. Average adoption cannot answer these questions.
 
 ### Counterfactual laboratory
 
@@ -2394,85 +1825,55 @@ Every arrow needs an assumption:
 8. Panels test persistence.
 9. Unintended effects matter.
 
-### Attribution answer spine
+### Revision notes
 
-**Question (10 marks / 150 words):** How should missions establish causal impact?
+1. *The counterfactual isolates mission contribution from rainfall, prices, secular trends and self-selection.* A before-after rise cannot identify causation.
+2. Comparison groups, phased roll-out, matching, difference-in-differences or experiments may help where feasible.
+3. Cost-effectiveness asks cost per additional outcome; cost-benefit values wider effects; incidence asks who gains; multi-season panels test durability.
+4. A credible counterfactual separates mission contribution from rainfall, prices, trade, area and secular trends.
+5. Strongest objection: Rigorous counterfactual designs may be costly or politically infeasible.
+6. Reply: Combine process evidence, phased comparisons, administrative data and targeted independent studies proportionately.
+7. Qualified verdict: Evaluation cost is justified when it prevents large programmes from scaling ineffective or harmful instruments.
+8. Evaluation design should be proportionate to the decision to scale, redesign, mainstream or exit.
 
-**Model answer:** Separate process, outcome and impact evaluation; state confounders; propose feasible counterfactuals; add cost, incidence, ecology and durability. State the causal question, select a credible comparison strategy, test confounders and report both cost-effectiveness and durability.
+### Mains application, responsive model and unique rubric
 
-### Evaluation lab (4 MCQs)
+**Question (10 marks, maximum 150 words):** How should missions establish causal impact?
 
-**MCQ 47. A mission district is compared with a similar non-mission district before and after rollout. Which method is being approximated?**
+**Responsive model:** Causal evaluation compares observed outcomes with a credible estimate of what would have happened without the mission. Process audits test delivery; baseline and matched comparisons test adoption; experimental or quasi-experimental methods can estimate yield, cost or income effects where feasible. Cost-effectiveness must use incremental durable outcomes rather than all registrations. Multi-season tracking tests maintenance and continued use, while distributional analysis asks which farm sizes, tenants, women or regions gained. National before-after production is insufficient because rainfall, prices, area and unrelated technologies change. The method must match the decision: scale, redesign, mainstream or exit.
 
-A. A simple national trend extrapolation
-B. A beneficiary satisfaction survey
-C. Difference-in-differences, if the comparison supports a credible parallel-trends assumption
-D. An accounting audit of expenditure
+**Unique scoring rubric:** Award 2 for counterfactual, 3 for method selection, 3 for cost and durability, 2 for attribution verdict (10 total).
 
-**MCQ 48. Farmers volunteer into a demonstration because they are unusually progressive. Why is their higher later yield not sufficient proof of impact?**
+### Concept check
 
-A. Yield can never be measured
-B. Progressive farmers are ineligible for missions
-C. The demonstration must have reduced yield elsewhere
-D. Self-selection may explain part of the difference, so a credible comparison or design is needed
+**Question:** A mission district is compared with a similar non-mission district before and after rollout. Which method is being approximated?
 
-**MCQ 49. A mission costs Rs 120 crore, reports 60,000 adopters, and a comparison suggests 20,000 would have adopted anyway. What is cost per additional adopter?**
+**Model answer:** The method compares changes over time across treated and comparison groups.
 
-A. Rs 30,000
-B. Rs 20,000
-C. Rs 40,000
-D. Rs 60,000
+**Misconception to avoid:** A before-after change identifies the mission's causal effect.
 
-**MCQ 50. Why should evaluators measure use three seasons after a subsidised trial?**
+### Transition — Causation to ecological feedback
 
-A. To replace all short-run monitoring
-B. To test whether adoption and benefits persist after novelty or subsidy effects fade
-C. To prove that every farmer should receive the same technology
-D. To avoid measuring repair and service quality
-
-#### Answers and explanations
-
-**MCQ 47: C**
-
-- **A - Incorrect.** National trends provide no untreated comparator.
-- **B - Incorrect.** Satisfaction can inform implementation but does not identify the causal effect.
-- **C - Correct.** The method compares changes over time across treated and comparison groups.
-- **D - Incorrect.** Financial audit tests compliance rather than counterfactual impact.
-
-**MCQ 48: D**
-
-- **A - Incorrect.** Yield is measurable, but its causal interpretation is the issue.
-- **B - Incorrect.** Eligibility is not determined by the label “progressive”.
-- **C - Incorrect.** Displacement is possible but not implied by the facts.
-- **D - Correct.** Pre-existing motivation, resources or skills confound a participant-only comparison.
-
-**MCQ 49: A**
-
-- **A - Correct.** Additional adopters are 40,000; Rs 120 crore divided by 40,000 equals Rs 30,000.
-- **B - Incorrect.** Rs 20,000 uses all reported adopters and ignores deadweight.
-- **C - Incorrect.** Rs 40,000 would apply if the relevant durable additional denominator were 30,000.
-- **D - Incorrect.** This overstates cost by using an incorrect denominator.
-
-**MCQ 50: B**
-
-- **A - Incorrect.** Short-run monitoring remains useful for diagnosing implementation.
-- **B - Correct.** Persistence distinguishes durable value from temporary compliance or subsidised experimentation.
-- **C - Incorrect.** Durability evidence does not erase heterogeneous suitability.
-- **D - Incorrect.** Repair access is one reason continued use may fail and should be measured.
-
-### Causal success can still create ecological rebound
-
-Evaluation must also detect ecological rebound and technology lock-in.
-
+Attribution alone is incomplete when efficiency changes behaviour and shifts total resource use.
 ## Lesson 18 - Environmental rebound, technology choice and portfolios
 
-**Progress: 18 / 20 | Stage: Advanced | Subtopic: Environmental rebound, technology choice and portfolios**
+Progress: 18 / 20 | Stage: Optional Advanced | Subtopic: Environmental rebound, technology choice and portfolios
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "sustainable agriculture mission resource rebound India 2026"
-CA found: The 2026 Rainfed Area Development PYQ is cross-linked with provisional-key caution; detailed ownership stays with Topic 14.
+Book context: queried - canonical Advanced owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Environmental rebound, technology choice and portfolios through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Import substitution requires three tests
+
+| Test | Question |
+|---|---|
+| Productivity | Can domestic yield and quality improve sustainably? |
+| Resource cost | What land, water and ecosystem cost is incurred? |
+| Value chain | Are processing, logistics, standards and demand aligned? |
+
+Import reduction is not automatically welfare-improving if domestic support creates a larger resource or consumer-price burden. Complete reliance on volatile imports can also create food and balance-of-payments risk. A balanced objective combines resilient domestic capability, diversified imports and productivity gains while avoiding ecologically unsuitable expansion.
 
 ### Rebound loop
 
@@ -2541,56 +1942,44 @@ Mission evaluation must measure:
 7. RAD detail remains Topic 14.
 8. Landscape effects exceed farm effects.
 
-### Environment answer frame
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks / 150 words):** Can efficient technology worsen ecology?
+**Question (10 marks, maximum 150 words):** Can efficient technology worsen ecology?
 
-**Model answer:** Explain rebound, distinguish intensity from total use, and recommend resource budgets, portfolio trials, landscape indicators and exit options. Distinguish efficiency from total resource use, test rebound and lock-in, and recommend performance standards with portfolio choice.
+**Responsive model:** Efficient technology can worsen ecology through rebound. Drip irrigation may reduce water per tonne, yet higher profitability can expand irrigated area or intensity and raise total basin withdrawal. Missions must measure aggregate water, land-use change, chemical load and biodiversity, not only efficiency ratios. Government may direct innovation toward food security, imports or climate goals where public goods and coordination failures exist, but should preserve competing options and ecological guardrails. Import substitution must pass productivity, resource-cost and value-chain tests. Direction is defensible only when evidence can trigger redesign and no vendor, crop or technology becomes permanently protected.
 
-### Rebound check (2 MCQs)
+**Unique scoring rubric:** Award 3 for rebound mechanism, 2 for technology direction, 3 for portfolio safeguards, 2 for ecological verdict (10 total).
 
-**MCQ 51. Drip irrigation lowers water applied per tonne, but farmers expand irrigated area enough to increase total pumping. Which metric would reveal the problem?**
+### Revision notes
 
-A. Number of drip kits distributed
-B. Water saved on the demonstration plot only
-C. Total groundwater withdrawal at the relevant farm or basin scale alongside area and intensity
-D. Nominal subsidy per kit
+1. *Lower resource use per unit can coexist with higher total extraction when area or intensity expands.* Efficiency is not automatically conservation.
+2. Lower use per unit can raise profitability and total area, producing rebound.
+3. One flagship technology can lock regions into unsuitable resource use.
+4. Directionality is justified for public goods yet must remain open to evidence and exit.
+5. Government cannot be fully neutral because mission objectives direct innovation toward a crop or outcome.
+6. Strongest objection: Portfolio choice can dilute focus and make failure hard to attribute.
+7. Reply: Use bounded experiments, common outcomes, resource guardrails and explicit selection criteria.
+8. Qualified verdict: Efficiency-promoting technology is sustainable only when total resource use, induced expansion and landscape effects remain within safeguards.
 
-**MCQ 52. Which technology-direction rule best avoids locking a mission into one favoured vendor?**
+### Concept check
 
-A. Specify a brand in the mission objective
-B. Fund the technology with the highest initial publicity
-C. Ban comparison trials after procurement
-D. Set outcome and safety standards, allow competing solutions, publish evidence and retain switching rules
+**Question:** Drip irrigation lowers water applied per tonne, but farmers expand irrigated area enough to increase total pumping. Which metric would reveal the problem?
 
-#### Answers and explanations
+**Model answer:** Aggregate withdrawal and expansion expose whether efficiency produced real conservation.
 
-**MCQ 51: C**
+**Misconception to avoid:** Lower resource use per unit guarantees lower aggregate ecological pressure.
 
-- **A - Incorrect.** Distribution does not measure use or aggregate extraction.
-- **B - Incorrect.** Plot efficiency can coexist with system-level rebound.
-- **C - Correct.** Aggregate withdrawal and expansion expose whether efficiency produced real conservation.
-- **D - Incorrect.** Subsidy value is not a hydrological outcome.
+### Transition — Portfolio effects to institutional life cycle
 
-**MCQ 52: D**
-
-- **A - Incorrect.** Brand specification converts public purpose into supplier preference.
-- **B - Incorrect.** Publicity is not comparative performance evidence.
-- **C - Incorrect.** Blocking trials entrenches path dependence.
-- **D - Correct.** Performance-based competition preserves direction toward the outcome without pre-selecting one device.
-
-### Why missions need exit and redesign rules
-
-Evidence from the portfolio review informs continuation, redesign or exit.
-
+Environmental and technology trade-offs lead to the decision whether a mission should scale, mainstream, redesign or end.
 ## Lesson 19 - Mission life cycle: mainstream, sunset, successor or redesign
 
-**Progress: 19 / 20 | Stage: Advanced | Subtopic: Mission life cycle: mainstream, sunset, successor or redesign**
+Progress: 19 / 20 | Stage: Optional Advanced | Subtopic: Mission life cycle: mainstream, sunset, successor or redesign
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "agricultural mission sunset mainstream redesign India"
-CA found: Named mission dates are recorded as of 25 September 2026; continuation beyond official periods is not assumed.
+Book context: queried - canonical Advanced owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Mission life cycle: mainstream, sunset, successor or redesign through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Mission life-cycle decision tree
@@ -2640,70 +2029,44 @@ Time-bound does not mean abrupt closure. Mainstreaming moves proven recurring fu
 7. Plan transition for assets and farmers.
 8. Do not infer continuation.
 
-### Life-cycle answer spine
+### Revision notes
 
-**Question (10 marks / 150 words):** When should a mission be mainstreamed, succeeded, redesigned or closed?
+1. Transition plans protect useful assets and avoid policy whiplash.
+2. Strongest objection: Sunset rules can create uncertainty for perennial crops and specialised assets.
+3. Reply: Differentiate functions by horizon and provide transition, mainstreaming and asset-reuse plans.
+4. Qualified verdict: Ending a temporary mission and preserving a proven recurring function are compatible decisions, not contradictory ones.
+5. Mainstream a proven recurring service when routine institutions can fund and govern it.
+6. Use a successor when the public problem persists but the architecture or instrument changes.
+7. Redesign when evidence reveals weak adoption, exclusion, ecological harm or a failed assumption.
+8. Sunset obsolete support with notice, asset reuse and protection against policy whiplash.
 
-**Model answer:** Use problem persistence, causal effectiveness, additionality, cost, distribution and ecology; include transition planning. Apply explicit criteria for mainstreaming, sunset, succession or redesign; preserve useful capability without preserving a label for its own sake.
+### Concept check
 
-### Exit-design check (3 MCQs)
+**Question:** A temporary soil-testing mission has established reliable laboratories and a recurring advisory service used every season. What is the best life-cycle decision?
 
-**MCQ 53. A temporary soil-testing mission has established reliable laboratories and a recurring advisory service used every season. What is the best life-cycle decision?**
+**Model answer:** A mature recurring service belongs in routine capability even if the temporary vehicle ends.
 
-A. Mainstream the proven recurring function into regular institutions with staff, budget and accountability
-B. Close the laboratories because the mission period ended
-C. Retain the mission label indefinitely without reviewing governance
-D. Replace testing with an annual publicity campaign
+**Misconception to avoid:** Closing a temporary mission requires discarding every useful capability.
 
-**MCQ 54. When is mission sunset more appropriate than redesign?**
+### Mains application, responsive model and unique rubric
 
-A. Whenever the mission has political visibility
-B. When the problem has disappeared or the intervention lacks public value despite credible testing and has no essential capability to preserve
-C. Whenever expenditure is below target in one quarter
-D. When one State needs local adaptation
+**Question (10 marks, maximum 150 words):** When should a mission be mainstreamed, succeeded, redesigned or closed?
 
-**MCQ 55. A mission remains relevant, but evidence shows its single mandated technology performs poorly in rainfed regions. Which response is strongest?**
+**Responsive model:** Mission life-cycle choice should preserve useful capability without immortalising a temporary label. Mainstream a proven recurring service when routine departments can absorb its staff, budget and accountability. Create a successor when the public problem persists but the instrument or institutional boundary has changed. Redesign when evidence shows weak adoption, inequity, market failure or ecological harm. Sunset when the problem is solved, the instrument is obsolete or costs exceed additional public value. Every transition needs notice, asset reuse, data portability and support for affected farmers or providers. Continuation is justified by evidence and function, not sunk expenditure or political branding.
 
-A. Continue unchanged to protect policy consistency
-B. Terminate all support in every region
-C. Redesign toward outcome standards and region-specific portfolios, with new trials and exit rules
-D. Rename the same mandate as Mission 2.0
+**Unique scoring rubric:** Award 2 for life-cycle choices, 2 for decision criteria, 4 for transition design, 2 for mainstream-or-exit verdict (10 total).
 
-#### Answers and explanations
+### Transition — Life cycle to synthesis
 
-**MCQ 53: A**
-
-- **A - Correct.** A mature recurring service belongs in routine capability even if the temporary vehicle ends.
-- **B - Incorrect.** Sunsetting the vehicle need not destroy useful public capacity.
-- **C - Incorrect.** Permanent exceptional status weakens periodic review and institutional clarity.
-- **D - Incorrect.** Publicity cannot perform laboratory and advisory functions.
-
-**MCQ 54: B**
-
-- **A - Incorrect.** Visibility is not an outcome criterion.
-- **B - Correct.** Sunset is justified when continued mission treatment has no defensible problem or additional benefit.
-- **C - Incorrect.** A temporary spending delay calls for diagnosis, not automatic closure.
-- **D - Incorrect.** Heterogeneity usually supports redesign or decentralised choice.
-
-**MCQ 55: C**
-
-- **A - Incorrect.** Consistency cannot justify repeating a demonstrated mismatch.
-- **B - Incorrect.** Failure of one instrument does not prove the public problem has vanished.
-- **C - Correct.** Redesign retains purpose while changing the mechanism in light of evidence.
-- **D - Incorrect.** A new label without changed rules leaves the failure intact.
-
-### Bring every test into one audit
-
-The final lesson converts the life-cycle framework into an integrated UPSC audit.
-
+The final lesson combines mission design, implementation, evaluation and exit into one examination-ready audit.
 ## Lesson 20 - Integrated mission audit and answer-writing synthesis
 
-**Progress: 20 / 20 | Stage: Advanced | Subtopic: Integrated mission audit and answer-writing synthesis**
+Progress: 20 / 20 | Stage: Optional Advanced | Subtopic: Integrated mission audit and answer-writing synthesis
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Basic/Advanced files and OCR-searchable local economy books
-CA search: "Technology Missions Indian agriculture food security UPSC 2026"
-CA found: UPSC GS-III 2026 Q3 is verified locally as 10 marks/150 words. Current examples are dated to 25 September 2026.
+Book context: queried - canonical Advanced owner and permitted OCR evidence
+CA search: "official India agricultural technology missions Integrated mission audit and answer-writing synthesis through 3 October 2026"
+CA found: dated official architecture is used only where stated; no announcement or target is treated as an achieved outcome.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Integrated audit canvas
@@ -2822,76 +2185,36 @@ N  Next-generation redesign
 8. 2026 demand is Describe plus examine.
 9. A 150-word answer needs selection.
 
-### M-I-S-S-I-O-N answer engine
+### Concept check
 
-**Question (10 marks / 150 words):** How should a 150-word answer address technology missions and food security?
+**Question:** An examiner asks whether a mission improved food security. Which answer sequence is analytically strongest?
 
-**Model answer:** Define mission mode; name representative foodgrain, horticulture, oilseed/pulse and capability missions; connect them to availability and resilience; qualify with adoption, markets, equity and attribution; conclude with outcome-based redesign. Use the M-I-S-S-I-O-N structure to move from mechanism to incidence, safeguards and evidence, then end with a conditional verdict.
+**Model answer:** The sequence integrates design, causal chain, evidence, distribution and judgement.
 
-### Synthesis challenge (4 MCQs)
+**Misconception to avoid:** Convergence means only that several schemes operate in the same district.
 
-**MCQ 56. An examiner asks whether a mission improved food security. Which answer sequence is analytically strongest?**
+### Revision notes
 
-A. List schemes, quote outlay and conclude success
-B. Describe technology, omit markets and discuss only national production
-C. Begin with criticism and avoid explaining the mechanism
-D. Define the problem, trace mission instruments to adoption and food-security outcomes, test incidence and counterfactuals, then give a qualified verdict
+1. Begin with a diagnosed public problem, not a scheme catalogue.
+2. Select mission families that demonstrate different causal channels.
+3. Link research, material supply, extension, finance and markets.
+4. Distinguish availability from access, utilisation and stability.
+5. Test adoption, net income, inclusion and ecological effects.
+6. Separate activity, outcome and attributable impact.
+7. Use dated examples without converting targets into achievements.
+8. End with scale, mainstream, redesign or sunset conditions.
 
-**MCQ 57. Which fact-inference pairing is correctly framed in a mission audit?**
+### Mains application, responsive model and unique rubric
 
-A. Fact: guidelines report a support component; inference: it may improve adoption if timely, usable and complementary constraints are met
-B. Fact: the mission caused all observed national output growth; inference: funds were approved
-C. Fact: every registered beneficiary adopted; inference: a beneficiary list exists
-D. Fact: net income rose because production rose; inference: prices and costs are irrelevant
+**Question (10 marks, maximum 150 words):** How should a 150-word answer address technology missions and food security?
 
-**MCQ 58. A 15-mark answer has only 250 words. Which selection strategy best preserves analytical depth?**
+**Responsive model:** A 150-word answer should define mission mode, then classify only representative families: food-security crops, horticulture, edible oils, fibre or allied value chains, horizontal capabilities and sustainability. It should explain the common chain from research and quality material through extension, adoption, processing and markets. Their food-security role covers availability, access, utilisation and stability, not production alone. The examination component should identify late delivery, weak adoption, price or processing gaps, exclusion, ecological pressure and attribution problems. A concise conclusion should support mission mode only where coordinated capability produces additional, durable and inclusive outcomes. Selection and causal linkage are superior to a catalogue of scheme names.
 
-A. Name every agricultural scheme ever launched
-B. Choose representative mission families, explain their causal channels, and devote space to limitations and a reasoned verdict
-C. Use the entire answer for a chronology of renamings
-D. Discuss only one success story and generalise nationally
+**Unique scoring rubric:** Award 3 for integrated diagnosis, 3 for DIFFUSE architecture, 2 for learning and convergence, 2 for reasoned synthesis (10 total).
 
-**MCQ 59. Which reform package most closely represents a learning mission?**
+### Transition — Session closure
 
-A. Fixed technology, expenditure targets and automatic extension
-B. Annual renaming with unchanged instruments
-C. Published theory of change, adaptive portfolios, verified outcomes, counterfactual review and explicit scale-redesign-sunset decisions
-D. Central targets with no farmer feedback
-
-#### Answers and explanations
-
-**MCQ 56: D**
-
-- **A - Incorrect.** A list and outlay do not establish a causal contribution.
-- **B - Incorrect.** Technology and production omit access, stability, markets and adoption.
-- **C - Incorrect.** Critique is persuasive only after the intended mechanism is understood.
-- **D - Correct.** The sequence integrates design, causal chain, evidence, distribution and judgement.
-
-**MCQ 57: A**
-
-- **A - Correct.** The document can establish design, while the behavioural effect remains a conditional proposition to test.
-- **B - Incorrect.** Causal attribution is not a directly reported fact, and approval precedes outcomes.
-- **C - Incorrect.** Registration does not prove use.
-- **D - Incorrect.** Income requires price and cost evidence; physical production alone is insufficient.
-
-**MCQ 58: B**
-
-- **A - Incorrect.** An indiscriminate list sacrifices mechanism and evaluation.
-- **B - Correct.** Representative classification allows breadth while preserving explanation and judgement.
-- **C - Incorrect.** Chronology helps, but cannot replace role analysis.
-- **D - Incorrect.** One case cannot establish system-wide performance or variation.
-
-**MCQ 59: C**
-
-- **A - Incorrect.** Rigidity and spending incentives suppress learning.
-- **B - Incorrect.** Rebranding without mechanism change creates no institutional learning.
-- **C - Correct.** Evidence is tied to choices, feedback and life-cycle decisions.
-- **D - Incorrect.** One-way command removes field information needed for correction.
-
-### Move from lesson sequence to cumulative application
-
-The lesson sequence is complete; the final arc now shifts from teaching to PYQ application and cumulative retrieval.
-
+Use the verified PYQs next to test exact demand, neutral provenance and selective answer architecture across the completed Core and optional Advanced block.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
@@ -2907,7 +2230,7 @@ The lesson sequence is complete; the final arc now shifts from teaching to PYQ a
 
 ## 2018 GS-III, Question 13 — direct owner
 
-> Assess the role of the National Horticulture Mission (NHM) in boosting the production, productivity and income of horticulture farms. How far has it succeeded in increasing the income of farmers?
+> Assess the role of the National Horticulture Mission in boosting the production, productivity and income of horticulture farms. How far has it succeeded in increasing the income of farmers?
 
 **Verified format:** 15 marks / 250 words in the local audited routing ledger and official-paper transcription.
 
@@ -2928,133 +2251,26 @@ The lesson sequence is complete; the final arc now shifts from teaching to PYQ a
 > (c) 1 and 3 only
 > (d) 1, 2 and 3
 
-**Statement-level demand:** distinguish botanical origin from later production geography; recognise food and non-food industrial uses; recognise biodiesel use. The commonly cultivated African oil palm, *Elaeis guineensis*, is native to tropical West/Central Africa. Palm oil mainly comes from the fleshy mesocarp; palm-kernel oil comes from the kernel.
+**Answer-neutral handling:** Preserve the printed stem, all three statements and all four options exactly as above. Test each statement independently against authoritative evidence; do not use elimination cues, factual hints or an effective solution in this linkage section.
 
 **Key status:** the matched final official UPSC key is unavailable in the audited local set. No option letter is solved or inferred here.
-
-## 2026 Prelims GS-I, Question 28 — necessary Topic 14 cross-link
-
-**Verified demand:** objectives of Rainfed Area Development under the National Mission for Sustainable Agriculture, especially Integrated Farming Systems for productivity and climate-risk reduction rather than monoculture or irrigated-rice expansion.
-
-**Status caution:** a provisional local Set-A key exists, but no final official key is treated as available. This topic uses RAD only to illustrate sustainability-mission and integrated-technology logic; detailed irrigation, rainfed systems and input ownership remains with Economy Topic 14.
 
 ## 2024-2025 audit result
 
 The audited 2024-2025 Mains and Prelims routing ledgers were checked. They route **no additional directly owned printed question** to this agricultural technology-missions owner. That absence is recorded as an audit result, not as evidence that the syllabus area was unimportant.
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-**MCQ 60. Which is the best test of a genuine mission-mode intervention?**
+1. A mission reports complete expenditure but misses the sowing window. Which causal link failed?
+2. Production rises while yield is unchanged. What decomposition and attribution test are required?
+3. Horticulture output rises while farm-gate prices fall. Which market complements should be audited?
+4. An oil-palm district lacks viable processing proximity. Why can subsidised planting fail?
+5. Machine purchases rise but utilisation and repair uptime collapse. Which evidence matters?
+6. A cluster selects only irrigated large farms. Which distributional and evaluation biases result?
+7. Water use per tonne falls while total basin withdrawal rises. Which mechanism explains this?
+8. A temporary mission ends but a proven recurrent service remains valuable. Which life-cycle choice fits?
 
-A. The word Mission appears in its title
-B. It distributes the largest number of kits
-C. It has the highest announced outlay
-D. A precise problem, coordinated complements, adoption logic, measurable outcomes and redesign authority
-
-**MCQ 60: D**
-
-- **A - Incorrect.** A title is branding evidence; it does not demonstrate coordination, adoption or measurable public value.
-- **B - Incorrect.** Kit volume records an output and may coexist with unsuitable inputs or non-use.
-- **C - Incorrect.** Announced expenditure says nothing about release quality, additionality or outcomes.
-- **D - Correct.** These features connect a defined problem to coordinated action, evidence and the authority to correct failure.
-
-**MCQ 61. Which statement correctly decomposes agricultural production?**
-
-A. Production equals cultivated area multiplied by yield per unit area
-B. Production equals yield divided by area
-C. Production growth always means yield growth
-D. Production growth necessarily raises net farm income
-
-**MCQ 61: A**
-
-- **A - Correct.** The identity P = A × Y separates cultivated area from output per unit area.
-- **B - Incorrect.** Dividing yield by area does not produce total crop output.
-- **C - Incorrect.** Production can increase through area expansion even when yield is constant.
-- **D - Incorrect.** Income also depends on prices, costs, loss and quality, so physical output is not sufficient.
-
-**MCQ 62. Which distinction is correct?**
-
-A. Both names denote the same historical mission
-B. NMEO-OS addresses annual oilseed systems while NMEO-OP addresses perennial oil-palm systems
-C. NMEO-OP is merely a component of NHM
-D. Oil palm requires no processing-proximity test
-
-**MCQ 62: B**
-
-- **A - Incorrect.** The missions address related import concerns but not the same crop system or historical architecture.
-- **B - Correct.** Annual oilseeds and perennial oil palm differ in gestation, ecology, processing and risk.
-- **C - Incorrect.** NMEO-OP has its own oil-palm focus and is not merely an NHM component.
-- **D - Incorrect.** Fresh fruit bunch perishability and long-lived planting make processing proximity central.
-
-**MCQ 63. What does additionality ask?**
-
-A. How much money was announced
-B. How many beneficiaries were registered
-C. What changed because of the mission compared with a credible without-mission situation
-D. Whether the mission name changed
-
-**MCQ 63: C**
-
-- **A - Incorrect.** Outlay is one input; it does not reveal the change relative to no intervention.
-- **B - Incorrect.** Registration counts participants, including those who might have acted anyway.
-- **C - Correct.** Additionality is precisely the mission-induced difference against a credible counterfactual.
-- **D - Incorrect.** Renaming can occur without any behavioural or welfare change.
-
-**MCQ 64. Which metric sits closest to a farmer-welfare outcome?**
-
-A. Number of training sessions held
-B. Number of machines purchased
-C. Area listed as covered
-D. Change in inflation-adjusted net farm income attributable to adoption
-
-**MCQ 64: D**
-
-- **A - Incorrect.** Training is an activity whose value depends on later learning and use.
-- **B - Incorrect.** Purchase is an output and can leave an idle or unsuitable asset.
-- **C - Incorrect.** Listed coverage may be nominal and does not measure realised welfare.
-- **D - Correct.** Real net income is close to farmer welfare, and attribution separates mission effect from other changes.
-
-**MCQ 65. Which is the strongest response to target gaming?**
-
-A. Use balanced metrics, farmer verification, counterfactual evaluation and redesign triggers
-B. Raise the same physical target every year
-C. Treat expenditure as impact
-D. Remove all local flexibility
-
-**MCQ 65: A**
-
-- **A - Correct.** Balanced evidence and independent checks reduce incentives to game one target and create a route to correction.
-- **B - Incorrect.** Escalating a distorted target may intensify nominal compliance.
-- **C - Incorrect.** Expenditure can be fully utilised without changing behaviour or welfare.
-- **D - Incorrect.** Eliminating local discretion sacrifices adaptation and does not by itself prevent manipulation.
-
-**MCQ 66. When is mainstreaming appropriate?**
-
-A. Whenever a mission misses a target
-B. When a proven recurring function should become routine departmental capability
-C. Whenever a new minister takes office
-D. Only when every beneficiary has identical results
-
-**MCQ 66: B**
-
-- **A - Incorrect.** A missed target first requires diagnosis; the function may need redesign rather than routine absorption.
-- **B - Correct.** Mainstreaming transfers a validated continuing service from exceptional mission form into regular administration.
-- **C - Incorrect.** Political turnover is not a functional life-cycle criterion.
-- **D - Incorrect.** Heterogeneous outcomes are normal; universal identical results are unnecessary.
-
-**MCQ 67. Why is portfolio design preferable in heterogeneous agriculture?**
-
-A. It guarantees zero coordination cost
-B. It eliminates the need for evaluation
-C. It allows agro-climatic adaptation and learning while retaining outcome guardrails
-D. It makes markets and extension unnecessary
-
-**MCQ 67: C**
-
-- **A - Incorrect.** Portfolios require coordination, especially where technologies and services are complementary.
-- **B - Incorrect.** Variation makes evaluation more important because performance must be compared across contexts.
-- **C - Correct.** A bounded portfolio permits local fit and experimentation while common outcomes and safeguards preserve direction.
-- **D - Incorrect.** Markets and extension remain complements even when farms choose among technologies.
+**Retrieval rule:** Answer each with mechanism, evidence and remedy. Revisit Lessons 3, 5, 6, 7, 9, 12, 18 and 19 if a link remains unclear.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -3062,9 +2278,11 @@ D. It makes markets and extension unnecessary
 
 **Question:** Explain how area-yield decomposition improves evaluation of an agricultural technology mission. Answer in 150 words.
 
-**Model answer:** Agricultural production is an identity: `P = A x Y`, where `A` is area and `Y` is yield. Suppose a mission crop has an area index of 110 and a yield index of 120 relative to a base of 100. The production index is `110 x 120 / 100 = 132`; production has risen by 32 per cent. Holding yield at its base, area alone would have produced an index of 110, a 10 per cent contribution. Holding area at base, yield alone would have produced 120, a 20 per cent contribution. Their interaction contributes the remaining 2 percentage points: `(10% x 20%) = 2%`.
+**Model answer:** Agricultural production is an identity: `P = A x Y`, where `A` is area and `Y` is yield. Suppose a mission crop has an area index of 110 and a yield index of 120 relative to a base of 100. The production index is `110 x 120 / 100 = 132`; production has risen by 32 per cent. Area contributed 10 percentage points, yield 20 and their interaction 2.
 
 The arithmetic prevents a mission from claiming all output growth as productivity gain. Area may expand because of prices, rainfall or crop switching, while yield may change due to seed, agronomy and irrigation. Evaluation must therefore add net income, resource use and a counterfactual. A mission succeeds when productivity and complementary value-chain gains are additional, durable and inclusive, not merely when production rises.
+
+**Scoring rubric:** Award 2 marks for the production identity, 3 for decomposition, 3 for attribution and 2 for the outcome-based conclusion (10 total).
 
 ## Original 15-marker — adoption and break-even
 
@@ -3076,9 +2294,11 @@ Consider a precision planter rented for Rs 1,200 per acre. It is expected to sav
 
 Thresholds differ by scale, tenure, irrigation, gendered labour, credit, repair access and market price. Demonstration plots often understate these constraints. Missions should therefore fund adaptive trials, custom-hiring services, seasonal finance and risk cover; recognise tenants; schedule women-accessible training; assure repair and spare parts; align buyers and quality rewards; and measure repeated use after subsidy. The appropriate objective is not maximum purchase but durable, profitable and equitable adoption. Portfolios should allow locally suitable alternatives rather than forcing one machine or variety.
 
+**Scoring rubric:** Award 3 marks for the adoption threshold, 3 for heterogeneous constraints, 5 for mission remedies, 2 for evaluation and 2 for the balanced conclusion (15 total).
+
 ## Original 20-marker — mission effectiveness, additionality and cost-effectiveness
 
-**Question:** Mission-mode policy can coordinate agricultural innovation, but can also reward activity without creating additional public value. Critically examine. Answer in 250-300 words.
+**Question:** Mission-mode policy can coordinate agricultural innovation, but can also reward activity without creating additional public value. Critically examine. Answer in maximum 250 words.
 
 **Model answer:** Mission mode is justified when research, material, extension, finance, infrastructure and markets are complementary and no single actor can coordinate them. It can direct innovation toward food security, import risk, climate resilience or quality. Historical oilseed, cotton and horticulture architectures illustrate this research-to-market logic.
 
@@ -3088,132 +2308,23 @@ Goodhart's law further encourages nominal area, idle assets and repeated demonst
 
 Reform requires a published theory of change; seasonal Centre-state financing; open technology portfolios; independent quality checks; farmer verification; market and processing convergence; disaggregated income, ecology and equity indicators; credible counterfactual evaluation; and rules for scaling, mainstreaming, redesign or sunset. Mission mode is valuable when it becomes a learning institution. It fails when its name and target dashboard replace causation and accountability.
 
+**Scoring rubric:** Award 3 marks for mission rationale, 5 for additionality and political-economy failures, 5 for the worked cost-effectiveness logic, 5 for reforms and 2 for the verdict (20 total).
+
 # REMEDIATION
 
-**MCQ 68. A Cabinet approval is reported. What may safely be concluded?**
-
-A. Funds have reached every State
-B. Farmers have adopted the technology
-C. The mission has achieved its outcome
-D. The policy has been approved on the stated date; notification, release, adoption and outcome require separate evidence
-
-**MCQ 68: D**
-
-- **A - Incorrect.** Cabinet approval does not establish State-wise release or receipt.
-- **B - Incorrect.** Adoption is a later behavioural stage requiring evidence of actual use.
-- **C - Incorrect.** Outcome achievement cannot precede implementation and causal measurement.
-- **D - Correct.** The report supports an approval-status claim; every downstream step needs separate documentation or data.
-
-**MCQ 69. Production rose 18% while area rose 12%. What is the safest conclusion?**
-
-A. Yield likely contributed, but exact decomposition and attribution require the area and yield series and counterfactual
-B. The whole 18% is a yield gain
-C. The mission alone caused the rise
-D. Net income necessarily rose 18%
-
-**MCQ 69: A**
-
-- **A - Correct.** Because P = A × Y, production growth exceeding area growth suggests a yield contribution, but exact series and a counterfactual are still required.
-- **B - Incorrect.** Area expansion accounts for part of the change, so the full production increase cannot be labelled yield growth.
-- **C - Incorrect.** Rainfall, prices, crop switching and other policies can influence the observed increase.
-- **D - Incorrect.** Net income may move differently because output prices and costs also change.
-
-**MCQ 70. A machine subsidy records 10,000 purchases. Which follow-up is most informative?**
-
-A. The colour of the machine
-B. Hours used, unique farmers served, repair uptime and continued profitable use
-C. The number of press releases
-D. Whether all districts bought identical brands
-
-**MCQ 70: B**
-
-- **A - Incorrect.** Colour has no bearing on utilisation, access or economic return.
-- **B - Correct.** Machine-hours, users, uptime and repeat profitable demand test whether purchase became a functioning service.
-- **C - Incorrect.** Publicity is unrelated to productive use.
-- **D - Incorrect.** Brand uniformity may reduce local fit and is not an outcome indicator.
-
-**MCQ 71. A horticulture cluster raises output but farm-gate price falls. What failed most directly?**
-
-A. Laboratory invention alone
-B. The definition of yield
-C. Production-market convergence and value absorption
-D. The distinction between annual and perennial crops
-
-**MCQ 71: C**
-
-- **A - Incorrect.** The premise reports higher output, so laboratory invention is not the immediate failed link.
-- **B - Incorrect.** Yield measurement does not explain why a larger harvest earns less.
-- **C - Correct.** Storage, processing, aggregation or demand failed to absorb supply and preserve farm-gate value.
-- **D - Incorrect.** Crop-duration classification is unrelated to the observed price collapse.
-
-**MCQ 72. A cluster selects only irrigated large farmers. Which risk is present?**
-
-A. Environmental rebound only
-B. A notification delay only
-C. A botanical-origin error
-D. Cream-skimming and biased distributional incidence
-
-**MCQ 72: D**
-
-- **A - Incorrect.** Rebound concerns aggregate resource use after efficiency gains, not selection of advantaged beneficiaries.
-- **B - Incorrect.** A notification delay is an implementation-status issue and does not describe biased enrolment.
-- **C - Incorrect.** Botanical origin has no connection to beneficiary incidence.
-- **D - Correct.** Selecting easy, well-resourced cases inflates apparent performance and excludes groups facing higher constraints.
-
-**MCQ 73. Water use per tonne falls but total basin withdrawal rises. What explains it?**
-
-A. Rebound through expanded area or intensity
-B. Guaranteed conservation
-C. Deadweight alone
-D. A lower yield
-
-**MCQ 73: A**
-
-- **A - Correct.** Efficiency reduced water per unit, but induced expansion increased total withdrawal—the defining rebound mechanism.
-- **B - Incorrect.** Conservation must be measured in aggregate; per-tonne efficiency alone cannot guarantee it.
-- **C - Incorrect.** Deadweight concerns subsidising action that would occur anyway, not higher resource use caused by expansion.
-- **D - Incorrect.** A lower yield is neither stated nor needed to explain the increase in basin withdrawal.
-
-**MCQ 74. An old mission function remains valuable after the mission closes. What is the best response?**
-
-A. Discard all capability
-B. Mainstream the proven function with budget, staff and accountability
-C. Continue the old label indefinitely
-D. Create a campaign without service capacity
-
-**MCQ 74: B**
-
-- **A - Incorrect.** Closure of a temporary vehicle need not destroy a valuable recurring public capability.
-- **B - Correct.** Mainstreaming embeds the validated service in ordinary staffing, finance and accountability.
-- **C - Incorrect.** Keeping an obsolete label can preserve exceptional governance without a continuing justification.
-- **D - Incorrect.** Mobilisation cannot replace the operational capacity required to deliver the service.
-
-**MCQ 75. Why is the 2021 palm-oil PYQ not assigned an answer letter here?**
-
-A. The question has no correct option
-B. Palm oil has no industrial uses
-C. The audited local final official key is unavailable, so statement learning is preserved without inferring a key
-D. Prelims questions cannot be discussed conceptually
-
-**MCQ 75: C**
-
-- **A - Incorrect.** The absence of an assigned key reflects verification discipline, not a defect in the question.
-- **B - Incorrect.** The question itself recognises non-food industrial uses such as cosmetics and biodiesel.
-- **C - Correct.** Without the matched final official key, the session teaches statement-level facts while avoiding an unsupported option claim.
-- **D - Incorrect.** Conceptual analysis of Prelims statements is useful even when final-key evidence is unavailable.
-
-## Error clinic
-
-| Predictable error | Diagnostic correction |
-|---|---|
-| “Mission” means any scheme with that word | Inspect problem, coordination, authority, outcome and review. |
-| Approval equals implementation | Track notification, guidelines, release, delivery, adoption and outcome separately. |
-| More production means higher income | Subtract cost and test price, loss, quality and bargaining. |
-| Oilseeds and oil palm are interchangeable | Separate annual and perennial systems, resource needs and processing. |
-| Demonstration proves diffusion | Check repeated non-demo adoption and durability. |
-| National average proves inclusion | Disaggregate farm size, tenancy, gender, irrigation, region and service access. |
-| Efficient per unit means ecologically sustainable | Measure total water, land, chemicals and landscape change. |
-| Before-after proves mission effect | Construct a credible counterfactual and test confounders. |
+| Error pattern | Return lesson | Corrective drill |
+|---|---:|---|
+| Mission title treated as design proof | 1-2 | Classify three instruments by function and success test. |
+| Approval or expenditure treated as impact | 3 | Rebuild the approval-to-impact ladder. |
+| Historical and current names merged | 4 | Draw a dated predecessor-successor strip. |
+| Output equated with food security or income | 5-6 | Decompose area, yield, prices, costs and losses. |
+| Oilseeds and oil palm merged | 7 | Compare duration, processing, resource and market risks. |
+| Technology reduced to an asset | 9 | Rebuild the complete capability stack. |
+| Non-adoption blamed on awareness | 11-12 | Calculate full risk-adjusted cost for two farm types. |
+| Federal timing and markets ignored | 13-14 | Map seasonal responsibilities and complements. |
+| One proxy trusted as impact | 15-17 | Add companion outcomes and a counterfactual. |
+| Unit efficiency treated as sustainability | 18 | Compare per-unit and aggregate resource indicators. |
+| Temporary label confused with recurring capability | 19-20 | Choose scale, mainstream, redesign or sunset. |
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -3337,11 +2448,11 @@ Agricultural mission-mode policy is a focused governance approach that coordinat
 
 DARE/ICAR -> institutes -> SAUs/adaptive trials -> seed/nursery/manufacturing multiplication -> KVK testing and demonstration -> ATMA/state extension -> finance/service/FPO -> repeated farmer adoption -> market and processing -> feedback -> research and policy redesign.
 
-## Adoption test
+## Optional Advanced refinement — adoption threshold
 
 A farmer adopts when expected discounted benefit exceeds purchase, finance, learning, transition, failure, irreversibility and switching costs relative to the current practice. Thresholds vary by farm size, tenure, gender, irrigation, agro-climate, risk tolerance, credit, service and market access.
 
-## Governance failures
+## Optional Advanced refinements — governance failures
 
 - late release and weak absorptive capacity;
 - siloed Centre-state-agency responsibilities;
@@ -3355,7 +2466,7 @@ A farmer adopts when expected discounted benefit exceeds purchase, finance, lear
 - ecological rebound;
 - indefinite continuation without learning.
 
-## Evaluation ladder
+## Optional Advanced refinement — evaluation ladder
 
 - outlay: announced resource;
 - input: staff, seed, asset, system;
@@ -3378,7 +2489,7 @@ Definition -> representative mission families -> research-to-adoption mechanism 
 |---|---|
 | Mission theory, public rationale and innovation direction | Lessons 1-3 |
 | Instrument distinctions and implementation status ladder | Lessons 2-3 |
-| Theory of change, convergence and accountability | Lessons 3, 13-16 |
+| Core status/evidence ladder and accountability | Lessons 3 and 13 |
 | History, vintage and predecessor-successor chains | Lesson 4 |
 | NFSM/NFSNM, area-yield-production and income caveat | Lesson 5; final calculations |
 | NHM/MIDH, perishability and 2018 PYQ | Lesson 6; PYQ section |
@@ -3386,16 +2497,17 @@ Definition -> representative mission families -> research-to-adoption mechanism 
 | Pulses, cotton, jute, bamboo and beekeeping | Lesson 8 |
 | Seeds, soil, mechanisation, extension, protection and resilience | Lesson 9 |
 | ICAR/DARE, SAUs, KVKs, ATMA and institutional chain | Lesson 10 |
-| Adoption threshold and diffusion | Lesson 11 |
-| Farm size, tenancy, gender, irrigation and regional heterogeneity | Lesson 12 |
-| Finance, Centre-state incentives and principal-agent chain | Lesson 13 |
-| Procurement, markets, processing and convergence | Lesson 14 |
+| Lab-to-land trial, repeated use and feedback | Lesson 11 |
+| Foundational farm size, tenancy, gender, irrigation and regional inclusion | Lesson 12 |
+| Finance, Centre-state incentives and seasonal delivery | Lesson 13 |
+| Procurement, markets, processing and Core convergence rule | Lesson 14 |
+| Mission-oriented innovation, weakest-link complementarity and portfolio choice | Lesson 15 |
 | Goodhart, additionality, deadweight, displacement, capture and lock-in | Lesson 15 |
-| Outlay-to-impact monitoring | Lesson 16 |
-| Attribution, counterfactual, cost and durability | Lesson 17 |
+| Principal-agent controls and outlay-to-impact monitoring | Lesson 16 |
+| Advanced adoption thresholds, diffusion, distribution/labour incidence, theory of change, counterfactual, cost and durability | Lesson 17 |
 | Rebound, portfolio choice and RAD cross-link | Lesson 18 |
 | Mainstream, sunset, successor and redesign | Lesson 19 |
-| Integrated audit and 2026 GS-III answer method | Lesson 20 |
+| Advanced scheme-to-outcome convergence, integrated audit and 2026 GS-III answer method | Lesson 20 |
 | 2021 palm-oil PYQ with no inferred key | Verified PYQ section |
 | 2024-2025 ledger audit result | Verified PYQ section |
 | Worked arithmetic: production, break-even and cost-effectiveness | Original Mains practice |
@@ -3403,25 +2515,25 @@ Definition -> representative mission families -> research-to-adoption mechanism 
 
 # SOURCE LEDGER
 
-| Source | Publisher | Publication/status/retrieval date | Proposition used | Limitation/access status |
-|---|---|---|---|---|
-| `upsc-ai-kit\knowledge\Economy\basic\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` | Local audited UPSC knowledge base | Audited local version read 25 September 2026 | Core definitions, chronology, mission families, institutions, NHM approach and traps | Canonical synthesis; mutable claims separately status-checked |
-| `upsc-ai-kit\knowledge\Economy\advanced\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` | Local audited UPSC knowledge base | Read 25 September 2026 | Mission-oriented innovation, weakest link, adoption, Goodhart, lock-in, evaluation and reform | Analytical source; not an official status page |
-| Topic 29 Learner-v2 package and solved workbook paths specified in the audit | Local repository | Read/audited 25 September 2026 | Completeness cross-check, PYQ demand and practice gaps | Not allowed to override live-session rules; solved PYQ prose not imported as PYQ answers |
-| `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md` | Local official-paper audit ledger | Verified local ledger, read 25 September 2026 | Exact 2026 GS-III Q3 wording; 10 marks/150 words | Ledger is the local verification authority |
-| `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md` | Local official-paper routing audit | Read 25 September 2026 | 2018 GS-III Q13 routing, directive, marks and words | Exact wording also cross-checked in local topic workbook transcription |
-| `_PYQ-ROUTING-PRELIMS-2018-2023.md` | Local official-paper routing audit | Read 25 September 2026 | 2021 Prelims palm-oil demand | Final official key unavailable locally; no answer inferred |
-| `_PYQ-ROUTING-PRELIMS-2026.md` and `notes\Economy\PYQ_Prelims_Economy_2026.md` | Local 2026 audit/provisional digest | Read 25 September 2026 | RAD demand and Topic 14 routing | Local key explicitly provisional; no final key asserted |
-| `PYQ-INTEGRATION-AUDIT-2024-2025.md` and underlying routing ledgers | Local audit | Read 25 September 2026 | No additional directly owned 2024-2025 question | Absence of route is not absence of syllabus relevance |
-| `books\Indian economy ramesh singh.pdf` | Local OCR-searchable economy book | Local edition queried 25 September 2026 | Standard public-policy and agriculture formulation cross-check | No invented page precision; extraction search was slow and not used for mutable facts |
-| `books\economic-survey-2025-26.pdf` | Government of India, local copy | Economic Survey 2025-26; queried 25 September 2026 | Dated agriculture/umbrella architecture cross-check | Direct web chapter URL returned HTTP 403; local copy used cautiously |
-| https://agriwelfare.gov.in/en/Oilseeds | Department of Agriculture and Farmers Welfare | Page fetched 25 September 2026 | NMEO-OS approval 3 October 2024, period 2024-25 to 2030-31; separate NMEO-OP launch 2021-22 and value-chain architecture | Targets/outlays are official policy claims, not independently verified outcomes |
-| https://agriwelfare.gov.in/en/PulseMission | Department of Agriculture and Farmers Welfare | Page fetched 25 September 2026 | Centrally sponsored pulses mission; 2025-26 to 2030-31; tur, urad, masoor; Rs 11,440 crore stated outlay | Page content was in Hindi; proposition used is a direct translation, not an outcome claim |
-| https://pib.gov.in/PressReleasePage.aspx?PRID=2173547 | PIB | Cabinet approval dated 1 October 2025; official indexed record verified 25 September 2026 | Mission for Aatmanirbharta in Pulses approval, six-year period and Rs 11,440 crore outlay | Policy design and targets are not reported as achieved outcomes |
-| https://pib.gov.in/Pressreleaseshare.aspx?PRID=2114891 | PIB | Official release for 2024-25; indexed record verified 25 September 2026 | NFSM renamed National Food Security & Nutrition Mission during 2024-25 | Rename/status evidence; mission outcomes require separate evaluation |
-| https://agriwelfare.gov.in/en/GuidePulseMission | Department of Agriculture and Farmers Welfare | Retrieved 25 September 2026; page displayed Last Updated 23 September 2026 | Confirmed current ministry ownership/status shell | Retrieval exposed no substantive guideline text beyond site metadata |
-| https://agriwelfare.gov.in/Documents/midh_Guidelines.pdf | Department of Agriculture and Farmers Welfare | Official binary fetched 25 September 2026 | MIDH is governed through official operational guidelines | Binary was not text-simplified by web fetch; no new numeric claim imported |
-| https://pib.gov.in/PressReleasePage.aspx?PRID=2258111&reg=3&lang=1 | PIB | Cabinet approval dated 5 May 2026; official indexed record verified 25 September 2026 | Mission period, Rs 5,659.22 crore outlay and three mini-missions | Direct page fetch returned HTTP 403; official indexed release content was independently verified |
-| PM India cotton mission release | Prime Minister of India | Cabinet approval dated 5 May 2026; official indexed record verified 25 September 2026 | Corroborated mission approval, duration and outlay | Direct page fetch returned HTTP 403; no unsupported claim imported |
-| https://icar.gov.in/index.php/en/krishi-vigyan-kendras-kvks | ICAR | Retrieval attempted 25 September 2026 | Intended current KVK mandate corroboration | Transport/DNS/TLS failure; only stable locally audited roles used |
-| Economic Survey agriculture chapter URL at indiabudget.gov.in | Ministry of Finance | Retrieval attempted 25 September 2026 | Intended official web corroboration of Survey chapter | HTTP 403; local PDF used, no unsupported current web claim |
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Economy\basic\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` audited for complete Core ownership |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Layered/complete session | checked | `live_sessions\Economy\29-Agricultural-Technology-Missions-Mission-Mode-Policy\Learning-Session-Live-Edition.md` is the permitted in-place session repaired here; no separate package supplied source content |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Economy\advanced\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md` audited and placed only after Core completion |
+| OCR books | checked | `books\Indian economy ramesh singh.pdf` and `books\economic-survey-2025-26.pdf` were the permitted local OCR sources; only stable concepts and explicitly dated evidence were used |
+| PYQs through 2026 | checked | `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` and `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md` controlled wording, ownership and key cautions |
+| Official live sources | checked | On 3 October 2026, `https://agriwelfare.gov.in/en/Oilseeds` returned substantive text and the NMEO-OS/MIDH PDF URLs returned official PDF content; the two listed PIB URLs returned HTTP 403, so no live factual claim is attributed to their page bodies |
+
+## Detailed provenance
+
+- Core owner: `upsc-ai-kit\knowledge\Economy\basic\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`.
+- Optional Advanced owner: `upsc-ai-kit\knowledge\Economy\advanced\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md`.
+- Exact 2026 GS-III control: `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`.
+- Historical controls: `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`, `upsc-ai-kit\knowledge\PYQ-INTEGRATION-AUDIT-2026.md` and `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`.
+- Permitted OCR paths: `books\Indian economy ramesh singh.pdf` and `books\economic-survey-2025-26.pdf`.
+- Official records: `https://agriwelfare.gov.in/en/Oilseeds`; `https://agriwelfare.gov.in/Documents/NMOOP20114.pdf`; `https://agriwelfare.gov.in/Documents/NMEO_OS_GUIEDELINES_En_030625.pdf`; `https://agriwelfare.gov.in/Documents/midh_Guidelines.pdf`; `https://agriwelfare.gov.in/sites/default/files/NMSA_Guidelines_English_1.pdf`; `https://pib.gov.in/Pressreleaseshare.aspx?PRID=1697113`; `https://pib.gov.in/newsite/PrintRelease.aspx?relid=83734`; `https://pib.gov.in/PressReleasePage.aspx?PRID=2258111&reg=3&lang=1`. Retrieval on 3 October 2026 confirmed the Agriculture Ministry text/PDF endpoints; the two `Pressreleaseshare`/`PressReleasePage` PIB endpoints returned HTTP 403 and are retained only as exact provenance URLs.
+- Policy approvals, stated outlays and targets remain official policy claims; they are not represented as independently verified adoption or outcomes.
