@@ -244,6 +244,7 @@
 | Polity | Topic 41 - Public Services | 16 | 33,943 | `0c31cb24a6b0` | [Polity/41-Public-Services/Learning-Session-Live-Edition.md](Polity/41-Public-Services/Learning-Session-Live-Edition.md) |
 | Polity | Topic 42 - Anti-Defection Law | 18 | 39,736 | `6c952e6a711b` | [Polity/42-Anti-Defection-Law/Learning-Session-Live-Edition.md](Polity/42-Anti-Defection-Law/Learning-Session-Live-Edition.md) |
 | Polity | Topic 43 - Political Parties | 15 | 35,572 | `d2d3001c9ba6` | [Polity/43-Political-Parties/Learning-Session-Live-Edition.md](Polity/43-Political-Parties/Learning-Session-Live-Edition.md) |
+| Polity | Topic 44 - Pressure Groups | 14 | 32,749 | `75bf178e3351` | [Polity/44-Pressure-Groups/Learning-Session-Live-Edition.md](Polity/44-Pressure-Groups/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
