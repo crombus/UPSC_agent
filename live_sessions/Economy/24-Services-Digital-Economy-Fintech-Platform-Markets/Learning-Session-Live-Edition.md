@@ -1,34 +1,37 @@
 ## Economy 24 - Services, Digital Economy, Fintech and Platform Markets
 
-> Learner-facing live edition. Mutable claims carry publication/update date, status and retrieval date. Retrieval date for live pages: **25 September 2026 (Asia/Kolkata)**. Actual PYQs are mapped for demand and approach only; no actual-PYQ model answer or option key is supplied.
+> Learner-facing live edition. Mutable claims carry publication/update date, status and retrieval date. Current official docket reviewed through **3 October 2026 (Asia/Kolkata)**. Actual PYQs are mapped for demand and approach only; no actual-PYQ model answer or option key is supplied.
 
-## Frozen roadmap - 14 lessons
+## Frozen roadmap - 15 lessons
 
 | Lesson | Stage | Boundary |
 |---:|---|---|
-| 1 | Foundation | Services classification, value added, productivity and measurement |
-| 2 | Foundation | Services trade and GATS Modes 1-4 |
-| 3 | Core | IT-BPM and Global Capability Centres |
+| 1 | Foundation | Services structure, classification, GVA, productivity, employment and measurement |
+| 2 | Foundation | Services trade, balance-of-payments logic and GATS Modes 1-4 |
+| 3 | Core | IT-BPM, Global Capability Centres, cloud and AI-enabled upgrading |
 | 4 | Core | Tourism, logistics and professional services |
-| 5 | Core | DPI architecture and network effects |
+| 5 | Core | Digital economy, data, cloud, AI, e-commerce, DPI and network effects |
 | 6 | Core | UPI mechanics, settlement, MDR, NFS and authentication |
-| 7 | Advanced | Fintech lending, BNPL, Account Aggregator consent and liability |
-| 8 | Advanced | CBDC, UPI, deposits, crypto/VDA and tokenisation |
-| 9 | Advanced | Two-sided platform pricing and winner-take-most dynamics |
-| 10 | Advanced | Switching costs, ONDC, dropshipping, crowdfunding and contestability |
-| 11 | Core | Gig and platform-work economics, cross-linked to Topic 22 |
-| 12 | Advanced | Competition, privacy, consumer protection and cyber risk |
-| 13 | Advanced | Digital divide, tax boundaries and digital productivity measurement |
-| 14 | Advanced | Integrated India strategy and answer synthesis |
+| 7 | Core | Fintech lending, BNPL, Account Aggregator consent and liability |
+| 8 | Core | CBDC, deposits, blockchain, crypto/VDA, NFT and tokenisation |
+| 9 | Core | Two-sided platform pricing and winner-take-most dynamics |
+| 10 | Core | Switching costs, e-commerce models, ONDC, dropshipping and crowdfunding |
+| 11 | Core | Gig and platform-work economics, with labour-law boundary |
+| 12 | Core | Competition, privacy, consumer protection and cyber risk |
+| 13 | Core | Digital divide, taxation boundaries and digital-productivity measurement |
+| 14 | Core synthesis | Integrated India strategy and answer construction |
+| 15 | Optional Advanced | Measurement frontiers, cloud/AI concentration, platform contestability, CBDC design and regulatory perimeter |
+
+> **Sequence lock:** Lessons 1-14 complete the answer-ready Core. Lesson 15 is optional enrichment and is not required for a sound Core answer.
 
 ## Lesson 1 - Services classification, value added, productivity and measurement
 
-**Progress: 1 / 14 | Stage: Foundation | Subtopic: Services classification, value added, productivity and measurement**
+Progress: 1 / 15 | Stage: Foundation | Subtopic: Services classification, value added, productivity and measurement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown plus OCR-searchable *Indian Economy* and *Economic Survey 2025-26* PDFs
 CA search: "India services GVA productivity measurement Economic Survey 2025-26"
-CA found: Economic Survey 2025-26, Chapter 7, presented 29 January 2026, reports services GVA, trade and productivity evidence; official PDF checked 25 September 2026.
+CA found: Economic Survey 2025-26, Chapter 7, presented 29 January 2026, reports services GVA, trade and productivity evidence; official PDF checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Concept-specific visual
@@ -61,6 +64,23 @@ Services are hard to measure because many are customised, non-storable and co-pr
 
 Economic Survey 2025-26 treats services as a major source of growth and trade, but an aggregate share hides high-productivity software and low-productivity personal services. Read GVA with employment, hours, wages, firm size and informality.
 
+### Output, employment and the structural-transformation test
+
+```text
+HIGH OUTPUT SHARE + LOWER EMPLOYMENT SHARE
+                |
+                +--> high average productivity in some services
+                +--> skill and city concentration
+                +--> coexistence with a low-productivity informal tail
+
+Policy test: output -> jobs -> real earnings -> security -> diffusion
+```
+
+Economic Survey 2025-26 reports services at **53.6 per cent of GDP in H1 FY26**, services GVA growth of **9.1 per cent in the FY26 first advance estimates**, about **30 per cent of total employment**, and **61.9 per cent of urban employment**. These use different denominators. Their gap signals composition and average productivity, not proof that every service job is productive.
+
+IT, finance and professional services can create high value per worker. Trade, transport, tourism, care and personal services can absorb more labour but vary greatly in wages, formality and capital intensity. Employment quality therefore needs five tests: participation, job numbers, real earnings, productivity and protection. MoSPI's revamped PLFS improves labour frequency, while ASISSE is designed to improve incorporated-services evidence; neither fully closes the informal-services gap.
+
+
 ### Strongest criticism, reply and verdict
 
 **Criticism:** services-led growth is statistical relabelling and cannot create broad employment. **Reply:** tradable and enabling services earn foreign exchange and reduce coordination costs. **Qualified verdict:** India needs diffusion from high-productivity islands into labour-absorbing tourism, logistics, care and professional services; services and manufacturing are complements.
@@ -91,46 +111,28 @@ Economic Survey 2025-26 treats services as a major source of growth and trade, b
 
 ### Lesson-specific Mains micro-model
 
-**Question:** Why can a rising services share coexist with weak employment quality?
+**Question (10 marks, maximum 150 words):** Why can a rising services share coexist with weak employment quality?
 
 **Complete micro-model:** Define services share in GVA, then disaggregate. High-productivity tradable services raise output and exports; enabling services reduce costs elsewhere; low-productivity informal services absorb labour with weak wages. Add outsourcing, quality adjustment and free-digital-surplus caveats. Use a productivity-employment matrix to distinguish IT-BPM, logistics, tourism and personal services. Conclude with skills, formalisation, urban infrastructure and improvement of labour-intensive services rather than treating an aggregate share as proof of inclusive transformation.
 
-### Adaptive practice
+**Unique scoring rubric (10 marks):** 2 definition/GVA logic + 3 heterogeneity and employment + 3 evidence/measurement + 2 qualified verdict.
 
-**MCQ 1. A software firm bills Rs 10 crore and purchases Rs 3 crore of intermediate cloud and consultancy inputs. Ignoring product taxes and subsidies, its GVA is:**
-- A. Rs 7 crore
-- B. Rs 3 crore
-- C. Rs 10 crore
-- D. Rs 13 crore
+### Concept check
 
-**MCQ 2. Which observation most directly cautions against treating a higher service-sector share as proof of higher real productivity?**
-- A. All services are non-tradable.
-- B. The share may rise because service prices or outsourcing classifications changed.
-- C. Services never use intermediate inputs.
-- D. Employment must rise in exactly the same proportion as GVA.
+**Question:** A services share rises after manufacturers outsource logistics. What must be checked before calling this a productivity gain?
 
-#### Answers and four-option explanations
+**Model answer:** Check real output and hours, subtract intermediate inputs, separate reclassification from efficiency, and examine jobs, earnings and service quality. Outsourcing can change measured composition without changing the physical task, though specialisation may still create genuine gains.
 
-**MCQ 1: A**
-- **A - Correct.** Rs 10 crore minus Rs 3 crore equals Rs 7 crore.
-- **B - Incorrect.** This is intermediate consumption, not value added.
-- **C - Incorrect.** This is gross output and double counts purchased inputs.
-- **D - Incorrect.** Inputs are subtracted, not added.
-
-**MCQ 2: B**
-- **A - Incorrect.** Many services are internationally tradable.
-- **B - Correct.** Prices and reclassification can move a nominal sector share without equal real productivity gain.
-- **C - Incorrect.** Services purchase fuel, cloud, rent and other inputs.
-- **D - Incorrect.** Productivity permits output and employment to move differently.
+**Misconception to avoid:** A larger services share is not proof of higher productivity or better employment.
 
 ## Lesson 2 - Services trade and GATS Modes 1-4
 
-**Progress: 2 / 14 | Stage: Foundation | Subtopic: Services trade and GATS Modes 1-4**
+Progress: 2 / 15 | Stage: Foundation | Subtopic: Services trade and GATS Modes 1-4
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown plus OCR-searchable local books
 CA search: "India services exports FY 2025-26 GATS Modes 1 2 3 4 official"
-CA found: Ministry of Commerce and Industry release dated 24 July 2026 reports FY2025-26 services exports; WTO GATS training module is a stable treaty explanation, checked 25 September 2026.
+CA found: Ministry of Commerce and Industry release dated 24 July 2026 reports FY2025-26 services exports; WTO GATS training module is a stable treaty explanation, checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Border-crossing visual
@@ -193,71 +195,45 @@ No locally owned exact objective PYQ through 2026 asks all four modes together. 
 
 ### Lesson-specific Mains micro-model
 
-**Question:** Explain why GATS modes are economically linked but legally distinct.
+**Question (10 marks, maximum 150 words):** Explain why GATS modes are economically linked but legally distinct.
 
 **Complete micro-model:** Open with Article I:2's territorial test. Give one India-centred example for each mode. Show complementarity through software using remote delivery, temporary specialists and an affiliate. Distinguish scheduled market access/national treatment from BOP recording. Discuss India's interest in Mode 1 scale and Mode 4 mobility, balanced by data protection, prudential regulation and qualification standards. Conclude that negotiation must address the full service value chain.
 
-### Applied practice
+**Unique scoring rubric (10 marks):** 2 mode definitions + 3 territorial application + 3 India/trade constraint + 2 conclusion.
 
-**MCQ 3. An Indian consultancy establishes a subsidiary abroad to serve clients in that market. The principal GATS mode is:**
-- A. Mode 1
-- B. Mode 2
-- C. Mode 3
-- D. Mode 4
+### Concept check
 
-**MCQ 4. A German patient travels to Bengaluru for surgery. The principal GATS mode is:**
-- A. Mode 1
-- B. Mode 3
-- C. Mode 4
-- D. Mode 2
+**Question:** An Indian architect emails designs abroad and later travels briefly to supervise. Which GATS modes operate?
 
-**MCQ 5. Which statement best distinguishes Mode 3 from conventional cross-border service exports?**
-- A. A locally incorporated foreign-owned supplier may serve host-country consumers.
-- B. The consumer must travel.
-- C. Only temporary workers are covered.
-- D. Foreign investment is excluded.
+**Model answer:** Remote delivery is Mode 1 because the service crosses the border; temporary travel by the architect is Mode 4 because the natural-person supplier moves.
 
-**MCQ 6. A national-treatment commitment principally addresses:**
-- A. equal treatment among trading partners only
-- B. discrimination between foreign and domestic like services or suppliers
-- C. tariffs on imported goods
-- D. automatic recognition of every foreign qualification
+**Misconception to avoid:** Mode follows who or what crosses the border, not the label digital or professional.
 
-#### Answers and four-option explanations
+## Lesson 3 - IT-BPM, Global Capability Centres, cloud and AI-enabled upgrading
 
-**MCQ 3: C**
-- **A - Incorrect.** Mode 1 supplies across the border without commercial establishment.
-- **B - Incorrect.** Mode 2 requires the consumer to travel.
-- **C - Correct.** A subsidiary is commercial presence in the host market.
-- **D - Incorrect.** Mode 4 concerns temporary presence of a supplier-person.
-
-**MCQ 4: D**
-- **A - Incorrect.** Mode 1 has no consumer travel.
-- **B - Incorrect.** Mode 3 requires commercial presence.
-- **C - Incorrect.** Mode 4 concerns a supplier-person travelling.
-- **D - Correct.** The consumer moves to the supplier country.
-
-**MCQ 5: A**
-- **A - Correct.** Mode 3 can produce host-resident transactions through commercial presence.
-- **B - Incorrect.** That is Mode 2.
-- **C - Incorrect.** That is Mode 4.
-- **D - Incorrect.** Mode 3 is founded on establishment/investment.
-
-**MCQ 6: B**
-- **A - Incorrect.** That describes MFN logic.
-- **B - Correct.** National treatment compares foreign and domestic treatment.
-- **C - Incorrect.** GATS concerns services, not a goods tariff definition.
-- **D - Incorrect.** Recognition remains separately negotiated/regulatory.
-
-## Lesson 3 - IT-BPM and Global Capability Centres
-
-**Progress: 3 / 14 | Stage: Core | Subtopic: IT-BPM and Global Capability Centres**
+Progress: 3 / 15 | Stage: Core | Subtopic: IT-BPM, Global Capability Centres, cloud and AI-enabled upgrading
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown and both mandatory OCR-searchable PDFs
 CA search: "India IT BPM Global Capability Centres Economic Survey 2025-26 AI services exports"
-CA found: Economic Survey 2025-26, presented 29 January 2026, reports FY2025 IT-ITeS estimates and FY2024 GCC counts/employment; checked 25 September 2026.
+CA found: Economic Survey 2025-26, presented 29 January 2026, reports FY2025 IT-ITeS estimates and FY2024 GCC counts/employment; checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Cloud and AI change the service-production function
+
+```text
+compute + data + models + domain knowledge
+                 |
+        automate routine components
+                 |
+ augment design, diagnosis, coding and decisions
+                 |
+new exports/productivity -- concentration, bias and job redesign
+```
+
+Cloud computing supplies infrastructure, platforms or software on demand. It lowers fixed cost and speeds scaling, but dependence on a few hyperscale providers creates switching, outage, data-location and bargaining risks. AI is layered over data, compute and domain processes. In IT-BPM and GCCs it can automate routine coding, testing and support while raising demand for model evaluation, cyber security, engineering, domain expertise and accountable human review.
+
+The correct labour inference is task transformation, not the claim that an occupation either survives unchanged or disappears. India's upgrading objective is to own more architecture, intellectual property, research, product management and client responsibility while reskilling workers displaced from routine tasks.
 
 ### Value-ladder visual
 
@@ -313,58 +289,28 @@ GCCs transform the wider economy when workers move, domestic vendors learn, univ
 
 ### Lesson-specific Mains micro-model
 
-**Question:** Can GCC expansion produce broad structural transformation in India?
+**Question (10 marks, maximum 150 words):** Can GCC expansion produce broad structural transformation in India?
 
 **Complete micro-model:** Define GCCs and distinguish vendors. Present high-value exports, skilled jobs, supplier learning, research links and managerial capabilities. Test breadth through city concentration, routine-task automation, foreign-demand dependence and enclave ownership of IP. Use the value ladder and dated Survey evidence. Recommend university-industry research, tier-2 infrastructure, apprenticeship, cyber standards and supplier development. Conclude that GCCs transform only when captive mandates create transferable capability beyond the enclave.
 
-### Diagnostic practice
+**Unique scoring rubric (10 marks):** 2 value ladder + 3 cloud/AI mechanism + 3 spillovers/limits + 2 upgrading remedy.
 
-**MCQ 7. Which feature most clearly distinguishes a GCC from a third-party vendor?**
-- A. It must be government-owned.
-- B. It serves only domestic retail customers.
-- C. It is an offshore unit serving its own corporate group's global operations.
-- D. It cannot undertake engineering.
+### Concept check
 
-**MCQ 8. IT export revenue rises while routine employment grows slowly. Which explanation is coherent?**
-- A. Productivity must have fallen.
-- B. Every contract has identical labour intensity.
-- C. Exchange rates cannot affect revenue.
-- D. Automation and movement to higher-value tasks raised revenue per worker.
+**Question:** When does a GCC become a domestic capability engine rather than an enclave?
 
-**MCQ 9. Which policy most directly reduces enclave risk?**
-- A. Deepen local research, supplier and worker-mobility linkages.
-- B. Prevent employee movement.
-- C. Restrict GCCs to routine tasks.
-- D. Measure success only by floor area.
+**Model answer:** When higher-value mandates, worker mobility, domestic suppliers, research links and transferable knowledge diffuse beyond the captive centre. Headcount alone does not prove spillovers.
 
-#### Answers and four-option explanations
-
-**MCQ 7: C**
-- **A - Incorrect.** GCCs are generally private multinational captive units.
-- **B - Incorrect.** Their mandate is global internal operation.
-- **C - Correct.** Captive ownership and internal mandate define a GCC.
-- **D - Incorrect.** Advanced GCCs increasingly undertake engineering and R&D.
-
-**MCQ 8: D**
-- **A - Incorrect.** Higher revenue per worker is consistent with higher productivity.
-- **B - Incorrect.** Task mix varies.
-- **C - Incorrect.** Currency movements affect reported dollar revenue.
-- **D - Correct.** Output, price and complexity can rise faster than headcount.
-
-**MCQ 9: A**
-- **A - Correct.** Spillovers travel through people, suppliers and knowledge institutions.
-- **B - Incorrect.** It blocks diffusion.
-- **C - Incorrect.** It freezes the low-value model.
-- **D - Incorrect.** Real capability is not measured by real estate.
+**Misconception to avoid:** Foreign ownership or scale does not automatically create domestic technology diffusion.
 
 ## Lesson 4 - Tourism, logistics and professional services
 
-**Progress: 4 / 14 | Stage: Core | Subtopic: Tourism, logistics and professional services**
+Progress: 4 / 15 | Stage: Core | Subtopic: Tourism, logistics and professional services
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown and OCR-searchable local books
 CA search: "tourism logistics professional services India Economic Survey 2025-26 jobs"
-CA found: Economic Survey 2025-26, Chapter 7, presented 29 January 2026, assesses tourism, logistics and professional-service frontiers; checked 25 September 2026.
+CA found: Economic Survey 2025-26, Chapter 7, presented 29 January 2026, assesses tourism, logistics and professional-service frontiers; checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### A destination is a chain
@@ -386,6 +332,12 @@ Logistics coordinates transport, storage, warehousing, freight information, cust
 This excludes spoilage and lost sales. Reliability may matter more than a small nominal freight-price reduction.
 
 Professional services--law, accounting, architecture, engineering, health and education--are knowledge-intensive and often licence-bound. They can use all GATS modes. Trade depends on qualification recognition, liability rules, ethics, data protection and trust.
+
+### Tourism and professional-services evidence
+
+Tourism is jointly produced by transport, accommodation, food, local mobility, guides, culture, safety, sanitation, digital discovery and payments. The Ministry of Tourism dashboard reports **9.15 million foreign tourist arrivals in 2025** and foreign-exchange earnings of about **Rs 2.7 lakh crore (approximately USD 31.69 billion)**. These are dated indicators, not permanent capacities; interpretation also needs length of stay, domestic tourism, prices and local retention.
+
+Professional services--legal, accounting, architecture, engineering, consulting, health and education--depend on trust, licensing and recognised qualifications. Mode 1 can deliver advice remotely; Mode 4 can move a professional temporarily. Mutual Recognition Agreements can lower qualification barriers without erasing public-interest quality regulation.
 
 ### Domestic multipliers and leakage
 
@@ -423,59 +375,43 @@ Logistics productivity spreads to farms and factories through lower loss, smalle
 
 ### Lesson-specific Mains micro-model
 
-**Question:** How can India expand labour-intensive services without sacrificing quality and sustainability?
+**Question (10 marks, maximum 150 words):** How can India expand labour-intensive services without sacrificing quality and sustainability?
 
 **Complete micro-model:** For tourism, improve destination public goods, local supply chains and carrying-capacity governance. For logistics, integrate multimodal infrastructure, information and predictable customs to reduce total landed cost. For professional services, combine standards with transparent licensing and mutual recognition. Add worker skills, contracts and social protection. Use the delay-cost calculation. End with domestic value added and decent jobs per unit of ecological/logistical resource, not gross traffic alone.
 
-### Chain-based practice
+**Unique scoring rubric (10 marks):** 2 chain definition + 3 tourism/logistics mechanism + 3 professional-service evidence + 2 qualification.
 
-**MCQ 10. Which item is a logistics cost even when no extra freight charge is paid?**
-- A. Only customs tariff
-- B. Inventory financing caused by uncertain delay
-- C. Only driver wage
-- D. Only warehouse purchase price
+### Concept check
 
-**MCQ 11. Why may gross inbound-tourism receipts overstate local development gain?**
-- A. Inbound tourism is never an export.
-- B. Visitors cannot create employment.
-- C. Spending may leak through imported inputs and external intermediaries.
-- D. Tourism has no backward linkage.
+**Question:** Why can better tourism logistics raise income even if the ticket price does not fall?
 
-**MCQ 12. What is the best test for an entry restriction in a professional service?**
-- A. Incumbents prefer it.
-- B. It eliminates foreign suppliers.
-- C. It increases paperwork.
-- D. It is proportionate to a genuine quality or public-interest risk.
+**Model answer:** Reliability lowers buffers, waiting and uncertainty; longer stays and local sourcing can raise retained value. The gain lies in the whole service chain, not only the fare.
 
-#### Answers and four-option explanations
+**Misconception to avoid:** Tourism is not a single hotel output, and visitor spending is not identical to local value added.
 
-**MCQ 10: B**
-- **A - Incorrect.** Tariff is only one possible cost.
-- **B - Correct.** Capital tied in delayed inventory has an opportunity cost.
-- **C - Incorrect.** Labour cost is not the full chain cost.
-- **D - Incorrect.** Ownership price omits flow and uncertainty costs.
+## Lesson 5 - Digital economy, data, cloud, AI, e-commerce, DPI and network effects
 
-**MCQ 11: C**
-- **A - Incorrect.** Foreign consumption in India is a Mode 2 export.
-- **B - Incorrect.** Tourism is employment intensive.
-- **C - Correct.** Domestic value depends on local retention and sourcing.
-- **D - Incorrect.** Tourism has many backward linkages.
-
-**MCQ 12: D**
-- **A - Incorrect.** Incumbent preference is not public interest.
-- **B - Incorrect.** Blanket exclusion is not proportionality.
-- **C - Incorrect.** Administrative burden is not proof of quality protection.
-- **D - Correct.** Legitimate regulation should be transparent and proportionate.
-
-## Lesson 5 - Digital public infrastructure architecture and network effects
-
-**Progress: 5 / 14 | Stage: Core | Subtopic: Digital public infrastructure architecture and network effects**
+Progress: 5 / 15 | Stage: Core | Subtopic: Digital economy, data, cloud, AI, e-commerce, DPI and network effects
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown and mandatory local PDFs
 CA search: "India digital public infrastructure interoperability Economic Survey 2025-26"
-CA found: Economic Survey 2025-26, presented 29 January 2026, analyses interoperable DPI and inclusion; ONDC official live architecture page is undated and was checked 25 September 2026.
+CA found: Economic Survey 2025-26, presented 29 January 2026, analyses interoperable DPI and inclusion; ONDC official live architecture page is undated and was checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### What counts as the digital economy?
+
+```text
+Digital inputs             Digital processes              Digital outputs
+connectivity/devices --> cloud/software/data/AI --> apps, content, platforms
+             \________ transaction and welfare effects ________/
+```
+
+The digital economy is not the value of every electronic payment. It includes digitally produced or enabled value: ICT goods/services, online platforms, cloud/software, data-driven processes and digitally delivered products. The MeitY-ICRIER report estimated it at **11.74 per cent of national income in 2022-23**, employing **14.67 million workers**, and projected a share approaching **20 per cent of GVA by 2029-30**. This is a dated model-based estimate and projection, not an achieved 2026 share.
+
+Data are non-rival in use, but collection, cleaning, compute, rights and access are scarce. Scale can improve models while exclusive data can entrench firms. Cloud lowers entry cost but may transfer dependence to infrastructure providers. AI can reduce search and prediction costs, but biased proxies, opacity and errors require accountable human review.
+
+E-commerce is a method of ordering and coordinating trade, not an exemption from tax, consumer, competition or foreign-investment rules. A marketplace connects third-party sellers; an inventory model owns or controls goods sold to consumers. The distinction affects liability and India's foreign-invested e-commerce perimeter.
 
 ### Stack, not super-app
 
@@ -554,60 +490,30 @@ The analogy stops at the word “world.” A virtual environment remains governe
 
 ### Lesson-specific Mains micro-model
 
-**Question:** What converts DPI from a scale project into inclusive economic infrastructure?
+**Question (10 marks, maximum 150 words):** What converts DPI from a scale project into inclusive economic infrastructure?
 
 **Complete micro-model:** Define shared standards and rails. Explain the adoption equation and cross-side effects. Use the Aadhaar-DBT-bank-account chain to show that identity, instruction and deposit are separate functions, and that failed authentication or mapping requires an exception route. State conditions: open access, interoperability, minimisation, security, redundancy, contestable applications, alternatives and enforceable remedy. Use UPI as rail-versus-app illustration without assuming every payment is inclusive. Conclude that effective capability requires connectivity, literacy, language and remedy, not registration counts alone.
 
 **Applied retrieval drill:** A statement says, “A VR headset is the metaverse, just as Aadhaar is DBT.” Correct both errors. **Model response:** the headset is an interface to a virtual environment, while the metaverse describes the persistent shared environment and its interoperability; Aadhaar supplies an identity/authentication capability, while DBT is a transfer-delivery arrangement that still depends on beneficiary records, bank-account mapping and remedy.
 
-### Architecture practice
+**Unique scoring rubric (10 marks):** 2 digital boundary + 3 data/cloud/AI mechanism + 3 DPI/e-commerce governance + 2 inclusion qualification.
 
-**MCQ 13. Which design most clearly reflects DPI?**
-- A. Common interoperable rails with multiple competing applications
-- B. One platform owns identity, payments and all sellers
-- C. Exclusive use of one proprietary interface
-- D. No cross-application transactions
+### Concept check
 
-**MCQ 14. Interoperability most directly:**
-- A. guarantees no dominant firm
-- B. reduces the need for everyone to join the same proprietary platform
-- C. eliminates cyber risk
-- D. makes consent unnecessary
+**Question:** Why is transaction value an unsafe measure of digital-economy output?
 
-**MCQ 15. In B = b + nN - p, which policy lowers the adoption threshold?**
-- A. Make N smaller.
-- B. Eliminate b.
-- C. Reduce effective access and usage cost p.
-- D. Treat authentication as blanket consent.
+**Model answer:** A sale can move from cash to UPI without equal new production. Digital output must be tied to value added in ICT, software, cloud, data, platforms or improved processes, with double counting removed.
 
-#### Answers and four-option explanations
-
-**MCQ 13: A**
-- **A - Correct.** Shared rails and app competition define the architecture.
-- **B - Incorrect.** This is vertical closure.
-- **C - Incorrect.** Exclusivity defeats interoperability.
-- **D - Incorrect.** Cross-application capability is central.
-
-**MCQ 14: B**
-- **A - Incorrect.** Concentration can persist elsewhere.
-- **B - Correct.** Cross-network reach reduces proprietary lock-in.
-- **C - Incorrect.** Interconnection can also spread operational risk.
-- **D - Incorrect.** Consent is a separate governance requirement.
-
-**MCQ 15: C**
-- **A - Incorrect.** Smaller N reduces network benefit.
-- **B - Incorrect.** Lower stand-alone value discourages adoption.
-- **C - Correct.** Lower p makes net benefit positive sooner.
-- **D - Incorrect.** It creates rights and trust problems.
+**Misconception to avoid:** Digital payment adoption is not a one-for-one addition to GDP.
 
 ## Lesson 6 - UPI mechanics, settlement, MDR, NFS and authentication
 
-**Progress: 6 / 14 | Stage: Core | Subtopic: UPI mechanics, settlement, MDR, NFS and authentication**
+Progress: 6 / 15 | Stage: Core | Subtopic: UPI mechanics, settlement, MDR, NFS and authentication
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown and OCR-searchable local books
 CA search: "RBI Annual Report 2025-26 UPI volume value settlement authentication"
-CA found: RBI Annual Report 2025-26 released 29 May 2026 reports annual payment statistics; official report checked 25 September 2026.
+CA found: RBI Annual Report 2025-26 released 29 May 2026 reports annual payment statistics; official report checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Message and money flow
@@ -670,58 +576,28 @@ Fast confirmation still needs complaint handling. Robust design uses device bind
 
 ### Lesson-specific Mains micro-model
 
-**Question:** Explain the UPI transaction chain and evaluate zero MDR.
+**Question (10 marks, maximum 150 words):** Explain the UPI transaction chain and evaluate zero MDR.
 
 **Complete micro-model:** Draw payer app, payer PSP/bank, NPCI switch, payee PSP/bank and payee app, with clearing/settlement below. Clarify that bank deposits move. Define MDR and distinguish interchange. Present acceptance, formalisation and network benefits, then cost allocation and quality risk. Use dated FY2025-26 data and the average-ticket calculation. Recommend transparent cost studies, targeted public-good support, service standards and fraud-redress duties.
 
-### Mechanics practice
+**Unique scoring rubric (10 marks):** 2 UPI flow + 3 MDR/NFS/authentication + 3 dated risk/evidence + 2 sustainable conclusion.
 
-**MCQ 16. What is transferred in an ordinary bank-account-funded UPI payment?**
-- A. RBI CBDC in every case
-- B. NPCI ownership shares
-- C. A mined crypto token
-- D. Claims on commercial-bank deposits are reallocated through payment messages
+### Concept check
 
-**MCQ 17. Which statement about MDR is most accurate?**
-- A. It is merchant-side acceptance cost; zero pricing reallocates rather than eliminates cost.
-- B. It is compulsory income tax.
-- C. It is identical to NFS switching.
-- D. It is interest on savings.
+**Question:** A UPI payment succeeds. What moved, and what did not become an RBI liability?
 
-**MCQ 18. NFS principally:**
-- A. issues Digital Rupee wallets
-- B. switches and routes ATM transactions among participants
-- C. sets the repo rate
-- D. licenses e-commerce sellers
+**Model answer:** Authenticated instructions moved commercial-bank deposits between accounts. The balance did not become CBDC merely because settlement was digital.
 
-#### Answers and four-option explanations
-
-**MCQ 16: D**
-- **A - Incorrect.** Conventional UPI and CBDC are distinct.
-- **B - Incorrect.** Payment does not transfer corporate ownership.
-- **C - Incorrect.** No mining is involved.
-- **D - Correct.** UPI messages alter deposit claims and settlement obligations.
-
-**MCQ 17: A**
-- **A - Correct.** Real costs persist under a zero-price rule.
-- **B - Incorrect.** MDR is not a tax.
-- **C - Incorrect.** NFS is an ATM switch.
-- **D - Incorrect.** It is not deposit remuneration.
-
-**MCQ 18: B**
-- **A - Incorrect.** CBDC wallets are a different pilot architecture.
-- **B - Correct.** NFS connects ATM transactions.
-- **C - Incorrect.** Monetary policy belongs to RBI/MPC.
-- **D - Incorrect.** E-commerce licensing is unrelated.
+**Misconception to avoid:** UPI is an interface, not money or a digital-rupee wallet.
 
 ## Lesson 7 - Fintech lending, BNPL, Account Aggregator consent and liability
 
-**Progress: 7 / 14 | Stage: Advanced | Subtopic: Fintech lending, BNPL, Account Aggregator consent and liability**
+Progress: 7 / 15 | Stage: Core | Subtopic: Fintech lending, BNPL, Account Aggregator consent and liability
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown and mandatory local PDFs
 CA search: "RBI Digital Lending Directions 2025 Account Aggregator consent liability fintech"
-CA found: RBI Digital Lending Directions issued 8 May 2025 and RBI NBFC-Account Aggregator Directions issued 28 November 2025 were current official frameworks checked 25 September 2026.
+CA found: RBI Digital Lending Directions issued 8 May 2025 and RBI NBFC-Account Aggregator Directions issued 28 November 2025 were current official frameworks checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Consent is a data path, not approval
@@ -788,60 +664,30 @@ Alternative data may expand inclusion by lowering verification cost, yet opaque 
 
 ### Lesson-specific Mains micro-model
 
-**Question:** How should regulation preserve fintech innovation while preventing digital over-indebtedness?
+**Question (10 marks, maximum 150 words):** How should regulation preserve fintech innovation while preventing digital over-indebtedness?
 
 **Complete micro-model:** Unbundle the chain and identify the RE. Explain lower search, verification and servicing costs, then dark patterns, fragmented BNPL, opaque scores, data misuse and recovery risk. Use the 30-day fee calculation; distinguish AA's consented data pipe from OCEN's credit-origination protocol. Recommend KFS/APR disclosure, bureau reporting, affordability across lenders, purpose-limited consent, audit, direct fund flow, cooling-off and rapid grievance redress.
 
 **Applied retrieval drill:** Why can a borrower successfully share bank data through an AA and still receive no loan through an OCEN-enabled journey? **Model response:** AA permission establishes only a lawful, scoped data flow. OCEN can standardise the request and participant messages, but the regulated lender must still assess eligibility, affordability and risk and may reject the application.
 
-### Borrower-protection practice
+**Unique scoring rubric (10 marks):** 2 AA/lending roles + 3 consent/fund flow + 3 safeguards + 2 accountability verdict.
 
-**MCQ 19. An AA consent artefact authorises six months of statements. What follows necessarily?**
-- A. The lender must approve the loan.
-- B. The AA owns the statements.
-- C. Only specified data may be transmitted for the authorised purpose; approval remains separate.
-- D. Every affiliate may reuse data indefinitely.
+### Concept check
 
-**MCQ 20. Why is a Rs 300 mandatory fee on a 30-day Rs 10,000 BNPL facility material?**
-- A. Fees are never credit cost.
-- B. Short tenor makes charges zero.
-- C. Merchant support removes borrower obligations.
-- D. It is a 3 per cent monthly cost and may imply high annualised cost.
+**Question:** Why does Account Aggregator consent not amount to loan approval?
 
-**MCQ 21. An LSP onboards and collects for a bank loan. Who retains lending responsibility?**
-- A. The regulated bank, alongside contractual/applicable duties of the LSP
-- B. Only the app store
-- C. Only the borrower
-- D. No one because it is digital
+**Model answer:** It authorises scoped data transmission. The regulated lender still underwrites, prices, approves and remains accountable for credit.
 
-#### Answers and four-option explanations
-
-**MCQ 19: C**
-- **A - Incorrect.** Data consent is not credit approval.
-- **B - Incorrect.** AA transmits; it does not acquire ownership.
-- **C - Correct.** Scope and purpose constrain the flow.
-- **D - Incorrect.** Indefinite reuse violates the consent boundary.
-
-**MCQ 20: D**
-- **A - Incorrect.** Mandatory fees are economically relevant.
-- **B - Incorrect.** Short tenor can magnify annualised cost.
-- **C - Incorrect.** Funding structure does not erase contract terms.
-- **D - Correct.** Relative cost and tenor reveal the burden.
-
-**MCQ 21: A**
-- **A - Correct.** Outsourcing does not outsource regulatory obligation.
-- **B - Incorrect.** Distribution platform is not balance-sheet lender.
-- **C - Incorrect.** Borrower duty does not replace lender duty.
-- **D - Incorrect.** Digital form does not create a regulatory vacuum.
+**Misconception to avoid:** Consent to share data is neither blanket consent nor a credit guarantee.
 
 ## Lesson 8 - CBDC, UPI, deposits, crypto, VDA and tokenisation
 
-**Progress: 8 / 14 | Stage: Advanced | Subtopic: CBDC, UPI, deposits, crypto, VDA and tokenisation**
+Progress: 8 / 15 | Stage: Core | Subtopic: CBDC, UPI, deposits, crypto, VDA and tokenisation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown and OCR-searchable local books
 CA search: "RBI Digital Rupee FAQ April 2026 CBDC UPI crypto tokenisation"
-CA found: RBI Digital Rupee FAQ updated 29 April 2026 describes continuing retail and wholesale pilots; checked 25 September 2026.
+CA found: RBI Digital Rupee FAQ updated 29 April 2026 describes continuing retail and wholesale pilots; checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### What is the legal-economic claim?
@@ -931,60 +777,30 @@ Verified routes: **2021 GS-I Q19** cryptocurrency and society; **2022 Prelims Q6
 
 ### Lesson-specific Mains micro-model
 
-**Question:** Distinguish Digital Rupee from UPI, deposits and crypto-assets, and evaluate its policy case.
+**Question (10 marks, maximum 150 words):** Distinguish Digital Rupee from UPI, deposits and crypto-assets, and evaluate its policy case.
 
 **Complete micro-model:** Use issuer-liability-settlement-risk columns. Explain creation/distribution/wallet chain and contrast wallet transfer with UPI deposit transfer. Define blockchain separately as a replicated hash-linked ledger, then classify cryptocurrency as one private-asset application and assess payment innovation against volatility, fraud, illicit finance, proof-of-work energy use and unequal retail exposure. Add cash-like CBDC settlement, offline resilience and targeted uses; weigh privacy, fungibility, cyber and bank-funding risks. Cite the FAQ update and pilot status. Conclude that sovereign CBDC scale requires a public capability not delivered more cheaply by cash or interoperable bank payments, while crypto regulation should follow the activity and risk rather than the technology label.
 
 **Applied retrieval drill:** “Because a record is on blockchain, it is true, legally owned and decentralised; because crypto is taxed, it is money.” Identify the errors. **Model response:** hash linkage makes later alteration detectable but cannot verify false inputs; legal ownership depends on law and contract; permissioned governance can be concentrated; and a taxable private asset does not become RBI liability or legal tender.
 
-### Distinction practice
+**Unique scoring rubric (10 marks):** 2 issuer/liability + 3 CBDC/crypto/token mechanism + 3 status/risks + 2 calibrated verdict.
 
-**MCQ 22. The liability in a retail e-rupee wallet is:**
-- A. wallet-app company liability
-- B. a direct RBI liability
-- C. a mutual-fund unit
-- D. an unbacked private token
+### Concept check
 
-**MCQ 23. Why does taxing VDA gains not make cryptocurrency legal tender?**
-- A. Every taxed asset is sovereign money.
-- B. TDS converts it into RBI liability.
-- C. Taxable-event rules and monetary status arise from separate law.
-- D. Market price alone decides legal tender.
+**Question:** State the decisive liability distinction among a bank deposit, UPI and the digital rupee.
 
-**MCQ 24. The safest first question about a tokenised asset is:**
-- A. What colour is its icon?
-- B. Did its price rise?
-- C. Does advertising say blockchain?
-- D. What enforceable claim, issuer and redemption right does it represent?
+**Model answer:** A deposit is a commercial-bank liability; UPI generally moves it; the digital rupee is an RBI liability. Private crypto has no equivalent sovereign claim.
 
-#### Answers and four-option explanations
-
-**MCQ 22: B**
-- **A - Incorrect.** Wallet provider distributes/serves; it does not replace issuer liability.
-- **B - Correct.** RBI identifies e-rupee as its legal-tender liability.
-- **C - Incorrect.** CBDC is not an investment fund.
-- **D - Incorrect.** It is sovereign, not unbacked private crypto.
-
-**MCQ 23: C**
-- **A - Incorrect.** Property, shares and income are taxed without being money.
-- **B - Incorrect.** TDS is collection mechanism, not monetary issuance.
-- **C - Correct.** Different statutes answer different classifications.
-- **D - Incorrect.** Legal tender is legal status, not price popularity.
-
-**MCQ 24: D**
-- **A - Incorrect.** Interface aesthetics reveal no claim.
-- **B - Incorrect.** Price is not enforceability.
-- **C - Incorrect.** A label is not legal architecture.
-- **D - Correct.** Underlying rights determine economic character.
+**Misconception to avoid:** Use issuer, liability, legal status and settlement--not merely the word digital.
 
 ## Lesson 9 - Two-sided platform pricing, cross-subsidy and winner-take-most dynamics
 
-**Progress: 9 / 14 | Stage: Advanced | Subtopic: Two-sided platform pricing, cross-subsidy and winner-take-most dynamics**
+Progress: 9 / 15 | Stage: Core | Subtopic: Two-sided platform pricing, cross-subsidy and winner-take-most dynamics
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown and local book evidence
 CA search: "two sided platforms India competition network effects CCI e-commerce market study"
-CA found: CCI Market Study on E-commerce in India published January 2020 remains the official baseline; status checked 25 September 2026.
+CA found: CCI Market Study on E-commerce in India published January 2020 remains the official baseline; status checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Cross-side feedback
@@ -1042,58 +858,28 @@ CCI's e-commerce study highlights ranking transparency, platform neutrality, pri
 
 ### Lesson-specific Mains micro-model
 
-**Question:** Why can a zero-price platform possess market power, and how should competition analysis respond?
+**Question (10 marks, maximum 150 words):** Why can a zero-price platform possess market power, and how should competition analysis respond?
 
 **Complete micro-model:** Define two-sided demand and price structure. Users may pay with attention/data while merchants fund the network. Identify power through quality degradation, privacy reduction, steering limits, switching barriers and merchant dependence. Distinguish launch subsidy from predation through duration, exclusion and recoupment. End with tailored transparency, interoperability, data-separation or non-discrimination remedies at the proven bottleneck.
 
-### Platform practice
+**Unique scoring rubric (10 marks):** 2 two-sided definition + 3 pricing mechanism + 3 tipping evidence + 2 competition qualification.
 
-**MCQ 25. Why might a platform charge users zero and merchants a positive fee?**
-- A. Users create cross-side value that attracts paying merchants.
-- B. Operating costs are necessarily zero.
-- C. Competition law prohibits user prices.
-- D. Merchants receive no value from users.
+### Concept check
 
-**MCQ 26. Which condition most reduces winner-take-most pressure?**
-- A. High switching costs
-- B. Easy multihoming and interoperability
-- C. Exclusive data access
-- D. Strong cumulative network effects
+**Question:** Why can a platform charge one side zero without proving predation?
 
-**MCQ 27. What is needed before below-cost platform pricing is called exclusionary predation?**
-- A. Proof consumers enjoyed lower price
-- B. Proof the firm has an app
-- C. Credible foreclosure and recoupment or durable-harm mechanism
-- D. A competitor complaint alone
+**Model answer:** Cross-side effects may make subsidising one group efficient because it attracts the paying side. Predation needs evidence of exclusion, market power and recoupment.
 
-#### Answers and four-option explanations
-
-**MCQ 25: A**
-- **A - Correct.** Cross-side value determines optimal price structure.
-- **B - Incorrect.** Zero user price can coexist with high cost.
-- **C - Incorrect.** No general prohibition explains it.
-- **D - Incorrect.** User access is what merchants purchase.
-
-**MCQ 26: B**
-- **A - Incorrect.** It strengthens lock-in.
-- **B - Correct.** Participants can reach rivals without abandoning the incumbent.
-- **C - Incorrect.** Exclusivity raises entry barriers.
-- **D - Incorrect.** Stronger feedback encourages tipping.
-
-**MCQ 27: C**
-- **A - Incorrect.** Consumer benefit does not prove exclusion.
-- **B - Incorrect.** App form is irrelevant.
-- **C - Correct.** A coherent harm mechanism separates predation from competition.
-- **D - Incorrect.** Complaint is evidence source, not legal-economic proof.
+**Misconception to avoid:** Zero price is neither automatically benign nor automatically abusive.
 
 ## Lesson 10 - Switching costs, interoperability, ONDC, dropshipping and crowdfunding
 
-**Progress: 10 / 14 | Stage: Advanced | Subtopic: Switching costs, interoperability, ONDC, dropshipping and crowdfunding**
+Progress: 10 / 15 | Stage: Core | Subtopic: Switching costs, interoperability, ONDC, dropshipping and crowdfunding
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown and local book evidence
 CA search: "ONDC interoperability dropshipping crowdfunding India 2026 official"
-CA found: ONDC official live page describes open-network architecture; undated page checked 25 September 2026. Relevant 2026 Prelims routes use an official but provisional answer key.
+CA found: ONDC official live page describes open-network architecture; undated page checked through 3 October 2026. Relevant 2026 Prelims routes use an official but provisional answer key.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### From platform to protocol
@@ -1109,6 +895,16 @@ Switching cost includes learned interfaces, stored reputation, contacts, history
 ONDC is an open-network initiative of DPIIT. Its official page describes interoperable rails across retail, logistics, mobility/transit/travel and financial services. It is not one government marketplace, one buyer app or a mandate that all transactions use UPI. Buyer and seller apps discover and transact through common specifications while logistics and grievance roles are distributed.
 
 Open protocol does not guarantee quality. Responsibility may fragment. Sustainable contestability needs role mapping, portable reputation, transparent discovery, contractual standards, consumer remedy, secure messages and workable economics.
+
+### Marketplace, inventory and interface power
+
+| Model | Stock/control | Economic role | Central risk |
+|---|---|---|---|
+| Marketplace | third-party seller | matching, discovery and coordination | ranking, self-preferencing, seller dependence |
+| Inventory-led retail | platform/retailer | buys or controls stock and resells | retail/FDI perimeter and direct liability |
+| Dropshipping | seller markets; supplier fulfils | storefront without warehousing | quality, returns and seller-of-record ambiguity |
+
+A platform can influence inventory indirectly through exclusivity, preferred-seller treatment or deep control even when contracts use marketplace language. Legal analysis therefore looks beyond labels to ownership, control, pricing, ranking and fulfilment.
 
 ### Three business models UPSC can disguise
 
@@ -1149,58 +945,28 @@ Official Set-A OCR establishes **2026 Q87 dropshipping, Q89 ONDC, Q90 UPI/CBDC a
 
 ### Lesson-specific Mains micro-model
 
-**Question:** Can open-network architecture make Indian digital commerce contestable?
+**Question (10 marks, maximum 150 words):** Can open-network architecture make Indian digital commerce contestable?
 
 **Complete micro-model:** Define contestability and three tools. Explain ONDC separation of buyer app, seller app and logistics. Present lower entry cost and reach, then fragmented liability, weak discovery, reputation loss, fraud and subsidy-dependent economics. Use the switching calculation. Recommend portable reputation, ranking transparency, participant standards, common grievance routing, secure governance and monitoring. Protocol openness is necessary, not sufficient.
 
-### Contestability practice
+**Unique scoring rubric (10 marks):** 2 interoperability distinctions + 3 model comparison + 3 ONDC liability + 2 verdict.
 
-**MCQ 28. Which statement best describes ONDC?**
-- A. It replaces all private e-commerce firms.
-- B. It owns warehouses as a retailer.
-- C. It mandates one payment app.
-- D. It is an open network of interoperable participants, not one shopping application.
+### Concept check
 
-**MCQ 29. What distinguishes dropshipping from affiliate marketing?**
-- A. Dropshipper presents the sale while supplier holds/ships stock; affiliate mainly refers for commission.
-- B. Dropshipping requires owned warehouses.
-- C. Affiliates are banks.
-- D. Dropshipping cannot be online.
+**Question:** What must accompany ONDC-style interoperability for genuine contestability?
 
-**MCQ 30. Which crowdfunding statement is safest?**
-- A. Every contribution creates shares.
-- B. Rights depend on donation, reward, debt or equity structure.
-- C. Listing guarantees repayment.
-- D. It is identical to a bank deposit.
+**Model answer:** Portable reputation, fair discovery, multihoming, clear liability, security, sustainable economics and grievance routing must complement the protocol.
 
-#### Answers and four-option explanations
-
-**MCQ 28: D**
-- **A - Incorrect.** The aim is interoperable participation, not replacement.
-- **B - Incorrect.** ONDC is network architecture, not inventory retailer.
-- **C - Incorrect.** Payment choice is not its defining mandate.
-- **D - Correct.** Multiple roles transact through open specifications.
-
-**MCQ 29: A**
-- **A - Correct.** Sale/control and fulfilment differ from referral.
-- **B - Incorrect.** No-stock holding is characteristic.
-- **C - Incorrect.** Affiliate is a marketing role.
-- **D - Incorrect.** It is commonly e-commerce.
-
-**MCQ 30: B**
-- **A - Incorrect.** Donation/reward models do not create equity.
-- **B - Correct.** Legal and economic claims vary by structure.
-- **C - Incorrect.** Platform listing does not remove project risk.
-- **D - Incorrect.** Bank deposits carry a different regulated claim.
+**Misconception to avoid:** Open protocol is not one government marketplace and does not guarantee visibility or trust.
 
 ## Lesson 11 - Gig and platform-work economics
 
-**Progress: 11 / 14 | Stage: Core | Subtopic: Gig and platform-work economics with Topic 22 law cross-link**
+Progress: 11 / 15 | Stage: Core | Subtopic: Gig and platform-work economics with Topic 22 law cross-link
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Topic 24 sources plus Topic 22 boundary cross-check
 CA search: "India gig platform workers Social Security Code 2025 2026 official"
-CA found: Code on Social Security provisions were brought into force 21 November 2025; Ministry implementation material and 2026 central-rule status checked 25 September 2026. Detailed labour law remains owned by Economy Topic 22.
+CA found: Code on Social Security provisions were brought into force 21 November 2025; Ministry implementation material and 2026 central-rule status checked through 3 October 2026. Detailed labour law remains owned by Economy Topic 22.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Income waterfall
@@ -1253,58 +1019,28 @@ Platforms reduce search and idle matching costs and can open entry. Network effe
 
 ### Lesson-specific Mains micro-model
 
-**Question:** How should India balance flexibility, innovation and worker security in platform work?
+**Question (10 marks, maximum 150 words):** How should India balance flexibility, innovation and worker security in platform work?
 
 **Complete micro-model:** Open with the income waterfall. Identify search/entry gains and power asymmetries in pricing, rating, incentive and deactivation. Cross-reference the Social Security Code without duplicating Topic 22. Recommend net-pay statements, expense-aware wage metrics, portable transaction-linked benefits, accident cover, data access, rating portability, notice/appeal and collective voice. Flexibility should mean worker choice over time, not unilateral transfer of business risk.
 
-### Work-economics practice
+**Unique scoring rubric (10 marks):** 2 work-model definition + 3 net-earnings/control + 3 evidence/protection + 2 verdict.
 
-**MCQ 31. Which denominator gives the more realistic platform-worker earnings measure?**
-- A. Gross payments divided by paid-trip minutes
-- B. Platform valuation divided by worker count
-- C. Net earnings divided by logged-in work-related hours including waiting
-- D. Gross fares divided by calendar days
+### Concept check
 
-**MCQ 32. A portable-benefit account most directly solves:**
-- A. employee-contractor classification
-- B. all algorithmic bias
-- C. market price of every task
-- D. continuity of accrued protection across platforms
+**Question:** Why should gig earnings be measured net of work costs and waiting time?
 
-**MCQ 33. Which safeguard targets algorithmic deactivation risk?**
-- A. Notice, reasons, human review and appeal
-- B. Ban all ratings
-- C. Mandatory worker ownership of every platform
-- D. Ignore platform data
+**Model answer:** Fuel, depreciation, data, commissions, unpaid waiting and risk are worker-borne inputs. Gross receipts divided only by active-task time overstate disposable hourly earnings.
 
-#### Answers and four-option explanations
-
-**MCQ 31: C**
-- **A - Incorrect.** It omits expenses and waiting.
-- **B - Incorrect.** Firm valuation is not labour compensation.
-- **C - Correct.** Net income and total work time reveal effective earnings.
-- **D - Incorrect.** Calendar days are not hours worked.
-
-**MCQ 32: D**
-- **A - Incorrect.** Portability does not decide legal status.
-- **B - Incorrect.** Bias needs separate governance.
-- **C - Incorrect.** Benefits do not set every market price.
-- **D - Correct.** Accrual can follow a worker across engagements.
-
-**MCQ 33: A**
-- **A - Correct.** Procedural fairness addresses opaque loss of access.
-- **B - Incorrect.** Ratings can also convey useful information.
-- **C - Incorrect.** Ownership is not necessary for due process.
-- **D - Incorrect.** Ignorance increases rather than remedies opacity.
+**Misconception to avoid:** Flexibility does not settle net income, control or social protection.
 
 ## Lesson 12 - Competition, privacy, consumer protection and cyber risk
 
-**Progress: 12 / 14 | Stage: Advanced | Subtopic: Competition, privacy, consumer protection and cyber risk**
+Progress: 12 / 15 | Stage: Core | Subtopic: Competition, privacy, consumer protection and cyber risk
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown, CCI, MeitY and RBI material
 CA search: "CCI digital platform competition MeitY DPDP Rules 2025 RBI cyber payments 2026"
-CA found: DPDP Rules notified 13 November 2025 with phased commencement; CCI study January 2020 and RBI Annual Report released 29 May 2026 checked 25 September 2026.
+CA found: DPDP Rules notified 13 November 2025 with phased commencement; CCI study January 2020 and RBI Annual Report released 29 May 2026 checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Four questions for one digital event
@@ -1362,58 +1098,28 @@ Liability mapping asks who controlled authentication, stored data, designed inte
 
 ### Lesson-specific Mains micro-model
 
-**Question:** Why does digital-market governance require coordinated rather than unitary regulation?
+**Question (10 marks, maximum 150 words):** Why does digital-market governance require coordinated rather than unitary regulation?
 
 **Complete micro-model:** Frame four harms: foreclosure, data misuse, deception/loss and compromise. Explain distinct legal tests. Use a self-preferencing platform that collects data and suffers account takeover to show overlap. State DPDP notification and phased status precisely. Recommend interoperable complaints, agency information-sharing, common standards, proportionate algorithm/data audit, incident response and remedy. Coordination closes gaps without collapsing mandates.
 
-### Governance practice
+**Unique scoring rubric (10 marks):** 2 separate legal lenses + 3 harm mechanisms + 3 remedies + 2 coordinated verdict.
 
-**MCQ 34. A dominant marketplace ranks its own products first. The primary inquiry is:**
-- A. whether every user clicked a privacy notice
-- B. whether conduct forecloses competition through a bottleneck
-- C. whether its logo is blue
-- D. whether delivery uses roads
+### Concept check
 
-**MCQ 35. Safest statement on DPDP Rules as of 25 September 2026:**
-- A. No rules were notified.
-- B. Every duty commenced simultaneously.
-- C. Rules were notified 13 November 2025 with phased commencement; check each provision.
-- D. They regulate only competition.
+**Question:** A platform over-collects location data and favours its own sellers. Which harms arise?
 
-**MCQ 36. Why are common cyber standards justified in payment networks?**
-- A. Cyber loss affects only software vendors.
-- B. Users always know the backend culprit.
-- C. Authentication makes compromise impossible.
-- D. A weak participant can impose fraud and confidence costs on the network.
+**Model answer:** Excess purpose use raises privacy concerns; preferential ranking may raise competition and consumer-fairness concerns. The tests and remedies differ.
 
-#### Answers and four-option explanations
-
-**MCQ 34: B**
-- **A - Incorrect.** Privacy notice does not answer foreclosure.
-- **B - Correct.** Self-preferencing is principally a competition-conduct question.
-- **C - Incorrect.** Branding is irrelevant.
-- **D - Incorrect.** Delivery mode does not resolve discrimination.
-
-**MCQ 35: C**
-- **A - Incorrect.** Final rules were notified.
-- **B - Incorrect.** Commencement is phased.
-- **C - Correct.** Status must be provision-specific.
-- **D - Incorrect.** Data-protection and competition mandates differ.
-
-**MCQ 36: D**
-- **A - Incorrect.** Fraud harms users and system trust.
-- **B - Incorrect.** Backend chains are complex.
-- **C - Incorrect.** Authentication cannot prevent every attack.
-- **D - Correct.** Security produces system-wide externalities.
+**Misconception to avoid:** Do not collapse privacy, cyber, consumer and competition into one generic problem.
 
 ## Lesson 13 - Digital divide, taxation boundaries and digital productivity measurement
 
-**Progress: 13 / 14 | Stage: Advanced | Subtopic: Digital divide, taxation boundaries and digital productivity measurement**
+Progress: 13 / 15 | Stage: Core | Subtopic: Digital divide, taxation boundaries and digital productivity measurement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Markdown and mandatory OCR-searchable PDFs
 CA search: "India digital economy measurement MeitY January 2025 digital divide VDA tax 2026"
-CA found: MeitY-ICRIER *Estimation and Measurement of India's Digital Economy* published January 2025; Income-tax VDA provisions remained official law when checked 25 September 2026.
+CA found: MeitY-ICRIER *Estimation and Measurement of India's Digital Economy* published January 2025; Income-tax VDA provisions remained official law when checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Divide and measurement map
@@ -1470,58 +1176,28 @@ A platform may automate matching while shifting search, data entry or dispute wo
 
 ### Lesson-specific Mains micro-model
 
-**Question:** How should India measure digital-economy contribution without confusing transactions, output and welfare?
+**Question (10 marks, maximum 150 words):** How should India measure digital-economy contribution without confusing transactions, output and welfare?
 
 **Complete micro-model:** Define production boundary and GVA. Build three rings: core digital industries, digitally enabled value added and satellite welfare indicators. Explain why throughput and registrations are not output. Add productivity channels and free surplus, then cyber loss, exclusion, unpaid-task transfer and rents. Use the UPI-sales example. End with a dated dashboard reporting value, productivity, inclusion, job quality and structure.
 
-### Measurement practice
+**Unique scoring rubric (10 marks):** 2 access/measurement distinction + 3 productivity/tax chain + 3 causality limits + 2 conclusion.
 
-**MCQ 37. A shop shifts Rs 10 lakh of unchanged cash sales to UPI. Immediate GDP effect from the switch alone is:**
-- A. no automatic Rs 10 lakh increase
-- B. GDP rises Rs 10 lakh
-- C. GDP falls Rs 10 lakh
-- D. all value becomes financial-sector GVA
+### Concept check
 
-**MCQ 38. Which illustrates a capability rather than coverage divide?**
-- A. A village has no signal.
-- B. A connected user cannot use an English-only interface and fears irreversible fraud.
-- C. A platform has many merchants.
-- D. A bank reports more transactions.
+**Question:** Online transactions rise while underlying sales stay unchanged. What follows?
 
-**MCQ 39. Which VDA boundary is correct?**
-- A. Tax automatically makes sovereign currency.
-- B. GST and income tax are identical.
-- C. A taxable VDA can remain outside legal-tender status.
-- D. TDS guarantees safety.
+**Model answer:** This supports adoption and perhaps lower friction, but not equal GDP, productivity, inclusion or tax gains; each needs separate causal and distributional evidence.
 
-#### Answers and four-option explanations
-
-**MCQ 37: A**
-- **A - Correct.** Payment value is not new value added.
-- **B - Incorrect.** Output is unchanged.
-- **C - Incorrect.** A payment-mode switch does not destroy output.
-- **D - Incorrect.** The sale remains attributed to underlying production.
-
-**MCQ 38: B**
-- **A - Incorrect.** That is access/coverage.
-- **B - Correct.** Skills, language and trust block effective use despite connectivity.
-- **C - Incorrect.** It is network scale.
-- **D - Incorrect.** Aggregate volume says nothing about individual capability.
-
-**MCQ 39: C**
-- **A - Incorrect.** Many taxed assets are not money.
-- **B - Incorrect.** They are distinct levies.
-- **C - Correct.** Tax and monetary status arise separately.
-- **D - Incorrect.** Withholding is not investment protection.
+**Misconception to avoid:** Digital footprints improve observability but do not prove causation.
 
 ## Lesson 14 - Integrated India strategy and answer synthesis
 
-**Progress: 14 / 14 | Stage: Advanced | Subtopic: Integrated India strategy and answer synthesis**
+Progress: 14 / 15 | Stage: Core synthesis | Subtopic: Integrated India strategy and answer synthesis
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - all Topic 24 Markdown, both mandatory PDFs and cross-topic boundaries
 CA search: "India services digital economy strategy FY 2025-26 exports UPI GCC inclusion competition"
-CA found: Commerce release dated 24 July 2026, Economic Survey presented 29 January 2026, RBI Annual Report released 29 May 2026 and current official regulatory pages were jointly checked 25 September 2026.
+CA found: Commerce release dated 24 July 2026, Economic Survey presented 29 January 2026, RBI Annual Report released 29 May 2026 and current official regulatory pages were jointly checked through 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Strategy map
@@ -1592,49 +1268,123 @@ This strategy organises conclusions for **2023 GS-III digitalisation**, **2025 G
 
 ### Lesson-specific Mains micro-model
 
-**Question:** Propose an integrated strategy for India to maximise services/digital gains while containing concentration and exclusion.
+**Question (10 marks, maximum 150 words):** Propose an integrated strategy for India to maximise services/digital gains while containing concentration and exclusion.
 
 **Complete micro-model:** State the multi-objective goal. Build capabilities, open infrastructure, competitive enterprise, trust and global integration. Give one instrument and risk under each. Add sequencing and metrics: domestic value added, productive jobs, export diversity, switching cost, cyber loss, grievance resolution and access gaps. Apply CLAIMS to UPI, GCCs, ONDC and platform work. India's advantage is population-scale rails combined with contestable innovation, rights and transferable capability.
 
-### Synthesis practice
+**Unique scoring rubric (10 marks):** 2 thesis + 3 CLAIMS application + 3 instruments/metrics + 2 sequenced verdict.
 
-**MCQ 40. Which success metric fits an integrated strategy?**
-- A. transaction count alone
-- B. number of apps alone
-- C. gross platform valuation alone
-- D. dashboard of value added, jobs, inclusion, contestability and resilience
+### Concept check
 
-**MCQ 41. Why are open rails and competition enforcement complements?**
-- A. Technical openness can still be undermined by ranking, data or switching bottlenecks.
-- B. Interoperability prevents every abuse.
-- C. Competition law should design all code.
-- D. Open standards require one monopoly app.
+**Question:** Apply CLAIMS to UPI in a compact answer.
 
-**MCQ 42. The best role for a policy pilot is to:**
-- A. create permanent privilege for operator
-- B. test a hypothesis with safeguards, metrics, remedy and review
-- C. avoid evidence until rollout
-- D. use scale as the only criterion
+**Model answer:** Capability tests usability; Liability allocates fraud loss; Access tests interoperability and assisted routes; Incentives examine zero-MDR financing; Market structure checks bottlenecks; Security tests resilience and privacy.
 
-#### Answers and four-option explanations
+**Misconception to avoid:** Do not list schemes without linking architecture, incentives, outcomes, distribution and risk.
 
-**MCQ 40: D**
-- **A - Incorrect.** Throughput omits distribution and risk.
-- **B - Incorrect.** App count omits quality and outcomes.
-- **C - Incorrect.** Valuation is not social welfare.
-- **D - Correct.** The strategy is multi-objective.
+## Lesson 15 - OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-**MCQ 41: A**
-- **A - Correct.** Competition may migrate to non-protocol bottlenecks.
-- **B - Incorrect.** Interoperability is not complete immunity.
-- **C - Incorrect.** Legal rules need not prescribe all engineering.
-- **D - Incorrect.** Open standards are designed for plural applications.
+Progress: 15 / 15 | Stage: Optional Advanced | Subtopic: Measurement frontiers, cloud/AI concentration, platform contestability, CBDC design and regulatory perimeter
 
-**MCQ 42: B**
-- **A - Incorrect.** Pilot participation is not permanent entitlement.
-- **B - Correct.** A controlled intervention should generate decision-relevant evidence.
-- **C - Incorrect.** This defeats the purpose of piloting.
-- **D - Incorrect.** Scale alone misses safety, inclusion and value.
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - complete Advanced owner, Core owner and OCR-searchable Survey/book evidence
+CA search: "RBI Payments Vision 2028 Global Fintech Fest 2026 agentic AI tokenisation official"
+CA found: Payments Vision 2028 was issued 27 March 2026; the official September 2026 Global Fintech Fest docket highlighted agentic AI and tokenisation. Docket checked through 3 October 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: where advanced analysis begins
+
+```text
+CORE MECHANISM                       ADVANCED QUESTION
+open rails reduce friction    ->    where does bottleneck power migrate?
+data improve matching         ->    who controls compute/models/feedback?
+AI automates prediction       ->    who bears opaque error and transition?
+CBDC changes money's form     ->    which privacy/resilience design?
+interoperability aids entry   ->    is discovery still concentrated?
+```
+
+The Core answer remains valid without this lesson. Advanced depth asks whether an open system relocates rather than removes power and risk.
+
+### 1. Measurement beyond headline productivity
+
+Real GVA per worker is useful, but service quality is hard to deflate. Safer payments, better diagnosis or free search may create welfare not fully captured in revenue; platform transaction value may expand without equal domestic value added. Advanced answers distinguish production, consumer surplus, rents, imported cloud/compute inputs and distribution. Baumol's cost disease is a boundary case: some personal services cannot raise output per hour without changing their nature.
+
+### 2. Data, cloud and AI bottlenecks
+
+Data are non-rival but access can be exclusive. Feedback economies can improve a model as use generates more data. Cloud lowers startup fixed cost yet concentration among hyperscale providers creates egress fees, technical dependence and correlated outage risk. AI governance must separate developer, deployer, data fiduciary, professional user and affected person. A lender cannot outsource regulatory responsibility to a model; human review must be meaningful for adverse credit, allocation or deactivation decisions.
+
+### 3. Dynamic platform contestability
+
+A market-share snapshot can miss tipping. Ask whether users can multihome, move history/reputation, reach counterparties and obtain fair discovery. Self-preferencing, tying, parity clauses, exclusive data and default placement can preserve power despite legal entry. Interoperability reduces coordination cost but badly governed standards can freeze incumbent choices or enlarge attack surfaces. Use participatory standard-setting, versioning, security certification and proportionate access.
+
+### 4. Distributed fintech accountability
+
+Digital lending unbundles lead generation, data, underwriting, funding, servicing and recovery. Specialisation can lower cost, but the consumer experiences one journey. RBI's Digital Lending Directions keep the regulated entity responsible for LSPs and require direct fund flows, Key Fact Statements, grievance arrangements and data discipline. Account Aggregator lowers verification cost, but consent fatigue and bargaining inequality require minimisation, purpose limits, revocation, adverse-decision explanation and non-digital alternatives.
+
+### 5. CBDC design matrix
+
+| Axis | Choice | Benefit | Trade-off |
+|---|---|---|---|
+| Access | retail / wholesale | public use / settlement efficiency | distinct inclusion and operational needs |
+| Record | token-like / account-like | cash resemblance / identity control | recovery, anonymity and fraud differ |
+| Connectivity | online / offline | speed / resilience | double-spend and device-security challenge |
+| Function | general / programmable | fungibility / targeted use | surveillance and restriction concerns |
+| Distribution | direct / intermediated | central control / bank-fintech reach | burden / intermediary dependence |
+| Privacy | cash-like / traceable tiers | autonomy / AML and recovery | no design maximises all objectives |
+
+CBDC is not automatically superior to UPI. It needs a distinct public purpose such as resilient sovereign digital cash, offline use or settlement finality. Deposit migration can affect bank funding; caps, tiering and intermediated distribution can moderate this risk.
+
+### 6. Regulatory perimeter and phased data governance
+
+Digital markets cut across RBI, NPCI, SEBI, IRDAI, PFRDA, CCI, MeitY and consumer authorities. Regulate by function and harm while preserving a clear lead authority and complaint path. A crypto tax rule is not a market-conduct licence. The DPDP Act, 2023 and Rules notified in November 2025 have phased commencement. Through 3 October 2026, the safe formulation is **enacted and partly commenced**; verify a specific duty before calling it operative.
+
+### 7. Current linkage: adoption to trust
+
+RBI's Annual Report records UPI at nearly **86 per cent of retail-payment transaction volume in 2025-26**, with volume up **30 per cent** and value up **20.6 per cent**. Its survey of more than 30,000 users and 10,000 merchants found **52 per cent user adoption** and **67 per cent merchant acceptance**, with age, income, gender and location variation. Payments Vision 2028 accordingly joins internationalisation with shared fraud responsibility, cyber-risk indicators, research access and easier account switching.
+
+This is the principal live linkage: scale has shifted the frontier from adoption alone to safe, portable and accountable use. The September 2026 fintech docket's focus on agentic AI and tokenisation reinforces the need to judge novelty through inclusion, explainability, liability and resilience.
+
+### Objection, reply and residual
+
+**Objection:** open infrastructure plus ex-post regulation can manage every risk. **Reply:** architecture can reduce entry cost and law can assign duties. **Residual:** irreversible privacy loss, correlated cloud failure, opacity and tipping can require ex-ante safeguards, redundancy and structural remedies.
+
+### UPSC application
+
+Use one advanced dimension only after the Core mechanism is clear: quality-adjusted measurement, migrated bottleneck power, dynamic contestability, distributed lending accountability or CBDC design. Then return to the directive.
+
+### Revision notes
+
+1. Digital transaction value is not digital GVA.
+2. Quality and free services complicate service deflators.
+3. Data are non-rival; compute and access are scarce.
+4. Cloud lowers fixed cost and can create dependence.
+5. AI changes tasks and accountability chains.
+6. Feedback data can strengthen tipping.
+7. Contestability depends on multihoming, portability and discovery.
+8. Interoperability has security and governance trade-offs.
+9. Unbundling does not remove lender responsibility.
+10. AA consent is scoped transmission.
+11. CBDC design has multiple axes.
+12. CBDC requires a distinct public-purpose case.
+13. DPDP implementation is phased.
+14. Function-and-harm regulation needs a clear complaint path.
+15. Scale shifts policy from adoption to trust.
+
+### Lesson-specific Mains micro-model
+
+**Question (10 marks, maximum 150 words):** Why can interoperability reduce platform power at one layer while concentration reappears at another?
+
+**Complete micro-model:** Interoperability lets users transact across systems, pooling network reach and lowering dependence on one platform. Yet power can migrate to discovery rankings, defaults, reputation stores, cloud infrastructure, exclusive data or AI models. A technically open protocol can therefore coexist with concentrated visibility and bargaining power. Policy must combine standards with portable reputation, multihoming, transparent ranking, non-discrimination, cloud resilience, data-purpose limits and grievance allocation. Interoperability improves contestability but does not guarantee it; regulation must examine the complete stack and dynamic feedback.
+
+**Unique scoring rubric (10 marks):** 2 interoperability mechanism + 3 migrated-bottleneck analysis + 3 safeguards/evidence + 2 qualified verdict.
+
+### Concept check
+
+**Question:** Why is a token-based CBDC not necessarily a public-blockchain cryptocurrency?
+
+**Model answer:** Token-like design describes representation and transfer; it does not determine issuer, legal status or ledger governance. An RBI CBDC can use controlled infrastructure and remain sovereign legal tender without a permissionless public blockchain.
+
+**Misconception to avoid:** Token, blockchain, cryptocurrency and CBDC are not interchangeable legal-economic categories.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
@@ -1674,207 +1424,55 @@ This strategy organises conclusions for **2023 GS-III digitalisation**, **2025 G
 
 The detailed Economy 2026 ledger follows official Set-A OCR as Q87/Q89/Q90/Q97 for dropshipping/ONDC/UPI-CBDC/crowdfunding. `_PYQ-ROUTING-PRELIMS-2026.md` summarises ONDC and UPI-CBDC as Q88/Q89. The content and official-paper sequence are unambiguous; no objective answer letter is inferred.
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-## Cumulative set A - mechanism and distinction
+## Check 1 - structural transformation
 
-**MCQ 43. A manufacturer outsources in-house logistics to a specialist. Which statement is safest?**
-- A. National productivity necessarily rises by the whole logistics invoice.
-- B. Manufacturing GVA rises automatically.
-- C. Measured sector shares can change even if the physical task is unchanged.
-- D. Intermediate consumption disappears.
+**Question:** How can India combine high-productivity services with broad employment?
 
-**MCQ 44. An Indian architect emails designs abroad and later travels briefly to supervise. The modes are:**
-- A. only Mode 2
-- B. only Mode 3
-- C. Mode 2 then Mode 3
-- D. Mode 1 followed by Mode 4
+**Model answer:** Upgrade IT-BPM, GCCs, professional services and digital exports while raising productivity, formality and local retention in tourism, logistics, care, retail and personal services. Judge progress through output, jobs, real earnings, protection and diffusion.
 
-**MCQ 45. A GCC creates the strongest domestic spillover when:**
-- A. employees, suppliers and research institutions acquire transferable capability
-- B. all decisions and IP remain isolated abroad
-- C. only imported vendors are used
-- D. routine work is permanently locked in
+**Misconception to avoid:** Services-led growth is neither automatically jobless nor automatically inclusive.
 
-**MCQ 46. A logistics reform cuts average delay but not freight price. Its principal gain can be:**
-- A. no economic gain
-- B. lower inventory financing and uncertainty cost
-- C. automatic elimination of tariffs
-- D. conversion of goods into services
+## Check 2 - digital economy boundary
 
-**MCQ 47. Which architecture best limits app-level lock-in while preserving network scale?**
-- A. exclusive proprietary messaging
-- B. one mandatory super-app
-- C. interoperable shared rails with competing interfaces
-- D. prohibition of cross-app transactions
+**Question:** Distinguish digital output, digital transaction and digital welfare.
 
-**MCQ 48. A zero-MDR policy should be evaluated by asking:**
-- A. whether processing costs cease to exist
-- B. whether MDR becomes income tax
-- C. whether NFS is abolished
-- D. who finances processing, fraud control and innovation, and with what service obligation
+**Model answer:** Digital output is measured value added; a digital transaction is an electronic exchange mechanism; digital welfare includes surplus, convenience and distribution. They overlap but are not equal.
 
-**MCQ 49. Which statement about an Account Aggregator is correct?**
-- A. It transmits consented financial information but does not itself approve the loan.
-- B. It owns all customer financial data.
-- C. It guarantees borrower repayment.
-- D. It replaces the regulated lender.
+**Misconception to avoid:** Payment value cannot be added to GDP as newly produced output.
 
-**MCQ 50. Which pair is correctly matched?**
-- A. UPI - direct RBI liability
-- B. e-rupee - direct RBI liability
-- C. bank deposit - unbacked crypto token
-- D. NFT - automatic copyright title
+## Check 3 - fintech accountability
 
-#### Answers and four-option explanations
+**Question:** Why must a regulated lender remain accountable when an LSP or AI model performs key tasks?
 
-**MCQ 43: C**
-- **A - Incorrect.** Invoice value includes inputs and may reflect relabelling.
-- **B - Incorrect.** The manufacturer now purchases an intermediate service.
-- **C - Correct.** Outsourcing moves recorded activity across sectors.
-- **D - Incorrect.** The purchased service becomes intermediate consumption.
+**Model answer:** The consumer receives one regulated credit product. Specialisation does not transfer statutory responsibility; the lender must govern partners, fund flow, disclosures, data, model risk and grievance remedy.
 
-**MCQ 44: D**
-- **A - Incorrect.** No consumer travels to India.
-- **B - Incorrect.** No foreign affiliate is required.
-- **C - Incorrect.** The facts do not describe consumption abroad or establishment.
-- **D - Correct.** Design crosses remotely; the supplier-person then travels.
+**Misconception to avoid:** Outsourcing a process does not outsource legal responsibility.
 
-**MCQ 45: A**
-- **A - Correct.** Mobility and linkages diffuse capability.
-- **B - Incorrect.** Isolation creates enclave risk.
-- **C - Incorrect.** It weakens domestic supplier learning.
-- **D - Incorrect.** Permanent routine lock-in blocks upgrading.
+## Check 4 - money and payments
 
-**MCQ 46: B**
-- **A - Incorrect.** Time and reliability have economic value.
-- **B - Correct.** Less capital is tied up and buffers may shrink.
-- **C - Incorrect.** Logistics reform need not alter tariff law.
-- **D - Incorrect.** Sector classification is not the gain.
+**Question:** Place cash, bank deposits, UPI, CBDC and private crypto on one liability map.
 
-**MCQ 47: C**
-- **A - Incorrect.** Exclusivity raises lock-in.
-- **B - Incorrect.** One app concentrates interface control.
-- **C - Correct.** Scale sits at the rail while apps remain contestable.
-- **D - Incorrect.** It destroys interoperability.
+**Model answer:** Cash and CBDC are central-bank liabilities; deposits are commercial-bank liabilities; UPI mainly moves deposits; private crypto lacks a sovereign liability.
 
-**MCQ 48: D**
-- **A - Incorrect.** Real resource costs persist.
-- **B - Incorrect.** MDR is not a tax.
-- **C - Incorrect.** NFS is unrelated ATM infrastructure.
-- **D - Correct.** Pricing policy must reveal subsidy and quality trade-offs.
+**Misconception to avoid:** A digital transfer method does not determine who issued the money.
 
-**MCQ 49: A**
-- **A - Correct.** AA enables scoped data flow; underwriting remains with FIU/lender.
-- **B - Incorrect.** It is not data owner.
-- **C - Incorrect.** Consent architecture is not a guarantee.
-- **D - Incorrect.** The lender remains regulated and responsible.
+## Check 5 - platform contestability
 
-**MCQ 50: B**
-- **A - Incorrect.** UPI usually moves bank deposits.
-- **B - Correct.** E-rupee is RBI-issued legal tender.
-- **C - Incorrect.** Deposits are bank liabilities.
-- **D - Incorrect.** Token ownership does not automatically transfer copyright.
+**Question:** When do network effects become a competition concern?
 
-## Cumulative set B - applied policy
+**Model answer:** When feedback combines with switching costs, exclusive data, non-portable reputation, default control or weak multihoming so efficient rivals cannot reach users.
 
-**MCQ 51. A platform has strong network effects but users can easily multihome and move ratings. What follows?**
-- A. Tipping is guaranteed.
-- B. Market power is impossible.
-- C. Contestability is stronger than under high switching cost.
-- D. Cross-side effects disappear.
+**Misconception to avoid:** Neither scale nor low price alone proves abuse.
 
-**MCQ 52. Which reform most directly makes ONDC-style openness economically usable?**
-- A. Ban all private buyer apps.
-- B. Make reputation non-portable.
-- C. Leave complaints to unidentified participants.
-- D. Combine protocol interoperability with discoverability, standards and common grievance routing.
+## Check 6 - inclusion and trust
 
-**MCQ 53. A worker earns Rs 20,000 gross, pays Rs 8,000 work costs and logs 60 hours. Net hourly earnings before tax/social insurance are:**
-- A. Rs 200
-- B. Rs 333
-- C. Rs 467
-- D. Rs 12,000
+**Question:** Why does digital access not equal digital capability?
 
-**MCQ 54. Which event principally raises a data-protection question rather than proving a competition violation?**
-- A. Rival exclusion through parity clauses
-- B. Collection of personal location data beyond stated purpose
-- C. Predatory pricing with recoupment
-- D. Tying access to an adjacent market
+**Model answer:** Capability also requires devices, affordability, literacy, language/accessibility, fraud awareness, usable authentication, confidence and timely remedy.
 
-**MCQ 55. A rise in digital-payment value with unchanged underlying sales should be read as:**
-- A. equal rise in GDP
-- B. equal rise in financial-sector GVA
-- C. adoption/throughput evidence, not automatic new output
-- D. proof the digital divide ended
-
-**MCQ 56. Which policy sequence is most coherent?**
-- A. Scale first; add security after universal rollout.
-- B. Protect one app to build permanent network effects.
-- C. Measure only registrations.
-- D. Establish secure rails and capability, lower switching costs, then support upgrading with continuous safeguards.
-
-**MCQ 57. A reward-based crowdfunding contributor ordinarily receives:**
-- A. the promised reward, subject to project/platform terms, not automatic equity
-- B. an insured bank deposit
-- C. RBI legal tender issuance rights
-- D. ownership of every project asset
-
-**MCQ 58. Which statement best integrates services and manufacturing strategy?**
-- A. India must choose exactly one.
-- B. Producer services can lower manufacturing cost while manufacturing expands demand for logistics, finance and design.
-- C. Services have no intermediate-input role.
-- D. Manufacturing cannot export without Mode 4.
-
-#### Answers and four-option explanations
-
-**MCQ 51: C**
-- **A - Incorrect.** Multihoming and portability counter tipping.
-- **B - Incorrect.** Power may remain through other bottlenecks.
-- **C - Correct.** Entry and switching become more credible.
-- **D - Incorrect.** Network effects may persist despite contestability.
-
-**MCQ 52: D**
-- **A - Incorrect.** It replaces rather than opens competition.
-- **B - Incorrect.** It raises switching cost.
-- **C - Incorrect.** Fragmented remedy undermines trust.
-- **D - Correct.** Technical and institutional openness must combine.
-
-**MCQ 53: A**
-- **A - Correct.** `(20,000 - 8,000)/60 = 200`.
-- **B - Incorrect.** It divides gross receipts by hours.
-- **C - Incorrect.** It adds rather than subtracts cost.
-- **D - Incorrect.** This is net weekly amount, not hourly.
-
-**MCQ 54: B**
-- **A - Incorrect.** Parity/foreclosure is competition conduct.
-- **B - Correct.** Excess purpose use is directly a data-governance issue.
-- **C - Incorrect.** Predation is competition analysis.
-- **D - Incorrect.** Tying is principally competition conduct.
-
-**MCQ 55: C**
-- **A - Incorrect.** Payment is not production.
-- **B - Incorrect.** The underlying seller still produces the output.
-- **C - Correct.** Throughput needs a productivity/output channel before GDP changes.
-- **D - Incorrect.** Aggregate volume hides access gaps.
-
-**MCQ 56: D**
-- **A - Incorrect.** Late security creates irreversible risk.
-- **B - Incorrect.** Permanent privilege undermines contestability.
-- **C - Incorrect.** Registration is an input, not outcome.
-- **D - Correct.** Foundations, competition and upgrading are complements.
-
-**MCQ 57: A**
-- **A - Correct.** Reward model promises a non-equity benefit under terms.
-- **B - Incorrect.** It is not deposit insurance.
-- **C - Incorrect.** Private crowdfunding cannot issue CBDC.
-- **D - Incorrect.** Contribution does not automatically transfer all assets.
-
-**MCQ 58: B**
-- **A - Incorrect.** Structural transformation uses complementarity.
-- **B - Correct.** Each sector creates inputs and demand for the other.
-- **C - Incorrect.** Logistics, finance and software are major intermediates.
-- **D - Incorrect.** Manufacturing exports do not inherently require Mode 4.
+**Misconception to avoid:** Connections and registrations are inputs, not complete outcomes.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -1886,11 +1484,15 @@ The detailed Economy 2026 ledger follows official Set-A OCR as Q87/Q89/Q90/Q97 f
 
 **Model answer:** Digital-payment scale measures throughput, not the issuer of money or distribution of capability. A UPI transfer usually reallocates commercial-bank deposits; it is not a transfer of RBI-issued CBDC. Monetary sovereignty concerns the unit of account, legal tender and central-bank liability. Inclusion asks whether citizens possess affordable devices, connectivity, literacy, local-language access, accessibility, trust and remedy. High transaction counts can coexist with exclusion, fraud and concentration. Policy should therefore report unique active users, merchant acceptance, rural/gender gaps, failure and complaint resolution alongside volume/value. It should preserve cash, assisted and offline routes, enforce liability and invest in capability. The correct conclusion is that interoperable payment scale is valuable infrastructure, but sovereign-money status follows the claim/issuer and inclusion follows effective access and safe use.
 
+**Unique scoring rubric (10 marks):** 2 liability/payment distinction + 3 inclusion mechanism + 3 safeguards/evidence + 2 qualified conclusion.
+
 ### Question 2 - 150 words
 
 **How do cross-side network effects influence platform pricing?**
 
 **Model answer:** In a two-sided platform, participation by one group raises value for another. More consumers attract merchants; more merchants improve consumer choice. The platform therefore optimises a price structure, not merely one aggregate price. It may subsidise the price-sensitive or network-creating side and monetise the other through commission, advertising or ancillary service. Such cross-subsidy can solve a coordination failure and is not inherently predatory. Yet strong feedback, switching cost and exclusive data can tip the market. Competition analysis must examine multihoming, portability, ranking, parity clauses, data access, foreclosure and recoupment rather than call every zero price benign or abusive. Interoperability and portable reputation can preserve the network benefit while lowering lock-in.
+
+**Unique scoring rubric (10 marks):** 2 two-sided definition + 3 pricing mechanism + 3 competition remedies + 2 verdict.
 
 ## 15-mark practice
 
@@ -1904,6 +1506,8 @@ A capability strategy has five elements. First, domain, technical, language and 
 
 Risks include automation of routine tasks, foreign-demand dependence, city concentration, data restrictions and protectionism. Responses should diversify markets, support standards, strengthen privacy/cyber institutions, facilitate Mode 4 mobility and measure domestic value added, wage quality and supplier linkages. Thus market access is the external door; capability determines how much value India retains after entering it.
 
+**Unique scoring rubric (15 marks):** 3 GATS and market-access framing + 5 domestic capability pillars with named India evidence + 4 risks and targeted responses + 3 capability-led qualified conclusion.
+
 ### Question 4 - 250 words
 
 **Evaluate Account Aggregator architecture as an inclusion tool and a data-governance challenge.**
@@ -1916,9 +1520,11 @@ The same architecture creates risks. Formally obtained consent may be non-compre
 
 Safeguards should include data minimisation, plain-language and revocable consent, purpose/retention limits, encryption, audit trails, explainable adverse decisions, human grievance review and strict accountability of the regulated lender. Alternative non-digital routes are necessary. AA can widen credit only when the reduction in information asymmetry does not become a transfer of bargaining power from borrower to opaque scoring systems.
 
+**Unique scoring rubric (15 marks):** 3 AA roles and consent architecture + 4 inclusion and information-cost mechanism + 4 data-governance and over-lending risks + 4 safeguards with a balanced verdict.
+
 ## 20-mark practice
 
-### Question 5 - 300 words
+### Question 5 - 250 words
 
 **“Open protocols can lower entry barriers, but they cannot by themselves create contestable digital markets.” Analyse with reference to ONDC and platform economics.**
 
@@ -1930,7 +1536,9 @@ A complete contestability package therefore needs portable reputation, transpare
 
 ONDC should not be described as one government marketplace or as replacement of private firms. Its promise is architectural separation. Its success should be measured through seller reach, switching/multihoming, repeat purchase, complaint resolution, concentration at interface layers and subsidy-adjusted economics. Thus an open protocol supplies the road; fair discovery, trust, capability and enforceable rules determine whether rivals can actually travel it.
 
-### Question 6 - 300 words
+**Unique scoring rubric (20 marks):** 4 contestability mechanism + 6 ONDC evidence/counterpoint + 5 remedies/metrics + 5 conclusion.
+
+### Question 6 - 250 words
 
 **Design an integrated policy framework for India’s digital services economy that reconciles innovation, inclusion, competition, worker welfare and security.**
 
@@ -1940,118 +1548,42 @@ Sectorally, India should upgrade IT-BPM/GCCs through R&D and supplier spillovers
 
 Internationally, use all GATS modes, recognition arrangements and diversified trade partnerships. Every pilot should publish hypothesis, safeguards, metrics and review. The governing principle is neither state control nor laissez-faire: population-scale public rails should support plural private/social innovation within enforceable rights and contestable markets.
 
+**Unique scoring rubric (20 marks):** 4 integrated thesis + 6 CLAIMS instruments + 5 sector/trade evidence + 5 conclusion.
+
 # REMEDIATION
 
-## Error clinic
+## Error clinic: repair the mechanism, not the slogan
 
-| Common error | Repair rule |
-|---|---|
-| “Digital transaction value equals digital GDP” | Apply value-added boundary; throughput is not production. |
-| “UPI is Digital Rupee” | Ask issuer/liability: bank deposits versus RBI liability. |
-| “Consent means approval” | Separate data permission from underwriting decision. |
-| “ONDC is a government marketplace” | Treat it as interoperable network architecture. |
-| “Zero price means no market power/cost” | Examine other-side fees, data, quality and subsidy. |
-| “Gross gig receipts are wages” | Subtract work costs and include waiting hours. |
-| “Tokenisation proves title” | Inspect enforceable underlying rights. |
-| “Rule notified means fully commenced” | Read provision-specific commencement schedule. |
+| Frequent error | Why it fails | Corrective move |
+|---|---|---|
+| Services are non-tradable | all four GATS modes support trade | classify territorial movement |
+| Higher share means better jobs | high-value and informal tails coexist | use output-jobs-earnings-protection |
+| Cloud/AI automatically raise welfare | concentration, opacity and transition costs matter | identify task, bottleneck and accountable actor |
+| UPI is digital currency | it generally moves bank deposits | map issuer and liability |
+| AA approves credit | it transmits consented data | keep underwriting separate |
+| CBDC must use public blockchain | design and sovereign liability are separate | classify issuer, access and governance |
+| Zero price proves predation | cross-side pricing may be efficient | test power, foreclosure and recoupment |
+| ONDC is a shopping app | it is open-network architecture | distinguish protocol and participant |
+| Gross gig receipts are wages | workers bear costs and waiting | calculate net hourly earnings |
+| One law solves every digital harm | privacy, cyber, consumer and competition tests differ | regulate by function/harm |
+| Transactions equal GDP | cash substitution may add no output | trace value added |
+| DPDP is wholly in force | commencement is phased | verify duty and date |
 
-**MCQ 59. UPI volume doubles while underlying real output is unchanged. Which correction is required?**
-- A. Real GDP must double.
-- B. Bank GVA equals total payment value.
-- C. Payment throughput and value added must be measured separately.
-- D. Cash becomes illegal.
+## Responsive answer repair
 
-**MCQ 60. A borrower consents through AA and is rejected. Which explanation is valid?**
-- A. Rejection proves AA malfunction.
-- B. Consent legally guarantees credit.
-- C. AA should lend from its own balance sheet.
-- D. Consent enabled data transmission; underwriting could still reject.
+1. **Status:** give dated evidence and denominator.
+2. **Examine:** mechanism, achievement, constraint, counterpoint and reform.
+3. **Evaluate:** objective, criteria, evidence, costs and verdict.
+4. **Distinguish:** issuer, liability, function and claim.
+5. **Suggest:** responsible institution, instrument, metric and grievance path.
 
-**MCQ 61. A question calls ONDC “a government-owned e-commerce platform replacing private apps.” Best repair:**
-- A. It is an open-network architecture intended to connect interoperable participant applications.
-- B. It is an ATM switch.
-- C. It is a CBDC wallet.
-- D. It is an equity-crowdfunding portal.
+## Remedial mini-cases
 
-**MCQ 62. A free social platform degrades privacy and blocks switching. The safest conclusion is:**
-- A. Zero price proves no market power.
-- B. Non-price quality and switching barriers can reveal market power.
-- C. Privacy can never be a competition parameter.
-- D. Advertising cannot finance a free side.
-
-**MCQ 63. A rider quotes Rs 400 per active-delivery hour but ignores waiting and vehicle cost. The repair is to:**
-- A. use gross customer payment only
-- B. ignore idle time
-- C. calculate net receipts over total work-related logged-in time
-- D. use platform market capitalisation
-
-**MCQ 64. An NFT buyer claims automatic copyright ownership. Correct response:**
-- A. Every NFT transfers copyright.
-- B. Blockchain eliminates property law.
-- C. Tax law decides authorship.
-- D. Token ownership and underlying intellectual-property rights are distinct unless contract/law links them.
-
-**MCQ 65. A note says all DPDP duties became operative on 13 November 2025. Best correction:**
-- A. The rules were notified then with phased commencement; verify the relevant provision.
-- B. The rules were never notified.
-- C. They apply only to competition.
-- D. Commencement dates are irrelevant.
-
-**MCQ 66. A policy note calls zero MDR “costless inclusion.” Best correction:**
-- A. Processing has no resource cost.
-- B. Zero merchant price can support adoption, but costs and service incentives are reallocated.
-- C. MDR is a tax and therefore vanishes.
-- D. NFS finances all UPI transactions.
-
-#### Answers and four-option explanations
-
-**MCQ 59: C**
-- **A - Incorrect.** Payment turnover is not real production.
-- **B - Incorrect.** Banks do not add the entire transferred principal as GVA.
-- **C - Correct.** Only productivity/output channels can change value added.
-- **D - Incorrect.** Payment adoption does not determine legal-tender validity of cash.
-
-**MCQ 60: D**
-- **A - Incorrect.** Successful data flow can coexist with rejection.
-- **B - Incorrect.** Credit remains a risk decision.
-- **C - Incorrect.** AA is not the lender.
-- **D - Correct.** Permission and underwriting are separate stages.
-
-**MCQ 61: A**
-- **A - Correct.** ONDC connects participant roles through specifications.
-- **B - Incorrect.** NFS is ATM switching.
-- **C - Incorrect.** CBDC wallet is separate.
-- **D - Incorrect.** Crowdfunding is a funding model.
-
-**MCQ 62: B**
-- **A - Incorrect.** Market power may appear in quality/data terms.
-- **B - Correct.** Price is only one competition dimension.
-- **C - Incorrect.** Privacy can be a quality parameter.
-- **D - Incorrect.** Advertising commonly funds free user access.
-
-**MCQ 63: C**
-- **A - Incorrect.** It overstates labour income.
-- **B - Incorrect.** Waiting can be part of work commitment.
-- **C - Correct.** Net-over-total-time is the proper economic rate.
-- **D - Incorrect.** Firm valuation is not wage.
-
-**MCQ 64: D**
-- **A - Incorrect.** Transfer depends on underlying terms/law.
-- **B - Incorrect.** Technology does not displace property law.
-- **C - Incorrect.** Tax classification does not allocate copyright.
-- **D - Correct.** Token and referenced asset rights must be separately proved.
-
-**MCQ 65: A**
-- **A - Correct.** Commencement is provision-specific.
-- **B - Incorrect.** Notification occurred.
-- **C - Incorrect.** DPDP concerns personal data.
-- **D - Incorrect.** Operative status is central to accuracy.
-
-**MCQ 66: B**
-- **A - Incorrect.** Infrastructure and fraud control cost resources.
-- **B - Correct.** Price regulation shifts who pays and can affect quality.
-- **C - Incorrect.** MDR is not a tax.
-- **D - Incorrect.** NFS is an ATM switch, not UPI subsidy source.
+- Payment scale without inclusion: add failures, fraud, access gaps and assisted routes.
+- AI productivity without distribution: add displacement, reskilling, model error and gain-sharing.
+- Open commerce without contestability: add ranking, reputation, liability and multihoming.
+- Services exports without resilience: add diversification, recognition and domestic links.
+- Fintech inclusion without protection: add KFS, APR, fund flow, data limits and human review.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -2063,6 +1595,9 @@ Internationally, use all GATS modes, recognition arrangements and diversified tr
 | Labour productivity vs TFP | Output per worker/hour | Residual after multiple inputs | Could capital/skill explain growth? |
 | Mode 1 vs Mode 4 | Service crosses | Supplier-person temporarily crosses | Who moves? |
 | Vendor vs GCC | Sells to clients | Captive group unit | Whose internal mandate? |
+| Cloud service vs owned IT | Rented elastic infrastructure/software | Firm-owned capacity | Who bears switching, outage and scaling risk? |
+| AI automation vs augmentation | Replaces a task component | Improves human task performance | Which task changes, and who remains accountable? |
+| Marketplace vs inventory e-commerce | Third-party seller owns stock | Platform/retailer owns or controls stock | Who is seller and bears product liability? |
 | UPI vs e-rupee | Payment rail moving deposits | RBI-issued digital legal tender | What liability moves? |
 | MDR vs interchange | Merchant-side acceptance price | Inter-participant transfer | Who pays whom? |
 | AA vs credit bureau/lender | Consent-based data transmission | Score/history or balance-sheet credit | Does it decide/own the loan? |
@@ -2095,6 +1630,17 @@ cross-side network effects
  - portability
  - multihoming
  = probability of winner-take-most
+```
+
+## Causal chain: cloud and AI productivity
+
+```text
+elastic compute + reusable software + data + domain knowledge
+             -> lower fixed cost and faster experimentation
+             -> automation and decision augmentation
+             -> possible output/quality gain
+             -> worker transition + model error + cloud concentration
+             -> net welfare only with accountability, portability and diffusion
 ```
 
 ## Causal chain: digital-credit inclusion and harm
@@ -2170,8 +1716,14 @@ Who controlled it? Who could prevent loss? Who must restore and investigate?
 - Professional-service restrictions should be transparent and proportionate to quality/public risk.
 - Optimise local value and decent jobs subject to ecological carrying capacity.
 
-## 5. DPI
+## 5. Digital economy, data, cloud, AI and DPI
 
+- Digital economy output is not the value of every electronic transaction.
+- MeitY-ICRIER estimated 11.74 per cent of national income and 14.67 million workers in 2022-23; the 20 per cent GVA figure for 2029-30 is a projection.
+- Data are non-rival in use, but collection, compute, legal access and control are scarce.
+- Cloud lowers fixed costs while creating switching, outage and infrastructure-concentration risks.
+- AI can automate routine tasks and augment judgement; accountable human review remains necessary for consequential decisions.
+- Marketplace and inventory e-commerce differ by stock/control and seller liability.
 - DPI is shared interoperable capability, not one government super-app.
 - Separate foundational/discovery, transactional/consent and application layers.
 - Cross-side network effects can be pooled at an open rail while apps compete.
@@ -2279,89 +1831,103 @@ Define and classify
 
 Apply **CLAIMS**: Capability, Liability, Access/architecture, Incentives, Market structure/measurement, Security/sustainability. India's strategy should combine high-productivity tradable services with labour-intensive domestic services; population-scale interoperable rails with plural applications; innovation with rights; and exports with domestic supplier, worker and research spillovers.
 
+## 15. Optional Advanced recall
+
+- Quality-adjusted service productivity can diverge from revenue-based productivity.
+- Baumol's cost disease remains relevant where human time is intrinsic to service quality.
+- Data feedback, cloud dependence and default interfaces can relocate bottleneck power above an open protocol.
+- Dynamic contestability asks whether users can multihome, move reputation and obtain fair discovery.
+- Interoperability needs secure standard-setting, versioning and proportionate access.
+- Digital-lending unbundling does not remove the regulated entity's responsibility.
+- Formal AA consent can still be weak when bargaining power and literacy are unequal.
+- CBDC design varies across retail/wholesale, token/account, online/offline, general/programmable, direct/intermediated and privacy choices.
+- DPDP implementation is phased; verify the commencement of the specific obligation.
+- Payments Vision 2028 reflects the shift from adoption alone to portability, fraud responsibility, resilience and trust.
+
 # COVERAGE MATRIX
 
-| Required boundary | Lesson | Visual | Calculation/case | PYQ route | Revision | MCQs | Micro-model |
-|---|---:|---|---|---|---:|---:|---|
-| Classification/GVA/productivity | 1 | measurement map | GVA and 7.7% productivity | 2024 Q45 | 10 | 2 | yes |
-| GATS Modes 1-4 | 2 | border map | hospital four-mode case | 2025 GS-III Q2 | 10 | 4 | yes |
-| IT-BPM/GCC | 3 | value ladder | dated GCC/IT data | 2023 GS-III Q2 | 10 | 3 | yes |
-| Tourism/logistics/professional | 4 | service chain | Rs 6,575 delay cost | 2024 GS-III Q6/Q12 | 10 | 3 | yes |
-| DPI/network effects, Aadhaar-DBT and metaverse boundary | 5 | stack and delivery chain | adoption equation and exclusion case | 2023 GS-III Q2; 2024 Q48 | 13 | 3 + drill | yes |
-| UPI/MDR/NFS/authentication | 6 | flow map | Rs 1,300 average | 2018 Q6/Q15/Q28; 2025 Q69 | 12 | 3 | yes |
-| Fintech/BNPL/AA/OCEN/liability | 7 | consent and origination paths | 3% monthly fee | 2023 GS-III Q2 | 13 | 3 + drill | yes |
-| CBDC/blockchain/crypto/tokenisation and society | 8 | liability and ledger maps | wallet settlement and risk channels | 2021, 2022, 2023, 2024, 2026 | 18 | 3 + drill | yes |
-| Platform pricing/tipping | 9 | feedback loop | pricing structure | 2022 Q6 | 10 | 3 | yes |
-| ONDC/models/contestability | 10 | protocol map | switching-cost case | 2026 Q87/Q89/Q97 | 12 | 3 | yes |
-| Gig work | 11 | income waterfall | Rs 167/hour case | 2024 GS-III Q11 cross-link | 10 | 3 | yes |
-| Competition/privacy/cyber | 12 | four-law map | liability map | 2022 Q6; 2023 GS-III Q2 | 12 | 3 | yes |
-| Divide/tax/measurement | 13 | divide map | unchanged-sales case | 2021/2022/2023 | 12 | 3 | yes |
-| Integrated strategy | 14 | strategy map | CLAIMS | 2023/2025/2026 Mains | 14 | 3 | yes |
+| Owner/current/PYQ unit | Teaching location | Evidence/visual | Practice/model | Status |
+|---|---|---|---|---|
+| Services classification, GVA and measurement | Lesson 1 | GVA flow/calculation | local trio; final Q3 | complete Core |
+| Structure, productivity, employment and job quality | Lesson 1 | output-employment test; Survey/PLFS | local model; cumulative 1 | complete Core |
+| Services trade and GATS Modes 1-4 | Lesson 2 | border map | PYQ route; final Q3 | complete Core |
+| IT-BPM, GCCs, cloud and AI | Lesson 3 | value ladder/AI flow | local model; final Q6 | complete Core |
+| Tourism, logistics and professional services | Lesson 4 | service chain; 2025 data | local trio/model | complete Core |
+| Digital economy, data, cloud, AI and e-commerce | Lesson 5 | input-process-output map | local trio; cumulative 2 | complete Core |
+| DPI, Aadhaar-DBT, metaverse, network effects | Lesson 5 | stack/delivery/adoption | 2023/2024 routes | complete Core |
+| UPI, MDR, NFS and authentication | Lesson 6 | money/message flow; RBI FY26 | 2018/2025/2026 routes | complete Core |
+| Lending, BNPL, AA, OCEN and liability | Lesson 7 | consent/origination | final Q4 | complete Core |
+| CBDC, blockchain, crypto, NFT and tokenisation | Lesson 8 | liability/ledger maps | 2021-2026 routes | complete Core |
+| Two-sided pricing and tipping | Lesson 9 | feedback/data flywheel | final Q2 | complete Core |
+| E-commerce, ONDC, dropshipping, crowdfunding | Lesson 10 | model/protocol maps | 2022/2026 routes; Q5 | complete Core |
+| Gig/platform work | Lesson 11 | income waterfall | Topic 22 boundary | complete Core |
+| Competition, privacy, consumer and cyber | Lesson 12 | four-harm map | remediation/local model | complete Core |
+| Divide, tax and digital productivity | Lesson 13 | divide/measurement map | 2021/2023 routes | complete Core |
+| Integrated strategy | Lesson 14 | CLAIMS/strategy map | final Q6 | complete Core |
+| Advanced measurement, cloud/AI concentration, contestability, lending accountability, CBDC design | Lesson 15 | bottleneck/CBDC matrix | optional trio/model | complete Advanced |
+| Verified PYQs through 2026 | local + final table | exact status/numbering | approaches only | complete neutral |
 
-## Practice inventory
+## Counts and ceiling check
 
-- Lesson MCQs: **42**.
-- Original cumulative MCQs: **16**.
-- Remediation MCQs: **8**.
-- Total original MCQs: **66**, with one continuous key rotation beginning A and proceeding A-B-C-D without reset.
-- Original Mains: two 10-mark, two 15-mark and two 20-mark questions, all with complete models.
-- Actual PYQs: linkage/directive/demand/approach only; no solved model answers or objective keys.
+- Lessons: **15**--14 Core/Core-synthesis and 1 distinct Optional Advanced.
+- Lesson-local concept trios: **15**, exactly one per lesson.
+- Lesson-local Mains models: **15**, each 10 marks/maximum 150 words with a unique quantified rubric.
+- Final Mains models: **6**--two 10-mark/150-word, two 15-mark/250-word and two 20-mark/250-word--each with a distinct rubric.
+- Compiled four-option MCQs: **0**.
+- Displayed PYQ keys, eliminations or solved models: **0**.
 
 # SOURCE LEDGER
 
-## Governing and canonical local sources
+## Provenance and verification boundary
 
-| Source | Use | Verification |
+| Class | Exact source/docket | Use |
 |---|---|---|
-| `instructions/README.md` | instruction registry | fully read before drafting |
-| `instructions/GENERATION-OPTIMIZATION-AND-INTEGRITY.md` | integrity/non-compression rules | fully read |
-| `live_sessions/LIVE-SESSION-GENERATION-RULES.md` | live-session authority | fully read |
-| Economy Topic 24 basic Markdown | core definitions, distinctions and PYQ ownership | fully audited |
-| Economy Topic 24 advanced Markdown | measurement, platforms, accountability, CBDC/data refinements | fully audited |
-| Topic 24 Learner V2 package | completeness cross-check | fully audited; shell not copied |
-| Subject-wide economy-24 learning session/workbook | inventory and practice cross-check | fully audited; actual-PYQ solutions excluded |
-| Released Economy 11-23 and Nyaya-Vaisesika live edition | natural learner-facing style reference only | sampled; no shell copied |
+| Canonical Core | `upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` | every owner unit, trap and PYQ route |
+| Canonical Advanced | `upsc-ai-kit/knowledge/Economy/advanced/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` | separate optional Lesson 15 |
+| Cross owner | Economy Basic Topic 22 | gig-work scale, employment quality and law boundary |
+| Cross owners | Economy Basic Topics 05 and 08 | regulated-entity and tokenisation boundaries |
+| OCR book | `books/Indian economy ramesh singh.pdf` | services, GATS, logistics and professional-service framing |
+| OCR official PDF | `books/economic-survey-2025-26.pdf` | FY26 services, jobs, trade, GCC and digital context |
+| RBI | Annual Report 2025-26; Payments Vision 2028; Digital Rupee FAQ; Digital Lending and NBFC-AA Directions | payments, CBDC, lending and consent |
+| MeitY | DPDP official docket; MeitY-ICRIER digital-economy report | phased status and measurement |
+| MoSPI | PLFS 2025 and ASISSE material | employment and data limits |
+| Commerce/Tourism | 24 July 2026 services-export release; Tourism dashboard | exports, tourism and professional services |
+| Competition/commerce | CCI E-commerce Study; ONDC architecture | ranking, neutrality and open-network purpose |
+| Current linkage | RBI Payments Vision/Annual Report and official September 2026 fintech docket | adoption-to-trust frontier |
+| PYQs | 2018-2026 Prelims/Mains routing ledgers and official-paper OCR | neutral wording, marks, status and numbering |
 
-## Local OCR-searchable books
+## Current-data docket through 3 October 2026
 
-| Source | Evidence used | Status |
+- RBI Annual Report: UPI annual volume **24,16,169 lakh**, value **Rs 314.2 lakh crore**, nearly **86 per cent** of retail-payment volume; volume growth **30 per cent**, value growth **20.6 per cent** in 2025-26.
+- RBI usage survey: more than **30,000 users** and **10,000 merchants**; **52 per cent** user adoption and **67 per cent** merchant acceptance.
+- Commerce release: FY2025-26 services exports **USD 421.3 billion**; telecommunications, computer and information services **USD 206.6 billion**; other business services **USD 124.2 billion**.
+- Economic Survey: services **53.6 per cent of GDP in H1 FY26**, GVA growth **9.1 per cent** in FY26 FAE, about **30 per cent** of total employment and **61.9 per cent** of urban employment.
+- Tourism dashboard: **9.15 million** foreign tourist arrivals in 2025 and forex earnings about **Rs 2.7 lakh crore**.
+- MeitY-ICRIER: digital economy **11.74 per cent** of national income in 2022-23, **14.67 million** workers, projected toward **20 per cent of GVA by 2029-30**.
+- DPDP: Act enacted; Rules notified November 2025; commencement phased. No duty is called operative without its commencement basis.
+
+## PYQ control and ownership
+
+The final table is answer-neutral. Existing official keys are not reproduced; the 2026 Prelims key remains provisional. Official-paper OCR controls the disclosed ONDC/UPI-CBDC numbering discrepancy. This file owns cryptocurrency's economic architecture, while the 2021 society effects remain cross-cutting. Gig matching, control and net earnings are taught here; detailed labour law remains with Topic 22.
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
 |---|---|---|
-| `books/Indian economy ramesh singh.pdf` | service-sector linkages, employment/GVA distinction, logistics/professional-service reform, GATS context | OCR text queried directly with Python `pypdf`; pages around printed 509-529, 743 and 999 inspected |
-| `books/economic-survey-2025-26.pdf` | financial inclusion/DPI, services trade/GCC, IT-ITeS, services GVA, tourism/logistics | OCR text queried directly; relevant printed pages around 149, 159, 196, 221-222 and 313-330 inspected |
+| Canonical Markdown | checked | Complete Topic 24 Basic and Advanced owners audited and mapped |
+| Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
+| Layered/complete session | checked | Existing Topic 24 draft directly replaced; mandatory benchmark lessons read for style |
+| Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | Complete Advanced owner mapped to distinct optional Lesson 15 |
+| OCR books | checked | Ramesh Singh and Economic Survey 2025-26 OCR-searchable PDFs used |
+| PYQs through 2026 | checked | Routing ledgers and official-paper OCR audited; provisional status retained |
+| Official live sources | checked | RBI, MeitY, MoSPI, Commerce, Tourism, CCI and ONDC reviewed through 3 October 2026 |
 
-## Official current sources
+## Truthful manifest and unresolved limits
 
-| Institution/source | Publication/update/status | Claim boundary | Retrieval |
-|---|---|---|---|
-| Economic Survey 2025-26 | presented 29 January 2026 | official annual survey; chapter/table vintages retained | 25 Sep 2026 |
-| RBI Annual Report 2025-26 | released 29 May 2026 | FY2025-26 payment data, CBDC/ULI/cyber implementation | 25 Sep 2026 |
-| RBI Digital Rupee FAQ | updated 29 April 2026 | pilot status, wallet, liability, UPI QR, offline/programming exploration | 25 Sep 2026 |
-| RBI Digital Lending Directions, 2025 | issued 8 May 2025 | RE/LSP, disclosure, fund flow, data and grievance | 25 Sep 2026 |
-| RBI NBFC-AA Directions, 2025 | issued 28 November 2025; effective on website placement | consent/data-transmission roles | 25 Sep 2026 |
-| Ministry of Commerce and Industry services release | 24 July 2026 | FY2025-26 export figure and composition | 25 Sep 2026 |
-| WTO GATS training module, Article I:2 explanation | stable treaty explanation; page carries no new mutable statistic | Modes 1-4 and BOP distinction | 25 Sep 2026 |
-| CCI Market Study on E-commerce in India | January 2020 official study | ranking, neutrality, parity and data concerns; not case findings | 25 Sep 2026 |
-| MeitY DPDP Rules, 2025 | notified 13 November 2025; phased commencement | provision-specific operative status | 25 Sep 2026 |
-| MeitY-ICRIER digital-economy measurement report | January 2025 | measurement framework; not transaction-value proxy | 25 Sep 2026 |
-| ONDC official architecture page | live official page, no publication date displayed | open-network purpose and sectors; no undated scale statistic used | 25 Sep 2026 |
-| Income Tax Department VDA material | sections 115BBH/194S and official guidance current on check date | tax boundary only; no legal-tender inference | 25 Sep 2026 |
-| Ministry of Labour implementation material | Code provisions in force from 21 November 2025; 2026 rule material | status cross-link only; Topic 22 owns full law | 25 Sep 2026 |
-
-## PYQ ledgers audited
-
-- `_PYQ-ROUTING-PRELIMS-2018-2023.md`
-- `_PYQ-ROUTING-PRELIMS-2024-2025.md`
-- `_PYQ-ROUTING-PRELIMS-2026.md`
-- `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`
-- `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`
-- 2024-2025 Mains routing/notes
-- `_PYQ-GS3-2026.md`
-- `PYQ-MAINS-CA-CROSSCHECK-2026.md`
-- `notes/Economy/PYQ_Prelims_Economy_2024.md`
-- `notes/Economy/PYQ_Prelims_Economy_2025.md`
-- `notes/Economy/PYQ_Prelims_Economy_2026.md`
-- official-paper OCR under `attempts/_pyq_text`, used to resolve 2026 numbering
-
-## Stable-concept rule
-
-Definitions and derivations such as GVA, labour productivity, network effects, cross-subsidy, interoperability and GATS modes are stable concepts. They are not falsely presented as mutable September 2026 discoveries. Current scale, pilot, regulatory and export claims are separately dated above.
+- No permanently excluded final-package source was read, searched, cited or used.
+- No learner-v2 artifact was used.
+- The requested target Markdown is the only persistent file changed.
+- Reporting periods and projections remain explicitly labelled.
+- Official pages may change after 3 October 2026 and require a fresh check.
+- Digital-economy measurement is methodology-sensitive; informal-service coverage remains incomplete; adoption counts do not establish causal welfare or productivity effects.
