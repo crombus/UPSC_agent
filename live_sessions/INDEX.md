@@ -246,6 +246,7 @@
 | Polity | Topic 43 - Political Parties | 15 | 35,572 | `d2d3001c9ba6` | [Polity/43-Political-Parties/Learning-Session-Live-Edition.md](Polity/43-Political-Parties/Learning-Session-Live-Edition.md) |
 | Polity | Topic 44 - Pressure Groups | 14 | 32,749 | `75bf178e3351` | [Polity/44-Pressure-Groups/Learning-Session-Live-Edition.md](Polity/44-Pressure-Groups/Learning-Session-Live-Edition.md) |
 | Polity | Topic 45 - National Integration and Foreign Policy | 12 | 40,385 | `a04354db083d` | [Polity/45-National-Integration-and-Foreign-Policy/Learning-Session-Live-Edition.md](Polity/45-National-Integration-and-Foreign-Policy/Learning-Session-Live-Edition.md) |
+| Polity | Topic 46 - Administrative Tribunals | 7 | 18,747 | `2ae353eddc3a` | [Polity/46-Administrative-Tribunals/Learning-Session-Live-Edition.md](Polity/46-Administrative-Tribunals/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
