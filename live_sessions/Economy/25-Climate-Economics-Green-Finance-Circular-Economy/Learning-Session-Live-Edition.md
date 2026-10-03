@@ -1,42 +1,57 @@
 # Economy 25 - Climate Economics, Green Finance and Circular Economy
 
-> Complete learner-facing live edition. Stable concepts are identified as such; every mutable policy, number or status claim carries its publication/status date and retrieval date. Current-source retrieval: **25 September 2026 (Asia/Kolkata)**.
+> Complete learner-facing live edition rebuilt in the repository's current learning-session style. Stable concepts are separated from dated claims; every mutable official claim is tied to a publication/status date or an explicit access limitation. Current-source status checked through **3 October 2026 (Asia/Kolkata)**.
 
-## Frozen roadmap - 19 lessons
+## Learning roadmap - Core first, optional Advanced last
 
-| Lesson | Stage | Subtopic |
+| Lesson | Stage | Learner's question |
 |---:|---|---|
-| 1 | Foundation | Climate change as an economic problem: externalities, public goods, common resources and social welfare |
-| 2 | Core | Social Cost of Carbon: marginal damage, uncertainty, discounting and calculation laboratory |
-| 3 | Core | Carbon-pricing design: carbon tax, cap-and-trade and baseline-and-credit |
-| 4 | Core | Mitigation, adaptation and loss-and-damage economics: complements, finance gaps and decision rules |
-| 5 | Core | NDCs, net zero, carbon budgets and a just transition |
-| 6 | Core | Climate-finance architecture: sources, instruments, mitigation-adaptation allocation and finance integrity |
-| 7 | Advanced | Green taxonomy, additionality, MRV, double counting and greenwashing |
-| 8 | Core | Green, sustainability and sovereign green bonds: use of proceeds, greenium and impact reporting |
-| 9 | Advanced | Blended finance and de-risking: concessional capital, guarantees and risk allocation |
-| 10 | Core | Climate-risk transmission: physical, transition and liability risks across firms, banks, households and government |
-| 11 | Advanced | Climate scenario analysis, stress tests and disclosure: RBI, SEBI BRSR and decision-useful data |
-| 12 | Core | India's PAT-to-CCTS transition: intensity trading, compliance design and institutional architecture |
-| 13 | Advanced | Carbon-credit integrity: baselines, additionality, permanence, leakage, verification and retirement |
-| 14 | Advanced | Paris Agreement Article 6 and India: corresponding adjustments, authorisation and CCTS boundaries |
-| 15 | Core | Circular-economy hierarchy and material-flow accounting: reduce before recycle |
-| 16 | Advanced | Circular business models, industrial symbiosis, rebound effects and competitiveness |
-| 17 | Core | Extended Producer Responsibility in India: incentives, certificate markets, informal workers and waste-stream cases |
-| 18 | Advanced | Distribution, federalism and competitiveness: carbon leakage, CBAM and policy incidence |
-| 19 | Advanced | Integrated green-transition portfolio: prices, regulation, finance, innovation, circularity and safeguards |
+| 1 | Foundation | Why does climate change create several market failures at once? |
+| 2 | Core | What does the Social Cost of Carbon measure, and why is it uncertain? |
+| 3 | Core | How do a carbon tax, cap-and-trade and baseline-and-credit differ? |
+| 4 | Core | How should mitigation, adaptation and loss and damage be separated and financed? |
+| 5 | Core | How do NDCs, carbon budgets, net zero and just transition fit together? |
+| 6 | Core | What counts as climate finance, and how should volume and integrity be tested? |
+| 7 | Core | How do taxonomy, additionality, MRV and anti-greenwashing controls work? |
+| 8 | Core | What exactly do green, sustainability, sovereign and sustainability-linked bonds finance? |
+| 9 | Core | When do blended and transition finance correct risk rather than subsidise return? |
+| 10 | Core | How do physical, transition and liability risks reach firms, banks, households and government? |
+| 11 | Core | What can disclosure, scenario analysis and stress testing reveal—and not reveal? |
+| 12 | Core | How did India move from PAT to the CCTS compliance and offset architecture? |
+| 13 | Core | How do Paris Agreement Article 6 cooperation and national carbon accounting interact? |
+| 14 | Core | Why is circular economy larger than recycling, and how are material flows measured? |
+| 15 | Core | How do EPR, certificate markets and waste-sector rules change lifecycle responsibility? |
+| 16 | Core | Who bears transition costs across households, firms, states, workers and trade? |
+| 17 | Core synthesis | How should India combine pricing, finance, regulation, innovation, circularity and justice? |
+| 18 | Optional Advanced | What makes a carbon credit environmentally and legally credible? |
+| 19 | Optional Advanced | How do circular business models, industrial symbiosis and rebound alter the verdict? |
+
+### Topic boundary
+
+This Economy topic owns incentives, incidence, finance, material-flow economics, institutional design and answer architecture. Detailed climate science remains with Environment; engineering detail for renewable energy, hydrogen, CCUS and grids remains with Environment/Science/Economy Topic 31; waste-rule clauses remain with Environment Topic 15; treaty chronology remains with Environment Topic 19; and trade-law adjudication remains with Economy Topic 20. Cross-owned material is used only where the economic mechanism cannot be understood without it.
+
+### Current-status discipline
+
+- **MoEFCC/BEE/CCTS:** official 2023 scheme architecture, 2025 GEI rules and dated 2026 official expansion records were checked. The session distinguishes notified rules, amendments, drafts, methodologies, registration, issuance and actual trading; it does not call a draft steel target final or infer a live market price.
+- **RBI:** the official 28 February 2024 climate-disclosure framework remains explicitly a draft in the directly fetched RBI text. A separately dated 2025 commercial-bank climate-risk/finance direction is treated as a distinct instrument, not as automatic finalisation of the 2024 draft.
+- **SEBI:** the 28 March 2025 BRSR circular is used for the assessment/assurance and value-chain boundary; BRSR is not represented as impact certification.
+- **UNFCCC:** COP29's adopted NCQG is stated as at least USD 300 billion annually by 2035, developed countries taking the lead, distinct from the broader USD 1.3 trillion mobilisation aspiration. COP30/Belém material is used only for implementation context; no pledge is called disbursement.
+- **India's later NDC material:** an official MoEFCC portal result dated September 2026 was located, but direct document retrieval failed in this pass. No new numeric 2031-35 target is extracted or guessed here.
+- **OCR evidence:** Economic Survey 2025-26 Chapter 10 and the local OCR-searchable Indian economy text were queried for climate finance, carbon markets, green bonds, PAT and tracking integrity.
 
 ## Lesson 1 - Climate change as an economic problem: externalities, public goods, common resources and social welfare
 
-**Progress: 1 / 19 | Stage: Foundation | Subtopic: Climate change as an economic problem: externalities, public goods, common resources and social welfare**
+Progress: 1 / 19 | Stage: Foundation | Subtopic: Climate change as an economic problem: externalities, public goods, common resources and social welfare
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 Markdown plus OCR-searchable *Indian Economy* and *Economic Survey 2025-26*
 CA search: "Economic Survey 2025-26 environment climate change adaptation mitigation economic stability"
-CA found: Economic Survey 2025-26, Chapter 10, published 29 January 2026, frames climate change as a risk to livelihoods, infrastructure and economic stability and stresses adaptation, mitigation, finance and transition sequencing; retrieval 25 September 2026.
+CA found: Economic Survey 2025-26, Chapter 10, published 29 January 2026, frames climate change as a risk to livelihoods, infrastructure and economic stability and stresses adaptation, mitigation, finance and transition sequencing; retrieval 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: why the market price is incomplete
+**Learning route:** `transaction → omitted damage → instrument match`
+
+### See the missing-price wedge
 
 ```text
 FIRM / HOUSEHOLD DECISION
@@ -109,20 +124,20 @@ The Coasean insight is that clear rights and low transaction costs can permit ba
 
 No single tool closes every failure. A carbon price addresses the emissions wedge; adaptation infrastructure addresses residual damage; disclosure reduces information asymmetry; social protection addresses distributional incidence.
 
-### Strongest criticism, reply and balanced residual
+### Can nature be priced?
 
-**Criticism:** putting a monetary value on environmental damage commodifies life and nature.  
-**Reply:** appraisal already makes implicit choices when it approves a road, power plant or regulation. Explicit valuation exposes assumptions and can be supplemented by legal thresholds and safe minimum standards.  
+**Criticism:** putting a monetary value on environmental damage commodifies life and nature.
+**Reply:** appraisal already makes implicit choices when it approves a road, power plant or regulation. Explicit valuation exposes assumptions and can be supplemented by legal thresholds and safe minimum standards.
 **Balanced residual:** use monetary estimates for comparison, but retain rights, ecological limits, irreversibility and distribution as constraints rather than pretending every value is perfectly substitutable.
 
-### UPSC integration
+### Exam transfer: failure → instrument
 
-**Syllabus use:** sustainable development, resource mobilisation, growth-development trade-offs and environmental economics.  
-**Verified PYQ linkage:** 2020 Prelims GS-I Q85 tests the monetary valuation represented by the Social Cost of Carbon; the official key is unavailable locally, so no answer letter is inferred.  
-**Probable framing:** "Why is climate change a case of multiple market failures rather than only a pollution problem?"  
+**Syllabus use:** sustainable development, resource mobilisation, growth-development trade-offs and environmental economics.
+**Verified PYQ linkage:** 2020 Prelims GS-I Q85 tests the monetary valuation represented by the Social Cost of Carbon; the official key is unavailable locally, so no answer letter is inferred.
+**Probable framing:** "Why is climate change a case of multiple market failures rather than only a pollution problem?"
 **Trap:** a disclosure mandate can improve information without setting a carbon price or guaranteeing lower emissions.
 
-### Revision notes
+### Ten anchors to retain
 
 - Externality = uncompensated third-party effect.
 - Social cost = private cost + external cost.
@@ -135,55 +150,52 @@ No single tool closes every failure. A carbon price addresses the emissions wedg
 - Price, quantity, information and public-investment tools solve different failures.
 - Monetary appraisal should be combined with rights, thresholds and distribution.
 
-### Mains micro-model
+### Mains drill: diagnose multiple failure
 
-**Question:** Explain why climate change is a problem of market failure and institutional coordination, not merely an environmental problem.
+**Mains prompt:** Analyse climate change as a combined market-failure and coordination problem. Which policy instrument addresses which failure?
 
-**Model:** Define the negative emissions externality and show the `MSC = MPC + MEC` wedge. Add the public-good nature of a stable climate, common-resource pressure on atmospheric capacity and information asymmetry in finance and supply chains. Explain why fragmented voluntary action produces free-riding and why intergenerational and cross-border effects raise transaction costs. Organise remedies into carbon pricing, standards, disclosure, public adaptation and international cooperation. Conclude that efficiency requires internalisation, while legitimacy requires distributional and just-transition safeguards.
+**Ceiling:** 10 marks; maximum 150 words.
 
-### Adaptive lesson practice (2 MCQs)
+**Model (causal chain):** The central defect is both an omitted social-cost signal and fragmented authority across borders and generations. Define the negative emissions externality and show the `MSC = MPC + MEC` wedge. Add the public-good nature of a stable climate, common-resource pressure on atmospheric capacity and information asymmetry in finance and supply chains. Explain why fragmented voluntary action produces free-riding and why intergenerational and cross-border effects raise transaction costs. Organise remedies into carbon pricing, standards, disclosure, public adaptation and international cooperation. Conclude that efficiency requires internalisation, while legitimacy requires distributional and just-transition safeguards.
 
-**MCQ 1. A plant's additional output has a market value of Rs 120, private cost of Rs 90 and external damage of Rs 40. Which conclusion is correct?**
-- A. The batch has a private net benefit of Rs 30 but a social net benefit of minus Rs 10.
-- B. The batch has a social net benefit of Rs 70 because external damage is not a market payment.
-- C. The batch is socially efficient whenever private benefit exceeds private cost.
-- D. The external damage should be added to benefit because another person receives it.
 
-**MCQ 2. Which intervention most directly addresses information failure rather than the emissions externality itself?**
-- A. A tax of Rs 1,000 per tonne of emissions.
-- B. A standardised, assured disclosure of a firm's emissions and climate exposure.
-- C. A declining cap on total allowances.
-- D. A mandatory technology-performance standard.
 
-#### Answers and all-option explanations
+### Rubric: causal completeness
 
-**MCQ 1: A**
-- **A - Correct.** Private net benefit is `120 - 90 = 30`; social net benefit is `120 - 90 - 40 = -10`.
-- **B - Incorrect.** Social appraisal includes costs even when they are not paid by the decision-maker.
-- **C - Incorrect.** That is the private rule; social efficiency requires comparison with social cost.
-- **D - Incorrect.** Damage is a social cost, not a benefit.
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames externality and linked failures precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: externality wedge; linked failures; instrument match; distributional qualification. |
+| 2 | Tests the most damaging counter-case specific to externality and linked failures. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
 
-**MCQ 2: B**
-- **A - Incorrect.** A tax directly prices the externality.
-- **B - Correct.** Decision-useful disclosure reduces hidden information, though it does not itself guarantee emission reduction.
-- **C - Incorrect.** A cap is a quantity constraint on emissions.
-- **D - Incorrect.** A performance standard regulates conduct or technology.
+### Quick falsification test
 
-### Why the next lesson follows
+### Concept check
+
+**Question:** A listed cement firm discloses emissions accurately but faces neither a price nor a binding standard. Which climate-market failure remains uncorrected, and what additional instrument is needed?
+
+**Model answer:** The emissions externality remains because disclosure changes information, not the emitter’s marginal private cost or the aggregate quantity. Add a carbon price, enforceable performance standard or cap; retain disclosure for measurement and accountability.
+
+**Misconception to avoid:** Accurate disclosure is not the same as internalising damage or limiting emissions.
+
+### From externality to valuation
 
 Once external damage is recognised, policy appraisal needs a value for the damage caused by one more tonne. That produces the Social Cost of Carbon - and the difficult choices about uncertainty and discounting.
 
 ## Lesson 2 - Social Cost of Carbon: marginal damage, uncertainty, discounting and calculation laboratory
 
-**Progress: 2 / 19 | Stage: Core | Subtopic: Social Cost of Carbon: marginal damage, uncertainty, discounting and calculation laboratory**
+Progress: 2 / 19 | Stage: Core | Subtopic: Social Cost of Carbon: marginal damage, uncertainty, discounting and calculation laboratory
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 Markdown and OCR-searchable environmental-economics passages
 CA search: "official Social Cost of Carbon policy appraisal discount rate marginal tonne definition"
-CA found: no single universally binding Indian SCC value located in the official sources checked; retrieval 25 September 2026. This lesson therefore teaches the stable valuation method and uses transparent hypothetical calculations rather than an undated dollar figure.
+CA found: no single universally binding Indian SCC value located in the official sources checked; retrieval 3 October 2026. This lesson therefore teaches the stable valuation method and uses transparent hypothetical calculations rather than an undated dollar figure.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: one tonne, many future damages
+**Learning route:** `damage stream → assumptions → sensitivity`
+
+### Damage diary → present value
 
 ```text
 1 EXTRA TONNE OF CO2e TODAY
@@ -300,19 +312,13 @@ climate cost = project emissions x chosen SCC
 
 If a road alternative emits 100,000 additional tonnes and the appraisal SCC is Rs 2,000 per tonne, the climate-cost entry is Rs 20 crore. This is a **shadow cost** in appraisal. It is not proof that the project paid Rs 20 crore or that a market traded at Rs 2,000.
 
-### Strongest criticism, reply and residual
+### Model-risk hearing
 
-**Criticism:** integrated assessment models combine uncertain climate, growth and damage assumptions, creating a number that looks more precise than the evidence.  
-**Reply:** transparent ranges and sensitivity analysis are better than assigning an implicit value of zero.  
+**Criticism:** integrated assessment models combine uncertain climate, growth and damage assumptions, creating a number that looks more precise than the evidence.
+**Reply:** transparent ranges and sensitivity analysis are better than assigning an implicit value of zero.
 **Residual:** use SCC as one decision input alongside physical thresholds, distribution, adaptation capacity and precaution.
 
-### UPSC integration
-
-**Verified PYQ:** 2020 Prelims GS-I Q85 concerns the monetary valuation of emissions damage represented by SCC. The local ledger records the official key as unavailable; no answer letter is stated.  
-**Probable Mains demand:** "How does the choice of discount rate shape climate policy?"  
-**Trap:** SCC, carbon tax and market price may inform one another but need not be equal.
-
-### Revision notes
+### SCC sensitivity card
 
 - SCC values the marginal damage of one additional tonne.
 - It is a present-value estimate, not an observed market price.
@@ -325,67 +331,58 @@ If a road alternative emits 100,000 additional tonnes and the appraisal SCC is R
 - Project appraisal can use SCC as a shadow price.
 - Always present ranges and sensitivity rather than false precision.
 
-### Mains micro-model
+### PYQ lens and appraisal use
 
-**Question:** Why is the Social Cost of Carbon analytically useful but ethically and empirically contested?
+**Verified PYQ:** 2020 Prelims GS-I Q85 concerns the monetary valuation of emissions damage represented by SCC. The local ledger records the official key as unavailable; no answer letter is stated.
+**Probable Mains demand:** "How does the choice of discount rate shape climate policy?"
+**Trap:** SCC, carbon tax and market price may inform one another but need not be equal.
 
-**Model:** Define SCC as discounted marginal damage. Explain the emissions-climate-damage-discount chain and show how lower discounting raises present value. Add uncertainty in climate sensitivity, damage functions, adaptation and catastrophic tails. Discuss intergenerational equity and distribution weights. Distinguish SCC from tax and permit price. Conclude that transparent ranges and sensitivity analysis improve appraisal, but rights, safe minimum standards and precaution must supplement the monetary estimate.
+### Assumption check
 
-### Adaptive lesson practice (3 MCQs)
+### Concept check
 
-**MCQ 3. Future marginal damages from one tonne are Rs 121 after two years. At a 10% annual discount rate, the present value is:**
-- A. Rs 121
-- B. Rs 110
-- C. Rs 100
-- D. Rs 99
+**Question:** Two ministries produce different SCC values from the same tonne of emissions. What assumptions should be compared before calling either estimate wrong?
 
-**MCQ 4. Which change, other assumptions unchanged, most directly raises an SCC estimate?**
-- A. Excluding low-probability severe damage.
-- B. Raising the social discount rate.
-- C. Shortening the damage horizon.
-- D. Lowering the social discount rate.
+**Model answer:** Compare climate pathway, damage function, time horizon, discount rate, treatment of catastrophic risk, equity weights, tonne definition and currency/base year. Different transparent normative and empirical assumptions can yield defensible ranges without arithmetic error.
 
-**MCQ 5. Which statement preserves the correct boundary?**
-- A. SCC is a model-based damage benchmark; a tax is statutory and a trading price emerges from market design.
-- B. SCC is whatever price a carbon credit last traded at.
-- C. Every efficient carbon tax must equal every published SCC estimate.
-- D. SCC measures average historical damage rather than marginal future damage.
+**Misconception to avoid:** Difference does not prove error; hidden assumptions and false precision are the real warning signs.
 
-#### Answers and all-option explanations
+### Mains drill: defend a range, not a magic number
 
-**MCQ 3: C**
-- **A - Incorrect.** That is the undiscounted future value.
-- **B - Incorrect.** It discounts for only one year.
-- **C - Correct.** `121 / 1.1^2 = 100`.
-- **D - Incorrect.** It does not follow from the stated calculation.
+**Mains prompt:** Evaluate the use of the Social Cost of Carbon in public appraisal when discounting, distribution and tail risk are contested.
 
-**MCQ 4: D**
-- **A - Incorrect.** Excluding severe states generally reduces expected damage.
-- **B - Incorrect.** A higher rate places less present weight on future damage.
-- **C - Incorrect.** Removing later damages usually lowers the estimate.
-- **D - Correct.** A lower rate increases the present value of future losses.
+**Ceiling:** 10 marks; maximum 150 words.
 
-**MCQ 5: A**
-- **A - Correct.** It separates valuation, law and market outcomes.
-- **B - Incorrect.** Credit prices reflect supply, demand and rules, not the full estimated damage.
-- **C - Incorrect.** Estimates vary and policy also reflects feasibility, distribution and uncertainty.
-- **D - Incorrect.** SCC is marginal and forward-looking in the appraisal sense.
+**Model (sensitivity argument):** SCC is most defensible as a transparent sensitivity range for appraisal, not as a timeless revealed price. Define SCC as discounted marginal damage. Explain the emissions-climate-damage-discount chain and show how lower discounting raises present value. Add uncertainty in climate sensitivity, damage functions, adaptation and catastrophic tails. Discuss intergenerational equity and distribution weights. Distinguish SCC from tax and permit price. Conclude that transparent ranges and sensitivity analysis improve appraisal, but rights, safe minimum standards and precaution must supplement the monetary estimate.
 
-### Why the next lesson follows
+
+
+### Rubric: assumption transparency
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames SCC assumptions and sensitivity precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: definition; assumptions; discounting/tail risk; SCC-tax-price distinction. |
+| 2 | Tests the most damaging counter-case specific to SCC assumptions and sensitivity. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### From damage value to policy signal
 
 SCC can indicate the size of the unpriced harm, but policy must still choose how to internalise it. The next lesson compares price certainty, quantity certainty and intensity-based crediting.
 
 ## Lesson 3 - Carbon-pricing design: carbon tax, cap-and-trade and baseline-and-credit
 
-**Progress: 3 / 19 | Stage: Core | Subtopic: Carbon-pricing design: carbon tax, cap-and-trade and baseline-and-credit**
+Progress: 3 / 19 | Stage: Core | Subtopic: Carbon-pricing design: carbon tax, cap-and-trade and baseline-and-credit
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 Markdown, OCR-searchable *Indian Economy*, and Economic Survey 2025-26 carbon-market section
 CA search: "Economic Survey 2025-26 Carbon Credit Trading Scheme baseline and credit cap and trade lessons"
-CA found: Economic Survey 2025-26, Chapter 10, published 29 January 2026, describes India's CCTS as an emission-intensity baseline-and-credit system and contrasts it with absolute-cap systems; retrieval 25 September 2026.
+CA found: Economic Survey 2025-26, Chapter 10, published 29 January 2026, describes India's CCTS as an emission-intensity baseline-and-credit system and contrasts it with absolute-cap systems; retrieval 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: three ways to create a carbon signal
+**Learning route:** `control variable → incidence → design choice`
+
+### Instrument control panel
 
 ```text
 CARBON TAX
@@ -409,14 +406,14 @@ Two cement plants can abate at different costs. Plant A can cut one tonne for Rs
 
 A carbon tax imposes a statutory charge per tonne. If tax `T` exceeds a firm's marginal abatement cost, it will usually abate; if abatement costs more than `T`, it pays the tax.
 
-**Strengths:** price predictability, administratively familiar revenue collection, possible revenue recycling.  
+**Strengths:** price predictability, administratively familiar revenue collection, possible revenue recycling.
 **Limits:** emissions quantity is uncertain; tax coverage and measurement can be difficult; political resistance rises with visible energy prices.
 
 ### Cap-and-trade
 
 The regulator fixes a total cap and issues allowances. Trading produces a market price. Firms with low abatement cost sell; high-cost firms buy.
 
-**Strengths:** quantity control under the cap, cost-effective trading, auction revenue.  
+**Strengths:** quantity control under the cap, cost-effective trading, auction revenue.
 **Limits:** volatile prices, allowance over-allocation, market power, monitoring complexity and competitiveness concerns.
 
 ### Baseline-and-credit
@@ -460,19 +457,32 @@ gross revenue = Rs 1,000 crore
 
 If 40% funds equal household transfers, 30% funds grid and public transport, 20% funds worker-region adjustment and 10% administration/MRV, the tax can change both emissions incentives and distribution. Revenue use is not an afterthought; it shapes political durability.
 
-### Strongest criticism, reply and residual
+### Adversarial instrument test
 
-**Criticism:** carbon pricing lets rich polluters "pay to pollute."  
-**Reply:** a stringent price or cap makes pollution costly and can finance public transition, while standards can constrain activities with unacceptable local harms.  
+**Criticism:** carbon pricing lets rich polluters "pay to pollute."
+**Reply:** a stringent price or cap makes pollution costly and can finance public transition, while standards can constrain activities with unacceptable local harms.
 **Residual:** combine carbon pricing with local-pollution limits, technology standards, competition policy and justice safeguards.
 
-### UPSC integration
+### Mains design memo
 
-**India bridge:** PAT uses tradable Energy Saving Certificates against energy-intensity targets; CCTS uses a wider greenhouse-gas intensity compliance architecture. Their current legal and operational detail is taught in Lesson 12.  
-**Trap:** an offset credit is not the same instrument as an allowance under an absolute cap.  
-**Answer use:** compare certainty, unit, allocation, revenue, MRV and distribution.
+**Mains prompt:** Compare a carbon tax, cap-and-trade and baseline-and-credit, and recommend a design logic for heterogeneous Indian industry.
 
-### Revision notes
+**Ceiling:** 10 marks; maximum 150 words.
+
+**Model (compare–design–judge):** Instrument choice should follow the uncertainty to be controlled, the sector’s output dynamics and the state’s MRV capacity. Define the control variable in each instrument. Compare price versus quantity certainty, administrative needs, allowance or credit allocation, revenue, market liquidity and intensity-versus-absolute outcomes. Use a numerical baseline-credit example. Add competitiveness, pass-through and progressive recycling. Conclude that design quality - coverage, scarcity, MRV and complementary standards - matters more than the generic label.
+
+
+
+### Rubric: comparative design
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames carbon-pricing uncertainty and incidence precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: price/quantity/baseline comparison; uncertainty; incidence; Indian design fit. |
+| 2 | Tests the most damaging counter-case specific to carbon-pricing uncertainty and incidence. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### Instrument-selection checklist
 
 - Tax fixes price; emissions quantity adjusts.
 - Cap-and-trade fixes aggregate quantity; price adjusts.
@@ -485,67 +495,39 @@ If 40% funds equal household transfers, 30% funds grid and public transport, 20%
 - Instrument choice depends on damage and cost uncertainty.
 - Carbon pricing should not replace local environmental standards.
 
-### Mains micro-model
+### Design choice under a directive
 
-**Question:** Compare carbon tax, cap-and-trade and baseline-and-credit as instruments for industrial decarbonisation.
+**India bridge:** PAT uses tradable Energy Saving Certificates against energy-intensity targets; CCTS uses a wider greenhouse-gas intensity compliance architecture. Their current legal and operational detail is taught in Lesson 12.
+**Trap:** an offset credit is not the same instrument as an allowance under an absolute cap.
+**Answer use:** compare certainty, unit, allocation, revenue, MRV and distribution.
 
-**Model:** Define the control variable in each instrument. Compare price versus quantity certainty, administrative needs, allowance or credit allocation, revenue, market liquidity and intensity-versus-absolute outcomes. Use a numerical baseline-credit example. Add competitiveness, pass-through and progressive recycling. Conclude that design quality - coverage, scarcity, MRV and complementary standards - matters more than the generic label.
+### Instrument-choice checkpoint
 
-### Adaptive lesson practice (3 MCQs)
+### Concept check
 
-**MCQ 6. A regulator wants a fixed economy-wide emissions quantity but accepts price variation. Which instrument most directly fits?**
-- A. Voluntary disclosure.
-- B. Cap-and-trade.
-- C. A fixed carbon tax.
-- D. A green-bond framework.
+**Question:** Output is expected to grow rapidly and abatement costs are uncertain. What does a baseline-and-credit system control, and what does it leave uncertain?
 
-**MCQ 7. A plant's target is 1.5 tCO2e per unit, actual intensity is 1.3 and output is 5,000 units. Ignoring other rules, credits equal:**
-- A. 200 tCO2e
-- B. 500 tCO2e
-- C. 1,000 tCO2e
-- D. 1,500 tCO2e
+**Model answer:** It controls performance relative to an output or intensity baseline and creates credits or obligations around that benchmark. Absolute emissions remain uncertain because output growth can outweigh efficiency gains; baseline stringency and MRV therefore matter.
 
-**MCQ 8. Why can an intensity-based scheme coexist with rising absolute emissions?**
-- A. Credits never represent a unit of emissions.
-- B. Intensity is always measured in currency.
-- C. A lower intensity automatically raises the cap.
-- D. Output can grow faster than emissions per unit decline.
+**Misconception to avoid:** An intensity benchmark is not an absolute emissions cap.
 
-#### Answers and all-option explanations
-
-**MCQ 6: B**
-- **A - Incorrect.** Disclosure does not fix an aggregate emissions quantity.
-- **B - Correct.** The cap establishes quantity and trading discovers price.
-- **C - Incorrect.** A tax fixes price while quantity responds.
-- **D - Incorrect.** A financing label does not create an emissions cap.
-
-**MCQ 7: C**
-- **A - Incorrect.** It omits most eligible output.
-- **B - Incorrect.** It applies an incorrect intensity gap.
-- **C - Correct.** `(1.5 - 1.3) x 5,000 = 1,000 tCO2e`.
-- **D - Incorrect.** It equals the target intensity times 1,000, not the credit formula.
-
-**MCQ 8: D**
-- **A - Incorrect.** Properly issued credits are denominated in a defined emissions unit.
-- **B - Incorrect.** Intensity is emissions per unit of output or another physical/economic denominator.
-- **C - Incorrect.** No automatic cap change follows from the definition.
-- **D - Correct.** Total emissions equal intensity multiplied by output.
-
-### Why the next lesson follows
+### From incentives to unavoidable loss
 
 Pricing can reduce future emissions, but it cannot eliminate climate impacts already locked in or compensate every irreversible loss. Policy must separate mitigation, adaptation and loss and damage.
 
 ## Lesson 4 - Mitigation, adaptation and loss-and-damage economics: complements, finance gaps and decision rules
 
-**Progress: 4 / 19 | Stage: Core | Subtopic: Mitigation, adaptation and loss-and-damage economics: complements, finance gaps and decision rules**
+Progress: 4 / 19 | Stage: Core | Subtopic: Mitigation, adaptation and loss-and-damage economics: complements, finance gaps and decision rules
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 Markdown and Economic Survey 2025-26 adaptation-finance chapter
 CA search: "Economic Survey 2025-26 adaptation finance mitigation skew India public investment loss and damage"
-CA found: Economic Survey 2025-26, published 29 January 2026, states that adaptation is central to India's strategy, that international/private flows are skewed toward mitigation, and that adaptation is predominantly advanced through public investment and domestic resources; retrieval 25 September 2026.
+CA found: Economic Survey 2025-26, published 29 January 2026, states that adaptation is central to India's strategy, that international/private flows are skewed toward mitigation, and that adaptation is predominantly advanced through public investment and domestic resources; retrieval 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: three different economic tasks
+**Learning route:** `objective → appraisal → residual loss`
+
+### Three climate ledgers
 
 ```text
 CAUSE OF FUTURE WARMING --------> MITIGATION
@@ -606,7 +588,7 @@ Risk pooling can cover probabilistic loss, price risk and speed recovery. It bec
 
 **Stable concept; no separate current claim:** economic loss includes income, property and infrastructure; non-economic loss includes life, health, culture, territory and ecosystem services. Attribution, responsibility, access and grant-versus-loan design are central political-economy questions.
 
-**Current anchor:** UNFCCC COP30 decisions recorded progress in operationalising the Fund for responding to Loss and Damage and a 2025-2026 first set of interventions; official UNFCCC decision/outcome pages retrieved 25 September 2026. The lesson does not convert announced finance into disbursement or India-specific receipt.
+**Current anchor:** UNFCCC COP30 decisions recorded progress in operationalising the Fund for responding to Loss and Damage and a 2025-2026 first set of interventions; official UNFCCC decision/outcome pages retrieved 3 October 2026. The lesson does not convert announced finance into disbursement or India-specific receipt.
 
 ### Mitigation-adaptation interaction
 
@@ -615,19 +597,23 @@ Risk pooling can cover probabilistic loss, price risk and speed recovery. It bec
 - climate-resilient agriculture can protect yields and sometimes reduce emissions;
 - poorly designed seawalls can create ecological loss and transfer erosion.
 
-### Strongest criticism, reply and residual
+### What finance cannot repair
 
-**Criticism:** "development is adaptation" can become an excuse to postpone mitigation.  
-**Reply:** health, income, infrastructure and state capacity genuinely reduce vulnerability.  
+**Criticism:** "development is adaptation" can become an excuse to postpone mitigation.
+**Reply:** health, income, infrastructure and state capacity genuinely reduce vulnerability.
 **Residual:** development must be climate-informed; otherwise it can lock in exposed assets and high emissions. Adaptation and mitigation are complements, not substitutes.
 
-### UPSC integration
+### Objective-sorting checkpoint
 
-**Cross-linked Mains:** 2024 GS-III Q18 on climate-induced urban flooding belongs primarily to Disaster Management but uses adaptation economics; 2025 GS-III Q18 on Paris commitments belongs primarily to Environment.  
-**Trap:** adaptation expenditure is not evidence that vulnerability fell; require outcome metrics.  
-**Answer use:** classify intervention, identify beneficiary, monetisable cash flow, public-good component, residual risk and maladaptation.
+### Concept check
 
-### Revision notes
+**Question:** A coastal project cuts expected cyclone loss but cannot prevent all displacement. Classify the spending between adaptation and residual loss-and-damage response.
+
+**Model answer:** Expected-loss reduction is adaptation. Compensation, relocation and support for harm that remains unavoidable belong to residual loss-and-damage response. The classification depends on purpose and timing, not merely on whether both use public money.
+
+**Misconception to avoid:** Insurance payout, adaptation investment and loss-and-damage support are not interchangeable labels.
+
+### Three-column recall sheet
 
 - Mitigation reduces emissions or enhances sinks.
 - Adaptation reduces exposure or vulnerability.
@@ -641,55 +627,48 @@ Risk pooling can cover probabilistic loss, price risk and speed recovery. It bec
 - Development helps adaptation only when climate-informed.
 - Finance claims must separate pledge, approval, disbursement and outcome.
 
-### Mains micro-model
+### Mains appraisal note
 
-**Question:** Why does adaptation require a different financing strategy from mitigation?
+**Mains prompt:** Distinguish mitigation, adaptation and loss and damage, and explain why their benefit profiles require different financing strategies.
 
-**Model:** Distinguish hazard reduction from vulnerability reduction. Explain that many mitigation assets earn revenue through energy or efficiency, while adaptation produces public and avoided-loss benefits that investors cannot fully capture. Add local-government capacity, uncertainty and low ability to pay. Use an avoided-loss calculation. Recommend public investment, resilient standards, concessional finance, guarantees, insurance and community planning. Conclude with maladaptation and distribution safeguards, while maintaining mitigation as a complement.
+**Ceiling:** 10 marks; maximum 150 words.
 
-### Adaptive lesson practice (2 MCQs)
+**Model (objective–finance–residual):** The three tasks differ in objective, beneficiary, revenue profile and treatment of residual harm. Distinguish hazard reduction from vulnerability reduction. Explain that many mitigation assets earn revenue through energy or efficiency, while adaptation produces public and avoided-loss benefits that investors cannot fully capture. Add local-government capacity, uncertainty and low ability to pay. Use an avoided-loss calculation. Recommend public investment, resilient standards, concessional finance, guarantees, insurance and community planning. Conclude with maladaptation and distribution safeguards, while maintaining mitigation as a complement.
 
-**MCQ 9. Which project is primarily adaptation rather than mitigation?**
-- A. Raising and cooling an urban health centre to remain functional during floods and heatwaves.
-- B. Replacing coal generation with zero-emission power solely to reduce emissions.
-- C. Purchasing allowances under an emissions cap.
-- D. Capturing methane solely for sale as a carbon credit.
 
-**MCQ 10. Why are many adaptation projects difficult to finance purely through commercial debt?**
-- A. They never produce measurable benefits.
-- B. Their benefits are often avoided losses and public goods that cannot be fully captured as borrower cash flow.
-- C. International law prohibits interest-bearing adaptation loans.
-- D. Adaptation always has a shorter asset life than mitigation.
 
-#### Answers and all-option explanations
+### Rubric: objective separation
 
-**MCQ 9: A**
-- **A - Correct.** The project reduces vulnerability and continuity risk from climate hazards.
-- **B - Incorrect.** Its stated purpose is emissions reduction.
-- **C - Incorrect.** Allowance purchase is a compliance action under mitigation policy.
-- **D - Incorrect.** The stated mechanism concerns emissions reduction and crediting.
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames mitigation, adaptation and residual loss precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: three-part distinction; avoided-loss logic; finance gap; residual-risk qualification. |
+| 2 | Tests the most damaging counter-case specific to mitigation, adaptation and residual loss. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
 
-**MCQ 10: B**
-- **A - Incorrect.** Avoided loss, service continuity and resilience can be measured, though imperfectly.
-- **B - Correct.** Social benefits may exceed monetisable borrower revenue.
-- **C - Incorrect.** No such universal prohibition exists.
-- **D - Incorrect.** Asset life varies by project and is not the defining constraint.
+### Deploying the three-task distinction
 
-### Why the next lesson follows
+**Cross-linked Mains:** 2024 GS-III Q18 on climate-induced urban flooding belongs primarily to Disaster Management but uses adaptation economics; 2025 GS-III Q18 on Paris commitments belongs primarily to Environment.
+**Trap:** adaptation expenditure is not evidence that vulnerability fell; require outcome metrics.
+**Answer use:** classify intervention, identify beneficiary, monetisable cash flow, public-good component, residual risk and maladaptation.
+
+### From climate tasks to commitments
 
 Mitigation, adaptation and residual loss operate over decades. Countries therefore express trajectories through NDCs, long-term strategies and net-zero goals, which must be read with carbon-budget and justice discipline.
 
 ## Lesson 5 - NDCs, net zero, carbon budgets and a just transition
 
-**Progress: 5 / 19 | Stage: Core | Subtopic: NDCs, net zero, carbon budgets and a just transition**
+Progress: 5 / 19 | Stage: Core | Subtopic: NDCs, net zero, carbon budgets and a just transition
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 Markdown, India's UNFCCC submissions and Economic Survey 2025-26 transition discussion
 CA search: "UNFCCC India NDC 2031-2035 submitted 24 April 2026 official"
-CA found: UNFCCC registry lists India's NDC for 2031-2035 as submitted on 24 April 2026; retrieval 25 September 2026. The lesson states its existence and date but does not reproduce numerical targets not independently extracted from the official PDF.
+CA found: UNFCCC registry lists India's NDC for 2031-2035 as submitted on 24 April 2026; retrieval 3 October 2026. The lesson states its existence and date but does not reproduce numerical targets not independently extracted from the official PDF.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: target vocabulary
+**Learning route:** `metric → timing → justice`
+
+### Target vocabulary on a time axis
 
 ```text
 CARBON BUDGET -> cumulative emissions compatible with a temperature objective
@@ -719,9 +698,9 @@ JUST TRANSITION -> manage worker, region, consumer and access consequences
 
 ### India's dated submission boundary
 
-**Fact:** India's updated first NDC was submitted to UNFCCC in August 2022. It includes a 2030 emissions-intensity target relative to 2005 and an about-50% cumulative installed electric-power capacity target from non-fossil sources, alongside other elements. Official UNFCCC submission published August 2022; retrieved 25 September 2026.
+**Fact:** India's updated first NDC was submitted to UNFCCC in August 2022. It includes a 2030 emissions-intensity target relative to 2005 and an about-50% cumulative installed electric-power capacity target from non-fossil sources, alongside other elements. Official UNFCCC submission published August 2022; retrieved 3 October 2026.
 
-**Fact:** the UNFCCC registry lists India's next NDC covering 2031-2035 as submitted on 24 April 2026; registry retrieved 25 September 2026.
+**Fact:** the UNFCCC registry lists India's next NDC covering 2031-2035 as submitted on 24 April 2026; registry retrieved 3 October 2026.
 
 Do not merge:
 
@@ -782,21 +761,31 @@ The calculation makes transition liabilities visible. It does not prove that tra
 
 ### Competitiveness and sequencing
 
-The Economic Survey 2025-26, published 29 January 2026, stresses grid readiness, storage, industrial competitiveness and sequencing in the transition; retrieved 25 September 2026. This is a current policy argument, not a stable theorem. A durable pathway combines reliability, affordability and decarbonisation rather than treating any one as optional.
+The Economic Survey 2025-26, published 29 January 2026, stresses grid readiness, storage, industrial competitiveness and sequencing in the transition; retrieved 3 October 2026. This is a current policy argument, not a stable theorem. A durable pathway combines reliability, affordability and decarbonisation rather than treating any one as optional.
 
-### Strongest criticism, reply and residual
+### Target-language traps
 
-**Criticism:** just transition can become a veto used by incumbents to delay change.  
-**Reply:** unmanaged closures create concentrated harm and political backlash that can derail climate policy.  
-**Residual:** support people and places, not perpetual high-carbon production; make assistance time-bound, conditional and outcome-tracked.
-
-### UPSC integration
-
-**Cross-linked PYQs:** 2021 GS-III Q17 on COP26 outcomes; 2022 GS-III Q12 on renewable targets and fossil-fuel subsidies; 2025 GS-III Q18 on Paris/COP26/updated NDC. These are primarily Environment/Energy owners but require the economic distinctions above.  
-**Trap:** an NDC is nationally determined; it is not a globally imposed uniform quota.  
+**Cross-linked PYQs:** 2021 GS-III Q17 on COP26 outcomes; 2022 GS-III Q12 on renewable targets and fossil-fuel subsidies; 2025 GS-III Q18 on Paris/COP26/updated NDC. These are primarily Environment/Energy owners but require the economic distinctions above.
+**Trap:** an NDC is nationally determined; it is not a globally imposed uniform quota.
 **Answer use:** state boundary, baseline, metric, target year, instrument mix, finance and justice.
 
-### Revision notes
+### Justice stress test
+
+**Criticism:** just transition can become a veto used by incumbents to delay change.
+**Reply:** unmanaged closures create concentrated harm and political backlash that can derail climate policy.
+**Residual:** support people and places, not perpetual high-carbon production; make assistance time-bound, conditional and outcome-tracked.
+
+### Target-language checkpoint
+
+### Concept check
+
+**Question:** An industry reaches its intensity target while total output doubles. Can this alone establish consistency with a carbon budget or net-zero path?
+
+**Model answer:** No. Lower intensity can coexist with higher absolute emissions when output expands. A carbon-budget or net-zero assessment needs cumulative absolute emissions, scope, interim milestones, removals and a dated pathway, not one intensity indicator.
+
+**Misconception to avoid:** Intensity achievement is not proof of declining cumulative emissions.
+
+### Target and justice recall
 
 - NDC, LT-LEDS, carbon budget and net zero are distinct.
 - Net zero balances residual gross emissions with verified removals.
@@ -809,55 +798,42 @@ The Economic Survey 2025-26, published 29 January 2026, stresses grid readiness,
 - Support should enable diversification, not freeze obsolete production.
 - India's 2022 and 2026 UNFCCC submissions must be cited by their exact dates and periods.
 
-### Mains micro-model
+### Mains target-audit exercise
 
-**Question:** "A net-zero target is credible only when connected to a carbon budget and a just-transition plan." Discuss.
+**Mains prompt:** Examine how target metrics, carbon budgets and just-transition safeguards determine the credibility of a net-zero pathway.
 
-**Model:** Define net zero and cumulative carbon budget. Show why late action can exhaust more budget despite the same terminal year. Distinguish gross reduction from removals and intensity from absolute emissions. Add sector pathways, finance, MRV and policy durability. Build a just-transition frame for workers, districts, consumers and MSMEs. Conclude that credibility depends on interim milestones, finance and institutions, not a distant headline alone.
+**Ceiling:** 10 marks; maximum 150 words.
 
-### Adaptive lesson practice (2 MCQs)
+**Model (metric–timing–justice):** A credible pathway joins precise metrics and cumulative arithmetic to distributional institutions, not a distant date alone. Define net zero and cumulative carbon budget. Show why late action can exhaust more budget despite the same terminal year. Distinguish gross reduction from removals and intensity from absolute emissions. Add sector pathways, finance, MRV and policy durability. Build a just-transition frame for workers, districts, consumers and MSMEs. Conclude that credibility depends on interim milestones, finance and institutions, not a distant headline alone.
 
-**MCQ 11. Which statement about net zero is most accurate?**
-- A. It requires every sector and firm to have exactly zero gross emissions.
-- B. It permits unlimited gross emissions if cheap short-lived offsets are purchased.
-- C. It balances residual anthropogenic emissions with verified anthropogenic removals within a defined boundary.
-- D. It is identical to a fall in emissions intensity.
 
-**MCQ 12. Two pathways reach the same annual emissions in 2050. Why can their climate implications differ?**
-- A. Only emissions in the target year count.
-- B. Carbon budgets measure installed electricity capacity.
-- C. Annual emissions have no relation to warming.
-- D. The pathway with earlier reductions can use a smaller cumulative carbon budget.
 
-#### Answers and all-option explanations
+### Rubric: target and justice
 
-**MCQ 11: C**
-- **A - Incorrect.** Hard-to-abate residual emissions may remain, subject to credible removals.
-- **B - Incorrect.** Offset quality and finite removals constrain such claims.
-- **C - Correct.** Boundary, gas coverage, time and removal integrity must be defined.
-- **D - Incorrect.** Intensity is emissions per unit and does not establish net balance.
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames target metrics and just transition precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: carbon-budget logic; NDC/net-zero distinction; worker-region-consumer safeguards; sequencing. |
+| 2 | Tests the most damaging counter-case specific to target metrics and just transition. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
 
-**MCQ 12: D**
-- **A - Incorrect.** Emissions accumulate before the target year.
-- **B - Incorrect.** A carbon budget is cumulative emissions, not power capacity.
-- **C - Incorrect.** Annual flows add to cumulative atmospheric stock.
-- **D - Correct.** Earlier reductions lower cumulative emissions for the same terminal level.
-
-### Why the next lesson follows
+### From targets to capital
 
 Targets and transition plans require capital. The next lesson asks where climate finance comes from, why adaptation remains underfunded and how to distinguish mobilisation from actual impact.
 
 ## Lesson 6 - Climate-finance architecture: sources, instruments, mitigation-adaptation allocation and finance integrity
 
-**Progress: 6 / 19 | Stage: Core | Subtopic: Climate-finance architecture: sources, instruments, mitigation-adaptation allocation and finance integrity**
+Progress: 6 / 19 | Stage: Core | Subtopic: Climate-finance architecture: sources, instruments, mitigation-adaptation allocation and finance integrity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 Markdown, OCR-searchable *Indian Economy* and Economic Survey 2025-26 climate-finance section
 CA search: "Economic Survey 2025-26 climate finance India domestic sources mitigation adaptation 83 98"
-CA found: Economic Survey 2025-26, published 29 January 2026, reports that climate finance remains skewed toward mature mitigation sectors and cites domestic sourcing of about 83% of India's mitigation finance and 98% of adaptation finance; retrieval 25 September 2026. These are source-vintage estimates, not timeless ratios.
+CA found: Economic Survey 2025-26, published 29 January 2026, reports that climate finance remains skewed toward mature mitigation sectors and cites domestic sourcing of about 83% of India's mitigation finance and 98% of adaptation finance; retrieval 3 October 2026. These are source-vintage estimates, not timeless ratios.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: follow the money without double counting
+**Learning route:** `source → instrument → disbursement → outcome`
+
+### Trace a rupee to an outcome
 
 ```text
 SOURCE
@@ -949,19 +925,13 @@ The OCR-searchable *Indian Economy* text warns that unclear definitions can crea
 
 Developing economies argue that historical responsibility, differentiated capacity and higher cost of capital justify concessional international finance and technology access. Creditor countries emphasise mobilisation, private capital and measurable results. A balanced answer distinguishes legal commitments, negotiated goals, voluntary flows and actual disbursement.
 
-### Strongest criticism, reply and residual
+### Finance-answer ledger
 
-**Criticism:** climate-finance labels repackage ordinary development spending without new resources.  
-**Reply:** mainstreaming climate into development is necessary; not every useful project must be wholly additional.  
-**Residual:** report both total climate-aligned finance and the additional climate component, with transparent methodology.
-
-### UPSC integration
-
-**Probable framing:** "Why does abundant global capital coexist with an adaptation-finance gap?"  
-**Trap:** a guarantee's face value, a loan's principal and mobilised private finance are not directly additive measures of fiscal cost.  
+**Probable framing:** "Why does abundant global capital coexist with an adaptation-finance gap?"
+**Trap:** a guarantee's face value, a loan's principal and mobilised private finance are not directly additive measures of fiscal cost.
 **Answer use:** source-instrument-stage-beneficiary-risk-outcome.
 
-### Revision notes
+### Climate-finance audit card
 
 - Climate finance needs a declared taxonomy and accounting boundary.
 - Separate domestic/international and public/private sources.
@@ -975,67 +945,58 @@ Developing economies argue that historical responsibility, differentiated capaci
 - Report face value, fiscal cost and grant equivalent separately.
 - International finance debates combine efficiency, equity and responsibility.
 
-### Mains micro-model
+### Money-trail checkpoint
 
-**Question:** Diagnose the climate-finance gap in India and propose an integrity-preserving financing architecture.
+### Concept check
 
-**Model:** Open with the difference between social return and captured cash return. Separate mitigation, adaptation and transition needs. Diagnose high cost of capital, weak local pipelines, currency/tenor mismatch, technology and offtaker risk, and underpriced public benefits. Propose budget support, DFIs, bond-market depth, guarantees, local-currency lending, grants for vulnerable communities and project-preparation facilities. Add taxonomy, additionality, disbursement and outcome reporting to prevent relabelling and double counting.
+**Question:** A guarantee mobilises private lending, but the same private amount is reported by several public institutions. What two integrity tests are required?
 
-### Adaptive lesson practice (3 MCQs)
+**Model answer:** First, use an attribution rule so the same mobilised private finance is counted only once. Second, test additionality: whether the guarantee changed volume, tenor, price or risk appetite rather than relabelling finance that would have occurred anyway.
 
-**MCQ 13. Which statement best distinguishes a climate-finance commitment from disbursement?**
-- A. A commitment is an announced or approved amount; disbursement is money actually transferred under the stated conditions.
-- B. They are identical once a press release is issued.
-- C. Disbursement always measures emissions avoided.
-- D. A commitment can be counted only after project completion.
+**Misconception to avoid:** Leverage ratios do not by themselves prove either attribution or additionality.
 
-**MCQ 14. A Rs 50 crore guarantee supports a Rs 300 crore private loan. Which claim is safest?**
-- A. Public expenditure was necessarily Rs 350 crore.
-- B. The guarantee exposure is Rs 50 crore; the Rs 300 crore loan is separate private finance, and mobilisation attribution needs a method.
-- C. The guarantee itself is Rs 300 crore because that is the loan size.
-- D. All Rs 300 crore is automatically additional climate finance.
+### Mains finance-accounting response
 
-**MCQ 15. Why is adaptation commonly underprovided by private markets?**
-- A. Adaptation cannot reduce any economic loss.
-- B. All adaptation assets are illegal collateral.
-- C. Many benefits are avoided losses or public goods not fully captured in project revenue.
-- D. Mitigation projects never receive public finance.
+**Mains prompt:** Why must climate-finance assessment move from headline mobilisation to source, terms, additionality, allocation and verified outcome?
 
-#### Answers and all-option explanations
+**Ceiling:** 10 marks; maximum 150 words.
 
-**MCQ 13: A**
-- **A - Correct.** It preserves the stage distinction.
-- **B - Incorrect.** Announcement does not prove transfer.
-- **C - Incorrect.** Disbursement is a finance-flow stage, not an outcome metric.
-- **D - Incorrect.** Commitments precede completion.
+**Model (source–instrument–outcome):** Finance is credible only when each rupee has a unique source, risk allocation, stage and attributable outcome. Open with the difference between social return and captured cash return. Separate mitigation, adaptation and transition needs. Diagnose high cost of capital, weak local pipelines, currency/tenor mismatch, technology and offtaker risk, and underpriced public benefits. Propose budget support, DFIs, bond-market depth, guarantees, local-currency lending, grants for vulnerable communities and project-preparation facilities. Add taxonomy, additionality, disbursement and outcome reporting to prevent relabelling and double counting.
 
-**MCQ 14: B**
-- **A - Incorrect.** Guarantee exposure and private lending are not both immediate public spending.
-- **B - Correct.** It separates instrument face value, source and causal attribution.
-- **C - Incorrect.** The guarantee and underlying loan have different values and risks.
-- **D - Incorrect.** Additionality must be demonstrated.
 
-**MCQ 15: C**
-- **A - Incorrect.** The purpose is often to reduce expected loss.
-- **B - Incorrect.** Some adaptation assets can support finance.
-- **C - Correct.** Private cash flow may not capture the full social benefit.
-- **D - Incorrect.** Mitigation also receives public and concessional support.
 
-### Why the next lesson follows
+### Rubric: finance-flow integrity
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames finance stages and additionality precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: finance taxonomy; mobilisation versus delivery; adaptation revenue problem; integrity safeguards. |
+| 2 | Tests the most damaging counter-case specific to finance stages and additionality. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### Additionality objection
+
+**Criticism:** climate-finance labels repackage ordinary development spending without new resources.
+**Reply:** mainstreaming climate into development is necessary; not every useful project must be wholly additional.
+**Residual:** report both total climate-aligned finance and the additional climate component, with transparent methodology.
+
+### From finance volume to claim quality
 
 Once finance is labelled "green," investors need rules for eligibility and proof. That creates taxonomies, MRV and the central integrity tests of additionality and double counting.
 
 ## Lesson 7 - Green taxonomy, additionality, MRV, double counting and greenwashing
 
-**Progress: 7 / 19 | Stage: Advanced | Subtopic: Green taxonomy, additionality, MRV, double counting and greenwashing**
+Progress: 7 / 19 | Stage: Core | Subtopic: Green taxonomy, additionality, MRV, double counting and greenwashing
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 Markdown, RBI directions and SEBI disclosure material
 CA search: "India draft climate finance taxonomy May 2025 final status September 2026 official"
-CA found: Department of Economic Affairs released the Draft Framework of India's Climate Finance Taxonomy in May 2025 with comments invited to 25 June 2025; PIB release dated May 2025, retrieved 25 September 2026. RBI's 28 November 2025 bank directions state that green-deposit allocation will use the official Indian taxonomy and, pending finalisation, an interim eligible-project list; retrieved 25 September 2026. No final taxonomy notification was located in the official sources checked.
+CA found: Department of Economic Affairs released the Draft Framework of India's Climate Finance Taxonomy in May 2025 with comments invited to 25 June 2025; PIB release dated May 2025, retrieved 3 October 2026. RBI's 28 November 2025 bank directions state that green-deposit allocation will use the official Indian taxonomy and, pending finalisation, an interim eligible-project list; retrieved 3 October 2026. No final taxonomy notification was located in the official sources checked.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: a credible green claim
+**Learning route:** `classification → baseline → verification → claim`
+
+### Claim-integrity decision tree
 
 ```text
 ELIGIBLE ACTIVITY
@@ -1125,27 +1086,37 @@ Verification does not make a weak methodology strong. It can verify that a flawe
 - purchased offsets presented as operational decarbonisation;
 - an announced target presented as achieved.
 
-**Verified PYQ:** 2022 Prelims GS-I Q80 tests false eco-friendly claims by companies. The official key is unavailable locally; no answer letter is inferred.
+**Cross-owned verified PYQ:** 2022 Prelims GS-I Q80 tests false eco-friendly claims by companies. The routing ledger places principal ownership in Environment and Ecology; Economy Topic 25 uses it only to support the information-asymmetry, taxonomy and green-finance integrity mechanism. The official key is unavailable locally, so no answer letter is inferred.
 
 ### Current Indian regulatory anchor
 
-**Fact:** RBI's *Commercial Banks - Climate Finance and Management of Climate Change Risks Directions, 2025*, dated 28 November 2025 and effective immediately, define greenwashing, require board-approved green-deposit and financing frameworks, external review, annual third-party verification/assurance and impact assessment for covered activity; retrieved 25 September 2026.
+**Fact:** RBI's *Commercial Banks - Climate Finance and Management of Climate Change Risks Directions, 2025*, dated 28 November 2025 and effective immediately, define greenwashing, require board-approved green-deposit and financing frameworks, external review, annual third-party verification/assurance and impact assessment for covered activity; retrieved 3 October 2026.
 
 This is a bank-specific regulatory perimeter. It must not be generalised to every issuer or financial product.
 
-### Strongest criticism, reply and residual
+### Environment-owned PYQ; Economy mechanism
 
-**Criticism:** strict taxonomy and assurance raise costs and exclude MSMEs.  
-**Reply:** weak standards misallocate capital and damage market trust.  
-**Residual:** use proportional reporting, shared data infrastructure, technical assistance and phased thresholds without weakening core claims.
-
-### UPSC integration
-
-**Probable framing:** "Taxonomy reduces information asymmetry but cannot eliminate greenwashing."  
-**Trap:** assured disclosure is evidence about the report; it is not automatic proof of additional climate impact.  
+**Probable framing:** "Taxonomy reduces information asymmetry but cannot eliminate greenwashing."
+**Trap:** assured disclosure is evidence about the report; it is not automatic proof of additional climate impact.
 **Answer use:** objective-boundary-threshold-baseline-MRV-additionality-safeguard.
 
-### Revision notes
+### Claim-audit checkpoint
+
+### Concept check
+
+**Question:** A taxonomy labels an activity green, yet the project would have proceeded unchanged and its benefit is claimed twice. Which integrity gates fail?
+
+**Model answer:** Additionality fails because the investment is not caused by the intervention; unique-claim accounting fails because the benefit is double counted. Taxonomy eligibility alone cannot repair either failure; baseline, MRV, registry and claim rules are still required.
+
+**Misconception to avoid:** Taxonomy eligibility is not automatic evidence of additional impact or a unique claim.
+
+### Taxonomy-rigidity challenge
+
+**Criticism:** strict taxonomy and assurance raise costs and exclude MSMEs.
+**Reply:** weak standards misallocate capital and damage market trust.
+**Residual:** use proportional reporting, shared data infrastructure, technical assistance and phased thresholds without weakening core claims.
+
+### Claim-integrity red flags
 
 - Taxonomy classifies activities; it does not prove project impact.
 - Binary and transition taxonomies have different trade-offs.
@@ -1159,55 +1130,42 @@ This is a bank-specific regulatory perimeter. It must not be generalised to ever
 - Proportional rules can reduce MSME burden without abandoning integrity.
 - India's final taxonomy status must be cited from a dated official notification.
 
-### Mains micro-model
+### Mains regulatory-design response
 
-**Question:** How should India design a climate-finance taxonomy that supports transition without enabling greenwashing?
+**Mains prompt:** Design an Indian climate-finance taxonomy that supports credible transition activities while controlling greenwashing and lock-in.
 
-**Model:** State taxonomy's information role. Propose environmental objectives, measurable thresholds, exclusions, do-no-significant-harm safeguards and time-bound transition pathways. Add sectoral annexures, activity/performance criteria and proportional MSME reporting. Require use-of-proceeds tracking, MRV, additionality and public reporting. Explain why a label is not impact. Conclude with periodic tightening and grievance/review arrangements.
+**Ceiling:** 10 marks; maximum 150 words.
 
-### Adaptive lesson practice (2 MCQs)
+**Model (classification–integrity–safeguard):** A useful taxonomy guides capital while remaining subordinate to baseline, additionality, safeguards and verification. State taxonomy's information role. Propose environmental objectives, measurable thresholds, exclusions, do-no-significant-harm safeguards and time-bound transition pathways. Add sectoral annexures, activity/performance criteria and proportional MSME reporting. Require use-of-proceeds tracking, MRV, additionality and public reporting. Explain why a label is not impact. Conclude with periodic tightening and grievance/review arrangements.
 
-**MCQ 16. A project cuts emissions from 100 to 75, but the credible no-project baseline is 90. What is the additional reduction?**
-- A. 10
-- B. 25
-- C. 90
-- D. 15
 
-**MCQ 17. Which statement best describes verification?**
-- A. It checks evidence and compliance with a specified methodology; methodology quality remains a separate issue.
-- B. It replaces the need for a baseline.
-- C. It proves the financing was additional in every sense.
-- D. It guarantees that every eligible activity is socially desirable.
 
-#### Answers and all-option explanations
+### Rubric: anti-greenwashing design
 
-**MCQ 16: D**
-- **A - Incorrect.** This is the amount of baseline inflation relative to historical emissions.
-- **B - Incorrect.** It overcredits against history.
-- **C - Incorrect.** It is the no-project emissions level.
-- **D - Correct.** `90 - 75 = 15`.
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames taxonomy and claim integrity precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: eligibility logic; thresholds/DNSH; additionality/MRV; rigidity-versus-transition balance. |
+| 2 | Tests the most damaging counter-case specific to taxonomy and claim integrity. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
 
-**MCQ 17: A**
-- **A - Correct.** Verification is rule-bound checking, not a universal welfare guarantee.
-- **B - Incorrect.** Verification applies against a baseline and methodology.
-- **C - Incorrect.** Regulatory, financial and environmental additionality differ.
-- **D - Incorrect.** Eligibility and social desirability are not identical.
-
-### Why the next lesson follows
+### From taxonomy to labelled debt
 
 Taxonomy and verification become concrete in labelled debt. The next lesson follows proceeds from issuance to allocation, impact and possible greenium.
 
 ## Lesson 8 - Green, sustainability and sovereign green bonds: use of proceeds, greenium and impact reporting
 
-**Progress: 8 / 19 | Stage: Core | Subtopic: Green, sustainability and sovereign green bonds: use of proceeds, greenium and impact reporting**
+Progress: 8 / 19 | Stage: Core | Subtopic: Green, sustainability and sovereign green bonds: use of proceeds, greenium and impact reporting
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 Markdown, OCR-searchable *Indian Economy*, Economic Survey 2025-26 and official Budget/DEA material
 CA search: "India Budget 2026-27 sovereign green bond Statement 15A allocation official"
-CA found: Union Budget 2026-27 Statement 15A lists Rs 30,941.30 crore of 2026-27 budget estimates under schemes eligible for sovereign green-bond financing and states that the exact issuance amount will be notified separately; official Budget document for 2026-27, retrieved 25 September 2026.
+CA found: Union Budget 2026-27 Statement 15A lists Rs 30,941.30 crore of 2026-27 budget estimates under schemes eligible for sovereign green-bond financing and states that the exact issuance amount will be notified separately; official Budget document for 2026-27, retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: debt label and repayment source
+**Learning route:** `repayment → proceeds → price → impact`
+
+### Bond anatomy: label, proceeds, proof
 
 ```text
 GREEN / SUSTAINABILITY BOND
@@ -1254,11 +1212,11 @@ Allocation to an eligible metro project is not the same as proving net emissions
 
 ### Sovereign green-bond boundary
 
-**Fact:** India's Sovereign Green Bond Framework is an official Ministry of Finance framework for eligible public expenditure; official framework available through DEA and retrieved 25 September 2026.
+**Fact:** India's Sovereign Green Bond Framework is an official Ministry of Finance framework for eligible public expenditure; official framework available through DEA and retrieved 3 October 2026.
 
-**Fact:** Economic Survey 2025-26, published 29 January 2026, reports Rs 15,000 crore sovereign green bonds issued in FY2025-26 and cumulative issuance of Rs 72,697 crore since FY2022-23; retrieval 25 September 2026. These are issuance figures, not measured emissions outcomes.
+**Fact:** Economic Survey 2025-26, published 29 January 2026, reports Rs 15,000 crore sovereign green bonds issued in FY2025-26 and cumulative issuance of Rs 72,697 crore since FY2022-23; retrieval 3 October 2026. These are issuance figures, not measured emissions outcomes.
 
-**Fact:** Budget 2026-27 Statement 15A reports eligible scheme requirement of Rs 30,941.30 crore for 2026-27 and explicitly separates it from the amount to be raised, which is to be notified separately; retrieved 25 September 2026.
+**Fact:** Budget 2026-27 Statement 15A reports eligible scheme requirement of Rs 30,941.30 crore for 2026-27 and explicitly separates it from the amount to be raised, which is to be notified separately; retrieved 3 October 2026.
 
 ### Greenium calculation
 
@@ -1294,19 +1252,7 @@ This approximation ignores issuance timing, price, duration and market movement.
 
 A coupon step-up tied to an emissions-intensity KPI can create an incentive, but target ambition, baseline, verification and materiality matter. A tiny coupon penalty against an easy target can be greenwashing.
 
-### Strongest criticism, reply and residual
-
-**Criticism:** labelled bonds merely earmark money the issuer would have spent anyway.  
-**Reply:** frameworks, reporting and market benchmarks can improve transparency, investor participation and internal project discipline.  
-**Residual:** assess financial additionality separately from environmental outcome; do not promise either merely from the label.
-
-### UPSC integration
-
-**Verified PYQ:** 2026 Prelims Q92 as above.  
-**Probable framing:** "Sovereign green bonds improve transparency but cannot substitute for green budgeting and outcome evaluation."  
-**Trap:** green bond and sustainability-linked bond differ in the location of the promise - use of proceeds versus issuer KPI.
-
-### Revision notes
+### Bond distinction card
 
 - Green bonds are use-of-proceeds instruments.
 - Sustainability bonds combine green and social eligible uses.
@@ -1319,67 +1265,64 @@ A coupon step-up tied to an emissions-intensity KPI can create an incentive, but
 - Refinancing can qualify but may weaken financial additionality.
 - State exact fiscal year and publication date for sovereign issuance.
 
-### Mains micro-model
+### Label-versus-substance audit
 
-**Question:** Evaluate sovereign green bonds as an instrument of climate finance in India.
+**Criticism:** labelled bonds merely earmark money the issuer would have spent anyway.
+**Reply:** frameworks, reporting and market benchmarks can improve transparency, investor participation and internal project discipline.
+**Residual:** assess financial additionality separately from environmental outcome; do not promise either merely from the label.
 
-**Model:** Define sovereign use-of-proceeds debt and distinguish repayment from project cash flow. Explain benchmark creation, investor diversification, budget transparency and long-tenor finance. Use dated issuance/allocation facts without treating them as impact. Discuss greenium, liquidity, eligible-project pipeline, additionality and reporting. Recommend integration with green budgeting, independent allocation/impact reports and taxonomy safeguards.
+### Prelims classification, Mains evaluation
 
-### Adaptive lesson practice (3 MCQs)
+**Verified PYQ:** 2026 Prelims Q92 as above.
+**Probable framing:** "Sovereign green bonds improve transparency but cannot substitute for green budgeting and outcome evaluation."
+**Trap:** green bond and sustainability-linked bond differ in the location of the promise - use of proceeds versus issuer KPI.
 
-**MCQ 18. Which feature most clearly distinguishes a sustainability-linked bond from a green use-of-proceeds bond?**
-- A. It can be issued only by a sovereign.
-- B. Its financial terms are linked to issuer performance targets rather than requiring all proceeds to be earmarked for green projects.
-- C. It cannot contain environmental targets.
-- D. Its repayment must come from one financed project.
+### Bond-label checkpoint
 
-**MCQ 19. A conventional bond yields 7.50% and comparable green bond 7.47%. The greenium is:**
-- A. 30 basis points
-- B. 0.3 basis point
-- C. 3 basis points
-- D. 300 basis points
+### Concept check
 
-**MCQ 20. Which statement about India's 2026-27 eligible sovereign-green-bond scheme allocation is correct?**
-- A. Eligible budget estimates automatically equal the final bond issuance.
-- B. Every eligible rupee has already produced a verified climate outcome.
-- C. The figure is a private-sector green-bond issuance.
-- D. The Budget statement separates eligible scheme requirement from the exact issuance amount to be notified.
+**Question:** A sustainability-linked bond misses an easy emissions target and pays only a trivial coupon step-up. Why can the instrument remain weak despite formal compliance?
 
-#### Answers and all-option explanations
+**Model answer:** Formal compliance can mask weak incentives when the target lacks ambition or the penalty is immaterial relative to financing benefits. Judge baseline ambition, KPI relevance, verification and coupon materiality, not the label alone.
 
-**MCQ 18: B**
-- **A - Incorrect.** Corporates and other issuers can issue such bonds.
-- **B - Correct.** The central distinction is KPI-linked terms versus earmarked proceeds.
-- **C - Incorrect.** Environmental KPIs are common.
-- **D - Incorrect.** Ordinary corporate or sovereign credit supports repayment unless structured otherwise.
+**Misconception to avoid:** A labelled bond is not strong merely because a contractual penalty exists.
 
-**MCQ 19: C**
-- **A - Incorrect.** A 0.03 percentage-point difference is not 30 basis points.
-- **B - Incorrect.** It understates by a factor of ten.
-- **C - Correct.** `7.50 - 7.47 = 0.03 percentage point = 3 bps`.
-- **D - Incorrect.** That would equal three percentage points.
+### Mains instrument-comparison response
 
-**MCQ 20: D**
-- **A - Incorrect.** The official statement explicitly separates the values.
-- **B - Incorrect.** Budget eligibility is not outcome verification.
-- **C - Incorrect.** It concerns sovereign public borrowing/expenditure.
-- **D - Correct.** This preserves the published boundary.
+**Mains prompt:** Differentiate major labelled-debt instruments and assess the evidence needed to turn a green label into a credible impact claim.
 
-### Why the next lesson follows
+**Ceiling:** 10 marks; maximum 150 words.
+
+**Model (instrument–proceeds–evidence):** The decisive distinction is between a financing label, the repayment structure and evidence of allocation and impact. Define sovereign use-of-proceeds debt and distinguish repayment from project cash flow. Explain benchmark creation, investor diversification, budget transparency and long-tenor finance. Use dated issuance/allocation facts without treating them as impact. Discuss greenium, liquidity, eligible-project pipeline, additionality and reporting. Recommend integration with green budgeting, independent allocation/impact reports and taxonomy safeguards.
+
+
+
+### Rubric: instrument and evidence
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames bond type, proceeds and impact precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: instrument distinction; use-of-proceeds chain; greenium analysis; allocation-impact separation. |
+| 2 | Tests the most damaging counter-case specific to bond type, proceeds and impact. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### From labelled debt to risk absorption
 
 Bonds work best for established issuers and bankable cash flows. Riskier technologies, adaptation and first-of-a-kind projects often need blended finance to alter the risk-return profile.
 
 ## Lesson 9 - Blended finance and de-risking: concessional capital, guarantees and risk allocation
 
-**Progress: 9 / 19 | Stage: Advanced | Subtopic: Blended finance and de-risking: concessional capital, guarantees and risk allocation**
+Progress: 9 / 19 | Stage: Core | Subtopic: Blended finance and de-risking: concessional capital, guarantees and risk allocation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Economic Survey 2025-26 climate-finance and battery-storage cases plus canonical Topic 25 material
 CA search: "Economic Survey 2025-26 blended finance first loss guarantee battery storage IFC Clean Technology Fund"
-CA found: Economic Survey 2025-26, published 29 January 2026, records an IFC commitment in FY2025-26 for a Gujarat battery-storage project structured with concessional Clean Technology Fund support to reduce first-of-a-kind risk; retrieval 25 September 2026.
+CA found: Economic Survey 2025-26, published 29 January 2026, records an IFC commitment in FY2025-26 for a Gujarat battery-storage project structured with concessional Clean Technology Fund support to reduce first-of-a-kind risk; retrieval 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: use scarce public risk capacity carefully
+**Learning route:** `risk layer → public exposure → additionality`
+
+### Blended-capital risk stack
 
 ```text
 HIGH-RISK CLIMATE PROJECT
@@ -1470,19 +1413,7 @@ Allocate risk to the party best able to manage it:
 - currency risk -> local-currency finance or explicit hedge;
 - climate physical risk -> resilient design, insurance and residual sharing.
 
-### Strongest criticism, reply and residual
-
-**Criticism:** blended finance can hide contingent liabilities and subsidise private investors.  
-**Reply:** transparent risk sharing can unlock socially valuable projects with large positive spillovers.  
-**Residual:** publish concessionality, beneficiaries, mobilisation method, contingent exposure and ex-post performance.
-
-### UPSC integration
-
-**Probable framing:** "Blended finance is a risk-allocation tool, not free money."  
-**Trap:** leverage ratio does not measure development impact or fiscal cost.  
-**Answer use:** barrier-instrument-risk bearer-additionality-exit.
-
-### Revision notes
+### Blended-finance safeguards
 
 - Blended finance mixes concessional/public and commercial capital.
 - It should target a defined market failure.
@@ -1495,55 +1426,64 @@ Allocate risk to the party best able to manage it:
 - Risk belongs with the party best able to manage it.
 - Contingent liabilities require disclosure and stress testing.
 
-### Mains micro-model
+### Public de-risking decision rule
 
-**Question:** Under what conditions can blended finance scale climate investment without creating hidden fiscal risk?
+**Probable framing:** "Blended finance is a risk-allocation tool, not free money."
+**Trap:** leverage ratio does not measure development impact or fiscal cost.
+**Answer use:** barrier-instrument-risk bearer-additionality-exit.
 
-**Model:** Define blending and diagnose specific barriers. Compare first-loss, guarantees, VGF, subordinated debt and technical assistance. Demonstrate face value versus expected loss. Set safeguards: minimum concessionality, competitive selection, additionality, contingent-liability reporting, local-currency solutions, upside sharing and time-bound exit. Conclude that blending is justified by measurable social/climate spillovers, not by investor demand alone.
+### Mains risk-allocation memo
 
-### Adaptive lesson practice (2 MCQs)
+**Mains prompt:** Under what conditions does blended finance correct a market failure rather than transfer project risk to the public balance sheet?
 
-**MCQ 21. What is the strongest test of blended-finance additionality?**
-- A. Whether the public instrument enables finance or terms that a socially valuable project would otherwise not obtain.
-- B. Whether the project uses the word green.
-- C. Whether the private investor earns a return.
-- D. Whether the guarantee face value exceeds project cost.
+**Ceiling:** 10 marks; maximum 150 words.
 
-**MCQ 22. A Rs 100 crore guarantee has a 5% default probability, 40% loss-given-default and covers half the loss. Expected payout is:**
-- A. Rs 0.5 crore
-- B. Rs 1 crore
-- C. Rs 2 crore
-- D. Rs 20 crore
+**Model (risk–additionality–liability):** Public de-risking is justified only when it corrects a demonstrated risk or coordination failure with bounded public exposure. Define blending and diagnose specific barriers. Compare first-loss, guarantees, VGF, subordinated debt and technical assistance. Demonstrate face value versus expected loss. Set safeguards: minimum concessionality, competitive selection, additionality, contingent-liability reporting, local-currency solutions, upside sharing and time-bound exit. Conclude that blending is justified by measurable social/climate spillovers, not by investor demand alone.
 
-#### Answers and all-option explanations
 
-**MCQ 21: A**
-- **A - Correct.** It connects concessionality to the counterfactual financing barrier.
-- **B - Incorrect.** A label is not evidence.
-- **C - Incorrect.** Return is compatible with additional or non-additional finance.
-- **D - Incorrect.** Such a structure would require explanation, not prove additionality.
 
-**MCQ 22: B**
-- **A - Incorrect.** It applies only one quarter of the required product.
-- **B - Correct.** `100 x 0.05 x 0.40 x 0.50 = Rs 1 crore`.
-- **C - Incorrect.** It omits the 50% coverage limit.
-- **D - Incorrect.** It confuses a percentage with expected payout.
+### Rubric: public-risk additionality
 
-### Why the next lesson follows
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames risk allocation and public exposure precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: risk allocation; concessionality/additionality; contingent liabilities; exit discipline. |
+| 2 | Tests the most damaging counter-case specific to risk allocation and public exposure. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### Public-risk challenge
+
+**Criticism:** blended finance can hide contingent liabilities and subsidise private investors.
+**Reply:** transparent risk sharing can unlock socially valuable projects with large positive spillovers.
+**Residual:** publish concessionality, beneficiaries, mobilisation method, contingent exposure and ex-post performance.
+
+### Risk-allocation checkpoint
+
+### Concept check
+
+**Question:** A public guarantee protects a lender from losses it was already willing to bear. What economic test decides whether the guarantee is justified?
+
+**Model answer:** Apply financial and development additionality: did public risk absorption enable a worthwhile project, longer tenor or lower cost that the market would not otherwise provide? If not, the guarantee socialises downside without correcting a demonstrated failure.
+
+**Misconception to avoid:** Cheap public risk is not additional when private finance was already available on adequate terms.
+
+### From project risk to system risk
 
 Finance structures price project risk, but climate change also transmits through entire balance sheets and the macroeconomy. The next lesson traces physical, transition and liability channels.
 
 ## Lesson 10 - Climate-risk transmission: physical, transition and liability risks across firms, banks, households and government
 
-**Progress: 10 / 19 | Stage: Core | Subtopic: Climate-risk transmission: physical, transition and liability risks across firms, banks, households and government**
+Progress: 10 / 19 | Stage: Core | Subtopic: Climate-risk transmission: physical, transition and liability risks across firms, banks, households and government
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 Advanced material, RBI climate-risk framework and Economic Survey 2025-26
 CA search: "RBI climate finance management climate change risks directions 28 November 2025 physical transition risk"
-CA found: RBI issued the *Commercial Banks - Climate Finance and Management of Climate Change Risks Directions, 2025* on 28 November 2025, effective immediately for the defined commercial-bank perimeter; retrieval 25 September 2026.
+CA found: RBI issued the *Commercial Banks - Climate Finance and Management of Climate Change Risks Directions, 2025* on 28 November 2025, effective immediately for the defined commercial-bank perimeter; retrieval 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: hazard to financial stability
+**Learning route:** `shock → borrower → lender → sovereign`
+
+### Shock transmission across balance sheets
 
 ```text
 CLIMATE DRIVER
@@ -1639,19 +1579,7 @@ The optimal path is not costless; it minimises combined transition and physical 
 
 Misstated climate exposure, false green claims or failure to meet fiduciary/disclosure duties can generate legal and reputational loss. Liability risk connects Lessons 7 and 8 to bank and investor balance sheets.
 
-### Strongest criticism, reply and residual
-
-**Criticism:** climate risk is too long-term and uncertain for conventional financial models.  
-**Reply:** uncertainty is a reason for scenarios, not a reason to assume zero exposure.  
-**Residual:** avoid false precision; use multiple horizons, sector/geography data, sensitivity and qualitative judgment.
-
-### UPSC integration
-
-**Probable framing:** "How can climate risk become a systemic financial risk?"  
-**Trap:** a scenario is not a forecast; stress loss is conditional on assumptions.  
-**Answer use:** driver-exposure-vulnerability-balance sheet-macro-fiscal feedback.
-
-### Revision notes
+### Transmission-channel recall
 
 - Physical risk may be acute or chronic.
 - Transition risk arises from policy, technology, markets and preferences.
@@ -1665,67 +1593,64 @@ Misstated climate exposure, false green claims or failure to meet fiduciary/disc
 - Scenarios explore sensitivity; they do not predict one future.
 - Distribution and federal capacity belong in financial-risk analysis.
 
-### Mains micro-model
+### Mains systemic-risk response
 
-**Question:** Trace the transmission of climate risk from a physical or policy shock to financial stability in India.
+**Mains prompt:** Trace how physical, transition and liability risks can become correlated financial and fiscal losses in India.
 
-**Model:** Classify physical, transition and liability risk. Trace firm cash flow, collateral and household income into PD/LGD, market valuation, liquidity and insurance claims. Add bank concentration, network effects, inflation-growth and fiscal feedback. Use a simple expected-loss calculation. Recommend data systems, scenario analysis, capital and risk governance, resilient lending and social/federal safeguards. Conclude that climate risk is endogenous to development and financial policy.
+**Ceiling:** 10 marks; maximum 150 words.
 
-### Adaptive lesson practice (3 MCQs)
+**Model (shock–transmission–response):** Climate risk becomes systemic through correlated transmission, not merely through the sum of isolated firm losses. Classify physical, transition and liability risk. Trace firm cash flow, collateral and household income into PD/LGD, market valuation, liquidity and insurance claims. Add bank concentration, network effects, inflation-growth and fiscal feedback. Use a simple expected-loss calculation. Recommend data systems, scenario analysis, capital and risk governance, resilient lending and social/federal safeguards. Conclude that climate risk is endogenous to development and financial policy.
 
-**MCQ 23. Which is a transition-risk event?**
-- A. A cyclone destroys a port.
-- B. Chronic sea-level rise damages coastal property.
-- C. A sudden stringent emissions standard strands a high-carbon industrial asset.
-- D. A flood raises a borrower's loss-given-default.
 
-**MCQ 24. Why is a climate stress scenario not a forecast?**
-- A. It contains no assumptions.
-- B. It reports only historical accounting data.
-- C. It guarantees the stated shock will occur.
-- D. It estimates conditional effects under a deliberately specified pathway or shock.
 
-**MCQ 25. A Rs 500 crore portfolio has PD 4% and LGD 50%. Expected credit loss is:**
-- A. Rs 10 crore
-- B. Rs 20 crore
-- C. Rs 25 crore
-- D. Rs 100 crore
+### Rubric: transmission depth
 
-#### Answers and all-option explanations
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames physical, transition and liability transmission precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: risk channels; balance-sheet transmission; scenario uncertainty; policy response. |
+| 2 | Tests the most damaging counter-case specific to physical, transition and liability transmission. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
 
-**MCQ 23: C**
-- **A - Incorrect.** It is an acute physical event.
-- **B - Incorrect.** It is chronic physical risk.
-- **C - Correct.** Policy change can impair high-carbon asset value and cash flow.
-- **D - Incorrect.** It describes a financial consequence of physical risk.
+### GS-III transmission chain
 
-**MCQ 24: D**
-- **A - Incorrect.** Scenario results depend on explicit assumptions.
-- **B - Incorrect.** Stress analysis is forward-looking.
-- **C - Incorrect.** It is not a probability-one prediction.
-- **D - Correct.** It asks "what if" under a defined scenario.
+**Probable framing:** "How can climate risk become a systemic financial risk?"
+**Trap:** a scenario is not a forecast; stress loss is conditional on assumptions.
+**Answer use:** driver-exposure-vulnerability-balance sheet-macro-fiscal feedback.
 
-**MCQ 25: A**
-- **A - Correct.** `500 x 0.04 x 0.50 = Rs 10 crore`.
-- **B - Incorrect.** It omits the LGD adjustment.
-- **C - Incorrect.** It applies 5% directly.
-- **D - Incorrect.** It greatly overstates expected loss.
+### Transmission checkpoint
 
-### Why the next lesson follows
+### Concept check
+
+**Question:** A flood first damages factory assets and later raises bank losses and public relief spending. Identify the transmission sequence rather than listing three isolated risks.
+
+**Model answer:** The sequence is physical hazard → asset and revenue loss at the firm → weaker debt service and collateral → higher bank PD/LGD → credit contraction or capital pressure → relief, reconstruction and contingent fiscal costs for government.
+
+**Misconception to avoid:** Do not stop at the initial physical shock; trace balance-sheet and fiscal propagation.
+
+### Systemic-risk counter-case
+
+**Criticism:** climate risk is too long-term and uncertain for conventional financial models.
+**Reply:** uncertainty is a reason for scenarios, not a reason to assume zero exposure.
+**Residual:** avoid false precision; use multiple horizons, sector/geography data, sensitivity and qualitative judgment.
+
+### From transmission to supervision
 
 Once transmission channels are understood, regulators and institutions need governance, disclosure and scenario tools to identify exposure before losses materialise.
 
 ## Lesson 11 - Climate scenario analysis, stress tests and disclosure: RBI, SEBI BRSR and decision-useful data
 
-**Progress: 11 / 19 | Stage: Advanced | Subtopic: Climate scenario analysis, stress tests and disclosure: RBI, SEBI BRSR and decision-useful data**
+Progress: 11 / 19 | Stage: Core | Subtopic: Climate scenario analysis, stress tests and disclosure: RBI, SEBI BRSR and decision-useful data
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - RBI official directions/draft disclosure material, SEBI BRSR circulars and canonical Topic 25 Markdown
 CA search: "RBI climate risk disclosure framework SEBI BRSR Core assessment assurance value chain 2025 official"
-CA found: RBI's draft climate-risk disclosure framework was released 28 February 2024; RBI's commercial-bank climate directions were issued 28 November 2025. SEBI's circular dated 28 March 2025 permits assessment or assurance for BRSR Core/value-chain disclosures and adds voluntary green-credit disclosure; all retrieved 25 September 2026.
+CA found: RBI's official draft climate-risk disclosure framework is dated 28 February 2024. A separately dated RBI commercial-bank climate-risk/finance direction was checked for its stated perimeter. SEBI's 28 March 2025 circular addresses assessment or assurance, value-chain disclosures and voluntary green-credit reporting; official records checked 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: data must support a decision
+**Learning route:** `narrative → variable → loss → action`
+
+### Scenario-to-decision funnel
 
 ```text
 GOVERNANCE
@@ -1786,15 +1711,15 @@ Management can test loan pricing, collateral, client transition plans, concentra
 
 ### RBI boundary
 
-**Fact:** RBI released a draft disclosure framework on 28 February 2024 for specified scheduled commercial banks, Tier-IV urban cooperative banks, all-India financial institutions and top/upper-layer NBFCs; official release retrieved 25 September 2026.
+**Fact:** RBI released a draft disclosure framework on 28 February 2024 for specified scheduled commercial banks, Tier-IV urban cooperative banks, all-India financial institutions and top/upper-layer NBFCs; official release retrieved 3 October 2026.
 
-**Fact:** RBI issued the *Commercial Banks - Climate Finance and Management of Climate Change Risks Directions, 2025* on 28 November 2025 for the defined commercial-bank perimeter, effective immediately; retrieved 25 September 2026. The directions include green-deposit, eligible-use, external-review, verification, impact-assessment and board-governance requirements.
+**Fact:** a separately dated RBI commercial-bank climate-finance and climate-risk direction was checked for its defined perimeter. It is not treated as automatic finalisation of the 28 February 2024 draft disclosure framework; official records checked 3 October 2026.
 
 Do not present the 2024 draft as if it were the same legal instrument as the 2025 bank directions.
 
 ### SEBI BRSR boundary
 
-**Fact:** BRSR applies to the top 1,000 listed entities under SEBI's specified reporting framework. BRSR Core is a narrower set of key ESG indicators with a glide path. SEBI's 28 March 2025 circular changed the framework to allow "assessment or assurance," revised value-chain provisions and introduced voluntary green-credit disclosure; official circular retrieved 25 September 2026.
+**Fact:** BRSR applies to the top 1,000 listed entities under SEBI's specified reporting framework. BRSR Core is a narrower set of key ESG indicators with a glide path. SEBI's 28 March 2025 circular changed the framework to allow "assessment or assurance," revised value-chain provisions and introduced voluntary green-credit disclosure; official circular retrieved 3 October 2026.
 
 **Verified PYQ:** 2025 Prelims GS-I Q4 tests BRSR for listed companies. The official Set-A key is locally available, but this live edition preserves the no-key-inference boundary and teaches the concept rather than printing an answer letter.
 
@@ -1818,80 +1743,77 @@ Scope 3 can dominate some business models, but estimation is difficult and doubl
 - metrics without financial linkage;
 - boilerplate language.
 
-### Strongest criticism, reply and residual
-
-**Criticism:** disclosure burdens firms and may create liability without reliable data.  
-**Reply:** absent data, markets can misprice risk and capital.  
-**Residual:** phase requirements, standardise methods and support smaller entities, but require material financial linkage and uncertainty disclosure.
-
-### UPSC integration
-
-**Probable framing:** "Climate disclosure is necessary but insufficient for financial stability."  
-**Trap:** BRSR reporting does not certify a company as sustainable.  
-**Answer use:** governance-strategy-risk management-metrics-scenario-action.
-
-### Revision notes
+### Scenario and disclosure checklist
 
 - Scenario analysis explores pathways; stress tests assess resilience under severe conditions.
 - Sensitivity analysis changes limited variables.
 - Scenario results are conditional, not forecasts.
 - Horizon choice can hide or reveal climate risk.
 - Governance, strategy, risk management and metrics form the disclosure spine.
-- RBI's 2024 draft and 2025 directions are distinct dated instruments.
+- RBI's 2024 draft and separately dated bank directions are distinct instruments and perimeters.
 - BRSR, BRSR Core and value-chain disclosure are related but distinct.
 - Scope 1, 2 and 3 require explicit boundaries.
 - Assurance checks reporting; it does not certify sustainability.
 - Decision-useful disclosure links climate variables to financial effects.
 
-### Mains micro-model
+### Decision-usefulness checkpoint
 
-**Question:** Assess the role of climate disclosure and stress testing in safeguarding India's financial system.
+### Concept check
 
-**Model:** Explain information failure and transmission channels. Distinguish scenario analysis from stress testing. Use the four disclosure pillars and Scope 1-3. Cite RBI and SEBI with exact dates and perimeters. Discuss data gaps, horizon/model uncertainty, assurance cost and boilerplate. Recommend geospatial and borrower data, common scenarios, proportional implementation and linkage to credit, capital and supervision. Conclude that disclosure must trigger governance and risk action.
+**Question:** A scenario produces a large loss estimate but no management action changes. What is missing from decision-useful climate-risk analysis?
 
-### Adaptive lesson practice (2 MCQs)
+**Model answer:** The analysis lacks a decision link: thresholds, responsible owners and actions for capital, pricing, limits, provisioning, adaptation or client engagement. A loss number without governance and response is descriptive, not decision-useful.
 
-**MCQ 26. Which statement best distinguishes stress testing from a forecast?**
-- A. Stress testing contains only audited historical data.
-- B. Stress testing estimates outcomes conditional on a specified severe scenario rather than predicting the most likely future.
-- C. Stress testing removes uncertainty from climate models.
-- D. Stress testing applies only to market risk.
+**Misconception to avoid:** Scenario sophistication is not usefulness unless it changes a governed decision.
 
-**MCQ 27. Which claim about BRSR is most accurate?**
-- A. Filing BRSR automatically certifies that a company has net-zero operations.
-- B. BRSR is a carbon tax return.
-- C. It is a standardised sustainability reporting framework for the covered listed-company perimeter; reported information still requires interpretation and, where applicable, assessment or assurance.
-- D. It applies only to unlisted MSMEs.
+### Mains supervisory-analysis response
 
-#### Answers and all-option explanations
+**Mains prompt:** Assess when climate scenario analysis, stress testing and disclosure become decision-useful rather than compliance exercises.
 
-**MCQ 26: B**
-- **A - Incorrect.** Stress testing is forward-looking and assumption-driven.
-- **B - Correct.** It is a conditional resilience exercise.
-- **C - Incorrect.** Model and scenario uncertainty remain.
-- **D - Incorrect.** Credit, market, liquidity and operational channels can all matter.
+**Ceiling:** 10 marks; maximum 150 words.
 
-**MCQ 27: C**
-- **A - Incorrect.** Reporting does not establish net-zero performance.
-- **B - Incorrect.** It is a disclosure framework, not a tax instrument.
-- **C - Correct.** It preserves perimeter and evidence boundaries.
-- **D - Incorrect.** Its principal mandatory perimeter concerns large listed entities.
+**Model (scenario–loss–decision):** Decision usefulness requires a governed chain from scenario assumptions to loss metrics and management action. Explain information failure and transmission channels. Distinguish scenario analysis from stress testing. Use the four disclosure pillars and Scope 1-3. Cite RBI and SEBI with exact dates and perimeters. Discuss data gaps, horizon/model uncertainty, assurance cost and boilerplate. Recommend geospatial and borrower data, common scenarios, proportional implementation and linkage to credit, capital and supervision. Conclude that disclosure must trigger governance and risk action.
 
-### Why the next lesson follows
+
+
+### Rubric: scenario-to-decision logic
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames scenario, loss and decision use precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: scenario-versus-forecast distinction; RBI/SEBI evidence; data limits; supervisory use. |
+| 2 | Tests the most damaging counter-case specific to scenario, loss and decision use. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### Disclosure sceptic’s case
+
+**Criticism:** disclosure burdens firms and may create liability without reliable data.
+**Reply:** absent data, markets can misprice risk and capital.
+**Residual:** phase requirements, standardise methods and support smaller entities, but require material financial linkage and uncertainty disclosure.
+
+### Regulatory evidence in an answer
+
+**Probable framing:** "Climate disclosure is necessary but insufficient for financial stability."
+**Trap:** BRSR reporting does not certify a company as sustainable.
+**Answer use:** governance-strategy-risk management-metrics-scenario-action.
+
+### From disclosure to compliance
 
 Disclosure reveals risk, while a compliance carbon market changes industrial incentives. India built its architecture incrementally from energy-intensity trading under PAT toward the CCTS.
 
 ## Lesson 12 - India's PAT-to-CCTS transition: intensity trading, compliance design and institutional architecture
 
-**Progress: 12 / 19 | Stage: Core | Subtopic: India's PAT-to-CCTS transition: intensity trading, compliance design and institutional architecture**
+Progress: 12 / 19 | Stage: Core | Subtopic: India's PAT-to-CCTS transition: intensity trading, compliance design and institutional architecture
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25, Economic Survey 2025-26, BEE detailed compliance procedure and MoEFCC GEI rules
 CA search: "BEE Detailed Procedure Compliance Mechanism CCTS Greenhouse Gas Emission Intensity Target Rules 2025 official"
-CA found: BEE's official 45-page detailed procedure describes baseline/target setting, verification, certificate issuance, trading through power exchanges and banking. MoEFCC's 2025 GEI rules notify targets for aluminium, cement, chlor-alkali and pulp and paper. Official PDFs retrieved 25 September 2026.
+CA found: BEE's official 45-page detailed procedure describes baseline/target setting, verification, certificate issuance, trading through power exchanges and banking. MoEFCC's 2025 GEI rules notify targets for aluminium, cement, chlor-alkali and pulp and paper. Official PDFs retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: institutional lineage
+**Learning route:** `legal lineage → target arithmetic → market safeguard`
+
+### PAT–CCTS institutional timeline
 
 ```text
 PAT
@@ -1918,7 +1840,7 @@ PAT is not an economy-wide absolute carbon cap. Its principal unit is energy per
 
 ### Legal and governance architecture
 
-**Fact:** CCTS was notified by the Ministry of Power on 28 June 2023 and amended on 19 December 2023; official Ministry of Power/BEE documents retrieved 25 September 2026.
+**Fact:** CCTS was notified by the Ministry of Power on 28 June 2023 and amended on 19 December 2023; official Ministry of Power/BEE documents retrieved 3 October 2026.
 
 The architecture includes:
 
@@ -1944,8 +1866,8 @@ If actual GEI is below target, the entity may be eligible for certificates accor
 
 ### Target and certificate calculation
 
-Target GEI = 0.80 tCO2e/unit  
-Actual GEI = 0.75 tCO2e/unit  
+Target GEI = 0.80 tCO2e/unit
+Actual GEI = 0.75 tCO2e/unit
 Output = 2,000,000 units
 
 ```text
@@ -1957,9 +1879,9 @@ The actual issuance remains subject to boundary, verified data and official proc
 
 ### Dated sector status
 
-**Fact:** Economic Survey 2025-26, published 29 January 2026, states that in 2025 pro-rata GEI targets were notified for aluminium, cement, chlor-alkali and pulp and paper; retrieval 25 September 2026.
+**Fact:** Economic Survey 2025-26, published 29 January 2026, states that in 2025 pro-rata GEI targets were notified for aluminium, cement, chlor-alkali and pulp and paper; retrieval 3 October 2026.
 
-**Fact:** the official MoEFCC 2025 rules PDF retrieved 25 September 2026 contains entity/sector target schedules for those sectors and target years. Later sector amendments and drafts must be cited separately by their exact gazette status. This live edition does not call a draft iron-and-steel notification a final rule.
+**Fact:** the official MoEFCC 2025 rules PDF retrieved 3 October 2026 contains entity/sector target schedules for those sectors and target years. Later sector amendments and drafts must be cited separately by their exact gazette status. This live edition does not call a draft iron-and-steel notification a final rule.
 
 ### Offset mechanism boundary
 
@@ -1979,19 +1901,42 @@ Banking can smooth compliance and reward early over-performance. Excessive banki
 | Absolute cap? | no | not necessarily; baseline-and-credit intensity design |
 | Infrastructure link | target/verification/trading experience | builds on institutional learning |
 
-### Strongest criticism, reply and residual
+### Mains institutional-design response
 
-**Criticism:** intensity baselines can reward growing output and fail to guarantee absolute decline.  
-**Reply:** intensity targets can fit growth needs and encourage efficiency in heterogeneous industry.  
+**Mains prompt:** Explain the PAT-to-CCTS institutional transition and evaluate the safeguards needed in an intensity-based compliance market.
+
+**Ceiling:** 10 marks; maximum 150 words.
+
+**Model (lineage–mechanism–safeguard):** India’s transition creates institutional continuity in measurement and trading but changes the unit, target and governance context. Begin with the Energy Conservation Act lineage and PAT experience. Explain compliance and offset mechanisms, institutions, GEI baseline-credit formula, MRV, trading and surrender. Cite the 2023 notification and 2025 sector rules with exact status. Evaluate cost effectiveness, industrial learning and investment signals against intensity/absolute divergence, baseline risk, liquidity, verification and just-transition needs. Recommend tightening, absolute-emission disclosure and linkage to industrial finance and technology.
+
+
+
+### Rubric: institutional accuracy
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames PAT–CCTS institutions and units precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: legal-institutional chain; GEI calculation; PAT distinction; intensity/absolute limitation. |
+| 2 | Tests the most damaging counter-case specific to PAT–CCTS institutions and units. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### Market-design failure test
+
+**Criticism:** intensity baselines can reward growing output and fail to guarantee absolute decline.
+**Reply:** intensity targets can fit growth needs and encourage efficiency in heterogeneous industry.
 **Residual:** tighten targets over time, disclose absolute emissions, prevent baseline inflation and complement with sectoral transition policy.
 
-### UPSC integration
+### Certificate-boundary checkpoint
 
-**Probable framing:** "Trace India's transition from PAT to CCTS and assess the limitations of intensity-based carbon markets."  
-**Trap:** do not describe CCTS as an economy-wide absolute cap or a fully mature market without a dated official source.  
-**Answer use:** law-institution-unit-target-MRV-certificate-trade-surrender-limit.
+### Concept check
 
-### Revision notes
+**Question:** A covered entity beats its CCTS intensity target while its absolute emissions rise. What certificate consequence and analytical caveat should be reported together?
+
+**Model answer:** Verified over-performance against the notified intensity target can generate the relevant certificate consequence under the scheme. The caveat is that intensity success does not prove an absolute decline; report output and total emissions alongside the unit outcome.
+
+**Misconception to avoid:** Credit issuance and absolute decarbonisation answer different questions.
+
+### PAT–CCTS distinction sheet
 
 - PAT trades Energy Saving Certificates against energy-performance targets.
 - CCTS was notified on 28 June 2023 and amended on 19 December 2023.
@@ -2005,225 +1950,29 @@ Banking can smooth compliance and reward early over-performance. Excessive banki
 - Intensity improvement does not guarantee absolute reduction.
 - Sector and draft/final status require exact gazette dates.
 
-### Mains micro-model
+### India carbon-market answer map
 
-**Question:** Examine the design strengths and limitations of India's CCTS.
+**Probable framing:** "Trace India's transition from PAT to CCTS and assess the limitations of intensity-based carbon markets."
+**Trap:** do not describe CCTS as an economy-wide absolute cap or a fully mature market without a dated official source.
+**Answer use:** law-institution-unit-target-MRV-certificate-trade-surrender-limit.
 
-**Model:** Begin with the Energy Conservation Act lineage and PAT experience. Explain compliance and offset mechanisms, institutions, GEI baseline-credit formula, MRV, trading and surrender. Cite the 2023 notification and 2025 sector rules with exact status. Evaluate cost effectiveness, industrial learning and investment signals against intensity/absolute divergence, baseline risk, liquidity, verification and just-transition needs. Recommend tightening, absolute-emission disclosure and linkage to industrial finance and technology.
+### From domestic market to international accounting
 
-### Adaptive lesson practice (3 MCQs)
+A domestic market architecture also sits inside international climate accounting. The next lesson explains when Article 6 authorisation and corresponding adjustments become relevant—and why domestic CCTS units are not automatically international units.
 
-**MCQ 28. Which institution-function pair is correctly stated for CCTS?**
-- A. Every power exchange sets national GEI targets.
-- B. The registry independently legislates sector targets.
-- C. CERC performs every plant verification.
-- D. Trading occurs on regulated power exchanges, while administration, registry and verification are institutionally distinct.
+## Lesson 13 - Paris Agreement Article 6 and India: corresponding adjustments, authorisation and CCTS boundaries
 
-**MCQ 29. A target is 1.2 tCO2e/unit, actual intensity 1.1 and output 100,000 units. Potential over-performance is:**
-- A. 10,000 tCO2e
-- B. 100,000 tCO2e
-- C. 110,000 tCO2e
-- D. 120,000 tCO2e
-
-**MCQ 30. Which statement best distinguishes PAT from CCTS compliance?**
-- A. PAT is an absolute national emissions cap.
-- B. PAT centres on specific energy consumption; CCTS compliance centres on defined GHG emissions intensity.
-- C. CCTS has no verification.
-- D. PAT certificates and carbon credits are legally identical.
-
-#### Answers and all-option explanations
-
-**MCQ 28: D**
-- **A - Incorrect.** Target setting belongs to the statutory/governance process.
-- **B - Incorrect.** A registry records and tracks units; it does not independently legislate.
-- **C - Incorrect.** Verification uses accredited agencies and defined procedures.
-- **D - Correct.** It preserves institutional separation.
-
-**MCQ 29: A**
-- **A - Correct.** `(1.2 - 1.1) x 100,000 = 10,000`.
-- **B - Incorrect.** It equals output, not over-performance.
-- **C - Incorrect.** It multiplies actual intensity by output.
-- **D - Incorrect.** It multiplies target intensity by output.
-
-**MCQ 30: B**
-- **A - Incorrect.** PAT is not an absolute national cap.
-- **B - Correct.** The unit and policy purpose differ.
-- **C - Incorrect.** MRV is central to certificate integrity.
-- **D - Incorrect.** They arise under different schemes and units.
-
-### Why the next lesson follows
-
-A market architecture can exist while its credits remain weak. The next lesson examines the environmental integrity of each credited tonne.
-
-## Lesson 13 - Carbon-credit integrity: baselines, additionality, permanence, leakage, verification and retirement
-
-**Progress: 13 / 19 | Stage: Advanced | Subtopic: Carbon-credit integrity: baselines, additionality, permanence, leakage, verification and retirement**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Topic 25, BEE compliance/offset architecture and official Article 6 material
-CA search: "carbon credit integrity additionality permanence leakage double counting official 2026"
-CA found: BEE and MoEFCC official material confirms separate compliance and offset procedures and approved methodology/activity pathways; retrieval 25 September 2026. No current market-price claim is used.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual entry: one credible tonne
-
-```text
-ELIGIBLE PROJECT
-   -> conservative baseline
-   -> additional action
-   -> monitored reduction/removal
-   -> leakage adjustment
-   -> permanence / reversal safeguard
-   -> independent verification
-   -> registry issuance
-   -> transfer
-   -> retirement
-```
-
-*A certificate is credible only when the whole chain is sound.*
-
-### Reduction, avoidance and removal
-
-- **Reduction:** emissions fall relative to a baseline.
-- **Avoidance:** an expected emissions source does not occur.
-- **Removal:** greenhouse gas is taken from the atmosphere and stored.
-
-These have different measurement and permanence profiles. Avoided deforestation is not identical to geological storage; renewable generation is not an atmospheric removal.
-
-### Baseline integrity
-
-An inflated baseline manufactures credits. Use conservative assumptions, standardised benchmarks where suitable, transparent data and periodic updating. Dynamic baselines can reflect technological change but create uncertainty for investment.
-
-### Additionality
-
-The project must exceed the credible no-credit counterfactual. Tests include legal requirement, investment barrier, common practice and financial dependence on credit revenue. Mechanical pass/fail tests can be gamed; reasoned documentation and ex-post review remain important.
-
-### Leakage
-
-A forest project prevents clearing inside its boundary, but agriculture shifts outside. If on-site avoided emissions are 100,000 tCO2e and estimated leakage is 20%:
-
-```text
-net before other deductions = 100,000 x (1 - 0.20)
-                            = 80,000 tCO2e
-```
-
-Ignoring leakage overstates the climate benefit.
-
-### Permanence and buffer pool
-
-Biological carbon can reverse through fire, disease or land-use change. If verified removals are 50,000 tonnes and a 15% buffer is withheld:
-
-```text
-tradable credits = 50,000 x 0.85 = 42,500
-buffer = 7,500
-```
-
-Buffer pools spread reversal risk but may fail under correlated systemic fires. Long monitoring, replacement obligations and conservative crediting are needed.
-
-### Verification, registry and retirement
-
-Verification checks the project report. The registry assigns serial numbers and tracks ownership. Retirement permanently removes the unit from circulation for a claim. A transfer without retirement does not establish final use.
-
-### Offset hierarchy
-
-```text
-measure -> reduce own emissions -> substitute/innovate
-          -> neutralise limited residual emissions with high-integrity credits
-```
-
-Using credits before serious operational reduction can delay structural change. Yet high-integrity finance can support mitigation outside the buyer's boundary. The issue is sequencing, quality and claim wording.
-
-### Crediting-period and vintage
-
-Credit vintage is the period in which the mitigation occurred, not necessarily the issue or purchase date. Old vintages may represent real reductions but can have weaker additionality to a current claim and different methodology.
-
-### Strongest criticism, reply and residual
-
-**Criticism:** counterfactual credits can never prove what would have happened.  
-**Reply:** policy routinely uses counterfactual appraisal; conservative methods and random/benchmark evidence can improve credibility.  
-**Residual:** do not claim certainty; discount uncertain units and restrict offset use where direct abatement is feasible.
-
-### UPSC integration
-
-**Probable framing:** "A carbon credit is an accounting claim before it becomes a climate outcome."  
-**Trap:** issuance, ownership and retirement are different registry events.  
-**Answer use:** unit-baseline-additionality-leakage-permanence-verification-registry-retirement-claim.
-
-### Revision notes
-
-- Reduction, avoidance and removal are distinct.
-- Baselines define the counterfactual.
-- Additionality asks whether credit revenue/action changes the outcome.
-- Leakage moves emissions outside the boundary.
-- Permanence concerns reversal of stored carbon.
-- Buffer pools insure some reversal risk.
-- Verification and registry perform different functions.
-- Retirement prevents further use of a unit.
-- Vintage is the mitigation period.
-- Offsets should address limited residual emissions after internal action.
-- Conservative discounting is preferable to false precision.
-
-### Mains micro-model
-
-**Question:** What determines the environmental integrity of a carbon credit?
-
-**Model:** Define the unit and distinguish reduction, avoidance and removal. Build the integrity chain from conservative baseline and additionality to leakage, permanence, MRV, serialised registry and retirement. Add vintage, safeguards and claim wording. Use leakage/buffer calculations. Conclude that markets reduce cost only when the credited tonne is real, additional, durable and uniquely claimed.
-
-### Adaptive lesson practice (3 MCQs)
-
-**MCQ 31. A project reports 40,000 tonnes of avoided emissions, with verified leakage of 25%. Net credited amount before other deductions is:**
-- A. 10,000
-- B. 25,000
-- C. 30,000
-- D. 40,000
-
-**MCQ 32. Which event most directly prevents a carbon unit from being used again for another voluntary claim?**
-- A. Initial project registration.
-- B. Verification visit.
-- C. Transfer between two registry accounts.
-- D. Retirement or cancellation for the stated use.
-
-**MCQ 33. Which sequence is most credible for a corporate climate claim?**
-- A. Measure emissions, reduce feasible internal emissions, then use high-integrity credits for clearly defined residuals.
-- B. Buy any cheap credit before measuring emissions.
-- C. Count issued but unretired credits as permanent neutralisation.
-- D. Use an intensity target to claim zero absolute emissions.
-
-#### Answers and all-option explanations
-
-**MCQ 31: C**
-- **A - Incorrect.** That is the leakage amount.
-- **B - Incorrect.** It subtracts an incorrect share.
-- **C - Correct.** `40,000 x 0.75 = 30,000`.
-- **D - Incorrect.** It ignores leakage.
-
-**MCQ 32: D**
-- **A - Incorrect.** Registration begins the project record.
-- **B - Incorrect.** Verification supports issuance but does not end transferability.
-- **C - Incorrect.** Transfer changes ownership.
-- **D - Correct.** Retirement removes the unit from active circulation for the claim.
-
-**MCQ 33: A**
-- **A - Correct.** It follows the mitigation hierarchy and preserves claim integrity.
-- **B - Incorrect.** Measurement and quality come first.
-- **C - Incorrect.** Unretired units remain available for use.
-- **D - Incorrect.** Intensity and absolute/net-zero claims differ.
-
-### Why the next lesson follows
-
-Domestic credit integrity is only one layer. International transfer under Paris Agreement Article 6 adds authorisation and accounting to prevent two countries from claiming the same mitigation.
-
-## Lesson 14 - Paris Agreement Article 6 and India: corresponding adjustments, authorisation and CCTS boundaries
-
-**Progress: 14 / 19 | Stage: Advanced | Subtopic: Paris Agreement Article 6 and India: corresponding adjustments, authorisation and CCTS boundaries**
+Progress: 13 / 19 | Stage: Core | Subtopic: Paris Agreement Article 6 and India: corresponding adjustments, authorisation and CCTS boundaries
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - UNFCCC Article 6 architecture, MoEFCC approved activity lists and CCTS source material
 CA search: "MoEFCC revised list activities Article 6.2 Article 6.4 India July 2025 official"
-CA found: MoEFCC's official Article 6.2 list communicated in 2024 and Article 6.4 activity list issued in July 2025 identify approved technology/activity categories for an initial period subject to review; official PDFs/search records retrieved 25 September 2026.
+CA found: MoEFCC's official Article 6.2 list communicated in 2024 and Article 6.4 activity list issued in July 2025 identify approved technology/activity categories for an initial period subject to review; official PDFs/search records retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: international transfer and national accounting
+**Learning route:** `authorisation → adjustment → development claim`
+
+### Two ledgers for one transfer
 
 ```text
 HOST COUNTRY PROJECT -> mitigation outcome
@@ -2273,9 +2022,9 @@ A project may be technically sound but lack host-country authorisation for a par
 
 ### India activity-list boundary
 
-**Fact:** MoEFCC's revised Article 6.2 activity list includes selected emerging technologies such as stored renewable energy components, offshore wind, green hydrogen and other approved categories for the stated initial period; official list communicated in 2024 and retrieved 25 September 2026.
+**Fact:** MoEFCC's revised Article 6.2 activity list includes selected emerging technologies such as stored renewable energy components, offshore wind, green hydrogen and other approved categories for the stated initial period; official list communicated in 2024 and retrieved 3 October 2026.
 
-**Fact:** MoEFCC issued an Article 6.4 approved-activity list in July 2025, subject to its stated period and review; official source retrieved 25 September 2026.
+**Fact:** MoEFCC issued an Article 6.4 approved-activity list in July 2025, subject to its stated period and review; official source retrieved 3 October 2026.
 
 An approved activity category is not:
 
@@ -2306,19 +2055,26 @@ Host countries must consider whether exported mitigation:
 - protects land and livelihood rights;
 - supports technology transfer.
 
-### Strongest criticism, reply and residual
+### Mains international-accounting response
 
-**Criticism:** international markets let wealthy countries buy cheap reductions instead of transforming at home.  
-**Reply:** cooperation can lower global cost and finance mitigation in developing countries.  
-**Residual:** use quantitative/qualitative limits, strong domestic action, host authorisation, conservative accounting and sustainable-development safeguards.
+**Mains prompt:** Explain how Article 6 authorisation and corresponding adjustments protect accounting integrity while affecting India’s NDC space.
 
-### UPSC integration
+**Ceiling:** 10 marks; maximum 150 words.
 
-**Probable framing:** "Why are corresponding adjustments central to Article 6 integrity?"  
-**Trap:** project eligibility, authorisation, issuance, transfer and NDC counting are separate stages.  
-**Answer use:** mechanism-unit-authorisation-adjustment-registry-safeguard-benefit.
+**Model (accounting–authorisation–equity):** Article 6 integrity depends on aligning project, registry and national accounting while preserving host-country development choices. Map Articles 6.2, 6.4 and 6.8. Explain how lower-cost mitigation can attract finance, technology and foreign exchange. Then show double claiming and corresponding adjustment, authorisation risk, baseline/additionality concerns and the risk of exporting cheap NDC options. Distinguish CCTS from international accounting. Recommend strategic activity selection, community safeguards, benefit sharing and transparent authorisation.
 
-### Revision notes
+
+
+### Rubric: accounting and sovereignty
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames Article 6 accounting and authorisation precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: 6.2/6.4/6.8 map; authorisation; corresponding adjustment; NDC-space safeguard. |
+| 2 | Tests the most damaging counter-case specific to Article 6 accounting and authorisation. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### Article 6 accounting card
 
 - Article 6.2 covers cooperative approaches and transferred outcomes.
 - Article 6.4 is a UN-supervised crediting mechanism.
@@ -2331,55 +2087,45 @@ Host countries must consider whether exported mitigation:
 - Contracts must allocate authorisation and change-in-law risk.
 - Host countries must protect NDC space and sustainable-development benefits.
 
-### Mains micro-model
+### Sovereignty and double-claim challenge
 
-**Question:** Explain the economic promise and accounting risks of Article 6 carbon-market cooperation for India.
+**Criticism:** international markets let wealthy countries buy cheap reductions instead of transforming at home.
+**Reply:** cooperation can lower global cost and finance mitigation in developing countries.
+**Residual:** use quantitative/qualitative limits, strong domestic action, host authorisation, conservative accounting and sustainable-development safeguards.
 
-**Model:** Map Articles 6.2, 6.4 and 6.8. Explain how lower-cost mitigation can attract finance, technology and foreign exchange. Then show double claiming and corresponding adjustment, authorisation risk, baseline/additionality concerns and the risk of exporting cheap NDC options. Distinguish CCTS from international accounting. Recommend strategic activity selection, community safeguards, benefit sharing and transparent authorisation.
+### Treaty accounting without overreach
 
-### Adaptive lesson practice (2 MCQs)
+**Probable framing:** "Why are corresponding adjustments central to Article 6 integrity?"
+**Trap:** project eligibility, authorisation, issuance, transfer and NDC counting are separate stages.
+**Answer use:** mechanism-unit-authorisation-adjustment-registry-safeguard-benefit.
 
-**MCQ 34. What is the principal accounting purpose of a corresponding adjustment?**
-- A. To set the market price of every carbon credit.
-- B. To prevent the same internationally transferred mitigation outcome from being counted by both host and acquiring parties where the rules require adjustment.
-- C. To guarantee project profitability.
-- D. To convert every CCTS certificate into an Article 6.4 unit.
+### Double-claim checkpoint
 
-**MCQ 35. Inclusion of an activity in an approved Article 6 list by itself proves:**
-- A. that every project in the category has issued credits;
-- B. that the host has made all future corresponding adjustments;
-- C. only that the activity category is approved within the stated policy perimeter, not that a specific project has completed all stages;
-- D. that the unit can be used for any claim without authorisation.
+### Concept check
 
-#### Answers and all-option explanations
+**Question:** India authorises an international transfer and the buyer counts it. What accounting step protects against both countries claiming the same mitigation?
 
-**MCQ 34: B**
-- **A - Incorrect.** Prices arise from market and contract conditions.
-- **B - Correct.** It protects national accounting integrity.
-- **C - Incorrect.** Accounting does not guarantee commercial return.
-- **D - Incorrect.** Domestic and Article 6 units require separate conditions.
+**Model answer:** A corresponding adjustment, where the Article 6 accounting rules require it, aligns the seller’s and buyer’s national ledgers. Authorisation, registry tracking and unique identifiers must also prevent double issuance, double use and misleading voluntary claims.
 
-**MCQ 35: C**
-- **A - Incorrect.** Project validation, registration, monitoring and issuance remain.
-- **B - Incorrect.** Adjustment follows authorised transfer/use under applicable rules.
-- **C - Correct.** It preserves the stage boundary.
-- **D - Incorrect.** Authorisation and claim rules remain decisive.
+**Misconception to avoid:** Project verification alone does not solve national double counting.
 
-### Why the next lesson follows
+### From emissions units to material throughput
 
 Carbon markets manage emissions units. Circular economy changes the physical throughput that creates emissions and waste in the first place.
 
-## Lesson 15 - Circular-economy hierarchy and material-flow accounting: reduce before recycle
+## Lesson 14 - Circular-economy hierarchy and material-flow accounting: reduce before recycle
 
-**Progress: 15 / 19 | Stage: Core | Subtopic: Circular-economy hierarchy and material-flow accounting: reduce before recycle**
+Progress: 14 / 19 | Stage: Core | Subtopic: Circular-economy hierarchy and material-flow accounting: reduce before recycle
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25, Economic Survey 2025-26 circularity references and verified 2025 PYQ text
 CA search: "2025 UPSC circular economy raw material wastage emissions official question"
-CA found: 2025 Prelims GS-I Q9 is routed to this topic for circular economy, emissions, raw-material use and wastage; official Set-A paper/key are locally available. Economic Survey 2025-26, published 29 January 2026, links Mission LiFE, consumption-production shifts and circularity; retrieval 25 September 2026.
+CA found: 2025 Prelims GS-I Q9 is routed to this topic for circular economy, emissions, raw-material use and wastage; official Set-A paper/key are locally available. Economic Survey 2025-26, published 29 January 2026, links Mission LiFE, consumption-production shifts and circularity; retrieval 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: preserve value before recovering material
+**Learning route:** `hierarchy → material flow → lifecycle limit`
+
+### Value-retention staircase
 
 ```text
 REFUSE / RETHINK
@@ -2477,19 +2223,42 @@ But repeated transport, energy-intensive recycling or lower product efficiency c
 
 **2025 Prelims GS-I Q9:** routed demand concerns circular economy's relationship with greenhouse-gas emissions, raw-material use and wastage. Official Set-A key is available locally, but no answer letter is reproduced. The lesson supplies the causal mechanism.
 
-### Strongest criticism, reply and residual
+### Mains material-flow response
 
-**Criticism:** circularity can become a slogan that ignores growth in total material demand.  
-**Reply:** design, durability and business-model change can reduce throughput per service.  
+**Mains prompt:** Why should circular-economy policy preserve product and component value before relying on recycling? Use material-flow logic.
+
+**Ceiling:** 10 marks; maximum 150 words.
+
+**Model (hierarchy–metric–limit):** Circularity is an economic hierarchy of retained value and avoided virgin throughput, not a synonym for recycling. Contrast linear and circular systems. Use the hierarchy to prioritise reduction, life extension, repair and remanufacture. Present a material-balance equation and distinguish recycled content, collection, recovery and waste. Explain emissions and resource-security benefits. Add thermodynamic loss, downcycling, rebound, informal labour and life-cycle boundaries. Conclude with design standards, repair rights, EPR and secondary-material markets.
+
+
+
+### Rubric: hierarchy and lifecycle
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames value retention and material flow precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: hierarchy; value-retention logic; material-flow metrics; lifecycle/rebound qualification. |
+| 2 | Tests the most damaging counter-case specific to value retention and material flow. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### Hierarchy checkpoint
+
+### Concept check
+
+**Question:** A city raises its recycling rate while product life shortens and virgin-material use rises. Has circularity necessarily improved?
+
+**Model answer:** No. A recycling ratio is only one flow indicator. Assess virgin input, total throughput, product life, reuse and repair, downcycling, energy use and absolute footprint; shorter life and rising virgin demand can outweigh higher recycling.
+
+**Misconception to avoid:** Recycling rate is not a complete circularity or absolute-footprint metric.
+
+### Physical limits to circularity
+
+**Criticism:** circularity can become a slogan that ignores growth in total material demand.
+**Reply:** design, durability and business-model change can reduce throughput per service.
 **Residual:** measure absolute material footprint, not only recycled share; combine circularity with sufficiency and clean energy.
 
-### UPSC integration
-
-**Probable framing:** "Why is recycling the last major loop rather than the first principle of circular economy?"  
-**Trap:** waste diversion is not proof of lower life-cycle emissions.  
-**Answer use:** hierarchy-material balance-life extension-rebound-distribution.
-
-### Revision notes
+### Circular hierarchy recall
 
 - Circularity preserves products, components and materials.
 - Refuse/reduce precede recycling.
@@ -2503,226 +2272,29 @@ But repeated transport, energy-intensive recycling or lower product efficiency c
 - Rebound and total material growth can offset efficiency.
 - Absolute footprint complements circularity ratios.
 
-### Mains micro-model
+### Circular-economy PYQ route
 
-**Question:** Explain why a circular economy is more than recycling and show how material-flow accounting improves policy.
+**Probable framing:** "Why is recycling the last major loop rather than the first principle of circular economy?"
+**Trap:** waste diversion is not proof of lower life-cycle emissions.
+**Answer use:** hierarchy-material balance-life extension-rebound-distribution.
 
-**Model:** Contrast linear and circular systems. Use the hierarchy to prioritise reduction, life extension, repair and remanufacture. Present a material-balance equation and distinguish recycled content, collection, recovery and waste. Explain emissions and resource-security benefits. Add thermodynamic loss, downcycling, rebound, informal labour and life-cycle boundaries. Conclude with design standards, repair rights, EPR and secondary-material markets.
+### From hierarchy to producer obligation
 
-### Adaptive lesson practice (3 MCQs)
+Material hierarchy describes what should happen physically. The next lesson asks how EPR converts lifecycle responsibility into legal duties, collection incentives and compliance evidence.
 
-**MCQ 36. Which option best follows the circular hierarchy?**
-- A. Incinerate a repairable appliance for energy.
-- B. Recycle a usable component before testing it.
-- C. Increase virgin input while raising the recycling label.
-- D. Extend product life through repair before recovering residual material.
+## Lesson 15 - Extended Producer Responsibility in India: incentives, certificate markets, informal workers and waste-stream cases
 
-**MCQ 37. A process uses 800 tonnes virgin and 200 tonnes recycled material. Its recycled-content rate is:**
-- A. 20%
-- B. 25%
-- C. 80%
-- D. 200%
-
-**MCQ 38. Why can a higher recycling rate fail to reduce total virgin-material use?**
-- A. Recycled material has no physical mass.
-- B. Total demand may grow faster than substitution by recycled material.
-- C. Recycling always increases product life to infinity.
-- D. Virgin and recycled material can never be combined.
-
-#### Answers and all-option explanations
-
-**MCQ 36: D**
-- **A - Incorrect.** Energy recovery destroys material value and should follow higher options.
-- **B - Incorrect.** Reuse/testing can preserve more value.
-- **C - Incorrect.** A label does not offset rising virgin throughput.
-- **D - Correct.** Repair keeps the product at a higher value before residual recovery.
-
-**MCQ 37: A**
-- **A - Correct.** `200 / (800 + 200) = 20%`.
-- **B - Incorrect.** It divides recycled material by virgin input.
-- **C - Incorrect.** That is the virgin share.
-- **D - Incorrect.** A content share cannot exceed total input in this case.
-
-**MCQ 38: B**
-- **A - Incorrect.** Recycled material is physical input.
-- **B - Correct.** Scale growth can dominate the circularity improvement.
-- **C - Incorrect.** Recycling does not guarantee life extension.
-- **D - Incorrect.** Many products use mixed inputs.
-
-### Why the next lesson follows
-
-Material hierarchy describes what should happen physically. Firms need viable business models and industrial networks to make those loops economically durable.
-
-## Lesson 16 - Circular business models, industrial symbiosis, rebound effects and competitiveness
-
-**Progress: 16 / 19 | Stage: Advanced | Subtopic: Circular business models, industrial symbiosis, rebound effects and competitiveness**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - canonical Topic 25, Economic Survey 2025-26 material/critical-mineral discussion and circular-economy evidence
-CA search: "Economic Survey 2025-26 critical mineral recycling incentive circular economy India"
-CA found: Economic Survey 2025-26, published 29 January 2026, records a Rs 1,500 crore incentive scheme for critical-mineral recycling under the National Critical Mineral Mission and frames recovery from end-of-life products as a supply-chain strategy; retrieval 25 September 2026.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual entry: sell the service, preserve the asset
-
-```text
-CONVENTIONAL SALE
-producer sells product -> buyer bears maintenance/end-of-life -> replacement demand
-
-PRODUCT-AS-A-SERVICE
-producer retains ownership -> earns from service -> durability/repair has value
-
-INDUSTRIAL SYMBIOSIS
-Firm A residue/heat/water -> verified input for Firm B -> lower virgin input and waste
-```
-
-*Business-model incentives determine whether durability is profitable or whether firms benefit from rapid replacement.*
-
-### Circular business models
-
-1. **Product as a service:** payment for lighting, mobility, cooling or machine uptime.
-2. **Leasing and take-back:** producer retains residual-value interest.
-3. **Repair and refurbishment:** extend useful life.
-4. **Remanufacture:** rebuild to defined performance using recovered components.
-5. **Sharing platforms:** raise utilisation of underused assets.
-6. **Industrial symbiosis:** one firm's by-product becomes another's input.
-7. **Secondary-material marketplaces:** improve quality discovery and contracting.
-
-### Incentive logic
-
-Under a one-time sale, a producer can profit from replacement. Under a service contract, failure creates producer cost, so durability, modularity and energy efficiency can become profitable. This result depends on contract design, consumer protection and competition; service models can also lock users into proprietary ecosystems.
-
-### Total-cost-of-ownership calculation
-
-Machine A:
-
-- purchase Rs 10 lakh;
-- maintenance Rs 2 lakh/year for 5 years;
-- residual value Rs 1 lakh.
-
-Machine B (remanufactured service model):
-
-- upfront/service present cost Rs 14 lakh;
-- maintenance included;
-- residual obligation with provider.
-
-Ignoring discounting:
-
-```text
-A total cost = 10 + (2 x 5) - 1 = Rs 19 lakh
-B total cost = Rs 14 lakh
-```
-
-A lower purchase price can hide a higher lifecycle cost. Public procurement should compare service, uptime, energy and end-of-life, not sticker price alone.
-
-### Industrial-symbiosis calculation
-
-Firm A produces 10,000 tonnes of slag. Firm B can substitute it for 8,000 tonnes of virgin input after quality treatment costing Rs 500/tonne. Virgin input costs Rs 1,200/tonne; transport is equal.
-
-```text
-gross virgin-cost avoided = 8,000 x 1,200 = Rs 96 lakh
-treatment cost = 8,000 x 500 = Rs 40 lakh
-gross operating saving = Rs 56 lakh
-```
-
-The environmental benefit also depends on processing emissions, safety and avoided disposal.
-
-### Rebound effect
-
-Efficiency lowers the effective price of a service and can increase use.
-
-```text
-engineering energy saving = 30%
-service use rises = 10%
-new energy use = 0.70 x 1.10 = 0.77 of original
-net saving = 23%, not 30%
-```
-
-If use rises enough, savings can be erased. Rebound does not mean efficiency is useless; it means policy should measure actual system outcomes.
-
-### Competition and market power
-
-Repair restrictions, proprietary parts, software locks and information asymmetry can block circularity. Standards for interoperability, right-to-repair, warranties and quality certification can expand markets. Poorly designed mandates can, however, expose consumers to unsafe parts or reduce innovation incentives.
-
-### Trade and competitiveness
-
-Resource efficiency can reduce import dependence for critical minerals and materials. Quality standards, traceability and stable demand are needed for secondary materials. Export markets may increasingly require lifecycle and recycled-content evidence, but every current trade rule must be cited by jurisdiction and date.
-
-### Strongest criticism, reply and residual
-
-**Criticism:** circular business models can shift ownership power to large firms and weaken consumer autonomy.  
-**Reply:** service models can align producer incentives with durability and lower upfront cost.  
-**Residual:** require portability, transparent total cost, data rights, repair access and competition.
-
-### UPSC integration
-
-**Probable framing:** "How can circularity improve both resource security and manufacturing competitiveness?"  
-**Trap:** industrial by-product use is not automatically safe or lower-carbon; quality and lifecycle checks remain.  
-**Answer use:** incentive-contract-material loop-cost-rebound-competition-worker.
-
-### Revision notes
-
-- Business models shape durability incentives.
-- Product-as-service can align revenue with uptime.
-- Leasing creates take-back and residual-value incentives.
-- Remanufacture preserves components and embodied value.
-- Industrial symbiosis links one firm's residue to another's input.
-- Total cost of ownership differs from purchase price.
-- Rebound reduces realised efficiency savings.
-- Repair markets need parts, skills, information and standards.
-- Proprietary lock-in can undermine circular competition.
-- Secondary materials need quality assurance and demand.
-- Resource efficiency can support import resilience.
-
-### Mains micro-model
-
-**Question:** Examine how circular business models can improve India's resource security without harming consumers or competition.
-
-**Model:** Explain product-service, leasing, repair, remanufacture, symbiosis and secondary markets. Use total-cost and material-substitution calculations. Link to critical-mineral imports, waste and jobs. Evaluate rebound, proprietary lock-in, safety, finance and informal-worker effects. Recommend repair rights, interoperability, quality standards, green procurement, competition oversight and skill systems.
-
-### Adaptive lesson practice (2 MCQs)
-
-**MCQ 39. An appliance becomes 25% more energy-efficient, but usage rises 20%. New energy use relative to original is:**
-- A. 55%
-- B. 75%
-- C. 90%
-- D. 120%
-
-**MCQ 40. Which contract most directly gives a producer an incentive to design for durability?**
-- A. A sale with no warranty, no take-back and profit from rapid replacement.
-- B. A disposal subsidy paid per unit discarded.
-- C. A ban on all maintenance data.
-- D. A long-term service contract in which the producer retains ownership and bears repair cost.
-
-#### Answers and all-option explanations
-
-**MCQ 39: C**
-- **A - Incorrect.** It subtracts percentages without applying the usage change.
-- **B - Incorrect.** It ignores rebound.
-- **C - Correct.** `0.75 x 1.20 = 0.90`.
-- **D - Incorrect.** It applies only the usage increase.
-
-**MCQ 40: D**
-- **A - Incorrect.** It can reward replacement rather than durability.
-- **B - Incorrect.** It rewards waste.
-- **C - Incorrect.** It obstructs maintenance and competition.
-- **D - Correct.** Failure and maintenance become producer costs.
-
-### Why the next lesson follows
-
-Voluntary business models do not ensure collection and treatment of every waste stream. Extended Producer Responsibility creates a legal end-of-life obligation and a market for compliance evidence.
-
-## Lesson 17 - Extended Producer Responsibility in India: incentives, certificate markets, informal workers and waste-stream cases
-
-**Progress: 17 / 19 | Stage: Core | Subtopic: Extended Producer Responsibility in India: incentives, certificate markets, informal workers and waste-stream cases**
+Progress: 15 / 19 | Stage: Core | Subtopic: Extended Producer Responsibility in India: incentives, certificate markets, informal workers and waste-stream cases
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25 and official MoEFCC waste-rule material
 CA search: "MoEFCC EPR battery waste amendment 24 February 2025 e-waste plastic official"
-CA found: Battery Waste Management Amendment Rules were notified 24 February 2025; E-Waste (Management) Rules, 2022 and Plastic Waste Management EPR framework remain active with dated amendments. Official MoEFCC rules/archive retrieved 25 September 2026.
+CA found: Battery Waste Management Amendment Rules were notified 24 February 2025; E-Waste (Management) Rules, 2022 and Plastic Waste Management EPR framework remain active with dated amendments. Official MoEFCC rules/archive retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: obligation to verified material outcome
+**Learning route:** `obligation → certificate → physical outcome`
+
+### EPR mass-balance chain
 
 ```text
 PRODUCER / IMPORTER / BRAND OWNER
@@ -2816,19 +2388,23 @@ higher fee -> hazardous, composite, non-recyclable or hard-to-collect product
 
 Eco-modulation turns EPR from a waste-finance tool into a design incentive.
 
-### Strongest criticism, reply and residual
+### Mass-balance checkpoint
 
-**Criticism:** certificate markets can produce ghost recycling and concentrate gains in large processors.  
-**Reply:** digital tracking, mass balance, audits and competition can reduce fraud and scale capacity.  
+### Concept check
+
+**Question:** An EPR portal shows enough certificates, but audited physical recovery is lower. Which quantity should determine environmental performance and why?
+
+**Model answer:** Verified physical collection, treatment and material recovery determine environmental performance. Certificates are compliance evidence, not matter; without mass balance and quality checks they can exceed real recovery or reward unsafe and sham processing.
+
+**Misconception to avoid:** Certificates cannot substitute for audited tonnes and treatment quality.
+
+### Certificate-market failure modes
+
+**Criticism:** certificate markets can produce ghost recycling and concentrate gains in large processors.
+**Reply:** digital tracking, mass balance, audits and competition can reduce fraud and scale capacity.
 **Residual:** combine certificate markets with physical inspections, local-worker integration and outcome disclosure.
 
-### UPSC integration
-
-**Probable framing:** "EPR can advance circularity only when certificate integrity and informal-worker justice are secured."  
-**Trap:** collection, recycling, recovery and recycled content are different metrics.  
-**Answer use:** legal perimeter-target-physical chain-certificate-design-worker-safeguard.
-
-### Revision notes
+### EPR implementation checklist
 
 - EPR shifts specified end-of-life responsibility upstream.
 - Responsibility may be physical, financial or mixed under the rules.
@@ -2842,67 +2418,48 @@ Eco-modulation turns EPR from a waste-finance tool into a design incentive.
 - Hazardous processing needs stronger safety controls.
 - Cite the exact rule and amendment date.
 
-### Mains micro-model
+### Waste-sector economic application
 
-**Question:** Evaluate EPR as an instrument for India's circular economy.
+**Probable framing:** "EPR can advance circularity only when certificate integrity and informal-worker justice are secured."
+**Trap:** collection, recycling, recovery and recycled content are different metrics.
+**Answer use:** legal perimeter-target-physical chain-certificate-design-worker-safeguard.
 
-**Model:** Explain the externality and producer-design rationale. Trace targets, collection, registered processing, certificates and retirement. Use a simple obligation calculation. Compare plastics, e-waste and batteries. Evaluate ghost certificates, capacity, hazardous processing, municipal coordination and informal-worker exclusion. Recommend mass balance, audits, eco-modulated fees, worker integration and public dashboards.
+### Mains implementation response
 
-### Adaptive lesson practice (3 MCQs)
+**Mains prompt:** Evaluate EPR as both a lifecycle obligation and a certificate market. What converts formal compliance into verified material outcomes?
 
-**MCQ 41. A producer has a verified obligation of 8,000 tonnes and has directly met 5,500 tonnes. Its remaining verified compliance need is:**
-- A. 2,500 tonnes
-- B. 5,500 tonnes
-- C. 8,000 tonnes
-- D. 13,500 tonnes
+**Ceiling:** 10 marks; maximum 150 words.
 
-**MCQ 42. What is eco-modulation in EPR?**
-- A. Fixing the same fee for every design.
-- B. Varying producer fees according to environmental/design characteristics such as durability or recyclability.
-- C. Replacing physical waste rules with advertising.
-- D. Counting collection as recycling without processing.
+**Model (obligation–mass balance–inclusion):** EPR succeeds environmentally only when legal obligation and certificate evidence reconcile with safe physical recovery. Explain the externality and producer-design rationale. Trace targets, collection, registered processing, certificates and retirement. Use a simple obligation calculation. Compare plastics, e-waste and batteries. Evaluate ghost certificates, capacity, hazardous processing, municipal coordination and informal-worker exclusion. Recommend mass balance, audits, eco-modulated fees, worker integration and public dashboards.
 
-**MCQ 43. Which safeguard most directly addresses ghost EPR certificates?**
-- A. Allow unlimited self-declaration.
-- B. Remove recycler registration.
-- C. Link serialised certificates to audited mass balance and cancel them after use.
-- D. Treat all waste streams as technically identical.
 
-#### Answers and all-option explanations
 
-**MCQ 41: A**
-- **A - Correct.** `8,000 - 5,500 = 2,500`.
-- **B - Incorrect.** That is the amount already met.
-- **C - Incorrect.** That is the total obligation.
-- **D - Incorrect.** It wrongly adds achieved quantity.
+### Rubric: physical-outcome verification
 
-**MCQ 42: B**
-- **A - Incorrect.** Uniform fees provide weaker design signals.
-- **B - Correct.** Better design can face a lower obligation/fee under a lawful scheme.
-- **C - Incorrect.** EPR is a compliance mechanism, not advertising.
-- **D - Incorrect.** Processing outcomes remain necessary.
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames EPR certificates and physical mass precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: EPR chain; certificate integrity; waste-stream distinction; informal-worker integration. |
+| 2 | Tests the most damaging counter-case specific to EPR certificates and physical mass. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
 
-**MCQ 43: C**
-- **A - Incorrect.** Unchecked self-declaration increases fraud risk.
-- **B - Incorrect.** Registration supports traceability.
-- **C - Correct.** It ties units to physical evidence and prevents reuse.
-- **D - Incorrect.** Waste streams have different technologies and hazards.
-
-### Why the next lesson follows
+### From obligation to incidence
 
 Climate and circular policies redistribute costs across consumers, firms, workers, states and trading partners. The next lesson makes incidence, federal capacity and CBAM explicit.
 
-## Lesson 18 - Distribution, federalism and competitiveness: carbon leakage, CBAM and policy incidence
+## Lesson 16 - Distribution, federalism and competitiveness: carbon leakage, CBAM and policy incidence
 
-**Progress: 18 / 19 | Stage: Advanced | Subtopic: Distribution, federalism and competitiveness: carbon leakage, CBAM and policy incidence**
+Progress: 16 / 19 | Stage: Core | Subtopic: Distribution, federalism and competitiveness: carbon leakage, CBAM and policy incidence
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 25, Economic Survey 2025-26, official EU CBAM pages and India's carbon-market material
 CA search: "EU CBAM definitive regime 1 January 2026 carbon price paid third country official"
-CA found: the EU CBAM definitive regime began 1 January 2026 for its specified covered sectors. European Commission material published 13 May 2026 describes work on recognising carbon prices effectively paid in third countries; official pages retrieved 25 September 2026.
+CA found: the EU CBAM definitive regime began 1 January 2026 for its specified covered sectors. European Commission material published 13 May 2026 describes work on recognising carbon prices effectively paid in third countries; official pages retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: policy cost does not stop at the legal payer
+**Learning route:** `payer → pass-through → compensation`
+
+### Incidence beyond the legal payer
 
 ```text
 CARBON / CIRCULAR POLICY
@@ -2924,7 +2481,7 @@ A uniform carbon price can be regressive because low-income households spend mor
 
 ### Recycling calculation
 
-Carbon revenue = Rs 10,000 crore.  
+Carbon revenue = Rs 10,000 crore.
 Bottom 40% households bear Rs 2,500 crore of direct/indirect cost.
 
 If 50% of revenue is returned equally to the bottom 40%:
@@ -2966,9 +2523,9 @@ Each can protect competitiveness but also weaken incentives or create trade disp
 
 ### CBAM boundary
 
-**Fact:** EU CBAM's definitive regime began 1 January 2026 and covers specified carbon-intensive imports including cement, iron and steel, aluminium, fertilisers, electricity and hydrogen; European Commission official pages retrieved 25 September 2026.
+**Fact:** EU CBAM's definitive regime began 1 January 2026 and covers specified carbon-intensive imports including cement, iron and steel, aluminium, fertilisers, electricity and hydrogen; European Commission official pages retrieved 3 October 2026.
 
-**Fact:** EU material published 13 May 2026 concerns technical treatment of a carbon price paid in a third country, including proof and conversion issues; official page retrieved 25 September 2026.
+**Fact:** EU material published 13 May 2026 concerns technical treatment of a carbon price paid in a third country, including proof and conversion issues; official page retrieved 3 October 2026.
 
 CBAM is an EU import instrument. It is not part of India's CCTS. A future deduction or recognition of an Indian carbon cost depends on EU rules, evidence of effective payment and applicable bilateral/technical arrangements; it must not be presumed.
 
@@ -2986,19 +2543,23 @@ If a recognised effective domestic carbon price covers only 9,000 tonnes-equival
 
 Developing economies argue that border measures can disregard historical responsibility and differentiated capabilities. Importing jurisdictions argue that equal carbon treatment prevents leakage. A balanced answer distinguishes environmental objective, design proportionality, revenue use, technology/finance support and WTO/legal questions.
 
-### Strongest criticism, reply and residual
+### Incidence checkpoint
 
-**Criticism:** border carbon measures are green protectionism.  
-**Reply:** without adjustment, domestic carbon constraints can shift production and emissions abroad.  
-**Residual:** transparent methods, effective-carbon-price recognition, transition periods, finance/technology support and non-discrimination determine legitimacy.
+### Concept check
 
-### UPSC integration
+**Question:** A carbon policy is legally paid by producers but passed into electricity prices. Who bears the economic incidence, and what evidence is needed?
 
-**Probable framing:** "How should India respond to CBAM without confusing it with domestic CCTS?"  
-**Trap:** domestic MRV helps exporters document emissions but does not guarantee automatic CBAM credit.  
+**Model answer:** Consumers may bear part through higher tariffs, workers through wages or jobs, owners through lower returns and government through fiscal effects. Estimate pass-through, demand response, market power and household expenditure shares before assigning incidence.
+
+**Misconception to avoid:** The statutory payer need not be the final economic bearer.
+
+### Federal and trade answer frame
+
+**Probable framing:** "How should India respond to CBAM without confusing it with domestic CCTS?"
+**Trap:** domestic MRV helps exporters document emissions but does not guarantee automatic CBAM credit.
 **Answer use:** instrument-jurisdiction-embedded emissions-effective payment-competitiveness-equity-response.
 
-### Revision notes
+### Incidence–CBAM recall
 
 - Legal and economic incidence differ.
 - Carbon pricing can be regressive as an income share.
@@ -3012,55 +2573,48 @@ Developing economies argue that border measures can disregard historical respons
 - MRV is necessary for trade compliance but not sufficient for recognition.
 - CBDR, development and non-discrimination shape legitimacy debates.
 
-### Mains micro-model
+### Mains political-economy response
 
-**Question:** Analyse the distributional and competitiveness effects of carbon pricing and border carbon adjustment for India.
+**Mains prompt:** Analyse the distributional, federal and competitiveness effects of carbon policy, including—but not conflating—CBAM and CCTS.
 
-**Model:** Separate statutory from economic incidence. Trace consumer, worker, firm, supplier, state and regional effects. Explain carbon leakage and CBAM's EU jurisdiction with dated status. Assess exporter MRV, effective domestic carbon price and trade-equity concerns. Recommend progressive recycling, place-based transition, technology/finance support, product decarbonisation and technical engagement without assuming automatic CCTS recognition.
+**Ceiling:** 10 marks; maximum 150 words.
 
-### Adaptive lesson practice (2 MCQs)
+**Model (incidence–leakage–compensation):** Incidence must be traced through pass-through, mobility, trade exposure and unequal state capacity rather than assigned to the legal payer. Separate statutory from economic incidence. Trace consumer, worker, firm, supplier, state and regional effects. Explain carbon leakage and CBAM's EU jurisdiction with dated status. Assess exporter MRV, effective domestic carbon price and trade-equity concerns. Recommend progressive recycling, place-based transition, technology/finance support, product decarbonisation and technical engagement without assuming automatic CCTS recognition.
 
-**MCQ 44. Which statement about CBAM and CCTS is correct?**
-- A. CBAM is India's domestic compliance carbon market.
-- B. Every CCTS certificate automatically cancels EU CBAM liability.
-- C. CCTS and CBAM are legally identical because both concern carbon.
-- D. CBAM is an EU import instrument; CCTS is India's domestic architecture, and any recognition of carbon cost requires applicable rules and proof.
 
-**MCQ 45. Why can a uniform carbon tax be regressive even when rich households pay more rupees?**
-- A. Energy and transport costs can absorb a larger share of low-income household budgets.
-- B. Regressivity means only that total revenue rises.
-- C. Rich households never consume energy.
-- D. The legal taxpayer is always the final bearer.
 
-#### Answers and all-option explanations
+### Rubric: incidence and competitiveness
 
-**MCQ 44: D**
-- **A - Incorrect.** It belongs to the EU import regime.
-- **B - Incorrect.** Recognition is conditional and not automatic.
-- **C - Incorrect.** Similar policy subject does not create legal identity.
-- **D - Correct.** It preserves jurisdiction and status boundaries.
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames distribution, leakage and CBAM precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: incidence map; federal capacity; CBAM/CCTS boundary; compensating measures. |
+| 2 | Tests the most damaging counter-case specific to distribution, leakage and CBAM. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
 
-**MCQ 45: A**
-- **A - Correct.** Incidence is assessed relative to resources as well as absolute payment.
-- **B - Incorrect.** Revenue size does not define distribution.
-- **C - Incorrect.** Consumption differs but is not zero.
-- **D - Incorrect.** Costs can be passed through markets.
+### Incidence and leakage challenge
 
-### Why the next lesson follows
+**Criticism:** border carbon measures are green protectionism.
+**Reply:** without adjustment, domestic carbon constraints can shift production and emissions abroad.
+**Residual:** transparent methods, effective-carbon-price recognition, transition periods, finance/technology support and non-discrimination determine legitimacy.
+
+### From incidence to integrated strategy
 
 The topic now contains prices, targets, finance, risk, carbon markets, circularity and justice. The final lesson assembles them into a coherent policy portfolio rather than a list of disconnected schemes.
 
-## Lesson 19 - Integrated green-transition portfolio: prices, regulation, finance, innovation, circularity and safeguards
+## Lesson 17 - Integrated green-transition portfolio: prices, regulation, finance, innovation, circularity and safeguards
 
-**Progress: 19 / 19 | Stage: Advanced | Subtopic: Integrated green-transition portfolio: prices, regulation, finance, innovation, circularity and safeguards**
+Progress: 17 / 19 | Stage: Core | Subtopic: Integrated green-transition portfolio: prices, regulation, finance, innovation, circularity and safeguards
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - full canonical Basic/Advanced Topic 25, matching V2 package/workbook, OCR books and all official sources in the source ledger
+Book context: queried - canonical Basic and Advanced Topic 25 Markdown, permitted cross-owners, OCR-searchable books and the official sources recorded in the source ledger
 CA search: "India climate economics green finance circular economy policy mix 2026 official"
-CA found: Economic Survey 2025-26, RBI 2025 bank directions, SEBI 2025 BRSR changes, Budget 2026-27 SGrB statement, CCTS/GEI rules and UNFCCC submissions collectively show a multi-instrument transition; all retrieved 25 September 2026.
+CA found: Economic Survey 2025-26, RBI 2025 bank directions, SEBI 2025 BRSR changes, Budget 2026-27 SGrB statement, CCTS/GEI rules and UNFCCC submissions collectively show a multi-instrument transition; all retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual entry: portfolio, not silver bullet
+**Learning route:** `failure → tool → sequence → review`
+
+### Portfolio dashboard and feedback loop
 
 ```text
 MEASURE THE PROBLEM
@@ -3167,19 +2721,17 @@ Track:
 - fiscal and contingent liabilities;
 - grievances and safeguards.
 
-### Criticism-reply-verdict
+### Portfolio checkpoint
 
-**Criticism:** a complex portfolio creates administrative overload and policy inconsistency.  
-**Reply:** climate transition is a system problem; simplistic tools merely hide interactions.  
-**Balanced verdict:** use a small number of clearly governed instruments, common data, transparent sequencing and periodic repeal or correction. Complexity should reflect the problem, not bureaucratic accumulation.
+### Concept check
 
-### UPSC integration
+**Question:** A strategy contains carbon pricing but no grid investment, adaptation or worker support. Why is it an incomplete green-transition portfolio?
 
-**Answer spine:** define -> diagnose market/institution failure -> select instrument -> show mechanism/calculation -> test distribution/implementation -> dated India evidence -> limitation -> integrated reform.  
-**Trap:** a long list of schemes is not analysis.  
-**Mastery test:** can you explain why each tool is needed, who pays, who gains, what is measured and what can go wrong?
+**Model answer:** Pricing cannot supply missing grids, resilience, innovation finance or distributional legitimacy by itself. A complete portfolio combines incentives with enabling investment, standards, adaptation, data, worker-region support and periodic outcome review.
 
-### Revision notes
+**Misconception to avoid:** A carbon market is one portfolio component, not a complete transition strategy.
+
+### Portfolio assembly checklist
 
 - Climate transition is a portfolio problem.
 - Instruments should target identified failures.
@@ -3194,67 +2746,342 @@ Track:
 - Efficiency, resilience, distribution and competitiveness must be judged together.
 - Every mutable claim needs date, perimeter and source.
 
-### Mains micro-model
+### Mains portfolio-design response
 
-**Question:** Design an integrated climate-economy strategy for India that reconciles growth, resilience, competitiveness and justice.
+**Mains prompt:** Design a sequenced green-transition portfolio for India that joins incentives, enabling investment, resilience and distributive safeguards.
 
-**Model:** Begin with India's development-energy-climate constraint. Organise policy under measurement, incentives, enabling investment, protection and verification. Combine CCTS/standards, adaptation public investment, green and blended finance, risk disclosure, circular/EPR systems, innovation and trade readiness. Add worker-region support, progressive revenue recycling and federal capacity. Use absolute/intensity and outcome metrics. Conclude that credible sequencing and institutions convert climate action from a cost narrative into productivity, resilience and strategic competitiveness.
+**Ceiling:** 10 marks; maximum 150 words.
 
-### Adaptive lesson practice (4 MCQs)
+**Model (diagnose–sequence–review):** No single instrument can simultaneously correct prices, build alternatives, absorb climate damage and protect vulnerable groups. Begin with India's development-energy-climate constraint. Organise policy under measurement, incentives, enabling investment, protection and verification. Combine CCTS/standards, adaptation public investment, green and blended finance, risk disclosure, circular/EPR systems, innovation and trade readiness. Add worker-region support, progressive revenue recycling and federal capacity. Use absolute/intensity and outcome metrics. Conclude that credible sequencing and institutions convert climate action from a cost narrative into productivity, resilience and strategic competitiveness.
 
-**MCQ 46. A carbon price raises industrial cost, but firms lack grid access and low-carbon technology. What is the best policy conclusion?**
-- A. Remove all climate policy permanently.
-- B. Retain a credible signal while financing enabling infrastructure and technology, with distributional safeguards.
-- C. Replace measurement with voluntary slogans.
-- D. Count announced investment as achieved abatement.
 
-**MCQ 47. Which dashboard best detects intensity-versus-scale failure?**
-- A. Only emissions per unit of output.
-- B. Only total output.
-- C. Both emissions intensity and absolute emissions, with output and boundary.
-- D. Only number of certificates issued.
+### Rubric: portfolio coherence
 
-**MCQ 48. Why should green procurement and CCTS be coordinated?**
-- A. Procurement can abolish MRV.
-- B. CCTS automatically creates demand for every green product.
-- C. Procurement should pay any price without competition.
-- D. Carbon incentives can lower supply emissions while procurement creates credible demand for lower-carbon products.
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames instrument complementarity and sequencing precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: integrated portfolio; named Indian evidence; monitoring/governance; qualified verdict. |
+| 2 | Tests the most damaging counter-case specific to instrument complementarity and sequencing. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
 
-**MCQ 49. Which is the most defensible final verdict?**
-- A. A credible transition combines prices, rules, finance, innovation, circularity and justice, with dated evidence and outcome verification.
-- B. One green label proves the whole economy is sustainable.
-- C. Adaptation makes mitigation unnecessary.
-- D. An intensity target guarantees absolute decline.
+### Portfolio red-team review
 
-#### Answers and all-option explanations
+**Criticism:** a complex portfolio creates administrative overload and policy inconsistency.
+**Reply:** climate transition is a system problem; simplistic tools merely hide interactions.
+**Balanced verdict:** use a small number of clearly governed instruments, common data, transparent sequencing and periodic repeal or correction. Complexity should reflect the problem, not bureaucratic accumulation.
 
-**MCQ 46: B**
-- **A - Incorrect.** It abandons the externality and investment signal.
-- **B - Correct.** Incentives and feasible alternatives must develop together.
-- **C - Incorrect.** Slogans do not change costs or capability.
-- **D - Incorrect.** Finance and outcome are different stages.
+### Synthesis answer board
 
-**MCQ 47: C**
-- **A - Incorrect.** Intensity alone can hide output growth.
-- **B - Incorrect.** Output alone does not show emissions performance.
-- **C - Correct.** The combined dashboard reveals both efficiency and scale.
-- **D - Incorrect.** Issuance is not total emissions.
+**Answer spine:** define -> diagnose market/institution failure -> select instrument -> show mechanism/calculation -> test distribution/implementation -> dated India evidence -> limitation -> integrated reform.
+**Trap:** a long list of schemes is not analysis.
+**Mastery test:** can you explain why each tool is needed, who pays, who gains, what is measured and what can go wrong?
 
-**MCQ 48: D**
-- **A - Incorrect.** Both policies require credible measurement.
-- **B - Incorrect.** A carbon signal may be insufficient to create product demand.
-- **C - Incorrect.** Procurement still needs value, standards and competition.
-- **D - Correct.** Supply and demand instruments can reinforce transformation.
+### Core close; optional depth ahead
 
-**MCQ 49: A**
-- **A - Correct.** It integrates mechanisms, evidence and safeguards.
-- **B - Incorrect.** Labels are narrow and conditional.
-- **C - Incorrect.** They address different parts of risk.
-- **D - Incorrect.** Scale can offset intensity improvement.
+The Core sequence is complete. The next two lessons add optional depth on credit integrity and circular business-model economics before the final application arc.
 
-### Whole-topic transition
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-The lesson sequence is complete. The final arc now changes the learner's task from understanding mechanisms to applying PYQs, testing cumulative distinctions, writing Mains answers, repairing errors and retrieving the whole topic.
+The Core sequence above is sufficient for a competent UPSC answer. The next two lessons deepen credit integrity and circular-business analysis without changing the Core definitions or answer spine.
+
+## Lesson 18 - Carbon-credit integrity: baselines, additionality, permanence, leakage, verification and retirement
+
+Progress: 18 / 19 | Stage: Optional Advanced | Subtopic: Carbon-credit integrity: baselines, additionality, permanence, leakage, verification and retirement
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - canonical Topic 25, BEE compliance/offset architecture and official Article 6 material
+CA search: "carbon credit integrity additionality permanence leakage double counting official 2026"
+CA found: BEE and MoEFCC official material confirms separate compliance and offset procedures and approved methodology/activity pathways; retrieval 3 October 2026. No current market-price claim is used.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Learning route:** `baseline → custody → retirement`
+
+### Custody chain of one credited tonne
+
+```text
+ELIGIBLE PROJECT
+   -> conservative baseline
+   -> additional action
+   -> monitored reduction/removal
+   -> leakage adjustment
+   -> permanence / reversal safeguard
+   -> independent verification
+   -> registry issuance
+   -> transfer
+   -> retirement
+```
+
+*A certificate is credible only when the whole chain is sound.*
+
+### Reduction, avoidance and removal
+
+- **Reduction:** emissions fall relative to a baseline.
+- **Avoidance:** an expected emissions source does not occur.
+- **Removal:** greenhouse gas is taken from the atmosphere and stored.
+
+These have different measurement and permanence profiles. Avoided deforestation is not identical to geological storage; renewable generation is not an atmospheric removal.
+
+### Baseline integrity
+
+An inflated baseline manufactures credits. Use conservative assumptions, standardised benchmarks where suitable, transparent data and periodic updating. Dynamic baselines can reflect technological change but create uncertainty for investment.
+
+### Additionality
+
+The project must exceed the credible no-credit counterfactual. Tests include legal requirement, investment barrier, common practice and financial dependence on credit revenue. Mechanical pass/fail tests can be gamed; reasoned documentation and ex-post review remain important.
+
+### Leakage
+
+A forest project prevents clearing inside its boundary, but agriculture shifts outside. If on-site avoided emissions are 100,000 tCO2e and estimated leakage is 20%:
+
+```text
+net before other deductions = 100,000 x (1 - 0.20)
+                            = 80,000 tCO2e
+```
+
+Ignoring leakage overstates the climate benefit.
+
+### Permanence and buffer pool
+
+Biological carbon can reverse through fire, disease or land-use change. If verified removals are 50,000 tonnes and a 15% buffer is withheld:
+
+```text
+tradable credits = 50,000 x 0.85 = 42,500
+buffer = 7,500
+```
+
+Buffer pools spread reversal risk but may fail under correlated systemic fires. Long monitoring, replacement obligations and conservative crediting are needed.
+
+### Verification, registry and retirement
+
+Verification checks the project report. The registry assigns serial numbers and tracks ownership. Retirement permanently removes the unit from circulation for a claim. A transfer without retirement does not establish final use.
+
+### Offset hierarchy
+
+```text
+measure -> reduce own emissions -> substitute/innovate
+          -> neutralise limited residual emissions with high-integrity credits
+```
+
+Using credits before serious operational reduction can delay structural change. Yet high-integrity finance can support mitigation outside the buyer's boundary. The issue is sequencing, quality and claim wording.
+
+### Crediting-period and vintage
+
+Credit vintage is the period in which the mitigation occurred, not necessarily the issue or purchase date. Old vintages may represent real reductions but can have weaker additionality to a current claim and different methodology.
+
+### Integrity failure chain
+
+**Criticism:** counterfactual credits can never prove what would have happened.
+**Reply:** policy routinely uses counterfactual appraisal; conservative methods and random/benchmark evidence can improve credibility.
+**Residual:** do not claim certainty; discount uncertain units and restrict offset use where direct abatement is feasible.
+
+### Tonne-integrity checkpoint
+
+### Concept check
+
+**Question:** A credit is verified and issued, but the project was non-additional and the same serial number remains active after use. Which integrity failures invalidate the claim?
+
+**Model answer:** Non-additionality means the claimed mitigation was not caused by the crediting incentive. Failure to retire the serial number permits reuse or double claiming. Verification of activity cannot cure a false baseline or broken custody-and-retirement chain.
+
+**Misconception to avoid:** Issuance is not integrity; additionality, custody, retirement and claims all remain necessary.
+
+### Credit-quality application
+
+**Probable framing:** "A carbon credit is an accounting claim before it becomes a climate outcome."
+**Trap:** issuance, ownership and retirement are different registry events.
+**Answer use:** unit-baseline-additionality-leakage-permanence-verification-registry-retirement-claim.
+
+### Mains integrity-audit response
+
+**Mains prompt:** Construct a tonne-level integrity test for a carbon credit from baseline selection to final retirement and claim wording.
+
+**Ceiling:** 10 marks; maximum 150 words.
+
+**Model (baseline–custody–claim):** A credit is credible only if the causal tonne and its ownership survive every link from baseline to retirement. Define the unit and distinguish reduction, avoidance and removal. Build the integrity chain from conservative baseline and additionality to leakage, permanence, MRV, serialised registry and retirement. Add vintage, safeguards and claim wording. Use leakage/buffer calculations. Conclude that markets reduce cost only when the credited tonne is real, additional, durable and uniquely claimed.
+
+
+
+### Rubric: tonne-level integrity
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames baseline-to-retirement credit integrity precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: baseline/additionality; leakage/permanence; registry-retirement; claim discipline. |
+| 2 | Tests the most damaging counter-case specific to baseline-to-retirement credit integrity. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### Credit-integrity checklist
+
+- Reduction, avoidance and removal are distinct.
+- Baselines define the counterfactual.
+- Additionality asks whether credit revenue/action changes the outcome.
+- Leakage moves emissions outside the boundary.
+- Permanence concerns reversal of stored carbon.
+- Buffer pools insure some reversal risk.
+- Verification and registry perform different functions.
+- Retirement prevents further use of a unit.
+- Vintage is the mitigation period.
+- Offsets should address limited residual emissions after internal action.
+- Conservative discounting is preferable to false precision.
+
+### From architecture to tonne quality
+
+Credit integrity governs the quality of an emissions unit. The next optional lesson shifts from accounting units to the firm-level circular models and industrial networks that can reduce physical throughput—and the rebound effects that can offset gains.
+
+## Lesson 19 - Circular business models, industrial symbiosis, rebound effects and competitiveness
+
+Progress: 19 / 19 | Stage: Optional Advanced | Subtopic: Circular business models, industrial symbiosis, rebound effects and competitiveness
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - canonical Topic 25, Economic Survey 2025-26 material/critical-mineral discussion and circular-economy evidence
+CA search: "Economic Survey 2025-26 critical mineral recycling incentive circular economy India"
+CA found: Economic Survey 2025-26, published 29 January 2026, records a Rs 1,500 crore incentive scheme for critical-mineral recycling under the National Critical Mineral Mission and frames recovery from end-of-life products as a supply-chain strategy; retrieval 3 October 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Learning route:** `business model → system gain → rebound`
+
+### Circular firm as an asset loop
+
+```text
+CONVENTIONAL SALE
+producer sells product -> buyer bears maintenance/end-of-life -> replacement demand
+
+PRODUCT-AS-A-SERVICE
+producer retains ownership -> earns from service -> durability/repair has value
+
+INDUSTRIAL SYMBIOSIS
+Firm A residue/heat/water -> verified input for Firm B -> lower virgin input and waste
+```
+
+*Business-model incentives determine whether durability is profitable or whether firms benefit from rapid replacement.*
+
+### Circular business models
+
+1. **Product as a service:** payment for lighting, mobility, cooling or machine uptime.
+2. **Leasing and take-back:** producer retains residual-value interest.
+3. **Repair and refurbishment:** extend useful life.
+4. **Remanufacture:** rebuild to defined performance using recovered components.
+5. **Sharing platforms:** raise utilisation of underused assets.
+6. **Industrial symbiosis:** one firm's by-product becomes another's input.
+7. **Secondary-material marketplaces:** improve quality discovery and contracting.
+
+### Incentive logic
+
+Under a one-time sale, a producer can profit from replacement. Under a service contract, failure creates producer cost, so durability, modularity and energy efficiency can become profitable. This result depends on contract design, consumer protection and competition; service models can also lock users into proprietary ecosystems.
+
+### Total-cost-of-ownership calculation
+
+Machine A:
+
+- purchase Rs 10 lakh;
+- maintenance Rs 2 lakh/year for 5 years;
+- residual value Rs 1 lakh.
+
+Machine B (remanufactured service model):
+
+- upfront/service present cost Rs 14 lakh;
+- maintenance included;
+- residual obligation with provider.
+
+Ignoring discounting:
+
+```text
+A total cost = 10 + (2 x 5) - 1 = Rs 19 lakh
+B total cost = Rs 14 lakh
+```
+
+A lower purchase price can hide a higher lifecycle cost. Public procurement should compare service, uptime, energy and end-of-life, not sticker price alone.
+
+### Industrial-symbiosis calculation
+
+Firm A produces 10,000 tonnes of slag. Firm B can substitute it for 8,000 tonnes of virgin input after quality treatment costing Rs 500/tonne. Virgin input costs Rs 1,200/tonne; transport is equal.
+
+```text
+gross virgin-cost avoided = 8,000 x 1,200 = Rs 96 lakh
+treatment cost = 8,000 x 500 = Rs 40 lakh
+gross operating saving = Rs 56 lakh
+```
+
+The environmental benefit also depends on processing emissions, safety and avoided disposal.
+
+### Rebound effect
+
+Efficiency lowers the effective price of a service and can increase use.
+
+```text
+engineering energy saving = 30%
+service use rises = 10%
+new energy use = 0.70 x 1.10 = 0.77 of original
+net saving = 23%, not 30%
+```
+
+If use rises enough, savings can be erased. Rebound does not mean efficiency is useless; it means policy should measure actual system outcomes.
+
+### Competition and market power
+
+Repair restrictions, proprietary parts, software locks and information asymmetry can block circularity. Standards for interoperability, right-to-repair, warranties and quality certification can expand markets. Poorly designed mandates can, however, expose consumers to unsafe parts or reduce innovation incentives.
+
+### Trade and competitiveness
+
+Resource efficiency can reduce import dependence for critical minerals and materials. Quality standards, traceability and stable demand are needed for secondary materials. Export markets may increasingly require lifecycle and recycled-content evidence, but every current trade rule must be cited by jurisdiction and date.
+
+### Mains business-model response
+
+**Mains prompt:** Assess whether circular business models and industrial symbiosis necessarily reduce absolute resource use and improve competition.
+
+**Ceiling:** 10 marks; maximum 150 words.
+
+**Model (business case–system effect–rebound):** Circular business models improve outcomes only when lifecycle savings exceed rebound, coordination costs and market-power effects. Explain product-service, leasing, repair, remanufacture, symbiosis and secondary markets. Use total-cost and material-substitution calculations. Link to critical-mineral imports, waste and jobs. Evaluate rebound, proprietary lock-in, safety, finance and informal-worker effects. Recommend repair rights, interoperability, quality standards, green procurement, competition oversight and skill systems.
+
+
+
+### Rubric: whole-life economics
+
+| Marks | Lesson-specific evidence of quality |
+|---:|---|
+| 2 | Frames whole-life business economics and rebound precisely and obeys the directive. |
+| 4 | Builds the mechanism with named evidence: business models; industrial symbiosis; rebound; absolute-footprint test. |
+| 2 | Tests the most damaging counter-case specific to whole-life business economics and rebound. |
+| 2 | Reaches an implementable, qualified judgement within the printed ceiling. |
+
+### Business-model evaluation frame
+
+**Probable framing:** "How can circularity improve both resource security and manufacturing competitiveness?"
+**Trap:** industrial by-product use is not automatically safe or lower-carbon; quality and lifecycle checks remain.
+**Answer use:** incentive-contract-material loop-cost-rebound-competition-worker.
+
+### Circular-business verdict card
+
+- Business models shape durability incentives.
+- Product-as-service can align revenue with uptime.
+- Leasing creates take-back and residual-value incentives.
+- Remanufacture preserves components and embodied value.
+- Industrial symbiosis links one firm's residue to another's input.
+- Total cost of ownership differs from purchase price.
+- Rebound reduces realised efficiency savings.
+- Repair markets need parts, skills, information and standards.
+- Proprietary lock-in can undermine circular competition.
+- Secondary materials need quality assurance and demand.
+- Resource efficiency can support import resilience.
+
+### Rebound checkpoint
+
+### Concept check
+
+**Question:** A product-service model doubles technical efficiency but cuts the service price enough to expand use sharply. What must be calculated before claiming an absolute resource gain?
+
+**Model answer:** Calculate the rebound-adjusted absolute effect: technical resource saving per service unit multiplied by the new quantity of service, including lifecycle inputs. Efficiency improves intensity; only the net quantity calculation establishes lower total resource use.
+
+**Misconception to avoid:** Lower resource intensity can coexist with higher total throughput.
+
+### Rebound and concentration challenge
+
+**Criticism:** circular business models can shift ownership power to large firms and weaken consumer autonomy.
+**Reply:** service models can align producer incentives with durability and lower upfront cost.
+**Residual:** require portability, transparent total cost, data rights, repair access and competition.
+
+### Exit to cumulative application
+
+Optional Advanced depth is complete. The final arc now applies verified PYQ routes, cumulative distinctions, Mains models, remediation and whole-topic retrieval.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
@@ -3263,15 +3090,15 @@ The lesson sequence is complete. The final arc now changes the learner's task fr
 | Year | Paper/Q | Verified demand | Key/status boundary | Lesson | Concise answer approach |
 |---:|---|---|---|---:|---|
 | 2020 | Prelims GS-I Q85 | Social Cost of Carbon as monetary valuation of emissions damage | Official key unavailable locally; no answer letter inferred | 2 | Define marginal discounted damage; distinguish SCC from tax and traded price. |
-| 2022 | Prelims GS-I Q80 | Greenwashing as false or misleading eco-friendly claims | Official key unavailable locally; no answer letter inferred | 7 | Test specificity, boundary, baseline, MRV, additionality and claim wording. |
 | 2025 | Prelims GS-I Q4 | Business Responsibility and Sustainability Report for listed companies | Official Set-A paper/key held locally; no answer letter printed here | 11 | Identify SEBI reporting perimeter; distinguish disclosure from impact certification. |
-| 2025 | Prelims GS-I Q9 | Circular economy's relation to emissions, raw-material use and wastage | Official Set-A paper/key held locally; no answer letter printed here | 15 | Trace reduce/reuse/repair/recycle to lower virgin processing and waste; retain lifecycle caveat. |
+| 2025 | Prelims GS-I Q9 | Circular economy's relation to emissions, raw-material use and wastage | Official Set-A paper/key held locally; no answer letter printed here | 14 | Trace reduce/reuse/repair/recycle to lower virgin processing and waste; retain lifecycle caveat. |
 | 2026 | Prelims GS-I Q92 | Sustainability bonds financing combined environmental and social projects | Locally held Set-A key is provisional; no answer letter inferred | 8 | Distinguish green, social, sustainability and sustainability-linked bonds. |
 
 ## Necessary cross-links through 2026
 
 | Year | Paper/Q | Demand | Ownership boundary | Topic 25 use |
 |---:|---|---|---|---|
+| 2022 | Prelims GS-I Q80 | Greenwashing as false or misleading eco-friendly claims | Environment and Ecology principal owner; Economy Topic 25 supporting cross-link | Test specificity, boundary, baseline, MRV, additionality and claim wording in climate-finance claims; official key unavailable locally and no answer letter inferred. |
 | 2021 | GS-III Q6 | Green Grid Initiative and International Solar Alliance | Energy/Environment primary owner | Grid and international-cooperation enabling conditions |
 | 2021 | GS-III Q17 | COP26 outcomes and India's commitments | Environment primary owner | NDC, finance and just-transition economic interpretation |
 | 2022 | GS-III Q12 | Renewable-energy target and shift from fossil-fuel subsidies | Energy/Environment primary owner | Carbon-pricing, subsidy reform, incidence and sequencing |
@@ -3285,155 +3112,57 @@ The lesson sequence is complete. The final arc now changes the learner's task fr
 
 No solved PYQ answer is included. Each row supplies linkage, demand and an answer route only. No unavailable or provisional objective key has been inferred.
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-### Whole-topic set
+## Whole-topic retrieval set
 
-**MCQ 50. Which sequence correctly moves from an environmental problem to a credible policy result?**
-- A. Label -> publicity -> target -> assumed impact.
-- B. Failure diagnosis -> instrument -> enabling conditions -> MRV -> distribution/outcome review.
-- C. Bond issuance -> automatic net zero.
-- D. Disclosure -> automatic additionality.
+### Check 1 - carbon-value triangle
 
-**MCQ 51. A policy cuts emissions intensity by 20%, while output rises 50%. Absolute emissions become:**
-- A. 70% of the original.
-- B. 80% of the original.
-- C. 120% of the original.
-- D. 150% of the original.
+**Question:** Distinguish the Social Cost of Carbon, a carbon tax and a traded carbon price in one causal chain.
 
-**MCQ 52. Which instrument gives the clearest aggregate quantity certainty when enforced as designed?**
-- A. Voluntary BRSR filing.
-- B. A fixed carbon tax.
-- C. A green deposit.
-- D. A binding absolute emissions cap with tradable allowances.
+**Model answer:** SCC estimates marginal social damage; a tax is a statutory price chosen under administrative, political and distributional constraints; a traded price emerges from scheme scarcity and demand. They can inform one another but are not synonyms.
 
-**MCQ 53. A future damage of Rs 133.10 occurs after three years. At 10% discounting, present value is:**
-- A. Rs 100.
-- B. Rs 110.
-- C. Rs 121.
-- D. Rs 133.10.
+### Check 2 - mitigation, adaptation and loss and damage
 
-**MCQ 54. Which project has the clearest adaptation public-good problem?**
-- A. A commercially viable solar plant selling contracted power.
-- B. A citywide heat-health warning and cooling network protecting residents unable to pay a user charge.
-- C. A profitable efficiency retrofit with two-year payback.
-- D. A tradable allowance purchase.
+**Question:** Why does a complete climate-finance architecture require three different funding logics?
 
-**MCQ 55. Which claim demonstrates environmental additionality most directly?**
-- A. The project has a green name.
-- B. The project existed before the finance and would proceed unchanged.
-- C. Verified outcomes exceed a credible no-project baseline.
-- D. The issuer publishes a glossy report.
+**Model answer:** Mitigation can often generate saleable energy or efficiency cash flow; adaptation frequently produces dispersed avoided losses and public-good benefits; loss and damage addresses residual harm that cannot be prevented. Grants and concessional/public finance therefore matter more as monetisable revenue weakens.
 
-**MCQ 56. A green bond's proceeds are fully allocated. What remains necessary before claiming climate impact?**
-- A. Nothing; allocation equals outcome.
-- B. Only the issuer's share price.
-- C. A higher coupon.
-- D. Relevant output/outcome metrics, baseline, financed share and verification.
+### Check 3 - finance integrity
 
-**MCQ 57. A first-loss public tranche is most defensible when it:**
-- A. addresses a defined risk that blocks a socially valuable project and uses the minimum necessary subsidy;
-- B. guarantees profit to any investor;
-- C. replaces project appraisal;
-- D. remains permanent after the market matures.
+**Question:** What evidence chain is required before a green-finance claim becomes credible?
 
-**MCQ 58. Which pair is correctly matched?**
-- A. Acute physical risk - gradual technology substitution.
-- B. Transition risk - abrupt policy or market repricing of high-carbon assets.
-- C. Liability risk - only cyclone damage.
-- D. Chronic physical risk - one-day flood only.
+**Model answer:** Taxonomy eligibility must be followed by project selection, allocation, implementation, output, outcome, attribution and verification, with the baseline, financed share, instrument terms and safeguards disclosed.
 
-**MCQ 59. Which statement about CCTS is most precise?**
-- A. It is identical to EU CBAM.
-- B. It guarantees falling absolute national emissions.
-- C. Its compliance mechanism uses defined GHG-intensity targets, certificates, MRV and trading within a phased domestic architecture.
-- D. Every voluntary credit worldwide is automatically fungible within it.
+### Check 4 - CCTS boundary
 
-**MCQ 60. A removal project verifies 20,000 tonnes and withholds 20% in a reversal buffer. Tradable amount is:**
-- A. 4,000.
-- B. 12,000.
-- C. 20,000.
-- D. 16,000 tonnes.
+**Question:** Why can falling GEI coexist with rising absolute emissions?
 
-**MCQ 61. Which integrated policy has the strongest distributional logic?**
-- A. Carbon signal plus clean alternatives, progressive revenue recycling and worker/region transition support.
-- B. Carbon price with no public transport or rebate.
-- C. Green label without verification.
-- D. Closure order without livelihood planning.
+**Model answer:** Absolute emissions equal emissions intensity multiplied by output. If output grows faster than intensity falls, total emissions rise. Therefore CCTS performance must be read with absolute-emission disclosure and sector transition plans.
 
-### Answers and all-option explanations
+### Check 5 - Article 6 integrity
 
-**MCQ 50: B**
-- **A - Incorrect.** Publicity and targets do not establish mechanism or result.
-- **B - Correct.** It links diagnosis, implementation, evidence and incidence.
-- **C - Incorrect.** Finance is an input, not net balance.
-- **D - Incorrect.** Disclosure does not prove causation.
+**Question:** Name the separate gates between an eligible activity and a valid internationally used mitigation outcome.
 
-**MCQ 51: C**
-- **A - Incorrect.** It subtracts percentages.
-- **B - Incorrect.** It ignores output growth.
-- **C - Correct.** `0.80 x 1.50 = 1.20`.
-- **D - Incorrect.** It ignores efficiency improvement.
+**Model answer:** Methodology eligibility, project validation/registration, monitoring, verification, issuance, host authorisation, transfer, registry tracking, corresponding adjustment where applicable and final retirement/claim are distinct gates.
 
-**MCQ 52: D**
-- **A - Incorrect.** Disclosure does not cap emissions.
-- **B - Incorrect.** A tax fixes price.
-- **C - Incorrect.** A deposit finances eligible uses.
-- **D - Correct.** An enforced absolute cap fixes aggregate allowance quantity.
+### Check 6 - circular hierarchy
 
-**MCQ 53: A**
-- **A - Correct.** `133.10 / 1.1^3 = 100`.
-- **B - Incorrect.** This is one discounting step short.
-- **C - Incorrect.** This is the two-year value.
-- **D - Incorrect.** It is undiscounted.
+**Question:** Why is remanufacture normally more circular than material recycling?
 
-**MCQ 54: B**
-- **A - Incorrect.** It has a contracted revenue stream.
-- **B - Correct.** Benefits are dispersed and difficult to exclude or charge fully.
-- **C - Incorrect.** Private savings can support repayment.
-- **D - Incorrect.** It is a compliance transaction.
+**Model answer:** Remanufacture preserves product components, embedded energy and labour, whereas recycling usually destroys product-level value to recover material. Lifecycle evidence can qualify the hierarchy where transport, contamination or energy use changes the result.
 
-**MCQ 55: C**
-- **A - Incorrect.** Naming is not evidence.
-- **B - Incorrect.** The counterfactual indicates no financial additionality.
-- **C - Correct.** Additionality is defined against a credible baseline.
-- **D - Incorrect.** Report publication does not establish outcome.
+### Check 7 - EPR integrity
 
-**MCQ 56: D**
-- **A - Incorrect.** Allocation is an intermediate stage.
-- **B - Incorrect.** Equity valuation does not measure project climate outcome.
-- **C - Incorrect.** Coupon size is not impact.
-- **D - Correct.** Outcome claims require method and evidence.
+**Question:** What turns an EPR certificate market from paper compliance into circular-economy infrastructure?
 
-**MCQ 57: A**
-- **A - Correct.** It ties concessionality to a specific market barrier and minimum subsidy.
-- **B - Incorrect.** Public finance should not insure ordinary commercial upside.
-- **C - Incorrect.** Risk sharing requires stronger appraisal.
-- **D - Incorrect.** Mature markets should reduce concessional dependence.
+**Model answer:** Audited mass balance, registered processors, serialised issuance, cancellation after use, physical inspections, environmental quality standards, transparent data and safe integration of waste workers tie the certificate to real material recovery.
 
-**MCQ 58: B**
-- **A - Incorrect.** Technology substitution is transition risk.
-- **B - Correct.** Policy/market change can strand assets.
-- **C - Incorrect.** Cyclone damage is physical risk.
-- **D - Incorrect.** A one-day flood is acute.
+### Check 8 - just-transition portfolio
 
-**MCQ 59: C**
-- **A - Incorrect.** One is domestic Indian architecture; the other is an EU import instrument.
-- **B - Incorrect.** Intensity and absolute emissions can diverge.
-- **C - Correct.** It retains mechanism and status boundaries.
-- **D - Incorrect.** Eligibility and fungibility require rules.
+**Question:** Design the shortest defensible climate-policy portfolio for India.
 
-**MCQ 60: D**
-- **A - Incorrect.** This is the buffer amount.
-- **B - Incorrect.** It applies a 40% deduction.
-- **C - Incorrect.** It ignores the buffer.
-- **D - Correct.** `20,000 x 0.80 = 16,000`.
-
-**MCQ 61: A**
-- **A - Correct.** It combines incentive, feasible substitution and incidence repair.
-- **B - Incorrect.** It exposes low-income users without alternatives.
-- **C - Incorrect.** The claim lacks evidence.
-- **D - Incorrect.** It concentrates transition harm.
+**Model answer:** Combine a predictable carbon/resource signal with clean alternatives, grids and innovation; public/concessional adaptation finance; verified disclosure and taxonomy; circular design and EPR; progressive revenue recycling; worker-region transition support; federal capacity; and outcome-based review.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -3441,13 +3170,31 @@ No solved PYQ answer is included. Each row supplies linkage, demand and an answe
 
 **Question:** Distinguish the Social Cost of Carbon from a carbon tax and a traded carbon price. Why can the three values differ? (150 words)
 
-**Model answer:** The Social Cost of Carbon is a model-based present value of marginal future damage from one additional tonne of CO2/CO2e. A carbon tax is a statutory levy fixed by government. A traded price emerges from allowance or credit scarcity, compliance demand and market rules. SCC varies with climate response, damage functions, discounting, distribution weights and tail risk. A tax also reflects political feasibility, administrative capacity, competitiveness and revenue policy. A market price reflects cap/baseline stringency, allocation, banking, liquidity and permitted offsets. Thus SCC can guide ambition, but tax and market prices need not equal it. A credible answer states unit, currency/base year and boundary, then uses sensitivity rather than a timeless universal number.
+**Model answer:** The Social Cost of Carbon is a model-based present value of marginal future damage from one additional tonne of CO2 or CO2e. A carbon tax is a statutory levy fixed by government. A traded price emerges from allowance or credit scarcity, compliance demand and market rules. SCC varies with climate response, damage functions, discounting, distribution weights and tail risk. A tax also reflects political feasibility, administrative capacity, competitiveness and revenue policy. A market price reflects cap or baseline stringency, allocation, banking, liquidity and permitted offsets. Thus SCC can guide ambition, but tax and market prices need not equal it. A credible answer states unit, currency/base year and boundary, then uses sensitivity rather than a timeless universal number.
+
+### Scoring rubric
+
+| Credit | What the examiner should see |
+|---:|---|
+| 20% | Exact three-way definition: damage estimate, statutory levy and scheme-generated price. |
+| 40% | Named determinants: discounting/damage assumptions; political-administrative tax choice; scarcity, banking and liquidity. |
+| 20% | Qualification on unit, currency/base year, uncertainty and absence of one universal SCC. |
+| 20% | A concise judgement explaining how SCC may inform—but does not mechanically determine—the other prices. |
 
 ## 10 marks - Circular hierarchy
 
 **Question:** Why is recycling only one component of a circular economy? (150 words)
 
 **Model answer:** Recycling recovers material after product value has largely been destroyed. Circularity first avoids unnecessary throughput, redesigns products, extends life and preserves products/components through reuse, repair, refurbishment and remanufacture. These options generally retain more embedded labour, energy and material value. Recycling remains essential for residual material but faces collection loss, contamination, downcycling and energy use. A circular policy therefore combines design standards, repair access, product-service models, secondary-material quality, EPR and green procurement. Material-flow and lifecycle metrics should track virgin input, product life, actual recovery and absolute footprint. The objective is not maximum recycling alone but minimum virgin-resource and waste intensity for a required service.
+
+### Scoring rubric
+
+| Credit | What the examiner should see |
+|---:|---|
+| 20% | Defines circular economy as value and material retention rather than waste disposal alone. |
+| 40% | Orders prevention, reuse, repair, refurbishment/remanufacture and recycling with embedded-value reasoning. |
+| 20% | Qualifies the hierarchy through contamination, collection loss, downcycling, energy use and lifecycle evidence. |
+| 20% | Ends with measurable India-relevant tools: design standards, EPR, repair access and secondary-material demand. |
 
 ## 15 marks - Carbon-pricing choice
 
@@ -3456,6 +3203,15 @@ No solved PYQ answer is included. Each row supplies linkage, demand and an answe
 **Model answer:** A carbon tax fixes price and leaves emission quantity responsive; cap-and-trade fixes an absolute allowance quantity and lets price adjust; baseline-and-credit rewards performance relative to an output/intensity benchmark. All can equalise marginal abatement cost, but they allocate uncertainty differently. Tax offers price and revenue predictability but uncertain quantity. A cap offers quantity certainty but can generate volatility and allocation rents. Baseline-credit fits expanding industry but may allow absolute emissions to rise when output outpaces efficiency.
 
 For India, design must consider industrial heterogeneity, MRV capacity, energy security, trade exposure, market liquidity and distribution. PAT created experience in intensity targets and certificate trading; CCTS extends this toward GHG intensity. Strong design requires conservative baselines, tightening trajectories, verified data, transparent banking, limits on weak offsets and absolute-emission disclosure. Auction or tax revenue can fund grids, technology, household relief and worker-region transition. Carbon pricing should complement local pollution standards, industrial finance and green procurement. The correct choice is therefore not a slogan but a coherent architecture suited to sector and institutional capacity.
+
+### Scoring rubric
+
+| Credit | What the examiner should see |
+|---:|---|
+| 20% | Correctly allocates price and quantity uncertainty across the three instruments. |
+| 40% | Uses PAT/CCTS, MRV, industrial heterogeneity, banking, allocation and revenue recycling as named evidence. |
+| 20% | Identifies baseline inflation, volatility, leakage and intensity-versus-absolute-emissions limitations. |
+| 20% | Recommends an institutionally feasible Indian architecture rather than declaring one universal winner. |
 
 ## 15 marks - Climate finance and greenwashing
 
@@ -3467,9 +3223,18 @@ Taxonomy can guide eligibility, but baseline, MRV, additionality and safeguards 
 
 India should deepen local-currency bond markets, project preparation and DFIs; use guarantees selectively; publish mobilisation methods; integrate green budgeting; and support MSME data capacity. Finance becomes transformational only when it changes investment and produces verified, equitable outcomes.
 
+### Scoring rubric
+
+| Credit | What the examiner should see |
+|---:|---|
+| 20% | Separates finance volume from integrity, terms, additionality and risk allocation. |
+| 40% | Uses taxonomy, SGrB allocation/impact reporting, blended finance, BRSR/RBI evidence and adaptation revenue weakness. |
+| 20% | Tests greenwashing, double counting, contingent liability, MSME capacity and draft/final status. |
+| 20% | Offers local-currency, project-preparation and disclosure reforms tied to verified equitable outcomes. |
+
 ## 20 marks - CCTS and Article 6
 
-**Question:** Analyse India's emerging carbon-market architecture from PAT and CCTS to Article 6 participation. Identify the principal integrity and development safeguards. (250-300 words)
+**Question:** Analyse India's emerging carbon-market architecture from PAT and CCTS to Article 6 participation. Identify the principal integrity and development safeguards. (Maximum 250 words)
 
 **Model answer:** PAT established energy-intensity targets, verification and tradable Energy Saving Certificates. The CCTS, notified on 28 June 2023 and amended on 19 December 2023, creates compliance and offset mechanisms. Its compliance arm assigns defined GHG-intensity targets, issues Carbon Credit Certificates for verified over-performance and requires acquisition/surrender for shortfall through a regulated institutional chain. This can lower compliance cost and encourage industrial learning, but intensity improvement does not guarantee absolute decline. Baseline inflation, thin liquidity, generous crediting, verification weakness and unequal transition cost are major risks.
 
@@ -3477,9 +3242,18 @@ Article 6 adds international cooperation. Article 6.2 governs transferred mitiga
 
 Safeguards should include conservative baselines, additionality, leakage/permanence rules, serialised registries, retirement, absolute-emission disclosure, strategic host authorisation, protection of NDC space, benefit sharing, community rights and clear claim language. Industrial finance, technology, green procurement and worker-region support must complement the market. India should use carbon markets as one instrument of structural decarbonisation, not as a substitute for it.
 
+### Scoring rubric
+
+| Credit | What the examiner should see |
+|---:|---|
+| 20% | Traces the legal and institutional sequence from PAT to CCTS and then Article 6. |
+| 40% | Explains GEI baseline-credit, CCC issuance/surrender, 6.2/6.4/6.8 and corresponding adjustment. |
+| 20% | Identifies intensity, baseline, liquidity, additionality, leakage, permanence and NDC-space risks. |
+| 20% | Proposes registry, retirement, authorisation, community and just-transition safeguards without assuming fungibility. |
+
 ## 20 marks - Integrated climate-economy strategy
 
-**Question:** Design a climate-economy strategy for India that reconciles growth, adaptation, finance, circularity, federalism and competitiveness. (250-300 words)
+**Question:** Design a climate-economy strategy for India that reconciles growth, adaptation, finance, circularity, federalism and competitiveness. (Maximum 250 words)
 
 **Model answer:** India requires affordable energy and industrial growth while facing physical climate risk, capital constraints and trade pressure. Strategy should begin with common measurement: absolute/intensity emissions, hazard exposure, material flows, finance stages and distribution. Carbon pricing/CCTS and performance standards should change incentives; grids, storage, R&D and blended finance should make low-carbon substitution feasible. Public and concessional finance should prioritise adaptation, local resilience and vulnerable communities where revenue is weak.
 
@@ -3487,105 +3261,37 @@ Green taxonomy, bond allocation/impact reporting, BRSR/RBI risk governance and s
 
 For competitiveness, firms need product-level MRV, efficient energy/material use and technical engagement with CBAM, while India preserves the distinction between EU border rules and domestic CCTS. Milestones, sunset clauses, public dashboards and grievance mechanisms should prevent rent seeking. The objective is a sequenced portfolio that raises productivity and resilience while reducing emissions and material dependence fairly.
 
+### Scoring rubric
+
+| Credit | What the examiner should see |
+|---:|---|
+| 20% | Frames the growth-energy-climate constraint and states measurable policy objectives. |
+| 40% | Integrates carbon signals, adaptation, finance, disclosure, circularity, innovation and federal capacity with named Indian instruments. |
+| 20% | Tests incidence, competitiveness, institutional overload, contingent liabilities and implementation gaps. |
+| 20% | Supplies sequencing, milestones, grievance/review rules and a qualified productivity-resilience-justice verdict. |
+
 # REMEDIATION
 
-**MCQ 62. A learner says, "The carbon price is the Social Cost of Carbon." What is the best correction?**
-- A. Every carbon price is legally fixed by climate models.
-- B. SCC is estimated marginal damage; a tax is statutory and a market price reflects scheme scarcity and demand.
-- C. SCC is the quantity of allowances.
-- D. Carbon markets contain no prices.
+## Hostile error map
 
-**MCQ 63. A report claims emissions fell because intensity fell from 2.0 to 1.8 while output doubled. What is the correct diagnosis?**
-- A. Absolute emissions necessarily fell 10%.
-- B. Output is irrelevant.
-- C. Absolute emissions rose from 2.0 times old output to 3.6 times old output.
-- D. Intensity is measured only in rupees.
+| Learner error | Why it fails | Repair move |
+|---|---|---|
+| "The carbon price is the SCC." | Damage valuation, statutory price and market-clearing price have different determinants. | State the carbon-value triangle before using any number. |
+| "Intensity fell, so emissions fell." | Output growth can dominate the efficiency gain. | Calculate `absolute emissions = intensity × output`. |
+| "Green-bond allocation proves climate impact." | Allocation is an input-stage fact. | Add baseline, output/outcome, financed share, attribution and verification. |
+| "Disclosure decarbonises the firm." | Reporting can leave incentives and conduct unchanged. | Connect data to governance, pricing, capital allocation and supervision. |
+| "CCTS is India's EU ETS." | CCTS uses phased GEI baseline-and-credit architecture; EU ETS is an absolute-cap allowance system. | Compare unit, cap, allocation, institutions and status. |
+| "Every verified credit is safe to offset." | Additionality, leakage, permanence, ownership, authorisation and retirement may still fail. | Audit the complete credit custody chain. |
+| "Recycling rate proves circularity." | It omits prevention, product life, virgin input and downcycling. | Use the hierarchy plus absolute material-flow metrics. |
+| "EPR certificates equal recovered material." | Certificates can be detached from physical processing. | Demand mass balance, audits, cancellation and processor quality. |
+| "CBAM is India's carbon market." | CBAM is an EU import mechanism; CCTS is domestic Indian architecture. | Explain reciprocal pressure without institutional conflation. |
+| "A green transition is automatically just." | Costs can concentrate on poor consumers, workers, regions and weak states. | Add alternatives, recycling of revenue, skills, social protection and federal support. |
 
-**MCQ 64. A sovereign green bond finances an eligible project. Which conclusion is invalid without more evidence?**
-- A. Proceeds were allocated under the framework.
-- B. The borrowing remains sovereign debt.
-- C. Allocation and impact should be reported separately.
-- D. The project necessarily produced the claimed environmental outcome merely because it was eligible.
+## Remedial synthesis prompt
 
-**MCQ 65. Which correction repairs the claim "recycling rate is 80%, therefore the economy is circular"?**
-- A. Add product life, virgin input, reuse/repair, actual material recovery, lifecycle impact and absolute footprint.
-- B. Remove all material data.
-- C. Count energy recovery as indefinite reuse.
-- D. Ignore product design.
+**Question:** A policy package contains a CCTS target, a sovereign green bond and an EPR certificate portal. Why is instrument creation still an incomplete measure of success?
 
-**MCQ 66. A company owns credits but has not retired them. Which claim is safest?**
-- A. The credits can never be transferred.
-- B. Ownership alone does not establish final use or neutralisation; retirement and claim rules matter.
-- C. The host country has automatically adjusted its NDC.
-- D. The company has eliminated gross emissions.
-
-**MCQ 67. What repairs a stress-test answer that reports one loss number as a prediction?**
-- A. Delete scenario assumptions.
-- B. Call the number guaranteed.
-- C. Present multiple conditional scenarios, assumptions, sensitivity and management response.
-- D. Ignore physical risk.
-
-**MCQ 68. A response treats CBAM as an Indian carbon tax. What correction is required?**
-- A. CBAM is a municipal waste fee.
-- B. CBAM is an Article 6.4 registry.
-- C. CCTS is an EU customs law.
-- D. CBAM is an EU import instrument; India's CCTS/MRV are distinct domestic systems.
-
-**MCQ 69. Which final check best prevents policy-list answers?**
-- A. For each instrument state the failure, mechanism, payer/beneficiary, evidence, limitation and complement.
-- B. Add more scheme names without mechanisms.
-- C. Remove all calculations.
-- D. Treat every announcement as achievement.
-
-### Answers and all-option explanations
-
-**MCQ 62: B**
-- **A - Incorrect.** Market prices and taxes arise from law and market design.
-- **B - Correct.** It restores the three-way distinction.
-- **C - Incorrect.** SCC is a value, not allowance quantity.
-- **D - Incorrect.** Trading systems generate prices.
-
-**MCQ 63: C**
-- **A - Incorrect.** Scale dominates the intensity reduction.
-- **B - Incorrect.** Absolute emissions equal intensity times output.
-- **C - Correct.** `1.8 x 2 = 3.6`, compared with original 2.0.
-- **D - Incorrect.** Physical/economic output denominators are used.
-
-**MCQ 64: D**
-- **A - Incorrect.** Allocation can be documented.
-- **B - Incorrect.** The sovereign remains responsible for debt.
-- **C - Incorrect.** This is sound reporting discipline.
-- **D - Correct.** Eligibility and outcome are different.
-
-**MCQ 65: A**
-- **A - Correct.** Circularity requires system and hierarchy metrics.
-- **B - Incorrect.** Evidence is necessary.
-- **C - Incorrect.** Energy recovery destroys material.
-- **D - Incorrect.** Design determines future loops.
-
-**MCQ 66: B**
-- **A - Incorrect.** Active units may remain transferable.
-- **B - Correct.** Retirement closes use in the registry.
-- **C - Incorrect.** International accounting needs authorisation/rules.
-- **D - Incorrect.** Credits do not erase gross emissions.
-
-**MCQ 67: C**
-- **A - Incorrect.** Assumptions make conditionality transparent.
-- **B - Incorrect.** Stress results are not guaranteed.
-- **C - Correct.** It converts false precision into resilience analysis.
-- **D - Incorrect.** Physical transmission can be material.
-
-**MCQ 68: D**
-- **A - Incorrect.** It is a border carbon instrument.
-- **B - Incorrect.** Article 6 and CBAM differ.
-- **C - Incorrect.** CCTS is Indian domestic architecture.
-- **D - Correct.** It preserves jurisdiction and instrument identity.
-
-**MCQ 69: A**
-- **A - Correct.** It forces causal and evaluative analysis.
-- **B - Incorrect.** Names without mechanisms earn little analytical value.
-- **C - Incorrect.** Appropriate calculations clarify incentives and boundaries.
-- **D - Incorrect.** Status discipline is mandatory.
+**Model answer:** The package creates incentives, finance and traceability, but success requires implementation and outcomes. CCTS needs verified tightening and absolute-emission context; the bond needs allocation and impact evidence; EPR needs physical mass balance and worker-safe processing. Distribution, institutional capacity, additionality, grievance and revision determine whether the instruments change real emissions, resilience and material throughput.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -3723,6 +3429,13 @@ Define failure and boundary
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
+## Core/Optional-Advanced boundary
+
+- Lessons 1-17 form the complete Core answer spine.
+- Lessons 18-19 are optional enrichment on credit integrity and circular-business rebound.
+- Use Advanced material to qualify a Core answer, never to replace its basic definitions, mechanism or India evidence.
+
+
 ## 1. Foundational climate economics
 
 - Climate change combines a **negative externality**, **global public-good** mitigation, **common-pool** sinks and intergenerational distribution.
@@ -3778,7 +3491,7 @@ Define failure and boundary
 - **Additionality** asks whether the outcome exceeds a credible baseline because of the intervention.
 - Double counting includes double issuance, double use, double claiming and double financing attribution.
 - Greenwashing tests: vague claim, selective boundary, absent baseline, weak evidence, hidden trade-off and misleading net wording.
-- As checked to 25 September 2026, India's official climate-finance taxonomy located for this session remained a draft framework released in May 2025; do not call it final.
+- As checked to 3 October 2026, India's official climate-finance taxonomy located for this session remained a draft framework released in May 2025; do not call it final.
 
 ## 8. Green, sustainability and sovereign green bonds
 
@@ -3865,95 +3578,90 @@ For every proposal ask:
 
 > **Final mnemonic: PRICE**
 >
-> **P**roblem and public purpose  
-> **R**isk, revenue and rights  
-> **I**nstrument, institutions and integrity  
-> **C**apability, circularity and competitiveness  
+> **P**roblem and public purpose
+> **R**isk, revenue and rights
+> **I**nstrument, institutions and integrity
+> **C**apability, circularity and competitiveness
 > **E**quity, evidence and exit/review
 
 # COVERAGE MATRIX
 
-| Lesson | Required coverage delivered | Calculation/visual/practice | Current/PYQ anchor |
-|---:|---|---|---|
-| 1 | Externality, public good, commons, instrument logic | Factory-neighbour diagram; MCQs 1-2 | Stable foundation |
-| 2 | SCC, uncertainty, discounting | Present-value tables; MCQs 3-4 | 2020 Prelims Q85 |
-| 3 | Tax, cap-and-trade, baseline-credit | Instrument matrix; MCQs 5-7 | CCTS comparison |
-| 4 | Mitigation, adaptation, loss and damage | Three-bucket map; MCQs 8-9 | Survey 2025-26 |
-| 5 | NDC, net zero, carbon budget, just transition | Budget paths; MCQs 10-12 | India NDC registry status 24 Apr 2026 |
-| 6 | Source/instrument/use/stage finance architecture | Finance cube; MCQs 13-14 | UNFCCC/DEA distinctions |
-| 7 | Taxonomy, MRV, additionality, double counting, greenwashing | Integrity chain; MCQs 15-17 | Draft taxonomy May 2025; 2022 PYQ |
-| 8 | Green, sustainability, SLB, SGrB | Bond matrix/allocation-impact; MCQs 18-20 | Budget 2026-27; 2026 Q92 |
-| 9 | Blended finance and de-risking | Risk waterfall; MCQs 21-22 | India project-finance application |
-| 10 | Physical/transition/liability transmission | Balance-sheet map; MCQs 23-24 | Stable risk foundation |
-| 11 | Scenario/stress testing, RBI, SEBI/BRSR | Scenario tree; MCQs 25-27 | RBI 28 Nov 2025; SEBI 28 Mar 2025; 2025 Q4 |
-| 12 | PAT-to-CCTS transition | Institutional chain; MCQs 28-30 | CCTS 2023; GEI 2025 |
-| 13 | Credit integrity | Baseline/buffer calculations; MCQs 31-33 | Registry/methodology principles |
-| 14 | Article 6 and India | Accounting map; MCQs 34-36 | UNFCCC and MoEFCC dated records |
-| 15 | Circular hierarchy and material flow | Sankey/hierarchy; MCQs 37-39 | 2025 Q9 |
-| 16 | Product-service, repair, remanufacture, rebound | Business-model matrix; MCQs 40-42 | India-centric cases |
-| 17 | EPR and informal-worker integration | EPR chain; MCQs 43-45 | E-waste/plastic cases |
-| 18 | Distribution, federalism, CBAM, competitiveness | Incidence map; MCQs 46-47 | EU definitive CBAM 1 Jan 2026 |
-| 19 | Integrated transition portfolio | Portfolio dashboard; MCQs 48-49 | Budget/Survey synthesis |
-| Final arc | Verified PYQ linkage, cumulative practice, Mains models, remediation, maps, notes and ledgers | MCQs 50-69; 10/15/20-mark models | PYQs through 2026 |
-
-Coverage gates:
-
-- **Lessons:** 19/19.
-- **Roadmap dependencies:** externality -> valuation -> instruments -> response portfolios -> targets/finance -> financial risk/markets -> circularity -> trade/equity -> integration.
-- **Calculations:** discounted damage, marginal abatement, intensity/absolute emissions, bond allocation/impact, leverage, credit buffer, material flow and incidence.
-- **Required comparisons:** carbon tax/cap/baseline-credit; mitigation/adaptation/loss and damage; bond families; PAT/CCTS/Article 6; linear/circular systems; CCTS/CBAM.
-- **India cases:** SGrB, BRSR, RBI bank directions, PAT/CCTS, EPR, coal/industrial transition, federal finance and CBAM exposure.
-- **MCQ integrity:** Questions 1-69 have four options, one keyed answer and four option-specific explanations.
-- **PYQ integrity:** no solved PYQ model and no inferred unavailable/provisional key.
+| Coverage unit | Core location | Optional Advanced / cross-owner location | Practice and answer use |
+|---|---|---|---|
+| Externalities, public goods, commons, information failure | Lessons 1-3 | Environment climate-science boundary | Concept checks 1-3; SCC and pricing models |
+| SCC, discounting, uncertainty, tax/ETS/baseline-credit | Lessons 2-3 | Lesson 18 credit-value boundary | 10/15-mark models; carbon-value map |
+| Mitigation, adaptation, loss and damage, just transition | Lessons 4-5 | Lessons 10, 16-17 | Cumulative checks 2 and 8 |
+| Climate-finance sources, instruments, tracking and integrity | Lessons 6-9 | UNFCCC finance architecture | Finance/greenwashing model |
+| Green taxonomy, transition finance, MRV and greenwashing | Lessons 7 and 9 | Lesson 18 | Integrity chain; remediation table |
+| Green, sustainability, sovereign and sustainability-linked bonds | Lesson 8 | Economy public-finance boundary | 2026 Q92 route; bond model/rubric |
+| Physical, transition and liability risk; scenario/stress analysis | Lessons 10-11 | RBI/SEBI dated instruments | Stress calculation; disclosure model |
+| PAT, CCTS, GEI, compliance/offset design | Lesson 12 | Environment Topic 21 engineering boundary | CCTS concept check and 20-mark model |
+| Article 6.2, 6.4, 6.8, authorisation and adjustments | Lesson 13 | Environment Topic 19 treaty owner | Cumulative check 5; CCTS-Article 6 model |
+| Circular hierarchy, material flow and resource efficiency | Lesson 14 | Lesson 19 rebound/business models | 2025 Q9 route; circular model |
+| EPR, certificates, informal workers and waste streams | Lesson 15 | Environment Topic 15 legal detail | Cumulative check 7; remediation |
+| Federalism, carbon leakage, CBAM and incidence | Lesson 16 | Economy Topic 20 trade-law owner | Integrated strategy model |
+| Integrated policy portfolio and governance | Lesson 17 | Lessons 18-19 | Final synthesis, maps and register notes |
+| Credit integrity, permanence, leakage, registries, claims | Core foundations in Lessons 7, 12-13 | Lesson 18 | Credit concept trio and 20-mark safeguards |
+| Circular business models, industrial symbiosis and rebound | Core hierarchy in Lessons 14-15 | Lesson 19 | Optional-Advanced model and rubric |
+| Direct verified PYQs: 2020 SCC; 2025 BRSR/circularity; 2026 sustainability bond | Lessons 2, 11, 14 and 8 | Keys/status boundaries in PYQ arc | Four direct links and answer approaches only; no solved PYQ leakage |
+| Cross-owned verified PYQ: 2022 greenwashing | Lesson 7 supporting use | Environment and Ecology principal owner | Economic mechanism only: information asymmetry, taxonomy, MRV and claim integrity |
 
 # SOURCE LEDGER
 
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Economy\basic\25_Climate-Economics-Green-Finance-and-Circular-Economy.md` read completely; every owned unit mapped above |
+| Final learner package | not relevant | Explicitly excluded; source not consulted |
+| Layered/complete session | not relevant | Explicitly excluded; source not consulted |
+| Solved workbook | not relevant | Explicitly excluded; source not consulted |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Economy\advanced\25_Climate-Economics-Green-Finance-and-Circular-Economy.md` read completely and placed after the Core spine |
+| OCR books | checked | Local OCR-searchable `books\economic-survey-2025-26.pdf` Chapter 10 and `books\Indian economy ramesh singh.pdf` climate/green-finance passages queried directly |
+| PYQs through 2026 | checked | `_PYQ-ROUTING-PRELIMS-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2026.md`, and `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`; unavailable/provisional keys not inferred |
+| Official live sources | checked | Official MoEFCC/BEE, RBI, SEBI, DEA and UNFCCC pages/documents searched or fetched through 3 October 2026; failures and status limits recorded below |
+
 ## Repository-first evidence
 
-| Source | Role | Verification/status |
+- Canonical Basic owner: complete externality, SCC, policy-tool, Indian application, limitation, PYQ and answer-architecture coverage.
+- Canonical Advanced owner: SCC uncertainty, taxonomy rigidity, stress testing, border measures, adaptation-finance revenue weakness, circular business models and just-transition refinements.
+- Cross owners checked: Environment Topics 15, 19 and 21; Economy Topics 20 and 31; only the economic bridge is reproduced here.
+- Governing files reread: `AGENT_MEMORY.md`, `live_sessions\LIVE-SESSION-GENERATION-RULES.md`, `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md`, and `instructions\LIVE-SESSION-VALIDATION-AND-RELEASE.md`.
+- Mandatory style references checked: Nyaya-Vaisesika, Yoga and Mimamsa openings and complete first lessons.
+
+## OCR evidence actually used
+
+| Local source | Pages/sections queried | Use |
 |---|---|---|
-| `instructions\README.md` | Repository workflow and source hierarchy | Read before generation |
-| `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md` | No-compression and integrity constraints | Read before generation |
-| `live_sessions\LIVE-SESSION-GENERATION-RULES.md` | Live-session structure, pedagogy, MCQ and final-arc contract | Read in full |
-| `upsc-ai-kit\knowledge\Economy\basic\25_Climate-Economics-Green-Finance-and-Circular-Economy.md` | Canonical definitions, Indian institutions and owned PYQ routing | Primary stable Markdown |
-| `upsc-ai-kit\knowledge\Economy\advanced\25_Climate-Economics-Green-Finance-and-Circular-Economy.md` | SCC, taxonomy, climate risk, circular models and transition trade-offs | Primary advanced Markdown |
-| `upsc-ai-kit\knowledge\Economy\25_Climate-Economics-Green-Finance-and-Circular-Economy_Learner-V2-Complete-Topic-Package.md` | V2 coverage comparison | Same substantive corpus/hash as V2 learning session; not independent evidence |
-| `upsc-ai-kit\knowledge\Economy\learning-sessions\v2\subject-wide-syllabus\economy-25_Learning-Session.md` | Matching V2 session | SHA-256 `6CA618D1FC919A07A5352D8C724BD79BEB8B5E0FADC8C63612D6FE55644FC8D5` |
-| `upsc-ai-kit\knowledge\Economy\learning-sessions\v2\subject-wide-syllabus\economy-25_Solved-Workbook.md` | Practice/coverage audit | Workbook body also embedded in V2 package |
-| `upsc-ai-kit\knowledge\Economy\OFFICIAL-UPSC-SYLLABUS-MAPPING.md` | Syllabus boundary | Sustainable development and cross-links checked |
-| `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` | 2020/2022 ownership | Direct prompts verified |
-| `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md` | 2025 ownership/key status | Direct prompts and local official-key boundary checked |
-| `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md` | 2026 provisional status | No final key inferred |
-| `attempts\_book_text\ramesh_singh.txt` | OCR book evidence | Externality, green finance and double-counting concepts cross-checked |
-| `attempts\_book_text\eco_survey_2025_26.txt` | OCR official book evidence | Chapter 10 transition, finance, CCTS, SGrB and circularity evidence cross-checked |
+| Economic Survey 2025-26 | Chapter 10 climate/environment pages, carbon-market, climate-finance, green-bond and circular-economy passages | CCTS design/status discipline, finance architecture, sovereign/municipal green-finance context, circular/EPR evidence |
+| Ramesh Singh, *Indian Economy* | climate-change/green-finance chapter and glossary passages on social cost, PAT, carbon tax and climate-finance tracking | Stable conceptual background; older figures are not used as current facts |
 
-## Official live/dated evidence
+## Official live and dated evidence checked through 3 October 2026
 
-All web/current-source status statements below were retrieved on **25 September 2026**. Stable theory elsewhere in the session does not require a separate current claim.
-
-| Institution/source | Publication/status date used | Claim boundary retained |
+| Publisher / instrument | Dated status used | Integrity boundary |
 |---|---|---|
-| MoEFCC notification, Carbon Credit Trading Scheme | 28 June 2023 | CCTS architecture notified; not an economy-wide absolute cap |
-| MoEFCC amendment to CCTS | 19 December 2023 | Offset mechanism added/clarified within the scheme |
-| BEE/MoEFCC Greenhouse Gases Emission Intensity Target Rules | 2025 notifications checked | Final notified sectors cited only; draft sector documents not treated as final |
-| Government of India draft Climate Finance Taxonomy framework | May 2025 | Draft status retained; no final taxonomy located in checked official sources by retrieval date |
-| SEBI circular on BRSR/value-chain ESG assessment/disclosure | 28 March 2025 | Scope and disclosure status retained; no claim that BRSR certifies impact |
-| RBI climate-risk directions for commercial banks | 28 November 2025 | Immediate commencement and defined commercial-bank perimeter retained |
-| Union Budget 2026-27, Statement 15A / official budget documents | 1 February 2026 budget cycle | Eligible allocation requirements kept separate from issuance, spending and impact |
-| DEA sovereign green-bond framework/reporting | Relevant official framework/reporting documents checked through retrieval date | Allocation and impact reporting treated as separate; sovereign debt status retained |
-| Economic Survey 2025-26, Chapter 10 | Tabled 29 January 2026 | Adaptation, CCTS, finance, SGrB and transition evidence used with survey date |
-| UNFCCC NDC Registry, India submission | Registered 24 April 2026 | Submission date used; numerical targets not reconstructed from an inaccessible PDF |
-| UNFCCC Article 6 decisions/guidance and registry material | Official records checked through retrieval date | Article 6.2/6.4/6.8 and corresponding-adjustment distinctions retained |
-| MoEFCC Article 6 activity-list releases | Official dated releases checked through retrieval date | Eligibility list not equated with project registration, issuance, authorisation or transfer |
-| European Commission CBAM pages/regulations | Definitive regime from 1 January 2026 | EU import instrument; distinct from CCTS and Article 6 |
+| MoEFCC/BEE/Ministry of Power - CCTS and GEI materials | CCTS notified 28 June 2023; amendment 19 December 2023; 2025 GEI rules; 2026 official expansion records searched | No inferred live carbon price; draft iron-and-steel material is not called final |
+| RBI - Draft Disclosure Framework on Climate-related Financial Risks | 28 February 2024, directly fetched 3 October 2026 | It remains labelled draft in the fetched text; its glide path is not silently treated as a final direction |
+| RBI - separately dated commercial-bank climate finance/risk directions | 28 November 2025 official RBI record checked | Kept distinct from the 2024 draft and limited to its stated perimeter |
+| SEBI - BRSR Core/value-chain circular | 28 March 2025 official circular/PDF checked | Assessment/assurance and value-chain changes do not certify sustainability or impact |
+| DEA - Sovereign Green Bond Framework/allocation reporting | Official framework and dated allocation-report references checked | Eligible expenditure, allocation, issuance and verified impact remain separate facts |
+| UNFCCC - Article 6 | Official architecture and dated guidance checked | 6.2, 6.4 and 6.8 are distinct; voluntary credits and domestic CCTS units are not presumed internationally fungible |
+| UNFCCC - COP29 NCQG | Decision 1/CMA.6 official text/search record checked | At least USD 300 billion/year by 2035 is a goal, not delivered finance; distinguish the USD 1.3 trillion mobilisation aspiration |
+| UNFCCC - COP30 Belém records | Official outcome pages/search records checked; direct page access was blocked by the site security layer | Used only for broad implementation context; no inaccessible detail is invented |
+| MoEFCC NAPCC portal - later India NDC document | September 2026 official search result located; direct PDF retrieval failed | No post-2025 numeric target or commitment is extracted, inferred or taught |
+| MoEFCC/CPCB waste and EPR rules | Plastic, e-waste, batteries and dated amendments checked via canonical official-grounded owners | Targets remain waste-stream/year specific; registrations, certificates and recovered material are not conflated |
 
-## Verification cautions carried into the text
+## Verified PYQ provenance and ownership
 
-- No mutable percentage, rupee amount, target, issuance, allocation or status is presented without its relevant dated boundary.
-- No value from an eligible-expenditure table is called actual bond issuance or environmental impact.
-- No installed-capacity figure is called annual addition or electricity generation.
-- No emissions-intensity decline is called an absolute-emissions decline without output arithmetic.
-- No taxonomy, sector target, credit methodology or Article 6 activity is called final when the checked source was draft/eligible-only.
-- No carbon credit is called additional, permanent or non-double-counted merely because it appears in a registry.
-- No disclosure framework is called outcome assurance.
-- No PYQ answer letter is inferred when the locally verified key was absent or provisional.
+- **Direct Economy Topic 25 (four):** 2020 Prelims Q85 SCC; 2025 Prelims Q4 BRSR; 2025 Prelims Q9 circular economy; 2026 Prelims Q92 sustainability bonds.
+- **Cross-owned only:** 2022 Prelims Q80 greenwashing remains principally owned by Environment and Ecology; Article 6, CCUS, NDC, climate resilience, energy security and solid-waste questions likewise remain with their primary owners. This file supplies only the substantively relevant economic mechanism and answer route.
+- Official 2018-2023 objective keys were unavailable locally; the 2026 key is provisional. No letter is inferred. No solved PYQ answer is included.
+
+## Truthful limitations and no-leakage statement
+
+- Source use was limited to the permitted canonical Markdown, cross-owners, OCR-searchable books, routing ledgers and official live material listed above; excluded artifacts were not inspected.
+- No unavailable web page was reconstructed from memory. A 403, site-security block or transport failure is recorded as an access limitation.
+- No current SCC number, taxonomy-finalisation claim, carbon-market price, post-2025 NDC target, EPR percentage or Article 6 authorisation was guessed.
+- Hypothetical calculations are labelled as exercises and are not presented as legal targets or market observations.
+- Direct PYQs remain answer-neutral: wording/theme, directive, ownership and approach are shown without leaking unavailable or provisional objective keys.
+- This manifest reports sources actually checked; it is not a certification or approval statement.
