@@ -1,15 +1,15 @@
 ---
 title: "Employment, Labour Codes, Skills and Demographic Dividend — Live Learning Session"
 subject: "Economy — GS III with GS I/II linkages"
-retrieval_cutoff: "24 September 2026"
-roadmap_status: "Frozen — 18 dependency-led lessons"
+retrieval_cutoff: "3 October 2026"
+roadmap_status: "Frozen — 18 Core lessons plus 4 distinct Optional Advanced lessons"
 ---
 
 # EMPLOYMENT, LABOUR CODES, SKILLS AND DEMOGRAPHIC DIVIDEND — LIVE LEARNING SESSION
 
 > **Evidence rule:** ✅ **Fact** marks source-supported claims. ⚠️ **Inference** marks analysis. Mutable claims carry publication/status and retrieval dates. Stable definitions and formulas are identified as such.
 
-## Frozen dependency-led roadmap
+## Frozen core-first dependency-led roadmap
 
 | Lesson | Stage | Dependency |
 |---:|---|---|
@@ -27,22 +27,26 @@ roadmap_status: "Frozen — 18 dependency-led lessons"
 | 12 | Core | Industrial Relations Code 2020: bargaining, flexibility and security |
 | 13 | Core | Code on Social Security 2020: coverage architecture and gaps |
 | 14 | Core | OSHWC Code 2020: safety, migrants, contract labour and inspection |
-| 15 | Advanced | Skills mismatch, PMKVY 4.0, NSQF, ITIs and Sector Skill Councils |
-| 16 | Advanced | Apprenticeships, NAPS, MSMEs, RPL and evaluation |
-| 17 | Advanced | Demographic dividend, dependency ratios and asynchronous state windows |
-| 18 | Advanced | Integrated employment strategy and policy-evaluation dashboard |
+| 15 | Core | Skills mismatch, PMKVY 4.0, NSQF, ITIs and Sector Skill Councils |
+| 16 | Core | Apprenticeships, NAPS, MSMEs, RPL and evaluation |
+| 17 | Core | Demographic dividend, dependency ratios and asynchronous state windows |
+| 18 | Core | Integrated employment strategy and policy-evaluation dashboard |
+| 19 | Optional Advanced | Transition matrices, flow decomposition and labour-market churn |
+| 20 | Optional Advanced | Labour-Code federalism, delegated rules and enforcement metrics |
+| 21 | Optional Advanced | Platform-worker classification, algorithmic management and contribution design |
+| 22 | Optional Advanced | Demographic accounting, migration matching and state-specific policy clocks |
 
-The sequence moves from measurement to diagnosis, transformation, inclusion, protection, skills and demographic synthesis. Practice is embedded locally; final sections add cumulative retrieval without replacing lesson-level teaching.
+The complete Core moves from measurement to diagnosis, transformation, inclusion, protection, skills and demographic synthesis. A distinct Optional Advanced block follows only after Core. Every lesson closes with one concept trio and one evidence-responsive Mains model; there is no compiled MCQ corpus.
 
 
 ## Lesson 1 — Labour-market dashboard and the job-quality frame
 
-**Progress: 1 / 18 | Stage: Foundation | Subtopic: Labour-market dashboard and the job-quality frame**
+Progress: 1 / 22 | Stage: Foundation | Subtopic: Labour-market dashboard and the job-quality frame
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Economic Survey 2025-26 employment labour market job quality India"  
-**CA found:** Economic Survey 2025-26, released 29 January 2026, reports 56.2 crore employed persons aged 15+ in Q2 FY26; this is a level, not a quality verdict. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Economic Survey 2025-26 employment labour market job quality India"
+**CA found:** MoSPI PLFS Monthly Bulletin August 2026 reports CWS age-15+ LFPR 55.6%, WPR 52.8% and UR 5.0%; these are monthly snapshot rates, not a job-quality verdict. Economic Survey 2025-26 separately reports 56.2 crore employed persons aged 15+ in Q2 FY26. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -107,53 +111,35 @@ A dashboard becomes useful when its indicators disagree. Suppose WPR rises becau
 10. Match the policy lever to the failed dimension rather than to the headline count.
 11. State both national movement and distribution across groups.
 
-### Quick diagnostic
+### Concept check
 
-**MCQ 1. District A adds 10,000 regular jobs with written contracts; District B adds 10,000 intermittent unpaid helpers. Which dashboard conclusion is sound?**
+**Question:** Higher employment accompanies falling paid hours and real earnings. Give the verdict.
 
-A. Both record equal employment additions, but A shows stronger job quality.
-B. B is superior because unpaid work always raises household bargaining power.
-C. The districts are indistinguishable once WPR rises equally.
-D. A must have a lower LFPR because regular jobs reduce job search.
+**Model answer:** Quantity improved, but utilisation and quality weakened. Read access, quantity, hours, real earnings, protection and distribution together.
 
-**Answer: A**
-**Option explanations:**
-- **A:** Headcount is equal, while contract, earnings and stability distinguish welfare.
-- **B:** Unpaid family work may add production without independent income or agency.
-- **C:** WPR does not reveal hours, remuneration or protection.
-- **D:** Regular employment does not mechanically reduce participation.
+**Misconception to avoid:** Employment headcount alone proves decent-work improvement.
 
-**MCQ 2. Which indicator pair most directly tests whether nominal wage gains improved purchasing power and security?**
+### Mains application — Dashboard verdict under conflicting signals
 
-A. WPR and population growth only.
-B. Real-wage growth and effective social-protection coverage.
-C. Number of registrations and training seats.
-D. UR and gross value added alone.
+**Prompt:** *Evaluate why an employment headcount cannot by itself establish improvement in job quality. (10 marks, 150 words)*
 
-**Answer: B**
-**Option explanations:**
-- **A:** These show employment access and demographic scale, not purchasing power or protection.
-- **B:** Inflation-adjusted pay captures purchasing power; coverage captures risk protection.
-- **C:** Administrative inputs do not establish wage or security outcomes.
-- **D:** Neither reveals wage transmission or benefit access.
+**Model:** Employment headcount answers only “how many”, not “how well”. A sound dashboard first separates access through LFPR and WPR; utilisation through UR, days and hours; quality through real earnings, stability, safety and protection; and distribution by sex, age, status, sector and region. Economic Survey 2025-26 reports 56.2 crore employed persons aged 15+ in Q2 FY26, but that level cannot reveal whether additions were regular salaried workers, casual workers or unpaid family helpers. Conflicting signals are therefore diagnostic: rising WPR with falling paid hours or real wages indicates quantity gain but quality loss. The defensible conclusion is conditional—employment improves development only when productive hours, purchasing power, security and agency also strengthen.
 
-### Mains micro-model — 150-word dashboard note
+**Unique evaluation rubric (10 marks):** level-quality distinction 2 · five-part dashboard 3 · named current evidence 2 · conflict interpretation 2 · qualified verdict 1.
 
-**Prompt:** *Analyse labour-market dashboard and the job-quality frame as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Employment policy should separate access, quantity, utilisation, quality and distribution. A rise in employed persons may consist of regular salaried work, intermittent casual work or unpaid family assistance, with very different effects on income and agency. Hence LFPR, WPR and UR must be read alongside hours, real earnings, contract stability, safety and social protection, disaggregated by sex, age, sector and region. The 56.2-crore Q2 FY26 level cited in the checklist establishes scale, not decent-work quality. A compact dashboard is preferable to one celebratory headline because it reveals where the employment chain breaks. The objective is sustained productive work with rising real earnings and enforceable protection.
+**Model ceiling — 10 marks/150 words:** cap at 5/10 if the answer celebrates or rejects the headcount without examining hours, real earnings, protection and distribution.
 
 **Bridge forward:** A multidimensional dashboard still depends on correct classification. Lesson 2 therefore opens the denominator box: who is employed, unemployed or outside the labour force, and why can a rate improve without a new job?
 
 
 ## Lesson 2 — Labour force, workforce, LFPR, WPR and UR denominators
 
-**Progress: 2 / 18 | Stage: Foundation | Subtopic: Labour force, workforce, LFPR, WPR and UR denominators**
+Progress: 2 / 22 | Stage: Foundation | Subtopic: Labour force, workforce, LFPR, WPR and UR denominators
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "PLFS LFPR WPR unemployment denominator discouraged worker India official"  
-**CA found:** PLFS Annual Report July 2023-June 2024, published 23 September 2024, supplies the current annual anchor used here. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "PLFS LFPR WPR unemployment denominator discouraged worker India official"
+**CA found:** PLFS Annual Report July 2023-June 2024, published 23 September 2024, supplies the current annual anchor used here. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -218,81 +204,35 @@ First, a person moving from unemployment to employment raises E and may lower U:
 10. Keep age coverage and geography constant before comparison.
 11. Write identities before interpreting political claims.
 
-### Denominator stress test
+### Concept check
 
-**MCQ 3. For P=800, E=440 and U=40, what are LFPR, WPR and UR respectively?**
+**Question:** P=1,000, E=560, U=40; twenty unemployed people stop seeking. What changes?
 
-A. 55%, 60%, 8.33%.
-B. 60%, 55%, 5%.
-C. 60%, 55%, 8.33%.
-D. 55%, 50%, 10%.
+**Model answer:** E stays 560; LF falls 600 to 580; LFPR falls 60% to 58%; WPR stays 56%; UR falls 6.67% to 3.45%. No job was created.
 
-**Answer: C**
-**Option explanations:**
-- **A:** LFPR cannot be below WPR when unemployed persons are present.
-- **B:** UR incorrectly uses population rather than labour force.
-- **C:** LF=480; divide LF and E by 800, and U by 480.
-- **D:** All three denominators or numerators are misapplied.
+**Misconception to avoid:** UR uses total population as denominator.
 
-**MCQ 4. Twenty unemployed persons stop seeking work while employment is unchanged. What happens mechanically?**
+### Mains application — Denominator paradox
 
-A. WPR rises because fewer persons are unemployed.
-B. Employment rises by twenty through reclassification.
-C. LFPR is unchanged because population is unchanged.
-D. LFPR falls and UR may fall, without any job creation.
+**Prompt:** *Explain, with a numerical illustration, how the unemployment rate can fall without job creation. (10 marks, 150 words)*
 
-**Answer: D**
-**Option explanations:**
-- **A:** WPR uses employment and population, both unchanged.
-- **B:** Leaving search moves persons outside the labour force, not into employment.
-- **C:** LF falls, so LFPR falls even though population is fixed.
-- **D:** Both labour force and unemployment shrink while employment stays fixed.
+**Model:** Let the relevant population be 1,000, with 560 employed and 40 unemployed. Labour force is 600; LFPR is 60%, WPR 56% and UR 6.67%. If 20 unemployed persons stop seeking work, employment remains 560, unemployment becomes 20 and labour force 580. UR falls to 3.45%, but WPR is unchanged and LFPR falls to 58%. The apparent improvement is discouraged-worker exit, not job entry. Hence every rate must carry its numerator, denominator, age group, reference status and geography. Policy diagnosis should then ask why search stopped—weak demand, care, mobility, skill mismatch or repeated failure—rather than infer welfare from UR alone.
 
-**MCQ 5. Which sentence uses denominators correctly?**
+**Unique evaluation rubric (10 marks):** identities 2 · correct calculation 3 · status-flow explanation 2 · data qualifiers 2 · policy inference 1.
 
-A. UR is unemployed persons divided by labour force; WPR is employed persons divided by relevant population.
-B. UR is unemployed persons divided by total population.
-C. LFPR is employed persons divided by labour force.
-D. WPR is labour force divided by working-age population.
-
-**Answer: A**
-**Option explanations:**
-- **A:** This preserves the distinct labour-force and population denominators.
-- **B:** That confuses unemployment with non-participation.
-- **C:** That expression is the employment share of the labour force, not LFPR.
-- **D:** That is LFPR, not WPR.
-
-**MCQ 6. A state reports falling UR and falling WPR. Which first inference is most defensible?**
-
-A. Labour demand certainly strengthened.
-B. Some workers may have left employment or search; inspect LFPR and status flows.
-C. Real wages must have increased.
-D. The population denominator is irrelevant.
-
-**Answer: B**
-**Option explanations:**
-- **A:** Falling WPR contradicts an automatic job-creation claim.
-- **B:** Joint movement can reflect withdrawal, job loss or reclassification.
-- **C:** Neither rate directly measures wages.
-- **D:** Both LFPR and WPR depend on the stated population base.
-
-### Mains micro-model — 150-word denominator note
-
-**Prompt:** *Analyse labour force, workforce, lfpr, wpr and ur denominators as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Labour-market rates are accounting relationships built on status classification. With population 1,000, employment 560 and unemployment 40, the labour force is 600; LFPR is 60%, WPR 56% and UR 6.67%. If 20 jobseekers become discouraged, employment remains 560 while the labour force falls to 580 and UR to 3.45%. The lower UR records withdrawal, not job creation. An answer should state age group, sex, geography, reference status and denominator, then read UR jointly with LFPR and WPR. Policy must restore job search and create suitable work rather than infer welfare from a mechanically improved ratio.
+**Model ceiling — 10 marks/150 words:** cap at 4/10 if UR is divided by population or if the lower rate is called job creation despite unchanged employment.
 
 **Bridge forward:** Correct denominators do not resolve the time horizon of work. Lesson 3 follows by asking which PLFS status—UPS, UPSS, CWS or CDS—captures chronic attachment, recent shock or intermittent days.
 
 
 ## Lesson 3 — PLFS UPS, UPSS, CWS and CDS data-reading cases
 
-**Progress: 3 / 18 | Stage: Foundation | Subtopic: PLFS UPS, UPSS, CWS and CDS data-reading cases**
+Progress: 3 / 22 | Stage: Foundation | Subtopic: PLFS UPS, UPSS, CWS and CDS data-reading cases
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "PLFS usual status weekly status current daily status official methodology India"  
-**CA found:** PLFS 2023-24 annual report was published 23 September 2024; concepts below are stable survey methodology, so no separate current claim is required. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "PLFS usual status weekly status current daily status official methodology India"
+**CA found:** PLFS 2023-24 annual report was published 23 September 2024; concepts below are stable survey methodology, so no separate current claim is required. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -353,81 +293,35 @@ Consider a flood that closes construction sites for ten days. UPS may still clas
 10. Name person versus person-day as the measurement unit.
 11. Use triangulation rather than declaring one status universally best.
 
-### Status-selection drill
+### Concept check
 
-**MCQ 7. A woman mainly performs domestic duties but regularly assists a family farm as subsidiary work. Which comparison is most plausible?**
+**Question:** Which PLFS status best preserves day-level underemployment?
 
-A. She must be employed under UPS and unemployed under UPSS.
-B. She is outside employment under every PLFS status.
-C. She may be outside UPS employment but inside UPSS employment.
-D. She can only be measured through CDS, never usual status.
+**Model answer:** CDS allocates person-days across employment, unemployment and non-labour-force states; CWS can conceal days worked, while UPS/UPSS capture longer attachment.
 
-**Answer: C**
-**Option explanations:**
-- **A:** UPSS broadens UPS; it does not reverse employment in that direction.
-- **B:** Subsidiary economic work can create UPSS employment.
-- **C:** UPSS adds subsidiary work to principal usual status.
-- **D:** CDS adds intensity evidence but does not exclude usual-status classification.
+**Misconception to avoid:** UPS, UPSS, CWS and CDS are interchangeable.
 
-**MCQ 8. A builder worked two days and had no work for five days in the preceding week. Which lens best exposes the unused days?**
+### Mains application — Choosing the PLFS lens
 
-A. UPS, because it records every day separately.
-B. UPSS, because subsidiary status measures weekly hours.
-C. CWS alone, because any weekly employment proves full utilisation.
-D. CDS, because it allocates person-days across activity statuses.
+**Prompt:** *Compare UPS/UPSS, CWS and CDS as lenses on chronic attachment, recent shocks and underemployment. Which combination should guide policy? (15 marks, 250 words)*
 
-**Answer: D**
-**Option explanations:**
-- **A:** UPS identifies long-period principal status, not person-days.
-- **B:** UPSS is a long-period status, not a weekly intensity measure.
-- **C:** CWS can classify employment while concealing five unused days.
-- **D:** Day-level allocation reveals intermittent employment.
+**Model:** PLFS measures differ because the reference question differs. UPS identifies the principal usual activity over the preceding year; UPSS adds subsidiary economic activity and is useful where work is intermittent but recurrent. CWS uses the preceding seven days and is more responsive to recent labour-market conditions, yet one hour of work can classify a person as employed for the week. CDS allocates person-days and is therefore the strongest of these lenses for intensity and partial unemployment. A drought worker with annual farm attachment, two recent workdays and three job-search days can appear attached under UPSS, employed under CWS and sharply underutilised under CDS. Policy should therefore use usual status for structural attachment, CWS for high-frequency shocks and CDS/hours for utilisation, always holding age, sex and geography constant. No series is universally superior; triangulation is the answer.
 
-**MCQ 9. Before comparing two PLFS unemployment rates, what must be aligned first?**
+**Unique evaluation rubric (15 marks):** accurate status definitions 5 · worked comparison 3 · underemployment insight 3 · policy matching 2 · comparability qualification 2.
 
-A. Age coverage, geography and status/reference-period approach.
-B. Only the publication year; definitions never matter.
-C. Only sample size; UPS and CWS are interchangeable.
-D. Only whether the rate is politically favourable.
-
-**Answer: A**
-**Option explanations:**
-- **A:** Without alignment, apparent differences may be methodological.
-- **B:** Definitions and coverage can change interpretation even within a year.
-- **C:** Reference periods answer different labour-market questions.
-- **D:** Evidence comparability, not desirability, governs comparison.
-
-**MCQ 10. Which pairing is correct?**
-
-A. CWS—dominant activity over the long reference period.
-B. CDS—person-day allocation useful for time underemployment.
-C. UPS—any work in the preceding seven days.
-D. UPSS—excludes all subsidiary economic activity.
-
-**Answer: B**
-**Option explanations:**
-- **A:** That describes usual status, not preceding-week status.
-- **B:** CDS reveals the intensity of work and non-work across days.
-- **C:** That is the CWS logic.
-- **D:** UPSS expressly adds qualifying subsidiary activity.
-
-### Mains micro-model — 150-word PLFS note
-
-**Prompt:** *Analyse plfs ups, upss, cws and cds data-reading cases as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** PLFS status measures answer different time questions. UPS captures the principal long-period activity; UPSS adds subsidiary work; CWS observes the preceding seven days; CDS allocates person-days and best exposes intermittent work. A woman mainly engaged in domestic duties but helping on the family farm may enter UPSS but not UPS employment, while a builder with two workdays may be employed under CWS yet underutilised in CDS. The correct measure follows the policy question: structural attachment, recent shock or intensity. Comparisons must hold age, geography and status constant. Methodological plurality is useful when it prevents one period from concealing another form of slack.
+**Model ceiling — 15 marks/250 words:** cap at 8/15 if reference periods are listed but not matched to chronic attachment, recent shock and person-day intensity.
 
 **Bridge forward:** Once reference periods are aligned, the remaining slack must be named. Lesson 4 moves from measurement to diagnosis: frictional, structural, cyclical, seasonal, disguised and underemployment require different remedies.
 
 
 ## Lesson 4 — Unemployment taxonomy, underemployment and youth/educated unemployment
 
-**Progress: 4 / 18 | Stage: Foundation | Subtopic: Unemployment taxonomy, underemployment and youth/educated unemployment**
+Progress: 4 / 22 | Stage: Foundation | Subtopic: Unemployment taxonomy, underemployment and youth/educated unemployment
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "India youth educated unemployment underemployment PLFS official 2026"  
-**CA found:** Official PLFS releases were checked through the retrieval cutoff 24 September 2026; no undated youth rate is used here. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "India youth educated unemployment underemployment PLFS official 2026"
+**CA found:** Official PLFS releases were checked through the retrieval cutoff 3 October 2026; no undated youth rate is used here. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -491,67 +385,35 @@ A young diploma-holder may face structural mismatch because local firms need dif
 10. Evidence should identify the dominant mechanism before remedy selection.
 11. Income support, matching and reskilling solve different stages of the problem.
 
-### Misdiagnosis repair set
+### Concept check
 
-**MCQ 11. An engineering graduate involuntarily works a few hours in a low-skill delivery job while seeking engineering work. What is the best diagnosis?**
+**Question:** A graduate involuntarily works two days weekly in a low-skill job. Diagnose it.
 
-A. Pure seasonal unemployment only.
-B. Disguised unemployment because marginal farm output is zero.
-C. Skill and time underemployment despite employed status.
-D. No labour slack because any paid hour is full employment.
+**Model answer:** The person is employed but may be time- and skill-underemployed; remedy both weak demand and mismatch.
 
-**Answer: C**
-**Option explanations:**
-- **A:** No production season is specified.
-- **B:** The case is neither agricultural nor about surplus family labour.
-- **C:** The worker is employed but below skill and desired hours.
-- **D:** Headcount employment does not establish adequate utilisation.
+**Misconception to avoid:** Every employed person is fully utilised.
 
-**MCQ 12. A broad demand collapse reduces vacancies across sectors. Which primary response matches the mechanism?**
+### Mains application — Diagnosing mixed labour slack
 
-A. Only rewrite vocational curricula.
-B. Only improve job-search portals.
-C. Move surplus farm workers into the same depressed sectors.
-D. Support aggregate demand and investment while protecting displaced workers.
+**Prompt:** *Diagnose the forms of labour-market slack faced by educated youth in India and recommend cause-specific responses. (15 marks, 250 words)*
 
-**Answer: D**
-**Option explanations:**
-- **A:** Curriculum reform does not restore economy-wide demand.
-- **B:** Matching tools cannot create absent vacancies.
-- **C:** Reallocation into weak demand does not solve cyclical slack.
-- **D:** The remedy addresses the cyclical source and transition cost.
+**Model:** Educated youth can face open unemployment while seeking suitable work, frictional delay during transition, structural mismatch between qualifications and vacancies, time underemployment in involuntary short work and skill underemployment in jobs below capability. Cyclical weakness may reduce vacancies, while geography, information and social norms restrict matching. A graduate delivering goods for two days a week is employed in the statistical sense but may be both time- and skill-underemployed. Diagnosis must therefore combine UR with duration, CWS/CDS intensity, vacancy and wage evidence, qualification match and reasons for non-participation. Responses should follow the cause: aggregate and sectoral demand for vacancy scarcity; apprenticeships and employer-linked curricula for experience/mismatch; mobility, housing and information for spatial mismatch; and income/search support for prolonged transition. A single training programme cannot cure weak labour demand.
 
-**MCQ 13. Five family workers cultivate a plot; output is unchanged if two leave. This illustrates:**
+**Unique evaluation rubric (15 marks):** taxonomy 4 · mixed-case diagnosis 3 · evidence set 3 · cause-remedy matching 4 · qualification 1.
 
-A. Frictional unemployment due to job search.
-B. Disguised unemployment with near-zero marginal product for some workers.
-C. Cyclical unemployment caused by deficient aggregate demand.
-D. Voluntary leisure outside the labour force.
-
-**Answer: A**
-**Option explanations:**
-- **A:** No search transition is described.
-- **B:** Output invariance identifies surplus labour.
-- **C:** The case concerns farm labour allocation, not an economy-wide downturn.
-- **D:** All five are working; the issue is marginal productivity.
-
-### Mains micro-model — 150-word unemployment note
-
-**Prompt:** *Analyse unemployment taxonomy, underemployment and youth/educated unemployment as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Unemployment is not one disease. Search delay is frictional; skill, sector or location mismatch is structural; weak demand is cyclical; production calendars generate seasonal unemployment; and surplus workers with near-zero marginal product illustrate disguised unemployment. An employed graduate doing involuntary low-skill, short-hour work may still be underemployed. Remedies must follow diagnosis: matching services, reskilling and mobility, demand support, diversification or productive reallocation. Because causes overlap, policy should identify the dominant mechanism and report hours, qualifications and earnings alongside open unemployment.
+**Model ceiling — 15 marks/250 words:** cap at 7/15 if all educated unemployment is reduced to a skill deficit or answered only with training schemes.
 
 **Bridge forward:** Diagnosis identifies slack but not the development path that absorbs it. Lesson 5 asks whether labour moves into higher-productivity sectors or merely into new forms of informality.
 
 
 ## Lesson 5 — Structural transformation, Lewis-type transfer, jobless growth and informality
 
-**Progress: 5 / 18 | Stage: Core | Subtopic: Structural transformation, Lewis-type transfer, jobless growth and informality**
+Progress: 5 / 22 | Stage: Core | Subtopic: Structural transformation, Lewis-type transfer, jobless growth and informality
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Economic Survey 2025-26 structural transformation employment informality India"  
-**CA found:** Economic Survey 2025-26 was released 29 January 2026; its employment discussion is used with publication-date discipline. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Economic Survey 2025-26 structural transformation employment informality India"
+**CA found:** Economic Survey 2025-26 was released 29 January 2026; its employment discussion is used with publication-date discipline. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -585,6 +447,19 @@ If GDP grows 8% through capital-intensive output while employment grows 1%, outp
 
 ⚠️ **Inference:** Sectoral reallocation is developmental only when the destination raises marginal productivity, earnings and security.
 
+### Organised sector is not organised employment
+
+| Axis | Working meaning | Useful proxy | Limit |
+|---|---|---|---|
+| **Organised sector** | Enterprise/establishment side: public-sector units and private establishments brought within specified registration, reporting or size-based statistical frames | registration under relevant law; establishment surveys; payroll/tax records; size thresholds used by the named dataset | There is no one threshold valid for every law or statistical series; always name the source |
+| **Unorganised sector** | Enterprise side: broadly, small unincorporated private enterprises owned by individuals or households; the NCEUS working definition uses fewer than ten workers | unincorporated household enterprise, own-account establishment, small employer establishment | “Small” or unregistered does not mean illegal, unproductive or outside all regulation |
+| **Organised employment** | Job side: an employment relationship with identifiable employer, documented terms, regular records and effective labour/social-security coverage | written contract, payroll, paid leave, EPFO/ESIC or equivalent enforceable coverage | Payroll entry alone may not deliver security; legal eligibility and actual receipt still matter |
+| **Unorganised employment** | Job side: work lacking stable documented terms or effective employment/social-security protection, whether located in an unorganised or organised enterprise | casual/contract work without effective benefits, home-based work, own-account work, unpaid family work | It is not a single PLFS status and must not be inferred from enterprise size alone |
+
+**Relationship to formal/informal employment:** “formal sector” and “organised sector” are often used as enterprise-side approximations, while **formal/informal employment** is a job-side distinction based on the employment relationship and effective protection. The two axes cross. A regular bank employee with documented benefits is organised-sector formal employment. A contractor-supplied cleaner in a registered factory may work in the organised sector but hold informal/unorganised employment. A street vendor is usually both unorganised-sector and informal employment. A worker in a small unincorporated firm can still have documented terms or voluntarily secured protection; therefore unorganised sector does not logically make every job informal.
+
+**Exam rule:** First state whether the claim concerns the **enterprise** or the **job**. Then identify the dataset or law, its threshold/coverage rule and the worker-level evidence. Do not use GST registration, company incorporation, payroll visibility or establishment size as a universal substitute for formal employment.
+
 ### Productivity optimism versus transition costs
 
 Criticism: “jobless growth” ignores productivity-led income effects. Reply: productivity can create demand and future jobs, but distribution, employment elasticity and transition costs must be measured rather than assumed.
@@ -613,68 +488,38 @@ Imagine two districts with identical declines in agricultural employment. In the
 9. Destination quality distinguishes transformation from distress absorption.
 10. Modern-sector reinvestment sustains the labour-demand chain.
 11. Track tenure and protection with productivity and sector shares.
+12. Organised/unorganised sector classifies the enterprise; organised/unorganised or formal/informal employment classifies the job relationship.
+13. Informal employment can exist inside an organised-sector establishment.
 
-### Transformation decision set
+### Concept check
 
-**MCQ 14. Which movement most clearly represents productive structural transformation?**
+**Question:** Why can movement out of agriculture fail to transform the economy?
 
-A. Farm workers enter scalable manufacturing with higher productivity and real wages.
-B. Farm workers shift to intermittent street vending with unchanged earnings.
-C. Agricultural employment falls solely because workers stop seeking work.
-D. Urban informal jobs rise while hours and wages fall.
+**Model answer:** Distress movement into low-productivity informal work changes labels without assuring productivity, earnings or protection gains. Test the destination enterprise and the worker's employment relationship separately because an organised establishment can still contain informal employment.
 
-**Answer: B**
-**Option explanations:**
-- **A:** The destination improves both output per worker and welfare.
-- **B:** Sector changes, but productivity and security need not improve.
-- **C:** Labour-force withdrawal is not productive reallocation.
-- **D:** Distress absorption is not a transformation dividend.
+**Misconception to avoid:** Any fall in agriculture's job share proves successful transformation.
 
-**MCQ 15. Output grows rapidly, but employment barely changes because growth is concentrated in capital-intensive sectors. This is closest to:**
+### Mains application — Transformation or relabelling
 
-A. Seasonal unemployment.
-B. Jobless or job-light growth shaped by sector composition.
-C. Frictional unemployment alone.
-D. Full structural transformation.
+**Prompt:** *Discuss when movement of labour out of agriculture becomes structural transformation rather than distress relabelling. (15 marks, 250 words)*
 
-**Answer: C**
-**Option explanations:**
-- **A:** Seasonality concerns recurring production calendars.
-- **B:** Output expands without proportionate employment absorption.
-- **C:** Search duration cannot explain the macro pattern.
-- **D:** Transformation requires productive labour absorption, not output alone.
+**Model:** Structural transformation requires labour to move from lower- to higher-productivity activity with sustained demand, learning, real-wage gain and protection. Agricultural exit into scalable food processing, textiles, logistics or modern services can satisfy this test when investment and urban systems support absorption. Exit into irregular construction or petty retail after an income shock may only relocate informality. The enterprise and job axes must also be separated: an organised registered factory can still employ a contractor-supplied worker without effective benefits, while a small unincorporated enterprise does not make every job legally or economically identical. Relevant evidence therefore includes destination productivity, employment elasticity, tenure, real wages, written terms and social-security use. India needs labour-intensive clusters, MSME scaling, logistics, housing and portable protection. The conclusion is worker-centred: sectoral movement is transformative only when capabilities and bargaining position improve.
 
-**MCQ 16. Which policy package best supports labour-intensive transformation?**
+**Unique evaluation rubric (15 marks):** Lewis/structural mechanism 3 · destination-quality test 3 · organised-sector/employment distinction 4 · evidence and policy 3 · worker-centred conclusion 2.
 
-A. Credit without logistics, demand or worker capabilities.
-B. Only short-term public works, with no productivity pathway.
-C. Clusters, logistics, MSME scaling, skills and access to markets.
-D. Automation subsidies irrespective of employment and wage effects.
-
-**Answer: D**
-**Option explanations:**
-- **A:** Finance alone cannot repair the full production ecosystem.
-- **B:** Relief can help but does not build scalable modern-sector absorption.
-- **C:** The package addresses firm scale, productivity and matching together.
-- **D:** Technology support without transition tests may intensify job-light growth.
-
-### Mains micro-model — 150-word transformation note
-
-**Prompt:** *Analyse structural transformation, lewis-type transfer, jobless growth and informality as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Structural transformation is a productivity-and-welfare transition, not simply agricultural exit. Labour released from farming must be absorbed into scalable manufacturing or modern services where capital, infrastructure, demand and learning raise output per worker. If it moves into insecure petty services, sectoral shares change without a development breakthrough. Jobless growth can arise from capital intensity, technology, weak MSME scaling or inadequate demand. India therefore needs labour-intensive clusters, logistics, credit, urban services and mobility, coupled with real-wage and protection tests. Success means higher productivity, earnings and resilience—not merely a new location or label.
+**Model ceiling — 15 marks/250 words:** cap at 8/15 if agricultural exit is treated as sufficient or organised sector is equated automatically with formal employment.
 
 **Bridge forward:** Structural transformation needs measurable tests of job absorption and shared gains. Lesson 6 introduces employment elasticity, productivity, real wages and the several meanings of formalisation.
 
 
 ## Lesson 6 — Employment elasticity, productivity, real wages and formalisation calculations
 
-**Progress: 6 / 18 | Stage: Core | Subtopic: Employment elasticity, productivity, real wages and formalisation calculations**
+Progress: 6 / 22 | Stage: Core | Subtopic: Employment elasticity, productivity, real wages and formalisation calculations
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Economic Survey 2025-26 employment elasticity productivity formalisation India"  
-**CA found:** Economic Survey 2025-26, published 29 January 2026, reports post-COVID employment elasticity estimates; use estimates with period and method, not as timeless constants. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Economic Survey 2025-26 employment elasticity productivity formalisation India"
+**CA found:** Economic Survey 2025-26, published 29 January 2026, reports post-COVID employment elasticity estimates; use estimates with period and method, not as timeless constants. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -698,7 +543,7 @@ registration rises only            → test benefits before “formalisation”
 
 ### Three calculations, four cautions
 
-✅ **Stable concept / official architecture:** Employment elasticity = % change in employment / % change in output. Labour productivity ≈ real output / labour input. Real wage = nominal wage adjusted for prices. Formalisation has legal, tax, payroll and social-security dimensions that need not coincide.
+✅ **Stable concept / official architecture:** Employment elasticity = % change in employment / % change in output. Labour productivity ≈ real output / labour input. Real wage = nominal wage adjusted for prices. Formalisation has legal, tax, payroll and social-security dimensions that need not coincide. Enterprise formalisation and employment formalisation must be measured separately.
 
 ### Calculation sequence
 
@@ -725,6 +570,18 @@ Criticism: elasticity rewards low productivity if read mechanically. Reply: eval
 
 Combine employment growth and productivity growth to identify four regimes. Strong employment and strong productivity indicate expanding productive capacity; the remaining question is whether real wages and labour share improve. Strong employment with weak productivity may absorb workers but trap them in low-value activity, requiring capital, management and market access. Weak employment with strong productivity may reflect technology-led or capital-intensive growth; policy should widen demand and create complementary tasks rather than suppress productivity. Weak performance on both fronts signals a deeper investment and capability problem. Employment elasticity helps classify the response but is sensitive to period, base and sector mix. A short rebound can produce unusual ratios, and negative employment growth can make the statistic hard to communicate. Formalisation should then be layered onto the regime: enterprise registration may improve tax visibility, payroll records may improve traceability, but only written terms and effective benefits change worker security. Thus the desired regime is not maximum elasticity at any cost, but productive absorption with shared real gains.
 
+### Two-axis formalisation matrix
+
+```text
+                         EMPLOYMENT RELATIONSHIP
+                    FORMAL/ORGANISED     INFORMAL/UNORGANISED
+ENTERPRISE  ORGANISED  bank employee     contract cleaner in registered factory
+SIDE       UNORGANISED protected worker  street vendor / unpaid family helper
+                    in a small firm      / casual worker without benefits
+```
+
+The lower-left cell is possible because enterprise classification and job protection answer different questions. Conversely, a worker can appear on a payroll yet lack usable benefits or enforceable terms. For PLFS-based answers, use the reported employment-status and social-security variables rather than inventing a universal “organised employment” category. For legal answers, apply the definition and coverage threshold of the relevant Code, scheme or Act.
+
 ### Formula and interpretation card
 
 1. Employment elasticity divides employment growth by real-output growth.
@@ -738,68 +595,39 @@ Combine employment growth and productivity growth to identify four regimes. Stro
 9. Four growth regimes emerge from high/low employment and productivity growth.
 10. Unusual bases can distort short-period elasticity.
 11. The goal is productive absorption, not the highest elasticity regardless of wages.
+12. Organised sector is enterprise-side; formal or organised employment is job-side.
+13. A registered or large enterprise can employ informal workers.
+14. No single establishment-size proxy works across every legal and statistical context.
 
-### Calculation clinic
+### Concept check
 
-**MCQ 17. Real output rises 8% and employment rises 2%. What is employment elasticity?**
+**Question:** Output grows 10%, employment 3%, prices 6%, nominal wages 8%. Interpret.
 
-A. 0.25; jobs grew one-fourth as fast as output.
-B. 4.0; output growth must be divided by employment growth.
-C. 6 percentage points; elasticity is subtraction.
-D. 10%; add both growth rates.
+**Model answer:** Employment elasticity is 0.3 and approximate real-wage growth 2%. Neither proves enterprise or worker formalisation; check registration, documented terms and effective protection separately.
 
-**Answer: A**
-**Option explanations:**
-- **A:** 2 divided by 8 equals 0.25.
-- **B:** The formula places employment growth in the numerator.
-- **C:** Elasticity is a ratio, not a percentage-point gap.
-- **D:** Addition has no role in the elasticity formula.
+**Misconception to avoid:** High output growth automatically means job-rich formal growth.
 
-**MCQ 18. Nominal wages rise 6% while consumer prices rise 8%. Approximately what happened to real wages?**
+### Mains application — Elasticity, wages and two-axis formalisation
 
-A. They rose 14%.
-B. They fell by about 2%.
-C. They were unchanged because both rates are positive.
-D. The result cannot be discussed without UR.
+**Prompt:** *Calculate and assess: real output grows 8%, employment 2%, nominal wages 7% and worker-relevant inflation 5%. What can—and cannot—be concluded? (10 marks, 150 words)*
 
-**Answer: B**
-**Option explanations:**
-- **A:** Adding inflation reverses the adjustment.
-- **B:** Nominal pay grew less than prices, reducing purchasing power.
-- **C:** Positive nominal growth can coexist with real decline.
-- **D:** UR is not needed for this approximate inflation adjustment.
+**Model:** Employment elasticity is 2/8 = 0.25, indicating job-light growth for the stated period; approximate real-wage growth is 7−5 = 2%. Neither figure proves insecurity or success by itself because sector mix, hours and the base period matter. Formalisation requires a separate two-axis test. Enterprise-side organisation may be proxied by registration, reporting or dataset-specific size rules; job-side formality requires documented terms and effective protection. Thus a payroll worker in a registered factory may still lack usable benefits, while a worker in a small enterprise may have documented protection. The verdict is modest job response with positive real-wage movement, subject to distribution, hours and coverage evidence.
 
-**MCQ 19. A firm obtains tax registration but gives workers no written terms or social insurance. Which conclusion is sound?**
+**Unique evaluation rubric (10 marks):** elasticity calculation 2 · real-wage calculation 2 · interpretation 2 · enterprise/job distinction 3 · qualified verdict 1.
 
-A. All workers are fully formal because the enterprise is registered.
-B. No aspect of formalisation occurred.
-C. Formalisation is partial; test payroll, contracts and benefit coverage separately.
-D. Real wages must have risen after registration.
-
-**Answer: C**
-**Option explanations:**
-- **A:** Enterprise formality does not guarantee worker protection.
-- **B:** Enterprise registration is one dimension, though worker-level gaps remain.
-- **C:** Multiple layers can diverge.
-- **D:** Registration does not mechanically change pay.
-
-### Mains micro-model — 150-word productivity note
-
-**Prompt:** *Analyse employment elasticity, productivity, real wages and formalisation calculations as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Employment elasticity shows how strongly jobs respond to output growth, but it cannot stand alone. If output rises 8% and employment 2%, elasticity is 0.25: growth is job-light, though sector composition or productivity may explain it. Productivity must then be compared with real wages; rising output per worker with stagnant inflation-adjusted pay shows weak transmission. Formalisation also requires separate tests for enterprise registration, payroll, written conditions and benefit coverage. Assessment should combine elasticity, productivity, real wages and security over a stated period. Policy should seek productive absorption in which technological gains support earnings and protection.
+**Model ceiling — 10 marks/150 words:** cap at 5/10 if correct arithmetic is followed by an unsupported claim of complete formalisation or universal worker gain.
 
 **Bridge forward:** Aggregate growth indicators can conceal unequal access to work. Lesson 7 narrows the lens to women’s time constraints, unpaid care and the difference between participation and economic agency.
 
 
 ## Lesson 7 — Women, unpaid care, Time Use Survey and female LFPR quality
 
-**Progress: 7 / 18 | Stage: Core | Subtopic: Women, unpaid care, Time Use Survey and female LFPR quality**
+Progress: 7 / 22 | Stage: Core | Subtopic: Women, unpaid care, Time Use Survey and female LFPR quality
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "female labour force participation unpaid care Time Use Survey India official"  
-**CA found:** Time Use Survey 2019 official report: female participants aged 15-59 spent about 299 minutes/day on unpaid domestic services; this is a 2019 survey-vintage fact, retrieved 24 September 2026. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "female labour force participation unpaid care Time Use Survey India official"
+**CA found:** Time Use Survey 2024 reports that female participants aged 15-59 spent about 305 minutes/day on unpaid domestic services, compared with 315 minutes/day for the comparable group in TUS 2019. The 305-minute figure belongs to the 2024 survey, not 2019. Retrieved 3 October 2026. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -853,7 +681,7 @@ A crèche can release time for a mother of a young child, but it will not solve 
 ### Women-and-care recall card
 
 1. Time poverty limits the hours and distance women can offer to paid work.
-2. The Time Use Survey figure used here retains its 2019 vintage.
+2. TUS 2024 reports 305 minutes/day for female participants aged 15-59; the comparable TUS 2019 figure was 315 minutes/day.
 3. Female LFPR can rise through unpaid family work without equivalent income.
 4. Childcare relaxes a different constraint from safe transport.
 5. Occupational segregation affects wages and progression.
@@ -864,67 +692,35 @@ A crèche can release time for a mother of a young child, but it will not solve 
 10. Remote work can reduce commuting while intensifying care overlap.
 11. Control over income is an empowerment outcome distinct from participation.
 
-### Gender-quality check
+### Concept check
 
-**MCQ 20. A rise in female LFPR comes mainly from unpaid family work. What should an analyst conclude?**
+**Question:** Female LFPR rises while unpaid family work and care remain high. How should it be read?
 
-A. Economic empowerment is proven because participation rose.
-B. The change is necessarily statistical error.
-C. Care constraints have disappeared.
-D. Participation rose, but pay, hours, agency and conditions still require testing.
+**Model answer:** Treat participation as meaningful but test paid status, hours, earnings, agency and continuity; use Time Use Survey 2024 to explain care constraints.
 
-**Answer: D**
-**Option explanations:**
-- **A:** Participation can rise without independent earnings or agency.
-- **B:** Unpaid family work can be validly classified as economic activity.
-- **C:** The new status does not establish redistribution of care.
-- **D:** The quality check prevents rate-only celebration.
+**Misconception to avoid:** Higher female LFPR necessarily means equal agency and lower care work.
 
-**MCQ 21. Which intervention most directly relaxes time poverty for mothers of young children?**
+### Mains application — Care constraint and participation quality
 
-A. Reliable local childcare integrated with working hours.
-B. A distant training centre with no transport.
-C. A one-time registration drive.
-D. Only a higher retirement age.
+**Prompt:** *Examine why a rise in female LFPR must be evaluated alongside time use, paid status and agency. (15 marks, 250 words)*
 
-**Answer: A**
-**Option explanations:**
-- **A:** Childcare releases constrained time and improves continuity.
-- **B:** It adds time and mobility costs.
-- **C:** Registration does not redistribute care.
-- **D:** That does not address current childcare burdens.
+**Model:** Female LFPR records economic participation, not the quality or autonomy of that participation. TUS 2024 reports about 305 minutes/day of unpaid domestic services among female participants aged 15-59, compared with 315 minutes for the comparable group in TUS 2019. The decline is real but does not prove equal care sharing or paid-work expansion. Entry as an unpaid family helper can raise LFPR without independent income; remote or flexible work can reduce commuting yet intensify simultaneous care. Evaluation should therefore add paid hours, individual earnings, continuity after childbirth, occupational mobility, benefit access and control over income. Different constraints need different instruments: crèches release time, safe transport expands job radius, predictable schedules protect continuity, anti-discrimination rules improve treatment, and men's care participation changes household allocation. The goal is equal feasible choice, not merely a higher rate.
 
-**MCQ 22. Why must the 299-minute figure be described as a 2019 survey-vintage fact?**
+**Unique evaluation rubric (15 marks):** LFPR-agency distinction 3 · accurate TUS 2024/2019 evidence 4 · mechanism 3 · differentiated remedies 3 · equality-centred conclusion 2.
 
-A. Because all time-use data are constitutional provisions.
-B. Because survey date limits claims about current conditions.
-C. Because minutes can never be compared with hours.
-D. Because the figure measures only paid employment.
-
-**Answer: B**
-**Option explanations:**
-- **A:** The figure is empirical, not constitutional.
-- **B:** Dating prevents an older observation from being presented as a 2026 measurement.
-- **C:** They can be converted; vintage is the real issue.
-- **D:** It concerns unpaid domestic services among participants.
-
-### Mains micro-model — 150-word women-and-work note
-
-**Prompt:** *Analyse women, unpaid care, time use survey and female lfpr quality as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Female LFPR measures participation, not empowerment. Unpaid care compresses available hours, job radius and continuity, while unsafe transport and scarce local work reinforce withdrawal or low-paid concentration. The 2019 Time Use Survey fact illustrates domestic time claims but must retain its vintage. A rise into unpaid family work may improve measured participation without independent earnings. The remedy is a care-and-access package: crèches, safe mobility, shared care, local quality jobs, anti-discrimination enforcement and flexible work with protection. The final test is paid hours, career continuity, bargaining power and control over income.
+**Model ceiling — 15 marks/250 words:** cap at 7/15 if 305 minutes is assigned to 2019 or if higher LFPR is equated automatically with paid, secure and autonomous work.
 
 **Bridge forward:** Care and mobility barriers show that workers carry rights across space as well as time. Lesson 8 follows the migrant from origin to destination and tests whether registration becomes portable protection.
 
 
 ## Lesson 8 — Migrant labour, portability, e-Shram and rural-urban mobility
 
-**Progress: 8 / 18 | Stage: Core | Subtopic: Migrant labour, portability, e-Shram and rural-urban mobility**
+Progress: 8 / 22 | Stage: Core | Subtopic: Migrant labour, portability, e-Shram and rural-urban mobility
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Ministry Labour e-Shram migrant worker portability official 2026"  
-**CA found:** Ministry of Labour and Employment/e-Shram official pages were checked with retrieval date 24 September 2026; registration totals are not used as benefit-delivery outcomes. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Ministry Labour e-Shram migrant worker portability official 2026"
+**CA found:** Ministry of Labour and Employment/e-Shram official pages were checked with retrieval date 3 October 2026; registration totals are not used as benefit-delivery outcomes. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -992,53 +788,35 @@ A seasonal construction worker may leave a village through an informal recruiter
 10. Destination-side transaction success is stronger evidence than database linkage.
 11. Portability cannot substitute for wage enforcement and adequate housing.
 
-### Portability check
+### Concept check
 
-**MCQ 23. An e-Shram-registered migrant cannot use an eligible benefit at destination. Which stage failed?**
+**Question:** An e-Shram-registered migrant cannot use a benefit at destination. What failed?
 
-A. Identity creation only.
-B. Labour-force classification.
-C. Portability and last-mile access.
-D. Employment elasticity.
+**Model answer:** Registration did not become portable receipt; test eligibility, interoperability, contributions, authentication, delivery and grievance redress.
 
-**Answer: C**
-**Option explanations:**
-- **A:** Identity exists; failure occurs after registration.
-- **B:** The problem is entitlement delivery, not PLFS status.
-- **C:** Eligibility did not become usable across location.
-- **D:** Output-job response is unrelated to the case.
+**Misconception to avoid:** A national registry automatically guarantees every benefit.
 
-**MCQ 24. Which sequence best evaluates migrant protection?**
+### Mains application — Portable protection for circular migrants
 
-A. Count registrations and stop.
-B. Assume origin-state benefits automatically follow the worker.
-C. Measure only remittances.
-D. Registration → eligibility → portability → utilisation → grievance redress.
+**Prompt:** *Design a portability chain that converts migrant-worker registration into benefit use at destination. (10 marks, 150 words)*
 
-**Answer: D**
-**Option explanations:**
-- **A:** Registration alone cannot show eligibility or use.
-- **B:** Portability needs institutional integration.
-- **C:** Remittances omit housing, contracts, services and grievances.
-- **D:** The sequence follows the entitlement to actual remedy.
+**Model:** Registration is only the first gate. A functioning chain needs a unique worker record, mapped eligibility, interoperable contribution history, destination-side authentication, local provider access, multilingual assistance, grievance redress and continuity when employer or state changes. e-Shram can support identity and convergence, but database size is not proof of ration, insurance, pension or employment-service use. For a circular migrant, test both source and destination coordination, housing and workplace enforcement. The outcome indicators are successful transactions, claims settled, continuity across moves and time to remedy—not registrations alone. Portability should therefore make social citizenship follow the worker without normalising insecure work.
 
-### Mains micro-model — 150-word migration note
+**Unique evaluation rubric (10 marks):** registration-use distinction 2 · complete portability chain 4 · named institutional application 2 · outcome metric 1 · rights qualification 1.
 
-**Prompt:** *Analyse migrant labour, portability, e-shram and rural-urban mobility as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Migration can improve matching between workers and spatially uneven jobs, yet borders often fracture protection. e-Shram creates an identity and data layer; it does not itself make food, health, insurance or pension entitlements usable at destination. Policy must connect eligibility, interoperable records, multilingual access, claims and grievance redress, while regulating recruiters and improving rental housing. Circular migrants require source–destination coordination. Portability should complement local job creation, not normalise distress mobility. The outcome measure is actual utilisation and timely remedy, not records created.
+**Model ceiling — 10 marks/150 words:** cap at 5/10 if the answer stops at e-Shram registration or lists schemes without explaining destination delivery.
 
 **Bridge forward:** Portability problems become sharper when the workplace is a digital intermediary. Lesson 9 asks who controls price, allocation and deactivation in platform work and who bears the risks.
 
 
 ## Lesson 9 — Gig and platform work, algorithmic control and portable social security
 
-**Progress: 9 / 18 | Stage: Core | Subtopic: Gig and platform work, algorithmic control and portable social security**
+Progress: 9 / 22 | Stage: Core | Subtopic: Gig and platform work, algorithmic control and portable social security
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "NITI Aayog gig platform economy report 2022 official social security India"  
-**CA found:** NITI Aayog report published June 2022 estimated about 77 lakh gig workers in 2020-21 and projected 2.35 crore in 2029-30; no intermediate-year interpolation is made. Retrieved 24 September 2026. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "NITI Aayog gig platform economy report 2022 official social security India"
+**CA found:** NITI Aayog report published June 2022 estimated about 77 lakh gig workers in 2020-21 and projected 2.35 crore in 2029-30; no intermediate-year interpolation is made. Retrieved 3 October 2026. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -1102,67 +880,35 @@ Platform work resists a simple freedom-versus-employment binary. A driver may ch
 10. Ratings require bias safeguards and meaningful appeal.
 11. Contribution design should not reward misclassification or shift all costs to workers.
 
-### Platform-work caselets
+### Concept check
 
-**MCQ 25. A platform sets prices, ranks workers and can deactivate them without reasons. What does this most strongly indicate?**
+**Question:** A platform controls price, allocation, ratings and deactivation but permits flexible login. Infer.
 
-A. Substantive control despite nominal scheduling flexibility.
-B. Complete worker autonomy because there is no office.
-C. No need for appeal because algorithms are neutral.
-D. A conventional civil-service relationship.
+**Model answer:** Flexibility coexists with substantive control and worker-borne risk; require transparency, appeal, voice and portable protection.
 
-**Answer: A**
-**Option explanations:**
-- **A:** Multiple algorithmic levers shape livelihood access and conduct.
-- **B:** Physical distance does not remove economic control.
-- **C:** Automated decisions can be erroneous or opaque.
-- **D:** Platform control does not automatically create that status.
+**Misconception to avoid:** Flexible login proves complete independence.
 
-**MCQ 26. Which use of NITI gig-worker figures is methodologically valid?**
+### Mains application — Algorithmic flexibility and labour dependence
 
-A. Treat 2.35 crore as an observed 2026 count.
-B. State 77 lakh for 2020-21 and 2.35 crore as the 2029-30 projection.
-C. Linearly interpolate an exact current count without fresh evidence.
-D. Describe both figures as PLFS unemployment rates.
+**Prompt:** *Critically analyse the claim that flexible login makes platform workers independent contractors in substance. (15 marks, 250 words)*
 
-**Answer: B**
-**Option explanations:**
-- **A:** It is a 2029-30 projection, not a 2026 observation.
-- **B:** This preserves both date and estimate/projection status.
-- **C:** Interpolation would fabricate an observation.
-- **D:** They concern gig-worker estimates, not UR.
+**Model:** Login choice is one dimension of flexibility, not a complete test of independence. A platform may still set prices, allocate orders, rank performance, control customer access and deactivate workers; meanwhile workers bear asset, idle-time, accident and demand risks. The economic inquiry should examine control, dependence, multi-homing, data access and risk allocation rather than accept a label. Protection can be modular while classification disputes continue: accident and health cover, portable old-age/maternity protection, transparent contributions, intelligible reasons for adverse action, human appeal and collective voice. NITI Aayog's 77-lakh estimate for 2020-21 and 2.35-crore projection for 2029-30 must retain their vintages and not be interpolated into a current count. Regulation should preserve genuine scheduling benefits while limiting opaque livelihood power.
 
-**MCQ 27. Which reform most directly addresses opaque deactivation?**
+**Unique evaluation rubric (15 marks):** rebuttal of login test 3 · control/risk analysis 4 · dated gig evidence 2 · portable protection and due process 4 · balanced verdict 2.
 
-A. Only a higher floor wage for factory workers.
-B. A ban on all digital matching.
-C. Reason-giving, notice, human review and accessible appeal.
-D. More worker registrations without platform obligations.
-
-**Answer: C**
-**Option explanations:**
-- **A:** That does not create platform due process.
-- **B:** It removes potential benefits rather than governing risk.
-- **C:** These measures create procedural accountability.
-- **D:** Registration alone does not constrain deactivation power.
-
-### Mains micro-model — 150-word gig-work note
-
-**Prompt:** *Analyse gig and platform work, algorithmic control and portable social security as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Platform work combines scheduling flexibility with rules set through pricing algorithms, rankings, incentives, surveillance and deactivation. This can shift demand, asset, accident and income risks onto workers even without an employee label. The cited NITI figures must remain bounded: 77 lakh is for 2020-21 and 2.35 crore a projection for 2029-30. Reform should separate status adjudication from universal minimum protections, require transparent terms and reasons, provide appeal and data rights, enable collective voice and finance portable security across platforms. Innovation is preserved when flexibility is not purchased through opaque control and uninsurable risk.
+**Model ceiling — 15 marks/250 words:** cap at 8/15 if the answer relies on labels alone or omits algorithmic control, worker-borne risk and enforceable appeal.
 
 **Bridge forward:** Platform ambiguity exposes legal classification and enforceability. Lesson 10 traces consolidation of labour laws and why enactment, rules and enforcement remain separate.
 
 
 ## Lesson 10 — Labour-law evolution, Concurrent List and the four-Code transition
 
-**Progress: 10 / 18 | Stage: Core | Subtopic: Labour-law evolution, Concurrent List and the four-Code transition**
+Progress: 10 / 22 | Stage: Core | Subtopic: Labour-law evolution, Concurrent List and the four-Code transition
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Ministry Labour four Labour Codes commencement central rules state rules 2026 official"  
-**CA found:** Four Codes consolidate 29 central labour laws. Official Ministry milestones: notification/commencement on 21 November 2025; final Central Rules for Wages, Industrial Relations and Social Security on 8 May 2026; and final OSHWC Central Rules on 9 May 2026. State readiness is uneven and not safely generalisable as of retrieval 24 September 2026. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Ministry Labour four Labour Codes commencement central rules state rules 2026 official"
+**CA found:** Four Codes consolidate 29 central labour laws. Official Ministry milestones: notification/commencement on 21 November 2025; final Central Rules for Wages, Industrial Relations and Social Security on 8 May 2026; and final OSHWC Central Rules on 9 May 2026. State readiness is uneven and not safely generalisable as of retrieval 3 October 2026. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -1228,81 +974,35 @@ Consolidation can simplify definitions, forms and institutional responsibilities
 10. Digital compliance needs assisted access and credible field enforcement.
 11. Claim disposal time is an implementation outcome.
 
-### Legal-status stress test
+### Concept check
 
-**MCQ 28. Which sequence correctly orders Labour-Code implementation stages?**
+**Question:** Why report Labour-Code status as a ladder?
 
-A. Enactment → automatic universal enforcement → optional rules.
-B. State enforcement → enactment → commencement.
-C. Central rules → parliamentary enactment → worker claims.
-D. Enactment → commencement → rules/systems → workplace enforcement.
+**Model answer:** Enactment, commencement, Central Rules, state rules, systems, compliance and remedy are distinct stages; jurisdiction readiness needs dated verification.
 
-**Answer: D**
-**Option explanations:**
-- **A:** Rules and administration cannot follow after presumed universal enforcement.
-- **B:** Enforcement cannot precede the legal basis in this sequence.
-- **C:** Rules derive from enacted law.
-- **D:** This preserves the legal and administrative ladder.
+**Misconception to avoid:** Central commencement proves uniform enforcement.
 
-**MCQ 29. Why does the Concurrent List matter for labour-law implementation?**
+### Mains application — From enactment to effective remedy
 
-A. Union and states may both have roles, so readiness can differ across jurisdictions.
-B. It makes every labour rule exclusively municipal.
-C. It eliminates the need for state institutions.
-D. It makes enacted laws self-executing without rules.
+**Prompt:** *Trace the implementation ladder of the four Labour Codes and explain why legal commencement is not uniform workplace enforcement. (15 marks, 250 words)*
 
-**Answer: A**
-**Option explanations:**
-- **A:** Federal coordination affects rules and administration.
-- **B:** Municipal exclusivity does not follow.
-- **C:** State roles are precisely why coordination matters.
-- **D:** Legislative competence does not erase implementation stages.
+**Model:** The four Codes consolidate 29 central labour laws, but their effect must be traced stage by stage: enactment in 2019-20; commencement on 21 November 2025; final Central Rules in May 2026; jurisdiction-specific state rules and machinery; employer compliance; inspection/adjudication; and effective remedy. Labour lies in the Concurrent List, so central milestones do not establish identical readiness in every State and UT. Rules, forms, thresholds, digital systems, staffing and worker access determine operational protection. A legal audit should ask which Code, provision, appropriate government and implementation rung supports each claim. Success should be measured through wages paid, disputes resolved, benefits used and hazards prevented, not notification counts. Cooperative templates and interoperable systems can reduce fragmentation, but enforcement capacity completes codification.
 
-**MCQ 30. Which statement about the four Codes is accurate?**
+**Unique evaluation rubric (15 marks):** four-Code context 2 · dated ladder 5 · concurrent federalism 3 · outcome metrics 3 · qualified reform 2.
 
-A. All four were enacted in 2020.
-B. They consolidate 29 central labour laws into four functional Codes.
-C. They concern only organised factory workers.
-D. They removed every need for delegated rules.
-
-**Answer: B**
-**Option explanations:**
-- **A:** The Code on Wages was enacted in 2019.
-- **B:** This is the stated consolidation architecture.
-- **C:** Their scope and categories are broader.
-- **D:** Implementation still relies on rules and institutions.
-
-**MCQ 31. A worker has a statutory right but cannot access an inspector or adjudicator. What does this demonstrate?**
-
-A. Textual enactment is sufficient protection.
-B. The worker is outside the labour force.
-C. Administrative capacity is part of implementation.
-D. Only the wage denominator needs correction.
-
-**Answer: C**
-**Option explanations:**
-- **A:** A right without an enforcement route may be ineffective.
-- **B:** Labour status is not the issue.
-- **C:** Access to inspection and remedy converts text into protection.
-- **D:** No rate calculation resolves enforcement failure.
-
-### Mains micro-model — 150-word Labour-Code transition note
-
-**Prompt:** *Analyse labour-law evolution, concurrent list and the four-code transition as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** The four-Code transition is a legal-administrative sequence. Consolidation of 29 laws can harmonise definitions and compliance, but enactment, commencement, central rules, state rules, administrative systems and enforcement are distinct milestones. Because labour lies substantially in the Concurrent List, uneven state readiness can create uneven obligations and protection. The dated 2025-26 milestones should support only status claims current to the cutoff. Implementation requires trained inspectors, accessible systems, funded boards, rapid adjudication and public state-wise reporting. Simplification succeeds only when workers can invoke standards and obtain remedies.
+**Model ceiling — 15 marks/250 words:** cap at 7/15 if the answer collapses enactment, commencement, Rules, compliance and remedy into “implemented/not implemented”.
 
 **Bridge forward:** After the implementation ladder, Code-wise analysis begins with the immediate employment bargain: what wage is due, how is it calculated and who enforces equality?
 
 
 ## Lesson 11 — Code on Wages 2019: floor wage, minimum wage and equal remuneration
 
-**Progress: 11 / 18 | Stage: Core | Subtopic: Code on Wages 2019: floor wage, minimum wage and equal remuneration**
+Progress: 11 / 22 | Stage: Core | Subtopic: Code on Wages 2019: floor wage, minimum wage and equal remuneration
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Code on Wages 2019 floor wage minimum wage equal remuneration official rules 2026"  
-**CA found:** Code on Wages 2019 and final Code on Wages (Central) Rules notified 8 May 2026 were checked on official Ministry pages; retrieved 24 September 2026. Specific rate claims require the competent government’s dated notification. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Code on Wages 2019 floor wage minimum wage equal remuneration official rules 2026"
+**CA found:** Code on Wages 2019 and final Code on Wages (Central) Rules notified 8 May 2026 were checked on official Ministry pages; retrieved 3 October 2026. Specific rate claims require the competent government’s dated notification. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -1368,67 +1068,35 @@ A wage dispute should be solved in a fixed order. First identify whether the est
 10. Payroll labels cannot override statutory component rules.
 11. Same or similar work requires substantive comparison beyond job titles.
 
-### Wage caselets
+### Concept check
 
-**MCQ 32. A state minimum wage is below the operative Central floor wage. Which principle applies?**
+**Question:** Distinguish floor wage, minimum wage and living wage.
 
-A. The lower state rate prevails because a floor is merely descriptive.
-B. The worker must claim a living wage in every case.
-C. Only nominal wage growth matters.
-D. The competent government must ensure its minimum is not below the floor.
+**Model answer:** The Centre fixes a floor; appropriate governments fix minimum wages not below it; living wage is a broader decent-life norm.
 
-**Answer: D**
-**Option explanations:**
-- **A:** Minimum wages must not fall below the operative floor.
-- **B:** Living wage differs from the notified minimum mechanism.
-- **C:** The issue is legal wage fixing, not a growth rate.
-- **D:** This states the floor–minimum relationship.
+**Misconception to avoid:** The three are legally identical.
 
-**MCQ 33. Which distinction is correct?**
+### Mains application — Three wage standards
 
-A. Floor wage, notified minimum and living-wage aspiration are not identical.
-B. Every reimbursement is automatically statutory wages.
-C. Timely payment is irrelevant once a rate is notified.
-D. Equal remuneration concerns only identical job titles.
+**Prompt:** *Distinguish floor wage, minimum wage and living wage, and show how enforcement determines worker protection. (10 marks, 150 words)*
 
-**Answer: A**
-**Option explanations:**
-- **A:** They occupy different legal and normative levels.
-- **B:** The wage definition has inclusion/exclusion rules.
-- **C:** Payment is a separate compliance obligation.
-- **D:** Same or similar work needs substantive comparison.
+**Model:** The floor wage is fixed by the Central Government as a national lower benchmark; the appropriate government fixes minimum wages that cannot be below that floor; a living wage is the broader normative level required for a decent life. These concepts differ in authority and ambition. Protection also depends on a common wage definition, timely payment, equal remuneration, revision, inspection and accessible claims. A statutory rate on paper is ineffective if hours or deductions are manipulated or workers cannot seek remedy. The balanced objective is a credible wage floor with region-sensitive minima, predictable revision and strong enforcement, while supporting productivity and small-firm compliance.
 
-**MCQ 34. A payroll labels regular remuneration as an “allowance” to depress the wage base. What should be examined first?**
+**Unique evaluation rubric (10 marks):** three distinctions 4 · competent-government logic 2 · enforcement chain 2 · balanced conclusion 2.
 
-A. Only annual firm profit.
-B. The statutory wage definition, exclusions and cap logic.
-C. The district unemployment rate.
-D. Whether the worker migrates.
-
-**Answer: B**
-**Option explanations:**
-- **A:** Profit does not classify statutory components.
-- **B:** Labels cannot override the legal computation rule.
-- **C:** UR cannot resolve component treatment.
-- **D:** Mobility does not decide the wage definition.
-
-### Mains micro-model — 150-word wage-code note
-
-**Prompt:** *Analyse code on wages 2019: floor wage, minimum wage and equal remuneration as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** The Code creates a hierarchy, not one universal number. The Central floor constrains competent governments fixing minimum wages, while the living wage is a broader aspiration. A case must identify authority, geography, skill category and operative notification, then apply the statutory wage definition. Rate compliance, timely payment and gender equality for same or similar work are separate tests. Although poorly calibrated minima may strain low-productivity firms, the answer is predictable revision, productivity assistance and enforcement—not sub-minimum pay. Regulation protects only when workers can calculate, claim and recover the amount due.
+**Model ceiling — 10 marks/150 words:** cap at 4/10 if floor, minimum and living wage are treated as synonyms or the appropriate-government distinction is omitted.
 
 **Bridge forward:** A wage floor governs labour's price but not collective power when conditions change. Lesson 12 turns to bargaining, disputes and the balance between adjustment and security.
 
 
 ## Lesson 12 — Industrial Relations Code 2020: bargaining, flexibility and security
 
-**Progress: 12 / 18 | Stage: Core | Subtopic: Industrial Relations Code 2020: bargaining, flexibility and security**
+Progress: 12 / 22 | Stage: Core | Subtopic: Industrial Relations Code 2020: bargaining, flexibility and security
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Industrial Relations Code 2020 fixed term standing orders strikes retrenchment threshold official"  
-**CA found:** Industrial Relations Code 2020 and final Industrial Relations (Central) Rules notified 8 May 2026 were checked officially; retrieval 24 September 2026. Threshold application must follow current legal text and competent notifications. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Industrial Relations Code 2020 fixed term standing orders strikes retrenchment threshold official"
+**CA found:** Industrial Relations Code 2020 and final Industrial Relations (Central) Rules notified 8 May 2026 were checked officially; retrieval 3 October 2026. Threshold application must follow current legal text and competent notifications. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -1492,67 +1160,35 @@ Suppose a factory introduces a new production line and no longer needs one occup
 10. Delayed remedies can make valid rights practically weak.
 11. Fixed-term parity does not create an expectation of renewal.
 
-### Bargaining trade-off set
+### Concept check
 
-**MCQ 35. Which evaluation best captures fixed-term employment?**
+**Question:** Balance flexibility and security under the Industrial Relations Code.
 
-A. It is always permanent tenure.
-B. It eliminates every employer obligation.
-C. It may provide specified parity but retains non-renewal risk.
-D. It is disguised unemployment.
+**Model answer:** Assess unions, standing orders, strikes, fixed-term work, retrenchment and disputes together; pair adjustment with voice and transition support.
 
-**Answer: C**
-**Option explanations:**
-- **A:** A fixed end date remains material.
-- **B:** Specified conditions still matter.
-- **C:** Benefit parity differs from tenure security.
-- **D:** A contract form differs from surplus labour.
+**Misconception to avoid:** Fixed-term employment equals intermediary-supplied contract labour.
 
-**MCQ 36. Restructuring is eased, but bargaining weakens and transition support is absent. What is the central risk?**
+### Mains application — Adjustment with voice
 
-A. Productivity must mechanically fall.
-B. All disputes become frictional unemployment.
-C. Workers automatically gain stronger voice.
-D. Flexibility becomes unilateral risk transfer to labour.
+**Prompt:** *Assess whether the Industrial Relations Code can combine enterprise adjustment with worker security. (15 marks, 250 words)*
 
-**Answer: D**
-**Option explanations:**
-- **A:** The issue is risk distribution, not an automatic output result.
-- **B:** The concepts are distinct.
-- **C:** The premise says voice weakens.
-- **D:** Workers bear most adjustment costs.
+**Model:** Adjustment and security are complementary only when flexibility is institutionally bounded. The Industrial Relations Code brings together trade-union recognition, standing orders, strike procedures, dispute resolution, fixed-term employment and retrenchment/closure rules. Fixed-term employment is direct time-bound employment, not intermediary-supplied contract labour; parity during the contract does not remove non-renewal risk. Higher thresholds may ease restructuring for some firms but can weaken ex-ante protection if voice, notice and adjudication are weak. A balanced design therefore requires representative bargaining, predictable procedures, speedy disputes, notice and compensation, reskilling and income transition support. Evaluation should examine dispute duration, reinstatement/compensation, fixed-term parity and post-restructuring outcomes rather than count procedural filings.
 
-**MCQ 37. Which package best balances flexibility and security?**
+**Unique evaluation rubric (15 marks):** institutional architecture 4 · fixed-term distinction 2 · flexibility-security trade-off 4 · transition safeguards 3 · outcome test 2.
 
-A. Negotiating institutions, rapid adjudication and reskilling/income support.
-B. Longer forms with no enforcement.
-C. A ban on all enterprise adjustment.
-D. Verbal rules instead of standing orders.
-
-**Answer: A**
-**Option explanations:**
-- **A:** It combines voice, remedy and transition capacity.
-- **B:** Procedure alone may not yield protection.
-- **C:** Absolute rigidity ignores legitimate restructuring.
-- **D:** Unwritten rules reduce predictability.
-
-### Mains micro-model — 150-word industrial-relations note
-
-**Prompt:** *Analyse industrial relations code 2020: bargaining, flexibility and security as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Industrial relations policy distributes voice and adjustment risk. The Code covers unions, negotiating institutions, standing orders, disputes, industrial action and restructuring; fixed-term employment offers time-bound engagement with specified parity but not permanent tenure. Predictable procedures may support investment, yet thresholds, notices or delayed adjudication can weaken bargaining. A balanced design combines genuine negotiating institutions, clear service conditions, proportionate restructuring, fast dispute resolution and reskilling or income support. Flexibility should be judged not by dismissal ease alone but by whether firms can adjust without transferring all volatility to workers.
+**Model ceiling — 15 marks/250 words:** cap at 8/15 if flexibility is praised or condemned without analysing voice, fixed-term parity, restructuring risk and transition security.
 
 **Bridge forward:** Voice can negotiate change, but illness, maternity, injury, old age or job loss require pooled protection. Lesson 13 follows legal recognition to a financed benefit.
 
 
 ## Lesson 13 — Code on Social Security 2020: coverage architecture and gaps
 
-**Progress: 13 / 18 | Stage: Core | Subtopic: Code on Social Security 2020: coverage architecture and gaps**
+Progress: 13 / 22 | Stage: Core | Subtopic: Code on Social Security 2020: coverage architecture and gaps
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Code on Social Security 2020 gig platform aggregator EPFO ESIC gratuity maternity official"  
-**CA found:** Code on Social Security 2020 and final Social Security (Central) Rules notified 8 May 2026 were checked on official Ministry pages; retrieval 24 September 2026. Scheme coverage and operational benefits require separate dated notification evidence. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Code on Social Security 2020 gig platform aggregator EPFO ESIC gratuity maternity official"
+**CA found:** Code on Social Security 2020 and final Social Security (Central) Rules notified 8 May 2026 were checked on official Ministry pages; retrieval 3 October 2026. Scheme coverage and operational benefits require separate dated notification evidence. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -1618,81 +1254,35 @@ A useful coverage ratio starts with the population exposed to a risk, not the nu
 10. Financing rules must handle multi-platform and mobile work.
 11. Data integration requires privacy and purpose limits.
 
-### Coverage-versus-registration drill
+### Concept check
 
-**MCQ 38. A gig worker is recognised and registered, but no funded scheme specifies benefits. What follows?**
+**Question:** Why is legal recognition of gig workers not realised social security?
 
-A. Full coverage already exists.
-B. Legal inclusion advanced, but effective coverage is unproven.
-C. Permanent employee status follows automatically.
-D. Any provident fund must pay the claim.
+**Model answer:** Receipt still needs a notified scheme, eligibility, finance, registration, contributions, claims and grievance redress.
 
-**Answer: B**
-**Option explanations:**
-- **A:** Recognition and registration do not finance a benefit.
-- **B:** An operative funded scheme is still missing.
-- **C:** Security classification does not decide tenure.
-- **D:** Benefits require an applicable scheme.
+**Misconception to avoid:** Definition in a Code automatically funds every benefit.
 
-**MCQ 39. Which metric best measures effective coverage?**
+### Mains application — Recognition-to-receipt funnel
 
-A. Total registrations ever created.
-B. Number of scheme announcements.
-C. Eligible workers with active coverage and accessible claims.
-D. Number of laws consolidated.
+**Prompt:** *Evaluate the proposition that legal recognition of unorganised, gig and platform workers is necessary but insufficient for social security. (15 marks, 250 words)*
 
-**Answer: C**
-**Option explanations:**
-- **A:** A database can include inactive or uncovered persons.
-- **B:** Announcements are inputs.
-- **C:** This connects risk population to usable protection.
-- **D:** Simplification is not a coverage rate.
+**Model:** Recognition creates a legal doorway, not a delivered entitlement. The Code on Social Security spans provident fund, employee insurance, gratuity, maternity and enabling routes for unorganised, gig and platform workers. Real protection requires a notified scheme, eligibility, financing, registration, contribution records, portability, claims, grievance redress and adequate benefit. The organised-sector/unorganised-employment distinction matters: a contract worker inside a registered establishment may still lack effective protection, while an unorganised-sector worker may access a specific scheme. Database totals must therefore be converted into active coverage, successful claims, continuity and adequacy. Transparent aggregator/employer/public financing, interoperable records and assisted access can close the funnel. The final test is whether the worker receives timely support during sickness, maternity, injury, old age or income loss.
 
-**MCQ 40. Why is portability important?**
+**Unique evaluation rubric (15 marks):** recognition-receipt distinction 3 · coverage funnel 4 · sector/job cross-classification 3 · financing-portability 3 · outcome conclusion 2.
 
-A. It preserves protection when employer, platform or state changes.
-B. It replaces scheme finance.
-C. It makes all benefits identical.
-D. It converts informal work into civil service.
-
-**Answer: D**
-**Option explanations:**
-- **A:** Mobility otherwise fragments records and entitlements.
-- **B:** Portable unfunded promises remain unusable.
-- **C:** Portability need not erase scheme differences.
-- **D:** No such status conversion follows.
-
-**MCQ 41. Which sequence correctly traces delivery?**
-
-A. Benefit receipt → recognition → eligibility → finance.
-B. Registration → automatic adequacy → no grievance.
-C. Announcement → universal receipt.
-D. Recognition → scheme/eligibility → finance → claim → benefit.
-
-**Answer: A**
-**Option explanations:**
-- **A:** This reverses the enabling order.
-- **B:** Registration guarantees neither adequacy nor remedy.
-- **C:** Several delivery stages are omitted.
-- **D:** This follows law through funded delivery.
-
-### Mains micro-model — 150-word social-security note
-
-**Prompt:** *Analyse code on social security 2020: coverage architecture and gaps as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Social security is a delivery chain. Recognition of unorganised, gig and platform workers expands the legal frame, but protection begins only when a scheme specifies eligibility, finance, contributions, registration, benefits and claims. Database size cannot substitute for active coverage, successful claims, adequacy or continuity. Portability is vital for workers changing employers, platforms or states. Reform should publish conversion rates, integrate records, provide assisted enrolment, define financing transparently and strengthen grievance redress. Universal aspiration becomes real security only when a worker can access a funded benefit during sickness, maternity, old age, injury or income loss.
+**Model ceiling — 15 marks/250 words:** cap at 7/15 if registration or statutory recognition is presented as automatic, funded and universal benefit receipt.
 
 **Bridge forward:** Income protection after a contingency cannot replace prevention of harm. Lesson 14 shifts upstream to hazards, contract chains, migrant conditions and inspection capacity.
 
 
 ## Lesson 14 — OSHWC Code 2020: safety, migrants, contract labour and inspection
 
-**Progress: 14 / 18 | Stage: Core | Subtopic: OSHWC Code 2020: safety, migrants, contract labour and inspection**
+Progress: 14 / 22 | Stage: Core | Subtopic: OSHWC Code 2020: safety, migrants, contract labour and inspection
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "OSHWC Code 2020 migrant contract labour women night work safety inspection official"  
-**CA found:** OSHWC Code 2020 and final OSHWC (Central) Rules notified 9 May 2026 were checked officially; retrieval 24 September 2026. Thresholds and conditions must be read from operative law/rules for the establishment. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "OSHWC Code 2020 migrant contract labour women night work safety inspection official"
+**CA found:** OSHWC Code 2020 and final OSHWC (Central) Rules notified 9 May 2026 were checked officially; retrieval 3 October 2026. Thresholds and conditions must be read from operative law/rules for the establishment. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -1757,67 +1347,35 @@ After a machine injury, a weak inquiry asks only whether the worker wore PPE. A 
 10. Near-miss systems need protection against retaliation.
 11. Disaggregate safety outcomes by contract, occupation, sex and migrant status.
 
-### Safety and threshold caselets
+### Concept check
 
-**MCQ 42. Which control is highest in the safety hierarchy?**
+**Question:** After a preventable factory accident, what comes before compensation?
 
-A. PPE after exposure begins.
-B. Eliminating the hazardous process.
-C. Rotating workers.
-D. Compensating injury.
+**Model answer:** Examine hazard elimination, engineering controls, safe systems, training, worker voice, inspection, reporting and remedy.
 
-**Answer: B**
-**Option explanations:**
-- **A:** PPE is a last personal barrier.
-- **B:** Removal prevents exposure at source.
-- **C:** Rotation only manages exposure.
-- **D:** Compensation is not prevention.
+**Misconception to avoid:** Safety is adequately measured by compensation paid.
 
-**MCQ 43. Dangerous work passes through several contractors. What is the key concern?**
+### Mains application — Prevention before compensation
 
-A. Each layer should erase upstream responsibility.
-B. Workers alone should monitor compliance.
-C. Accountability must remain traceable across the chain.
-D. The hazard becomes seasonal unemployment.
+**Prompt:** *Recommend an occupational-safety response to a preventable factory accident using the hierarchy of controls. (10 marks, 150 words)*
 
-**Answer: C**
-**Option explanations:**
-- **A:** That encourages risk externalisation.
-- **B:** Workers cannot replace legal duties.
-- **C:** Outsourcing must not dissolve safety obligations.
-- **D:** Contracting does not change the hazard category.
+**Model:** Begin upstream: eliminate the hazard where feasible, substitute a safer input or process, install engineering controls, adopt safe systems and training, and use PPE as the final layer. Then assign responsibility across principal employer, contractor and worker-management systems; inspect registration, risk assessment, maintenance, reporting, medical response and grievance channels. Migrant or contract status must not erase protection, and thresholds cannot be treated as proof that smaller workplaces are risk-free. Compensation is necessary after harm but is not a safety strategy. The evaluation metric is reduced exposure and recurrence, supported by credible inspection and worker voice.
 
-**MCQ 44. Why is PPE-only compliance inadequate?**
+**Unique evaluation rubric (10 marks):** hierarchy of controls 4 · responsibility chain 2 · vulnerable-worker/threshold caveat 2 · prevention metric 2.
 
-A. PPE always increases the hazard.
-B. Workers never need PPE.
-C. Engineering controls are prohibited.
-D. Upstream controls act earlier and more reliably.
-
-**Answer: D**
-**Option explanations:**
-- **A:** It generally leaves the source unchanged.
-- **B:** PPE can be necessary as a final barrier.
-- **C:** They are central preventive measures.
-- **D:** Elimination and engineering reduce reliance on individual behaviour.
-
-### Mains micro-model — 150-word OSHWC note
-
-**Prompt:** *Analyse oshwc code 2020: safety, migrants, contract labour and inspection as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Occupational safety must move from compensation to prevention. The control hierarchy first eliminates or substitutes hazards, then uses engineering and administrative controls, leaving PPE last. In fragmented workplaces, duties must remain traceable across principal employers, contractors and supervisors. Thresholds, migrant status and small establishments can create practical gaps, while digital inspection without field competence may miss dangerous processes. Women’s night work requires consent, transport, security and grievance mechanisms. Effective policy measures hazards removed, corrective orders enforced and injuries prevented—not registrations or post-accident payments alone.
+**Model ceiling — 10 marks/150 words:** cap at 5/10 if the response begins and ends with compensation, PPE or post-accident reporting.
 
 **Bridge forward:** Safe and protected work still requires capabilities matching vacancies. Lesson 15 moves from labour standards to the skill system and asks why certification may fail to produce retention or wage gain.
 
 
 ## Lesson 15 — Skills mismatch, PMKVY 4.0, NSQF, ITIs and Sector Skill Councils
 
-**Progress: 15 / 18 | Stage: Advanced | Subtopic: Skills mismatch, PMKVY 4.0, NSQF, ITIs and Sector Skill Councils**
+Progress: 15 / 22 | Stage: Core | Subtopic: Skills mismatch, PMKVY 4.0, NSQF, ITIs and Sector Skill Councils
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "PMKVY 4.0 NSQF ITI Sector Skill Councils official outcomes 2026"  
-**CA found:** PMKVY 4.0 guidelines dated 22 September 2023 (official PDF posted February 2024) cover STT, Special Projects and RPL with future-skills orientation; official pages retrieved 24 September 2026. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "PMKVY 4.0 NSQF ITI Sector Skill Councils official outcomes 2026"
+**CA found:** PMKVY 4.0 guidelines dated 22 September 2023 (official PDF posted February 2024) cover STT, Special Projects and RPL with future-skills orientation; official pages retrieved 3 October 2026. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -1879,67 +1437,35 @@ Suppose placements are high in the first month but collapse by the sixth. Severa
 10. Employer skill-gap claims need vacancy and wage evidence.
 11. Counterfactual evaluation tests whether gains justify programme cost.
 
-### Skills outcome audit
+### Concept check
 
-**MCQ 45. A graduate trained in accounting faces only machine-maintenance vacancies locally. This is primarily:**
+**Question:** Certificates rise but retention and real wages do not. Diagnose.
 
-A. Horizontal and possibly geographical mismatch.
-B. Only cyclical unemployment.
-C. A correct occupational match.
-D. Old-age dependency.
+**Model answer:** Demand alignment or post-training conversion failed; track vacancies, credible assessment, placement, retention, wages and employer satisfaction.
 
-**Answer: A**
-**Option explanations:**
-- **A:** Field differs, and location may compound it.
-- **B:** No broad demand collapse is specified.
-- **C:** Training and vacancy fields differ.
-- **D:** Age structure is unrelated.
+**Misconception to avoid:** Certificates can be counted as durable jobs.
 
-**MCQ 46. A programme certifies 1,000, places 700 and retains 350 after six months. Cohort retention is:**
+### Mains application — From training seats to labour outcomes
 
-A. 70%.
-B. 35%.
-C. 50% by definition.
-D. Not computable.
+**Prompt:** *Analyse why skill certification may fail to improve employment and wages, and construct an outcome ladder for PMKVY-type programmes. (15 marks, 250 words)*
 
-**Answer: B**
-**Option explanations:**
-- **A:** That is initial placement.
-- **B:** 350 divided by the original 1,000 cohort.
-- **C:** That is retention among placements, not cohort retention.
-- **D:** Numerator and denominator are available.
+**Model:** Certification can fail when occupational standards lag employer demand, foundational skills are weak, trainers/equipment are inadequate, assessment lacks credibility, vacancies are distant or labour demand itself is insufficient. PMKVY 4.0 includes short-term training, special projects and recognition of prior learning, but these are delivery routes, not guaranteed jobs. Evaluation should follow one cohort through enrolment, completion, assessment, certification, placement, six- and twelve-month retention, real-wage progression and employer satisfaction, with every rate using a disclosed denominator. Sector Skill Councils and ITIs should update standards through vacancy and technology evidence; career services and mobility support should connect trainees to work. The proper conclusion is demand-linked capability formation: skills improve matching and productivity, but cannot manufacture vacancies independently.
 
-**MCQ 47. Which indicator best tests labour-market outcomes?**
+**Unique evaluation rubric (15 marks):** failure diagnosis 4 · named programme architecture 2 · complete outcome ladder 4 · demand/employer linkage 3 · qualified conclusion 2.
 
-A. Training-centre inaugurations.
-B. Enrolments without completion.
-C. Job-relevant retention and real-wage progression.
-D. Curriculum page count.
-
-**Answer: C**
-**Option explanations:**
-- **A:** Openings do not establish trainee outcomes.
-- **B:** Entry is only an input.
-- **C:** Durability and earnings test effectiveness.
-- **D:** Document volume does not measure competence.
-
-### Mains micro-model — 150-word skills note
-
-**Prompt:** *Analyse skills mismatch, pmkvy 4.0, nsqf, itis and sector skill councils as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Skill mismatch may concern level, field, geography or obsolescence. NSQF levels, ITIs, Sector Skill Councils and PMKVY 4.0 can align standards and delivery, but certification remains intermediate. A cohort of 1,000 certifications, 700 placements and 350 six-month retentions has 70% initial placement but only 35% cohort retention; relevance and wage gain remain unknown. Evaluation should follow employer demand, curriculum, trainers, assessment, placement, retention and progression. Transferable foundational skills should accompany occupation-specific training so immediate employer relevance does not produce rapid obsolescence.
+**Model ceiling — 15 marks/250 words:** cap at 7/15 if certificates, trainees or placements are reported as durable employment without retention and wage evidence.
 
 **Bridge forward:** Classroom alignment does not solve the experience barrier. Lesson 16 follows the apprenticeship funnel from matching and contract to competence, transition and retention.
 
 
 ## Lesson 16 — Apprenticeships, NAPS, MSMEs, RPL and evaluation
 
-**Progress: 16 / 18 | Stage: Advanced | Subtopic: Apprenticeships, NAPS, MSMEs, RPL and evaluation**
+Progress: 16 / 22 | Stage: Core | Subtopic: Apprenticeships, NAPS, MSMEs, RPL and evaluation
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "NAPS apprenticeship MSME recognition prior learning official India 2026"  
-**CA found:** NAPS official scheme page retrieved 24 September 2026: apprenticeship is work-integrated training; registrations, contracts or seats are not employment outcomes. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "NAPS apprenticeship MSME recognition prior learning official India 2026"
+**CA found:** NAPS official scheme page retrieved 3 October 2026: apprenticeship is work-integrated training; registrations, contracts or seats are not employment outcomes. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -2007,67 +1533,35 @@ The apprenticeship contract should specify the occupation, duration, learning pl
 10. Low completion can reveal matching, mentoring, safety or stipend problems.
 11. RPL may lead to bridge training rather than automatic full qualification.
 
-### Apprenticeship audit
+### Concept check
 
-**MCQ 48. A scheme reports 500 apprenticeship contracts as “500 jobs created”. What is the best correction?**
+**Question:** What distinguishes apprenticeship from subsidised cheap labour?
 
-A. Count only employer registrations instead.
-B. Treat every signed contract as permanent employment.
-C. Subtract all completions because training has no productive value.
-D. Report starts, completion, certification, transition and retention separately.
+**Model answer:** A registered contract, structured learning, supervision, assessment and competency gain; also test retention, wages and displacement.
 
-**Answer: D**
-**Option explanations:**
-- **A:** Another input does not become an employment outcome.
-- **B:** Apprenticeship is training with no automatic permanent tenure.
-- **C:** Completion is meaningful but distinct from job transition.
-- **D:** Each conversion answers a different outcome question.
+**Misconception to avoid:** Any stipend-supported workplace engagement is high-quality apprenticeship.
 
-**MCQ 49. Which design best helps MSMEs participate without diluting training quality?**
+### Mains application — Apprenticeship as learning contract
 
-A. Shared cluster facilities and mentors with credible assessment.
-B. Remove all supervision requirements.
-C. Count vacancies as completed apprenticeships.
-D. Replace workplace learning with a registration form.
+**Prompt:** *Examine how apprenticeship can solve the experience barrier without becoming a rotating source of cheap labour. (10 marks, 150 words)*
 
-**Answer: A**
-**Option explanations:**
-- **A:** Shared capacity lowers fixed costs while retaining standards.
-- **B:** That invites substitution and weak learning.
-- **C:** Vacancies precede matching and training.
-- **D:** Administrative entry cannot create competence.
+**Model:** A genuine apprenticeship is a learning contract: registered occupation and duration, structured instruction, supervised tasks, progression and credible assessment. Productive work is legitimate when competence grows; repetitive low-skill substitution is not. NAPS support or contract counts are inputs, so evaluation must follow starts, completion, certification, transition, one-year retention and wages. MSME clusters can pool mentors and basic training; RPL instead validates skills already acquired and may identify bridge-training needs. Safeguards include training plans, worker feedback, safety, assessor independence and checks on displacement of regular vacancies. Success is demonstrated competence and durable mobility, not the number of subsidised starts.
 
-**MCQ 50. Recognition of Prior Learning is most credible when it:**
+**Unique evaluation rubric (10 marks):** learning-contract definition 2 · conversion funnel 3 · MSME/RPL distinction 2 · substitution safeguards 2 · outcome conclusion 1.
 
-A. Awards certificates solely for years of age.
-B. Assesses demonstrated existing competence against standards.
-C. Guarantees immediate permanent placement.
-D. Excludes experienced informal workers.
-
-**Answer: B**
-**Option explanations:**
-- **A:** Age is not evidence of occupational competence.
-- **B:** RPL validates prior learning through evidence and assessment.
-- **C:** Certification cannot guarantee labour demand.
-- **D:** Those workers are a central RPL constituency.
-
-### Mains micro-model — 150-word apprenticeship note
-
-**Prompt:** *Analyse apprenticeships, naps, msmes, rpl and evaluation as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** Apprenticeship solves the experience barrier through structured instruction and supervised work, but value lies in conversion. For 500 starts, 420 completions, 300 certifications, 210 job transitions and 150 one-year retentions, each stage needs its own denominator; calling 500 jobs is false. MSMEs may need shared cluster facilities, mentors and simplified support, while RPL needs credible assessment. Safeguards against substitution include training plans, supervision and outcome tracking. NAPS should be evaluated through competence, retention, real-wage progression and employer repeat participation.
+**Model ceiling — 10 marks/150 words:** cap at 5/10 if apprenticeship contracts or stipends are equated with jobs and no learning or displacement test is supplied.
 
 **Bridge forward:** Apprenticeship operates inside a larger age-structure opportunity. Lesson 17 asks when a rising working-age share becomes a dividend rather than a queue of trained but underused youth.
 
 
 ## Lesson 17 — Demographic dividend, dependency ratios and asynchronous state windows
 
-**Progress: 17 / 18 | Stage: Advanced | Subtopic: Demographic dividend, dependency ratios and asynchronous state windows**
+Progress: 17 / 22 | Stage: Core | Subtopic: Demographic dividend, dependency ratios and asynchronous state windows
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Economic Survey 2025-26 demographic dividend ageing states India employment skills"  
-**CA found:** Economic Survey 2025-26 was published 29 January 2026; demographic conditions are state-asynchronous and no single all-India window should be treated as uniform. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Economic Survey 2025-26 demographic dividend ageing states India employment skills"
+**CA found:** Economic Survey 2025-26 was published 29 January 2026; demographic conditions are state-asynchronous and no single all-India window should be treated as uniform. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -2132,81 +1626,35 @@ Youth dependency and old-age dependency can move in opposite directions. Falling
 10. Migration can connect asynchronous state labour markets.
 11. A working-age count differs from effective labour supply.
 
-### Dependency calculation set
+### Concept check
 
-**MCQ 51. Young dependants=30 million, old dependants=10 million and working-age population=60 million. Total dependency ratio is approximately:**
+**Question:** Why is one demographic policy inadequate for states with opposite age structures?
 
-A. 40 per 100.
-B. 50 per 100.
-C. 66.7 per 100 working-age persons.
-D. 150 per 100.
+**Model answer:** Younger states need learning, jobs and participation; ageing states need productivity, care and migration integration.
 
-**Answer: C**
-**Option explanations:**
-- **A:** That divides dependants by total population, not working age.
-- **B:** The numerator or denominator is understated.
-- **C:** 40 divided by 60 times 100 equals 66.7.
-- **D:** This inverts the ratio.
+**Misconception to avoid:** India has one synchronous demographic window.
 
-**MCQ 52. A state’s working-age share rises, but jobs and female participation stagnate. What follows?**
+### Mains application — Dividend as a conversion chain
 
-A. A dividend is automatic because age structure is sufficient.
-B. Old-age dependency immediately becomes zero.
-C. Savings must rise regardless of employment.
-D. The window may become unemployment pressure rather than a dividend.
+**Prompt:** *Discuss why India's demographic dividend is time-bound, state-asynchronous and conditional on employment and care institutions. (20 marks, 250 words)*
 
-**Answer: D**
-**Option explanations:**
-- **A:** Age structure creates potential, not income.
-- **B:** Older dependants still exist.
-- **C:** Incomes and institutions shape savings.
-- **D:** Conversion through work and participation has failed.
+**Model:** A demographic dividend is the potential growth gain from a favourable working-age share, not a reward for being young. The conversion chain runs from health and nutrition to foundational learning, skills and apprenticeships, women's participation, productive labour demand, productivity, real wages, savings and fiscal capacity. Failure creates educated unemployment now and ageing pressure later. State clocks differ: younger states need schooling-to-work systems, jobs and planned cities; ageing states need productivity, healthy ageing, pensions and care. Migration can match the two only with housing, skill recognition, portable protection and non-discrimination. Evaluation should separate youth and old-age dependency ratios and add LFPR, WPR, paid hours, youth unemployment, retention, real wages and care time. India therefore needs a national rights floor with state-specific sequencing.
 
-**MCQ 53. Why should states have differentiated demographic strategies?**
+**Unique evaluation rubric (20 marks):** definition and time-bound logic 3 · conversion chain 5 · state asymmetry 4 · migration/gender/care 4 · evaluation and conclusion 4.
 
-A. They enter ageing and working-age windows at different times.
-B. The dependency-ratio formula changes by state constitution.
-C. Migration never connects state labour markets.
-D. Health and education are irrelevant to demographics.
-
-**Answer: A**
-**Option explanations:**
-- **A:** Asynchronous transitions create different priorities.
-- **B:** The arithmetic convention need not change.
-- **C:** Migration is an important adjustment channel.
-- **D:** Human capital determines dividend conversion.
-
-**MCQ 54. Which package best converts a working-age bulge into a dividend?**
-
-A. Only higher population growth.
-B. Health, learning, skills, women’s participation and productive jobs.
-C. Only pension expansion for current elderly people.
-D. Only a lower unemployment denominator.
-
-**Answer: B**
-**Option explanations:**
-- **A:** More people without capabilities or jobs can worsen pressure.
-- **B:** The package links capability, access and demand.
-- **C:** Important for ageing, but insufficient for youth conversion.
-- **D:** Statistical reclassification creates no productive work.
-
-### Mains micro-model — 150-word demographic note
-
-**Prompt:** *Analyse demographic dividend, dependency ratios and asynchronous state windows as an employment-policy issue. (10 marks, 150 words)*
-
-**Model:** A lower dependency ratio is a window, not a dividend. Potential labour supply and savings expand only if health, foundational learning, skills, women’s participation and productive demand convert people into capable workers. The same youth bulge can generate educated unemployment; later ageing raises pension, health and care burdens. States occupy different transition points, so younger states need schools, jobs and urban capacity while older states need productivity, migration and elder-care systems. Policy must track youth and old-age dependency separately and prepare before the window closes.
+**Model ceiling — 20 marks/250 words:** cap at 11/20 if the answer treats youth share as an automatic dividend or omits state variation, women's work, migration and ageing.
 
 **Bridge forward:** The demographic window ties together health, learning, women’s work, migration, demand and protection. Lesson 18 converts these dependencies into one accountable dashboard.
 
 
 ## Lesson 18 — Integrated employment strategy and policy-evaluation dashboard
 
-**Progress: 18 / 18 | Stage: Advanced | Subtopic: Integrated employment strategy and policy-evaluation dashboard**
+Progress: 18 / 22 | Stage: Core | Subtopic: Integrated employment strategy and policy-evaluation dashboard
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━  
-**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.  
-**CA search:** "Economic Survey 2025-26 employment strategy labour codes skills care migration India"  
-**CA found:** All mutable anchors in this synthesis were checked against official sources with retrieval cutoff 24 September 2026; stable mechanisms require no separate current claim. **Search/retrieval cutoff: 24 September 2026.**  
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+**Book context:** OCR-searchable *Indian Economy* by Ramesh Singh and *Economic Survey 2025-26* queried for this concept.
+**CA search:** "Economic Survey 2025-26 employment strategy labour codes skills care migration India"
+**CA found:** All mutable anchors in this synthesis were checked against official sources with retrieval cutoff 3 October 2026; stable mechanisms require no separate current claim. **Search/retrieval cutoff: 3 October 2026.**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The learner’s problem
@@ -2268,43 +1716,209 @@ A dashboard should be designed around decisions, not the availability of conveni
 10. Gaming is reduced through net jobs, cohort rates and real wages.
 11. Every failed conversion needs a responsible institution and timeline.
 
-### Policy-dashboard challenge
+### Concept check
 
-**MCQ 55. A state funds training, but retention and wages do not improve. Which dashboard diagnosis is strongest?**
+**Question:** Design a minimum outcome dashboard.
 
-A. Training expenditure alone proves success.
-B. The labour force should be redefined.
-C. The skills-to-match conversion failed; inspect relevance, placement quality and demand.
-D. All labour regulation should be removed.
+**Model answer:** Track net jobs, paid hours, real earnings, distribution, placement-retention-wages, protection use, legal claims and hazard prevention, each with denominator and baseline.
 
-**Answer: C**
-**Option explanations:**
-- **A:** Input spending is not an employment outcome.
-- **B:** Changing definitions does not repair weak conversion.
-- **C:** The dashboard locates failure between training and durable work.
-- **D:** No evidence links the outcome to that remedy.
+**Misconception to avoid:** Registrations and notifications are sufficient outcomes.
 
-**MCQ 56. Which indicator pair best tests whether productivity gains were shared?**
+### Mains application — Integrated employment mission
 
-A. Enterprise registrations and population growth.
-B. Training seats and examination pass rate.
-C. Gross output and number of notifications.
-D. Labour productivity growth and real-wage growth.
+**Prompt:** *Design an accountable employment strategy that integrates demand, skills, productivity, protection, care and mobility. (20 marks, 250 words)*
 
-**Answer: D**
-**Option explanations:**
-- **A:** Neither measures distribution of productivity gains.
-- **B:** These are capability inputs.
-- **C:** Notifications do not show worker gains.
-- **D:** The pair compares output gains with worker purchasing power.
+**Model:** An integrated strategy should begin with the binding failure, not a scheme catalogue. **Demand:** public and private investment, labour-intensive manufacturing/services, MSME scaling and local care jobs must create net vacancies. **Skills:** employer-linked standards, apprenticeships and career information must convert training into retention and wages. **Productivity:** technology, infrastructure and management should raise output while real earnings share gains. **Protection:** Labour-Code implementation, portable social security, safety and grievance systems must convert recognition into remedy. **Care and mobility:** childcare, safe transport, housing and migrant portability expand feasible participation. Accountability requires a results chain: net jobs and paid hours; LFPR/WPR/UR by group; placement-retention-wage gains; real wages/productivity; benefit use; dispute time; and hazards prevented. Each indicator needs baseline, denominator, frequency and responsible institution. Integration succeeds when coordination preserves—not blurs—accountability.
 
-### Mains micro-model — 150-word integrated strategy note
+**Unique evaluation rubric (20 marks):** binding-failure diagnosis 3 · demand/skills/productivity architecture 5 · protection/care/mobility 5 · measurable accountability 5 · prioritised verdict 2.
 
-**Prompt:** *Analyse integrated employment strategy and policy-evaluation dashboard as an employment-policy issue. (10 marks, 150 words)*
+**Model ceiling — 20 marks/250 words:** cap at 10/20 if the answer is a list of schemes without a results chain, denominators, institutional responsibility and distributional cuts.
 
-**Model:** An integrated strategy should be governed by conversion metrics. Investment must translate into net jobs; training into relevant placement, retention and real-wage gain; childcare, transport and portability into participation and sustained hours; productivity into shared earnings; and law into resolved claims, used benefits and prevented hazards. Each indicator needs a denominator, baseline, frequency and distributional cut. This dashboard shows whether failure lies in demand, matching, access, transmission or enforcement. The objective is resilient employment in which growth creates productive work and institutions spread opportunities, gains and risks fairly.
+**Bridge forward:** The complete Core is finished. Optional Advanced depth follows as non-essential enrichment.
 
-**Bridge forward:** The lesson sequence is complete. The final synthesis now tests the framework through verified PYQ demands, cumulative MCQs, Mains models, remediation maps and consolidated notes.
+## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+The following lessons are distinct enrichment. They neither interrupt nor repair the complete Core above.
+
+## Lesson 19 — Transition matrices, flow decomposition and labour-market churn
+
+Progress: 19 / 22 | Stage: Optional Advanced | Subtopic: Transition matrices, flow decomposition and labour-market churn
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — Advanced owner plus OCR-searchable Economic Survey 2025-26.
+CA search: "PLFS labour market transitions panel employment unemployment India official"
+CA found: MoSPI's redesigned PLFS from January 2025 provides higher-frequency monthly and quarterly CWS snapshots; repeated cross-sections are not automatically individual panels. Retrieval: 3 October 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Stock-flow visual
+
+```text
+                 NEXT PERIOD
+CURRENT       Employed  Unemployed  Outside LF
+Employed         EE         EU          EN
+Unemployed       UE         UU          UN
+Outside LF       NE         NU          NN
+
+Same UR fall: UE job entry OR UN discouraged exit
+```
+
+Stocks report how many people occupy each labour state; flows report movement between states. Gross hiring and separation may both be high while net employment barely changes. A fall in UR produced by `UE` is welfare-improving job entry; one produced by `UN` can reflect discouraged exit. Repeated cross-sections estimate population stocks, while individual transition probabilities require a genuine panel or valid matched design.
+
+Use monthly CWS for recent direction, annual usual status for durable attachment and CDS for person-day intensity. Never splice unlike age groups, geographies or status concepts. Flow analysis enriches the Core dashboard; it does not license claims about individual movement from aggregate changes alone.
+
+### Concept check
+
+**Question:** UR and WPR both fall. Give one plausible transition and the evidence needed before asserting it.
+
+**Model answer:** Movement from unemployment to outside the labour force can lower both rates without creating work. Check LFPR and reasons for non-participation; identify individual movement only where a valid longitudinal design exists.
+
+**Misconception to avoid:** Changes in aggregate stocks prove the path followed by the same people.
+
+### Mains micro-model — flow-aware diagnosis
+
+**Prompt:** Explain why labour-market flows improve on stock indicators in diagnosing employment stress. (10 marks, 150 words)
+
+**Model:** LFPR, WPR and UR show the size of labour states at a date; flows show hiring, separation, search entry, discouraged exit and re-entry. Therefore the same fall in UR may reflect unemployed people obtaining work or ceasing search. A flow-aware dashboard combines stocks with vacancies, separations, duration, hours and reasons for non-participation, while disclosing whether the evidence is longitudinal or repeated cross-section. This prevents false attribution and helps distinguish demand support, matching reform and income protection.
+
+**Unique evaluation rubric (10 marks):** stock-flow distinction (3) · transition example (3) · data-design caution (2) · policy use (2).
+
+**Model ceiling:** Aggregate changes presented as observed individual transitions cannot receive top-band credit.
+
+**Bridge forward:** Measurement has stages; legal implementation does too.
+
+## Lesson 20 — Labour-Code federalism, delegated rules and enforcement metrics
+
+Progress: 20 / 22 | Stage: Optional Advanced | Subtopic: Labour-Code federalism, delegated rules and enforcement metrics
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — Advanced owner and canonical Labour-Code material.
+CA search: "site:labour.gov.in Labour Codes Central Rules May 2026 state rules implementation"
+CA found: official Ministry material records commencement from 21 November 2025 and final Central Rules in May 2026; direct Ministry pages returned HTTP 403 during retrieval, so no current state count is asserted. Retrieval: 3 October 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Federal implementation rail
+
+```text
+CODE → COMMENCEMENT → CENTRAL RULES
+                      ↓ Concurrent List
+                STATE/UT RULES + MACHINERY
+                      ↓
+ inspectors/facilitators + boards + portals + adjudication
+                      ↓
+ wages paid | claims resolved | benefits used | hazards prevented
+```
+
+Codification can harmonise definitions, registration and compliance, but delegated Rules determine procedures, records and operational detail. Federal variation can create differences in guidance, staffing, inspection and remedy. Digital inspection may improve traceability and risk targeting, but technical competence, worker access and appeal remain necessary.
+
+For every legal claim ask: which Code and provision; which appropriate government; which commencement/rule stage; which threshold; and whether the evidence concerns recognition, coverage, compliance or remedy. Draft rules, final notifications and operational systems are not equivalent. If official material cannot establish jurisdiction-specific status, state the uncertainty.
+
+### Concept check
+
+**Question:** Why is a state-wise implementation count unsafe without notification-level verification?
+
+**Model answer:** Labour is concurrent, and Codes, Central Rules, state rules, administrative readiness and enforcement are separate. Each jurisdiction and date requires official verification.
+
+**Misconception to avoid:** A secondary tracker can be converted into an official legal fact.
+
+### Mains micro-model — federal implementation
+
+**Prompt:** Analyse why Labour-Code effectiveness depends on cooperative federalism and enforcement capacity. (15 marks, 250 words)
+
+**Model:** The Codes consolidate central statutes, but protection travels through commencement, delegated rules, appropriate-government decisions, inspections, adjudication and worker access. Labour's Concurrent List position makes Centre-state coordination indispensable. Common definitions and interoperable systems can lower fragmentation; uneven rules, staffing and grievance capacity can still produce territorial gaps. Outcomes should therefore be reported through code-wise legal status, wage claims, dispute duration, benefit use and accident prevention. Cooperative templates, funded capacity, accessible appeals and public dashboards can convert legal simplicity into enforceable protection.
+
+**Unique evaluation rubric (15 marks):** federal frame (3) · legal-stage precision (4) · enforcement metrics (3) · trade-offs (3) · qualified reform (2).
+
+**Model ceiling:** A generic merits list without the commencement-rules-enforcement chain cannot exceed the middle band.
+
+**Bridge forward:** Enforcement becomes harder when a platform obscures control and risk.
+
+## Lesson 21 — Platform-worker classification, algorithmic management and contribution design
+
+Progress: 21 / 22 | Stage: Optional Advanced | Subtopic: Platform-worker classification, algorithmic management and contribution design
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — Advanced owner plus Topic 24 platform-market cross-owner.
+CA search: "India gig platform worker social security aggregator e-Shram 2026 official"
+CA found: official 2026 material continues e-Shram/aggregator and social-security policy development; registration is not converted into beneficiary receipt. Retrieval: 3 October 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Classification-financing matrix
+
+| Test | Question | Consequence |
+|---|---|---|
+| Control | Who fixes price, access, ranking and discipline? | transparency, due process, voice |
+| Dependence | Is income concentrated on one platform? | bargaining and transition risk |
+| Risk | Who bears idle time, assets, accident and volatility? | insurance and contributions |
+| Multi-homing | Can work move across platforms? | portable worker-linked account |
+| Data | Can ratings be inspected and contested? | explainability and appeal |
+
+A worker may use several platforms in one month. An employer-only payroll model may not fit, while a worker-only model may be regressive. A portable design can combine aggregator contributions tied to a legally specified base, public subsidy for low-income workers, worker-linked accounts and auditable benefit rules. Legal labels should not erase economic control, but one binary classification need not determine every protection.
+
+Algorithmic governance requires notice of material rules, intelligible reasons for adverse action, human appeal, data access and collective voice. These safeguards can preserve genuine scheduling flexibility while reducing arbitrary livelihood risk.
+
+### Concept check
+
+**Question:** Why should gig-worker protection be portable across platforms?
+
+**Model answer:** Multi-homing and short engagements fragment the relationship. A worker-linked account can aggregate contributions and preserve continuity if identity, records, eligibility, claims and grievance systems interoperate.
+
+**Misconception to avoid:** Portal registration proves adequate finance and successful benefit receipt.
+
+### Mains micro-model — algorithmic labour governance
+
+**Prompt:** Platform work requires more than extending old labels to new technology. Analyse. (15 marks, 250 words)
+
+**Model:** Platform work combines flexible entry with algorithmic price-setting, allocation, surveillance, ratings and deactivation. Regulation should therefore ask who controls work, who bears risk and how dependent the worker is. Social protection must be portable, transparently financed and evaluated through claims paid. Labour governance should add notice, reasons, human appeal, data access and collective voice while preserving useful innovation and flexibility. Classification remains important, but a modular floor of safety, accident cover, maternity/old-age protection and due process can prevent gaps while status disputes continue.
+
+**Unique evaluation rubric (15 marks):** control test (4) · contribution design (4) · algorithmic due process (3) · innovation-worker balance (2) · qualification (2).
+
+**Model ceiling:** A technology narrative omitting control, finance and enforceable remedy cannot enter the top band.
+
+**Bridge forward:** Portable platform protection is one case of geographically mismatched labour supply and care demand.
+
+## Lesson 22 — Demographic accounting, migration matching and state-specific policy clocks
+
+Progress: 22 / 22 | Stage: Optional Advanced | Subtopic: Demographic accounting, migration matching and state-specific policy clocks
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — Advanced owner, demographic context and migration cross-owner.
+CA search: "India demographic transition state ageing migration labour supply 2026 official"
+CA found: the verified 2026 GS-I demographic-transition demand reinforces state variation, ageing, migration, gender and care; no projection is detached from its own vintage. Retrieval: 3 October 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Two clocks and one bridge
+
+```text
+YOUNGER STATES                         AGEING STATES
+school-to-work surge                   slower labour-force growth
+jobs + skills + cities                 productivity + healthy ageing + care
+women's participation                  replacement labour + later-life work
+          \                            /
+           \---- rights-based migration ----/
+             housing | portability | recognition | non-discrimination
+```
+
+Youth and old-age dependency ratios can move in opposite directions. A lower total ratio is only an accounting opportunity; effective dependency also depends on employment, earnings, health and unpaid care. Migration can connect younger labour-surplus regions with ageing labour-demand regions, but only when skills are recognised and housing, services and benefits are portable. Female participation changes the effective support ratio even when age structure is fixed.
+
+### Concept check
+
+**Question:** How can migration enlarge the dividend without replacing origin-region development?
+
+**Model answer:** Migration matches labour with jobs and can raise remittances and productivity, but it must be voluntary and rights-based. Origins still need human capital and local opportunity; destinations need housing, portability, recognition and non-discrimination.
+
+**Misconception to avoid:** Biological age structure fixes the effective worker-to-dependent ratio.
+
+### Mains micro-model — asynchronous transition
+
+**Prompt:** India's demographic transition is asynchronous across states. Explain the employment and social-policy implications. (20 marks, 250 words)
+
+**Model:** Younger states must convert school cohorts into healthy, skilled workers through learning, apprenticeships, labour-intensive demand, women's participation and planned urbanisation. Ageing states need productivity growth, healthy ageing, pensions, eldercare and migrant integration. Migration can connect the two, but housing, portability, skill recognition and rights determine whether matching is developmental. Evaluation should combine youth and old-age dependency with LFPR, WPR, paid hours, real earnings, care time and fiscal capacity. India needs a national portability floor with state-specific sequencing, not one demographic slogan.
+
+**Unique evaluation rubric (20 marks):** demographic accounting (4) · state differentiation (4) · migration bridge (4) · gender/care/fiscal implications (4) · integrated strategy (4).
+
+**Model ceiling:** A national-average answer with no state clocks, migration bridge or care transition cannot exceed the middle band.
+
+**Bridge forward:** Optional depth is complete; the final arc consolidates PYQs, retrieval, models, remediation, maps, notes, coverage and sources.
 
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
@@ -2333,122 +1947,37 @@ The routing ledgers were checked across Mains GS-I/GS-II, GS-III/GS-IV and Preli
 **Ledger control through 2026:** `_PYQ-GS3-2026.md` contains no directly owned Topic 22 GS-III question. The 2026 Prelims item on international labour conventions is routed to International Relations; it is not silently re-owned here, and no objective key is inferred.
 
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-These questions continue the document-wide answer sequence without resetting it.
+## Check 1 — Measurement
+**Question:** UR falls while WPR also falls. What may have happened?
+**Model answer:** Labour-force exit can lower UR without job creation; inspect LFPR and reasons for non-participation.
+**Misconception to avoid:** Every UR fall represents job entry.
 
-**MCQ 57. A platform worker can choose login time, but the platform fixes prices, allocates orders, ranks performance and deactivates accounts. Which policy conclusion is best?**
+## Check 2 — Law
+**Question:** Repair: “Central Rules make Labour-Code enforcement uniform.”
+**Model answer:** Separate commencement, Central Rules, state rules/readiness, compliance and remedy; verify each jurisdiction and date.
+**Misconception to avoid:** Notification and realised enforcement are synonyms.
 
-A. Substantive control and worker-borne risk require transparency, appeal, voice and portable protection.
-B. Flexible hours prove complete independence.
-C. The worker must be counted as unemployed.
-D. Only consumer-protection law can be relevant.
+## Check 3 — Formalisation
+**Question:** Is digital wage payment from a registered firm complete formalisation?
+**Model answer:** No. Registration and digital payment describe enterprise visibility and transaction traceability; the job may remain informal or unorganised without documented terms and effective protection. An organised-sector establishment can contain informal employment.
+**Misconception to avoid:** Organised sector, organised employment and formal employment are interchangeable labels.
 
-**Answer: A**
-**Option explanations:**
-- **A:** The response targets both algorithmic power and livelihood risk while retaining useful scheduling flexibility.
-- **B:** Schedule choice does not neutralise price, allocation and deactivation control.
-- **C:** The person is working; the dispute concerns status and protection.
-- **D:** Worker-facing control and risk create labour and social-security issues beyond consumer law.
+## Check 4 — Skills
+**Question:** What should replace certification-only evaluation?
+**Model answer:** Placement, retention, wage progression, productivity and employer-demand alignment.
+**Misconception to avoid:** Training supply creates labour demand.
 
-**MCQ 58. Consider the sequence: Code enacted → commencement notified → Central Rules finalised → some state systems remain uneven. Which statement follows?**
+## Check 5 — Care
+**Question:** How should Time Use Survey 2024 enter a female-LFPR answer?
+**Model answer:** Use the unequal unpaid domestic and caregiving burden to connect childcare, safety, mobility, paid status and agency.
+**Misconception to avoid:** Unpaid care is leisure.
 
-A. Every workplace right is already uniformly enforced nationwide.
-B. Implementation should be reported stage-wise rather than as a binary “passed/not passed”.
-C. Central Rules make state institutions unnecessary.
-D. No provision can operate after commencement.
-
-**Answer: B**
-**Option explanations:**
-- **A:** Uneven state and administrative readiness prevents that inference.
-- **B:** The legal-status ladder distinguishes operative text, rules, systems and remedies.
-- **C:** Concurrent implementation can still require state rules and capacity.
-- **D:** Commencement is an enabling stage, not a prohibition.
-
-**MCQ 59. A skill programme certifies 20,000 trainees, places 12,000, retains 7,000 after six months and records real-wage gains for 4,000. Which is the strongest outcome statement?**
-
-A. The programme created 20,000 durable jobs.
-B. The placement rate is 35%.
-C. Cohort retention is 35%; only 20% of the cohort has recorded real-wage gains.
-D. All 12,000 placements demonstrate productivity growth.
-
-**Answer: C**
-**Option explanations:**
-- **A:** Certification is not job creation.
-- **B:** 12,000 out of 20,000 is 60%.
-- **C:** 7,000/20,000 and 4,000/20,000 preserve the correct denominators.
-- **D:** Placement alone does not establish productivity or wage gain.
-
-**MCQ 60. State X has a younger age structure but weak schooling and job creation; State Y is ageing with higher productivity but rising care needs. Which strategy is appropriate?**
-
-A. Use one uniform youth-employment package for both states.
-B. Focus only on lowering fertility in State X.
-C. Ignore migration because age structures are fixed.
-D. Build education and jobs in X, while strengthening productivity, migration and care systems in Y.
-
-**Answer: D**
-**Option explanations:**
-- **A:** Different transition stages require different priorities.
-- **B:** Human capital and jobs are the immediate conversion gaps.
-- **C:** Migration can connect labour-surplus and ageing regions.
-- **D:** The answer matches policy to asynchronous demographic windows.
-
-**MCQ 61. Which dashboard combination most credibly demonstrates inclusive employment improvement?**
-
-A. WPR and paid hours rise, real wages improve, protection expands, and gains reach women and youth.
-B. Employment registrations rise while retention is unknown.
-C. UR falls solely because discouraged workers stop seeking.
-D. Output rises in a capital-intensive enclave with stagnant wages.
-
-**Answer: A**
-**Option explanations:**
-- **A:** The set covers quantity, utilisation, quality and distribution.
-- **B:** Administrative entry alone is incomplete.
-- **C:** The apparent improvement reflects labour-force exit.
-- **D:** Growth without broad job or wage transmission is not inclusive improvement.
-
-**MCQ 62. Initially P=1,000, E=560 and U=40. Later E=550 and U=20, with P unchanged. Which interpretation is correct?**
-
-A. UR and WPR both improve.
-B. UR falls, but employment and WPR fall; labour-force withdrawal may be masking deterioration.
-C. LFPR rises because unemployment falls.
-D. Thirty jobs were created because U fell by twenty.
-
-**Answer: B**
-**Option explanations:**
-- **A:** WPR falls from 56% to 55%.
-- **B:** LF falls from 600 to 570 and UR falls despite ten fewer employed persons.
-- **C:** LFPR falls from 60% to 57%.
-- **D:** Unemployment changes cannot be equated with job creation.
-
-**MCQ 63. A casual worker had work on two of seven days, sought work on three days and was unavailable on two days. Which measure best preserves this intensity?**
-
-A. UPS alone, because it records each day.
-B. UPSS alone, because subsidiary status allocates half-days.
-C. CDS, because it allocates person-days across employed, unemployed and non-labour-force statuses.
-D. CWS, because weekly employment means all seven days were fully utilised.
-
-**Answer: C**
-**Option explanations:**
-- **A:** UPS is a long-reference principal-status measure.
-- **B:** UPSS broadens usual status but is not person-day accounting.
-- **C:** The day-level lens preserves intermittent work and search.
-- **D:** CWS can classify the person employed without showing the two-workday intensity.
-
-**MCQ 64. Real output grows 10%, employment 3%, labour productivity rises, but real wages and social-security coverage stagnate. Which conclusion is most defensible?**
-
-A. Growth is fully inclusive because productivity rose.
-B. Employment elasticity is 3.33.
-C. Formalisation is proven by output growth.
-D. Elasticity is 0.3 and growth is job-light; stagnant wages and protection show weak transmission.
-
-**Answer: D**
-**Option explanations:**
-- **A:** Productivity gains have not demonstrably reached workers.
-- **B:** The correct ratio is 3/10 = 0.3.
-- **C:** Output growth says nothing about worker coverage.
-- **D:** The conclusion integrates absorption, distribution and formalisation quality.
-
+## Check 6 — Demography
+**Question:** Connect a young labour-surplus state with an ageing labour-demand state.
+**Model answer:** Combine origin human capital and jobs, destination productivity and care, and rights-based migration with portable benefits, housing and skill recognition.
+**Misconception to avoid:** Age structure alone creates a dividend.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -2562,64 +2091,72 @@ PRODUCTIVE, INCLUSIVE AND RESILIENT EMPLOYMENT
 6. Underemployment may concern insufficient time, skill mismatch or inadequate earnings/productivity.
 7. Structural transformation needs productive labour absorption, not mere movement from farm to informal city work.
 8. Employment elasticity must be read with productivity, real wages and sector composition.
-9. Formalisation has multiple layers: enterprise/legal registration, payroll/tax records, written conditions and actual social protection.
-10. Time Use Survey 2019: women aged 15-59 participating in unpaid domestic services spent about 299 minutes/day; retain survey vintage.
-11. Migration policy requires portability, housing, information, enforcement and source-destination coordination.
-12. NITI gig report (June 2022): about 77 lakh in 2020-21; projection 2.35 crore in 2029-30; do not interpolate.
-13. Algorithmic pricing, allocation, ratings and deactivation can create substantive control despite formal flexibility.
-14. Labour is a Concurrent-List field; implementation requires Union-state coordination.
-15. Four Codes consolidate 29 laws: Wages 2019; IR, Social Security and OSHWC 2020.
-16. Official milestones: commencement notification 21 November 2025; final Central Rules for Wages, Industrial Relations and Social Security on 8 May 2026; final OSHWC Central Rules on 9 May 2026; state readiness remains uneven as of 24 September 2026.
-17. Enactment, commencement, central rules, state rules and enforcement are distinct.
-18. Code on Wages: floor wage guides competent-government minima; wage definition and equal remuneration are separate analytical issues.
-19. IR Code balances representation/dispute institutions with adjustment rules; test fixed-term parity, strike procedure and restructuring security.
-20. Social Security Code recognises unorganised/gig/platform workers, but coverage requires an operative funded scheme and delivery.
-21. OSHWC analysis must cover prevention, thresholds, contract chains, migrants, inspection and conditions for women’s night work.
-22. PMKVY 4.0 guidelines dated 22 September 2023 cover STT, Special Projects and RPL with future-skills orientation.
-23. Skill success ladder: demand mapping → training → assessment → certification → placement → retention → wage/productivity gain.
-24. Apprenticeship is work-integrated learning; registrations/contracts/seats are not employment outcomes.
-25. Demographic dependency ratio conventionally compares young plus old dependants with working-age population; state windows differ.
-26. Dividend conversion requires health, learning, skills, women’s participation, jobs, productivity, savings and institutions.
-27. Integrated strategy mnemonic: **D-S-P-P** — Demand, Skills, Productivity, Protection—cross-cut by care and mobility.
-28. A falling UR with falling LFPR can indicate discouraged exit; always check employment and WPR.
-29. Net job creation subtracts separations and closures; gross registrations can overstate labour-demand improvement.
-30. Cohort retention uses the original cohort denominator; retention among placements answers a different question.
-31. Fixed-term parity in specified conditions does not erase the economic risk of non-renewal.
-32. Safety evaluation follows elimination → substitution → engineering → administrative controls → PPE.
-33. Social-security coverage requires funded eligibility, portable access, successful claims and adequate benefits.
-34. Platform governance should separate universal minimum protections from contested employment-status adjudication.
-35. State-asynchronous demography makes migration, portability and differentiated ageing policy part of one strategy.
-36. Every employment indicator should name unit, denominator, reference period, baseline and distributional cut.
+9. Organised/unorganised **sector** is enterprise-side; organised/unorganised or formal/informal **employment** is job-side.
+10. The NCEUS working definition treats the unorganised sector broadly as unincorporated private enterprises owned by individuals/households with fewer than ten workers; other laws and datasets can use different coverage rules.
+11. Formalisation layers—enterprise registration, payroll/tax traceability, documented conditions and effective social protection—need not coincide.
+12. An organised registered factory can contain informal employment; a small unincorporated enterprise does not logically make every job identical.
+13. Time Use Survey 2024: female participants aged 15-59 spent about 305 minutes/day on unpaid domestic services, compared with 315 minutes for the comparable group in TUS 2019.
+14. Migration policy requires portability, housing, information, enforcement and source-destination coordination.
+15. NITI gig report (June 2022): about 77 lakh in 2020-21; projection 2.35 crore in 2029-30; do not interpolate.
+16. Algorithmic pricing, allocation, ratings and deactivation can create substantive control despite formal flexibility.
+17. Labour is a Concurrent-List field; implementation requires Union-state coordination.
+18. Four Codes consolidate 29 laws: Wages 2019; IR, Social Security and OSHWC 2020.
+19. Official milestones: commencement notification 21 November 2025; final Central Rules for Wages, Industrial Relations and Social Security on 8 May 2026; final OSHWC Central Rules on 9 May 2026; state readiness remains uneven as of 3 October 2026.
+20. Enactment, commencement, central rules, state rules and enforcement are distinct.
+21. Code on Wages: floor wage guides competent-government minima; wage definition and equal remuneration are separate analytical issues.
+22. IR Code balances representation/dispute institutions with adjustment rules; test fixed-term parity, strike procedure and restructuring security.
+23. Social Security Code recognises unorganised/gig/platform workers, but coverage requires an operative funded scheme and delivery.
+24. OSHWC analysis must cover prevention, thresholds, contract chains, migrants, inspection and conditions for women’s night work.
+25. PMKVY 4.0 guidelines dated 22 September 2023 cover STT, Special Projects and RPL with future-skills orientation.
+26. Skill success ladder: demand mapping → training → assessment → certification → placement → retention → wage/productivity gain.
+27. Apprenticeship is work-integrated learning; registrations/contracts/seats are not employment outcomes.
+28. Demographic dependency ratio conventionally compares young plus old dependants with working-age population; state windows differ.
+29. Dividend conversion requires health, learning, skills, women’s participation, jobs, productivity, savings and institutions.
+30. Integrated strategy mnemonic: **D-S-P-P** — Demand, Skills, Productivity, Protection—cross-cut by care and mobility.
+31. A falling UR with falling LFPR can indicate discouraged exit; always check employment and WPR.
+32. Net job creation subtracts separations and closures; gross registrations can overstate labour-demand improvement.
+33. Cohort retention uses the original cohort denominator; retention among placements answers a different question.
+34. Fixed-term parity in specified conditions does not erase the economic risk of non-renewal.
+35. Safety evaluation follows elimination → substitution → engineering → administrative controls → PPE.
+36. Social-security coverage requires funded eligibility, portable access, successful claims and adequate benefits.
+37. Platform governance should separate universal minimum protections from contested employment-status adjudication.
+38. State-asynchronous demography makes migration, portability and differentiated ageing policy part of one strategy.
+39. Every employment indicator should name unit, denominator, reference period, baseline and distributional cut.
 
 
 # COVERAGE MATRIX
 
 | Lesson | Required dependency | Formula/case | Criticism-reply | Local practice | PYQ/application |
 |---:|---|---|---|---|---|
-| 1 | Labour-market dashboard and the job-quality frame | Present | Present | 2 MCQs + micro-model | Mapped |
-| 2 | Labour force, workforce, LFPR, WPR and UR denominators | Present | Present | 4 MCQs + micro-model | Mapped |
-| 3 | PLFS UPS, UPSS, CWS and CDS data-reading cases | Present | Present | 4 MCQs + micro-model | Mapped |
-| 4 | Unemployment taxonomy, underemployment and youth/educated unemployment | Present | Present | 3 MCQs + micro-model | Mapped |
-| 5 | Structural transformation, Lewis-type transfer, jobless growth and informality | Present | Present | 3 MCQs + micro-model | Mapped |
-| 6 | Employment elasticity, productivity, real wages and formalisation calculations | Present | Present | 3 MCQs + micro-model | Mapped |
-| 7 | Women, unpaid care, Time Use Survey and female LFPR quality | Present | Present | 3 MCQs + micro-model | Mapped |
-| 8 | Migrant labour, portability, e-Shram and rural-urban mobility | Present | Present | 2 MCQs + micro-model | Mapped |
-| 9 | Gig and platform work, algorithmic control and portable social security | Present | Present | 3 MCQs + micro-model | Mapped |
-| 10 | Labour-law evolution, Concurrent List and the four-Code transition | Present | Present | 4 MCQs + micro-model | Mapped |
-| 11 | Code on Wages 2019: floor wage, minimum wage and equal remuneration | Present | Present | 3 MCQs + micro-model | Mapped |
-| 12 | Industrial Relations Code 2020: bargaining, flexibility and security | Present | Present | 3 MCQs + micro-model | Mapped |
-| 13 | Code on Social Security 2020: coverage architecture and gaps | Present | Present | 4 MCQs + micro-model | Mapped |
-| 14 | OSHWC Code 2020: safety, migrants, contract labour and inspection | Present | Present | 3 MCQs + micro-model | Mapped |
-| 15 | Skills mismatch, PMKVY 4.0, NSQF, ITIs and Sector Skill Councils | Present | Present | 3 MCQs + micro-model | Mapped |
-| 16 | Apprenticeships, NAPS, MSMEs, RPL and evaluation | Present | Present | 3 MCQs + micro-model | Mapped |
-| 17 | Demographic dividend, dependency ratios and asynchronous state windows | Present | Present | 4 MCQs + micro-model | Mapped |
-| 18 | Integrated employment strategy and policy-evaluation dashboard | Present | Present | 2 MCQs + micro-model | Mapped |
+| 1 | Labour-market dashboard and the job-quality frame | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 2 | Labour force, workforce, LFPR, WPR and UR denominators | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 3 | PLFS UPS, UPSS, CWS and CDS data-reading cases | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 4 | Unemployment taxonomy, underemployment and youth/educated unemployment | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 5 | Structural transformation, Lewis-type transfer, jobless growth and informality | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 6 | Employment elasticity, productivity, real wages and formalisation calculations | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 7 | Women, unpaid care, Time Use Survey and female LFPR quality | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 8 | Migrant labour, portability, e-Shram and rural-urban mobility | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 9 | Gig and platform work, algorithmic control and portable social security | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 10 | Labour-law evolution, Concurrent List and four-Code transition | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 11 | Code on Wages 2019 | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 12 | Industrial Relations Code 2020 | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 13 | Code on Social Security 2020 | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 14 | OSHWC Code 2020 | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 15 | Skills mismatch, PMKVY 4.0, NSQF, ITIs and SSCs | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 16 | Apprenticeships, NAPS, MSMEs and RPL | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 17 | Demographic dividend and dependency ratios | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 18 | Integrated employment strategy | Present | Present | Concept trio + unique-rubric model | Mapped |
+| 19 | Transition matrices and churn | Present | Present | Concept trio + unique-rubric model | Advanced enrichment |
+| 20 | Labour-Code federal implementation | Present | Present | Concept trio + unique-rubric model | Advanced enrichment |
+| 21 | Platform classification and contribution design | Present | Present | Concept trio + unique-rubric model | Advanced enrichment |
+| 22 | Demographic accounting and migration matching | Present | Present | Concept trio + unique-rubric model | Advanced enrichment |
 
 | Final control | Result |
 |---|---|
 | PLFS metrics and denominator traps | Lessons 1-3; consolidated notes |
 | Unemployment/underemployment/youth | Lesson 4 |
 | Transformation, elasticity, productivity, wages, formality | Lessons 5-6 |
+| Organised/unorganised sector versus organised/unorganised and formal/informal employment | Lessons 5-6; cumulative Check 3; register notes |
 | Women/care/migration/gig | Lessons 7-9 |
 | Four Codes and legal-status ladder | Lessons 10-14 |
 | Skills, PMKVY, apprenticeship/NAPS | Lessons 15-16 |
@@ -2629,19 +2166,71 @@ PRODUCTIVE, INCLUSIVE AND RESILIENT EMPLOYMENT
 
 # SOURCE LEDGER
 
-**Retrieval cutoff for live sources: 24 September 2026.** Stable formulas and conceptual classifications do not need a separate current claim; every mutable number/status above is tied to a publication or retrieval date.
+**Retrieval cutoff for live sources: 3 October 2026.** Stable formulas and conceptual classifications do not need a separate current claim; every mutable number/status above is tied to a publication or retrieval date.
 
 | Source | Publication/status date | Retrieval/use |
 |---|---|---|
-| MoSPI, PLFS Annual Report July 2023-June 2024 press note — https://www.mospi.gov.in/sites/default/files/press_release/Press_note_AR_PLFS_2023_24_22092024.pdf | Published 23 September 2024 | Retrieved 24 September 2026; usual-status age-15+ anchors: LFPR 60.1%, WPR 58.2%, UR 3.2%; female LFPR 41.7%, female WPR 40.3%, preserving basis/age/geography. |
-| Economic Survey 2025-26, Employment and Skill Development chapter — https://www.indiabudget.gov.in/economicsurvey/ | Survey published 29 January 2026 | Retrieved 24 September 2026; Q2 FY26 employed persons aged 15+ = 56.2 crore; treated as level, not job-quality verdict. |
-| Ministry of Labour, Labour Codes — https://www.labour.gov.in/offerings/schemes-and-services/details/labour-codes-gzNzQzMtQWa | Codes enacted 2019/2020; commencement notification 21 November 2025; final Central Rules for Wages, Industrial Relations and Social Security notified 8 May 2026; final OSHWC Central Rules notified 9 May 2026 | Retrieved 24 September 2026; state-wise readiness not generalised. |
-| NITI Aayog, *India’s Booming Gig and Platform Economy* — https://www.niti.gov.in/sites/default/files/2022-06/25th_June_Final_Report_27062022.pdf | June 2022 | Retrieved 24 September 2026; 77 lakh estimate for 2020-21 and 2.35 crore projection for 2029-30 only. |
-| MoSPI, Time Use Survey 2019 — https://www.mospi.gov.in/documents/213904/301563//Report_TUS_2019_07082020.pdf | 2019 survey/report release 2020 | Retrieved 24 September 2026; 299 minutes/day claim retained as survey-vintage fact. |
-| MSDE, PMKVY 4.0 Guidelines — https://msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf | Guidelines dated 22 September 2023; official PDF posted February 2024 | Retrieved 24 September 2026; STT, Special Projects, RPL and future-skills orientation. |
-| MSDE, NAPS — https://www.msde.gov.in/offerings/schemes-and-services/details/national-apprenticeship-promotion-scheme-naps-YjM4ATMtQWa | Official scheme page status as retrieved | Retrieved 24 September 2026; work-integrated training; no registration-to-job inference. |
-| *Indian Economy* by Ramesh Singh, OCR-searchable local PDF | Local edition in repository | Queried 24 September 2026 for demographic dividend, skill development and labour-market foundations; no source PDF modified. |
-| *Economic Survey 2025-26*, OCR-searchable local PDF | 29 January 2026 | Queried 24 September 2026, especially Chapter 12; no source PDF modified. |
-| Repository PYQ routing ledgers 2018-23, 2024-25, 2026 and `_PYQ-GS3-2026.md` | Repository-verified through 2026 | Checked 24 September 2026; no objective key inferred and no Topic 22 GS-III 2026 question fabricated. |
+| MoSPI, PLFS Annual Report July 2023-June 2024 press note — https://www.mospi.gov.in/sites/default/files/press_release/Press_note_AR_PLFS_2023_24_22092024.pdf | Published 23 September 2024 | Retrieved 3 October 2026; usual-status age-15+ anchors: LFPR 60.1%, WPR 58.2%, UR 3.2%; female LFPR 41.7%, female WPR 40.3%, preserving basis/age/geography. |
+| MoSPI, PLFS Monthly Bulletin August 2026 — https://mospi.gov.in/uploads/latestReleases/latest_release_1789465219488_2c7319c0-05c4-4d44-9eac-a99be911de26_Monthly_Press_note_Aug_2026.pdf | August 2026 CWS bulletin | Retrieved 3 October 2026; age-15+ LFPR 55.6%, WPR 52.8%, UR 5.0%; monthly CWS basis retained. |
+| Economic Survey 2025-26, Employment and Skill Development chapter — https://www.indiabudget.gov.in/economicsurvey/ | Survey published 29 January 2026 | Retrieved 3 October 2026; Q2 FY26 employed persons aged 15+ = 56.2 crore; treated as level, not job-quality verdict. |
+| Ministry of Labour, Labour Codes — https://www.labour.gov.in/offerings/schemes-and-services/details/labour-codes-gzNzQzMtQWa | Codes enacted 2019/2020; commencement notification 21 November 2025; final Central Rules for Wages, Industrial Relations and Social Security notified 8 May 2026; final OSHWC Central Rules notified 9 May 2026 | Retrieved 3 October 2026; state-wise readiness not generalised. |
+| NITI Aayog, *India’s Booming Gig and Platform Economy* — https://www.niti.gov.in/sites/default/files/2022-06/25th_June_Final_Report_27062022.pdf | June 2022 | Retrieved 3 October 2026; 77 lakh estimate for 2020-21 and 2.35 crore projection for 2029-30 only. |
+| MoSPI, Time Use Survey 2024 factsheet and press note — https://www.mospi.gov.in/sites/default/files/publication_reports/TUS_Factsheet_25022025.pdf ; https://mospi.gov.in/sites/default/files/press_release/PR_TUS_25022025.pdf | Survey year 2024; released 25 February 2025 | Retrieved 3 October 2026; female participants aged 15-59 spent about 305 minutes/day on unpaid domestic services, compared with 315 minutes for the comparable group in TUS 2019. TUS 2024 also reports about 88 minutes for male participants; caregiving figures are about 140 versus 74 minutes. |
+| MSDE, PMKVY 4.0 Guidelines — https://msde.gov.in/static/uploads/2024/02/PMKVY-4.0-Guidelines_final-copy.pdf | Guidelines dated 22 September 2023; official PDF posted February 2024 | Retrieved 3 October 2026; STT, Special Projects, RPL and future-skills orientation. |
+| MSDE, NAPS — https://www.msde.gov.in/offerings/schemes-and-services/details/national-apprenticeship-promotion-scheme-naps-YjM4ATMtQWa | Official scheme page status as retrieved | Retrieved 3 October 2026; work-integrated training; no registration-to-job inference. |
+| *Indian Economy* by Ramesh Singh, OCR-searchable local PDF | Local edition in repository | Queried 3 October 2026 for demographic dividend, skill development and labour-market foundations; no source PDF modified. |
+| *Economic Survey 2025-26*, OCR-searchable local PDF | 29 January 2026 | Queried 3 October 2026, especially Chapter 12; no source PDF modified. |
+| Repository PYQ routing ledgers 2018-23, 2024-25, 2026 and `_PYQ-GS3-2026.md` | Repository-verified through 2026 | Checked 3 October 2026; no objective key inferred and no Topic 22 GS-III 2026 question fabricated. |
 
 **Integrity note:** facts are bounded by the cited publication/status; analytical bridges are explicitly arguments, not reported official findings.
+
+## Provenance and ownership ledger
+
+| Unit | Primary owner | Cross-owner boundary | Treatment |
+|---|---|---|---|
+| Measures, PLFS, unemployment, underemployment | Economy Basic Topic 22 | Inflation owner only where demand conditions matter | Core 1-6 |
+| Organised/unorganised sector and formal/informal employment | Economy Basic Topic 22 | Labour-law definitions remain instrument-specific; no proxy is universal | Core 5-6; cumulative Check 3; register notes |
+| Female work and unpaid care | Economy Basic Topic 22 | Society owns wider gender transformation | Core 7 |
+| Migration and portability | Economy Basic Topic 22 | Geography/Society own migration morphology | Core 8 |
+| Gig/platform labour | Economy Basic/Advanced Topic 22 | Economy Topic 24 owns platform-market competition | Core 9; Advanced 21 |
+| Four Codes and social protection | Economy Basic/Advanced Topic 22 | Polity owns general federal doctrine | Core 10-14; Advanced 20 |
+| Skills and apprenticeships | Economy Basic Topic 22 | Education owner retains general education policy | Core 15-16 |
+| Demographic dividend and dependency | Economy Basic/Advanced Topic 22 | Geography/Society own demographic distribution | Core 17-18; Advanced 22 |
+
+## Neutral PYQ and model-answer boundary
+
+Actual PYQs are rendered only as neutral demands with directive and approach. No objective key is inferred where the audited ledger lacks one, and no actual PYQ receives a purported official model answer. Original models and rubrics here are diagnostic, not UPSC marking schemes.
+
+## Hostile self-check record
+
+- Labour-data claims preserve status, reference period, age group, date and geography; annual usual status is not spliced with monthly CWS.
+- Legal claims separate enactment, commencement, Central Rules, state rules, readiness, compliance and effective remedy; no unverified state count is used.
+- August 2026 PLFS is the newest official labour snapshot used; mutable claims are bounded through 3 October 2026.
+- Training, certification, placement, retention, real-wage gain and productivity remain separate.
+- Recognition, registration, finance, eligibility, claims and benefit receipt remain separate.
+- PYQ ownership and cross-links are explicit; no 2026 GS-III owner or objective key is invented.
+- Core precedes distinct optional depth; every lesson has one concept trio, one Mains model, a unique rubric and a ceiling.
+- The 18 Core Mains prompts use question-specific directives, evidence, conclusions and exact 10-mark/150-word or 15/20-mark/250-word ceilings.
+- Excluded learner packages and solved workbooks were not used as substantive sources; no INDEX, staging, release or tracker file was edited.
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence / reason |
+|---|---|---|
+| canonical markdown | checked | Basic owner supplied the complete Core spine; Advanced owner was used only after Core. |
+| final learner package | not relevant | Excluded to prevent derivative-content and answer leakage. |
+| layered/complete session | checked | Existing live edition was rebuilt in place while retaining substantive teaching. |
+| solved workbook | not relevant | Excluded; no compiled question bank was imported. |
+| advanced dossier | checked | Advanced owner supplied optional analytical refinements only. |
+| ocr books | checked | OCR-searchable Indian Economy and Economic Survey context was queried. |
+| pyqs through 2026 | checked | Audited routing ledgers and local official-paper evidence support neutral mapping. |
+| official live sources | checked | MoSPI PLFS/TUS, Labour, MSDE, PIB/NITI and Economic Survey sources were checked through 3 October 2026; access failures are disclosed. |
+
+## Truthful completion manifest
+
+- Only this live-session Markdown is modified.
+- Eighteen Core lessons cover every owner unit; four distinct Optional Advanced lessons follow.
+- Every lesson has one concept trio; all 18 Core models have distinct prompts, structures, rubrics and exact mark-word ceilings.
+- The final arc uses neutral PYQs, cumulative concept checks, original models, remediation, maps, register notes, coverage and sources.
+- Current official material is bounded through 3 October 2026; inaccessible pages and unverified jurisdiction counts are not converted into facts.
+- This manifest records scope and checks only; it does not certify or approve the artifact.
