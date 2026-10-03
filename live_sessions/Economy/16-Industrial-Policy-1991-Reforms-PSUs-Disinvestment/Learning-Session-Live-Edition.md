@@ -6,29 +6,32 @@ Industrial policy is the framework shaping industrial entry, competition, techno
 
 ## Roadmap
 
-| Lesson | Frozen learning sequence |
-|---:|---|
-| 1 | Industrial policy as a coordination problem: scope, instruments and the 1948 settlement |
-| 2 | The 1956 architecture: commanding heights, schedules and public-sector leadership |
-| 3 | Licence raj and the 1980s transition: why controls emerged and why they loosened |
-| 4 | The 1991 crisis and reform package: stabilisation, structural reform and causal sequence |
-| 5 | From licence to competition: how liberalisation transmits to firms, productivity and industrial growth |
-| 6 | Liberalisation without laissez-faire: competition, sector regulation, standards and state capacity |
-| 7 | Why PSUs exist: strategic, natural-monopoly, developmental and public-service mandates |
-| 8 | Why PSUs underperform: agency problems, soft budgets, governance and performance diagnosis |
-| 9 | Ownership-change spectrum: minority disinvestment, strategic sale, privatisation, closure and monetisation |
-| 10 | Valuing and financing a sale: enterprise value, equity value, control premium and fiscal arithmetic |
-| 11 | Air India as a completed transaction: what the case proves—and what it does not |
-| 12 | New PSE Policy: strategic sectors, bare-minimum presence and enterprise-level decision tests |
-| 13 | Privatisation needs competition: monopoly risk, regulation, labour transition and regional effects |
-| 14 | Objective-demand clinic: Plan thrusts, Coal Controller’s Organisation and CSR governance |
-| 15 | Industrial policy after 1991: capability, resilience, technology, jobs, exports and implementation diagnostics |
+| Lesson | Stage | Frozen learning sequence |
+|---:|---|---|
+| 1 | Foundation/Core | Industrial policy as a coordination problem: scope, instruments and the 1948 settlement |
+| 2 | Foundation/Core | The 1956 architecture: commanding heights, schedules and public-sector leadership |
+| 3 | Foundation/Core | Licence raj and the 1980s transition: why controls emerged and why they loosened |
+| 4 | Core | The 1991 crisis and reform package: stabilisation, structural reform and causal sequence |
+| 5 | Core | From licence to competition: how liberalisation transmits to firms, productivity and industrial growth |
+| 6 | Core | Liberalisation without laissez-faire: competition, sector regulation, standards and state capacity |
+| 7 | Core | Why PSUs exist: strategic, natural-monopoly, developmental and public-service mandates |
+| 8 | Core | Why PSUs underperform: agency problems, soft budgets, governance and performance diagnosis |
+| 9 | Core | Ownership-change spectrum: minority disinvestment, strategic sale, privatisation, closure and monetisation |
+| 10 | Core | Valuing and financing a sale: enterprise value, equity value, control premium and fiscal arithmetic |
+| 11 | Core | Air India as a completed transaction: what the case proves—and what it does not |
+| 12 | Core | New PSE Policy: strategic sectors, bare-minimum presence and enterprise-level decision tests |
+| 13 | Core | Privatisation needs competition: monopoly risk, regulation, labour transition and regional effects |
+| 14 | Core | Objective-demand clinic: Plan thrusts, Coal Controller’s Organisation and CSR governance |
+| 15 | Core completion | Industrial policy after 1991: capability, resilience, technology, jobs, exports and implementation diagnostics |
+| 16 | Optional Advanced | First-generation versus later reforms and institutional complementarities |
+| 17 | Optional Advanced | Valuation, control premium, liabilities and fiscal counterfactuals |
+| 18 | Optional Advanced | Policy evaluation, capture, sunset clauses and strategic indispensability |
 
 ---
 
 ## Lesson 1 — Industrial policy as a coordination problem: scope, instruments and the 1948 settlement
 
-Progress: 1 / 15 | Stage: Foundation | Subtopic: Industrial policy as a coordination problem: scope, instruments and the 1948 settlement
+Progress: 1 / 18 | Stage: Foundation | Subtopic: Industrial policy as a coordination problem: scope, instruments and the 1948 settlement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — Ramesh Singh’s planning, mixed-economy and industrial-policy treatment
@@ -86,34 +89,32 @@ The settlement responded to a narrow industrial base, weak infrastructure, scarc
 9. Market failure must be weighed against government failure.
 10. Good policy specifies objective, instrument, accountability and review.
 
-### Lesson practice
 
-**MCQ 1.** Which statement best captures industrial policy as a coordination framework?
+### Concept check
 
-A. It aligns instruments such as infrastructure, finance and standards with identified industrial failures.
-B. It is identical to permanent state ownership of manufacturing firms.
-C. It concerns tariffs alone.
-D. It becomes unnecessary once private firms exist.
+**Question:** A government wants steel capacity but power, rail and finance investors each wait for the others. What failure exists and what is the policy test?
 
-### Answers and option explanations
+**Model answer:** It is a coordination failure. Specify the missing complementarity, choose the least-cost instrument, assign accountability and review whether capacity, productivity and public value actually improve.
 
-**MCQ 1 — Answer: A**
-- **A:** Correct. It coordinates several tools against specified failures and objectives.
-- **B:** Incorrect. Public ownership is only one possible instrument.
-- **C:** Incorrect. Trade protection is only one tool within a wider framework.
-- **D:** Incorrect. Coordination, monopoly and capability problems can persist with private firms.
+**Misconception to avoid:** State ownership is not the definition of industrial policy.
 
-### Mains micro-model
+### Responsive Mains practice
 
-**Question:** Why should industrial policy be framed as a coordination problem rather than merely an ownership choice? (10 marks)
+**Question (10 marks · 150 words):** Why is industrial policy better understood as a coordination framework than as a synonym for state ownership?
 
-**Model:** Define industrial policy broadly. Explain complementary investment, learning spillovers, infrastructure and security. Show that ownership, regulation, finance and procurement are alternatives. Add the government-failure caution. Conclude with a four-part test: failure, instrument, accountability and review.
+#### Evidence-rich response
+
+Industrial policy addresses failures that a single firm cannot solve. A steel plant, for example, needs power, rail, finance and skills to arrive together; each investor may wait for the others. The 1948 Industrial Policy Resolution therefore adopted a mixed economy: private enterprise remained legitimate, while the state accepted strategic and coordinating roles. The mechanism is broader than ownership—public infrastructure, development finance, standards, procurement and regulation can align complementary investment. Yet intervention can create discretion and rent seeking. Hence the test is not “state versus market” but: identify the failure, choose the least-cost instrument, publish accountability and review entry, productivity, jobs and resilience. Ownership is justified only when alternatives cannot secure the public purpose.
+
+#### Unique scoring rubric
+
+Award for: coordination failure; at least three instruments; accurate 1948 mixed-economy evidence; government-failure qualification; review criterion.
 
 ---
 
 ## Lesson 2 — The 1956 architecture: commanding heights, schedules and public-sector leadership
 
-Progress: 2 / 15 | Stage: Foundation | Subtopic: The 1956 architecture: commanding heights, schedules and public-sector leadership
+Progress: 2 / 18 | Stage: Foundation | Subtopic: The 1956 architecture: commanding heights, schedules and public-sector leadership
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — Ramesh Singh’s review of Industrial Policy Resolution 1956 and public-sector emphasis
@@ -171,60 +172,34 @@ A public enterprise may be justified at birth because capital is unavailable. Th
 9. Protection may weaken innovation discipline.
 10. Historical mandates require periodic retesting.
 
-### Lesson practice
 
-**MCQ 2.** The Industrial Policy Resolution of 1948 is best understood as:
+### Concept check
 
-A. the abolition of private enterprise.
-B. a mixed-economy settlement assigning roles to both state and private enterprise.
-C. the creation of Schedules A, B and C.
-D. the beginning of the Eighth Five-Year Plan.
+**Question:** Why can the 1956 model be historically rational yet unsuitable as a permanent ownership rule?
 
-**MCQ 3.** Which description of the 1956 schedules is accurate?
+**Model answer:** The architecture addressed capital scarcity and basic-industry coordination, but retention today needs a fresh enterprise-level mandate, competition and alternatives test.
 
-A. Schedule C abolished private industry.
-B. Schedule B reserved every listed industry exclusively for the state forever.
-C. The schedules differentiated exclusive state responsibility, increasing state role and a residual private domain.
-D. They were introduced by the New Industrial Policy of 1991.
+**Misconception to avoid:** Historical contribution does not create an indefinite retention right.
 
-**MCQ 4.** What was the strongest economic rationale for public leadership in commanding heights?
+### Responsive Mains practice
 
-A. Every public enterprise necessarily maximises profit.
-B. Competition is undesirable in all industries.
-C. Consumer choice must be administratively fixed.
-D. Large, long-gestation basic investments had economy-wide linkages amid scarce private capital.
+**Question (15 marks · 250 words):** Evaluate the developmental logic and later limitations of the 1956 industrial architecture.
 
-### Answers and option explanations
+#### Evidence-rich response
 
-**MCQ 2 — Answer: B**
-- **A:** Incorrect. The Resolution retained a domain for private enterprise.
-- **B:** Correct. It articulated coexistence of public and private roles.
-- **C:** Incorrect. The schedule structure belongs to the 1956 Resolution.
-- **D:** Incorrect. The Eighth Plan began in the post-1991 period.
+The Industrial Policy Resolution, 1956 translated the Second Plan’s heavy-industry strategy into Schedules A, B and C. Schedule A placed listed commanding heights under state responsibility; Schedule B envisaged growing public participation; Schedule C preserved a private domain under planning controls. This was developmentally rational because steel, machinery, power and transport required large, long-gestation investment when domestic capital markets and private capability were shallow. Public capacity could create economy-wide linkages and strategic autonomy.
 
-**MCQ 3 — Answer: C**
-- **A:** Incorrect. Schedule C broadly preserved private enterprise.
-- **B:** Incorrect. Schedule B was not identical to Schedule A’s exclusive responsibility.
-- **C:** Correct. The schedules graded the intended public role.
-- **D:** Incorrect. The architecture dates to 1956.
+Its limitation was institutional. Protection, administrative allocation and weak competitive pressure could reduce cost and innovation discipline; multiple objectives and soft budgets obscured accountability. The correct evaluation is therefore dynamic: credit the architecture for foundational capacity, but do not convert that history into permanent ownership. Each enterprise must be retested against its present strategic mandate, private alternatives, market structure, regulatory capacity and measurable public-service obligation. The 1956 model solved a historical coordination problem; it did not settle every later retain-or-exit decision.
 
-**MCQ 4 — Answer: D**
-- **A:** Incorrect. Ownership does not guarantee profit or efficiency.
-- **B:** Incorrect. The rationale was sector-specific.
-- **C:** Incorrect. It concerned investment and strategic linkages, not universal rationing.
-- **D:** Correct. Basic industries required coordinated patient capital.
+#### Unique scoring rubric
 
-### Mains micro-model
-
-**Question:** Evaluate the logic and limitations of the Industrial Policy Resolution, 1956. (10 marks)
-
-**Model:** Place it in the Second Plan context. Explain schedules, commanding heights and capital scarcity. Credit foundational capacity. Then assess weak competition, administrative allocation, soft budgets and delayed adaptation. End with a dynamic mandate-and-performance test.
+Award for: schedules; capital-scarcity rationale; named basic-industry evidence; protection/soft-budget limitation; dynamic mandate test.
 
 ---
 
 ## Lesson 3 — Licence raj and the 1980s transition: why controls emerged and why they loosened
 
-Progress: 3 / 15 | Stage: Foundation | Subtopic: Licence raj and the 1980s transition: why controls emerged and why they loosened
+Progress: 3 / 18 | Stage: Foundation | Subtopic: Licence raj and the 1980s transition: why controls emerged and why they loosened
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — IDR Act licensing and the pre-1991 industrial-policy chronology
@@ -252,6 +227,24 @@ Productivity, modernisation, exports and capacity utilisation became pressing. T
 
 This was neither unchanged licence raj nor completed liberalisation. Piecemeal relaxation could even favour incumbents holding existing licences and networks. Transparent, general rules were needed to avoid selective privilege.
 
+### MRTP, concentration and the control architecture
+
+The Monopolies and Restrictive Trade Practices Act, 1969 addressed concentration of economic power and restrictive trade practices, but the pre-1991 architecture also required large “MRTP companies” above an asset threshold to obtain prior approval for expansion, new undertakings and takeovers. This mixed two different tasks: controlling harmful conduct and controlling firm size before conduct occurred.
+
+```text
+Large asset size
+   ↓ pre-entry scrutiny under the old MRTP threshold
+permission for expansion / new undertaking / takeover
+   ↓
+intended check on concentration
+   └─ risk: size treated as wrongdoing even without abusive conduct
+
+Post-reform direction:
+firm size is not itself the offence → examine combinations, cartels and abuse of dominance
+```
+
+The threshold rose during the 1980s as policy became more permissive. The 1991 policy removed the asset-threshold approval requirement. The Competition Act, 2002 later supplied a conduct-and-effects-oriented framework. The safe distinction is: **MRTP-era prior size control is not the same as modern competition law**.
+
 ### Licence is not regulation
 
 A licence is prior permission to enter or expand. Regulation can set general competition, safety, environmental and consumer rules after entry. Abolishing discretionary entry control does not abolish regulation.
@@ -276,34 +269,32 @@ A licence is prior permission to enter or expand. Regulation can set general com
 9. Delicensing is not abolition of all regulation.
 10. General rules are preferable to case-by-case permission where feasible.
 
-### Lesson practice
 
-**MCQ 5.** A defining feature of the pre-1991 licence regime was:
+### Concept check
 
-A. prior administrative control over entry, capacity or expansion in covered industries.
-B. complete absence of planning priorities.
-C. automatic free import of every input.
-D. exclusive reliance on ex-post competition law.
+**Question:** Why is replacing prior size approval with competition law not the same as abandoning control of monopoly?
 
-### Answers and option explanations
+**Model answer:** Modern competition law targets harmful combinations and conduct rather than treating size alone as guilt; the state changes the object and method of control.
 
-**MCQ 5 — Answer: A**
-- **A:** Correct. Prior permission over entry and capacity was central.
-- **B:** Incorrect. Planning priorities justified the controls.
-- **C:** Incorrect. Imports and foreign exchange were controlled.
-- **D:** Incorrect. The regime relied strongly on ex-ante permission.
+**Misconception to avoid:** Delicensing does not mean monopoly conduct is lawful.
 
-### Mains micro-model
+### Responsive Mains practice
 
-**Question:** Why did an allocative licensing system evolve into an entry barrier? (10 marks)
+**Question (10 marks · 150 words):** How did licensing and MRTP-era controls pursue legitimate goals yet become barriers to industrial dynamism?
 
-**Model:** Begin with scarcity and planning rationales. Trace prior permission, discretion, delay, incumbent protection and weak rivalry. Note the 1980s productivity response. Distinguish removal of entry control from continuing general regulation. Recommend transparent rules and review.
+#### Evidence-rich response
+
+Licensing under the Industries (Development and Regulation) Act, 1951 sought planned allocation, regional dispersal and foreign-exchange conservation. The MRTP Act, 1969 similarly sought to curb concentration, but its asset threshold required large firms to obtain prior approval for expansion and takeovers. These aims were legitimate; the mechanism became restrictive because case-by-case permission generated delay, bargaining power and incumbent advantage, while size could be treated as wrongdoing without proven abuse. The Sixth and Seventh Plans raised thresholds and selectively loosened controls; the 1991 policy removed most licensing and MRTP threshold approval. The Competition Act, 2002 later shifted scrutiny toward cartels, harmful combinations and abuse. Thus reform replaced discretionary entry control with conduct- and effects-based rules, not with absence of regulation.
+
+#### Unique scoring rubric
+
+Award for: IDR Act; MRTP threshold logic; 1980s transition; 1991 replacement; licence-versus-regulation distinction.
 
 ---
 
 ## Lesson 4 — The 1991 crisis and reform package: stabilisation, structural reform and causal sequence
 
-Progress: 4 / 15 | Stage: Core | Subtopic: The 1991 crisis and reform package: stabilisation, structural reform and causal sequence
+Progress: 4 / 18 | Stage: Core | Subtopic: The 1991 crisis and reform package: stabilisation, structural reform and causal sequence
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — balance-of-payments crisis, LPG reforms and New Industrial Policy 1991
@@ -324,6 +315,18 @@ new prices, entry conditions and competitive pressures
 ```
 
 **Fact:** The New Industrial Policy of 1991 substantially dismantled industrial licensing and narrowed public-sector reservation. It formed part of a wider trade, exchange-rate and financial reform package. Liberalisation was not merely the sale of government shares.
+
+### What the New Industrial Policy changed
+
+| Reform axis | Pre-reform constraint | 1991 direction | Continuing boundary |
+|---|---|---|---|
+| Industrial licensing | prior approval across a wide field | licensing abolished for most industries | a narrow list and other legal clearances remained |
+| Public-sector reservation | broad commanding-height reservation | reserved field sharply narrowed | strategic and sovereign functions retained special treatment |
+| MRTP companies | asset-size threshold triggered prior expansion/takeover approval | threshold-based prior approval removed | harmful combinations and conduct still require competition oversight |
+| Foreign investment | restrictive approvals and foreign-exchange control | automatic approval opened in specified high-priority industries and policy progressively widened | sectoral caps, security screening and government route remained where prescribed |
+| Foreign technology | case-by-case control | easier approval for specified agreements | technology depth and domestic learning were not automatic |
+
+The reform was therefore a replacement diagram: **administrative allocation by prior permission gave way to entry, price and investment decisions disciplined increasingly by markets and general law**.
 
 ### Why package thinking matters
 
@@ -359,60 +362,32 @@ They overlap but are not synonyms. Delicensing can occur without PSU sale; minor
 9. Reform effects depend on institutional complementarities.
 10. The 1980s transition prevents an overnight-break story.
 
-### Lesson practice
 
-**MCQ 6.** Which statement best describes the Sixth and Seventh Plan transition?
+### Concept check
 
-A. They completed all post-1991 banking reforms.
-B. They stressed modernisation, capacity use and selective loosening before the systemic 1991 break.
-C. They restored the 1956 schedules without change.
-D. They abolished every sector regulation.
+**Question:** Classify delicensing and trade reform as stabilisation or structural reform, and explain why.
 
-**MCQ 7.** Which combination best represents the connected 1991 structural package?
+**Model answer:** They are structural reforms because they change rules and incentives; stabilisation addresses the immediate external and macro imbalance.
 
-A. Only a one-time currency measure.
-B. Only sale of government equity.
-C. Industrial delicensing linked with trade, exchange and financial reforms.
-D. Replacement of all regulation by private contracts.
+**Misconception to avoid:** A crisis trigger does not make every reform a short-run stabilisation measure.
 
-**MCQ 8.** Which statement correctly distinguishes stabilisation from structural reform?
+### Responsive Mains practice
 
-A. Stabilisation permanently determines ownership.
-B. Structural reform only supplies emergency foreign exchange.
-C. The two are identical labels.
-D. Stabilisation addresses immediate imbalance; structural reform changes longer-run rules.
+**Question (10 marks · 150 words):** Why must the 1991 reforms be analysed as a connected stabilisation and structural package?
 
-### Answers and option explanations
+#### Evidence-rich response
 
-**MCQ 6 — Answer: B**
-- **A:** Incorrect. Systemic financial deregulation followed mainly after 1991.
-- **B:** Correct. These Plans mark selective modernisation and transition.
-- **C:** Incorrect. Their emphasis was adaptation, not simple restoration.
-- **D:** Incorrect. Selective loosening did not abolish regulation.
+The 1991 response had two horizons. Stabilisation addressed the immediate balance-of-payments and macroeconomic stress through financing, demand restraint and exchange adjustment. Structural reform changed incentives: the New Industrial Policy substantially delicensed industry, narrowed public-sector reservation and removed MRTP asset-threshold approval; trade, exchange and financial reforms altered input access, export prices and capital allocation. These measures reinforced one another—a firm legally free to expand still needs imported technology, finance and market access. Domestic reform debates and 1980s selective loosening also predated the crisis, so “external imposition” is incomplete. Implementation was phased and imposed worker, firm and regional adjustment costs. Hence 1991 was neither one devaluation nor simple privatisation; it replaced administrative allocation with competition and market signals while preserving regulatory and developmental responsibilities.
 
-**MCQ 7 — Answer: C**
-- **A:** Incorrect. The response extended beyond a single exchange action.
-- **B:** Incorrect. Disinvestment was not the whole package.
-- **C:** Correct. Product, external and financial reforms were connected.
-- **D:** Incorrect. Competition, prudential and sector rules remained necessary.
+#### Unique scoring rubric
 
-**MCQ 8 — Answer: D**
-- **A:** Incorrect. Stabilisation does not set a permanent ownership regime.
-- **B:** Incorrect. Structural reform changes institutions.
-- **C:** Incorrect. Their horizons and mechanisms differ.
-- **D:** Correct. It states the short-run versus institutional distinction.
-
-### Mains micro-model
-
-**Question:** The 1991 reforms were a connected package rather than one act of delicensing. Explain. (10 marks)
-
-**Model:** Open with crisis and the stabilisation/structural distinction. Trace industrial, trade, exchange and financial changes. Explain complementarity through a firm example. Qualify with phased implementation, adjustment costs and continuing regulation.
+Award for: stabilisation/structural distinction; four reform axes; firm-level complementarity; gradualism; continuing-state qualification.
 
 ---
 
 ## Lesson 5 — From licence to competition: how liberalisation transmits to firms, productivity and industrial growth
 
-Progress: 5 / 15 | Stage: Core | Subtopic: From licence to competition: how liberalisation transmits to firms, productivity and industrial growth
+Progress: 5 / 18 | Stage: Core | Subtopic: From licence to competition: how liberalisation transmits to firms, productivity and industrial growth
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — liberalisation, competition and industrial-growth channels
@@ -449,6 +424,24 @@ The mechanism has four channels:
 
 **Fact:** The Economic Survey 2025-26 was tabled on 29 January 2026. Chapter 8 discusses industrial transformation and global integration and advances a capability/strategic-indispensability frame; retrieved 24 September 2026. A short-period indicator cannot by itself prove completed structural transformation.
 
+### Investment and FDI: route, control and capability
+
+Foreign direct investment is a lasting investment relationship carrying a degree of influence or control; portfolio investment is primarily a financial claim in traded securities. India uses an **automatic route**, where prior government approval is not required, and a **government route**, where approval is required. Sectoral caps, entry conditions, beneficial-ownership rules and security restrictions remain policy variables.
+
+```text
+FDI inflow
+  ├─ capital
+  ├─ technology and managerial practice
+  ├─ supplier and export-network access
+  └─ competition
+        ↓
+possible productivity and scale gains
+        ↓ conditional on
+absorptive capacity + domestic suppliers + skills + infrastructure + competition
+```
+
+**Current official anchor:** DPIIT’s June 2026 factsheet reports provisional FDI equity inflow of ₹1,86,661 crore (US$19.817 billion) in April–June 2026 and cumulative equity inflow of US$807.545 billion from April 2000 to June 2026. These are inflow measures, not proof of domestic value addition, technology transfer or job quality.
+
 **Criticism:** Exposure can destroy domestic capacity before firms learn.
 
 **Reply:** Temporary support can create learning space, but it needs measurable spillovers, performance tests and sunset review. Otherwise learning protection becomes incumbent protection.
@@ -472,48 +465,38 @@ The mechanism has four channels:
 8. Adjustment costs fall unevenly.
 9. Aggregate growth masks sectoral variation.
 10. Protection needs learning targets and review.
+11. FDI differs from portfolio investment through a lasting influence/control relationship.
+12. The automatic and government routes govern entry approval.
+13. Sectoral conditions and security screening may remain.
+14. FDI inflow is an input, not proof of technology diffusion.
+15. Absorptive capacity determines domestic spillovers.
 
-### Lesson practice
 
-**MCQ 9.** Which is the most direct first-round effect of industrial delicensing?
+### Concept check
 
-A. Lower prior administrative barriers to entry or expansion.
-B. Automatic elimination of logistics costs.
-C. Guaranteed equal regional industrialisation.
-D. Immediate privatisation of every PSU.
+**Question:** Why can a large FDI inflow coexist with weak domestic technology diffusion?
 
-**MCQ 10.** Why may delicensing fail to produce strong growth by itself?
+**Model answer:** Capital can enter without supplier absorption, R&D, skills or competitive diffusion. Inflow is an input; domestic capability is an outcome.
 
-A. Entry freedom always reduces competition.
-B. Finance, skills, power, logistics or regulatory-capacity constraints may remain binding.
-C. Productivity cannot change without ownership change.
-D. Industrial growth depends only on tariffs.
+**Misconception to avoid:** FDI inflow is not a synonym for technology transfer or domestic value addition.
 
-### Answers and option explanations
+### Responsive Mains practice
 
-**MCQ 9 — Answer: A**
-- **A:** Correct. Delicensing directly reduces prior permission barriers.
-- **B:** Incorrect. Logistics needs separate investment and coordination.
-- **C:** Incorrect. Investment may concentrate in stronger regions.
-- **D:** Incorrect. Entry rules and ownership transfer are distinct.
+**Question (10 marks · 150 words):** Trace the conditional channel from delicensing and FDI to productivity and industrial growth.
 
-**MCQ 10 — Answer: B**
-- **A:** Incorrect. Entry freedom generally raises contestability.
-- **B:** Correct. Complementary constraints can block transmission.
-- **C:** Incorrect. Rivalry can alter productivity without ownership change.
-- **D:** Incorrect. Tariffs are only one influence.
+#### Evidence-rich response
 
-### Mains micro-model
+Delicensing lowers entry and expansion barriers. Actual or threatened entry then pressures incumbents to cut cost, improve quality and adopt technology; market share and capital can move toward more productive firms. FDI can reinforce this channel through capital, managerial practice, technology and supplier/export networks. DPIIT’s June 2026 factsheet reports provisional FDI equity inflow of ₹1,86,661 crore (US$19.817 billion) in April–June 2026, but an inflow is only an input. Domestic productivity depends on power, logistics, finance, skills, competition and firms’ absorptive capacity. Without supplier learning or R&D, investment may remain an assembly enclave. Effects also vary across workers, firm sizes and regions. Therefore judge reform by additional value, diffusion, durable jobs and exports—not by delicensing or FDI volume alone.
 
-**Question:** Trace how liberalisation affects industrial growth. (10 marks)
+#### Unique scoring rubric
 
-**Model:** Draw the entry–competition–technology–reallocation–productivity chain. Add enabling conditions and the factory example. Qualify by jobs, firm size and regions. Conclude that liberalisation supplies pressure and opportunity while state capacity affects conversion into broad capability.
+Award for: complete transmission chain; automatic/government-route awareness; named DPIIT evidence; absorptive-capacity condition; distributional qualification.
 
 ---
 
 ## Lesson 6 — Liberalisation without laissez-faire: competition, sector regulation, standards and state capacity
 
-Progress: 6 / 15 | Stage: Core | Subtopic: Liberalisation without laissez-faire: competition, sector regulation, standards and state capacity
+Progress: 6 / 18 | Stage: Core | Subtopic: Liberalisation without laissez-faire: competition, sector regulation, standards and state capacity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — economic reforms and the changing regulatory role of the state
@@ -566,34 +549,32 @@ Standards perform two roles. They protect users and can help firms enter demandi
 9. Over-compliance can burden smaller firms.
 10. Liberalisation changes the form of state capacity.
 
-### Lesson practice
 
-**MCQ 11.** Which statement correctly describes competition policy after liberalisation?
+### Concept check
 
-A. It guarantees survival of every existing firm.
-B. It restores prior licensing in all sectors.
-C. It protects rivalry by addressing anti-competitive conduct and structures.
-D. It fixes every industrial price.
+**Question:** What replaces industrial licensing in a liberalised but well-regulated economy?
 
-### Answers and option explanations
+**Model answer:** Predictable competition, sector, environmental, safety and consumer rules replace discretionary prior entry selection, alongside public goods and enforcement.
 
-**MCQ 11 — Answer: C**
-- **A:** Incorrect. Competition law protects competition, not inefficient competitors.
-- **B:** Incorrect. It uses general rules rather than universal prior entry permission.
-- **C:** Correct. Cartels, dominance abuse and harmful combinations are its domain.
-- **D:** Incorrect. Economy-wide price fixing is not competition policy.
+**Misconception to avoid:** Rule-based regulation is not a disguised return to universal licensing.
 
-### Mains micro-model
+### Responsive Mains practice
 
-**Question:** Why does liberalisation require stronger rather than absent regulation? (10 marks)
+**Question (10 marks · 150 words):** Why does liberalisation require a stronger rule-based state rather than no state?
 
-**Model:** Contrast discretionary entry control with general rule-based regulation. Organise the body around competition, networks, standards, environment and information. Explain proportionality and state capacity. Conclude that reform changes the state from selector of entrants toward referee, public-goods provider and strategic coordinator.
+#### Evidence-rich response
+
+Liberalisation removes discretionary prior permission; it does not remove market failure. Competition law must check cartels, harmful combinations and abuse of dominance. Network sectors require access, tariff and service-quality regulation; environmental, safety and product standards protect third parties and consumers. Contract enforcement, infrastructure and information disclosure make entry effective. Thus the state changes from selecting firms and capacity toward setting predictable general rules, supplying public goods and enforcing contestability. The qualification is two-sided: weak regulation can turn a public monopoly into a private monopoly, while excessive compliance discretion can recreate the licence raj. Good reform therefore requires proportionate rules, institutional capacity and appeal mechanisms. A liberal economy needs a capable referee, not an absent state.
+
+#### Unique scoring rubric
+
+Award for: ex-ante licence/ex-post rule distinction; competition and sector regulation; standards/public goods; monopoly risk; proportionality.
 
 ---
 
 ## Lesson 7 — Why PSUs exist: strategic, natural-monopoly, developmental and public-service mandates
 
-Progress: 7 / 15 | Stage: Core | Subtopic: Why PSUs exist: strategic, natural-monopoly, developmental and public-service mandates
+Progress: 7 / 18 | Stage: Core | Subtopic: Why PSUs exist: strategic, natural-monopoly, developmental and public-service mandates
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — public-sector rationale, industry and infrastructure
@@ -614,6 +595,20 @@ CA found: New PSE Policy notified 4 February 2021; official DIPAM policy page re
 | Commercial | compete and earn return | Does it meet comparable efficiency and governance tests? |
 
 The table shows why one metric cannot judge every PSU. It also shows why vague “social purpose” is inadequate: the obligation must be specified and costed.
+
+### What counts as a public enterprise?
+
+A **CPSE** is a Central Public Sector Enterprise under the Union public-enterprise framework; it is not identical to every government body, statutory authority, departmental undertaking, public-sector bank or state PSE. Enterprise form may include a government company under the Companies Act or a statutory corporation created by legislation. Classification by **Schedule A/B/C/D** concerns organisational importance and executive-level grading; **Maharatna, Navratna and Miniratna** status concerns delegated autonomy subject to DPE criteria. Neither classification proves strategic necessity or efficiency.
+
+| Classification lens | What it tells you | What it does not tell you |
+|---|---|---|
+| Ownership/jurisdiction | Central, state or joint public ownership | whether the firm should be retained |
+| Legal form | government company or statutory corporation | whether it is a natural monopoly |
+| Schedule | relative organisational grading | automatic financial health |
+| Ratna status | delegated board autonomy after eligibility | freedom from accountability or sector law |
+| Listed/unlisted | capital-market access and disclosure setting | whether management control is private |
+
+Exact counts and financial thresholds change; verify the current DPE order before quoting them.
 
 ### Separate four roles
 
@@ -650,60 +645,32 @@ Combining them invites conflict. A ministry may protect its enterprise from comp
 9. Retest whether ownership remains necessary.
 10. Compare ownership with regulation, procurement and contracting.
 
-### Lesson practice
 
-**MCQ 12.** A network industry is privatised but remains a monopoly. The best immediate policy conclusion is:
+### Concept check
 
-A. private ownership automatically ensures competitive pricing.
-B. all quality standards should be removed.
-C. ownership alone determines consumer welfare.
-D. access, tariff and service obligations may require credible sector regulation.
+**Question:** A PSU records losses because it supplies a mandated service below cost. What must be separated before judging efficiency?
 
-**MCQ 13.** Which is the best first step in evaluating a PSU?
+**Model answer:** Separate the cost and funding of the public-service obligation from controllable commercial performance, legacy liabilities and managerial efficiency.
 
-A. Identify and separate its strategic, public-service and commercial mandates.
-B. Assume every loss proves social value.
-C. Assume every profit proves strategic necessity.
-D. Use the same single metric for all enterprises.
+**Misconception to avoid:** Every loss is neither inefficiency nor social value; accounts must separate causes.
 
-**MCQ 14.** Why should a public-service obligation be explicitly funded?
+### Responsive Mains practice
 
-A. To conceal its cost in commercial accounts.
-B. To distinguish policy cost from managerial inefficiency and enable accountability.
-C. To eliminate board oversight.
-D. To guarantee monopoly forever.
+**Question (10 marks · 150 words):** Why can profitability alone neither justify nor condemn a PSU?
 
-### Answers and option explanations
+#### Evidence-rich response
 
-**MCQ 12 — Answer: D**
-- **A:** Incorrect. A private monopoly can exploit market power.
-- **B:** Incorrect. Quality standards remain necessary.
-- **C:** Incorrect. Market structure and regulation matter alongside ownership.
-- **D:** Correct. Network access and service obligations may need specialised oversight.
+Profit is informative but not sufficient because PSUs carry different mandates. A defence enterprise may preserve sovereign capability; a network may provide universal access; a developmental firm may build a missing market; another may be purely commercial. These benefits do not excuse inefficiency. Government should publish and cost non-commercial obligations, compensate them transparently, and benchmark controllable costs against comparable firms. DPE Schedule and Maharatna/Navratna/Miniratna classifications indicate organisational grading or delegated autonomy, not strategic necessity. The decisive mechanism is mandate separation: distinguish owner, board, regulator and purchaser of public service, then compare ownership with regulation, procurement or contracting. Retain a PSU only where the public objective cannot be secured more reliably at lower social cost through an alternative instrument.
 
-**MCQ 13 — Answer: A**
-- **A:** Correct. Mandate clarity is necessary before performance diagnosis.
-- **B:** Incorrect. Loss may reflect inefficiency rather than public value.
-- **C:** Incorrect. Profit does not establish strategic necessity.
-- **D:** Incorrect. Different mandates require differentiated metrics.
+#### Unique scoring rubric
 
-**MCQ 14 — Answer: B**
-- **A:** Incorrect. Explicit funding increases rather than reduces transparency.
-- **B:** Correct. It separates policy choice from operating performance.
-- **C:** Incorrect. Funding does not remove governance duties.
-- **D:** Incorrect. A public-service contract need not imply permanent monopoly.
-
-### Mains micro-model
-
-**Question:** “PSU performance cannot be evaluated by profitability alone.” Discuss. (10 marks)
-
-**Model:** Classify mandates. Explain why strategic resilience or universal service may involve costs. Then insist on explicit obligation, compensation, commercial benchmarking and alternatives analysis. Conclude with enterprise-level periodic review.
+Award for: mandate taxonomy; explicit-costing principle; classification distinction; alternative-delivery test; enterprise-specific verdict.
 
 ---
 
 ## Lesson 8 — Why PSUs underperform: agency problems, soft budgets, governance and performance diagnosis
 
-Progress: 8 / 15 | Stage: Core | Subtopic: Why PSUs underperform: agency problems, soft budgets, governance and performance diagnosis
+Progress: 8 / 18 | Stage: Core | Subtopic: Why PSUs underperform: agency problems, soft budgets, governance and performance diagnosis
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — public-sector performance and disinvestment rationale
@@ -728,6 +695,21 @@ Rescue expectation → weaker creditor/manager discipline → repeated loss → 
 ```
 
 An **agency problem** arises when decision-makers’ incentives diverge from the principals’ goals and monitoring is weak. A **soft budget constraint** exists when an enterprise expects losses to be covered, reducing the credibility of failure.
+
+### Governance and performance architecture
+
+DPE frames public-enterprise policy and performance systems; administrative ministries carry sector responsibility; boards manage enterprises; DIPAM handles Union investment and public-asset-management transactions. Memoranda of Understanding and performance scorecards can clarify targets, but a score is useful only when commercial outcomes are separated from explicit policy obligations.
+
+```text
+Government as owner → mandate and capital-allocation discipline
+Board → strategy, risk, appointments and oversight
+Management → operations and investment
+Independent audit/disclosure → information
+Competition/sector regulator → market discipline
+Parliament/public → accountability
+```
+
+Ratna autonomy attempts to shorten approval chains and let qualified boards take investment decisions. Its success still depends on professional directors, timely appointments, credible consequences and freedom from informal interference.
 
 ### Diagnose before prescribing
 
@@ -768,39 +750,37 @@ Ownership change may solve some incentive problems but cannot repair a bad secto
 9. Ownership change is not a cure for every failure.
 10. Diagnosis must compare feasible counterfactuals.
 
-### Lesson practice
 
-**MCQ 15.** A soft budget constraint most directly means:
+### Concept check
 
-A. the enterprise faces a legally fixed low wage.
-B. its public-service obligation is transparently purchased.
-C. it expects losses to be repeatedly covered, weakening discipline.
-D. it operates in a competitive market.
+**Question:** How does an expected bailout alter management and creditor behaviour even before money is provided?
 
-### Answers and option explanations
+**Model answer:** Rescue expectation weakens the credibility of failure, reducing creditor discipline and management effort: the budget constraint becomes soft.
 
-**MCQ 15 — Answer: C**
-- **A:** Incorrect. Wage setting is not the defining issue.
-- **B:** Incorrect. Transparent purchase hardens accountability.
-- **C:** Correct. Expected rescue weakens financial and managerial discipline.
-- **D:** Incorrect. Competition generally makes the budget constraint harder.
+**Misconception to avoid:** A bailout matters through expectations, not only after cash is transferred.
 
-### Mains micro-model
+### Responsive Mains practice
 
-**Question:** Explain the governance channels through which PSUs may underperform. (10 marks)
+**Question (10 marks · 150 words):** Diagnose the main governance channels of PSU underperformance and identify matched remedies.
 
-**Model:** Define agency and soft-budget problems. Trace multiple objectives, ministry interference, weak boards, rescue expectations and legacy liabilities. Add a diagnostic matrix. Recommend mandate costing, professional governance, competition, hard budget constraints and case-specific ownership review.
+#### Evidence-rich response
+
+PSU underperformance often begins with an agency chain: citizens are diffuse owners, ministries combine policy and shareholder roles, boards receive conflicting objectives, and managers face weak consequences. Expected recapitalisation creates a soft budget constraint, reducing creditor and managerial discipline; legacy debt or unfunded service obligations can simultaneously hide viable operations. Remedies must match causes. DPE performance systems and Ratna autonomy can clarify targets and shorten approvals, but only professional boards, timely appointments, disclosure and consequence management make autonomy effective. Public-service costs should be budgeted separately; commercial segments should face competition; obsolete mandates may require merger, sale or closure. Ownership change is one lever, not a cure for weak regulation, hidden liabilities or ministry interference. Diagnosis must precede prescription.
+
+#### Unique scoring rubric
+
+Award for: agency chain; soft-budget definition; legacy-liability point; DPE/board evidence; matched rather than blanket remedy.
 
 ---
 
 ## Lesson 9 — Ownership-change spectrum: minority disinvestment, strategic sale, privatisation, closure and monetisation
 
-Progress: 9 / 15 | Stage: Core | Subtopic: Ownership-change spectrum: minority disinvestment, strategic sale, privatisation, closure and monetisation
+Progress: 9 / 18 | Stage: Core | Subtopic: Ownership-change spectrum: minority disinvestment, strategic sale, privatisation, closure and monetisation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — Ramesh Singh’s disinvestment types and use-of-proceeds debate
 CA search: "DIPAM disinvestment policy minority stake strategic disinvestment privatisation"
-CA found: official DIPAM Disinvestment Policy page retrieved 24 September 2026; policy definitions current on retrieval date
+CA found: official DIPAM Disinvestment Policy page rechecked 3 October 2026; policy definitions current on retrieval date
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Distinction matrix
@@ -814,7 +794,7 @@ CA found: official DIPAM Disinvestment Policy page retrieved 24 September 2026; 
 | Closure | Not necessarily | Activity ends | No | exit from non-viable activity |
 | Asset monetisation | Usually no enterprise equity sale | Operating/revenue rights may transfer temporarily | Asset/service continues | unlock value from brownfield asset |
 
-**Fact:** DIPAM’s official policy page, retrieved 24 September 2026, defines strategic disinvestment as entire or substantial government share sale with management-control transfer. It describes privatisation as the subset where equity and control pass to private strategic buyers. Minority stake sale occurs without control transfer through approved market methods.
+**Fact:** DIPAM’s official policy page, rechecked 3 October 2026, defines strategic disinvestment as entire or substantial government share sale with management-control transfer. It describes privatisation as the subset where equity and control pass to private strategic buyers. Minority stake sale occurs without control transfer through approved market methods.
 
 ### Why the vocabulary matters
 
@@ -854,60 +834,34 @@ What is changing?
 9. Announcement and completion are different statuses.
 10. Control is the decisive exam distinction.
 
-### Lesson practice
 
-**MCQ 16.** A PSU reports a loss because government ordered below-cost universal service but did not compensate it. The best diagnosis is:
+### Concept check
 
-A. privatisation is automatically sufficient.
-B. the loss proves managerial corruption.
-C. competition law should be abolished.
-D. first separate and fund the public-service obligation before judging commercial efficiency.
+**Question:** Government leases toll rights for a fixed period but keeps the road. Which instrument is this, and why is it not privatisation?
 
-**MCQ 17.** Government sells a small listed stake but retains management control. This is:
+**Model answer:** It is asset monetisation or a concession because operating/revenue rights move temporarily while underlying public ownership remains.
 
-A. minority disinvestment, not necessarily privatisation.
-B. closure.
-C. asset monetisation without equity sale.
-D. necessarily strategic privatisation.
+**Misconception to avoid:** Any private participation is not automatically privatisation.
 
-**MCQ 18.** Which feature distinguishes strategic disinvestment from a minority stake sale?
+### Responsive Mains practice
 
-A. Any receipt enters government accounts.
-B. Management control is transferred with an entire or substantial stake.
-C. Shares may be listed.
-D. Retail investors may participate.
+**Question (15 marks · 250 words):** Distinguish disinvestment, strategic sale, privatisation, closure and asset monetisation.
 
-### Answers and option explanations
+#### Evidence-rich response
 
-**MCQ 16 — Answer: D**
-- **A:** Incorrect. Ownership change does not price an unfunded mandate.
-- **B:** Incorrect. The stated loss has a policy-cost explanation.
-- **C:** Incorrect. Competition oversight remains relevant.
-- **D:** Correct. Mandate costing must precede fair performance assessment.
+The instruments differ by the right transferred. Minority disinvestment sells equity without management control, often through IPO, OFS or buyback. DIPAM defines strategic disinvestment as an entire or substantial share sale with control transfer; it becomes privatisation when the buyer is private, while transfer to another CPSE remains public restructuring. Closure ends the activity. Asset monetisation ordinarily transfers specified operating or revenue rights in a brownfield asset for a period while underlying ownership remains public.
 
-**MCQ 17 — Answer: A**
-- **A:** Correct. Equity is diluted while government control remains.
-- **B:** Incorrect. The enterprise continues.
-- **C:** Incorrect. Shares, not merely asset-use rights, are being sold.
-- **D:** Incorrect. Strategic privatisation requires control transfer.
+NMP 2.0 illustrates the last category: its ₹16.72 lakh crore FY2026–FY2030 figure is estimated monetisation potential, not an equity-sale receipt. Each instrument therefore has a different mechanism—market discipline, control change, exit or capital recycling—and different risks involving valuation, regulation, labour and service quality. Air India’s 2022 control transfer is therefore analytically different from an OFS or a toll concession. The conclusion must identify stake, buyer, control, duration and reversion; using “sale” or “privatisation” generically conceals the actual transaction.
 
-**MCQ 18 — Answer: B**
-- **A:** Incorrect. Both types may generate receipts.
-- **B:** Correct. Control transfer is the defining distinction.
-- **C:** Incorrect. Listing does not determine control transfer.
-- **D:** Incorrect. Retail participation is common in minority-sale methods.
+#### Unique scoring rubric
 
-### Mains micro-model
-
-**Question:** Distinguish disinvestment, strategic disinvestment, privatisation and asset monetisation. (10 marks)
-
-**Model:** Define each by object sold, control and duration. Use the decision tree. Explain fiscal, governance and regulatory implications. End by warning that labels cannot replace transaction-specific analysis.
+Award for: all five definitions; control test; public-to-public boundary; NMP 2.0 evidence; pipeline-versus-receipt qualification.
 
 ---
 
 ## Lesson 10 — Valuing and financing a sale: enterprise value, equity value, control premium and fiscal arithmetic
 
-Progress: 10 / 15 | Stage: Advanced | Subtopic: Valuing and financing a sale: enterprise value, equity value, control premium and fiscal arithmetic
+Progress: 10 / 18 | Stage: Core | Subtopic: Valuing and financing a sale: enterprise value, equity value, control premium and fiscal arithmetic
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — disinvestment proceeds, strategic sale and fiscal-use debate
@@ -981,47 +935,32 @@ No numerical receipt series is used here: the official Budget at a Glance 2026-2
 10. Asset-sale receipts are non-recurring.
 11. Fiscal receipt and efficiency effect are separate.
 
-### Lesson practice
 
-**MCQ 19.** If enterprise value is ₹10,000 crore, debt-like liabilities ₹3,200 crore and surplus cash ₹400 crore, equity value is:
+### Concept check
 
-A. ₹6,400 crore.
-B. ₹6,800 crore.
-C. ₹7,200 crore.
-D. ₹13,600 crore.
+**Question:** Why can adding the full value of operating land to a cash-flow valuation double count value?
 
-**MCQ 20.** Which fiscal statement is most accurate?
+**Model answer:** The forecast cash flow already reflects use of operating land; adding the same land again is valid only if it is genuinely surplus and separately realisable.
 
-A. Disinvestment proceeds are recurring tax revenue.
-B. They permanently eliminate the revenue deficit.
-C. They prove the enterprise became more productive.
-D. They are non-recurring capital receipts from asset sale and must be assessed with foregone claims and retained liabilities.
+**Misconception to avoid:** Book value, market value and transaction value are not interchangeable.
 
-### Answers and option explanations
+### Responsive Mains practice
 
-**MCQ 19 — Answer: C**
-- **A:** Incorrect. It subtracts both liabilities and cash.
-- **B:** Incorrect. It omits adding surplus cash.
-- **C:** Correct. ₹10,000 − ₹3,200 + ₹400 equals ₹7,200 crore.
-- **D:** Incorrect. Debt is a deduction, not an addition.
+**Question (10 marks · 150 words):** Explain why valuation of a strategic sale must go beyond the headline bid.
 
-**MCQ 20 — Answer: D**
-- **A:** Incorrect. Asset sale is not tax revenue.
-- **B:** Incorrect. A one-off receipt cannot permanently repair recurring imbalance.
-- **C:** Incorrect. Receipt accounting does not establish operating productivity.
-- **D:** Correct. It states the stock-flow and liability boundary.
+#### Evidence-rich response
 
-### Mains micro-model
+A strategic-sale bid is meaningful only after defining what is being sold. Discounted operating cash flow yields enterprise value; debt-like, pension and contingent liabilities reduce the residual equity claim, while surplus cash and genuinely non-operating assets may be added. A buyer may pay a control premium because decision rights change. Operating land already supports forecast cash flow and cannot be counted again unless it is separable surplus property. Fiscal analysis must then compare the cheque with transaction costs, liabilities retained, foregone dividends, future support avoided and the value of restructuring or waiting. Since proceeds are one-off capital receipts, they do not constitute recurring fiscal correction. Transparent assumptions and sensitivity ranges are therefore superior to a single headline valuation.
 
-**Question:** Explain the valuation and fiscal risks in strategic disinvestment. (15 marks)
+#### Unique scoring rubric
 
-**Model:** Define enterprise/equity value and show the calculation. Discuss cash-flow assumptions, liabilities, land, control premium, market timing and bidding. Then explain non-debt capital receipt, foregone dividends and non-recurrence. Recommend transparent due diligence, competition and post-sale outcome review.
+Award for: enterprise/equity distinction; debt and surplus treatment; control premium; double-count warning; fiscal counterfactual.
 
 ---
 
 ## Lesson 11 — Air India as a completed transaction: what the case proves—and what it does not
 
-Progress: 11 / 15 | Stage: Advanced | Subtopic: Air India as a completed transaction: what the case proves—and what it does not
+Progress: 11 / 18 | Stage: Core | Subtopic: Air India as a completed transaction: what the case proves—and what it does not
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — strategic disinvestment and control-transfer distinction
@@ -1088,42 +1027,44 @@ The case proves that strategic disinvestment can transfer ownership and manageme
 9. Event success differs from long-run outcome.
 10. Generalisation requires enterprise-level comparison.
 
-### Lesson practice
 
-**MCQ 21.** The Air India transaction is most accurately classified as:
+### Concept check
 
-A. completed privatisation through strategic disinvestment with control transfer.
-B. a minority market sale without control transfer.
-C. temporary asset monetisation only.
-D. closure of aviation services.
+**Question:** What single inference from Air India is safe, and what broad inference is unsafe?
 
-### Answers and option explanations
+**Model answer:** Safe: it proves a completed private control transfer can be structured. Unsafe: it proves every CPSE should or can be privatised successfully.
 
-**MCQ 21 — Answer: A**
-- **A:** Correct. Equity and management control passed to a private strategic buyer.
-- **B:** Incorrect. Government did not retain control.
-- **C:** Incorrect. Enterprise shares, not only time-bound asset rights, transferred.
-- **D:** Incorrect. The airline continued operating.
+**Misconception to avoid:** One completed transaction is evidence, not a universal policy theorem.
 
-### Mains micro-model
+### Responsive Mains practice
 
-**Question:** What does the Air India transaction reveal about strategic disinvestment? (10 marks)
+**Question (10 marks · 150 words):** What can—and cannot—the Air India transaction establish about strategic disinvestment?
 
-**Model:** Establish verified completion and control transfer. Explain debt treatment and transaction design. Separate what it proves from what it cannot prove. Evaluate through fiscal counterfactual, competition, service, investment and labour. End with case-specific rather than ideological inference.
+#### Evidence-rich response
+
+The January 2022 transfer of Air India to Talace Private Limited is a verified example of privatisation through strategic disinvestment: government ownership and management control passed to a private buyer, with debt and liabilities allocated through transaction design. It proves that a complex control transfer can be completed and that headline consideration must be read with the liability perimeter. It does not prove that every CPSE has buyer interest, that all legacy obligations can be isolated, or that ownership change automatically improves competition, service or fiscal welfare. Aviation market structure, investment, employees and retained public obligations still require evaluation. Air India therefore supports case-specific design and post-sale monitoring, not a universal sell-all conclusion.
+
+#### Unique scoring rubric
+
+Award for: verified completion; buyer/control identification; liability-design point; limits of generalisation; post-sale outcome tests.
 
 ---
 
 ## Lesson 12 — New PSE Policy: strategic sectors, bare-minimum presence and enterprise-level decision tests
 
-Progress: 12 / 15 | Stage: Advanced | Subtopic: New PSE Policy: strategic sectors, bare-minimum presence and enterprise-level decision tests
+Progress: 12 / 18 | Stage: Core | Subtopic: New PSE Policy: strategic sectors, bare-minimum presence and enterprise-level decision tests
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — changing disinvestment policy and public-sector role
 CA search: "DIPAM New PSE Policy four strategic sectors bare minimum presence"
-CA found: policy notified 4 February 2021; official DIPAM page retrieved 24 September 2026
+CA found: policy notified 4 February 2021; official DIPAM page rechecked 3 October 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **Fact:** The New Public Sector Enterprise Policy was notified on 4 February 2021. The official DIPAM policy page, retrieved 24 September 2026, states that bare-minimum public-sector commercial presence at holding-company level is to remain in four strategic-sector groups; remaining enterprises may be considered for privatisation, merger, subsidiarisation or closure. Non-strategic PSEs are to be considered for privatisation where feasible, otherwise closure. Specified not-for-profit and developmental/support entities are excluded.
+
+### Current DIPAM transaction snapshot
+
+The DIPAM receipts page retrieved on 3 October 2026 lists FY2026–27 receipts of ₹55,757.29 crore across the displayed transactions. The list includes minority OFS transactions and one strategic-disinvestment entry for Indian Medicines Pharmaceuticals Corporation Limited, where the displayed post-transaction government holding is zero. This is a dated page total, not a forecast of full-year receipts and not a measure of net fiscal benefit. The same page must be rechecked before later use.
 
 ### Four strategic-sector groups
 
@@ -1177,65 +1118,39 @@ Sector classification is not the final decision. Within a strategic sector, each
 10. Policy announcement is not completion.
 11. Limbo has investment and labour costs.
 
-### Lesson practice
 
-**MCQ 22.** What is the soundest analytical lesson from the transaction?
+### Concept check
 
-A. Headline consideration alone equals net fiscal benefit.
-B. Consideration must be read with debt allocation, future support avoided and retained obligations.
-C. One completed sale proves all PSUs should be sold.
-D. Ownership change makes competition irrelevant.
+**Question:** Does placement in a strategic sector automatically require retention of every CPSE? Explain.
 
-**MCQ 23.** Under the New PSE Policy, “bare minimum presence” most accurately applies to:
+**Model answer:** No. The policy retains bare-minimum public presence at sector level; each enterprise still requires mandate, security, market and feasibility appraisal.
 
-A. every non-strategic enterprise.
-B. all public entities without exclusions.
-C. public-sector commercial presence in identified strategic sectors.
-D. a prohibition on mergers.
+**Misconception to avoid:** Strategic sector does not mean retain every enterprise.
 
-**MCQ 24.** Which is the best enterprise-level implementation test?
+### Responsive Mains practice
 
-A. Retain every firm merely because its sector is strategic.
-B. Sell every firm with a temporary loss.
-C. Ignore competition and public-service obligations.
-D. Assess mandate, security, market structure, viability, liabilities and feasible alternatives.
+**Question (15 marks · 250 words):** Assess the logic and implementation risks of the New PSE Policy.
 
-### Answers and option explanations
+#### Evidence-rich response
 
-**MCQ 22 — Answer: B**
-- **A:** Incorrect. Liabilities and foregone/avoided flows alter net benefit.
-- **B:** Correct. Transaction accounting needs the full asset-liability counterfactual.
-- **C:** Incorrect. Enterprise mandates and market structures differ.
-- **D:** Incorrect. Aviation competition and regulation remain relevant.
+The New PSE Policy, notified on 4 February 2021, seeks bare-minimum public commercial presence in four strategic-sector groups; other strategic enterprises may be privatised, merged, subsidiarised or closed, while non-strategic PSEs face privatisation where feasible or closure. Specified developmental and not-for-profit entities are excluded. Its mechanism is portfolio concentration: retain state ownership where security, critical infrastructure, finance or minerals justify it, and release capital and managerial attention elsewhere.
 
-**MCQ 23 — Answer: C**
-- **A:** Incorrect. Non-strategic PSEs face privatisation/closure consideration.
-- **B:** Incorrect. The official policy records exclusions.
-- **C:** Correct. That is the strategic-sector retention principle.
-- **D:** Incorrect. Merger and subsidiarisation are available routes.
+Implementation is enterprise-specific. Government must test mandate, competition, regulation, liabilities, valuation, buyer feasibility, labour transition and regional effects. DIPAM’s page retrieved on 3 October 2026 displayed FY2026–27 receipts of ₹55,757.29 crore across different methods; that dated total is not proof that the policy is complete or that every receipt reflects privatisation. The policy’s stated exclusions also prevent blanket application to developmental and not-for-profit entities. Published criteria, time-bound decisions and post-transaction review are needed to prevent policy limbo and receipt-driven choices.
 
-**MCQ 24 — Answer: D**
-- **A:** Incorrect. Strategic classification does not retain every enterprise.
-- **B:** Incorrect. Temporary loss is not a complete diagnosis.
-- **C:** Incorrect. These factors are central to welfare.
-- **D:** Correct. It applies the required case-specific appraisal.
+#### Unique scoring rubric
 
-### Mains micro-model
-
-**Question:** Explain the logic and implementation challenges of the New PSE Policy. (15 marks)
-
-**Model:** State notification date and architecture. List strategic groups, bare-minimum principle, non-strategic rule and exclusions. Then analyse enterprise selection, regulation, valuation, labour, liabilities, buyer feasibility and policy limbo. Recommend published criteria, time limits and post-decision review.
+Award for: notification/date; four-sector logic; exclusions; enterprise tests; dated DIPAM evidence with status caution.
 
 ---
 
 ## Lesson 13 — Privatisation needs competition: monopoly risk, regulation, labour transition and regional effects
 
-Progress: 13 / 15 | Stage: Advanced | Subtopic: Privatisation needs competition: monopoly risk, regulation, labour transition and regional effects
+Progress: 13 / 18 | Stage: Core | Subtopic: Privatisation needs competition: monopoly risk, regulation, labour transition and regional effects
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — privatisation, competition and reform effects
 CA search: "India privatisation competition regulation labour regional transition"
-CA found: official DIPAM policy framework retrieved 24 September 2026; no unsupported transaction forecast used
+CA found: official DIPAM policy framework rechecked 3 October 2026; no unsupported transaction forecast used
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Monopoly counterfactual
@@ -1286,47 +1201,34 @@ Labour is not merely a cost line. Workers hold firm-specific skills and communit
 10. Place-sensitive capability policy can offset divergence.
 11. Post-sale outcome monitoring is essential.
 
-### Lesson practice
 
-**MCQ 25.** The strongest reason to combine privatisation with competition policy is:
+### Concept check
 
-A. ownership change alone may leave monopoly power intact.
-B. competition guarantees no firm will fail.
-C. private firms cannot innovate.
-D. regulators should manage daily production.
+**Question:** Why may a private monopoly be worse for consumers even if its internal efficiency improves?
 
-**MCQ 26.** A credible labour-transition policy should primarily:
+**Model answer:** Stronger profit incentives can intensify exploitation of market power unless entry, access, tariff and service-quality disciplines constrain the monopolist.
 
-A. conceal restructuring plans.
-B. combine transparent terms, income transition, retraining and placement-linked support.
-C. promise every existing job forever.
-D. ignore supplier communities.
+**Misconception to avoid:** Private ownership does not create competition.
 
-### Answers and option explanations
+### Responsive Mains practice
 
-**MCQ 25 — Answer: A**
-- **A:** Correct. Incentive improvement does not eliminate market power.
-- **B:** Incorrect. Competition permits entry and exit.
-- **C:** Incorrect. Private firms can innovate; the issue is market structure.
-- **D:** Incorrect. Regulation sets rules rather than micromanaging operations.
+**Question (15 marks · 250 words):** Why must privatisation be sequenced with competition and a just transition?
 
-**MCQ 26 — Answer: B**
-- **A:** Incorrect. Opacity increases uncertainty and resistance.
-- **B:** Correct. It addresses both income and employability transitions.
-- **C:** Incorrect. Permanent job guarantees can block necessary adaptation.
-- **D:** Incorrect. Regional suppliers are part of the adjustment burden.
+#### Evidence-rich response
 
-### Mains micro-model
+Ownership changes managerial incentives; market structure determines whether those incentives benefit society. Selling an intact protected monopoly can create a private monopolist with stronger ability to raise prices or reduce access. Reform may therefore require restructuring, open-access obligations, tariff and service-quality rules, and competition enforcement before control transfer.
 
-**Question:** “Privatisation without competition can merely change the identity of the monopolist.” Examine. (15 marks)
+Adjustment is equally important. Workers hold firm-specific skills, suppliers depend on PSU demand, and single-industry towns can lose income and local revenue. Transparent severance, income support, retraining linked to vacancies and regional diversification can enable restructuring without guaranteeing every existing job. The qualification is that transition policy must not preserve obsolete capacity indefinitely. Independent post-sale reporting should compare promised investment and service standards with realised outcomes. A defensible sequence is: diagnose mandate and market structure; establish regulation; disclose liabilities and labour terms; transact transparently; then monitor price, quality, investment, employment and regional outcomes. Privatisation without this sequence may merely change the identity of the monopolist.
 
-**Model:** Distinguish ownership incentives from market structure. Use the monopoly counterfactual. Discuss access, tariffs, service standards, labour and regional transition. Conclude with sequenced restructuring, independent regulation and measurable post-sale outcomes.
+#### Unique scoring rubric
+
+Award for: ownership/market-structure separation; private-monopoly risk; regulatory instruments; labour/regional evidence; sequenced reform.
 
 ---
 
 ## Lesson 14 — Objective-demand clinic: Plan thrusts, Coal Controller’s Organisation and CSR governance
 
-Progress: 14 / 15 | Stage: Advanced | Subtopic: Objective-demand clinic: Plan thrusts, Coal Controller’s Organisation and CSR governance
+Progress: 14 / 18 | Stage: Core | Subtopic: Objective-demand clinic: Plan thrusts, Coal Controller’s Organisation and CSR governance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — planning/industry chronology; institutional facts cross-checked with canonical ledgers
@@ -1359,16 +1261,21 @@ NIP 1991 setting + systemic financial-sector liberalisation and market reform
 ```text
 Ministry of Coal
      ↓
-Coal Controller’s Organisation (subordinate office)
-     ├─ mining and mine-closure plan functions
-     ├─ opening/reopening and grading/quality roles under applicable rules
-     ├─ official coal statistics / Coal Directory
-     └─ Commissioner of Payment role under Coal Mines (Special Provisions) Act 2015
+Coal Controller’s Organisation
+subordinate office · headquarters: Kolkata
+     ├─ mining and mine-closure plans — Mines and Minerals
+     │  (Development and Regulation) Act, 1957
+     ├─ opening/reopening of mines and coal-grading/quality disputes —
+     │  Colliery Control Rules
+     ├─ official coal statistics and Coal Directory of India —
+     │  Collection of Statistics Act, 2008
+     └─ Commissioner of Payment —
+        Coal Mines (Special Provisions) Act, 2015
 
 Coal India Limited → coal-producing CPSE; not the CCO
 ```
 
-CCO is not an autonomous regulator created by a standalone parent statute; it operates as a subordinate office under delegated legal/rule-based functions.
+CCO is a subordinate office under the Ministry of Coal, headquartered in Kolkata. It is not an autonomous statutory regulator created by its own standalone parent Act: its authority is distributed across the MMDR Act, the Colliery Control Rules, the Collection of Statistics Act and the Coal Mines (Special Provisions) Act.
 
 **PYQ linkage:** 2022 Prelims GS-I Q72 tests CCO roles/functions. Official key unavailable locally; no answer letter is inferred.
 
@@ -1405,58 +1312,44 @@ Board accountability
 2. Sixth Plan stressed modernisation and productivity.
 3. Seventh Plan added technology, utilisation, exports and early delicensing.
 4. Eighth Plan aligned with post-1991 systemic reforms.
-5. CCO is under the Ministry of Coal.
-6. CCO has plan, grading, statistics and payment-related functions.
-7. Coal India Limited is a producing CPSE.
-8. CCO is not Coal India.
-9. CSR rests on Section 135.
-10. CSR applies to qualifying companies through prescribed thresholds.
-11. Board accountability is central.
-12. Schedule VII limits the activity domain.
-13. CSR is not an ordinary tax.
-14. Numerical CSR rules are date-sensitive.
+5. CCO is a Ministry of Coal subordinate office headquartered in Kolkata.
+6. It handles mining/mine-closure plans under the MMDR Act, 1957.
+7. Colliery Control Rules support mine-opening and grading/quality roles.
+8. It compiles coal statistics under the Collection of Statistics Act, 2008.
+9. It acts as Commissioner of Payment under the 2015 special-provisions Act.
+10. Coal India Limited is a producing CPSE, not the CCO.
+11. CSR rests on Section 135.
+12. CSR applies to qualifying companies through prescribed thresholds.
+13. Board accountability is central.
+14. Schedule VII limits the activity domain.
+15. CSR is not an ordinary tax.
 
-### Lesson practice
 
-**MCQ 27.** Which phase pairing is most accurate?
+### Concept check
 
-A. Sixth Plan—complete post-1991 prudential reform.
-B. Second Plan—service-led privatisation.
-C. Sixth/Seventh Plans—modernisation and early loosening; Eighth Plan period—systemic post-1991 reform.
-D. Every Plan had the same industrial thrust.
+**Question:** How should a learner treat a routed objective PYQ when the official answer letter has not been directly verified?
 
-**MCQ 28.** Which institutional distinction is correct?
+**Model answer:** Use the verified demand and solve each statement independently, but keep the displayed question answer-neutral and do not infer a letter from routing notes.
 
-A. CCO is the holding company of Coal India.
-B. CSR is a voluntary tax.
-C. Schedule VII governs coal mine opening.
-D. CCO performs specified regulatory/statistical functions, while Coal India is a producing CPSE.
+**Misconception to avoid:** A routed PYQ demand does not supply an official answer key.
 
-### Answers and option explanations
+### Responsive Mains practice
 
-**MCQ 27 — Answer: C**
-- **A:** Incorrect. Systemic post-1991 reform did not occur in the Sixth Plan.
-- **B:** Incorrect. The Second Plan stressed heavy industry and public leadership.
-- **C:** Correct. It preserves the phase-by-phase distinction.
-- **D:** Incorrect. Plan thrusts changed over time.
+**Question (10 marks · 150 words):** How should institution-heavy objective questions on Plans, CCO and CSR be answered without key leakage?
 
-**MCQ 28 — Answer: D**
-- **A:** Incorrect. CCO is a subordinate office, not Coal India’s holding company.
-- **B:** Incorrect. CSR is a statutory company obligation, not a tax.
-- **C:** Incorrect. Schedule VII belongs to CSR activity classification.
-- **D:** Correct. It separates regulator/administrator from producer.
+#### Evidence-rich response
 
-### Mains micro-model
+Institution-heavy questions require a legal-function grid, not remembered answer letters. For the 2019 Plan demand, separate Second Plan heavy-industry leadership, Sixth–Seventh modernisation and the Eighth-period systemic reforms. For the 2022 CCO demand, identify the Coal Controller’s Organisation as the Ministry of Coal’s subordinate office headquartered in Kolkata: mining and mine-closure plans arise under the MMDR Act, 1957; opening/reopening and grading disputes under the Colliery Control Rules; statistics under the Collection of Statistics Act, 2008; and Commissioner of Payment functions under the 2015 special-provisions Act. Coal India is the producer. For 2024 CSR, use Section 135, Board responsibility and Schedule VII, while treating numerical thresholds as date-sensitive. Routing verifies demand, not the answer key.
 
-**Question:** How should a candidate approach institution-heavy objective questions? (10 marks)
+#### Unique scoring rubric
 
-**Model:** Identify legal status, parent ministry, function and exclusions. For chronology, build phase markers. For CSR, separate applicability, governance, spending and disclosure. Verify current numerical rules and never infer an answer letter when the official key has not been checked.
+Award for: Plan chronology; Kolkata/Ministry placement; all four CCO legal-function bases; CSR legal architecture; explicit answer-neutral method.
 
 ---
 
 ## Lesson 15 — Industrial policy after 1991: capability, resilience, technology, jobs, exports and implementation diagnostics
 
-Progress: 15 / 15 | Stage: Advanced | Subtopic: Industrial policy after 1991: capability, resilience, technology, jobs, exports and implementation diagnostics
+Progress: 15 / 18 | Stage: Core | Subtopic: Industrial policy after 1991: capability, resilience, technology, jobs, exports and implementation diagnostics
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — reforms, industry, infrastructure and contemporary capability strategy
@@ -1479,7 +1372,7 @@ Post-1991 policy is not a return to blanket licensing. It increasingly works thr
 
 ### From insulation to indispensability
 
-**Fact:** Economic Survey 2025-26, tabled 29 January 2026, Chapter 8 examines industrial transformation and global integration; retrieved 24 September 2026. Its strategic-indispensability frame points beyond mere insulation: build capabilities that make India a reliable and valuable node in global production.
+**Fact:** Economic Survey 2025-26, tabled on 29 January 2026, Chapter 8 reports that real industry GVA grew **7.00% in H1 FY26**. Its official highlights state that medium- and high-technology activity accounted for **46.3% of manufacturing value added**. These are period- and classification-specific indicators, not proof that structural transformation, domestic technology ownership or employment intensity is complete. The Survey’s strategic-indispensability frame therefore points beyond insulation toward capabilities that make India a reliable and valuable node in global production.
 
 **Inference:** Resilience is not self-sufficiency in everything. It is the capacity to absorb shocks, diversify critical dependencies and recover. Indispensability goes further: other actors depend on India’s capability, quality or scale.
 
@@ -1501,6 +1394,12 @@ Failure route: vague target → incumbent capture → protection without learnin
 
 Modern support can fail through information errors, lobbying, fragmented implementation or metrics that reward output without domestic value addition. The response is not to abandon capability policy but to make it contestable, conditional and evaluable.
 
+### DPIIT and the contemporary investment state
+
+DPIIT is the central nodal department for general industrial policy, FDI policy and facilitation, industrial licensing under the surviving legal perimeter, internal trade, startups, logistics and PM GatiShakti-related coordination. It does not replace sector ministries, environmental authorities, the Competition Commission, financial regulators or state governments.
+
+The June 2026 FDI factsheet illustrates why industrial policy must combine attraction with absorption: inflow is the first link; domestic supplier upgrading, R&D, skills, diffusion and competitive exports are the outcome tests.
+
 ### Final synthesis
 
 The post-1991 state should be judged neither by the number of firms it owns nor by the number it sells. It should be judged by whether it protects competition, provides public goods, secures explicit strategic obligations, enables learning, manages adjustment and exits failed interventions.
@@ -1515,9 +1414,9 @@ The post-1991 state should be judged neither by the number of firms it owns nor 
 
 ### Revision notes
 
-1. Contemporary industrial policy uses capability-building instruments.
-2. Infrastructure, logistics, skills and standards are foundational.
-3. R&D support seeks learning spillovers.
+1. Economic Survey 2025-26 reports real industry GVA growth of 7.00% in H1 FY26.
+2. Its highlights place medium/high-tech activity at 46.3% of manufacturing value added.
+3. Both figures require period, classification and outcome qualifications.
 4. Export success tests global competitiveness.
 5. Resilience differs from complete self-sufficiency.
 6. Strategic indispensability means becoming a relied-upon node.
@@ -1529,43 +1428,264 @@ The post-1991 state should be judged neither by the number of firms it owns nor 
 12. Competition remains essential.
 13. Failed interventions require redesign or exit.
 14. Implementation capacity determines outcomes.
-15. The final criterion is public value, not ownership ideology.
+15. Public value, not a single growth or ownership indicator, is the final criterion.
 
-### Lesson practice
 
-**MCQ 29.** Which best describes strategic indispensability?
+### Concept check
 
-A. Building capabilities that make India a reliable, difficult-to-replace node in global production.
-B. Producing every good domestically regardless of cost.
-C. Permanently protecting every incumbent.
-D. Measuring policy only by subsidy outlay.
+**Question:** What is the difference between strategic resilience and blanket self-sufficiency?
 
-**MCQ 30.** Which is the strongest design for capability support?
+**Model answer:** Resilience diversifies and secures critical capacity at proportionate cost; self-sufficiency seeks domestic production regardless of comparative cost or network value.
 
-A. Vague goals and automatic renewal.
-B. Time-bound, contestable support tied to measurable learning and spillovers.
-C. Protection without export or productivity tests.
-D. Exemption from competition and evaluation.
+**Misconception to avoid:** Resilience is not autarky.
 
-### Answers and option explanations
+### Responsive Mains practice
 
-**MCQ 29 — Answer: A**
-- **A:** Correct. Indispensability combines capability, reliability and global integration.
-- **B:** Incorrect. That is costly autarky, not strategic prioritisation.
-- **C:** Incorrect. Permanent protection can block learning.
-- **D:** Incorrect. Outlay is an input, not an outcome.
+**Question (15 marks · 250 words):** How should post-1991 industrial policy combine openness, capability and resilience?
 
-**MCQ 30 — Answer: B**
-- **A:** Incorrect. Vague renewal encourages capture.
-- **B:** Correct. Conditionality and review connect support to capability.
-- **C:** Incorrect. Without tests, learning cannot be distinguished from rent.
-- **D:** Incorrect. Competition and evaluation discipline the programme.
+#### Evidence-rich response
 
-### Mains micro-model
+Post-1991 openness supplies rivalry, inputs, capital and export opportunity; capability policy addresses coordination, learning and strategic-risk failures through infrastructure, skills, standards, R&D, procurement and conditional incentives. Economic Survey 2025-26, tabled on 29 January 2026, reports **7.00% real industry GVA growth in H1 FY26** and states in its highlights that medium- and high-technology activity formed **46.3% of manufacturing value added**. These figures indicate recent growth and technological composition; they do not prove domestic technology ownership, broad job creation or completed structural transformation.
 
-**Question:** How should India reconcile post-1991 openness with strategic industrial policy? (15 marks)
+Policy should therefore test additional investment, domestic value addition, supplier learning, productivity, exports and durable employment. Resilience means diversified critical capacity and recovery, not autarky. The Survey’s strategic-indispensability frame is achieved when globally competitive networks rely on Indian capability. DPIIT’s inflow data should be paired with these outcome tests rather than used as a substitute for them. Competition, transparent eligibility and sunset review are necessary so targeted support does not become permanent incumbent protection. Openness and strategic policy are complements when support produces measurable learning.
 
-**Model:** Reject the openness-versus-state binary. Build the answer around competition, capability, resilience, jobs and exports. Explain targeted support, infrastructure and standards; require spillovers, contestability and sunset review. Include labour/regional adjustment. Conclude with strategic indispensability through global integration rather than blanket insulation.
+#### Unique scoring rubric
+
+Award for: openness-capability mechanism; both Survey figures with exact period/source; outcome qualification; resilience/indispensability distinction; sunset condition.
+
+---
+
+## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+The next three lessons deepen evaluation. They are not prerequisites for a competent core answer, but they improve 15- and 20-mark analysis.
+
+## Lesson 16 — First-generation versus later reforms: factors, institutions and state-level divergence
+
+Progress: 16 / 18 | Stage: Advanced | Subtopic: First-generation versus later reforms: factors, institutions and state-level divergence
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — Ramesh Singh on reform generations; cross-owner logistics, trade and manufacturing evidence checked
+CA search: "DPIIT Annual Report 2025-26 industrial policy logistics investment facilitation"
+CA found: DPIIT’s current mandate and June 2026 FDI factsheet were available; no state ranking is used
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```text
+FIRST GENERATION                    LATER COMPLEMENTS
+licensing / trade / forex      →    land and urban systems
+entry barriers                 →    power and logistics
+public reservation             →    skills and technology
+price/allocation controls      →    credit and insolvency
+                               →    contracts and regulation
+```
+
+Product-market reform makes relative prices and rivalry more informative. It also exposes the next constraint. A firm legally free to expand may still fail because land is disputed, logistics are unreliable, power quality is weak or skilled labour is scarce.
+
+This produces state-level divergence. National delicensing is common, but implementation capacity, infrastructure and agglomeration differ. Investment therefore clusters where suppliers and services already exist. Industrial corridors and logistics coordination can reduce these costs, but forced dispersal without ecosystem support may create stranded capacity.
+
+**Objection:** “Later reform” is often used to demand indiscriminate deregulation.
+
+**Reply:** The relevant test is not fewer rules. It is whether institutions reduce coordination and transaction cost while protecting labour, environment, competition and due process.
+
+### UPSC use
+
+- Separate product-market opening from factor and institutional capability.
+- Explain regional divergence through agglomeration plus governance.
+- Treat reform sequencing as complementary, not as an endless deregulation slogan.
+
+### Revision notes
+
+1. First-generation reform reduced entry and allocation controls.
+2. Later reform addresses complementary factors and institutions.
+3. Land, power, logistics and skills condition firm response.
+4. Credit and insolvency affect reallocation.
+5. Contracts and regulatory capacity affect risk.
+6. Common national rules can yield unequal state outcomes.
+7. Agglomeration attracts further investment.
+8. Corridors work only with local ecosystem depth.
+9. Rights and safeguards remain part of institutional quality.
+10. Sequencing should target the binding constraint.
+
+### Concept check
+
+**Question:** Why do factor-market bottlenecks become more important after product-market delicensing?
+
+**Model answer:** Once entry barriers fall, firms’ response depends more visibly on land, logistics, power, skills, finance and contract enforcement.
+
+**Misconception to avoid:** Later reform is not merely another round of delicensing.
+
+### Responsive Mains practice
+
+**Question (15 marks · 250 words):** Distinguish first-generation product-market reform from later factor-market and institutional reform.
+
+#### Evidence-rich response
+
+First-generation reforms changed product-market rules: industrial delicensing, trade and exchange liberalisation, reduced reservation and greater competitive entry. Once these barriers fell, firms’ response depended more visibly on land, reliable power, logistics, finance, skills, insolvency, contracts and regulatory capacity. Later reform therefore addresses factor markets and institutions rather than merely repeating delicensing.
+
+This distinction explains spatial divergence. National entry rules are common, but states with supplier clusters, infrastructure and administrative capability attract cumulative investment; lagging regions can remain trapped. Corridors, logistics coordination and urban services can reduce costs, but forced location without an ecosystem creates stranded capacity. PM GatiShakti-style coordination is relevant because disconnected projects do not automatically become an efficient network. “Later reform” must also not become a label for weakening labour, environmental or competition safeguards. The correct test is whether reform lowers coordination and transaction costs while preserving rights, accountability and contestability. Sequencing should target the binding constraint revealed after product-market opening.
+
+#### Unique scoring rubric
+
+Award for: generation distinction; at least four factor/institution examples; regional heterogeneity; rights qualification; causal continuity.
+
+---
+
+## Lesson 17 — Valuation and fiscal counterfactuals: uncertainty, liabilities and control
+
+Progress: 17 / 18 | Stage: Advanced | Subtopic: Valuation and fiscal counterfactuals: uncertainty, liabilities and control
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — disinvestment proceeds and strategic-sale mechanics
+CA search: "DIPAM strategic disinvestment valuation transaction adviser liabilities"
+CA found: official policy and receipts pages checked on 3 October 2026; no unverified reserve price is used
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```text
+forecast operating cash flow
+        ↓ discount for risk
+ENTERPRISE VALUE
+  − debt-like liabilities
+  + surplus cash
+  ± non-operating assets/obligations
+        ↓
+EQUITY VALUE
+  + defensible control premium
+        ↓
+transaction value range
+```
+
+Valuation is a range, not an oracle. Forecasts depend on competition, regulation, capex and terminal value. A strategic transaction also needs a liability perimeter: debt, pensions, litigation, environmental remediation, guarantees and land title.
+
+The fiscal counterfactual is wider than the cheque:
+
+| Add | Subtract or compare |
+|---|---|
+| sale proceeds | transaction cost |
+| future support avoided | liabilities retained |
+| tax/dividend effects under new owner | foregone future dividends |
+| value unlocked by investment | value of restructuring or waiting |
+
+**Objection:** A low market price proves undervaluation.
+
+**Reply:** Market capitalisation is relevant for a listed minority claim, but control, illiquidity, liabilities and transaction conditions may alter value. Transparency of assumptions is more useful than one supposedly perfect method.
+
+### UPSC use
+
+- Use enterprise value → equity value → control bridge.
+- State the land and liability perimeter.
+- Treat proceeds as one-off capital receipts.
+- Compare sale now with feasible alternatives.
+
+### Revision notes
+
+1. Enterprise value precedes financing claims.
+2. Equity value is residual to debt-like liabilities.
+3. Surplus cash may be added.
+4. Operating land should not be double counted.
+5. Control can command a premium.
+6. Forecast and discount-rate assumptions matter.
+7. Pensions and litigation affect the liability perimeter.
+8. Headline consideration is not net fiscal benefit.
+9. Foregone dividends belong in the counterfactual.
+10. Disinvestment receipts are non-recurring capital receipts.
+
+### Concept check
+
+**Question:** Why is gross sale consideration not identical to net fiscal gain?
+
+**Model answer:** Government may retain liabilities, lose dividends and incur transaction costs; avoided future support and alternative timing also belong in the counterfactual.
+
+**Misconception to avoid:** A high bid is not automatically a high net public benefit.
+
+### Responsive Mains practice
+
+**Question (15 marks · 250 words):** Construct a transparent valuation and fiscal-counterfactual framework for a CPSE strategic sale.
+
+#### Evidence-rich response
+
+A transparent strategic-sale framework begins with the asset and liability perimeter. Forecast operating cash flows, sector risk and terminal assumptions produce enterprise value. Deduct debt-like liabilities, pensions and contingencies; add surplus cash and independently realisable non-operating assets; then assess a defensible control premium. Land title, environmental remediation, guarantees and litigation must be assigned explicitly.
+
+Fiscal evaluation compares more than proceeds. Include transaction costs and liabilities retained; compare foregone dividends with future capital support avoided; and test restructuring, closure or delayed sale as counterfactuals. Market capitalisation informs a listed minority claim but may not capture control, illiquidity or transaction conditions. Air India demonstrates why debt allocation and retained obligations must accompany the headline consideration. Because disinvestment proceeds are non-recurring capital receipts, even a well-priced sale cannot substitute for structural revenue and expenditure reform. Publishing assumptions, valuation ranges and sensitivity tests makes disagreement auditable and reduces the risk that a politically chosen number is presented as objective value.
+
+#### Unique scoring rubric
+
+Award for: valuation bridge; liability perimeter; land/control treatment; full fiscal counterfactual; one-off-receipt boundary.
+
+---
+
+## Lesson 18 — Evaluation and political economy: additionality, capture and sunset
+
+Progress: 18 / 18 | Stage: Advanced | Subtopic: Evaluation and political economy: additionality, capture and sunset
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — capability policy, competition and state-capacity cautions
+CA search: "Economic Survey 2025-26 strategic indispensability industrial policy evaluation"
+CA found: Economic Survey 2025-26 industrial-transformation frame retained; NMP 2.0 and DPIIT data checked separately
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```text
+named failure
+   ↓
+eligible and contestable support
+   ↓
+measurable additional investment / learning / resilience
+   ↓
+independent evaluation against counterfactual
+   ├─ works → taper or graduate
+   ├─ partial → redesign
+   └─ fails → sunset
+
+capture route: vague goal → incumbent lobbying → renewal → permanent rent
+```
+
+**Additionality** asks what occurred because of policy, not what occurred while policy existed. Gross production can rise because demand rose anyway. Evaluation must examine domestic value addition, supplier depth, R&D, productivity, jobs, exports and resilience relative to a counterfactual.
+
+Political economy matters because concentrated beneficiaries organise more easily than dispersed taxpayers and consumers. Clear eligibility, disclosure, competition among recipients and sunset clauses reduce capture. They cannot remove it entirely; institutional review must be able to terminate a politically connected programme.
+
+Strategic indispensability is the opposite of isolation. India becomes valuable when its capabilities are reliable, innovative and integrated enough that global networks depend on them.
+
+### UPSC use
+
+- Demand a named failure and measurable spillover.
+- Separate gross output from additionality.
+- Include distribution across firms, workers and regions.
+- End with redesign, graduation or exit.
+
+### Revision notes
+
+1. Additionality requires a counterfactual.
+2. Outlay and sanction are inputs, not outcomes.
+3. Gross production may have risen without support.
+4. Supplier learning is a spillover test.
+5. Domestic value addition differs from assembly.
+6. Contestability reduces incumbent entitlement.
+7. Disclosure supports review.
+8. Sunset must be credible.
+9. Failed policy needs redesign or exit.
+10. Capture risk survives good intentions.
+11. Resilience must be proportionate to risk.
+12. Indispensability requires global competitiveness.
+
+### Concept check
+
+**Question:** What design feature most clearly separates capability policy from permanent protection?
+
+**Model answer:** Time-bound, contestable support tied to additionality and an enforceable sunset or redesign rule distinguishes learning policy from entitlement.
+
+**Misconception to avoid:** Output growth alone does not prove policy additionality.
+
+### Responsive Mains practice
+
+**Question (20 marks · 250 words):** Design an evaluation framework that prevents strategic industrial policy from becoming permanent rent protection.
+
+#### Evidence-rich response
+
+Strategic industrial policy should begin with a named failure—coordination, learning spillover, security or resilience—and a counterfactual showing why markets alone will underprovide capability. Support must be contestable, time-bound and conditional on measurable additional investment, productivity, domestic supplier development, R&D, exports or recovery capacity. Evaluation should separate gross output from additionality and examine distribution across firms, workers and regions.
+
+Political economy is central: beneficiaries are concentrated and can lobby for renewal, while costs are dispersed. Disclosure, independent evaluation, competition among recipients and a credible sunset reduce capture. Results should trigger graduation where learning is achieved, redesign where constraints were misdiagnosed, and exit where additionality fails. Evaluation should also ask whether benefits diffuse to MSME suppliers, whether employment is durable and whether regional concentration worsens. Economic Survey 2025-26’s strategic-indispensability idea supplies the objective: build reliable capabilities that global production networks value, not permanent insulation. Its 7.00% H1 FY26 real-industry-GVA growth and 46.3% medium/high-tech manufacturing share are useful baselines, not causal proof of policy success. Even well-designed metrics can be gamed, so qualitative technology depth and domestic linkages must accompany numerical targets. The conclusion is conditional activism—state support earns continuation only through verified public value and must remain reversible.
+
+#### Unique scoring rubric
+
+Award for: named failure/counterfactual; conditional metrics; additionality; redesign/exit rule; capture and qualified verdict.
 
 ---
 
@@ -1576,7 +1696,7 @@ D. Exemption from competition and evaluation.
 | Year | Paper/Q. | Verified demand | Key boundary | Where taught | Answer approach, without solving the PYQ |
 |---|---|---|---|---|---|
 | 2019 | Prelims GS-I Q70 | Five-Year Plans’ industrial and financial-sector thrust | Official key unavailable locally; no answer inferred | Lessons 3 and 14 | Build a Plan chronology; distinguish Second Plan heavy-industry/public leadership, Sixth–Seventh modernisation/early loosening and Eighth-period systemic post-1991 reform. Test each printed statement independently. |
-| 2022 | Prelims GS-I Q72 | Coal Controller’s Organisation roles/functions | Official key unavailable locally; no answer inferred | Lesson 14 | Identify parent ministry, subordinate-office status and plan/grading/statistics/payment functions; exclude Coal India’s production role. |
+| 2022 | Prelims GS-I Q72 | Coal Controller’s Organisation roles/functions | Official key unavailable locally; no answer inferred | Lesson 14 | Identify Ministry of Coal placement and Kolkata headquarters; map MMDR Act plan functions, Colliery Control Rules roles, statistics under the 2008 Act and Commissioner of Payment under the 2015 Act; exclude Coal India’s production role. |
 | 2024 | Prelims GS-I Q50 | CSR rules in India | Official Set-A key exists locally, but answer not recorded because it was not directly verified from that key in this session | Lesson 14 | Separate applicability, Board/committee governance, prescribed spending, Schedule VII and unspent/disclosure treatment; verify date-sensitive thresholds before using numbers. |
 
 ## Routing boundary through 2026
@@ -1591,93 +1711,37 @@ The audited 2026 routing ledger records **no directly routed 2026 question for t
 4. Do not infer a letter from coaching memory or from a canonical note.
 5. Keep the answer approach separate from a solved PYQ model.
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-**MCQ 31.** Consider the following statements:
+## Core check 1 — Reform sequence
 
-1. Disinvestment always transfers management control.
-2. Privatisation is a subset of strategic disinvestment when equity and control pass to a private buyer.
-3. Asset monetisation may retain public ownership of the underlying asset.
+**Question:** Connect the 1956 architecture, 1980s transition and 1991 break in one causal chain.
 
-Which statement set is conceptually correct?
+**Model answer:** Public leadership built basic capacity under capital scarcity; licensing then accumulated delay and incumbent protection; selective 1980s loosening addressed productivity; the 1991 crisis enabled a general shift from prior permission toward competition, trade openness and rule-based regulation.
 
-A. 1 only
-B. 1 and 2 only
-C. 2 and 3 only
-D. 1, 2 and 3
+## Core check 2 — Ownership and control
 
-**MCQ 32.** A PSU has a measurable universal-service mandate, a competitive commercial segment and legacy pension debt. The best reform sequence is:
+**Question:** Place minority OFS, strategic sale to another CPSE, privatisation and asset monetisation on a control-rights spectrum.
 
-A. classify all loss as inefficiency.
-B. sell immediately without liability disclosure.
-C. protect it permanently from competition.
-D. cost the mandate, separate liabilities, benchmark commercial operations, then choose governance/ownership reform.
+**Model answer:** Minority OFS changes equity dispersion without control; public-to-public strategic sale transfers control but remains public; privatisation transfers equity and control to a private buyer; monetisation transfers defined operating/revenue rights without ordinarily selling underlying public ownership.
 
-**MCQ 33.** Which sequence most plausibly links delicensing to productivity?
+## Core check 3 — PSU decision
 
-A. lower entry barriers → rivalry/reallocation → technology and scale response → productivity, conditional on complementary capabilities.
-B. lower entry barriers → automatic elimination of every market failure.
-C. lower entry barriers → guaranteed equal employment in every region.
-D. lower entry barriers → disappearance of safety standards.
+**Question:** What five questions should precede a retain/sell/close decision?
 
-**MCQ 34.** Which transaction most clearly constitutes privatisation?
+**Model answer:** Identify the mandate; test market structure and regulation; separate current performance from legacy liabilities; compare feasible ownership/contracting alternatives; evaluate fiscal, labour and regional transition.
 
-A. Government sells 5% but retains control.
-B. Government transfers a controlling stake and management to a private strategic buyer.
-C. Government leases toll rights for ten years while retaining the road.
-D. One CPSE buys another CPSE.
+## Core check 4 — Current-data discipline
 
-**MCQ 35.** Which item should ordinarily be deducted when moving from enterprise value to equity value?
+**Question:** Why must DPIIT inflows, DIPAM receipts and NMP pipeline values never be used interchangeably?
 
-A. A justified control premium.
-B. Surplus cash.
-C. Debt-like liabilities.
-D. Expected operating cash flow.
+**Model answer:** DPIIT FDI is an investment inflow, DIPAM reports dated transaction receipts, and NMP states pipeline potential. Economic Survey figures—7.00% real industry GVA growth in H1 FY26 and a 46.3% medium/high-tech manufacturing-value-added share—are period/classification indicators. None is interchangeable with completed structural transformation.
 
-**MCQ 36.** Which is the strongest general conclusion about industrial policy after 1991?
+## Optional Advanced check 5 — Additionality and exit
 
-A. The state ceased to matter.
-B. Ownership transfer replaced competition policy.
-C. Every strategic objective requires a PSU.
-D. The state’s role shifted toward competition, regulation, public goods, capability and explicit strategic obligations.
+**Question:** What result should follow when strategic support produces output but no verified additional investment, supplier learning or productivity spillover?
 
-## Answers and option explanations
-
-**MCQ 31 — Answer: C**
-- **A:** Incorrect. Statement 1 is false because minority sale can retain control.
-- **B:** Incorrect. It includes false Statement 1.
-- **C:** Correct. Statements 2 and 3 preserve the control and ownership distinctions.
-- **D:** Incorrect. All three cannot be correct because Statement 1 is absolute and false.
-
-**MCQ 32 — Answer: D**
-- **A:** Incorrect. Unfunded service and legacy debt can create loss without current inefficiency.
-- **B:** Incorrect. Opaque liabilities impair valuation and accountability.
-- **C:** Incorrect. Permanent protection can preserve inefficiency and monopoly.
-- **D:** Correct. Diagnosis and separation should precede instrument choice.
-
-**MCQ 33 — Answer: A**
-- **A:** Correct. It states the full conditional transmission chain.
-- **B:** Incorrect. Delicensing cannot remove monopoly, externality or information problems automatically.
-- **C:** Incorrect. Growth and jobs can be regionally uneven.
-- **D:** Incorrect. Safety regulation remains necessary.
-
-**MCQ 34 — Answer: B**
-- **A:** Incorrect. A minority sale without control is not privatisation.
-- **B:** Correct. Private ownership and management control transfer.
-- **C:** Incorrect. Time-bound operating rights are monetisation/concession, not equity privatisation.
-- **D:** Incorrect. Control changes but remains in the public sector.
-
-**MCQ 35 — Answer: C**
-- **A:** Incorrect. A premium may be added after base equity valuation.
-- **B:** Incorrect. Surplus cash is generally added.
-- **C:** Correct. Debt-like claims reduce the residual equity value.
-- **D:** Incorrect. Operating cash flow is an input to enterprise valuation.
-
-**MCQ 36 — Answer: D**
-- **A:** Incorrect. Regulation and public goods require state capacity.
-- **B:** Incorrect. Competition remains essential after ownership change.
-- **C:** Incorrect. Regulation or procurement may secure some strategic objectives.
-- **D:** Correct. It captures the transformed, not abolished, state role.
+**Model answer:** Gross output alone does not establish additionality. The intervention should be independently reviewed against its counterfactual and then redesigned or ended; optional Advanced analysis cannot reverse the Core requirement of contestability, measurable public value and a credible sunset.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -1692,6 +1756,10 @@ Disinvestment is the sale of part or all of government equity in a public enterp
 The distinction matters because expected outcomes differ. Minority sale cannot be assumed to solve ministry interference or soft-budget expectations. Control transfer does not by itself create competition, remove legacy liabilities or fund public-service obligations. Closure and asset monetisation are also separate: closure ends activity, while monetisation may transfer time-bound operating rights without selling enterprise equity.
 
 Hence every proposal should specify stake, buyer, control, liabilities, market structure and public obligations. Governance analysis must follow the actual transaction, not the generic label “disinvestment.”
+
+### Scoring ceiling
+
+A response that defines the terms but omits control, monetisation and governance consequences should not cross the middle band. Full marks require a named control-transfer example and a qualification.
 
 ## 15-mark question
 
@@ -1715,9 +1783,13 @@ The results are heterogeneous. Productive firms may expand and consumers gain, b
 
 Thus laissez-faire is not the logical endpoint of liberalisation. The state moves from selecting capacity through case-by-case permission toward setting general rules, providing public goods, correcting failures and evaluating strategic support. Industrial growth depends on both competitive pressure and capable institutions.
 
+### Scoring ceiling
+
+A chronology-only answer cannot reach the top band. Full marks require the transmission mechanism, at least four post-liberalisation state functions, heterogeneous effects and a qualified conclusion.
+
 ## 20-mark question
 
-**Question:** “The future of public-sector reform lies in separating mandate, ownership, market structure and fiscal arithmetic.” Discuss. (250–300 words)
+**Question:** “The future of public-sector reform lies in separating mandate, ownership, market structure and fiscal arithmetic.” Discuss. (250 words)
 
 ### Model answer
 
@@ -1735,74 +1807,32 @@ The New PSE Policy notified on 4 February 2021 supplies a strategic/non-strategi
 
 Therefore reform should publish mandates, separate owner/regulator roles, harden budget constraints, value transparently, protect contestability and review outcomes. Public value—not ownership ideology or annual receipt—should decide.
 
+### Scoring ceiling
+
+A sale-versus-retain opinion without the four-part framework is capped below the top band. Full marks require mandate, ownership, market structure and fiscal arithmetic, with one completed case and one implementation qualification.
+
 # REMEDIATION
 
-## Error repair set
+## Common-error repair set
 
-**MCQ 37.** A candidate writes, “The 1991 reforms deregulated Indian industry completely.” The best correction is:
+| Error | Why it fails | Repair move |
+|---|---|---|
+| “1991 abolished regulation” | it reduced discretionary licensing | name competition, sector, safety and environmental rules |
+| “MRTP and competition law are identical” | old threshold control and effects-based law differ | contrast size approval with conduct/combination oversight |
+| “FDI equals technology transfer” | diffusion requires absorption | add suppliers, skills, R&D and competition |
+| “All PSUs should be judged by profit” | mandates differ | cost obligations, then benchmark commercial performance |
+| “All disinvestment is privatisation” | control may remain public | state stake, buyer and management control |
+| “NMP sells the asset” | monetisation can retain ownership | specify right, duration and reversion |
+| “Receipts improve recurring revenue” | asset sale is one-off capital receipt | discuss stock-flow and fiscal counterfactual |
+| “Strategic sector means retain every firm” | bare minimum is sector-level guidance | apply enterprise tests |
+| “Output proves industrial-policy success” | gross output lacks counterfactual | test additionality and spillovers |
+| “Routed PYQ means known answer” | routing proves demand, not key | keep the displayed item answer-neutral |
 
-A. They substantially delicensed entry but retained competition, sector, safety and environmental regulation.
-B. They restored all pre-1991 licences.
-C. They applied only to PSUs.
-D. They abolished the state.
+## Remediation drill
 
-**MCQ 38.** A valuation adds the present value of operating cash flow and then adds the full value of the factory land already used to generate that cash flow. This most likely:
+Rewrite this defective claim: “Because FY2026–27 DIPAM receipts were ₹55,757.29 crore, privatisation generated an equal permanent fiscal gain.”
 
-A. correctly adds a control premium.
-B. double counts an operating asset unless land is separately surplus.
-C. converts enterprise value into debt.
-D. proves the reserve price is too low.
-
-**MCQ 39.** Which statement about CSR is safest without rechecking current numerical rules?
-
-A. It is always voluntary.
-B. It is a tax remitted to the Consolidated Fund.
-C. Section 135 creates a Board-owned statutory obligation for qualifying companies, with exact thresholds/rates treated as date-sensitive.
-D. It applies only to CPSEs.
-
-**MCQ 40.** Which statement respects the PYQ evidence boundary?
-
-A. The 2019 and 2022 official answer letters can be deduced from routing notes.
-B. The 2024 CSR answer must be stated because a key exists somewhere locally.
-C. A 2025 PLI question is automatically a direct PYQ for this owner.
-D. State verified demand and answer approach, but do not record an answer unless the official key is directly checked.
-
-## Answers and option explanations
-
-**MCQ 37 — Answer: A**
-- **A:** Correct. Liberalisation reduced discretionary controls but did not erase rule-based regulation.
-- **B:** Incorrect. The direction was substantial delicensing.
-- **C:** Incorrect. Entry and trade reforms affected private industry too.
-- **D:** Incorrect. The state retained regulatory and developmental functions.
-
-**MCQ 38 — Answer: B**
-- **A:** Incorrect. Control premium concerns decision rights, not duplicated assets.
-- **B:** Correct. Operating cash flow already reflects use of operating land.
-- **C:** Incorrect. Double counting does not transform value into debt.
-- **D:** Incorrect. The error alone does not determine the correct reserve price.
-
-**MCQ 39 — Answer: C**
-- **A:** Incorrect. CSR becomes statutory for qualifying companies.
-- **B:** Incorrect. It is a company spending/governance obligation, not an ordinary tax.
-- **C:** Correct. It preserves the stable legal concept without freezing amendable numbers.
-- **D:** Incorrect. Applicability is company-threshold based, not limited to CPSEs.
-
-**MCQ 40 — Answer: D**
-- **A:** Incorrect. Routing establishes ownership/demand, not answer letters.
-- **B:** Incorrect. Existence is not direct verification.
-- **C:** Incorrect. Cross-linkage does not equal direct routing.
-- **D:** Correct. It follows the verified-PYQ boundary.
-
-## Misconception-to-repair table
-
-| Misconception | Repair |
-|---|---|
-| Liberalisation means no state | It changes the state from discretionary controller toward regulator, provider and coordinator. |
-| Every disinvestment is privatisation | Ask whether management control passes to a private buyer. |
-| Loss proves PSU failure | Separate funded/unfunded mandate, legacy liabilities and controllable performance. |
-| Sale price equals fiscal gain | Include liabilities, future support avoided, dividends foregone and transaction cost. |
-| Strategic means retain every PSU | Sector strategy and enterprise necessity are distinct tests. |
-| Protection creates capability | Capability requires measurable learning, spillovers and sunset review. |
+**Repair:** The official page listed dated receipts across different methods, mainly minority OFS plus a displayed strategic transaction. Receipts are one-off capital inflows, not necessarily privatisation and not equal to net or permanent fiscal gain; retained liabilities, foregone dividends, transaction cost and avoided support must be examined.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -1952,13 +1982,13 @@ Four strategic-sector groups: atomic/space/defence; transport/telecom; power/pet
 ## 12. Objective clinic
 
 - **2019 Q70:** Plan thrust chronology; no official key locally.
-- **2022 Q72:** CCO functions versus Coal India production; no official key locally.
+- **2022 Q72:** CCO is the Kolkata-headquartered subordinate office under the Ministry of Coal; map its MMDR Act plan functions, Colliery Control Rules roles, statistics under the 2008 Act and Commissioner of Payment role under the 2015 Act against Coal India’s production function; no official key locally.
 - **2024 Q50:** CSR Section 135, Board-owned obligation, Schedule VII, date-sensitive thresholds; key exists but answer not recorded without direct verification.
 - **2026:** no direct routed question for this owner.
 
 ## 13. Current anchor discipline
 
-- Economic Survey 2025-26 tabled 29 January 2026; Chapter 8 retrieved 24 September 2026.
+- Economic Survey 2025-26, tabled 29 January 2026: real industry GVA grew 7.00% in H1 FY26; official highlights put medium/high-tech activity at 46.3% of manufacturing value added. Retain the period/classification qualification.
 - New PSE Policy notified 4 February 2021; DIPAM page retrieved 24 September 2026.
 - Air India transaction completed 27 January 2022; PIB release retrieved 24 September 2026.
 - Do not turn dated estimates or aggregate “Other Receipts” into an unsupported disinvestment series.
@@ -1970,56 +2000,86 @@ Four strategic-sector groups: atomic/space/defence; transport/telecom; power/pet
 **Evaluation:** market failure versus government failure; ownership versus market structure; capital receipt versus recurring flow.
 **Conclusion:** transparent objectives, independent regulation, contestability, explicit PSU mandates, worker transition and periodic review.
 
+## 15. Optional Advanced recall — after the complete Core
+
+- First-generation product-market reform exposes later factor and institutional constraints.
+- Strategic-sale valuation requires an explicit liability perimeter and fiscal counterfactual.
+- Capability support requires additionality, independent evaluation, redesign or sunset.
+
 # COVERAGE MATRIX
 
-| Required coverage | Lesson/final location | Coverage evidence |
+| Coverage unit | Location | Status |
 |---|---|---|
-| Verbatim GS-III clause | Opening, register notes | Quoted exactly and decomposed |
-| Industrial-policy scope/instruments | 1 | Coordination flow, objective/instrument distinction |
-| 1948 settlement | 1 | Mixed economy and boundary with 1956 |
-| 1956 schedules/commanding heights | 2 | Schedule table and rationale |
-| IDR Act/licence raj | 3 | Factory-entry case and purpose/effect |
-| Sixth/Seventh transition | 3, 14 | Chronology and PYQ clinic |
-| 1991 crisis/package | 4 | Stabilisation–structural causal sequence |
-| Liberalisation effects/growth | 5 | Firm case, transmission and distribution |
-| Competition/regulation/state capacity | 6, 13 | Institutional table and monopoly counterfactual |
-| PSU rationales | 7 | Mandate scorecard |
-| PSU underperformance | 8 | Agency, soft budget and diagnostic matrix |
-| Ownership distinctions | 9 | Control matrix and decision tree |
-| Valuation/fiscal arithmetic | 10 | DCF example, EV/equity and capital-receipt boundary |
-| Air India | 11 | Verified transaction case and limits |
-| New PSE Policy | 12 | Strategic groups, bare minimum, exclusions and decision tree |
-| Labour/regional/technology/export effects | 5, 13, 15 | Transition table and implementation dashboard |
-| Plan PYQ 2019 Q70 | 14, PYQ section | Demand and approach, no key inferred |
-| CCO PYQ 2022 Q72 | 14, PYQ section | Institutional map, no key inferred |
-| CSR PYQ 2024 Q50 | 14, PYQ section | Governance chain, answer not recorded |
-| 2026 routing boundary | PYQ section | No direct routed question |
-| 40 rotating MCQs | Lessons, cumulative, remediation | MCQ 1=A through MCQ 40=D |
-| Original Mains practice | Lessons and final practice | Micro-models plus 10/15/20-mark answers |
+| Industrial-policy definition, coordination and instruments | Lessons 1, 15 | complete |
+| 1948 mixed economy | Lesson 1 | complete |
+| 1956 schedules, commanding heights and public-sector expansion | Lesson 2 | complete |
+| IDR Act licensing, MRTP, 1969–1980s transition | Lesson 3 | complete |
+| 1991 crisis, LPG, delicensing, de-reservation, MRTP and technology reform | Lesson 4 | complete |
+| Investment, FDI routes, transmission and DPIIT data | Lesson 5 | complete |
+| Competition, sector regulation, standards and state capacity | Lesson 6 | complete |
+| CPSE meaning, legal/schedule/Ratna classifications and PSU mandates | Lesson 7 | complete |
+| DPE, boards, MoU/performance, agency and soft budgets | Lesson 8 | complete |
+| Disinvestment, strategic sale, privatisation, closure and NMP 2.0 | Lesson 9 | complete |
+| Valuation, control premium and capital-receipt boundary | Lessons 10, 17 | complete |
+| Air India completed control-transfer case | Lesson 11 | complete |
+| New PSE Policy, strategic sectors, exclusions and current DIPAM page | Lesson 12 | complete |
+| Competition, labour and regional transition | Lesson 13 | complete |
+| 2019 Plan, 2022 CCO statutory bases/Kolkata placement and 2024 CSR neutral demands | Lesson 14 and final PYQ index | complete |
+| Survey 7.00% H1 FY26 industry GVA and 46.3% medium/high-tech evidence, with qualifications | Lesson 15 and register notes | complete |
+| Capability, resilience, jobs, exports and strategic indispensability | Lessons 15, 18 | complete |
+| Strict Core-before-Advanced sequence | Lessons 1–15 complete Core; Lessons 16–18 optional Advanced | complete |
+| Advanced reform generations, valuation and evaluation | Lessons 16–18 | complete |
+| 8–15 revision notes in every lesson | Lessons 1–18 | complete |
+| One concept-check trio in every lesson | Lessons 1–18 | complete |
+| Responsive Mains model and unique rubric in every lesson | Lessons 1–18 | complete |
+| Final concept checks, 10/15/20 models, ceilings and remediation | Final arc | complete |
+| Consolidated register notes | Immediately before this matrix | complete |
 
 # SOURCE LEDGER
 
-## Canonical and repository sources
+## Provenance and ownership boundaries
 
-- `upsc-ai-kit\knowledge\Economy\basic\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md` — definitions, chronology, institutions, transaction distinctions, direct routed objective demands.
-- `upsc-ai-kit\knowledge\Economy\advanced\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md` — transmission, valuation, soft budgets, competition and capability refinements.
-- `upsc-ai-kit\knowledge\Economy\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment_Learner-V2-Complete-Topic-Package.md` — completeness cross-check only.
-- `upsc-ai-kit\knowledge\Economy\learning-sessions\v2\subject-wide-syllabus\economy-16_Learning-Session.md` and `economy-16_Solved-Workbook.md` — practice/coverage audit, not a learner-facing shell.
-- `upsc-ai-kit\knowledge\Economy\OFFICIAL-UPSC-SYLLABUS-MAPPING.md` — verbatim GS-III clause and ownership map.
-- Prelims routing ledgers for 2018–2023, 2024–2025 and 2026 — direct PYQ routing and key-status boundaries.
+- Core owner: `upsc-ai-kit\knowledge\Economy\basic\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md`.
+- Optional advanced owner: `upsc-ai-kit\knowledge\Economy\advanced\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md`.
+- Cross-owned evidence used only at its boundary:
+  - Topic 17 for PLI/additionality and manufacturing capability.
+  - Topic 18 for asset monetisation, PPP/logistics distinctions.
+  - Topic 20 for openness, investment-measure and export-capability boundaries.
+  - Topic 31 for Coal Controller’s Organisation versus Coal India.
+- PYQ routing: `_PYQ-ROUTING-PRELIMS-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2026.md` and `_PYQ-GS3-2026.md`.
+- The 2019 Q70, 2022 Q72 and 2024 Q50 demands are presented neutrally. No answer letter is inferred here. The audited 2026 ledgers contain no direct Topic 16 question.
 
-## Book evidence
+## OCR book evidence
 
-- Ramesh Singh, *Indian Economy* (local OCR-searchable PDF), especially the evolution/planning, economic-reforms, industrial-policy and disinvestment discussions. Used for standard chronology, mixed-economy logic, 1991 reform framing and the debate on disinvestment proceeds. Historical formulations were cross-checked against the canonical owners.
+- `books\Indian economy ramesh singh.pdf`, OCR pages 440–458: Industrial Policy Resolutions, licensing/MRTP transition, New Industrial Policy 1991 and disinvestment history.
+- Book formulations were used for historical sequence and mechanisms; stale numerical thresholds or “current” policy statements were not carried forward as current facts.
 
-## Official current sources
+## Official sources checked through 3 October 2026
 
-- Department of Investment and Public Asset Management, **Disinvestment Policy of the Government of India**, live page retrieved 24 September 2026: strategic disinvestment, privatisation, minority stake sale and New PSE Policy distinctions.
-- New Public Sector Enterprise Policy, notified **4 February 2021**, status supported by the DIPAM policy page retrieved 24 September 2026.
-- Press Information Bureau, Ministry of Finance, **“Air India strategic disinvestment completed,” PRID 1792950, 27 January 2022**, retrieved 24 September 2026.
-- Government of India, **Economic Survey 2025-26**, tabled 29 January 2026, Chapter 8 “Industry’s Next Leap: Structural Transformation and Global Integration,” official PDF retrieved 24 September 2026.
-- Government of India, **Budget at a Glance 2026-27**, presented 1 February 2026 and locally rechecked 24 September 2026. Its table was used only to reinforce the capital-receipt/non-recurring boundary; no unsupported disinvestment-only historical series was imported from the aggregate “Other Receipts” row.
+1. DIPAM, **Disinvestment Policy**: definitions of strategic disinvestment, privatisation, minority stake sale; New PSE Policy, exclusions and 2022 board-empowerment route. `https://dipam.gov.in/disinvestment-policy`
+2. DIPAM, **Disinvestment Receipts FY2026–27**: displayed transaction-level receipts and post-transaction holdings, retrieved 3 October 2026. `https://dipam.gov.in/disinvestmentReceiptsDtls`
+3. DPIIT, **FDI Factsheet June 2026**: provisional quarterly and cumulative equity-inflow data. `https://www.dpiit.gov.in/static/uploads/2026/09/c7a1bae2aa8d1c22cdfda91929cdba54.pdf`
+4. PIB/NITI Aayog, **National Monetisation Pipeline 2.0**, 23 February 2026: FY2026–FY2030 estimated potential and NMP 1.0 status. `https://pib.gov.in/PressReleasePage.aspx?PRID=2231900&reg=3&lang=1`
+5. DPE Public Enterprises Survey 2024–25 portal and PIB release on operating CPSE profit/loss counts. `https://reports-pesurvey.dpe.gov.in/homepage/pesurveyreportsfy2024-25.asp`
+6. Economic Survey 2025–26, Chapter 8, local PDF `books\economic-survey-2025-26.pdf`: industry transformation and strategic-indispensability framing.
 
-## Verification boundary
+## Verification cautions
 
-Direct facts are labelled or framed as facts; synthesis and policy evaluation are analytical inferences. Stable historical concepts do not require decorative current claims. No unavailable 2019 or 2022 answer key was inferred. The 2024 CSR answer was not recorded without direct key verification. No 2026 question was manufactured, and cross-linked 2025 protectionism/PLI material was not relabelled as a direct owner PYQ.
+- DPIIT FDI values are provisional and subject to reconciliation.
+- DIPAM receipts are a dated page snapshot, not a full-year forecast or net-benefit measure.
+- NMP 2.0 values are pipeline potential, not completed proceeds.
+- Ratna eligibility thresholds, CPSE counts, FDI sectoral caps and CSR numerical rules are date-sensitive; the session teaches stable architecture and requires current-order verification before quoting mutable numbers.
+- Objective PYQs remain answer-neutral where the official key was not directly checked for this artifact.
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | Complete Basic owner and relevant cross-owner boundaries were audited |
+| Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
+| Layered/complete session | checked | Existing permitted live edition was rebuilt for sequencing and current concept-check policy |
+| Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | Complete Topic 16 Advanced owner was mapped to Lessons 16–18 without making it core |
+| OCR books | checked | Ramesh Singh OCR pages 440–458 and Economic Survey 2025–26 Chapter 8 were used |
+| PYQs through 2026 | checked | Audited 2018–2026 routing ledgers; direct demands and no-direct-2026 status recorded |
+| Official live sources | checked | DIPAM, DPIIT, DPE and PIB/NITI sources were checked through 3 October 2026 |
