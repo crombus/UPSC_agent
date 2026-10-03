@@ -1,57 +1,48 @@
 # Economy 13 - APMC, e-NAM, FPOs and Agricultural Supply Chains
 
-## Frozen roadmap - 16 lessons
+## Learning roadmap - 16 lessons
 
-| # | Learner-facing lesson | Stage |
+| Lesson | Subtopic | Stage |
 |---:|---|---|
-| 1 | From harvest to realisation: the agricultural marketing chain | Foundation |
-| 2 | APMC as State-law architecture: area, produce, yard, licence and fee | Foundation |
-| 3 | Why mandis exist - and why they can fail | Core |
-| 4 | Mandi reform choices: Model Acts, Karnataka, Bihar and the repealed farm laws | Core |
-| 5 | e-NAM: platform architecture, institutions and dated reach | Core |
-| 6 | Quality before distance: assaying, grading and standardisation | Core |
-| 7 | From bid to bank account: payment, title, logistics and netback | Core |
-| 8 | FPO foundations: aggregation, legal forms and member purpose | Core |
-| 9 | FPO governance: board, management, equity and member trust | Advanced |
-| 10 | FPO business viability: working capital, throughput, buyers and risk | Advanced |
-| 11 | Contracts, direct purchase and organised retail: who replaces the intermediary? | Advanced |
-| 12 | Storage as a marketing choice: WDRA, e-NWR and inventory finance | Core |
-| 13 | Perishable value chains: packhouses, cold chains and high-value crops | Advanced |
-| 14 | Competition and platform economics: monopsony, networks and gatekeepers | Advanced |
-| 15 | Inclusion and resilience: women, smallholders, climate and local capacity | Advanced |
-| 16 | Integrated agricultural-market reform and UPSC answer craft | Mastery |
+| 1 | From harvest to realisation: product, information, money and risk | Foundation |
+| 2 | APMC State-law structure: produce, area, yard, licence, fee and committee | Foundation |
+| 3 | Mandi functions, intermediaries, monopsony, cartel and tied relations | Core |
+| 4 | Model APMC/APLM/Contract Farming reforms, State models and the 2020-21 episode | Core |
+| 5 | e-NAM architecture, participation, trading maturity and current reach | Core |
+| 6 | Assaying, grading, standards, traceability and quality disputes | Core |
+| 7 | Payments, title, logistics, delivery and freight-adjusted netback | Core |
+| 8 | FPO purpose, legal forms, aggregation and Small Farmer Large Field | Core |
+| 9 | FPO member control, board oversight, management and governance safeguards | Core |
+| 10 | FPO equity, working capital, scheme support, viability and outcome metrics | Core |
+| 11 | Contract farming, direct purchase, organised retail and value-chain governance | Core |
+| 12 | WDRA, e-NWR, pledge finance, storage choice and market intelligence | Core |
+| 13 | Warehousing, cold-chain continuity, high-value crops and post-harvest loss | Core |
+| 14 | Platform economics, spatial monopsony, network effects and competition | Advanced |
+| 15 | Inclusion, gender, climate shocks, redundancy and supply-chain resilience | Advanced |
+| 16 | Integrated reform design, measurement and answer architecture | Advanced |
 
 ```text
-APMC regulation
-      |
-      v
-mandi functions and reform
-      |
-      v
-e-NAM discovery
-      |
-      v
-assay -> payment -> logistics
-      |
-      v
-FPO aggregation and governance
-      |
-      v
-contracts -> storage -> cold/value chains
-      |
-      v
-competition -> inclusion -> resilience
+CORE SPINE
+farm lot
+  -> aggregation and quality
+  -> legally permitted market channel
+  -> discovery and contract
+  -> payment, storage and logistics
+  -> processing / retail demand
+  -> farmer netback
+
+OPTIONAL ADVANCED DEPTH
+market power -> platform governance -> inclusion -> resilience -> integrated metrics
 ```
 
-The roadmap follows a farmer's lot from harvest to final payment. It keeps four questions
-separate throughout: **who may trade, how quality is trusted, how the transaction is
-completed, and who captures the value**.
+The Core block is complete before the optional Advanced block. Advanced analysis refines
+competition, distribution and resilience; it is not required to understand the basic chain.
 
 ---
 
 ## Lesson 1 - From harvest to realisation: the agricultural marketing chain
 
-**Progress: 1/16 | Stage: Foundation | Subtopic: Product, information, money and risk flows**
+Progress: 1/16 | Stage: Foundation | Subtopic: Product, information, money and risk flows
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical Basic/Advanced owners, the Ramesh Singh evidence rail and Economic Survey 2025-26 references queried
@@ -138,57 +129,27 @@ informal relationship.
 9. Farmer share and farmer income are not identical.
 10. Reform must repair the weakest link, not merely add a platform.
 
-### Practice - chain diagnosis
+### Concept check
 
-**MCQ 1.** Which expression best represents the economically relevant comparison between
-two buyers?
+**Question:** A farmer receives a higher distant bid but a lower final net amount than from a nearby buyer. Which concept explains the result?
 
-A. Gross bid minus grading, fees, transport, expected loss and finance cost
-B. Highest displayed bid, irrespective of delivery conditions
-C. MSP minus the consumer retail price
-D. Number of intermediaries multiplied by the mandi fee
+**Model answer:** Farmer realisation is the freight- and risk-adjusted netback, not the headline bid. Grading, fees, packing, transport, loss, finance and rejection risk must be deducted before channels are compared.
 
-**Answer: A**
+**Misconception to avoid:** Do not equate a shorter chain or a higher displayed price with a higher farmer share; functions and costs may merely change hands.
 
-- **A is correct:** it calculates the expected farmer netback.
-- **B is wrong:** a displayed bid may be unreachable or unprofitable after costs.
-- **C is wrong:** MSP and retail price belong to different comparisons.
-- **D is wrong:** neither margins nor services can be inferred mechanically from headcount.
+### Original Mains practice
 
-**MCQ 2.** What distinguishes a value-chain analysis from a basic supply-chain map?
+**Mains prompt:** Explain why agricultural supply-chain efficiency must be assessed through product, information, money and risk flows. (10 marks, 150 words)
 
-A. It excludes logistics.
-B. It additionally examines value creation, governance and margin distribution.
-C. It applies only to processed food.
-D. It assumes every intermediary is exploitative.
+**Mains model:** Agricultural marketing is not only movement of produce. Product flows from farm to buyer; information flows through grades, arrivals, bids and demand; money flows back through settlement; risk moves through spoilage, price, inventory and default. A chain can appear physically short yet remain inefficient if quality is unknown, payment is delayed or risk is shifted unfairly to farmers. For example, a distant tomato bid is meaningful only after packing, freight, rejection and payment risk are deducted. Supply-chain reform must therefore join aggregation, assaying, storage, logistics, finance and remedies. The proper outcome is freight-adjusted farmer netback with lower loss and reliable payment, not the number of stages alone.
 
-**Answer: B**
-
-- **A is wrong:** logistics remains part of the value chain.
-- **B is correct:** value capture and control are its additional questions.
-- **C is wrong:** the lens applies to raw and processed commodities.
-- **D is wrong:** it evaluates functions, power and margins rather than presuming a verdict.
-
-**Mains micro-model - 10 marks:** *Why is agricultural marketing wider than price
-discovery?*
-
-**Model:** Price discovery only identifies a possible exchange rate for a specified lot.
-Agricultural marketing also requires aggregation, quality measurement, acceptance,
-payment, storage, finance, movement and dispute resolution. A distant electronic bid may
-be inferior after freight and rejection risk, while a warehouse may improve bargaining
-only if inventory finance is available. Thus the relevant outcome is the farmer's
-quality- and cost-adjusted net realisation after completed settlement. Reform must
-coordinate product, information, money and risk flows instead of treating the auction
-screen as the whole market.
-
-**Transition:** Once the chain is visible, the next question is who writes the rules under
-which its sale stage operates.
+**Unique scoring rubric:** 2 marks four-flow frame; 3 marks causal interaction; 2 marks numerical/India-linked example; 2 marks qualification on netback; 1 mark precise conclusion.
 
 ---
 
 ## Lesson 2 - APMC as State-law architecture
 
-**Progress: 2/16 | Stage: Foundation | Subtopic: Area, produce, yard, licence and fee**
+Progress: 2/16 | Stage: Foundation | Subtopic: Area, produce, yard, licence and fee
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical owners and official Economy syllabus map queried
@@ -262,6 +223,10 @@ incumbent traders in another; implementation and competition decide the result.
 - Market area, market yard and market committee are different.
 - Mandi fee is not MSP and not automatically borne by the named payer.
 - Never describe a Union model law as the operative law of every State.
+- Tea Board India is a statutory body constituted under the Tea Act, 1953 and functions
+  under the Department of Commerce, Ministry of Commerce and Industry. For the 2022
+  objective route, do not infer the current number or location of overseas offices from
+  old material; the official 2026 site does not publish a stable active-office list.
 
 ### Revision notes
 
@@ -275,56 +240,29 @@ incumbent traders in another; implementation and competition decide the result.
 8. Rules and notifications operationalise statutes.
 9. Legal permission does not prove competitive use.
 10. Federal analysis must retain State variation.
+11. Commodity boards and mandi committees have different statutes, ministries and functions.
 
-### Practice - legal distinctions
+### Concept check
 
-**MCQ 3.** Which statement is most accurate?
+**Question:** Why can e-NAM not be treated as a substitute for an APMC Act?
 
-A. Parliament enacted one uniform APMC Act for all States.
-B. e-NAM replaced State agricultural-marketing laws.
-C. APMC operation depends on applicable State law, rules and notifications.
-D. CCI directly administers all mandi yards.
+**Model answer:** An APMC Act is State-law market architecture governing notified produce, market places, licences, fees and committees. e-NAM is an electronic trading layer operating through participating markets under the applicable legal framework.
 
-**Answer: C**
+**Misconception to avoid:** Do not confuse a platform operator with a legislature or a market yard with the entire notified market area.
 
-- **A is wrong:** no uniform central APMC Act governs all States.
-- **B is wrong:** the platform operates within legal arrangements.
-- **C is correct:** authority and perimeter are State-specific.
-- **D is wrong:** CCI's competition mandate is different from yard administration.
+### Original Mains practice
 
-**MCQ 4.** A notified market area ordinarily identifies:
+**Mains prompt:** Distinguish APMC regulation from an electronic agricultural market. Why does the distinction matter for reform? (10 marks, 150 words)
 
-A. every place where MSP applies;
-B. the nationwide jurisdiction of e-NAM;
-C. the service area of any FPO;
-D. the territorial perimeter in which specified State-law provisions apply.
+**Mains model:** APMC regulation is created by State law and notifications. It defines the regulated perimeter through notified produce, market area or places, licences, fees, committees and enforcement. An electronic market such as e-NAM supplies a trading and information layer across participating mandis. It cannot by itself change State licensing, fee incidence, title rules or dispute authority. The distinction matters because digitising a restrictive or fragmented legal system may reproduce its bottlenecks online, while legal liberalisation without a trading, quality and settlement system may create only paper choice. Reform must align State law, market institutions and the digital layer while retaining transparent charges and remedies.
 
-**Answer: D**
-
-- **A is wrong:** MSP and APMC territorial regulation are separate.
-- **B is wrong:** platform reach does not define State statutory geography.
-- **C is wrong:** an FPO's area follows its business and legal documents.
-- **D is correct:** notification defines the relevant territorial perimeter.
-
-**Mains micro-model - 10 marks:** *Explain why APMC reform is necessarily federal.*
-
-**Model:** APMC institutions arise under State agricultural-marketing laws that define
-notified produce, market areas, yards, licensing, fees and sale procedures. Union model
-Acts can supply reform templates, but enforceable rights require State legislation,
-rules and notifications. Outcomes also depend on local crop mix, buyer density,
-infrastructure and administrative capacity. Consequently, national market integration
-requires interoperable State rules rather than the fiction of one central APMC code.
-Federal reform should combine portability and competition with room for commodity- and
-region-specific safeguards.
-
-**Transition:** Law establishes a venue and rules. We must now ask which useful functions
-the mandi performs and where the same structure becomes inefficient.
+**Unique scoring rubric:** 3 marks accurate legal-platform distinction; 2 marks federal dimension; 2 marks two-sided reform failure; 2 marks integrated prescription; 1 mark terminology.
 
 ---
 
 ## Lesson 3 - Why mandis exist - and why they can fail
 
-**Progress: 3/16 | Stage: Core | Subtopic: Public market functions, intermediation and market power**
+Progress: 3/16 | Stage: Core | Subtopic: Public market functions, intermediation and market power
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Basic owner, Advanced owner and OCR-derived agricultural-marketing formulations queried
@@ -415,70 +353,27 @@ monopsony.
 9. Formal auction is not synonymous with competitive auction.
 10. Reform should preserve functions while removing rents.
 
-### Practice - market structure
+### Concept check
 
-**MCQ 5.** Which is a plausible economic merit of a well-run mandi?
+**Question:** When is an intermediary economically useful rather than merely extractive?
 
-A. It can lower search, weighment and enforcement costs through shared rules and facilities.
-B. It guarantees the highest national price for every lot.
-C. It eliminates all intermediating functions.
-D. It makes storage and finance unnecessary.
+**Model answer:** An intermediary is useful when aggregation, information, credit, grading, risk-bearing or logistics are supplied competitively at a cost below the value created. Exploitation arises from opacity, tied relations, collusion or lack of feasible alternatives.
 
-**Answer: A**
+**Misconception to avoid:** The number of intermediaries is not the decisive test; contestability, margins and performance of necessary functions are.
 
-- **A is correct:** common institutions can reduce transaction costs.
-- **B is wrong:** local demand, quality and costs still shape bids.
-- **C is wrong:** several functions remain necessary.
-- **D is wrong:** sale timing and working capital remain material.
+### Original Mains practice
 
-**MCQ 6.** A local market with many small sellers and only two effective buyers is best
-analysed primarily as:
+**Mains prompt:** Are agricultural intermediaries a cause of inefficiency or a response to missing institutions? Analyse. (15 marks, 250 words)
 
-A. seller monopoly;
-B. monopsony risk;
-C. perfect competition;
-D. public procurement.
+**Mains model:** Intermediaries can be both. Small, heterogeneous lots and weak storage, credit and information create demand for aggregation, grading, finance and logistics. An agent who performs these functions competitively may lower transaction cost. Inefficiency arises when licences restrict entry, auctions are opaque, buyers collude, credit is tied to sale or farmers lack transport to an alternative buyer. The same functions may be internalised by a supermarket, processor or FPO; they do not disappear. Policy should therefore avoid counting intermediaries as the problem. It should disclose charges, enable buyer entry, strengthen assaying and payment records, separate credit from compulsory sale, support FPO bargaining and enforce competition and contract rules where applicable. The test is whether each function creates value at a contestable cost and improves farmer netback.
 
-**Answer: B**
-
-- **A is wrong:** seller power is not the central feature.
-- **B is correct:** concentrated buying power faces dispersed sellers.
-- **C is wrong:** the buyer side is not competitive.
-- **D is wrong:** private buyer concentration is not public procurement.
-
-**MCQ 7.** Which statement about intermediaries is correct?
-
-A. Every intermediary earns pure rent.
-B. Removing commission agents removes aggregation and logistics needs.
-C. Intermediaries may perform useful functions, while competition and transparency determine whether margins become exploitative.
-D. A shorter chain necessarily produces a higher farm-gate price.
-
-**Answer: C**
-
-- **A is wrong:** some margins pay for real services and risk.
-- **B is wrong:** the functions must be performed by another actor.
-- **C is correct:** function and market power must be evaluated separately.
-- **D is wrong:** buyer power and costs may absorb the gain.
-
-**Mains micro-model - 15 marks:** *Critically examine the role of APMC mandis.*
-
-**Model:** APMC mandis can supply a common venue, licensed buyers, auction records,
-weighment, payment norms, infrastructure and a dispute route. These functions reduce
-transaction costs for dispersed farmers. Yet mandatory routing, repeated licences,
-opaque fees, congestion, poor reinvestment and local trader concentration may convert
-the venue into a protected market. Reform should therefore make entry contestable,
-licences portable, fees transparent and auctions auditable while retaining public
-quality, settlement and grievance capacity. The objective is accountable competition,
-not institutional demolition.
-
-**Transition:** If neither preservation nor repeal alone is sufficient, reform design
-must be compared across legal templates and State experiments.
+**Unique scoring rubric:** 3 marks dual thesis; 4 marks missing-function mechanism; 3 marks market-power diagnosis; 3 marks institution-specific reforms; 2 marks qualified verdict.
 
 ---
 
 ## Lesson 4 - Mandi reform choices
 
-**Progress: 4/16 | Stage: Core | Subtopic: Model Acts, Karnataka, Bihar and the repealed farm laws**
+Progress: 4/16 | Stage: Core | Subtopic: Model Acts, Karnataka, Bihar and the repealed farm laws
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical chronology, official agricultural-marketing documents and existing complete package queried
@@ -552,56 +447,27 @@ safeguards and farmer trust alongside economic design.
 9. State capacity mediates legal reform.
 10. Trust and consultation are economic implementation variables.
 
-### Practice - reform status
+### Concept check
 
-**MCQ 8.** Which sequence preserves legal-status discipline?
+**Question:** What is the key difference between repeal-only reform and institution-building reform?
 
-A. Central model publication -> automatic national operation
-B. Committee report -> binding State rule
-C. Platform launch -> repeal of State law
-D. Model text -> State enactment -> rules/notifications -> capacity -> outcome
+**Model answer:** Repeal-only reform removes a statutory route or restriction. Institution-building reform also creates buyer entry, unified licences, transparent fees, quality systems, payment, logistics and remedies. Competition requires both legal permission and operating capacity.
 
-**Answer: D**
+**Misconception to avoid:** A Model Act is advisory; it is not automatically the law of every State and implementation is not proved by enactment alone.
 
-- **A is wrong:** model laws do not self-enact.
-- **B is wrong:** recommendations require competent legal action.
-- **C is wrong:** software launch does not repeal statutes.
-- **D is correct:** it separates each authority and implementation stage.
+### Original Mains practice
 
-**MCQ 9.** What is the current status of the three central farm laws enacted in 2020?
+**Mains prompt:** Compare amendment, integration and repeal as strategies of APMC reform. (15 marks, 250 words)
 
-A. They were repealed through the Farm Laws Repeal Act, 2021.
-B. They remain uniformly operative.
-C. They became the Model APLM Act.
-D. Only one was repealed.
+**Mains model:** Amendment changes the existing State framework by permitting direct purchase, private markets, e-trading or unified licensing. Integration retains mandis but links rules, assaying, auctions and settlement across them, illustrated by Karnataka's ReMS approach. Repeal removes the statutory APMC framework, as Bihar did, but does not automatically create private yards, grades, buyer competition or dispute capacity. Model APMC 2003, Model APLM 2017 and Model Contract Farming 2018 are advisory templates; State enactment and implementation remain decisive. The repealed central farm-law episode of 2020-21 also shows that federal consultation and trust are part of market design. The best strategy is context-sensitive: preserve useful public-market functions, allow competing channels, rationalise fees and licences, and invest in quality, payment, storage and logistics.
 
-**Answer: A**
-
-- **A is correct:** the repeal covered all three statutes.
-- **B is wrong:** repealed laws are not current law.
-- **C is wrong:** the 2017 model has a separate origin.
-- **D is wrong:** the repeal was not limited to one law.
-
-**Mains micro-model - 15 marks:** *Compare integration, repeal and outside-mandi
-liberalisation as reform strategies.*
-
-**Model:** Integration reforms such as Karnataka's ReMS attempt to improve competition
-inside a reworked mandi architecture through common rules, assaying and electronic
-processes. Repeal, illustrated by Bihar, removes the statutory market framework but
-does not itself create buyers, storage, grading or remedies. The 2020 central laws
-created outside-APMC channels but generated federal, bargaining and trust disputes and
-were repealed in 2021. The comparison shows that legal choice is necessary but
-insufficient: institutions, infrastructure, safeguards and consultation determine
-whether formal liberalisation becomes effective competition.
-
-**Transition:** Reforming the rulebook creates space for wider trade. e-NAM attempts to
-connect that space electronically, but its institutional boundary must be precise.
+**Unique scoring rubric:** 3 marks three-strategy comparison; 3 marks Model Act status; 3 marks Karnataka-Bihar evidence; 3 marks 2020-21 federal/trust qualification; 3 marks balanced design.
 
 ---
 
 ## Lesson 5 - e-NAM architecture and dated reach
 
-**Progress: 5/16 | Stage: Core | Subtopic: Operator, participants, functions and status discipline**
+Progress: 5/16 | Stage: Core | Subtopic: Operator, participants, functions and status discipline
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical owners, SFAC FAQ and Economic Survey 2025-26 references queried
@@ -654,6 +520,30 @@ The PIB backgrounder dated **13 April 2026** reported, for **March 2026**:
 These are reach and registration indicators. They do not prove active use, competitive
 bids, completed inter-State delivery or higher net realisation.
 
+### Digital Agriculture Mission - the data backbone, not the market
+
+The **Digital Agriculture Mission (DAM)** was approved in **September 2024** with an
+outlay of **Rs 2,817 crore**. Its purpose is to build agricultural digital public
+infrastructure, principally:
+
+| Component | Market-chain relevance | Limit |
+|---|---|---|
+| AgriStack, including Farmer ID and crop records | can improve service authentication, farmer discovery and linkage with credit, insurance or procurement | wrong or incomplete records can exclude actual cultivators |
+| Digital Crop Survey | gives plot-level crop information for production estimates, procurement and logistics planning | survey coverage is not the same as accurate, consented or timely use |
+| Krishi Decision Support System | combines geospatial, weather, soil and crop data for planning and advisories | analytics do not create warehouses, buyers or enforceable trade |
+| Soil and other digital registries | can improve input and crop decisions | registry creation is not an outcome |
+
+The Union provides technical and financial support while States and Union Territories
+implement the federated systems. Farmers, State agencies, public programmes and governed
+research or agri-technology users are relevant actors; access to data must remain lawful,
+purpose-bound and correctable.
+
+A PIB update reporting status **as of 4 February 2026** recorded more than **8.48 crore
+Farmer IDs**. It also reported the Digital Crop Survey in **604 districts** covering more
+than **28.5 crore plots during Kharif 2025**. These are rollout indicators. DAM can improve
+market intelligence, crop-flow planning and service linkage, but it is neither e-NAM nor
+a substitute for competition, assaying, logistics or grievance redress.
+
 ### Four maturity stages
 
 ```text
@@ -677,6 +567,8 @@ actually uses the platform or whether local bargaining changes.
 - Integration is not completed trade.
 - Quote figures only with date and denominator.
 - 2026 GS-III Q4 directly asks how e-commerce reduces agri-marketing inefficiency.
+- DAM is a federated data-and-decision architecture; e-NAM is an agricultural trading layer.
+- Farmer IDs and crop-survey plots measure rollout, not error-free inclusion or market benefit.
 
 ### Revision notes
 
@@ -690,59 +582,32 @@ actually uses the platform or whether local bargaining changes.
 8. Use is not completed delivery.
 9. Delivery is not necessarily farmer gain.
 10. Evaluation must match the measured maturity stage.
+11. DAM was approved in September 2024 with a Rs 2,817 crore outlay.
+12. AgriStack, Digital Crop Survey and Krishi-DSS support data and planning functions.
+13. As of 4 February 2026, official reporting recorded over 8.48 crore Farmer IDs.
+14. Digital records can support markets but cannot create quality, logistics or competition.
 
-### Practice - platform boundaries
+### Concept check
 
-**MCQ 10.** Who operates the common e-NAM platform under the official institutional
-design?
+**Question:** What does the March 2026 figure of 1,656 integrated e-NAM mandis establish?
 
-A. CCI
-B. SFAC
-C. WDRA
-D. Every FPO jointly
+**Model answer:** It establishes dated administrative reach across the reported participating jurisdictions. It does not establish that every farmer traded, every lot was assayed, every sale moved across States or farmer income rose. DAM data can support planning and service linkage, but it does not convert reach into completed trade.
 
-**Answer: B**
+**Misconception to avoid:** Never convert registrations or integration counts into transaction, delivery or welfare outcomes.
 
-- **A is wrong:** CCI handles competition-law functions.
-- **B is correct:** SFAC is the operating agency identified in official material.
-- **C is wrong:** WDRA regulates warehousing and receipts.
-- **D is wrong:** FPOs are participants, not collective statutory operators.
+### Original Mains practice
 
-**MCQ 11.** Which inference may validly be drawn from the March 2026 count of integrated
-mandis?
+**Mains prompt:** How can e-commerce reduce agricultural-marketing inefficiency, and why can it not do so alone? (10 marks, 150 words)
 
-A. Every mandi in India was integrated.
-B. Every registered farmer completed a trade.
-C. The platform's dated administrative reach had expanded to the reported set.
-D. Every State had identical APMC rules.
+**Mains model:** E-commerce reduces search and information costs by displaying arrivals, grades and bids, widening buyer visibility and creating transaction and payment records. FPOs can aggregate lots for commercially meaningful online offers. e-NAM's March 2026 reach - 1,656 mandis across 23 States and 4 UTs - shows administrative connectivity. DAM can strengthen crop and farmer data for planning and service linkage. Yet a screen or registry cannot create State-law permission, representative assaying, affordable freight, title clarity, delivery acceptance or dispute resolution. Nor do registrations prove active, competitive and completed trade. E-commerce therefore depends on legal, quality, logistical and financial interoperability.
 
-**Answer: C**
-
-- **A is wrong:** the count is not the national universe.
-- **B is wrong:** integration and registration do not prove transaction.
-- **C is correct:** that is the bounded meaning of the indicator.
-- **D is wrong:** State legal variation remains.
-
-**Mains micro-model - 10 marks:** *How can e-commerce reduce agricultural-marketing
-inefficiency?*
-
-**Model:** E-commerce can widen price visibility, connect buyers beyond the immediate
-yard, create digital records, support electronic payment and lower search costs. FPOs
-can use the platform to offer commercially meaningful lots. Yet online trade needs
-State legal permission, trusted assaying, title clarity, freight, delivery acceptance
-and dispute resolution. The March 2026 e-NAM reach therefore indicates connectivity,
-not universal market integration. E-commerce reduces information and matching
-inefficiency most effectively when physical and institutional bottlenecks are repaired
-with it.
-
-**Transition:** A distant buyer cannot bid intelligently merely because the lot is
-visible. The lot must first become a credible, comparable quality object.
+**Unique scoring rubric:** 2 marks inefficiency diagnosis; 3 marks e-commerce channels; 2 marks dated evidence used cautiously; 2 marks physical/legal limits; 1 mark synthesis.
 
 ---
 
 ## Lesson 6 - Quality before distance
 
-**Progress: 6/16 | Stage: Core | Subtopic: Assaying, grading, standards and disputes**
+Progress: 6/16 | Stage: Core | Subtopic: Assaying, grading, standards and disputes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical quality sections and official agricultural grading material queried
@@ -813,55 +678,27 @@ entry barrier rather than an information bridge.
 9. Accessible testing promotes inclusion.
 10. Standardisation can both enable and exclude.
 
-### Practice - quality credibility
+### Concept check
 
-**MCQ 12.** Why is assaying central to distant bidding?
+**Question:** Why must assaying be paired with a re-test and dispute process?
 
-A. It fixes MSP.
-B. It guarantees payment.
-C. It removes every dispute.
-D. It gives the buyer a test-based quality description on which to price the lot.
+**Model answer:** Assaying makes an unseen lot priceable, but sampling error, calibration, custody changes and delivery deterioration can alter results. A transparent challenge process protects both seller and buyer and sustains trust in remote trade.
 
-**Answer: D**
+**Misconception to avoid:** A grade is evidence about specified attributes, not a guarantee of food safety, payment or final acceptance.
 
-- **A is wrong:** MSP is an administered support price.
-- **B is wrong:** payment requires settlement systems.
-- **C is wrong:** sampling and delivery can still be disputed.
-- **D is correct:** credible quality information makes remote pricing possible.
+### Original Mains practice
 
-**MCQ 13.** Which statement correctly distinguishes assaying and grading?
+**Mains prompt:** Why are assaying and grading public-market infrastructure rather than minor technical services? (10 marks, 150 words)
 
-A. Assaying measures attributes; grading places produce in defined categories.
-B. Grading measures bank credit; assaying fixes freight.
-C. Both are identical to visual inspection.
-D. Both guarantee final buyer acceptance.
+**Mains model:** Agricultural lots vary by moisture, foreign matter, size, variety and damage. A distant buyer cannot price an unseen lot without a credible description. Assaying measures specified attributes; grading places produce in comparable categories. Together they lower repeated inspection, enable quality-linked bidding and support warehouse finance and traceability. Their market value depends on representative sampling, calibrated equipment, custody records, readable reports and re-testing. If testing is costly or inaccessible, standards may exclude small farmers. Shared, accountable quality infrastructure therefore creates trust while grievance and challenge rules prevent standardisation from becoming a gatekeeping device.
 
-**Answer: A**
-
-- **A is correct:** measurement precedes or supports classification.
-- **B is wrong:** neither term has that meaning.
-- **C is wrong:** formal testing may exceed visual inspection.
-- **D is wrong:** delivery and dispute risks remain.
-
-**Mains micro-model - 10 marks:** *Why are assaying and dispute resolution as important
-as electronic bidding?*
-
-**Model:** Electronic bidding depends on a credible description of an unseen lot.
-Assaying measures attributes and grading makes lots comparable, allowing buyers to
-price quality rather than rely only on local inspection. But sampling error, custody
-changes and buyer rejection can still occur. Transparent protocols, calibrated
-equipment, readable reports, re-testing and quick disputes are therefore necessary.
-Without them, electronic bidding either remains local or transfers quality risk
-unfairly to farmers.
-
-**Transition:** A credible grade can generate a bid. The next failure point is whether
-money, title and produce actually move.
+**Unique scoring rubric:** 2 marks definitions; 3 marks price-discovery mechanism; 2 marks safeguards; 2 marks inclusion trade-off; 1 mark public-infrastructure conclusion.
 
 ---
 
 ## Lesson 7 - From bid to bank account
 
-**Progress: 7/16 | Stage: Core | Subtopic: Payment, title, logistics and netback**
+Progress: 7/16 | Stage: Core | Subtopic: Payment, title, logistics and netback
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical settlement, logistics and market-intelligence material queried
@@ -943,70 +780,27 @@ settlement, making FPO working capital important.
 9. Distant trade must clear the freight test.
 10. FPO liquidity can bridge settlement time.
 
-### Practice - completion and netback
+### Concept check
 
-**MCQ 14.** What does electronic payment improve most directly?
+**Question:** At what point does an electronic bid become an economically completed trade?
 
-A. Commodity quality
-B. Traceability and potential timeliness of settlement
-C. Number of competing buyers automatically
-D. Ownership of every warehouse
+**Model answer:** Completion requires accepted terms, valid title, invoice, reconciled payment, loading, transport, delivery and acceptance, with a remedy for failure. A bid or payment instruction alone is not settlement.
 
-**Answer: B**
+**Misconception to avoid:** Do not use gross price; compare risk-adjusted netback after freight, handling, delay and rejection.
 
-- **A is wrong:** quality needs assay and handling.
-- **B is correct:** digital records strengthen the money leg.
-- **C is wrong:** competition needs credible participation.
-- **D is wrong:** title follows separate law and documents.
+### Original Mains practice
 
-**MCQ 15.** Why may a higher distant bid fail to become the best sale?
+**Mains prompt:** Price discovery without settlement is an incomplete reform. Explain. (10 marks, 150 words)
 
-A. Inter-State agricultural trade is impossible.
-B. A local price is always legally binding.
-C. Freight, packing, fees, loss and delivery risk may reduce the netback.
-D. e-NAM permits only cash transactions.
+**Mains model:** A bid discovers a gross price; settlement converts it into realised value. Completion requires accepted terms, valid title, invoice, payment reconciliation, loading, transport, delivery and buyer acceptance. For a distant sale, freight, packing, transit loss, delay and rejection may erase the apparent premium. Electronic payment reduces opacity but initiation is not final credit, and delivery disputes still need a remedy. Reform should connect bidding with interoperable payments, logistics matching, custody records and time-bound grievance resolution. Its indicator should be paid-and-delivered trade and farmer netback, not auction value alone.
 
-**Answer: C**
-
-- **A is wrong:** inter-State trade is possible.
-- **B is wrong:** market choice depends on law and transaction terms.
-- **C is correct:** the gross-price advantage may disappear after costs.
-- **D is wrong:** electronic payment is part of the platform design.
-
-**MCQ 16.** A completed digital agricultural trade most clearly requires:
-
-A. only a successful login;
-B. only a displayed bid;
-C. only a quality certificate;
-D. accepted sale, valid title, reconciled payment, delivery and a dispute route.
-
-**Answer: D**
-
-- **A is wrong:** access is not transaction.
-- **B is wrong:** bid is only one stage.
-- **C is wrong:** quality evidence does not move money or produce.
-- **D is correct:** it completes all essential legs.
-
-**Mains micro-model - 10 marks:** *Explain the constraints in transport and marketing of
-agricultural produce.*
-
-**Model:** Constraints begin with scattered small lots, poor packing and weak first-mile
-collection. Uneven quality and limited assaying reduce distant bidding. Inadequate
-storage and working capital force harvest-time sale. Fragmented loads, unreliable
-transport, perishability and weak delivery coordination raise cost. State-level licences
-and fees may restrict buyer reach, while thin competition and tied credit weaken
-bargaining. Digital price information cannot repair these gaps alone; aggregation,
-quality infrastructure, storage finance, interoperable rules and accountable settlement
-must advance together.
-
-**Transition:** Small farmers cannot individually build every missing function. FPOs
-attempt to create scale without requiring consolidation of land ownership.
+**Unique scoring rubric:** 2 marks discovery-settlement distinction; 3 marks transaction chain; 2 marks netback analysis; 2 marks remedy/interoperability; 1 mark outcome indicator.
 
 ---
 
 ## Lesson 8 - FPO foundations
 
-**Progress: 8/16 | Stage: Core | Subtopic: Aggregation, legal forms and member purpose**
+Progress: 8/16 | Stage: Core | Subtopic: Aggregation, legal forms and member purpose
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical FPO sections and SFAC official FAQ queried
@@ -1059,6 +853,10 @@ FPO's 200 quintals:       fixed service cost = Rs   100 per quintal
 The arithmetic is illustrative, but the mechanism is general: pooling spreads fixed
 costs and creates buyer-relevant lot size.
 
+SFAC, NABARD-linked programmes, State agencies, implementing agencies and CBBOs can
+support promotion and handholding. They do not replace member ownership, commercial
+discipline or the need for a viable buyer-facing business.
+
 ### Small Farmer Large Field
 
 The concept routes to collective operation: smallholders coordinate cultivation or
@@ -1095,55 +893,27 @@ participation, throughput or buyers.
 9. Active members matter more than nominal membership.
 10. Registration is the start, not the outcome.
 
-### Practice - collective scale
+### Concept check
 
-**MCQ 17.** Which statement correctly defines an FPO?
+**Question:** Why is an FPO not synonymous with a Farmer Producer Company?
 
-A. A farmer-member Producer Organisation that may take more than one eligible legal form
-B. Every trader association in a mandi
-C. Only a Producer Company
-D. A public procurement department
+**Model answer:** FPO describes a farmer-owned producer organisation by function. A Producer Company is one legal form under company law; cooperatives and other permitted producer-organisation forms follow different statutes and governance documents.
 
-**Answer: A**
+**Misconception to avoid:** Aggregation need not transfer members' land, and Small Farmer Large Field does not require loss of individual ownership.
 
-- **A is correct:** it preserves the functional umbrella.
-- **B is wrong:** traders are not farmer producer members by definition.
-- **C is wrong:** FPC is one possible form.
-- **D is wrong:** an FPO is a member enterprise, not a government department.
+### Original Mains practice
 
-**MCQ 18.** What is the main scale mechanism of an FPO?
+**Mains prompt:** How do FPOs address the scale disadvantage of smallholders without requiring land consolidation? (10 marks, 150 words)
 
-A. Elimination of weather risk
-B. Pooling volume and services to reduce unit transaction costs and improve terms
-C. Transfer of all member land to the organisation
-D. Automatic access to MSP procurement
+**Mains model:** FPOs aggregate economic functions while members may retain individual land ownership. Pooled input purchase lowers unit cost; output aggregation creates buyer-relevant lots; shared assaying, storage, transport and professional services spread fixed costs. Small Farmer Large Field similarly coordinates operations at scale without necessarily extinguishing title. The legal form may be a Producer Company, cooperative or another permitted producer organisation, so governance follows the applicable statute. Aggregation improves bargaining possibility but does not remove weather, price or management risk. FPOs are therefore institutions for collective commercial scale, not automatic substitutes for markets or state capacity.
 
-**Answer: B**
-
-- **A is wrong:** production risk remains.
-- **B is correct:** aggregation spreads fixed costs and strengthens negotiation.
-- **C is wrong:** collective marketing does not require pooled title.
-- **D is wrong:** public procurement has separate eligibility and operations.
-
-**Mains micro-model - 10 marks:** *Distinguish FPO, Farmer Producer Company and
-cooperative FPO.*
-
-**Model:** FPO is the functional umbrella for a farmer-member legal entity that
-aggregates inputs, services, produce or marketing. A Farmer Producer Company is an FPO
-incorporated under Companies Act, 2013 Chapter XXIA. A cooperative FPO instead follows
-the applicable State or Multi-State cooperative statute. The forms may share producer
-objectives, but capital, voting, audit, board and surplus rules depend on their law and
-documents. Hence FPO and FPC are not universal synonyms, and registration under any form
-does not prove active membership or commercial viability.
-
-**Transition:** Scale creates potential bargaining power. Whether members actually gain
-depends on governance inside the collective.
+**Unique scoring rubric:** 3 marks aggregation mechanisms; 2 marks ownership distinction; 2 marks legal-form precision; 2 marks limitation; 1 mark conclusion.
 
 ---
 
 ## Lesson 9 - FPO governance
 
-**Progress: 9/16 | Stage: Advanced | Subtopic: Board, management, equity and member trust**
+Progress: 9/16 | Stage: Core | Subtopic: Board, management, equity and member trust
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: SFAC FAQ governance provisions and canonical FPO limitations queried
@@ -1224,61 +994,32 @@ exclusion or information asymmetry inside the organisation.
 9. Benefit distribution determines legitimacy.
 10. Social inclusion must be tested inside the FPO.
 
-### Practice - governance diagnosis
+### Concept check
 
-**MCQ 19.** Which is the strongest evidence of FPO governance quality?
+**Question:** How can professional management strengthen rather than weaken member control in an FPO?
 
-A. A registration certificate
-B. A one-time grant
-C. Transparent accounts, accountable decisions, active participation and fair benefit distribution
-D. The largest possible unsold stock
+**Model answer:** Members and the board set purpose, oversight and benefit rules; professional managers execute procurement, finance and sales. Clear delegation, audited accounts, disclosure and grievance channels make expertise accountable to member interests.
 
-**Answer: C**
+**Misconception to avoid:** Neither elected control without skill nor managerial autonomy without accountability is sufficient.
 
-- **A is wrong:** legal formation does not show member control.
-- **B is wrong:** grant receipt is an input, not an outcome.
-- **C is correct:** it covers information, authority and distribution.
-- **D is wrong:** unsold stock may destroy value.
+### Original Mains practice
 
-**MCQ 20.** Why can professional management be compatible with farmer ownership?
+**Mains prompt:** Design a governance framework that keeps an FPO commercially professional and member-controlled. (15 marks, 250 words)
 
-A. Managers should replace the board.
-B. Members need no information if experts are hired.
-C. Expertise automatically prevents capture.
-D. Managers can execute complex business while an informed board and members retain oversight.
+**Mains model:** Member control should operate through clear eligibility, voting and benefit rules, regular general meetings and accessible disclosure. The board must set strategy, approve risk limits, oversee related-party transactions and hold management accountable. Professional managers should handle procurement, finance, quality, contracts and buyer relations under written delegations and performance measures. Audited accounts, inventory controls, maker-checker payments and grievance channels reduce capture and leakage. Patronage-based benefit should be transparent so active suppliers see value, while minority and women members need meaningful voice. External grants and credit guarantees should trigger stronger, not weaker, controls. The balance is constitutional ownership by members, strategic oversight by the board and skilled execution by management.
 
-**Answer: D**
-
-- **A is wrong:** execution and oversight should not collapse.
-- **B is wrong:** member information remains essential.
-- **C is wrong:** professional skill does not eliminate agency problems.
-- **D is correct:** capability and accountability can be combined.
-
-**Mains micro-model - 15 marks:** *Why do many FPOs remain organisationally weak despite
-collective ownership?*
-
-**Model:** Collective ownership does not automatically produce collective control.
-Nominal members may not transact, boards may be captured, managers may dominate
-information, and accounts may not reveal margins or related-party contracts. Weak
-member equity and delayed payment reduce trust, encouraging side-selling and shrinking
-throughput. FPO policy should therefore assess active participation, audited disclosure,
-board capability, professional management, prompt member settlement and fair benefit
-distribution. Grants can support capacity, but sustained legitimacy comes from repeat
-member value.
-
-**Transition:** Even a well-governed FPO can fail if its business cannot finance
-procurement, manage inventory and secure repeat buyers.
+**Unique scoring rubric:** 3 marks member layer; 3 marks board layer; 3 marks management layer; 3 marks controls and inclusion; 3 marks coherent separation of powers.
 
 ---
 
 ## Lesson 10 - FPO business viability
 
-**Progress: 10/16 | Stage: Advanced | Subtopic: Working capital, throughput, buyers and risk**
+Progress: 10/16 | Stage: Core | Subtopic: Working capital, throughput, buyers and risk
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical Advanced viability layers and official scheme support architecture queried
-CA search: "site:pib.gov.in 10000 FPO scheme 6 February 2026 turnover women farmers"
-CA found: PIB dated 6 February 2026 reported 10,000 FPOs formed; the scheme provides management, equity and credit-guarantee support but does not guarantee viability
+CA search: "site:pib.gov.in FPO 10,000 turnover women 7 August 2026"
+CA found: PIB releases of 4 and 7 August 2026 reported the formation target achieved and supplied dated turnover, support and women-participation indicators
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - the FPO cash cycle
@@ -1312,13 +1053,19 @@ reliable member volume
 ### Dated scheme anchor
 
 The Central Sector Scheme for Formation and Promotion of 10,000 FPOs was launched on
-29 February 2020. PIB reported the target achieved on 28 February 2025. A later PIB
-release dated 6 February 2026 continued to report 10,000 FPOs, with support architecture
-through 2027-28. Treat this as a **formation milestone**, not 10,000 profitable firms.
+29 February 2020. Official PIB updates dated **4 and 7 August 2026** reported:
 
-Official support includes handholding through CBBOs, management support, matching equity
-and credit-guarantee arrangements subject to guidelines. Credit guarantee reduces lender
-risk; it is not automatic sanction or zero default risk.
+- the formation target of 10,000 FPOs achieved;
+- 1,175 FPOs with 100 per cent women members;
+- women constituting about 40 per cent of shareholders;
+- cumulative turnover of Rs 20,358 crore as of 31 July 2026;
+- management-cost support availed by 9,865 FPOs, equity grants by 8,357 and
+  credit-guarantee support by 3,140.
+
+Each number is a dated scheme indicator. Formation, turnover or support receipt does
+not establish profitability or equal member benefit. The scheme provides five-year
+professional handholding through implementing agencies and CBBOs. Credit guarantee
+reduces lender risk; it is not automatic sanction or zero default risk.
 
 ### Inventory case
 
@@ -1365,56 +1112,27 @@ member net benefit and repeat trade are harder to observe.
 9. Business model determines risk.
 10. Member net benefit is the ultimate test.
 
-### Practice - commercial viability
+### Concept check
 
-**MCQ 21.** What most directly explains an FPO's working-capital need?
+**Question:** Why can high turnover coexist with weak member benefit in an FPO?
 
-A. It must often pay members before receiving payment from the final buyer.
-B. It owns every member's land.
-C. It fixes the market price.
-D. It is exempt from inventory risk.
+**Model answer:** Turnover is gross sales. Thin margins, inventory loss, finance cost, delayed buyer payment, governance leakage or unequal patronage distribution can leave little net benefit. Repeat throughput, prompt payment and member surplus are stronger outcomes.
 
-**Answer: A**
+**Misconception to avoid:** Formation, grant receipt, authorised capital and turnover are milestones, not proof of commercial sustainability.
 
-- **A is correct:** the cash-flow timing gap must be financed.
-- **B is wrong:** member land need not be owned by the FPO.
-- **C is wrong:** prices emerge from markets or contracts.
-- **D is wrong:** inventory creates risk rather than exemption.
+### Original Mains practice
 
-**MCQ 22.** Which statement about the 10,000-FPO milestone is correct?
+**Mains prompt:** Evaluate the 10,000-FPO scheme through outcomes rather than formation counts. (15 marks, 250 words)
 
-A. It proves every FPO is profitable.
-B. It records formation at the reported date, not universal commercial sustainability.
-C. It ended all support in 2025.
-D. It converted all FPOs into APMCs.
+**Mains model:** The scheme addresses smallholder transaction costs through cluster formation, five-year handholding, management support, matching equity and credit-guarantee arrangements. Official updates in August 2026 reported 10,000 FPOs formed, 1,175 with all-women membership, women comprising about 40% of shareholders, and cumulative turnover of Rs 20,358 crore by 31 July 2026. These are important scale and participation indicators, not proof of viability. Evaluation must examine active member supply, repeat throughput, quality consistency, working capital, prompt payment, operating surplus, buyer concentration, governance and net member benefit. Management support, equity grants and credit guarantees reduce constraints but do not assure profitable demand or prevent default. Formation creates an institution; commercial discipline and fair distribution create farmer value.
 
-**Answer: B**
-
-- **A is wrong:** formation and profitability are different stages.
-- **B is correct:** the indicator must retain its bounded meaning.
-- **C is wrong:** support architecture continues beyond the formation milestone.
-- **D is wrong:** the institutions have different functions and laws.
-
-**Mains micro-model - 15 marks:** *Evaluate the 10,000-FPO scheme through an outcome
-rather than registration lens.*
-
-**Model:** The scheme addresses smallholder transaction costs through professional
-handholding, member equity support, credit guarantees and market linkage. The reported
-achievement of 10,000 FPOs is an important formation milestone. However, viability
-requires active member supply, quality consistency, working capital, capable management,
-repeat buyers and prompt member payment. Evaluation should therefore track survival,
-throughput, repeat transactions, member net benefit, governance and leverage rather
-than registration or turnover alone. Formation creates institutional possibility;
-commercial discipline converts it into farmer value.
-
-**Transition:** FPOs can negotiate with buyers collectively. The next question is how
-contracts and direct sourcing redistribute risk and intermediary functions.
+**Unique scoring rubric:** 3 marks scheme architecture; 3 marks correctly dated official data; 4 marks outcome metrics; 3 marks risk/causality qualification; 2 marks verdict.
 
 ---
 
 ## Lesson 11 - Contracts, direct purchase and organised retail
 
-**Progress: 11/16 | Stage: Advanced | Subtopic: Function substitution, bargaining and incomplete contracts**
+Progress: 11/16 | Stage: Core | Subtopic: Function substitution, bargaining and incomplete contracts
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical organised-retail, contract and direct-procurement sections queried
@@ -1445,8 +1163,8 @@ substitution**, not the disappearance of intermediation.
 
 - ITC's e-Choupal is a bounded example of information and direct procurement architecture.
 - Mother Dairy's Safal illustrates collection and direct fruit/vegetable sourcing.
-- Organised retailers may source from farmers or FPOs through collection and grading
-  systems.
+- Reliance Retail illustrates organised farm-to-fork sourcing from farmers or FPOs through
+  collection, grading and logistics systems.
 
 Use them to explain mechanisms, not to claim universal coverage or benefit.
 
@@ -1496,70 +1214,27 @@ financial capacity with a dominant buyer.
 9. Hold-up follows buyer-specific investment.
 10. FPOs improve but do not perfect bargaining symmetry.
 
-### Practice - direct channels
+### Concept check
 
-**MCQ 23.** Why do supermarkets not literally eliminate all intermediaries?
+**Question:** Do supermarkets eliminate agricultural intermediaries?
 
-A. They never buy directly.
-B. They cannot specify quality.
-C. They internalise or contract aggregation, grading, finance and logistics.
-D. They replace all State law.
+**Model answer:** They may bypass a commission-agent route, but procurement, aggregation, grading, finance, storage and logistics remain. The retailer performs or contracts these functions. Efficiency gains must be weighed against buyer concentration and contract asymmetry.
 
-**Answer: C**
+**Misconception to avoid:** Functional substitution is not the disappearance of intermediation, and direct purchase is not automatically pro-farmer.
 
-- **A is wrong:** direct sourcing is possible.
-- **B is wrong:** organised buyers commonly use specifications.
-- **C is correct:** functions persist although the performer changes.
-- **D is wrong:** private sourcing remains legally bounded.
+### Original Mains practice
 
-**MCQ 24.** Which feature is most important in a fair contract-farming agreement?
+**Mains prompt:** Can direct procurement and contract farming improve farmer realisation without creating new buyer dependence? (15 marks, 250 words)
 
-A. Only the sponsor's logo
-B. Automatic transfer of land title
-C. A ban on all alternative buyers in every circumstance
-D. Clear price, quality, delivery, payment, force-majeure and dispute terms
+**Mains model:** Direct procurement can reduce repeated handling, transmit quality demand and provide a known buyer. Contracts may specify price or formula, quantity, quality, inputs, delivery and payment. ITC e-Choupal and Mother Dairy Safal illustrate information or collection architectures, but necessary intermediary functions continue within the buyer's system. Dependence arises when farmers make buyer-specific investments, quality is judged unilaterally, payment is delayed or few alternative buyers exist. Safeguards include FPO negotiation, transparent grade and price formulas, prompt payment, force-majeure rules, independent testing, accessible disputes and competing channels. Contract farming reallocates selected price and market risks; it does not remove production, rejection or enforcement risk. Farmer benefit depends on contestable procurement and balanced terms.
 
-**Answer: D**
-
-- **A is wrong:** branding does not allocate risk.
-- **B is wrong:** land protection is a core safeguard.
-- **C is wrong:** exclusivity must be lawful and proportionate.
-- **D is correct:** complete terms reduce ambiguity and allocate risks.
-
-**MCQ 25.** What is hold-up risk?
-
-A. Post-investment renegotiation against a farmer who made buyer-specific investments
-B. Any fall in MSP
-C. All transport delay
-D. A warehouse's physical capacity
-
-**Answer: A**
-
-- **A is correct:** sunk, specific investment weakens the outside option.
-- **B is wrong:** it is not an MSP definition.
-- **C is wrong:** delay may create loss but is not necessarily hold-up.
-- **D is wrong:** capacity is unrelated to the bargaining concept.
-
-**Mains micro-model - 10 marks:** *Can supermarkets eliminate intermediaries in
-agricultural marketing?*
-
-**Model:** Supermarkets can bypass commission agents through direct procurement, but
-aggregation, grading, finance, transport and quality control do not disappear. Retailers
-internalise these functions or contract them to collection centres and logistics firms.
-The route may reduce repeated handling and improve demand signals. Yet a few organised
-buyers can exercise monopsony-like power over dispersed farmers. FPO aggregation,
-transparent specifications, competing channels, prompt payment and enforceable
-contracts are therefore essential. The correct conclusion is functional substitution,
-not literal elimination of intermediation.
-
-**Transition:** Direct channels still face harvest-time cash pressure. Scientific storage
-and warehouse receipts can separate the need for money from the decision to sell.
+**Unique scoring rubric:** 3 marks benefit channels; 3 marks complete contract design; 3 marks named mechanism evidence; 4 marks dependence safeguards; 2 marks balanced conclusion.
 
 ---
 
 ## Lesson 12 - Storage as a marketing choice
 
-**Progress: 12/16 | Stage: Core | Subtopic: WDRA, e-NWR and inventory finance**
+Progress: 12/16 | Stage: Core | Subtopic: WDRA, e-NWR and inventory finance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical WDRA and warehouse-finance sections queried
@@ -1585,7 +1260,10 @@ warehouses and the negotiable warehouse-receipt framework under the 2007 Act.
 
 For WDRA-registered warehouses, electronic NWR issuance became mandatory from **1 June
 2019** through recognised repositories. An informal storage slip is not automatically an
-e-NWR.
+e-NWR. The **Credit Guarantee Scheme for e-NWR Based Pledge Financing (CGS-NPF)**,
+launched in December 2024 with a **Rs 1,000 crore corpus**, seeks to widen pledge finance,
+including for farmers, FPOs, cooperatives and other eligible borrowers. A guarantee still
+does not replace bank appraisal.
 
 ### Inventory option value
 
@@ -1644,55 +1322,27 @@ quality barriers; FPO facilitation can reduce but not erase them.
 9. Price decline can make waiting harmful.
 10. FPO aggregation can improve access to storage finance.
 
-### Practice - warehouse finance
+### Concept check
 
-**MCQ 26.** What is WDRA's principal role in this topic?
+**Question:** When does an e-NWR reduce distress sale?
 
-A. Fixing MSP
-B. Regulating registered warehouses and the negotiable warehouse-receipt framework
-C. Operating every mandi auction
-D. Licensing all agricultural traders
+**Model answer:** A farmer or FPO can store eligible produce in a WDRA-registered warehouse, obtain a recognised electronic receipt and seek pledge finance. Liquidity is separated from sale timing if storage, credit and later net price justify waiting.
 
-**Answer: B**
+**Misconception to avoid:** An e-NWR does not guarantee a loan or a price rise; holding costs and downside risk remain.
 
-- **A is wrong:** MSP has a separate institutional process.
-- **B is correct:** this is WDRA's statutory perimeter.
-- **C is wrong:** market committees operate yards.
-- **D is wrong:** trader licensing is State-market architecture.
+### Original Mains practice
 
-**MCQ 27.** Which statement about an e-NWR is correct?
+**Mains prompt:** Explain how regulated warehouse receipts can convert storage into a marketing and finance instrument. (15 marks, 250 words)
 
-A. Every storage slip is an e-NWR.
-B. It guarantees a zero-risk bank loan.
-C. It is an electronic record of goods in the regulated warehouse-receipt system and may support transfer or pledge.
-D. Pledge always means immediate sale to the lender.
+**Mains model:** Storage becomes a marketing instrument when it allows sale after harvest rather than forced immediate disposal. In a WDRA-registered warehouse, verified quantity and quality support an electronic negotiable warehouse receipt. The holder may transfer the claim or pledge it for credit, subject to lender appraisal. The Credit Guarantee Scheme for e-NWR Based Pledge Financing, launched in December 2024 with a Rs 1,000 crore corpus, seeks to widen such finance. The farmer or FPO can meet liquidity needs and wait if the expected later price exceeds storage, interest, shrinkage and downside risk. Access remains limited by distance, lot size, documentation, lender confidence and commodity eligibility. e-NWR finance expands choice; it does not guarantee a loan or profit.
 
-**Answer: C**
-
-- **A is wrong:** regulated issuance conditions matter.
-- **B is wrong:** credit appraisal and risks remain.
-- **C is correct:** it captures the document's economic function.
-- **D is wrong:** security interest and sale are distinct.
-
-**Mains micro-model - 15 marks:** *How can warehouse-receipt finance reduce distress
-sale?*
-
-**Model:** A farmer often sells immediately because cash is needed at harvest. Deposit in
-a regulated warehouse preserves produce and creates a documented inventory claim. An
-e-NWR can be pledged for short-term credit, separating liquidity need from sale timing.
-The farmer or FPO may then wait for a better net price. The mechanism works only if
-warehouses, quality records, repositories and lenders are trusted. Interest, storage
-charges, shrinkage and price decline can still make delayed sale unprofitable. It is a
-choice-enhancing tool, not a guaranteed gain.
-
-**Transition:** Ordinary storage suits durable crops. Perishables require a continuous
-temperature, handling and buyer chain.
+**Unique scoring rubric:** 3 marks receipt-pledge mechanism; 2 marks WDRA perimeter; 2 marks dated CGS-NPF evidence; 4 marks option-value analysis; 2 marks access limits; 2 marks conclusion.
 
 ---
 
 ## Lesson 13 - Perishable value chains
 
-**Progress: 13/16 | Stage: Advanced | Subtopic: Packhouses, cold chains and high-value crops**
+Progress: 13/16 | Stage: Core | Subtopic: Packhouses, cold chains and high-value crops
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical high-value-crop and cold-chain boundary material queried
@@ -1743,6 +1393,37 @@ Buyer contracts, FPO support, irrigation reliability, skill, standards, processi
 market access all influence crop choice. Production promotion without downstream demand
 may increase loss.
 
+### Agriculture Infrastructure Fund - financing the missing nodes
+
+The **Agriculture Infrastructure Fund (AIF)** is a **Rs 1 lakh crore** financing facility
+announced in 2020. It mobilises medium- to long-term debt for viable **post-harvest management infrastructure**
+and **community farming assets** at farm-gate and aggregation points. Its purpose is not merely
+to add capacity, but to make storage, quality, handling and market linkage financially investible.
+
+| Design element | AIF treatment |
+|---|---|
+| Eligible infrastructure | warehouses and silos; cold stores and cold-chain components; packhouses; sorting, grading, assaying and packaging; logistics and e-marketing facilities; eligible primary or integrated processing and community assets |
+| Eligible actors | individual/group farmers, FPOs, PACS and other cooperatives, SHGs/JLGs, agri-entrepreneurs, start-ups, APMCs, State agencies and eligible public-private projects |
+| Interest support | 3 per cent annual interest subvention on the eligible loan amount up to Rs 2 crore, for a maximum of seven years |
+| Credit support | credit-guarantee coverage for eligible loans up to Rs 2 crore under CGTMSE, with the fee borne by government; FPOs may also use the applicable FPO credit-guarantee facility |
+| Delivery architecture | participating banks and other eligible lenders, an online window, project-management handholding and convergence with other Union or State schemes |
+
+The scheme remains operational from **2020-21 to 2032-33**. An official PIB release dated
+**26 January 2026** reported **Rs 80,224.15 crore** of loans sanctioned for **1,50,431
+projects**, mobilising total investment of **Rs 1,27,508 crore**. These are sanctioned
+finance and investment indicators. They do not prove that every asset is commissioned,
+well located, utilised, accessible to smallholders or commercially viable.
+
+For this topic, the causal test is:
+
+```text
+AIF-supported asset
+  -> operational capacity
+      -> affordable farmer/FPO access
+          -> reliable throughput and buyer linkage
+              -> lower loss / better timing / higher netback
+```
+
 ### Boundary with Topic 15
 
 This topic owns market-chain logic: collection, quality, logistics, contracts and buyer
@@ -1763,6 +1444,8 @@ commercially unviable.
 - Cold chain means continuity, not one cold store.
 - Standards and buyer acceptance shape expected return.
 - High consumer price does not guarantee high farm realisation.
+- AIF finances eligible infrastructure; it does not itself guarantee utilisation or farmer access.
+- Sanctioned projects and investment are inputs, not post-harvest or income outcomes.
 
 ### Revision notes
 
@@ -1776,56 +1459,37 @@ commercially unviable.
 8. FPOs can aggregate and standardise lots.
 9. Isolated assets may have low utilisation.
 10. Detailed processing schemes belong to Topic 15.
+11. AIF is a Rs 1 lakh crore debt-financing facility for post-harvest and community assets.
+12. Its 3 per cent interest subvention is capped to an eligible loan amount of Rs 2 crore.
+13. Credit-guarantee support does not remove project or lender appraisal.
+14. On 26 January 2026, official reporting recorded Rs 80,224.15 crore sanctioned for 1,50,431 projects.
 
-### Practice - perishable chains
+### Concept check
 
-**MCQ 28.** Which statement best describes a cold chain?
+**Question:** Why is a cold store not by itself a cold chain?
 
-A. Any warehouse used during winter
-B. A cold store regardless of first and last mile
-C. Only refrigerated transport
-D. Continuous temperature- and handling-controlled movement across linked stages
+**Model answer:** Perishables require linked harvesting, pre-cooling, sorting, packing, temperature-controlled storage, reefer movement and distribution. AIF can finance eligible nodes, but location, throughput, operation and farmer access determine whether the funded assets form a working chain.
 
-**Answer: D**
+**Misconception to avoid:** Installed capacity is not continuity, utilisation or farmer access; high-value crop choice must use risk-adjusted return.
 
-- **A is wrong:** season does not define a cold chain.
-- **B is wrong:** one facility is not continuity.
-- **C is wrong:** transport is only one link.
-- **D is correct:** all linked stages must preserve the required conditions.
+### Original Mains practice
 
-**MCQ 29.** Why can a high-value crop remain unattractive despite a high expected price?
+**Mains prompt:** Why does diversification into high-value crops require value-chain readiness? (10 marks, 150 words)
 
-A. Perishability, quality rejection, water, labour and market-access risks may reduce expected net return.
-B. High-value crops never use contracts.
-C. FPOs cannot market perishables.
-D. Consumer demand is irrelevant.
+**Mains model:** High-value crops often have stronger demand but greater perishability, quality differentiation and rejection risk. Farmers compare expected accepted price with water, labour, input, harvesting, packing, cold-chain and finance costs. A complete chain needs timely harvest, pre-cooling, packhouses, grading, storage, reefer movement, processors or retailers and reliable payment. AIF can finance eligible assets, while FPOs coordinate lots and contracts; neither prevents isolated facilities from remaining underused without throughput and buyers. Diversification policy should build demand, standards, logistics and risk management with production support. Headline price alone is an unsafe guide.
 
-**Answer: A**
-
-- **A is correct:** risk-adjusted return drives the decision.
-- **B is wrong:** contracts are common in specialised chains.
-- **C is wrong:** FPOs may aggregate and market them.
-- **D is wrong:** final demand is central to value.
-
-**Mains micro-model - 10 marks:** *Explain factors influencing farmers' selection of
-high-value crops.*
-
-**Model:** Farmers compare expected net return rather than headline price. Water,
-climate, skill, seed, labour and credit shape production feasibility. Perishability,
-quality specifications, collection frequency, cold-chain continuity, processing demand
-and payment reliability shape market feasibility. Contracts or FPO marketing may reduce
-search and aggregation costs but can create rejection or dependence risk. Therefore
-high-value crop selection is a farm-to-market risk decision; production promotion must
-be synchronised with standards, logistics and reliable demand.
-
-**Transition:** Better chains may still concentrate control in a few buyers or a dominant
-platform. Competition must therefore be analysed explicitly.
+**Unique scoring rubric:** 2 marks risk-adjusted framework; 3 marks chain nodes; 2 marks FPO/contract role; 2 marks isolated-asset qualification; 1 mark policy conclusion.
 
 ---
 
+# OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER
+
+The following lessons deepen market-power, platform, inclusion and resilience analysis.
+They refine a strong answer but do not relocate or relabel any Core unit.
+
 ## Lesson 14 - Competition and platform economics
 
-**Progress: 14/16 | Stage: Advanced | Subtopic: Spatial monopsony, network effects and gatekeepers**
+Progress: 14/16 | Stage: Advanced | Subtopic: Spatial monopsony, network effects and gatekeepers
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Advanced market-power and platform layers queried
@@ -1876,6 +1540,24 @@ Do not count traders alone. Examine:
 - tied credit;
 - platform neutrality and grievance resolution.
 
+### Value-chain finance beyond land collateral
+
+Advanced agricultural finance can lend against a credible **transactional cash flow**
+rather than relying only on land:
+
+| Instrument | Mechanism | Example | Principal risk |
+|---|---|---|---|
+| Purchase-order finance | a lender advances funds before delivery against a confirmed buyer order, buyer quality terms and expected sale proceeds | an FPO with a processor's order finances member procurement, grading and packing | order cancellation, failure to meet grade/volume, buyer concentration and diversion of proceeds |
+| Receivables or invoice finance | after accepted delivery and invoice, a financier advances most of the amount and is repaid when the buyer pays | an FPO bridges a 45-day processor-payment period while paying members promptly | disputed or false invoice, delayed/defaulting buyer, dilution and unclear recourse |
+| Warehouse-collateral finance | stored, graded inventory represented by an eligible receipt secures credit before sale | an FPO stores pulses and borrows against the documented stock | price fall, quality loss, warehouse failure and margin calls |
+
+The policy value is lower dependence on immovable collateral and better financing of the
+aggregation-to-payment cycle. The qualification is decisive: the claim is only as strong
+as the buyer, contract, quality evidence, invoice acceptance, custody, payment control and
+enforcement. Standard contracts, digital transaction records, escrow or controlled payment
+flows, data portability and timely buyer payment can reduce risk; they cannot eliminate
+credit appraisal or turn every purchase order into bankable collateral.
+
 State market authorities shape the architecture. CCI addresses anti-competitive conduct
 under the Competition Act where its legal tests apply.
 
@@ -1906,57 +1588,31 @@ operator, creating an accountability gap.
 8. Tied credit weakens outside options.
 9. State architecture and CCI conduct oversight differ.
 10. Competition must be measured at lot and locality level.
+11. Purchase-order finance funds execution before delivery against a credible order.
+12. Receivables finance bridges the period after accepted delivery until buyer payment.
+13. Value-chain finance reduces land-collateral dependence but adds buyer, performance and document risk.
 
-### Practice - platform competition
+### Concept check
 
-**MCQ 30.** Why can local monopsony persist on a national electronic platform?
+**Question:** How can a platform widen choice yet increase gatekeeper power?
 
-A. The Constitution prohibits distant bids.
-B. Freight, perishability and delivery risk may leave only a few economically feasible buyers.
-C. Platforms cannot display prices.
-D. FPOs are barred from electronic trade.
+**Model answer:** Network effects can attract more buyers and sellers, improving matching. The same concentration can give the platform control over ranking, data, access or fees. Portability, interoperability, auditability and alternative channels limit dependency.
 
-**Answer: B**
+**Misconception to avoid:** Registered traders are not equivalent to active independent bids in the farmer's feasible market.
 
-- **A is wrong:** legal impossibility is not the general issue.
-- **B is correct:** economic distance can narrow the effective market.
-- **C is wrong:** price visibility is a core digital function.
-- **D is wrong:** FPO participation is recognised.
+### Original Mains practice
 
-**MCQ 31.** Which is the best competition indicator for a specific lot?
+**Mains prompt:** Assess e-NAM as a two-sided platform in agricultural markets. (15 marks, 250 words)
 
-A. Total national trader registrations alone
-B. Number of mobile downloads
-C. Number and independence of credible bids capable of settling the trade
-D. Number of commodities listed
+**Mains model:** e-NAM connects sellers and buyers, so value can rise as participation on each side deepens. More credible lots attract buyers; more buyers can improve seller participation and price discovery. Purchase-order or receivables finance can fund execution and bridge buyer-payment delays, but also imports buyer, performance and document risk. Agricultural network effects remain constrained by freight, quality and State rules, while platform concentration can create gatekeeper risks. Assessment should count assayed lots, active independent bids, completed trade, payment time and farmer netback. Interoperable licences, portable records, transparent algorithms, data safeguards, logistics and alternative channels can preserve contestability. e-NAM remains public digital market infrastructure embedded in local physical markets.
 
-**Answer: C**
-
-- **A is wrong:** many registrants may be inactive.
-- **B is wrong:** downloads do not show bidding.
-- **C is correct:** competition must be effective at transaction level.
-- **D is wrong:** catalogue breadth is not bidder rivalry.
-
-**Mains micro-model - 15 marks:** *Can digital platforms replace agricultural-market
-competition policy?*
-
-**Model:** Digital platforms can lower search costs, widen visibility and create records,
-but they cannot guarantee contestability. Freight and perishability may preserve spatial
-monopsony; registrations may not translate into independent bids; network effects may
-concentrate data and access. State authorities must permit entry and transparent market
-rules, while competition law addresses prohibited conduct where applicable. Platform
-performance should be judged through active bids, completed settlements, farmer
-outside options and grievance outcomes. Technology complements rather than replaces
-competition governance.
-
-**Transition:** Competition is meaningful only if small, women and remote producers can
-use the market and if the chain survives climatic and logistical shocks.
+**Unique scoring rubric:** 3 marks two-sided logic; 3 marks spatial/commodity limits; 3 marks gatekeeper analysis; 3 marks metrics; 3 marks governance prescription.
 
 ---
 
 ## Lesson 15 - Inclusion and resilience
 
-**Progress: 15/16 | Stage: Advanced | Subtopic: Women, smallholders, climate and local capacity**
+Progress: 15/16 | Stage: Advanced | Subtopic: Women, smallholders, climate and local capacity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical inclusion limits, Survey resilience linkage and FPO current evidence queried
@@ -2035,56 +1691,27 @@ design balances efficiency and shock tolerance.
 9. Climate affects quality and logistics, not only production.
 10. Redundancy has a cost-resilience trade-off.
 
-### Practice - inclusive resilience
+### Concept check
 
-**MCQ 32.** Which statement best measures inclusion in an agricultural platform?
+**Question:** What makes an agricultural market resilient rather than merely efficient in normal times?
 
-A. Registration alone
-B. Smartphone ownership alone
-C. Number of schemes linked
-D. Ability to access, transact, receive payment, obtain benefit and use grievance remedies
+**Model answer:** Resilience combines diverse buyers, routes, storage nodes, payment options, working capital, local repair capacity and accessible offline assistance. Redundancy raises some normal-time cost but prevents a single failure from stopping trade.
 
-**Answer: D**
+**Misconception to avoid:** Digital access is incomplete without assisted use, successful payment, realised benefit and grievance correction.
 
-- **A is wrong:** formal entry may not produce use.
-- **B is wrong:** device access is only one input.
-- **C is wrong:** scheme linkage does not prove farmer outcome.
-- **D is correct:** it follows the complete inclusion chain.
+### Original Mains practice
 
-**MCQ 33.** Why may a distributed storage and buyer network be more resilient?
+**Mains prompt:** How can agricultural supply chains be made both inclusive and resilient? (15 marks, 250 words)
 
-A. It reduces dependence on a single node or purchaser.
-B. It guarantees the lowest cost in every year.
-C. It eliminates climate shocks.
-D. It makes quality standards unnecessary.
+**Mains model:** Inclusion requires more than registration. Farmers need assisted access, understandable grades, affordable aggregation, successful payment, realised benefit and correction of errors. Women and tenant cultivators need recognition, voice and control over proceeds; FPO participation should be measured through actual patronage and governance. Resilience requires diverse buyers, distributed storage, alternative transport routes, interoperable payments, working capital and local repair capacity. Cold-chain and digital systems also need power and offline contingencies. Some redundancy raises normal-time cost, but it limits single-point failure during extreme weather, price shocks or network disruption. Policy should track service use by farm size and gender, payment delays, concentration, loss and recovery time. Efficient chains minimise cost; resilient-inclusive chains also distribute capability and withstand shocks.
 
-**Answer: A**
-
-- **A is correct:** alternatives reduce single-point failure.
-- **B is wrong:** redundancy can raise normal-time cost.
-- **C is wrong:** resilience manages rather than abolishes shocks.
-- **D is wrong:** quality remains central.
-
-**Mains micro-model - 15 marks:** *How should inclusion and resilience be built into
-agricultural-market reform?*
-
-**Model:** Inclusion requires more than registration. Smallholders need affordable
-aggregation, nearby collection, readable quality reports, assisted digital access,
-timely payment and low-cost grievance. Women's participation should be assessed through
-board voice, service use and benefit, not membership alone. Resilience requires diverse
-buyers, distributed storage, route alternatives, working capital and force-majeure
-rules. Such redundancy may cost more than a highly centralised chain, but it reduces
-single-point failure and local monopsony. Reform should therefore evaluate access,
-distribution and shock recovery alongside efficiency.
-
-**Transition:** The final lesson assembles law, platform, collective organisation,
-physical infrastructure and competition into one answer-ready reform architecture.
+**Unique scoring rubric:** 3 marks inclusion ladder; 3 marks gender/tenancy depth; 4 marks resilience architecture; 3 marks measurable indicators; 2 marks efficiency trade-off.
 
 ---
 
 ## Lesson 16 - Integrated agricultural-market reform
 
-**Progress: 16/16 | Stage: Mastery | Subtopic: Whole-chain design and UPSC answer craft**
+Progress: 16/16 | Stage: Advanced | Subtopic: Whole-chain design and UPSC answer craft
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Complete Basic/Advanced owners, package cross-checks, syllabus and all verified PYQ ledgers through 2026 queried
@@ -2128,21 +1755,25 @@ No single instrument owns the whole chain:
 
 ### Criticism-reply-residual map
 
-**Criticism 1:** APMC protects incumbent intermediaries.  
-**Reply:** Preserve useful public-market functions while opening entry and alternatives.  
+**Criticism 1:** APMC protects incumbent intermediaries.
+**Reply:** Preserve useful public-market functions while opening entry and alternatives.
 **Residual:** Thin private competition may persist.
 
-**Criticism 2:** e-NAM is only a screen.  
-**Reply:** Deepen it with assay, payment, logistics and legal interoperability.  
+**Criticism 2:** e-NAM is only a screen.
+**Reply:** Deepen it with assay, payment, logistics and legal interoperability.
 **Residual:** Commercial distance still limits buyers.
 
-**Criticism 3:** FPOs are grant-dependent.  
-**Reply:** Shift evaluation to active trade, governance and member benefit.  
+**Criticism 3:** FPOs are grant-dependent.
+**Reply:** Shift evaluation to active trade, governance and member benefit.
 **Residual:** Some clusters may not support viable enterprises.
 
-**Criticism 4:** Contracts expose farmers to large buyers.  
-**Reply:** Use FPO bargaining, transparent quality and accessible disputes.  
+**Criticism 4:** Contracts expose farmers to large buyers.
+**Reply:** Use FPO bargaining, transparent quality and accessible disputes.
 **Residual:** Incomplete contracts cannot eliminate every contingency.
+
+The **Dalwai Committee on Doubling Farmers' Income** is a useful policy anchor for this
+integrated approach. Its relevance is architectural: farmer income depends on aggregation,
+post-harvest management, value chains and market access, not production volume alone.
 
 ### 2026 PYQ answer engine
 
@@ -2186,799 +1817,606 @@ aggregation and payment - qualified by the physical and legal stack.
 14. PYQ links do not authorise invented answer keys.
 15. The final metric is farmer netback with consumer value and system resilience.
 
-### Practice - integrated verdict
+### Concept check
 
-**MCQ 34.** Which is the best integrated agricultural-market reform package?
+**Question:** What is the minimum integrated reform stack for better farmer realisation?
 
-A. Platform expansion alone
-B. Interoperable State rules, competitive entry, FPO capacity, trusted quality, storage finance, logistics, payment and remedy
-C. Repeal of every institution alone
-D. Universal FCI procurement of every commodity
+**Model answer:** Contestable legal channels, FPO aggregation, trusted grades, transparent bidding, working capital, storage, logistics, prompt payment and enforceable remedy must operate together. Performance is measured through netback, loss, payment time, buyer diversity and inclusion.
 
-**Answer: B**
+**Misconception to avoid:** No single slogan - abolish mandis, launch a portal, form an FPO or build a warehouse - completes the market.
 
-- **A is wrong:** software cannot complete physical trade.
-- **B is correct:** it joins the legal, organisational, physical and financial chain.
-- **C is wrong:** removal without replacement can leave thin markets.
-- **D is wrong:** universal procurement is neither feasible nor the purpose of Topic 13.
+### Original Mains practice
 
-**Mains micro-model - 20 marks:** *Design an integrated strategy for agricultural supply
-chains.*
+**Mains prompt:** Propose an integrated agricultural-market reform strategy for India. (20 marks, 250 words)
 
-**Model:** Reform should begin with contestable State-law channels, transparent fees,
-portable participation and reliable public-market functions. FPOs should aggregate
-small lots but be judged through governance, working capital and member benefit.
-e-NAM should deepen from onboarding to assayed, paid and delivered trade. WDRA-linked
-storage can support inventory finance, while perishable chains need packhouses and
-continuous cold movement. Contracts require transparent quality, payment and dispute
-clauses. Competition oversight must test actual bids and buyer power. Success should be
-measured through freight-adjusted farmer netback, lower loss, prompt payment, inclusion
-and resilience rather than portals, licences or registrations alone.
+**Mains model:** India needs a reform stack rather than a single instrument. States should permit contestable public, private, direct and electronic channels with portable licences, transparent single-point charges and accountable dispute systems. Mandis should retain useful auction, weighment and infrastructure functions while facing entry and performance discipline. FPOs should aggregate smallholders under audited governance, professional management and adequate working capital. Common grades, representative assaying and re-testing should make lots remotely tradable. e-NAM should link discovery to payment, logistics and delivery; success should mean completed trade, not onboarding. WDRA-linked e-NWR finance can reduce forced sale, while perishables require packhouses and uninterrupted cold logistics. Contracts need transparent price-quality formulas and accessible remedies. Competition oversight should address collusion or gatekeeper conduct. Measure freight-adjusted farmer netback, prompt payment, buyer diversity, loss, inclusion and resilience. The aim is competitive performance of every necessary function, not the ritual removal of institutions.
 
----
+**Unique scoring rubric:** 3 marks legal architecture; 3 marks mandi/FPO design; 3 marks quality-digital settlement; 3 marks storage/perishable chain; 3 marks contracts/competition; 3 marks outcome metrics; 2 marks integrated verdict.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-## Mains links - exact verified ownership
+## Locally verified Mains questions
 
-| Year | Paper / Q | Verified demand | Directive / format | Lesson link | Concise answer approach |
-|---:|---|---|---|---|---|
-| 2018 | GS-III Q4 | Supermarkets in agricultural supply chain and intermediary elimination | Examine, 10 marks, 150 words | Lessons 3 and 11 | Distinguish intermediary identity from function; show shorter routing and demand signals; add organised-buyer monopsony and FPO/contract safeguards. |
-| 2020 | GS-III Q3 | Constraints in transport and marketing of agricultural produce | What are, 10 marks, 150 words | Lessons 1, 7 and 13 | Classify first mile, quality, storage, working capital, freight, perishability, licences, buyer power and settlement. |
-| 2022 | GS-III Q13 | Bottlenecks in upstream and downstream agricultural marketing in India | Discuss, 15 marks, 250 words | Lessons 1-7, 12-14 | Upstream: lots, quality, aggregation and planning; downstream: discovery, storage, finance, logistics, processing, buyer power and remedy. |
-| 2025 | GS-III Q3 | Factors influencing farmers' selection of high-value crops | Explain, 10 marks, 150 words | Lesson 13 | Use risk-adjusted return: water, skill, labour, perishability, grade, contract, cold chain, buyer and payment. |
-| 2025 | GS-III Q4 | Scope and significance of supply-chain management of agricultural commodities | Elaborate, 10 marks, 150 words | Lessons 1, 7, 12 and 13 | Trace product, information, money and risk; explain loss reduction, quality, timing, traceability, market access and value distribution. |
-| 2026 | GS-III Q4 | Factors responsible for inefficiency of agri-produce marketing and how e-commerce reduces it | Explain, 10 marks, 150 words | Lessons 3, 5-7, 14 and 16 | Diagnose fragmentation, information, quality, logistics, credit and buyer power; show digital matching, records and payment; qualify with physical/legal limits. |
+| Year | Paper / Q | Exact or ledger-controlled wording | Directive / format | Ownership and answer route |
+|---:|---|---|---|---|
+| 2018 | GS-III Q4 | "Examine the role of supermarkets in supply chain management of fruits, vegetables and food items. How do they eliminate number of intermediaries?" | Examine; 10 marks; 150 words | Topic 13 primary owner; Lessons 3 and 11. Distinguish route-shortening from functional substitution; add buyer-power qualification. |
+| 2020 | GS-III Q3 | "What are the main constraints in transport and marketing of agricultural produce in India?" | What are; 10 marks; 150 words | Topic 13 primary owner; Lessons 1, 7, 12 and 13. Classify first mile, quality, storage, freight, credit, perishability and settlement. |
+| 2022 | GS-III Q13 | "What are the main bottlenecks in upstream and downstream process of marketing of agricultural products in India?" | Discuss; 15 marks; 250 words | Topic 13 primary owner; Lessons 1-7 and 11-14. Separate upstream aggregation/quality from downstream storage, finance, movement and buyer power. |
+| 2025 | GS-III Q3 | Factors influencing farmers' selection of high-value crops | Explain; 10 marks; 150 words | Topic 13 primary owner; Lesson 13. Use risk-adjusted return, water, skill, standards, buyer, cold chain and payment. |
+| 2025 | GS-III Q4 | Scope and significance of supply-chain management of agricultural commodities | Elaborate; 10 marks; 150 words | Topic 13 primary owner; Lessons 1, 7, 12 and 13. Trace product, information, money and risk. |
+| 2026 | GS-III Q4 | "Explain the factors responsible for inefficiency of agri-produce marketing. How e-commerce helps to reduce inefficiency of agri-produce marketing? Explain." | Explain; 10 marks; 150 words | Topic 13 primary owner; Lessons 3, 5-7, 14 and 16. Diagnose fragmentation and market failures, then assess digital matching with physical limits. |
 
-No solved model answer is reproduced for these PYQs. The table provides linkage, demand
-and answer approach only.
+The 2018-2023 and 2024-2025 routing ledgers control ownership. The locally held 2026 GS-III
+ledger records the exact 2026 wording and routes it solely to the Basic Topic 13 owner. No
+solved PYQ model is reproduced here.
 
-## Objective links - answer letters withheld
+## Final answer-neutral objective links
 
-| Year | Paper / Q | Verified concept route | Honest status |
+| Year | Paper / Q | Answer-neutral question route | Status and provenance |
 |---:|---|---|---|
-| 2022 | Prelims GS-I Q79 | Tea Board India: statutory-body, ministry and overseas-office statements | Locally verified ledger does not contain an official answer key; no answer letter is inferred. Tea Board is retained as a statutory-body and commodity-marketing classification link. |
-| 2023 | Prelims GS-I Q26 | Small Farmer Large Field cooperative agricultural concept | Locally verified ledger does not contain an official answer key; no answer letter is inferred. The concept is taught as pooled operation without necessary loss of individual ownership. |
+| 2022 | Prelims GS-I Q79 | Tea Board India: statutory status, administrative ministry and statements about overseas offices | Routed jointly to this commodity-marketing owner and the Polity statutory-bodies owner. The local routing ledger lacks an official key; no answer letter, truth marking or elimination cue is supplied. |
+| 2023 | Prelims GS-I Q26 | Small Farmer Large Field as a collective agricultural operating concept | Routed to Topic 13 and taught in Lesson 8. The local routing ledger lacks an official key; no answer letter, truth marking or elimination cue is supplied. |
 
-## 2026 status statement
+## PYQ provenance and ownership control
 
-The official 2026 GS-III paper is locally OCR-verified and contains a direct Topic 13
-question. No Topic 13 objective question is claimed from the 2026 Prelims ledger beyond
-what that verified ledger routes.
+- Mains 2018, 2020 and 2022: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
+- Mains 2025: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+- Mains 2026: `_PYQ-GS3-2026.md`, locally OCR-verified routing ledger.
+- Objective 2022 and 2023: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
+- The 2026 Prelims routing ledger contains no additional Topic 13 objective ownership claim.
+- Where the ledger stores a neutral demand rather than full punctuation, this section does not
+  silently reconstruct missing wording.
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-Answers continue the lesson sequence globally from MCQ 35. Correct options remain:
-**C -> D -> A -> B -> C -> D -> A -> B -> C -> D -> A -> B**.
+## Check 1 - legal layer
 
-### MCQ 35
+**Question:** A State joins e-NAM without enabling unified licences or e-trading in its market
+law. What fails?
 
-Which statement best distinguishes APMC and e-NAM?
+**Model:** The digital layer lacks legal interoperability. A trader may see a lot but remain
+unable to participate across markets under consistent licence, fee and transaction rules.
 
-A. Both are identical national statutes.
-B. APMC is a payment app and e-NAM is a State law.
-C. APMC is State-law market architecture; e-NAM is an electronic trading layer across participating markets.
-D. e-NAM automatically repeals APMC provisions.
+**Remediation cue:** Platform connectivity cannot cure a legal prohibition.
 
-**Answer: C**
+## Check 2 - quality layer
 
-- **A is wrong:** neither description is correct.
-- **B is wrong:** the institutional roles are reversed and misstated.
-- **C is correct:** law and platform are separate layers.
-- **D is wrong:** platform connectivity does not repeal State law.
+**Question:** Why may a distant bid remain non-executable even after successful e-auction?
 
-### MCQ 36
+**Model:** The lot may lack representative assay, accepted grade, title clarity, affordable
+freight, delivery terms or a re-test mechanism. Discovery must connect to quality and settlement.
 
-Which statement preserves the current status of the 2020 farm laws?
+**Remediation cue:** Visibility is not deliverability.
 
-A. They operate only in e-NAM mandis.
-B. They became State model Acts.
-C. Only the contract law was repealed.
-D. All three were repealed by the Farm Laws Repeal Act, 2021.
+## Check 3 - FPO layer
 
-**Answer: D**
+**Question:** An FPO has 2,000 members but only 120 supply produce. Which metric matters?
 
-- **A is wrong:** they are repealed.
-- **B is wrong:** model texts have separate origins.
-- **C is wrong:** repeal covered the package.
-- **D is correct:** this is the current legal status.
+**Model:** Active throughput, repeat transactions, prompt member payment and net benefit matter
+more than nominal membership because commercial scale depends on actual patronage.
 
-### MCQ 37
+**Remediation cue:** Registered scale is not operating scale.
 
-What is the strongest reason to aggregate small lots through an FPO?
+## Check 4 - contract layer
 
-A. It can spread fixed service costs and create buyer-relevant volume.
-B. It removes production risk.
-C. It guarantees an MSP sale.
-D. It makes governance unnecessary.
+**Question:** A processor supplies specialised seed and later rejects produce using an opaque
+quality test. Identify the two main risks.
 
-**Answer: A**
+**Model:** Buyer-specific investment creates hold-up risk, while unilateral quality assessment
+creates information and bargaining asymmetry. Independent testing and accessible disputes are
+needed.
 
-- **A is correct:** this is the transaction-cost mechanism.
-- **B is wrong:** weather and biological risks remain.
-- **C is wrong:** procurement is separate.
-- **D is wrong:** aggregation increases governance needs.
+**Remediation cue:** An assured buyer does not mean assured acceptance.
 
-### MCQ 38
+## Check 5 - finance layer
 
-Which indicator most directly tests whether e-NAM integration has deepened into usable
-trade?
+**Question:** When is immediate sale rational even when warehouse finance exists?
 
-A. Portal colour scheme
-B. Assayed lots with competitive bids, completed delivery and timely payment
-C. Number of press releases
-D. Total commodities in Indian agriculture
+**Model:** Immediate sale is rational if expected later gain is below storage, interest,
+shrinkage, quality and downside costs, or if the farmer cannot access an eligible warehouse or
+loan.
 
-**Answer: B**
+**Remediation cue:** Storage creates an option, not a command to wait.
 
-- **A is wrong:** interface appearance does not establish outcome.
-- **B is correct:** it follows the transaction maturity chain.
-- **C is wrong:** publicity is not performance.
-- **D is wrong:** the universe of commodities is not platform depth.
+## Check 6 - cold-chain layer
 
-### MCQ 39
+**Question:** A district has ample cold-storage capacity but repeated fruit losses. What should
+be investigated first?
 
-Which situation is the clearest example of monopsony risk?
+**Model:** Examine harvesting time, pre-cooling, packhouses, temperature continuity, reefer
+movement, utilisation, power reliability, buyer schedules and last-mile distribution.
 
-A. One seller and many buyers
-B. Many buyers colluding as sellers
-C. Many dispersed farmers facing one dominant feasible buyer
-D. Government holding buffer stocks
+**Remediation cue:** Capacity at one node does not prove chain continuity.
 
-**Answer: C**
+## Check 7 - competition layer
 
-- **A is wrong:** that resembles monopoly on the seller side.
-- **B is wrong:** the statement mixes buyer and seller roles rather than identifying monopsony.
-- **C is correct:** buyer concentration faces dispersed sellers.
-- **D is wrong:** buffer management is a different policy.
+**Question:** Why can 500 registered traders coexist with local monopsony?
 
-### MCQ 40
+**Model:** Freight, licences, credit ties, commodity needs or inactivity may leave only one or
+two feasible independent buyers for a farmer's lot. Effective competition is spatial and
+transaction-specific.
 
-Which statement about grading is correct?
+**Remediation cue:** Count credible bids, not names in a registry.
 
-A. It guarantees payment.
-B. It is identical to MSP.
-C. It eliminates every quality dispute.
-D. It classifies produce into defined categories using specified attributes and tolerances.
+## Check 8 - integrated outcome
 
-**Answer: D**
+**Question:** Which five indicators best test reform success?
 
-- **A is wrong:** settlement is separate.
-- **B is wrong:** MSP is an administered price.
-- **C is wrong:** sampling and custody disputes remain possible.
-- **D is correct:** this is the quality-classification function.
+**Model:** Freight-adjusted farmer netback, loss reduction, payment time, active buyer diversity
+and inclusion/grievance outcomes. Completed trade and resilience can be added for a fuller scorecard.
 
-### MCQ 41
-
-What does warehouse-receipt finance primarily change?
-
-A. It may separate harvest-time liquidity need from sale timing.
-B. It guarantees future price appreciation.
-C. It turns every warehouse into a regulated warehouse.
-D. It eliminates lender appraisal.
-
-**Answer: A**
-
-- **A is correct:** inventory becomes possible collateral.
-- **B is wrong:** price may fall.
-- **C is wrong:** registration and regulation remain necessary.
-- **D is wrong:** credit appraisal remains.
-
-### MCQ 42
-
-Which FPO metric is most outcome-oriented?
-
-A. Certificate count
-B. Repeat member throughput, prompt payment and net member benefit
-C. Number of launch events
-D. Maximum authorised capital alone
-
-**Answer: B**
-
-- **A is wrong:** formation is only an input.
-- **B is correct:** it measures active commercial value.
-- **C is wrong:** events do not show viability.
-- **D is wrong:** authorised capital does not prove operations.
-
-### MCQ 43
-
-Why are agricultural contracts often incomplete?
-
-A. Agriculture has no measurable quality.
-B. Contracts are never written.
-C. Weather, timing, quality and market contingencies cannot all be specified perfectly.
-D. Only the State can buy produce.
-
-**Answer: C**
-
-- **A is wrong:** many attributes can be measured.
-- **B is wrong:** written contracts exist.
-- **C is correct:** uncertainty exceeds complete specification.
-- **D is wrong:** private trade is widespread.
-
-### MCQ 44
-
-Which statement best protects evidence integrity when quoting e-NAM statistics?
-
-A. Treat every count as timeless.
-B. Infer farmer income from registrations.
-C. Combine figures from different dates without labels.
-D. State the official source, reference date, denominator and limited meaning.
-
-**Answer: D**
-
-- **A is wrong:** administrative counts change.
-- **B is wrong:** registration does not prove income.
-- **C is wrong:** mixed vintages mislead.
-- **D is correct:** date and denominator preserve meaning.
-
-### MCQ 45
-
-Which reform most directly addresses an FPO's cash-flow gap?
-
-A. Appropriate working-capital finance tied to credible procurement and buyer cash flows
-B. More members without active supply
-C. A larger logo
-D. Removal of all audits
-
-**Answer: A**
-
-- **A is correct:** it finances the timing mismatch.
-- **B is wrong:** nominal scale does not supply cash.
-- **C is wrong:** branding is insufficient.
-- **D is wrong:** weaker controls increase risk.
-
-### MCQ 46
-
-Which is the best balanced conclusion on organised retail?
-
-A. It always harms farmers.
-B. It can reduce routing costs but may concentrate buyer power, so competition, FPO bargaining and contract safeguards matter.
-C. It eliminates every intermediary function.
-D. It is outside all State law.
-
-**Answer: B**
-
-- **A is wrong:** outcomes vary.
-- **B is correct:** it combines efficiency and bargaining analysis.
-- **C is wrong:** functions persist.
-- **D is wrong:** private activity remains legally governed.
+**Remediation cue:** Inputs and launches are not final outcomes.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
-## 10 marks - e-NAM is necessary but insufficient
+## 10 marks - APMC reform and e-NAM
 
-**Question:** Why is e-NAM necessary but insufficient for a national agricultural market?
-Answer in 150 words.
+**Question:** Why must APMC reform and e-NAM development proceed together? Answer in 150 words.
 
-**Model answer:** e-NAM supplies a common electronic layer for participating mandis. It
-can widen price visibility, create transaction records, support electronic bidding and
-improve payment traceability. However, software does not create a national market by
-itself. State rules must permit trade and recognise licences, fees and title. Lots need
-trusted assaying; buyers need packing, transport, delivery acceptance and a quick
-dispute route. For bulky or perishable produce, freight may erase the distant-price
-advantage. The March 2026 count of 1,656 integrated mandis therefore measures reach, not
-universal completed trade. e-NAM should be treated as digital public market
-infrastructure that complements legal interoperability, FPO aggregation, quality
-systems, storage finance and logistics.
+**Model answer:** APMC reform changes the legal and institutional conditions of agricultural
+trade: permitted channels, licences, fees, market places and accountability. e-NAM supplies an
+electronic layer for lot information, bidding, records and payment workflow. If State rules
+remain fragmented, a common screen cannot create portable participation or uniform transaction
+conditions. Conversely, legal liberalisation without assaying, transparent auctions, settlement
+and logistics may produce only nominal choice. Karnataka's integrated approach illustrates the
+benefit of combining institutions and electronic processes, while repeal-only experience warns
+that private capacity does not emerge automatically. Reform should therefore permit contestable
+channels, rationalise charges and connect trusted quality, payment, movement and disputes to the
+platform. The outcome is completed, competitive trade and farmer netback, not digitisation or
+deregulation separately.
 
-## 10 marks - quality and settlement
+**Rubric (10):** legal role 2; platform role 2; two failure directions 2; named comparative
+evidence 2; integrated outcome 2.
 
-**Question:** Why do quality and settlement determine whether price discovery is real?
-Answer in 150 words.
+## 15 marks - FPO governance and finance
 
-**Model answer:** Price discovery requires buyers to know what they are bidding for and
-to trust that the accepted lot will be delivered. Assaying measures specified
-attributes; grading makes lots comparable. Transparent sampling and re-testing reduce
-quality disputes. After a bid, valid title, invoice, payment reconciliation, loading,
-transport and delivery complete settlement. Without these stages, the displayed price
-is only an indicative number. Quality and settlement therefore convert information into
-an enforceable exchange and determine whether a distant buyer can become an effective
-competitor.
+**Question:** FPOs solve a scale problem only when they also solve governance and finance
+problems. Evaluate. Answer in 250 words.
 
-## 15 marks - FPOs and smallholder disadvantage
+**Model answer:** FPOs allow smallholders to aggregate inputs, output, assaying, storage,
+transport and buyer negotiation without consolidating land. The scale mechanism is real:
+fixed service costs are spread and larger graded lots attract buyers. Yet aggregation creates
+an organisation that must be governed and financed.
 
-**Question:** Evaluate FPOs as a response to smallholder disadvantages in agricultural
-markets. Answer in 250 words.
+Members require transparent eligibility, voting, patronage benefits and grievance channels.
+The board must supervise strategy, related-party dealings and risk; professional managers must
+execute procurement, quality, accounts and sales. Without this separation, elite capture or
+weak commercial decisions can destroy trust.
 
-**Model answer:** Smallholders sell small, heterogeneous lots and face high per-unit
-costs of information, assaying, transport and negotiation. An FPO can aggregate produce
-and inputs, create standard lots, hire professional services, obtain storage or working
-capital and negotiate with processors or retailers. Multiple legal forms are possible;
-governance must therefore be read from the applicable statute and documents.
+Finance is equally central. Members expect prompt payment, while buyers may pay later. Working
+capital bridges that gap; inventory also exposes the FPO to price, quality and default risks.
+Official August 2026 indicators - 10,000 FPOs formed and Rs 20,358 crore cumulative turnover by
+31 July - show scale, not universal sustainability.
 
-Formation is only the first stage. Viability requires active member supply, transparent
-accounts, capable boards, professional management, working capital and repeat buyers.
-Side-selling can reduce committed volume, while inventory price falls, quality rejection
-or buyer default can damage the balance sheet. Grants and credit guarantees reduce
-start-up constraints but do not guarantee commercial success.
+Evaluation should track active throughput, repeat buyers, payment time, operating surplus,
+member net benefit and inclusion. FPOs can correct smallholder scale disadvantage, but only
+accountable governance and disciplined finance convert collective form into durable value.
 
-Policy should measure repeat throughput, prompt member payment, net benefit and
-grievance outcomes rather than registration alone. FPOs are institutions for scale and
-bargaining, but they complement rather than replace competition, infrastructure, credit
-appraisal and State capacity.
+**Rubric (15):** scale mechanism 3; governance architecture 4; cash-cycle analysis 3; dated
+evidence with caution 2; outcome metrics and verdict 3.
 
-## 15 marks - APMC reform
+## 20 marks - competitive and resilient agricultural value chains
 
-**Question:** Should agricultural-market reform prioritise legal liberalisation or
-supply-chain infrastructure? Discuss. Answer in 250 words.
+**Question:** Design a competitive, inclusive and resilient agricultural value-chain strategy
+for India. Answer in 250 words.
 
-**Model answer:** Legal liberalisation can widen permitted channels, reduce territorial
-monopoly and make licensing more portable. Yet repeal or amendment cannot by itself
-create buyers, assaying, storage, transport, finance or remedies. Bihar's repeal
-illustrates this limit, while Karnataka's integrated model shows the value of combining
-rules, electronic processes and quality infrastructure.
+**Model answer:** The strategy should begin with contestable State-law channels. Public mandis,
+private markets, direct purchase and e-trading should operate under portable licences,
+transparent charges and accessible disputes. Mandi infrastructure should be modernised rather
+than judged only by institutional label.
 
-The opposite error is to build infrastructure inside a protected market. Warehouses,
-platforms and roads cannot ensure farmer benefit where buyer entry is restricted or
-bidding is collusive. Reform must therefore join contestable State-law channels with
-transparent fees, FPO aggregation, common grades, prompt payment, warehouse finance and
-logistics. Public mandis may retain useful auction, weighment and dispute functions
-while competing with private and direct channels.
+FPOs should aggregate small lots under audited member control, professional management and
+working-capital support. Trusted assaying, common grades and re-testing should make produce
+priceable across distance. e-NAM should connect discovery to payment, logistics and delivery,
+and be evaluated through active bids and completed trades.
 
-The priority is not law versus infrastructure, but sequencing and interoperability.
-Legal choice creates potential competition; physical and financial capacity converts
-it into completed trade.
+WDRA-linked e-NWR finance can separate liquidity from sale timing. Perishables need packhouses,
+pre-cooling, uninterrupted cold movement and buyer scheduling. Contracts should disclose price
+and quality formulas, allocate force-majeure risk and permit independent testing. Competition
+oversight should address collusion, spatial monopsony and platform gatekeeping.
 
-## 20 marks - integrated supply-chain reform
+Inclusion requires assisted digital access, recognition of women and actual cultivators,
+understandable records and grievance correction. Resilience needs diverse buyers, storage and
+transport routes, interoperable payments, backup power and local repair capability.
 
-**Question:** Design an integrated agricultural supply-chain strategy that improves
-farmer realisation without replacing one monopsony with another. Answer in 250 words.
+Measure farmer netback, loss, payment time, buyer concentration, member benefit, recovery time
+and distribution across farm size and gender. The aim is not fewer institutions but reliable,
+contestable performance of every necessary function.
 
-**Model answer:** The strategy should begin with contestable State-law channels:
-portable participation, transparent single-point charges and accountable public,
-private, direct and electronic markets. Buyer entry must be measured through active,
-independent bids rather than licences alone.
-
-FPOs should aggregate small lots, but receive support conditional on active membership,
-audited governance, working capital, repeat buyers and prompt member payment. Trusted
-assaying and common grades should support distant bidding, with transparent sampling
-and re-testing. e-NAM should be evaluated through completed, paid and delivered trades.
-
-WDRA-linked e-NWRs can finance inventory and reduce forced immediate sale. Perishable
-chains need packhouses, cold continuity and delivery scheduling. Contracts must specify
-price, quality, payment, force majeure and accessible disputes. State market authorities
-should address market design, while competition law addresses prohibited conduct where
-applicable.
-
-Success should be measured through freight-adjusted farmer netback, lower loss, prompt
-payment, buyer diversity, inclusion and resilience. The goal is not fewer actors at any
-cost, but competitive performance of every necessary function.
+**Rubric (20):** law/mandi 3; FPO 3; quality/e-NAM 3; storage/cold chain 3; contract/competition
+3; inclusion/resilience 3; metrics and synthesis 2.
 
 # REMEDIATION
 
-Correct options continue globally: **C -> D -> A -> B -> C -> D**.
-
-### MCQ 47 - law versus platform
-
-Which statement repairs the misconception that e-NAM replaced APMC law?
-
-A. e-NAM is a constitutional amendment.
-B. Every mandi follows one central statute.
-C. e-NAM links participating markets electronically while applicable State law continues to govern the market framework.
-D. SFAC legislates for States.
-
-**Answer: C**
-
-- **A is wrong:** it is a programme/platform, not a constitutional amendment.
-- **B is wrong:** State frameworks vary.
-- **C is correct:** it preserves the legal-platform distinction.
-- **D is wrong:** SFAC operates the platform; it does not exercise State legislative power.
-
-### MCQ 48 - registration versus outcome
-
-Which statement repairs the misconception that 10,000 formed FPOs means 10,000 viable
-enterprises?
-
-A. Every formed FPO has identical turnover.
-B. Formation automatically creates buyers.
-C. Government support eliminates business risk.
-D. Formation is an institutional milestone; viability requires active trade, governance, capital and member benefit.
-
-**Answer: D**
-
-- **A is wrong:** operations differ widely.
-- **B is wrong:** market linkage must be built.
-- **C is wrong:** price, inventory and default risk remain.
-- **D is correct:** it separates input from outcome.
-
-### MCQ 49 - higher bid versus higher realisation
-
-Which calculation should a farmer or FPO use?
-
-A. Compare bids after subtracting quality, fee, freight, loss and finance costs.
-B. Select the highest displayed number automatically.
-C. Ignore delivery risk.
-D. Treat every registered buyer as equally feasible.
-
-**Answer: A**
-
-- **A is correct:** it estimates netback.
-- **B is wrong:** gross bid can mislead.
-- **C is wrong:** delivery risk has economic value.
-- **D is wrong:** feasibility differs by location and commodity.
-
-### MCQ 50 - storage misconception
-
-Why does storage not automatically generate profit?
-
-A. Stored produce has no market.
-B. Expected price gain may be lower than interest, storage, quality and downside-risk costs.
-C. e-NWRs cannot be pledged.
-D. WDRA fixes a loss.
-
-**Answer: B**
-
-- **A is wrong:** stored goods may be traded.
-- **B is correct:** option value can be negative.
-- **C is wrong:** pledge is a core possible use.
-- **D is wrong:** WDRA regulates; it does not predetermine commercial loss.
-
-### MCQ 51 - intermediary misconception
-
-Which statement repairs the claim that direct purchase eliminates middlemen?
-
-A. Direct purchase is impossible.
-B. Commission agents always remain by law.
-C. The buyer or its contractors still perform aggregation, grading, finance and logistics functions.
-D. Quality no longer matters.
-
-**Answer: C**
-
-- **A is wrong:** direct channels exist where permitted.
-- **B is wrong:** route design varies.
-- **C is correct:** functions persist under new performers.
-- **D is wrong:** direct buyers often intensify quality requirements.
-
-### MCQ 52 - competition misconception
-
-Why is national platform reach not enough to prove competition?
-
-A. Digital trade cannot occur.
-B. All farmers prefer local cash trade.
-C. Competition law forbids platforms.
-D. Freight, quality, licences, active bidding and settlement may leave few effective buyers for a lot.
-
-**Answer: D**
-
-- **A is wrong:** digital trade is possible.
-- **B is wrong:** preferences and constraints vary.
-- **C is wrong:** platforms are not prohibited as such.
-- **D is correct:** effective competition is transaction-specific.
-
-## Error-to-remedy grid
-
-| Error | Why it fails | Repair |
+| Common error | Why it fails | Repair move |
 |---|---|---|
-| APMC = e-NAM | merges law and software | separate State architecture from platform |
-| Integration = transaction | confuses onboarding with use | follow bid-payment-delivery chain |
-| FPO = FPC | collapses umbrella and legal form | identify governing statute |
-| Registration = viability | mistakes input for outcome | track throughput and member benefit |
-| Highest bid = best price | ignores costs and risk | calculate netback |
-| Storage = guaranteed gain | ignores holding cost and downside | calculate option value |
-| Fewer intermediaries = fairness | ignores function and buyer power | test competition and margins |
-| More traders = competition | ignores activity and coordination | count credible independent bids |
+| APMC is one central law | Agricultural marketing frameworks vary by State | Name the State-law perimeter and separate model templates |
+| e-NAM abolishes mandis | It electronically links participating markets | Show law, platform and physical-market layers |
+| Highest bid means best sale | Freight, loss, finance and rejection alter netback | Calculate risk-adjusted farmer realisation |
+| Assaying removes disputes | Sampling, custody and calibration still matter | Add re-test, records and grievance |
+| FPO equals FPC | FPC is one legal form within the wider functional category | Identify the statute and governance document |
+| 10,000 FPOs means 10,000 viable firms | Formation is an input indicator | Test active throughput, surplus and member benefit |
+| Contract farming removes risk | It reallocates some risks and creates enforcement risk | Map price, quality, force majeure, payment and remedy |
+| Warehouse receipt guarantees credit | Banks still appraise borrower, goods and warehouse | Explain pledge, collateral and guarantee limits |
+| Cold storage equals cold chain | Continuity across first and last mile is required | Trace pre-cooling to distribution |
+| More registrations mean competition | Feasible active independent bids may remain few | Use spatial monopsony and bid-depth tests |
+
+## Diagnostic cases
+
+1. **Portal without assay:** fund sampling, testing and dispute capacity before claiming remote
+   trade depth.
+2. **FPO without cash:** match working capital to procurement and buyer-payment cycles; do not
+   solve a liquidity problem with another registration drive.
+3. **Cold store without throughput:** coordinate crop clusters, packhouses, transport and buyers;
+   do not add isolated capacity.
+4. **Direct buyer without alternatives:** strengthen FPO negotiation, transparent contracts and
+   competing channels.
+5. **Warehouse without access:** examine distance, lot size, documentation, eligible commodities
+   and lender participation.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
-## APMC, e-NAM and FPO
+## Institutional comparison
 
-| Dimension | APMC | e-NAM | FPO |
-|---|---|---|---|
-| Core nature | State-law market institution | electronic public trading layer | farmer-member collective |
-| Main problem addressed | orderly venue, rules and oversight | search, visibility and transaction record | smallholder scale and bargaining |
-| Main dependency | State law and local capacity | mandis, law, assay, payment, logistics | governance, capital, volume, buyers |
-| Main failure | protected entry/local capture | screen-based shallow integration | inactive members/weak business |
-| Best metric | contestability, services, settlement | completed paid/delivered trades | repeat member net benefit |
+| Institution | Primary job | What it does not guarantee |
+|---|---|---|
+| APMC framework / committee | Legal-regulatory market perimeter and local market functions | Competitive bidding or farmer gain |
+| e-NAM / SFAC | Electronic information, bidding and transaction layer | Assay, transport, legal uniformity or outcome |
+| FPO | Farmer aggregation and member services | Good governance, finance or profitable demand |
+| WDRA / e-NWR system | Registered warehousing and negotiable inventory records | Automatic loan or price increase |
+| Contract / organised buyer | Coordinated purchase and standards | Balanced bargaining or risk removal |
 
-## Reform-model comparison
-
-| Route | Strength | Criticism | Reply | Residual |
-|---|---|---|---|---|
-| Traditional APMC | common venue and public functions | local monopoly and opaque charges | reform entry and accountability | capacity varies |
-| Karnataka-style integration | combines rules, assay and electronic process | may remain institution-heavy | integration is deeper than digitisation alone | logistics and buyer power remain |
-| Bihar-style repeal | removes statutory monopoly | alternatives may not emerge | repeal can widen legal space | thin markets and weak remedy |
-| Outside-mandi law | creates channel choice | federal/trust and safeguard concerns | alternative trade can reduce routing cost | 2020 laws were repealed |
-| e-NAM expansion | wider matching and data | reach may be shallow | deepen interoperability | spatial monopsony |
-
-## Four-flow supply-chain map
+## End-to-end causal map
 
 ```text
-PRODUCT: farm -> aggregation -> assay -> storage/transport -> buyer
-INFO:    grade -> arrivals -> bids -> demand -> traceability
-MONEY:   credit -> payment -> reconciliation -> member settlement
-RISK:    weather -> quality -> price -> inventory -> delivery -> default
+fragmented small lots
+      -> FPO / cooperative aggregation
+          -> representative sampling and grading
+              -> legally permitted market channel
+                  -> transparent bids / contract price
+                      -> title + invoice + payment
+                          -> storage / transport / cold continuity
+                              -> delivery and acceptance
+                                  -> grievance and remedy
+                                      -> farmer netback and repeat trust
 ```
 
-## FPO governance and business map
+## Reform-model map
 
 ```text
-member purpose
-  -> active patronage
-     -> board accountability
-        -> professional management
-           -> working capital
-              -> quality throughput
-                 -> repeat buyer
-                    -> prompt member benefit
-                       -> renewed trust
+AMEND EXISTING APMC
+  retains public-market base
+  + allows direct/private/electronic channels
+
+INTEGRATE MARKETS
+  unified licence + common processes + assaying + electronic settlement
+  example logic: Karnataka ReMS
+
+REPEAL FRAMEWORK
+  removes statutory system
+  but must still create infrastructure, competition and remedy
+  cautionary logic: Bihar
+
+CENTRAL 2020 PACKAGE
+  outside-market and contract reform attempt
+  -> federal/trust contestation
+  -> repealed in 2021
 ```
 
-## Criticism-reply map
+## FPO control and cash map
 
 ```text
-"abolish mandis" -> functions still need institutions
-"launch a portal" -> quality, payment and movement remain
-"form an FPO" -> governance and cash flow remain
-"sign a contract" -> incompleteness and bargaining remain
-"build a cold store" -> chain continuity and utilisation remain
-"register more traders" -> effective independent bidding remains
+MEMBERS -> elect / approve purpose
+    BOARD -> strategy, risk and oversight
+        MANAGEMENT -> procurement, quality, finance and sales
+            CONTROLS -> audit, disclosure, inventory, related parties, grievance
+
+member delivery -> prompt payment -> inventory / service -> buyer sale
+       ^                                                   |
+       |__________ working capital + retained trust _______|
 ```
 
-## 2026 answer spine
+## Market-intelligence ladder
 
 ```text
-DEFINE inefficiency
--> classify structural, information, institutional, physical and financial failures
--> explain e-commerce matching, visibility, records and payment
--> add FPO aggregation
--> qualify with assay, logistics, competition and grievance
--> conclude with completed trade and farmer netback
+arrival and price data
+    -> grade-specific comparison
+        -> demand / buyer information
+            -> freight and loss estimate
+                -> expected netback
+                    -> sell now / store / process / redirect decision
+```
+
+## Qualified answer spine
+
+```text
+DEFINE the institution or bottleneck
+  -> DISTINGUISH law, platform, organisation and infrastructure
+  -> TRACE product, information, money and risk
+  -> USE named Indian evidence with date where numerical
+  -> TEST competition, distribution and implementation
+  -> QUALIFY with physical, financial and grievance constraints
+  -> CONCLUDE through farmer netback, inclusion and resilience
 ```
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-## 1. Core proposition
+## Agricultural marketing as four connected flows
 
-Agricultural-market reform succeeds only when legal choice, trusted quality, farmer
-aggregation, finance, logistics and enforceable settlement operate together.
+- Product moves through harvest, collection, grading, storage, transport, processing and retail.
+- Information moves through arrivals, standards, assay reports, bids, contracts and traceability.
+- Money moves from buyer through settlement to farmer/FPO and service providers.
+- Risk includes price, quality, spoilage, inventory, transport, rejection, payment and default.
+- Supply chain maps operations; value chain also asks who governs and captures margins.
+- Expected netback = gross price minus grading, fees, packing, freight, loss, finance and risk.
+- Upstream bottlenecks: fragmented lots, weak planning, aggregation and quality.
+- Downstream bottlenecks: discovery, storage, credit, logistics, processing, buyer power and remedy.
 
-## 2. Agricultural marketing chain
-
-- Marketing moves product, information, money and risk.
-- Supply chain maps operations; value chain adds governance and margin distribution.
-- Gross bid minus grading, fees, freight, loss and finance gives expected netback.
-- Upstream bottlenecks concern lots, quality, aggregation and planning.
-- Downstream bottlenecks concern discovery, storage, finance, logistics, processing,
-  buyer power, payment and remedy.
-
-## 3. APMC architecture
+## APMC structure and reform sequence
 
 - APMC is State-law architecture, not one national statute.
-- Read notified produce, market area, yard, licence, fee and committee powers from the
-  applicable law and notification.
-- Market area, market yard and market committee are different.
-- Licensing can support accountability or protect incumbents.
-- Market fee, user charge and commission are distinct.
-- Statutory payer and economic bearer may differ.
-- Useful mandi functions include assembly, auction, weighment, records, infrastructure
-  and disputes.
-- Failures include restricted entry, opaque charges, congestion, collusion, monopsony
-  and weak reinvestment.
+- Keep notified produce, market area/place, yard/sub-yard, committee, licence, fee and commission distinct.
+- Mandis can supply assembly, auction, weighment, records, infrastructure and disputes.
+- Failure modes: restricted entry, opaque charges, congestion, collusion, spatial monopsony, tied credit and weak reinvestment.
+- Model APMC Act 2003 promoted alternative markets, direct purchase and contract-farming routes.
+- Model APLM Act 2017 emphasised the unified State market, single licence, e-trading, wider market places and single-point fee logic.
+- Model Contract Farming Act 2018 offered an advisory agreement and dispute framework.
+- Model text -> State enactment -> rules -> capacity -> use -> outcome: never collapse these stages.
+- Karnataka ReMS illustrates institutional integration; Bihar illustrates the limit of repeal without market capacity.
+- The three central farm laws enacted in 2020 were repealed through the Farm Laws Repeal Act, 2021.
+- Reform must preserve useful public functions while creating contestable channels and trust.
 
-## 4. Reform chronology
+## e-NAM architecture, trade and quality
 
-- Model APMC Act, 2003: alternative markets, direct purchase and contract-farming route.
-- Model APLM Act, 2017: unified State-market idea, e-trade, wider market places, unified
-  licensing and rationalised fees.
-- Model Contract Farming Act, 2018: advisory agreement and safeguard framework.
-- Model law != State enactment != rules != capacity != outcome.
-- Karnataka ReMS illustrates integration with institutions.
-- Bihar repeal illustrates that legal exit does not create infrastructure.
-- The three central farm laws enacted in 2020 were repealed by the Farm Laws Repeal
-  Act, 2021 on 30 November 2021.
+- e-NAM launched in 2016; SFAC operates the common platform with Union support.
+- Participating States/UTs must provide single/unified trading licence, single-point market fee and e-auction/e-trading provision for integration.
+- Platform functions: lot information, bidding, records, price visibility and payment workflow.
+- Physical/legal complements: State permission, assay, title, packing, transport, acceptance and disputes.
+- Official March 2026 status reported in April 2026: 1,656 mandis; 23 States and 4 UTs; 247 commodities; more than 1.80 crore farmers; 2.73 lakh traders; 4,724 FPOs.
+- Treat counts as dated reach/registration, not proof of active use or farmer gain.
+- Maturity ladder: onboarded -> listed -> assayed -> bid -> sold -> paid -> delivered -> outcome.
+- Assaying measures attributes; grading classifies lots under standards.
+- Credibility needs representative sampling, calibration, custody, readable results, re-test and grievance.
+- Logistics includes first mile, aggregation, packing, scheduling, movement, delivery and reverse handling.
+- Payment initiation is not final credit; bid value is not netback.
+- DAM, approved in September 2024 with a Rs 2,817 crore outlay, builds agricultural digital
+  public infrastructure through AgriStack, Digital Crop Survey, Krishi-DSS and related systems.
+- Official status as of 4 February 2026: over 8.48 crore Farmer IDs; Kharif 2025 Digital
+  Crop Survey in 604 districts covering more than 28.5 crore plots.
+- DAM can improve market intelligence and planning; data rollout is not error-free inclusion,
+  physical market capacity or farmer benefit.
 
-## 5. e-NAM
+## FPO legal, financial and governance design
 
-- Launched in 2016; SFAC operates the common platform.
-- It links participating markets; it does not abolish State APMC law.
-- It supports price information, bidding, records and electronic payment workflows.
-- March 2026 official reach reported on 13 April 2026: 1,656 mandis, 23 States and 4
-  UTs, 247 commodities, more than 1.80 crore registered farmers, 2.73 lakh traders and
-  4,724 FPOs.
-- Treat these as dated reach/registration indicators.
-- Maturity chain: onboarded -> listed -> transacted -> paid/delivered -> farmer outcome.
-- Legal, financial and physical interoperability are distinct.
-
-## 6. Assaying and grading
-
-- Assaying measures specified quality attributes.
-- Grading classifies produce into standard categories.
-- Sampling, calibration, custody, re-testing and disputes determine credibility.
-- Remote bidding needs trustworthy quality descriptions.
-- Standards can enable quality premia but exclude farmers if access is costly.
-
-## 7. Payment and logistics
-
-- Settlement joins accepted sale, title, money and delivery.
-- Payment initiation is not final credit.
-- Logistics includes first mile, packing, consolidation, scheduling, movement and
-  delivery.
-- Compare freight-adjusted and risk-adjusted netback.
-- Distant bid visibility is not distant completed trade.
-
-## 8. FPO architecture
-
-- PO is formed by primary producers; FPO is a farmer-member PO.
-- FPO is a functional umbrella; FPC is one company-law form.
-- Cooperative FPO follows applicable cooperative law.
-- Producer Companies are under Companies Act, 2013 Chapter XXIA.
-- Aggregation spreads fixed costs and creates buyer-relevant volume.
-- Small Farmer Large Field means coordinated scale without necessary loss of individual
-  ownership.
-
-## 9. FPO governance and business
-
-- Test active membership, board accountability, professional management, audited
-  accounts, related-party controls and fair member benefit.
+- FPO is a farmer-member producer organisation by function; FPC is one company-law form.
+- Producer Companies operate under Companies Act, 2013 Chapter XXIA; cooperative forms follow applicable cooperative law.
+- SFAC, NABARD-linked support, State agencies, implementing agencies and CBBOs promote or
+  handhold FPOs; they do not substitute for member ownership and commercial viability.
+- Aggregation spreads fixed costs, creates buyer-relevant lots and strengthens negotiation.
+- Small Farmer Large Field coordinates operations at scale without necessarily changing land ownership.
+- Member layer: eligibility, voice, patronage and grievance.
+- Board layer: strategy, risk, related-party oversight and management accountability.
+- Management layer: procurement, finance, quality, inventory, contracts and sales.
+- Controls: audits, maker-checker payments, inventory reconciliation, disclosure and conflict rules.
 - Working capital bridges prompt member payment and later buyer receipt.
-- Viability needs reliable throughput, quality, operating margin and repeat buyers.
-- Side-selling, inventory loss, price decline and buyer default are material risks.
-- The 10,000-FPO formation milestone was reported achieved on 28 February 2025; a
-  6 February 2026 PIB release continued to report 10,000 FPOs and scheme support through
-  2027-28.
-- Formation, turnover and grant receipt are not sufficient outcome metrics.
+- Business risks: side-selling, quality inconsistency, inventory loss, price fall and buyer default.
+- August 2026 official indicators: 10,000 FPOs formed; 1,175 all-women FPOs; women about 40% of shareholders; Rs 20,358 crore cumulative turnover by 31 July 2026.
+- Support indicators: management cost 9,865; equity grants 8,357; credit guarantee 3,140.
+- Formation and turnover are not viability; test active throughput, repeat buyers, payment time, surplus and net member benefit.
 
-## 10. Contracts and direct procurement
+## Contracts, direct channels and value chains
 
-- Contract terms should cover price/formula, quantity, quality, services, delivery,
-  payment, force majeure and dispute.
-- Agricultural contracts are incomplete.
-- Buyer-specific investment creates hold-up risk.
-- Organised retail replaces traditional intermediaries with its own procurement,
-  grading, finance and logistics.
-- Direct sourcing may shorten routing but can concentrate buyer power.
+- Essential clauses: parties, commodity, quantity, quality, price/formula, inputs/services, delivery, payment, force majeure and dispute.
+- Agricultural contracts are incomplete because weather, quality and timing contingencies cannot be fully specified.
+- Buyer-specific investments create hold-up risk.
+- Organised retail replaces rather than erases aggregation, grading, finance and logistics.
+- ITC e-Choupal, Mother Dairy Safal and Reliance Retail sourcing are bounded mechanism examples,
+  not universal outcome claims.
+- Direct channels may lower repeated handling but can reproduce monopsony.
+- Safeguards: FPO negotiation, transparent formulae, independent testing, prompt payment, accessible disputes and alternative buyers.
+- Value-chain governance determines who sets standards, controls information, bears risk and captures value.
 
-## 11. WDRA and storage finance
+## Warehousing, pledge finance and market intelligence
 
-- WDRA regulates registered warehouses and negotiable receipts under the 2007 Act.
-- e-NWR issuance became mandatory for registered warehouses from 1 June 2019.
-- Every storage slip is not an e-NWR.
-- Receipt, pledge, transfer and ownership are distinct.
-- Storage option value equals expected gain minus interest, charges, quality and downside
-  risk.
-- Warehouse finance can reduce forced sale but does not guarantee a higher price.
+- WDRA regulates registered warehouses and the negotiable warehouse-receipt framework under the Warehousing (Development and Regulation) Act, 2007.
+- e-NWR issuance became mandatory for WDRA-registered warehouses from 1 June 2019.
+- Receipt, title, transfer, pledge and release are distinct.
+- CGS-NPF launched in December 2024 with a Rs 1,000 crore corpus; guarantee support does not replace lender appraisal.
+- Storage option value = expected later gain minus storage, interest, shrinkage, quality and downside risk.
+- Warehouse finance can reduce forced immediate sale; it cannot guarantee price appreciation.
+- Market intelligence should combine arrivals, grade-specific prices, demand, buyer reliability, freight, loss and expected netback.
+- Data must be timely, local, comprehensible and usable through assisted channels.
+- Purchase-order finance funds aggregation and fulfilment before delivery against a credible
+  order; receivables finance advances funds after accepted delivery against the buyer's invoice.
+- Both can reduce dependence on land collateral, but buyer default, quality disputes, order
+  cancellation, document fraud and recourse terms remain material risks.
 
-## 12. Perishable chains
+## Cold chains, high-value crops and post-harvest coordination
 
-- Cold chain is continuous temperature and handling control.
-- Packhouse, pre-cooling, storage, reefer movement and distribution must connect.
-- Diagnose quantity, quality and value loss separately.
-- High-value crop choice depends on risk-adjusted return, not price alone.
-- Production expansion without downstream demand and logistics can increase loss.
+- A cold chain is continuous temperature and handling control, not a single cold store.
+- Nodes: maturity/harvest -> shade/pre-cooling -> sorting/packhouse -> cold storage -> reefer movement -> distribution.
+- Loss may be quantity, quality or value loss; avoid one universal undated wastage percentage.
+- High-value crop choice is based on risk-adjusted return, not consumer price alone.
+- Water, labour, skill, standards, contract, rejection, processing, cold logistics and payment influence choice.
+- Production promotion without downstream demand can increase loss and volatility.
+- AIF is a Rs 1 lakh crore medium- to long-term debt facility for viable post-harvest
+  infrastructure and community farming assets at farm-gate and aggregation points.
+- Eligible actors include farmers/groups, FPOs, PACS/cooperatives, SHGs/JLGs,
+  agri-entrepreneurs, start-ups, APMCs, State agencies and eligible public-private projects.
+- Support includes 3 per cent annual interest subvention on eligible loans up to Rs 2 crore
+  for up to seven years and credit-guarantee coverage for eligible loans up to Rs 2 crore.
+- Official status on 26 January 2026: Rs 80,224.15 crore sanctioned for 1,50,431 projects,
+  mobilising Rs 1,27,508 crore investment.
+- AIF sanctions are inputs; commissioning, location, utilisation, farmer access and viable
+  throughput determine outcomes.
+- The Dalwai Committee links higher farm income to post-harvest management, aggregation,
+  value chains and markets rather than output expansion alone.
 
-## 13. Competition, inclusion and resilience
+## Advanced competition, inclusion and resilience
 
-- Spatial monopsony can persist when freight makes distant buyers infeasible.
-- Platform network effects can improve matching and create gatekeepers.
-- Count active independent bids, not registrations alone.
-- State authorities shape market architecture; CCI addresses anti-competitive conduct
-  where competition-law tests apply.
-- Inclusion requires access, transaction, payment, benefit and grievance.
-- Women's membership must be tested through voice and benefit.
-- Resilience needs diverse buyers, distributed storage, route alternatives and working
-  capital.
+- Monopoly is seller power; monopsony is buyer power; cartel is coordination among otherwise separate firms.
+- Spatial monopsony persists when freight makes distant buyers infeasible.
+- Platform network effects improve matching but can produce gatekeeper control over data, ranking, access and fees.
+- Effective competition = active independent bids within the feasible market, not registrations.
+- State market authorities design the market; CCI addresses anti-competitive conduct where statutory tests are met.
+- Inclusion ladder: registration -> access -> transaction -> payment -> benefit -> grievance correction.
+- Women's membership should be tested through supply, voice, management and control over proceeds.
+- Resilience requires buyer diversity, distributed storage, route alternatives, working capital, backup power, offline options and local repair.
+- Redundancy can raise normal-time cost but lower catastrophic interruption.
 
-## 14. Prelims traps
+## Rapid traps and PYQ answer routes
 
-- e-NAM abolishes APMC law - false.
-- One national APMC Act governs every State - false.
-- Model law is automatically operative - false.
-- FPO and FPC are universal synonyms - false.
-- Registration proves viability - false.
-- Highest bid is highest realisation - false.
-- Every warehouse slip is an e-NWR - false.
-- Contract farming eliminates risk - false.
-- Supermarkets eliminate all intermediaries - false.
-- More registered traders prove competition - false.
-
-## 15. Mains conclusion
-
-India needs interoperable agricultural markets in which State-law choice, contestable
-buyers, farmer aggregation, trusted grades, finance, movement, prompt settlement and
-accessible remedy operate as one chain. The final test is not the number of portals,
-licences or organisations, but farmer netback, consumer value, inclusion and resilience.
+- APMC != e-NAM; mandi fee != MSP; FPO != FPC; warehouse != cold chain.
+- Model law != operative State law; registration != use; turnover != welfare.
+- Higher bid != higher netback; shorter chain != farmer benefit; direct buyer != competition.
+- 2018 route: supermarkets change intermediary identity; add monopsony and FPO safeguards.
+- 2020 route: classify transport/marketing constraints from first mile to settlement.
+- 2022 route: upstream versus downstream bottlenecks.
+- 2025 high-value route: risk-adjusted crop choice and chain readiness.
+- 2025 supply-chain route: product, information, money and risk flows.
+- 2026 e-commerce route: inefficiency diagnosis -> digital channels -> physical/legal limits.
+- Closing line: agricultural-market reform succeeds when legal choice, farmer aggregation,
+  trusted quality, finance, logistics, prompt settlement and remedy operate as one contestable chain.
 
 # COVERAGE MATRIX
 
-| Coverage unit | Basic | Advanced | Criticism/reply/residual | Practice | Location |
-|---|---|---|---|---|---|
-| Marketing, supply and value chains | Complete | Netback and four-flow analysis | Fewer stages objection answered | MCQs 1-2, 37; Mains models | Lesson 1 |
-| APMC State-law perimeter | Complete | Fee incidence and federal implementation | Protection versus monopoly | MCQs 3-4, 35, 47 | Lesson 2 |
-| Mandi functions and failures | Complete | Monopsony, tied credit and cartel distinction | Abolition argument answered | MCQs 5-7, 39 | Lesson 3 |
-| Model Acts, State cases and repeal | Complete | Comparative reform design and trust | Repeal interpretation qualified | MCQs 8-9, 36 | Lesson 4 |
-| e-NAM institution and current status | Complete | Maturity-stage evaluation | Portal-only claim answered | MCQs 10-11, 38, 44 | Lesson 5 |
-| Assaying, grading and standards | Complete | Sampling, custody and exclusion | Standardisation objection answered | MCQs 12-13, 40 | Lesson 6 |
-| Payments, title, logistics and netback | Complete | Three interoperabilities | E-payment claim qualified | MCQs 14-16, 49 | Lesson 7 |
-| FPO definition and legal forms | Complete | Scale arithmetic and Small Farmer Large Field | FPO/cooperative confusion repaired | MCQs 17-18 | Lesson 8 |
-| FPO governance | Complete | Agency, capture and participation | Professional management objection answered | MCQs 19-20 | Lesson 9 |
-| FPO viability and scheme | Complete | Cash cycle, inventory and outcome metrics | Scale-solution claim qualified | MCQs 21-22, 42, 45, 48 | Lesson 10 |
-| Contracts and organised retail | Complete | Incomplete contracts and hold-up | Intermediary-elimination claim answered | MCQs 23-25, 43, 46, 51 | Lesson 11 |
-| WDRA, e-NWR and finance | Complete | Inventory option value | Distress-sale claim qualified | MCQs 26-27, 41, 50 | Lesson 12 |
-| Cold chain and high-value crops | Complete | Risk-adjusted crop choice | Storage-only claim answered | MCQs 28-29 | Lesson 13 |
-| Competition and platform economics | Complete | Spatial monopsony and network effects | Registration claim answered | MCQs 30-31, 52 | Lesson 14 |
-| Inclusion and resilience | Complete | Gender, assisted access and redundancy | Centralisation objection answered | MCQs 32-33 | Lesson 15 |
-| Integrated reform and answer craft | Complete | Full-stack synthesis | Four criticism-reply-residual sets | MCQ 34; original Mains set | Lesson 16 |
-| 2018, 2020, 2022, 2025 and 2026 Mains PYQs | Links-only | Demand and approach | Honest source status | PYQ index | Final PYQ section |
-| 2022 and 2023 objective concept routes | Links-only | Answer letters withheld | No inferred key | Objective ledger | Final PYQ section |
+| Required unit | Core / Advanced location | Evidence and application | Practice / final consolidation |
+|---|---|---|---|
+| Supply chain, value chain, four flows, upstream/downstream | Lesson 1 Core | Netback example and 2022/2025 PYQ routes | Lesson 1 trio; maps; register notes |
+| APMC State-law structure, fees, licences, committees | Lesson 2 Core | Federal/legal distinctions | Lesson 2 trio; institutional comparison |
+| Mandi functions, intermediation, monopsony, cartel, tied credit | Lesson 3 Core | Function-versus-power test | Lesson 3 trio; remediation |
+| Model APMC 2003, APLM 2017, Contract Farming 2018 | Lesson 4 Core | Advisory status and implementation ladder | Lesson 4 trio; reform map |
+| Karnataka, Bihar, 2020 Acts and 2021 repeal | Lesson 4 Core | Comparative Indian cases and trust/federalism | Final 10-mark model |
+| e-NAM operator, architecture, reforms, trading maturity | Lesson 5 Core | SFAC; unified licence/fee/e-trade; dated reach | Lesson 5 trio; cumulative checks |
+| Digital Agriculture Mission | Lesson 5 Core | Purpose, AgriStack/DCS/KDSS, Rs 2,817 crore outlay and 4 February 2026 rollout data | Lesson 5 revision, concept model and Mains model |
+| Assaying, grading, standards, traceability and disputes | Lesson 6 Core | Sampling, calibration, custody, re-test | Lesson 6 trio; quality map |
+| Payments, title, invoice, logistics, delivery and netback | Lesson 7 Core | Three interoperabilities and completion | Lesson 7 trio; remediation |
+| FPO/FPC/cooperative/legal forms and aggregation | Lesson 8 Core | Producer Company and Small Farmer Large Field | Lesson 8 trio; comparison |
+| FPO governance and member control | Lesson 9 Core | Members-board-management-controls | Lesson 9 trio; FPO map |
+| FPO equity, working capital, viability, scheme support | Lesson 10 Core | August 2026 official indicators and cautions | Lesson 10 trio; final 15-mark model |
+| Contract farming, direct purchase, organised retail | Lesson 11 Core | Incomplete contracts, hold-up, named examples | Lesson 11 trio; 2018 route |
+| WDRA, e-NWR, pledge finance, storage option | Lesson 12 Core | 2007 Act, 1 June 2019, CGS-NPF | Lesson 12 trio; diagnostic cases |
+| Market intelligence | Lessons 1, 5, 7 and 12 Core | Prices, grades, demand, freight, expected netback | Market-intelligence ladder |
+| Warehousing, cold chains, post-harvest loss, high-value crops | Lesson 13 Core | Chain continuity and risk-adjusted crop choice | Lesson 13 trio; 2025 routes |
+| Agriculture Infrastructure Fund | Lesson 13 Core | Eligible assets/actors, debt support mechanics and 26 January 2026 official status | Lesson 13 revision, concept model, Mains model and register |
+| Platform economics and competition | Lesson 14 Advanced | Network effects, gatekeeping, spatial monopsony | Lesson 14 trio; cumulative check 7 |
+| Purchase-order and receivables finance | Lesson 14 Advanced | Pre-delivery order finance, post-delivery invoice finance, risks and safeguards | Lesson 14 revision/Mains model and register |
+| Inclusion, women, smallholders, resilience | Lesson 15 Advanced | Access-benefit ladder and redundancy | Lesson 15 trio; final 20-mark model |
+| Integrated reform, metrics and answer craft | Lesson 16 Advanced | Full-stack strategy and measurement | Lesson 16 trio; final models |
+| All owned Mains PYQs 2018-2026 | Lessons mapped above | Exact/local-ledger controlled wording and ownership | Final PYQ table; no solved PYQ models |
+| Objective routes 2022-2023 | Lessons 8 and final PYQ section | Answer-neutral local routing | No key or elimination leakage |
+| Canonical Basic owner | Lessons 1-13 | Every heading, example, trap and answer route mapped | Register notes and matrix |
+| Canonical Advanced owner | Lessons 14-16 plus bounded Core refinements | Market power, finance, platform and boundary conditions | Advanced block and maps |
+| Cross-owner boundaries | Lessons 12-15 | MSP, inputs, food processing, digital agriculture, missions | Source ledger records boundaries |
 
 # SOURCE LEDGER
 
-## Governing authorities
+## SOURCE-MANIFEST GATE
 
-1. `instructions\README.md` - repository instruction registry.
-2. `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md` - non-compromise and integrity
-   policy.
-3. `live_sessions\LIVE-SESSION-GENERATION-RULES.md` - controlling live-session contract.
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | Complete Basic and Advanced Topic 13 owners, including DAM/AIF anchors and value-chain finance, plus relevant Economy cross-owners were mapped to lessons and coverage rows. |
+| Final learner package | not relevant | Permanently excluded from live-session generation by the governing source-exclusion rule. |
+| Layered/complete session | checked | The pre-existing Topic 13 live edition was used only as a bounded completeness baseline before being fully rebuilt. |
+| Solved workbook | not relevant | Permanently excluded from live-session generation by the governing source-exclusion rule. |
+| Advanced dossier | checked | The complete Advanced Topic 13 owner supplied market-power, FPO-viability, interoperability, purchase-order/receivables finance and boundary refinements. |
+| OCR books | checked | Local Ramesh Singh and Economic Survey 2025-26 PDFs were available; direct command-line extraction was unavailable, so only owner-supported OCR-derived formulations were retained. |
+| PYQs through 2026 | checked | Local routing ledgers for 2018-2025 and the locally OCR-verified GS-III 2026 ledger were checked; objective keys were not inferred. |
+| Official live sources | checked | e-NAM, DAM, AIF, Department, SFAC, PIB and WDRA material was checked through 3 October 2026 with exact dated status and bounded meanings retained. |
 
-## Canonical topic owners
+## Canonical ownership
 
 1. `upsc-ai-kit\knowledge\Economy\basic\13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`
-   - controlling Basic coverage, examples, traps and routed PYQ ownership.
+   - complete Core owner: institutions, examples, traps, current anchors and PYQ routes.
 2. `upsc-ai-kit\knowledge\Economy\advanced\13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`
-   - market power, FPO viability, interoperability and advanced trade-offs.
-3. `upsc-ai-kit\knowledge\Economy\13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains_Learner-V2-Complete-Topic-Package.md`
-   - completeness cross-check; its exchangeable shell was not copied.
-4. `learning_package_final\Economy\Subject-wide-Syllabus\13-APMC,-e-NAM,-FPOs-and-Agricultural-Supply-Chains\Learning-Session.md`
-   - detailed mechanism and current-status cross-check.
-5. `learning_package_final\Economy\Subject-wide-Syllabus\13-APMC,-e-NAM,-FPOs-and-Agricultural-Supply-Chains\Solved-Practice-Workbook.md`
-   - semantic practice and distractor cross-check; solved PYQ answers were not imported.
+   - complete optional-depth owner: market power, FPO viability, interoperability and trade-offs.
+3. Relevant cross-owners checked:
+   - Topic 12 for procurement-versus-market boundaries;
+   - Topic 14 for credit, insurance and production-risk boundaries;
+   - Topic 15 for detailed food-processing/cold-chain scheme boundaries;
+   - Topic 27 for digital-agriculture and e-NAM digital-plus-physical boundaries;
+   - Topic 29 for mission, FPO and production-to-market convergence.
 
-## Syllabus and verified PYQ evidence
+## Books and survey
 
-1. `upsc-ai-kit\knowledge\Economy\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`.
-2. `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-3. `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
-4. `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`.
-5. `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-6. `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-7. `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`.
+- `books\Indian economy ramesh singh.pdf` - local OCR-searchable economy source; direct
+  `pdftotext` extraction was unavailable in this environment. No unsupported quotation or page
+  claim is made.
+- `books\economic-survey-2025-26.pdf` - local Survey source used through canonical,
+  owner-supported references for digital agriculture, e-NAM, FPO and infrastructure context.
+- Qdrant was not used because Markdown, local ledgers and official sources were sufficient.
 
-## Book and Survey evidence
+## Verified PYQ records
 
-1. `books\Indian economy ramesh singh.pdf` - OCR-searchable local economy source was
-   checked through the repository's derived evidence rails; direct command-line extraction
-   was unavailable in this environment.
-2. `books\economic-survey-2025-26.pdf` - Economic Survey 2025-26 was released
-   29 January 2026; the OCR-searchable local Survey source was checked through canonical
-   derived references, while direct command-line extraction was unavailable.
-3. Qdrant was not used because Markdown owners, local OCR-derived evidence and official
-   current sources were sufficient.
+- `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`
+- `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`
+- `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`
+- `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`
+- `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`
+- `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`
 
-## Dated official current sources
+## Official current sources reviewed through 3 October 2026
 
-1. Department of Agriculture and Farmers Welfare agricultural-marketing page:
-   `https://agriwelfare.gov.in/en/AgriMkt` - rechecked 23 September 2026; page identifies
-   State-shaped agricultural marketing and the connected roles of infrastructure,
-   grading, information and reform.
-2. Department guide page: `https://agriwelfare.gov.in/en/GuideAgriMkt` - rechecked
-   23 September 2026; page showed last update 23 September 2026.
-3. SFAC FPO FAQ: `https://sfacindia.com/fpofaq.aspx` - retrieved 23 September 2026;
-   supports PO/FPO definitions, multiple legal forms, Producer Company objects,
-   membership and governance-document roles.
-4. PIB e-NAM backgrounder dated 13 April 2026:
-   `https://pib.gov.in/PressNoteDetails.aspx?NoteId=158169&ModuleId=3&reg=3&lang=1`.
-   The direct page returned 403 to the fetcher; official search indexing supplied the
-   March 2026 reach figures. Figures are used only with date and denominator.
-5. PIB e-NAM release:
-   `https://pib.gov.in/PressReleasePage.aspx?PRID=2241414&reg=3&lang=2` - official search
-   result corroborated the 1,656-mandi March 2026 status; direct fetch returned 403.
-6. PIB FPO milestone dated 28 February 2025:
-   `https://pib.gov.in/PressReleasePage.aspx?PRID=2106913`.
-7. PIB FPO update dated 6 February 2026:
-   `https://pib.gov.in/PressReleasePage.aspx?PRID=2224592&reg=3&lang=1` - official search
-   result supplied the 10,000-FPO and dated participation anchors; direct fetch returned
-   403.
-8. WDRA mandatory e-NWR page: `https://wdra.gov.in/mandatory-enwr` - rechecked
-   23 September 2026; the mandatory date of 1 June 2019 for WDRA-registered warehouses
-   is retained from the official framework.
+1. e-NAM mandi-board page: `https://enam.gov.in/stakeholders-Involved/mandi-board`
+   - directly retrieved; confirms single/unified licence, single-point fee and e-trading reform
+   conditions, and 23 States plus 4 UTs joined.
+2. e-NAM FPO page: `https://enam.gov.in/stakeholders-Involved/fpos`
+   - directly retrieved; confirms the FPO aggregation concept and SFAC's facilitation role.
+3. PIB e-NAM official releases/backgrounder:
+   - `https://pib.gov.in/PressReleasePage.aspx?PRID=2251543&reg=3&lang=1`
+   - `https://pib.gov.in/PressNoteDetails.aspx?id=158169&NoteId=158169&ModuleId=3`
+   - official search indexing supplied the March 2026 figures; direct pages returned access
+     errors, so only bounded indexed facts are used.
+4. PIB FPO releases dated 4 and 7 August 2026:
+   - `https://pib.gov.in/PressReleasePage.aspx?PRID=2294442`
+   - `https://pib.gov.in/PressReleasePage.aspx?PRID=2296208`
+   - official search indexing supplied formation, participation, support and turnover facts;
+     direct pages returned access errors.
+5. WDRA / PIB warehouse-finance material:
+   - `https://wdra.gov.in/mandatory-enwr`
+   - `https://pib.gov.in/PressReleasePage.aspx?PRID=2086154`
+   - supports the 1 June 2019 mandatory e-NWR date for registered warehouses and the December
+     2024 CGS-NPF launch with Rs 1,000 crore corpus.
+6. Department agricultural-marketing pages:
+   - `https://agriwelfare.gov.in/en/AgriMkt`
+   - `https://agriwelfare.gov.in/en/GuideAgriMkt`
+   - support State-shaped marketing, infrastructure, grading, information and reform functions.
+7. Model reform reference:
+   - PIB APLM Act 2017 release `https://www.pib.gov.in/PressReleasePage.aspx?PRID=1498361`.
+8. Tea Board India:
+   - `https://www.teaboard.gov.in/about-us1`
+   - official 2026 search material confirms statutory status under the Tea Act, 1953 and
+     administrative location under the Department of Commerce; no unstable overseas-office
+     count is asserted.
+9. Digital Agriculture Mission:
+   - approval and design: `https://pib.gov.in/Pressreleaseshare.aspx?PRID=2082787`
+   - Digital Agriculture Division: `https://agriwelfare.gov.in/en/DigiAgriDiv`
+   - 2026 rollout status: `https://pib.gov.in/PressReleasePage.aspx?PRID=2225978`
+   - official indexed material supports the September 2024 approval, Rs 2,817 crore outlay,
+     AgriStack/Digital Crop Survey/Krishi-DSS architecture and status as of 4 February 2026;
+     direct PIB pages returned access errors, so figures retain their reported date.
+10. Agriculture Infrastructure Fund:
+    - scheme overview: `https://agriinfra.dac.gov.in/Home/SchemeOverview`
+    - main features: `https://agriinfra.dac.gov.in/Home/MainFeatures`
+    - eligible-project page: `https://agriinfra.dac.gov.in/Home/EligibleProjects`
+    - current official release: `https://pib.gov.in/PressReleasePage.aspx?PRID=2222807`
+    - the portal pages were directly retrieved and support the purpose, eligible actors and
+      3 per cent interest/credit-guarantee mechanics; official PIB indexing supplies the
+      26 January 2026 sanction and investment snapshot because the release returned 403.
 
-## Evidence cautions
+## Evidence and uncertainty controls
 
-- PIB pages that returned 403 were not represented as directly fetched prose; only their
-  official indexed titles, dates and bounded facts were used.
-- Registration, integration, formation, turnover and platform reach are not treated as
-  completed trade, profitability or farmer-welfare outcomes.
-- No objective PYQ answer letter was inferred without a locally verified official key.
-- Private examples illustrate mechanisms; no unsupported current market-share claim is
-  made.
+- Registration, integration, formation, sanctions, turnover and project counts are not treated
+  as adoption, completed trade, profitability or farmer-welfare outcomes.
+- Dynamic e-NAM dashboard values are not mixed with the dated March 2026 official snapshot.
+- DAM Farmer-ID and crop-survey counts are rollout measures, not data-quality, consent,
+  inclusion or market-outcome measures.
+- AIF sanctions and mobilised investment are not treated as commissioned capacity,
+  utilisation, smallholder access, loss reduction or income gain.
+- No objective PYQ answer is inferred where the local official key is unavailable.
+- Private-firm examples explain mechanisms; no current market-share or universal-benefit claim
+  is made.
+- Model Acts are described as advisory templates; State enactment and implementation are kept
+  separate.
+- Current legal status is stated through 3 October 2026: the three 2020 central farm laws remain
+  repealed under the Farm Laws Repeal Act, 2021.
