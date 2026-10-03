@@ -1,12 +1,12 @@
 # Economy 19 - Balance of Payments, Exchange Rates and Forex Reserves
 
-> **Generation status:** complete learner-first live edition generated on 24 September 2026.
-> **Evidence convention:** ✅ Fact = directly supported by a cited canonical, official-paper, book or official-document source. ⚠️ Analytical inference = reasoned synthesis.
-> **Current-claim boundary:** every mutable claim carries a publication, status or retrieval date. The Economic Survey 2025-26 was tabled on 29 January 2026. RBI's Q1 FY2026-27 BoP release was published on 1 September 2026. Official web sources were retrieved on 24 September 2026 IST. Stable accounting identities and textbook mechanisms explicitly need no separate current claim.
+> **Rebuild status:** complete learner-first live edition rebuilt on 3 October 2026.
+> **Evidence convention:** ✅ Fact = directly supported by a canonical, OCR-book, verified-PYQ or official source. ⚠️ Inference = reasoned economic analysis.
+> **Current boundary:** official information checked through 3 October 2026 IST; mutable figures retain reference and publication dates.
 
-## Frozen dependency roadmap - 20 lessons
+## Roadmap - 20 lessons
 
-| # | Learner-facing lesson | Stage |
+| # | Lesson | Stage |
 |---:|---|---|
 | 1 | The BoP boundary and the double-entry ledger | Foundation |
 | 2 | Current-account classification: goods, services and incomes | Foundation |
@@ -16,47 +16,34 @@
 | 6 | India's merchandise gap, services cushion and remittances | Core |
 | 7 | Current-account and capital-account convertibility under FEMA | Core |
 | 8 | Exchange-rate quotation and percentage-change calculations | Foundation |
-| 9 | Cross-rates, spreads and triangular consistency | Core |
-| 10 | Fixed, floating, pegged and managed exchange-rate regimes | Core |
-| 11 | Depreciation pass-through, inflation and balance-sheet effects | Core |
-| 12 | Marshall-Lerner condition and the J-curve | Advanced |
-| 13 | NEER, REER and competitiveness calculations | Advanced |
-| 14 | The impossible trinity and India's policy mix | Advanced |
-| 15 | RBI intervention through central-bank balance sheets | Advanced |
-| 16 | Sterilisation instruments, limits and costs | Advanced |
-| 17 | Forex-reserve composition and valuation changes | Core |
+| 9 | Fixed, floating, pegged and managed exchange-rate regimes | Core |
+| 10 | Depreciation pass-through, inflation and balance-sheet effects | Core |
+| 11 | Marshall-Lerner condition and the J-curve | Core |
+| 12 | NEER, REER and competitiveness calculations | Core |
+| 13 | RBI intervention through central-bank balance sheets | Core |
+| 14 | Sterilisation instruments, limits and costs | Core |
+| 15 | Forex-reserve composition and valuation changes | Core |
+| 16 | Cross-rates, spreads and triangular consistency | Advanced |
+| 17 | The impossible trinity and India's policy mix | Advanced |
 | 18 | SDR, reserve-tranche position and IMF-liquidity distinctions | Advanced |
 | 19 | Reserve adequacy: import cover, debt rules and stress metrics | Advanced |
 | 20 | External debt, capital-flow vulnerability and India's crisis lessons | Advanced |
 
 ```text
-RESIDENT <-> NON-RESIDENT TRANSACTIONS
-                  |
-        classify and double-enter
-                  v
- CURRENT + CAPITAL + FINANCIAL ACCOUNTS
-                  |
-       financing demand and supply
-                  v
-       EXCHANGE RATE / RBI ACTION
-                  |
-     prices + liquidity + balance sheets
-                  v
- RESERVES + DEBT + POLICY SPACE + RESILIENCE
+TRANSACTION -> ACCOUNT -> FINANCING -> EXCHANGE RATE -> RBI LIQUIDITY
+           -> RESERVES -> DEBT / IIP -> EXTERNAL RESILIENCE
 ```
 
-The sequence follows the learner's changing question: first, *where does a transaction
-go?*; then, *how is a deficit financed?*; then, *how does the currency price adjust?*;
-finally, *when do intervention, reserves and debt make the system safer or more fragile?*
+The complete Core spine comes first. Lessons 16-20 are distinct optional enrichment, not prerequisites for a competent Core answer.
 
----
+## CORE LEARNING SEQUENCE
 
 ## Lesson 1 - The BoP boundary and the double-entry ledger
 
-**Progress: 1/20 | Stage: Foundation | Subtopic: Residence, period, credits, debits and balancing**
+Progress: 1/20 | Stage: Foundation | Subtopic: Residence, period, credits, debits and balancing
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical Basic/Advanced owners, complete package, RBI BPM6 manual and Ramesh Singh external-sector chapter queried
+Book context: Canonical Basic/Advanced owners, RBI BPM6 manual and Ramesh Singh external-sector chapter queried
 CA search: "RBI Q1 2026-27 balance of payments current account financial account September 2026"
 CA found: RBI released Q1 FY2026-27 BoP data on 1 September 2026; accounting concepts below are stable and need no separate current claim
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -77,7 +64,7 @@ Every recorded economic value has a counterpart.
 
 The **balance of payments (BoP)** is a statistical statement of economic
 transactions between an economy's **residents** and **non-residents** during a
-specified period. RBI's BPM6-aligned manual, retrieved on 24 September 2026, defines
+specified period. RBI's BPM6-aligned manual, retrieved on 3 October 2026, defines
 residence by the centre of predominant economic interest, not nationality alone.
 
 That distinction solves common puzzles:
@@ -149,56 +136,12 @@ fraud whenever non-zero.
 9. Errors and omissions reconcile statistical gaps.
 10. Accounting balance does not prove economic sustainability.
 
-### Practice - post both sides of the ledger
+### Responsive Mains drill — 10 marks | Ceiling: 150 words
 
-**MCQ 1.** An Indian company imports equipment and finances it through a loan from the
-foreign seller. Which pairing is correct?
-
-A. Goods debit and increase in external liabilities as a financial-account credit
-B. Goods credit and increase in reserve assets as a debit
-C. Primary-income debit and capital-transfer credit
-D. Services debit and reduction in external liabilities as a debit
-
-**Answer: A**
-
-- **A is correct:** the machinery import is a goods debit and supplier credit creates an external liability.
-- **B is wrong:** an import is not a goods credit, and no reserve acquisition is stated.
-- **C is wrong:** neither investment income nor a capital transfer is involved.
-- **D is wrong:** equipment is a good, and the liability increases rather than falls.
-
-**MCQ 2.** Which statement best explains why the BoP can balance during an external
-crisis?
-
-A. Current-account deficits are automatically erased at year-end.
-B. Financing entries, reserve changes and statistical adjustment provide counterparts.
-C. The exchange rate is legally required to remain unchanged.
-D. Every import necessarily creates an equal export in the same quarter.
-
-**Answer: B**
-
-- **A is wrong:** a deficit is recorded; it is not erased.
-- **B is correct:** double-entry accounting records the financing counterpart and reconciliation items.
-- **C is wrong:** exchange-rate stability is not an accounting requirement.
-- **D is wrong:** the counterpart may be a liability or reserve change, not an export.
-
-**MCQ 3.** For BoP purposes, which test is decisive in the standard case?
-
-A. Passport nationality
-B. Currency used for payment
-C. Centre of predominant economic interest
-D. Location of the commercial bank alone
-
-**Answer: C**
-
-- **A is wrong:** nationality is not the governing BPM6 test.
-- **B is wrong:** a rupee transaction can still involve a resident and non-resident.
-- **C is correct:** residence is assigned by the unit's centre of predominant economic interest.
-- **D is wrong:** the bank's location does not by itself determine the transactors' residence.
-
-**Mains micro-model - 10 marks:** *"The balance of payments always balances, yet a
+**Mains prompt:** "The balance of payments always balances, yet a
 country can face a BoP crisis." Explain.*
 
-**Model answer:** The BoP uses double-entry accounting, so every current, capital or
+**Indicative answer:** The BoP uses double-entry accounting, so every current, capital or
 financial transaction has a counterpart. A current-account deficit can therefore be
 matched by FDI, portfolio inflows, loans, deposit flows, reserve depletion or errors and
 omissions. This accounting equality says nothing about financing quality. A crisis
@@ -207,14 +150,28 @@ inadequate; debt service is concentrated; or currency depreciation damages unhed
 balance sheets. Thus, the BoP balances ex post, but the route through which it balances
 determines vulnerability.
 
-**Transition:** Once the ledger boundary is clear, the next task is to classify the
-transactions that describe production, income and transfers.
+
+### Concept check
+
+**Question:** Why can BoP balance during a crisis?
+
+**Model answer:** Accounting counterparts close the ledger; crisis concerns the availability, quality and cost of financing.
+
+**Misconception to avoid:** Accounting balance is not economic health.
+
+### Unique scoring rubric
+
+2 marks for the BoP identity and double-entry basis; 3 for valid financing routes; 3 for reserve, rollover or balance-sheet crisis mechanisms; 2 for distinguishing accounting closure from external health.
+
+**Transition:** Next, Lesson 2 classifies the current account into goods, services, primary income and secondary income.
+
+---
 
 ---
 
 ## Lesson 2 - Current-account classification: goods, services and incomes
 
-**Progress: 2/20 | Stage: Foundation | Subtopic: The four current-account components**
+Progress: 2/20 | Stage: Foundation | Subtopic: The four current-account components
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: RBI BPM6 current-account definitions, canonical owner and Economic Survey 2025-26 Chapter 4 queried
@@ -307,43 +264,12 @@ answer, name the exact component before using "invisibles".
 9. "Invisibles" is a shorthand, not a substitute for classification.
 10. State the period and source with every current figure.
 
-### Practice - classify the flow
+### Responsive Mains drill — 10 marks | Ceiling: 150 words
 
-**MCQ 4.** An Indian resident receives a recurring remittance from a family member
-working abroad. Under BPM6, it is normally recorded under:
-
-A. merchandise exports
-B. primary income
-C. direct investment
-D. secondary income
-
-**Answer: D**
-
-- **A is wrong:** no physical good is exported.
-- **B is wrong:** the recipient did not earn it by supplying labour or capital to the sender.
-- **C is wrong:** no lasting ownership interest in an enterprise is created.
-- **D is correct:** an ordinary personal remittance is a current transfer under secondary income.
-
-**MCQ 5.** If a country has a merchandise deficit of 100, a net services surplus of 45,
-net primary-income outgo of 20 and net secondary-income receipts of 30, its
-current-account balance is:
-
-A. -45
-B. -15
-C. +5
-D. +95
-
-**Answer: A**
-
-- **A is correct:** -100 + 45 - 20 + 30 = -45.
-- **B is wrong:** it omits or reverses one of the income components.
-- **C is wrong:** the positive service and transfer balances do not fully offset the two deficits.
-- **D is wrong:** it adds receipts without deducting merchandise and primary-income outgo.
-
-**Mains micro-model - 10 marks:** *Why can a large merchandise deficit coexist with a
+**Mains prompt:** *Why can a large merchandise deficit coexist with a
 modest current-account deficit in India?*
 
-**Model answer:** The current account is wider than merchandise trade. It adds net
+**Indicative answer:** The current account is wider than merchandise trade. It adds net
 services, primary income and secondary income to the goods balance. India frequently
 runs a large merchandise deficit because of imports such as crude oil, electronics and
 gold, while software and business-service exports generate substantial net receipts.
@@ -353,19 +279,33 @@ this composition: a USD 86.1 billion merchandise deficit coexisted with a curren
 deficit of only USD 4.2 billion. The cushion improves resilience but also creates
 concentration risk if services demand or remittance corridors weaken.
 
-**Transition:** Current flows explain what India earns and spends now. Asset transfers
-and financing require two different accounts that older textbooks often merge.
+
+### Concept check
+
+**Question:** Classify software exports, foreign interest payments and family remittances.
+
+**Model answer:** Software is services credit; interest paid is primary-income debit; a family remittance received is secondary-income credit.
+
+**Misconception to avoid:** Remittances are not exports.
+
+### Unique scoring rubric
+
+2 marks for the complete current-account equation; 3 for correctly linking goods, services, primary income and transfers; 3 for dated Indian evidence; 2 for sign discipline and a qualified conclusion.
+
+**Transition:** Next, Lesson 3 separates the narrow capital account from the financial account under BPM6.
+
+---
 
 ---
 
 ## Lesson 3 - Capital account versus financial account
 
-**Progress: 3/20 | Stage: Foundation | Subtopic: The modern BPM6 split**
+Progress: 3/20 | Stage: Foundation | Subtopic: The modern BPM6 split
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: RBI BPM6 manual, canonical Basic/Advanced owners and Ramesh Singh vintage terminology queried
 CA search: "RBI BPM6 capital account financial account India classification"
-CA found: RBI BPM6 manual retrieved 24 September 2026 controls the modern split; no separate mutable statistic is required
+CA found: RBI BPM6 manual retrieved 3 October 2026 controls the modern split; no separate mutable statistic is required
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - the narrow account and the large account
@@ -446,7 +386,7 @@ presentations may display net acquisition and net incurrence with their own sign
 - **PYQ relevance:** 2020 Q51 and 2021 Q7 test FDI characteristics and eligible
   instruments; both require the financial-account category.
 - **Stable lesson:** no separate current claim is required beyond the RBI BPM6 source
-  retrieved on 24 September 2026.
+  retrieved on 3 October 2026.
 
 ### Revision notes
 
@@ -461,56 +401,12 @@ presentations may display net acquisition and net incurrence with their own sign
 9. Old "capital account" tables may use a broader vintage convention.
 10. State the convention before interpreting signs.
 
-### Practice - detect the vintage trap
+### Responsive Mains drill — 10 marks | Ceiling: 150 words
 
-**MCQ 6.** Which statement correctly applies the modern BPM6 distinction?
-
-A. FDI is part of the narrow capital account.
-B. A capital transfer belongs to the capital account, while an ECB belongs to the financial account.
-C. Personal remittances belong to the capital account because they cross a border.
-D. Reserve assets are outside the international accounts.
-
-**Answer: B**
-
-- **A is wrong:** FDI is a financial-account category.
-- **B is correct:** it separates the narrow capital account from financial borrowing.
-- **C is wrong:** ordinary personal remittances are secondary income in the current account.
-- **D is wrong:** reserve-asset transactions are recorded in the financial account.
-
-**MCQ 7.** When an older Indian table places FDI under a broad "capital account",
-what is the safest analytical response?
-
-A. Reject all figures in the table.
-B. Move FDI into the current account.
-C. State the table's convention and translate FDI into the BPM6 financial account.
-D. Treat every historical sign as identical to current BPM6 presentation.
-
-**Answer: C**
-
-- **A is wrong:** rejecting sound data solely because the terminology is older discards usable evidence.
-- **B is wrong:** FDI is a financial-account flow under BPM6, not a current-account item.
-- **C is correct:** a source's date and stated convention must be checked before interpreting "capital account".
-- **D is wrong:** historical and current presentations can differ in grouping and sign convention.
-
-**MCQ 8.** A foreign mutual fund buys listed shares of an Indian company without
-acquiring managerial control. The flow is best classified as:
-
-A. capital transfer
-B. primary income
-C. reserve-asset acquisition
-D. portfolio investment in the financial account
-
-**Answer: D**
-
-- **A is wrong:** there is an exchange of a financial claim, not a transfer without quid pro quo.
-- **B is wrong:** dividends later paid may be primary income, but the purchase itself is financial.
-- **C is wrong:** the investor is not the monetary authority acquiring reserve assets.
-- **D is correct:** tradable equity without a direct-investment relationship is portfolio investment.
-
-**Mains micro-model - 10 marks:** *Distinguish the capital account from the financial
+**Mains prompt:** *Distinguish the capital account from the financial
 account under BPM6.*
 
-**Model answer:** Under BPM6, the capital account is narrow. It records capital
+**Indicative answer:** Under BPM6, the capital account is narrow. It records capital
 transfers and transactions in non-produced non-financial assets. The financial account
 records cross-border acquisition and incurrence of financial assets and liabilities:
 direct investment, portfolio investment, derivatives, loans, deposits, trade credit and
@@ -519,17 +415,31 @@ account" broadly for financial flows. A precise answer should acknowledge that v
 usage but apply the modern split. Thus, FDI and ECBs are not entries in the narrow
 capital account; they are financial-account transactions.
 
-**Transition:** The financial account is not one homogeneous pipe. Its instruments
-differ sharply in control, maturity, reversibility and balance-sheet risk.
+
+### Concept check
+
+**Question:** Why is FDI in the financial rather than narrow capital account?
+
+**Model answer:** BPM6 capital account covers capital transfers and non-produced non-financial assets; FDI changes financial assets/liabilities.
+
+**Misconception to avoid:** Do not use the older broad capital-account label in a BPM6 question.
+
+### Unique scoring rubric
+
+2 marks for BPM6 definitions; 3 for capital transfers and non-produced assets; 3 for FDI, portfolio and other financial flows; 2 for handling the older broad “capital account” usage.
+
+**Transition:** Next, Lesson 4 compares FDI, portfolio flows, loans, deposits and derivatives within the financial account.
+
+---
 
 ---
 
 ## Lesson 4 - Financial flows: FDI, portfolio, loans, deposits and derivatives
 
-**Progress: 4/20 | Stage: Core | Subtopic: Financing instruments and their risk signatures**
+Progress: 4/20 | Stage: Core | Subtopic: Financing instruments and their risk signatures
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical financial-account taxonomy, ECB section, solved workbook and RBI ECB Master Direction queried
+Book context: Canonical financial-account taxonomy, ECB section, RBI ECB Master Direction queried
 CA search: "RBI Q1 2026-27 FDI FPI NRI deposits ECB September 2026"
 CA found: RBI release dated 1 September 2026 reported net FDI inflow of USD 6.1 billion, net FPI outflow of USD 9.6 billion, NRI-deposit inflow of USD 2.8 billion and ECB inflow of USD 3.3 billion in Q1 FY2026-27
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -579,7 +489,7 @@ higher global benchmark rate
 ```
 
 ✅ RBI's ECB Master Direction was updated on 8 September 2026 and retrieved on
-24 September 2026. It confirms that ECB and trade-credit transactions are governed
+3 October 2026. It confirms that ECB and trade-credit transactions are governed
 under FEMA and remain subject to permitted framework, reporting and prudential rules.
 Specific limits can change; therefore, this lesson does not freeze a remembered limit.
 
@@ -610,40 +520,12 @@ analysis should inspect both gross exposure and the net balance.
 9. Gross and net capital flows answer different questions.
 10. Financing quality matters as much as financing quantity.
 
-### Practice - read the risk signature
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 9.** Which borrower is most directly exposed to currency mismatch?
-
-A. An Indian firm with dollar debt and mainly rupee revenue, left unhedged
-B. An exporter with dollar revenue and matched dollar debt service
-C. A firm financed entirely by rupee equity
-D. A government department receiving a domestic budget grant
-
-**Answer: A**
-
-- **A is correct:** depreciation raises rupee debt service while revenue remains in rupees.
-- **B is wrong:** dollar revenue provides a natural hedge, though other risks remain.
-- **C is wrong:** no foreign-currency liability is created.
-- **D is wrong:** the transaction is domestic fiscal finance.
-
-**MCQ 10.** Which statement best distinguishes FDI from FPI?
-
-A. FDI can never be withdrawn, whereas FPI must be withdrawn within a year.
-B. FDI is associated with lasting interest and influence; FPI is generally a tradable financial claim without equivalent control.
-C. FDI belongs to the current account and FPI to the capital account.
-D. FPI is always debt while FDI is always equity.
-
-**Answer: B**
-
-- **A is wrong:** FDI can be sold and FPI has no universal one-year maturity.
-- **B is correct:** control-linked lasting interest is the core distinction.
-- **C is wrong:** both are financial-account categories.
-- **D is wrong:** portfolio investment can include equity and debt securities.
-
-**Mains micro-model - 15 marks:** *Why should a CAD financed by FDI be assessed
+**Mains prompt:** *Why should a CAD financed by FDI be assessed
 differently from one financed by short-term foreign debt?*
 
-**Model answer:** FDI usually represents a lasting ownership relationship and shares
+**Indicative answer:** FDI usually represents a lasting ownership relationship and shares
 enterprise risk, whereas short-term foreign debt creates fixed repayment and rollover
 obligations. FDI may therefore be less prone to an abrupt exit and can bring technology,
 management and market access. Short-term debt can become destabilising when global
@@ -652,14 +534,28 @@ comparison is not moral: FDI can create profit outflows and weak domestic linkag
 while well-hedged debt used for productive exports can be sustainable. Assessment must
 consider maturity, currency, hedging, use of funds, earning capacity and concentration.
 
-**Transition:** Knowing the instruments lets us ask the central policy question: when
-is a current-account deficit productive financing, and when is it a warning?
+
+### Concept check
+
+**Question:** What makes external flows differ in risk?
+
+**Model answer:** Control, liquidity, maturity, currency, rate, hedge and rollover determine reversibility and balance-sheet risk.
+
+**Misconception to avoid:** FDI is not irreversible and all debt is not equally risky.
+
+### Unique scoring rubric
+
+3 marks for identifying financing quality; 4 for FDI risk-sharing and productive-capacity channels; 4 for currency, maturity and rollover risks of short debt; 2 for an Indian example; 2 for a comparative verdict.
+
+**Transition:** Next, Lesson 5 uses those financing instruments to judge CAD sustainability.
+
+---
 
 ---
 
 ## Lesson 5 - Financing a CAD and judging sustainability
 
-**Progress: 5/20 | Stage: Core | Subtopic: Identity, quality, absorption and warning signals**
+Progress: 5/20 | Stage: Core | Subtopic: Identity, quality, absorption and warning signals
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical CAD mechanism, Economic Survey 2025-26 and RBI Q1 FY2026-27 BoP release queried
@@ -751,72 +647,12 @@ funding environment.
 9. Twin deficits are a hypothesis, not an accounting identity.
 10. Sustainability is a flow-stock and composition judgment.
 
-### Practice - finance and diagnose
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 11.** A CAD is most plausibly sustainable when it is:
-
-A. financed entirely by repeated reserve depletion
-B. financed by overnight foreign borrowing for domestic consumption
-C. financing productivity-enhancing investment with stable, long-duration flows
-D. accompanied by an unhedged foreign-currency maturity wall
-
-**Answer: C**
-
-- **A is wrong:** persistent reserve depletion erodes the buffer.
-- **B is wrong:** short-term debt financing consumption combines rollover risk with weak repayment capacity.
-- **C is correct:** productive use and stable financing improve future servicing ability.
-- **D is wrong:** concentrated unhedged maturities amplify depreciation and refinancing stress.
-
-**MCQ 12.** Which statement about CAD sustainability is correct?
-
-A. Any CAD below 3% of GDP is automatically safe.
-B. A CAD financed by reserves has no future cost.
-C. The current account and fiscal balance are the same accounting concept.
-D. Maturity, currency, hedging and use of funds can matter more than the headline ratio.
-
-**Answer: D**
-
-- **A is wrong:** no universal numerical threshold guarantees safety.
-- **B is wrong:** reserve use reduces insurance and may affect confidence.
-- **C is wrong:** they are distinct external and fiscal balances.
-- **D is correct:** composition and balance-sheet exposure determine vulnerability.
-
-**MCQ 13.** Which macro identity is correct?
-
-A. Current-account balance = national saving - domestic investment
-B. Current-account balance = tax revenue - public expenditure
-C. Current-account balance = money supply - reserve money
-D. Current-account balance = exports + imports
-
-**Answer: A**
-
-- **A is correct:** this is the national accounting saving-investment identity.
-- **B is wrong:** that expression concerns the fiscal balance.
-- **C is wrong:** it is not a BoP identity.
-- **D is wrong:** imports must be subtracted and services/income/transfers included.
-
-**Block checkpoint - accounts and financing:** The next item requires the learner to
-combine CAD quality, debt maturity and foreign-exchange earning capacity rather than
-recall one definition.
-
-**MCQ 14.** Which financing change most improves a CAD's resilience?
-
-A. Concentrating repayments in one quarter
-B. Extending maturities and matching debt currency with export earnings
-C. Borrowing unhedged in foreign currency for non-tradable consumption
-D. Replacing long-term FDI with overnight debt
-
-**Answer: B**
-
-- **A is wrong:** a maturity wall increases refinancing pressure.
-- **B is correct:** longer maturity and a natural hedge improve servicing resilience.
-- **C is wrong:** it creates both currency mismatch and weak foreign-exchange earning capacity.
-- **D is wrong:** it replaces risk-sharing capital with rollover-sensitive debt.
-
-**Mains micro-model - 15 marks:** *A CAD is neither a report card of failure nor a
+**Mains prompt:** *A CAD is neither a report card of failure nor a
 guarantee of productive investment. Discuss.*
 
-**Model answer:** A CAD means domestic investment exceeds national saving and the
+**Indicative answer:** A CAD means domestic investment exceeds national saving and the
 economy absorbs net foreign saving. It can support development when financing imports
 of machinery, technology and infrastructure that raise future output and exports.
 Judgment must then examine whether financing is equity-like, diversified, long-term and
@@ -827,15 +663,28 @@ Therefore, policy should not target the CAD alone; it should raise national savi
 export capability while improving the maturity, currency and sectoral quality of
 external finance.
 
-**Transition:** India illustrates this composition problem vividly: its goods gap is
-large, but its services and transfer receipts materially change the final current
-account.
+
+### Concept check
+
+**Question:** What makes one CAD productive and another fragile?
+
+**Model answer:** Productive use, stable long maturity and FX earnings improve sustainability; consumption, short unhedged debt and reserve depletion weaken it.
+
+**Misconception to avoid:** No universal CAD threshold is automatically safe.
+
+### Unique scoring rubric
+
+3 marks for the saving-investment identity; 4 for conditions making a CAD productive; 4 for financing and balance-sheet warning signs; 2 for buffers and future FX earnings; 2 for a balanced conclusion.
+
+**Transition:** Next, Lesson 6 applies CAD composition to India’s merchandise gap, services cushion and remittances.
+
+---
 
 ---
 
 ## Lesson 6 - India's merchandise gap, services cushion and remittances
 
-**Progress: 6/20 | Stage: Core | Subtopic: Reading India's current account as a structure**
+Progress: 6/20 | Stage: Core | Subtopic: Reading India's current account as a structure
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economic Survey 2025-26 Chapter 4, canonical India cases and RBI Q1 FY2026-27 BoP release queried
@@ -932,42 +781,12 @@ than attached mechanically to the headline.
 9. Concentration can exist inside a services surplus.
 10. Policy should improve composition, not pursue indiscriminate import compression.
 
-### Practice - decompose the Indian pattern
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 15.** Which change, other things equal, directly narrows the current-account
-deficit?
-
-A. A rise in interest paid to foreign bondholders
-B. A rise in merchandise imports
-C. A rise in net services exports
-D. A fall in personal transfer receipts
-
-**Answer: C**
-
-- **A is wrong:** higher primary-income outgo widens the deficit.
-- **B is wrong:** higher imports worsen the goods balance.
-- **C is correct:** net service receipts add to the current-account balance.
-- **D is wrong:** lower secondary-income receipts remove a cushion.
-
-**MCQ 16.** Which policy diagnosis is most defensible for a rise in capital-goods
-imports?
-
-A. Every rise proves a consumption boom.
-B. It must be removed even if it supports export capacity.
-C. It has no effect on the current account because machinery is an asset.
-D. It can widen the present goods deficit while improving future productivity.
-
-**Answer: D**
-
-- **A is wrong:** machinery is generally investment-related, not household consumption.
-- **B is wrong:** indiscriminate compression can damage productive capacity.
-- **C is wrong:** imported machinery is still recorded as a goods debit.
-- **D is correct:** present external absorption can create future output and exports.
-
-**Mains micro-model - 15 marks:** *India's external resilience rests on a cushion, not
+**Mains prompt:** *India's external resilience rests on a cushion, not
 on the absence of a structural goods deficit. Analyse.*
 
-**Model answer:** India's merchandise account is burdened by energy, electronics,
+**Indicative answer:** India's merchandise account is burdened by energy, electronics,
 capital-goods and gold imports. Services exports, particularly software and business
 services, and personal remittances substantially offset that gap, while investment
 income often remains a net outgo. RBI's Q1 FY2026-27 data published on 1 September
@@ -977,19 +796,33 @@ migration policy and market concentration can weaken it. Policy should therefore
 diversify merchandise and services exports, improve energy security and domestic value
 chains, and avoid suppressing productivity-enhancing imports.
 
-**Transition:** The current account measures cross-border flows; convertibility asks
-which residents may undertake them, under what legal conditions and with what limits.
+
+### Concept check
+
+**Question:** How can a large goods deficit coexist with a small CAD?
+
+**Model answer:** Services and secondary-income receipts offset goods deficit, while primary-income outgo subtracts from the cushion.
+
+**Misconception to avoid:** Trade balance is not current-account balance.
+
+### Unique scoring rubric
+
+3 marks for the structural merchandise gap; 4 for the services cushion; 3 for remittance or transfer support; 3 for primary-income and concentration risks using current data; 2 for a resilience verdict.
+
+**Transition:** Next, Lesson 7 explains current-account and capital-account convertibility under FEMA.
+
+---
 
 ---
 
 ## Lesson 7 - Current-account and capital-account convertibility under FEMA
 
-**Progress: 7/20 | Stage: Core | Subtopic: Convertibility is a legal permission architecture**
+Progress: 7/20 | Stage: Core | Subtopic: Convertibility is a legal permission architecture
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: FEMA framework, RBI current-account Master Direction, canonical convertibility section and Ramesh Singh OCR queried
 CA search: "RBI Master Direction other remittance facilities current account transactions updated 6 May 2026"
-CA found: RBI's current-account remittance Master Direction was updated 6 May 2026 and retrieved 24 September 2026
+CA found: RBI's current-account remittance Master Direction was updated 6 May 2026 and retrieved 3 October 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - convertibility is not one switch
@@ -1082,56 +915,12 @@ synonyms.
 9. Full convertibility is not the same as a fixed exchange rate.
 10. Sequencing requires fiscal, financial and supervisory resilience.
 
-### Practice - separate legal category from ordinary language
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 17.** Which statement about India's current-account convertibility is most
-accurate?
-
-A. Current payments are broadly permitted, but remain subject to FEMA rules and specified restrictions.
-B. Every outward remittance is unrestricted and requires no documentation.
-C. Current-account convertibility fixes the rupee-dollar rate.
-D. It automatically permits every resident to buy unlimited foreign assets.
-
-**Answer: A**
-
-- **A is correct:** broad permission operates inside a legal and reporting framework.
-- **B is wrong:** prohibited, approval-based and regulated categories continue.
-- **C is wrong:** convertibility and exchange-rate regime are distinct.
-- **D is wrong:** foreign-asset acquisition is a capital transaction.
-
-**MCQ 18.** An Indian resident purchases a foreign corporate bond. This is best viewed
-as:
-
-A. a current transfer because money crosses the border
-B. a capital transaction because an external financial asset is acquired
-C. a merchandise import because the bond is bought
-D. primary income because the bond may later pay interest
-
-**Answer: B**
-
-- **A is wrong:** the buyer receives a financial claim in exchange.
-- **B is correct:** the transaction changes the resident's external asset position.
-- **C is wrong:** a security is not a physical merchandise import.
-- **D is wrong:** future interest is primary income; the bond purchase is financial.
-
-**MCQ 19.** Why may rapid capital-account liberalisation reduce policy space?
-
-A. It eliminates all foreign investment.
-B. It converts the current account into the fiscal account.
-C. Large mobile flows can transmit shocks and intensify the monetary-exchange-rate trade-off.
-D. It prevents residents from using domestic currency.
-
-**Answer: C**
-
-- **A is wrong:** liberalisation generally expands permissible flows.
-- **B is wrong:** the two accounting systems remain distinct.
-- **C is correct:** mobile capital affects interest differentials, exchange pressure and autonomy.
-- **D is wrong:** domestic-currency use is not abolished.
-
-**Mains micro-model - 15 marks:** *Why is India's convertibility best described as
+**Mains prompt:** *Why is India's convertibility best described as
 sequenced rather than incomplete?*
 
-**Model answer:** India broadly permits current international payments under FEMA but
+**Indicative answer:** India broadly permits current international payments under FEMA but
 retains specified prohibitions, approvals and documentation. Capital transactions are
 liberalised through differentiated routes for FDI, portfolio flows, overseas
 investment, borrowing and deposits. This calibration recognises that capital flows can
@@ -1140,19 +929,33 @@ Sequencing therefore links openness with banking strength, fiscal credibility,
 inflation control, supervision and hedging capacity. The aim is not permanent closure,
 but an order in which risk-management institutions mature with market access.
 
-**Transition:** Legal permission tells us whether foreign exchange can be bought. The
-next problem is reading the price at which currencies exchange.
+
+### Concept check
+
+**Question:** Why does current convertibility not imply full capital convertibility?
+
+**Model answer:** Current payments are broadly permitted within FEMA; asset/liability-changing transactions remain calibrated by instrument and prudential risk.
+
+**Misconception to avoid:** A capital good is not a capital-account transaction.
+
+### Unique scoring rubric
+
+3 marks for FEMA and current-account convertibility; 4 for calibrated capital-account openness; 3 for the sequencing rationale; 3 for concrete permission, limit or prudential examples; 2 for the “sequenced” verdict.
+
+**Transition:** Next, Lesson 8 establishes exchange-rate quotation and percentage-change mechanics.
+
+---
 
 ---
 
 ## Lesson 8 - Exchange-rate quotation and percentage-change calculations
 
-**Progress: 8/20 | Stage: Foundation | Subtopic: Direct quotes, inverses and appreciation arithmetic**
+Progress: 8/20 | Stage: Foundation | Subtopic: Direct quotes, inverses and appreciation arithmetic
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical exchange-rate calculations, Ramesh Singh exchange-rate chapter and RBI reference-rate conventions queried
 CA search: "RBI reference rate rupee market determined exchange rate methodology 2026"
-CA found: RBI official material retrieved 24 September 2026 continues to describe the rupee as market-determined; calculations below are stable and use hypothetical rates
+CA found: RBI official material retrieved 3 October 2026 continues to describe the rupee as market-determined; calculations below are stable and use hypothetical rates
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - name the denominator before naming the movement
@@ -1243,56 +1046,12 @@ transaction direction.
 9. A dollar buyer pays the ask.
 10. "The exchange rate rose" is incomplete without quotation direction.
 
-### Practice - read before calculating
+### Responsive Mains drill — 10 marks | Ceiling: 150 words
 
-**MCQ 20.** The rate moves from ₹82/USD to ₹86/USD. Which statement is correct?
-
-A. The rupee appreciates because the numerical quote rises.
-B. The dollar depreciates by exactly 4%.
-C. Both currencies depreciate.
-D. The rupee depreciates because more rupees are required per dollar.
-
-**Answer: D**
-
-- **A is wrong:** in a rupees-per-dollar quote, a higher number means a weaker rupee.
-- **B is wrong:** the dollar appreciates against the rupee.
-- **C is wrong:** bilateral movements are relative; one strengthens as the other weakens.
-- **D is correct:** the home-currency cost of one dollar has increased.
-
-**MCQ 21.** A dealer quotes ₹83.20/83.35 per USD. An importer buying dollars will
-normally transact at:
-
-A. ₹83.35 per USD
-B. ₹83.20 per USD
-C. the arithmetic average by right
-D. whichever side was yesterday's closing rate
-
-**Answer: A**
-
-- **A is correct:** the dealer sells dollars at the ask.
-- **B is wrong:** that is the dealer's dollar-buying bid.
-- **C is wrong:** the midpoint is an analytical price, not the automatic customer execution rate.
-- **D is wrong:** the current quoted side governs the transaction.
-
-**MCQ 22.** The rupee moves from ₹80/USD to ₹88/USD. Its percentage depreciation using
-the initial direct quote as base is:
-
-A. 8%
-B. 10%
-C. 11%
-D. 12.5%
-
-**Answer: B**
-
-- **A is wrong:** the change is ₹8, but the percentage is not 8%.
-- **B is correct:** 8/80 x 100 = 10%.
-- **C is wrong:** it uses neither the correct numerator nor base.
-- **D is wrong:** it reverses the ratio.
-
-**Mains micro-model - 10 marks:** *Why must exchange-rate analysis begin with the
+**Mains prompt:** *Why must exchange-rate analysis begin with the
 quotation convention?*
 
-**Model answer:** A numerical rise can mean appreciation or depreciation depending on
+**Indicative answer:** A numerical rise can mean appreciation or depreciation depending on
 which currency is in the numerator. In the Indian direct quote, rupees per dollar, a
 rise means more rupees are needed for one dollar and hence rupee depreciation. The
 inverse quote falls. Percentage changes are also asymmetric because the starting base
@@ -1300,156 +1059,33 @@ changes. Correct quotation is therefore necessary before assessing import cost, 
 revenue, foreign debt, inflation or competitiveness. It also prevents bid-ask errors:
 an importer buying dollars pays the dealer's ask, not the bid.
 
-**Transition:** Bilateral quotes are only the first step. Trade and finance often
-require deriving a third currency price from two observed rates.
+
+### Concept check
+
+**Question:** What does a move from ₹80/USD to ₹88/USD mean?
+
+**Model answer:** The rupee depreciates 10 per cent in the direct quote; the reciprocal rupee value falls about 9.09 per cent.
+
+**Misconception to avoid:** Always state the quote.
+
+### Unique scoring rubric
+
+2 marks for stating quote and units; 3 for correct appreciation/depreciation direction; 2 for percentage-change base discipline; 2 for bid-ask or cross-rate application; 1 for the operational rule.
+
+**Transition:** Next, Lesson 9 compares fixed, floating, pegged and managed exchange-rate regimes.
 
 ---
 
-## Lesson 9 - Cross-rates, spreads and triangular consistency
-
-**Progress: 9/20 | Stage: Core | Subtopic: Deriving one currency pair from two others**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical numerical gaps, exchange-rate workbook and standard cross-rate mechanics queried
-CA search: "RBI foreign exchange market cross currency reference rates methodology"
-CA found: No separate mutable claim is required; the cross-rate identities are stable and checked against official-market conventions retrieved 24 September 2026
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual - cancel the common currency like a unit
-
-```text
-₹83        USD 1
-----   x   ----      = ₹89.64 per EUR
-USD 1      EUR 0.9259
-
-Equivalent shortcut:
-₹83/USD x USD 1.08/EUR = ₹89.64/EUR
-```
-
-### Unit-first method
-
-Suppose:
-
-- ₹83 per USD
-- USD 1.08 per EUR
-
-Then:
-
-```text
-₹/EUR = ₹/USD x USD/EUR
-      = 83 x 1.08
-      = ₹89.64 per EUR
-```
-
-Writing units makes the dollar cancel. If units do not cancel, the formula is upside
-down.
-
-### Triangular consistency
-
-If the market simultaneously quotes:
-
-- ₹83/USD;
-- USD 1.08/EUR; and
-- ₹92/EUR,
-
-the implied ₹/EUR rate is ₹89.64, not ₹92. Ignoring transaction costs, a triangular
-arbitrage opportunity exists. Actual dealers compare bid and ask rates, funding costs,
-settlement risk and execution speed before concluding that profit is available.
-
-### Bid-ask cross-rate
-
-Suppose:
-
-- USD/₹ is represented for simplicity as ₹83.00-83.10 per USD;
-- EUR/USD is USD 1.0790-1.0810 per EUR.
-
-The conservative customer-facing cross bid and ask require combining the correct sides,
-not multiplying midpoints. At UPSC level, the essential insight is that spreads widen
-the no-arbitrage band.
-
-### Currency conversion chain
-
-An Indian tourist needs EUR 1,000. At ₹83/USD and USD 1.08/EUR:
-
-1. Dollar requirement = 1,000 x 1.08 = USD 1,080.
-2. Rupee requirement = 1,080 x 83 = ₹89,640.
-3. Fees and dealer spreads would raise the actual amount.
-
-### UPSC integration
-
-- **Numeracy use:** cross-rates connect quote direction, units and real transactions.
-- **Trap:** multiplying two numbers without writing units.
-- **Inference:** persistent large discrepancies are normally closed quickly in liquid
-  markets, but controls and transaction frictions can create segmentation.
-- **Stable lesson:** all rates are hypothetical.
-
-### Revision notes
-
-1. A cross-rate is derived from two other currency pairs.
-2. Write currencies as units.
-3. Multiply when the common currency cancels.
-4. Invert a quote when units do not cancel.
-5. Triangular consistency links three bilateral rates.
-6. Apparent arbitrage must exceed spreads and costs.
-7. Bid and ask cannot be replaced casually by the midpoint.
-8. A customer conversion includes dealer margins.
-9. Cross-rate mistakes are usually orientation mistakes.
-10. Check the final unit before accepting the number.
-
-### Practice - make the units cancel
-
-**MCQ 23.** If ₹84/USD and USD 1.10/EUR, the implied rate is:
-
-A. ₹76.36/EUR
-B. ₹84.00/EUR
-C. ₹92.40/EUR
-D. ₹110.00/EUR
-
-**Answer: C**
-
-- **A is wrong:** it divides when the units require multiplication.
-- **B is wrong:** it ignores the euro-dollar conversion.
-- **C is correct:** 84 x 1.10 = ₹92.40 per euro.
-- **D is wrong:** it treats 1.10 as 110 rupees.
-
-**MCQ 24.** Why can a quoted triangular mismatch fail to yield a risk-free profit?
-
-A. Cross-rates are illegal.
-B. Currency markets never allow simultaneous transactions.
-C. Every currency has the same bid and ask.
-D. Bid-ask spreads, fees, funding and execution risk may exceed the apparent gap.
-
-**Answer: D**
-
-- **A is wrong:** cross-currency trading is a normal market activity.
-- **B is wrong:** simultaneous or near-simultaneous execution is routinely attempted.
-- **C is wrong:** spreads mean buying and selling prices differ.
-- **D is correct:** only a discrepancy beyond total transaction frictions is exploitable.
-
-**Mains micro-model - 10 marks:** *Explain the economic importance of cross-rate
-consistency.*
-
-**Model answer:** Cross-rates ensure that bilateral exchange prices form a coherent
-system. If the rupee-dollar and euro-dollar rates imply a rupee-euro rate materially
-different from the observed quote, traders can buy through the cheaper currency path
-and sell through the dearer one. Such arbitrage aligns prices and improves market
-efficiency. However, the comparison must use executable bid and ask rates and account
-for fees, funding, settlement and controls. Thus, a numerical mismatch is not by itself
-a guaranteed profit.
-
-**Transition:** Market calculations occur inside an exchange-rate regime. The regime
-determines who bears adjustment and how much discretion the central bank retains.
-
 ---
 
-## Lesson 10 - Fixed, floating, pegged and managed exchange-rate regimes
+## Lesson 9 - Fixed, floating, pegged and managed exchange-rate regimes
 
-**Progress: 10/20 | Stage: Core | Subtopic: Rules, discretion and India's managed float**
+Progress: 9/20 | Stage: Core | Subtopic: Rules, discretion and India's managed float
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical exchange-rate regimes, Ramesh Singh, RBI exchange-rate policy statements and 1991/1993 history queried
 CA search: "RBI India market determined exchange rate no target band excessive volatility 2026"
-CA found: RBI official material retrieved 24 September 2026 describes a market-determined rupee with intervention for orderly conditions rather than a pre-announced target or band
+CA found: RBI official material retrieved 3 October 2026 describes a market-determined rupee with intervention for orderly conditions rather than a pre-announced target or band
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - who promises what?
@@ -1480,7 +1116,7 @@ India moved from a heavily administered system through the 1991 crisis reforms, 
 Liberalised Exchange Rate Management System in 1992, and a unified market-determined
 rate in 1993. The rupee is now commonly described as a **managed float**.
 
-✅ RBI's official position, as retrieved on 24 September 2026, is that the exchange
+✅ RBI's official position, as retrieved on 3 October 2026, is that the exchange
 rate is market-determined and intervention seeks to contain excessive volatility and
 maintain orderly market conditions, without a predetermined target or band.
 
@@ -1526,58 +1162,12 @@ path, but does not automatically transform the regime into a legal peg.
 9. Pegs use reserves and policy adjustment to defend the rate.
 10. Floats shift more adjustment into the currency price.
 
-### Practice - identify the commitment
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 25.** Which event is properly called a devaluation?
-
-A. The authority officially lowers the currency's fixed parity.
-B. The market price of the currency falls under a float.
-C. Domestic inflation rises faster than foreign inflation.
-D. A dealer widens the bid-ask spread.
-
-**Answer: A**
-
-- **A is correct:** devaluation is an official parity change in a fixed/pegged system.
-- **B is wrong:** that is depreciation.
-- **C is wrong:** it may affect the real exchange rate but is not itself devaluation.
-- **D is wrong:** a wider spread changes trading cost, not official parity.
-
-**MCQ 26.** India's present exchange-rate arrangement is best characterised as:
-
-A. a currency board with full reserve backing
-B. a market-determined managed float without a pre-announced target band
-C. a permanent one-for-one dollar peg
-D. a legally free float with no RBI intervention
-
-**Answer: B**
-
-- **A is wrong:** India does not operate a currency board.
-- **B is correct:** market formation coexists with intervention for orderly conditions.
-- **C is wrong:** no permanent dollar parity is promised.
-- **D is wrong:** RBI can and does intervene.
-
-**Block checkpoint - price and regime:** The next item joins market pressure to the
-central bank's operational commitment.
-
-**MCQ 27.** Under a fixed parity, persistent excess demand for foreign currency most
-directly forces the central bank to:
-
-A. ignore the parity and call the system fixed
-B. print foreign currency
-C. sell reserves or tighten/adjust policy to defend the rate
-D. record the pressure only as errors and omissions
-
-**Answer: C**
-
-- **A is wrong:** failure to defend contradicts the commitment.
-- **B is wrong:** a central bank cannot issue another country's currency.
-- **C is correct:** reserve sales and policy adjustment supply foreign currency or reduce demand.
-- **D is wrong:** statistical reconciliation cannot satisfy market demand.
-
-**Mains micro-model - 15 marks:** *Why does India operate a managed float rather than
+**Mains prompt:** *Why does India operate a managed float rather than
 promise either a hard peg or a pure float?*
 
-**Model answer:** A hard peg can reduce exchange uncertainty but requires reserve and
+**Indicative answer:** A hard peg can reduce exchange uncertainty but requires reserve and
 interest-rate adjustment and can conflict with domestic monetary objectives. A pure
 float provides flexibility but may permit disorderly overshooting, imported inflation
 and stress on unhedged balance sheets. India's managed float retains market price
@@ -1586,19 +1176,33 @@ build or use reserves. The trade-off is that intervention cannot permanently ove
 fundamentals and may complicate liquidity management. Credibility therefore depends on
 avoiding a hidden fixed target while allowing two-way exchange risk.
 
-**Transition:** A weaker currency is not merely a price on a screen. It passes through
-contracts, input costs, inflation and balance sheets with different lags.
+
+### Concept check
+
+**Question:** Why is India a managed float?
+
+**Model answer:** Market pricing coexists with RBI action against excessive volatility, without a fixed target or band.
+
+**Misconception to avoid:** Intervention does not prove a peg.
+
+### Unique scoring rubric
+
+3 marks for comparing fixed, floating and managed regimes; 4 for India’s transition and present framework; 3 for shock-absorption benefits; 3 for intervention, reserve and autonomy limits; 2 for a justified managed-float verdict.
+
+**Transition:** Next, Lesson 10 traces depreciation pass-through into inflation and balance sheets.
 
 ---
 
-## Lesson 11 - Depreciation pass-through, inflation and balance-sheet effects
+---
 
-**Progress: 11/20 | Stage: Core | Subtopic: From currency price to domestic outcomes**
+## Lesson 10 - Depreciation pass-through, inflation and balance-sheet effects
+
+Progress: 10/20 | Stage: Core | Subtopic: From currency price to domestic outcomes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical depreciation mechanisms, Ramesh Singh, Economic Survey external-sector discussion and ECB vulnerability notes queried
 CA search: "RBI exchange rate pass through imported inflation India 2026"
-CA found: No single current coefficient is imported; mechanisms are stable and official sources were retrieved 24 September 2026
+CA found: No single current coefficient is imported; mechanisms are stable and official sources were retrieved 3 October 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - depreciation moves through several gates
@@ -1690,70 +1294,12 @@ when inflation expectations are unanchored.
 9. Inflation expectations affect second-round transmission.
 10. Relative currency movements affect competitiveness.
 
-### Practice - follow the transmission
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 28.** Which condition most weakens immediate retail-price pass-through from a
-rupee depreciation?
-
-A. All import contracts reprice instantly.
-B. Firms have no inventory and no hedges.
-C. Imported inputs form the entire final cost.
-D. Importers temporarily absorb the currency change in margins.
-
-**Answer: D**
-
-- **A is wrong:** immediate repricing strengthens the first-round effect.
-- **B is wrong:** absence of buffers speeds transmission.
-- **C is wrong:** a higher imported-cost share raises exposure.
-- **D is correct:** margin compression can delay or reduce retail pass-through.
-
-**MCQ 29.** A company has dollar debt but earns nearly all revenue in rupees. Rupee
-depreciation most directly:
-
-A. raises the rupee value of its unhedged debt service
-B. eliminates its contractual liability
-C. converts debt into equity
-D. lowers the dollar principal automatically
-
-**Answer: A**
-
-- **A is correct:** more rupees are needed to buy each dollar for repayment.
-- **B is wrong:** exchange-rate movement does not cancel the contract.
-- **C is wrong:** currency translation does not change the legal instrument.
-- **D is wrong:** dollar principal is unchanged unless the lender restructures it.
-
-**MCQ 30.** Why may an exporter fail to gain from depreciation?
-
-A. Export receipts can never be converted into rupees.
-B. Imported input costs and foreign-currency liabilities may rise.
-C. Depreciation legally prohibits exports.
-D. Every competitor's currency must appreciate.
-
-**Answer: B**
-
-- **A is wrong:** conversion is the source of the potential rupee-revenue gain.
-- **B is correct:** cost and balance-sheet effects can offset the price advantage.
-- **C is wrong:** depreciation is a price movement, not an export ban.
-- **D is wrong:** competitor currencies may move in either direction.
-
-**MCQ 31.** Which sequence best represents a second-round inflation effect?
-
-A. Depreciation -> lower import price -> lower wage demand
-B. Depreciation -> debt forgiveness -> lower money supply
-C. Higher imported costs -> broader prices -> wage/expectation feedback
-D. Higher imported costs -> automatic fall in every tax rate
-
-**Answer: C**
-
-- **A is wrong:** depreciation generally raises, not lowers, a fixed foreign-currency invoice.
-- **B is wrong:** currency movement does not forgive debt.
-- **C is correct:** initial cost pressure can spread through prices and expectations.
-- **D is wrong:** tax policy does not adjust automatically.
-
-**Mains micro-model - 15 marks:** *Depreciation redistributes income and risk before
+**Mains prompt:** *Depreciation redistributes income and risk before
 it changes trade volumes. Explain.*
 
-**Model answer:** A weaker rupee immediately changes domestic-currency values. Importers
+**Indicative answer:** A weaker rupee immediately changes domestic-currency values. Importers
 pay more for a fixed foreign invoice, exporters receive more rupees per dollar, and
 unhedged borrowers face higher rupee debt service. These effects are redistributed
 through contracts, hedges, inventories, margins and taxes before consumers see the full
@@ -1763,19 +1309,33 @@ hurt an oil-intensive producer and stress a dollar borrower simultaneously. Poli
 must assess sectoral balance sheets and inflation expectations rather than assume a
 uniform export stimulus.
 
-**Transition:** Even when depreciation eventually improves net exports, contracts and
-quantity lags can make the trade balance worsen first.
+
+### Concept check
+
+**Question:** How does depreciation affect prices, exporters and debtors?
+
+**Model answer:** It raises rupee import invoices, may raise exporters’ rupee receipts and increases unhedged foreign-debt service; mediation differs by sector.
+
+**Misconception to avoid:** Depreciation is not a uniform export subsidy.
+
+### Unique scoring rubric
+
+3 marks for the pass-through chain; 3 for sectoral income redistribution; 3 for foreign-currency balance-sheet effects; 3 for contracts, hedges and lags; 3 for linking these effects conditionally to trade volumes.
+
+**Transition:** Next, Lesson 11 tests trade adjustment through Marshall-Lerner elasticities and the J-curve.
 
 ---
 
-## Lesson 12 - Marshall-Lerner condition and the J-curve
+---
 
-**Progress: 12/20 | Stage: Advanced | Subtopic: When depreciation improves the trade balance**
+## Lesson 11 - Marshall-Lerner condition and the J-curve
+
+Progress: 11/20 | Stage: Core | Subtopic: When depreciation improves the trade balance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical trade-adjustment gap, Ramesh Singh OCR and local external-sector reference queried
 CA search: "India rupee depreciation J curve export import elasticity recent RBI"
-CA found: No current elasticity is asserted; the condition and lag logic are stable and sources were checked 24 September 2026
+CA found: No current elasticity is asserted; the condition and lag logic are stable and sources were checked 3 October 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - price moves now, quantities later
@@ -1865,54 +1425,12 @@ because quantities changed with a lag.
 9. The J-curve is a time-path hypothesis.
 10. A weaker currency does not guarantee a stronger trade balance.
 
-### Practice - distinguish condition from path
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 32.** The Marshall-Lerner condition is most directly concerned with:
-
-A. reserve composition
-B. fiscal multipliers
-C. the legal convertibility of the currency
-D. export and import demand elasticities
-
-**Answer: D**
-
-- **A is wrong:** reserve composition concerns external liquidity management.
-- **B is wrong:** fiscal multipliers concern output effects of fiscal policy.
-- **C is wrong:** legal permission is not the elasticity condition.
-- **D is correct:** the condition asks whether quantity responses are strong enough.
-
-**MCQ 33.** Why may the trade balance worsen immediately after depreciation?
-
-A. Contracted quantities adjust slowly while the domestic-currency import bill rises.
-B. Depreciation instantly eliminates export demand.
-C. Import prices must fall in domestic currency.
-D. The central bank reclassifies imports as financial flows.
-
-**Answer: A**
-
-- **A is correct:** price valuation changes precede quantity substitution.
-- **B is wrong:** export demand may eventually rise rather than disappear.
-- **C is wrong:** a fixed foreign-currency price becomes costlier in domestic currency.
-- **D is wrong:** classification does not change with the exchange rate.
-
-**MCQ 34.** Which condition makes a later J-curve improvement less likely?
-
-A. Exporters possess spare capacity.
-B. Imports are essential and weakly responsive to price.
-C. Buyers can substitute domestic products rapidly.
-D. Foreign demand for exports is highly elastic.
-
-**Answer: B**
-
-- **A is wrong:** spare capacity enables export quantity response.
-- **B is correct:** inelastic imports resist expenditure compression.
-- **C is wrong:** substitution helps lower import volume.
-- **D is wrong:** elastic foreign demand strengthens export response.
-
-**Mains micro-model - 15 marks:** *Why is exchange-rate depreciation an incomplete
+**Mains prompt:** *Why is exchange-rate depreciation an incomplete
 instrument for correcting a trade deficit?*
 
-**Model answer:** Depreciation improves price competitiveness only if export and import
+**Indicative answer:** Depreciation improves price competitiveness only if export and import
 quantities respond sufficiently. Under the Marshall-Lerner condition, the sum of
 relevant demand elasticities must exceed one. In the short run, fixed contracts and
 essential imports can raise the domestic-currency import bill before quantities adjust,
@@ -1921,19 +1439,33 @@ imported inputs, global demand, invoicing currency and competitors' exchange rat
 Therefore, depreciation must be complemented by energy diversification, logistics,
 quality, market access and domestic productive capacity.
 
-**Transition:** Bilateral depreciation can mislead if the currency strengthens against
-other partners or domestic prices rise. Effective exchange rates solve that comparison.
+
+### Concept check
+
+**Question:** Why can depreciation worsen trade first?
+
+**Model answer:** Prices and contracts move before quantities; later improvement requires sufficient elasticities, substitution and capacity.
+
+**Misconception to avoid:** Marshall-Lerner is conditional and lagged.
+
+### Unique scoring rubric
+
+3 marks for Marshall-Lerner logic; 3 for the J-curve sequence; 3 for supply capacity and imported-input constraints; 3 for inflation or debt side effects; 3 for a conditional policy conclusion.
+
+**Transition:** Next, Lesson 12 moves from bilateral rates to NEER, REER and competitiveness.
 
 ---
 
-## Lesson 13 - NEER, REER and competitiveness calculations
+---
 
-**Progress: 13/20 | Stage: Advanced | Subtopic: Trade-weighted nominal and real currency indices**
+## Lesson 12 - NEER, REER and competitiveness calculations
+
+Progress: 12/20 | Stage: Core | Subtopic: Trade-weighted nominal and real currency indices
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical NEER/REER section, RBI methodology and 2022 Prelims Q2 queried
 CA search: "RBI 40 currency NEER REER base 2015-16 CPI methodology"
-CA found: RBI methodology retrieved 24 September 2026 uses a 40-currency basket, CPI-based relative prices and base 2015-16
+CA found: RBI methodology retrieved 3 October 2026 uses a 40-currency basket, CPI-based relative prices and base 2015-16
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - bilateral price becomes a weighted competitiveness index
@@ -1961,7 +1493,7 @@ NEER = product of (bilateral-rate index ^ trade weight)
 ```
 
 Official construction is more detailed. ✅ RBI's revised methodology, retrieved on
-24 September 2026, uses a 40-currency basket with 2015-16 as base.
+3 October 2026, uses a 40-currency basket with 2015-16 as base.
 
 ### REER
 
@@ -2026,56 +1558,12 @@ tariffs, contracts and non-price factors matter.
 9. REER indicates price competitiveness, not total competitiveness.
 10. Productivity and logistics remain important.
 
-### Practice - separate nominal from real
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 35.** Which statement best defines REER?
-
-A. A bilateral spot exchange rate with the US dollar
-B. The total stock of foreign-currency assets
-C. A trade-weighted nominal exchange-rate index adjusted for relative prices
-D. The interest-rate differential on external debt
-
-**Answer: C**
-
-- **A is wrong:** REER uses a basket, not one bilateral rate.
-- **B is wrong:** that describes part of reserves.
-- **C is correct:** price adjustment converts effective nominal movement into a real index.
-- **D is wrong:** interest differentials may affect flows but do not define REER.
-
-**MCQ 36.** Under a convention where a higher REER means appreciation, domestic
-inflation above partner inflation, other things equal, tends to:
-
-A. create a nominal depreciation by definition
-B. leave REER mechanically unchanged
-C. convert REER into an import-cover ratio
-D. appreciate the REER
-
-**Answer: D**
-
-- **A is wrong:** relative prices can move without an immediate nominal-rate change.
-- **B is wrong:** the domestic/foreign price ratio rises.
-- **C is wrong:** reserve adequacy is a different concept.
-- **D is correct:** higher relative domestic prices raise the real index under the stated convention.
-
-**MCQ 37.** NEER falls to 96, but domestic prices rise enough relative to foreign prices
-to make REER 100. The best inference is:
-
-A. nominal depreciation produced no net real depreciation in the simplified calculation
-B. foreign reserves must equal zero
-C. the current account must be in surplus
-D. all Indian exports lost market share
-
-**Answer: A**
-
-- **A is correct:** relative inflation offset the nominal index movement.
-- **B is wrong:** NEER/REER do not determine the reserve stock.
-- **C is wrong:** the current account depends on many flows and lags.
-- **D is wrong:** the index does not reveal every product's market share.
-
-**Mains micro-model - 15 marks:** *Why is REER more informative than a bilateral nominal
+**Mains prompt:** *Why is REER more informative than a bilateral nominal
 rate, yet insufficient as a complete measure of competitiveness?*
 
-**Model answer:** REER improves on a bilateral quote by weighting movements against
+**Indicative answer:** REER improves on a bilateral quote by weighting movements against
 multiple trading partners and adjusting for relative prices. It can reveal that a
 nominal depreciation has been offset by higher domestic inflation. However, it remains
 an index based on selected currencies, weights, prices and orientation. Export
@@ -2084,159 +1572,28 @@ standards, market access and supply capacity. REER should therefore be used as a
 price-competitiveness signal, not as a mechanical target or a complete verdict on
 external performance.
 
-**Transition:** If policymakers try to control the exchange rate while keeping monetary
-autonomy, the degree of capital mobility becomes the third side of a hard constraint.
+
+### Concept check
+
+**Question:** How can nominal depreciation coexist with real appreciation?
+
+**Model answer:** Relative domestic inflation can erase the nominal gain when REER adjusts NEER for partner-price differences.
+
+**Misconception to avoid:** REER is not total competitiveness.
+
+### Unique scoring rubric
+
+3 marks for NEER/REER definitions and orientation; 4 for basket and relative-price mechanics; 3 for why REER improves on a bilateral quote; 3 for non-price competitiveness limits; 2 for a qualified conclusion.
+
+**Transition:** Next, Lesson 13 traces RBI intervention through central-bank balance-sheet entries and domestic liquidity.
 
 ---
 
-## Lesson 14 - The impossible trinity and India's policy mix
-
-**Progress: 14/20 | Stage: Advanced | Subtopic: Choosing two-and-a-half corners rather than three absolutes**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical trilemma analysis, convertibility framework and RBI managed-float policy queried
-CA search: "India monetary policy exchange rate capital flows impossible trinity RBI 2026"
-CA found: Current RBI regime evidence retrieved 24 September 2026 supports market determination with intervention; the trilemma itself is a stable macroeconomic constraint
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual - the policy triangle
-
-```text
-               FIXED EXCHANGE RATE
-                      /\
-                     /  \
-                    /    \
-                   /      \
-                  /        \
- FREE CAPITAL MOBILITY ---- MONETARY AUTONOMY
-
-Choose any two fully.
-With all three, arbitrage pressure breaks one corner.
-```
-
-### The mechanism
-
-Assume:
-
-- the rupee is credibly fixed to the dollar;
-- capital moves freely;
-- RBI tries to keep India's interest rate below the US rate.
-
-Investors shift toward the higher dollar return. To defend the fixed rupee rate, RBI
-sells dollars and absorbs rupees. Unless policy changes or controls bind, reserves fall.
-The attempt to maintain all three commitments cannot persist indefinitely.
-
-### Three pure corners
-
-| Pair chosen | Corner sacrificed | Example logic |
-|---|---|---|
-| fixed rate + free capital | monetary autonomy | interest conditions follow anchor |
-| fixed rate + monetary autonomy | free capital mobility | controls limit arbitrage |
-| free capital + monetary autonomy | fixed rate | currency must adjust |
-
-Real economies operate between corners. Controls are partial, exchange rates are
-managed, and monetary autonomy is constrained rather than zero.
-
-### India's calibrated middle
-
-India combines:
-
-- a market-determined but managed exchange rate;
-- substantial but not complete capital mobility;
-- an independent inflation-targeting monetary framework.
-
-Intervention, macroprudential regulation, prudential limits and reserve buffers create
-room, but they do not abolish the trilemma. ⚠️ India's configuration is therefore best
-understood as a managed compromise rather than a violation of the theorem.
-
-### Policy case
-
-Global rates rise sharply while domestic growth weakens.
-
-- Cutting domestic rates may intensify capital outflow and rupee pressure.
-- Defending an exact rate may require reserve sales and tighter conditions.
-- Allowing orderly depreciation preserves more monetary autonomy.
-- Temporary liquidity, prudential and flow-management measures may reduce disruption.
-
-The correct answer identifies the trade-off instead of claiming one instrument can
-simultaneously maximise every objective.
-
-### UPSC integration
-
-- **PYQ:** 2022 Q61 provides a Fed-tightening setting.
-- **Trap:** reserves postpone and smooth adjustment; they do not repeal arbitrage.
-- **Diagram:** draw the triangle and place India's calibrated mix inside it.
-- **Answer use:** distinguish full corner solutions from real-world intermediate
-  regimes.
-
-### Revision notes
-
-1. The trilemma has exchange-rate stability, capital mobility and monetary autonomy.
-2. All three cannot be fully achieved together.
-3. A fixed rate plus free capital constrains domestic rates.
-4. Controls can preserve autonomy under a peg.
-5. A float allows more monetary autonomy with open capital.
-6. Real regimes lie between pure corners.
-7. India manages the exchange rate without a fixed target.
-8. India's capital account is calibrated, not fully open.
-9. Reserves buy adjustment time.
-10. Macroprudential tools can reduce, not erase, the trade-off.
-
-### Practice - identify the sacrificed corner
-
-**MCQ 38.** A country insists on a fixed exchange rate and free capital mobility. The
-impossible trinity predicts the greatest constraint on:
-
-A. merchandise classification
-B. independent monetary policy
-C. the definition of residence
-D. double-entry accounting
-
-**Answer: B**
-
-- **A is wrong:** trade classification is unaffected.
-- **B is correct:** interest-rate divergence triggers arbitrage and reserve pressure.
-- **C is wrong:** residence rules do not solve the policy conflict.
-- **D is wrong:** accounting remains valid under every regime.
-
-**Block checkpoint - transmission and policy space:** The next item integrates
-convertibility, managed flexibility and monetary autonomy.
-
-**MCQ 39.** Which description best fits India's practical trilemma management?
-
-A. Full capital mobility, a permanent dollar peg and unconstrained monetary autonomy
-B. No capital flows and no exchange-rate movement
-C. Managed flexibility, calibrated capital mobility and monetary autonomy with constraints
-D. A currency board with no domestic policy discretion
-
-**Answer: C**
-
-- **A is wrong:** the three full commitments are mutually inconsistent and not India's regime.
-- **B is wrong:** India has large cross-border flows and a moving rate.
-- **C is correct:** India occupies an intermediate, managed policy configuration.
-- **D is wrong:** India does not operate a currency board.
-
-**Mains micro-model - 15 marks:** *How does the impossible trinity illuminate India's
-exchange-rate policy?*
-
-**Model answer:** The trilemma states that a country cannot fully combine a fixed
-exchange rate, free capital mobility and independent monetary policy. India preserves
-monetary autonomy and permits substantial cross-border capital while allowing the
-rupee to move. RBI intervention smooths disorderly conditions rather than defending a
-declared parity, while prudential rules and calibrated convertibility moderate capital
-mobility. Reserves and macroprudential tools expand room for manoeuvre but cannot
-permanently defeat interest differentials and fundamentals. India's policy is therefore
-a managed compromise: two-way currency flexibility, selective intervention and
-sequenced openness.
-
-**Transition:** The trilemma identifies the constraint. We now trace the exact
-balance-sheet entries when RBI buys or sells dollars within that constraint.
-
 ---
 
-## Lesson 15 - RBI intervention through central-bank balance sheets
+## Lesson 13 - RBI intervention through central-bank balance sheets
 
-**Progress: 15/20 | Stage: Advanced | Subtopic: Spot intervention, liquidity and reserve change**
+Progress: 13/20 | Stage: Core | Subtopic: Spot intervention, liquidity and reserve change
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical intervention mechanics, RBI reserve-management report and 2025 RBI-income PYQ cross-link queried
@@ -2325,57 +1682,12 @@ official key. The question is cross-linked, not a direct BoP-accounting PYQ.
 9. Headline reserves do not show every forward commitment.
 10. Sterilisation is a separate offsetting domestic operation.
 
-### Practice - draw the balance sheet
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 40.** RBI sells dollars from reserves to banks in the spot market. The immediate
-unsterilised effect is:
-
-A. foreign assets rise and rupee liquidity rises
-B. foreign assets rise and rupee liquidity falls
-C. foreign assets fall and rupee liquidity rises
-D. foreign assets fall and rupee liquidity is absorbed
-
-**Answer: D**
-
-- **A is wrong:** it describes neither side of a dollar sale.
-- **B is wrong:** foreign assets do not rise when RBI delivers dollars.
-- **C is wrong:** banks pay rupees, so liquidity is not injected.
-- **D is correct:** RBI's foreign assets and rupee liabilities both contract.
-
-**MCQ 41.** RBI buys dollars during a capital-inflow surge. Which balance-sheet mapping
-is correct?
-
-A. Foreign assets rise and bank reserves rise.
-B. Foreign assets fall and currency in circulation must rise.
-C. Government securities automatically disappear.
-D. External debt is legally cancelled.
-
-**Answer: A**
-
-- **A is correct:** RBI acquires dollars and credits rupee balances.
-- **B is wrong:** a purchase increases, not decreases, foreign assets.
-- **C is wrong:** a separate sterilisation operation would be needed to alter domestic securities.
-- **D is wrong:** intervention does not cancel borrowers' liabilities.
-
-**MCQ 42.** Why should analysts examine RBI's forward position as well as headline
-reserves?
-
-A. Forward contracts are recorded as merchandise imports.
-B. They create future foreign-exchange delivery commitments or receivables.
-C. They convert the rupee into an SDR.
-D. They eliminate valuation effects.
-
-**Answer: B**
-
-- **A is wrong:** derivatives are financial positions, not goods.
-- **B is correct:** future legs can change usable liquidity and intervention exposure.
-- **C is wrong:** a contract does not change the monetary unit.
-- **D is wrong:** reserve assets remain subject to currency and price valuation.
-
-**Mains micro-model - 15 marks:** *Explain how foreign-exchange intervention can alter
+**Mains prompt:** *Explain how foreign-exchange intervention can alter
 domestic monetary conditions.*
 
-**Model answer:** When RBI buys dollars, its foreign assets rise and it credits banks
+**Indicative answer:** When RBI buys dollars, its foreign assets rise and it credits banks
 with rupees, expanding domestic liquidity. When it sells dollars, foreign assets fall
 and banks pay rupees, contracting liquidity. Thus, intervention aimed at exchange-market
 order can move money-market conditions even if the policy rate is unchanged. RBI may
@@ -2383,19 +1695,33 @@ then conduct a separate sterilisation or liquidity operation to align domestic
 conditions with monetary objectives. Spot, forward and swap positions should be read
 together because future delivery commitments affect the effective exposure.
 
-**Transition:** Intervention changes liquidity automatically. Sterilisation asks how
-the central bank offsets that liquidity without undoing the foreign-exchange leg.
+
+### Concept check
+
+**Question:** What happens when RBI buys dollars?
+
+**Model answer:** RBI foreign assets and bank reserves rise, so unsterilised rupee liquidity expands.
+
+**Misconception to avoid:** Dollar purchase injects rupees.
+
+### Unique scoring rubric
+
+4 marks for correct dollar-purchase and dollar-sale balance-sheet entries; 3 for liquidity and interest-rate transmission; 3 for spot, forward or swap channels; 3 for intervention objectives and constraints; 2 for the monetary-conditions conclusion.
+
+**Transition:** Next, Lesson 14 explains how sterilisation offsets intervention’s liquidity effect and why its limits matter.
 
 ---
 
-## Lesson 16 - Sterilisation instruments, limits and costs
+---
 
-**Progress: 16/20 | Stage: Advanced | Subtopic: Separating exchange-market action from liquidity policy**
+## Lesson 14 - Sterilisation instruments, limits and costs
+
+Progress: 14/20 | Stage: Core | Subtopic: Separating exchange-market action from liquidity policy
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical sterilisation mechanism, Ramesh Singh reserve-cost discussion and RBI liquidity instruments queried
 CA search: "RBI sterilisation forex intervention liquidity government securities standing deposit facility 2026"
-CA found: RBI operating instruments were checked on 24 September 2026; no mutable amount is required for this mechanism lesson
+CA found: RBI operating instruments were checked on 3 October 2026; no mutable amount is required for this mechanism lesson
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - two operations, two objectives
@@ -2490,56 +1816,12 @@ examples are not treated as current.
 9. Sterilisation does not create a permanent exchange-rate guarantee.
 10. Net balance-sheet composition changes even when liquidity is restored.
 
-### Practice - keep the two legs separate
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 43.** RBI buys dollars and then sells domestic government securities of equal
-rupee value. The combined operation most directly:
-
-A. reverses the dollar purchase
-B. eliminates the foreign assets acquired
-C. retains higher foreign assets while offsetting the liquidity injection
-D. converts all bank reserves into currency notes
-
-**Answer: C**
-
-- **A is wrong:** only a dollar sale would reverse the foreign-exchange transaction.
-- **B is wrong:** foreign assets remain on RBI's balance sheet.
-- **C is correct:** the asset mix changes while reserve-money impact is neutralised.
-- **D is wrong:** sterilisation need not alter the form of currency held by the public.
-
-**MCQ 44.** Which is a genuine limit to prolonged sterilisation?
-
-A. Double-entry accounting ceases to apply.
-B. The current account becomes a capital transfer.
-C. A central bank can issue unlimited foreign currency without cost.
-D. Interest, instrument and market-reaction costs can accumulate.
-
-**Answer: D**
-
-- **A is wrong:** accounting identities continue to hold.
-- **B is wrong:** liquidity operations do not reclassify external transactions.
-- **C is wrong:** RBI cannot issue foreign currency.
-- **D is correct:** carrying cost and repeated absorption can constrain the strategy.
-
-**MCQ 45.** If RBI sells dollars and the resulting liquidity absorption is excessive,
-an offsetting sterilisation-style response would be to:
-
-A. inject domestic liquidity through a separate operation
-B. classify the dollar sale as an export
-C. cancel the private sector's foreign debt
-D. increase the official parity under a nonexistent peg
-
-**Answer: A**
-
-- **A is correct:** the liquidity consequence can be offset without undoing the FX sale.
-- **B is wrong:** reserve transactions are financial, not goods exports.
-- **C is wrong:** intervention does not extinguish private contracts.
-- **D is wrong:** India has no pre-announced fixed parity to reset.
-
-**Mains micro-model - 15 marks:** *Sterilisation can reconcile exchange-market action
+**Mains prompt:** *Sterilisation can reconcile exchange-market action
 with monetary control, but only imperfectly. Discuss.*
 
-**Model answer:** A dollar purchase raises RBI foreign assets and injects rupee
+**Indicative answer:** A dollar purchase raises RBI foreign assets and injects rupee
 liquidity. RBI can sell domestic securities or absorb deposits to remove that liquidity
 while retaining the foreign assets. This helps keep money-market conditions aligned
 with the monetary stance. Yet sterilisation has limits: domestic instruments may be
@@ -2548,19 +1830,33 @@ liquidity, and higher domestic rates can attract further inflows. It therefore p
 temporary operational separation between exchange-rate and monetary objectives, not an
 escape from the impossible trinity.
 
-**Transition:** Intervention changes reserve assets, but the published reserve stock
-also contains several components and can move even without a transaction.
+
+### Concept check
+
+**Question:** What does sterilisation change and retain?
+
+**Model answer:** It offsets domestic liquidity through a separate operation but leaves the FX transaction and changed asset mix in place.
+
+**Misconception to avoid:** Sterilisation is not reversal.
+
+### Unique scoring rubric
+
+3 marks for separating intervention from sterilisation; 4 for appropriate absorption/injection instruments; 3 for fiscal, balance-sheet and instrument costs; 3 for repeated-flow, expectation and trilemma limits; 2 for the “imperfectly” verdict.
+
+**Transition:** Next, Lesson 15 decomposes forex reserves and separates transaction changes from valuation changes.
 
 ---
 
-## Lesson 17 - Forex-reserve composition and valuation changes
+---
 
-**Progress: 17/20 | Stage: Core | Subtopic: What reserves contain and why the stock moves**
+## Lesson 15 - Forex-reserve composition and valuation changes
+
+Progress: 15/20 | Stage: Core | Subtopic: What reserves contain and why the stock moves
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: RBI reserve-management report, canonical reserve composition and Ramesh Singh external-sector chapter queried
-CA search: "RBI Report on Management of Foreign Exchange Reserves end March 2026 691.11"
-CA found: RBI's 46th half-yearly reserve-management report states reserves of USD 691.11 billion at end-March 2026; official source retrieved 24 September 2026
+CA search: "RBI weekly statistical supplement foreign exchange reserves 25 September 2026"
+CA found: RBI's release published 2 October 2026 reports reserves of USD 747.557 billion for 25 September 2026; the 46th half-yearly report supplies the management context
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - India's official reserve basket
@@ -2582,8 +1878,20 @@ held in a vault. Gold is valued at prevailing prices under the reporting method.
 holdings and the reserve-tranche position are separate IMF-related components.
 
 ✅ RBI's 46th Half-Yearly Report on Management of Foreign Exchange Reserves, covering
-October 2025-March 2026 and retrieved on 24 September 2026, reported total reserves of
-USD 691.11 billion at end-March 2026. This is a dated stock, not today's live level.
+October 2025-March 2026 and retrieved on 3 October 2026, reported total reserves of
+USD 691.11 billion at end-March 2026. RBI's later weekly release, published on
+2 October 2026, gives this provisional composition for 25 September 2026:
+
+| Component | USD billion |
+|---|---:|
+| Foreign Currency Assets | 615.411 |
+| Gold | 108.701 |
+| SDR holdings | 18.642 |
+| IMF reserve position | 4.804 |
+| **Total reserves** | **747.557** |
+
+The weekly release is the latest official stock available by the cutoff; the half-yearly
+report remains the richer source for management, deployment and adequacy analysis.
 
 ### Transaction versus valuation
 
@@ -2638,8 +1946,8 @@ insurance has a cost.
   holdings.
 - **Trap:** FCA are multi-currency assets expressed in dollars.
 - **Trap:** nominal stock change is not identical to intervention.
-- **Current anchor:** end-March 2026 reserve stock; Q1 valuation decomposition
-  published 1 September 2026.
+- **Current anchor:** 25 September 2026 reserve stock published 2 October; Q1
+  valuation decomposition published 1 September 2026.
 
 ### Revision notes
 
@@ -2652,46 +1960,15 @@ insurance has a cost.
 7. Reserve accumulation can arise from purchases and income.
 8. Reserve management prioritises safety and liquidity.
 9. Return is pursued subject to those constraints.
-10. Insurance and sterilisation have costs.
+10. The 25 September 2026 stock was USD 747.557 billion; headline scale still needs
+    adequacy denominators.
 
-### Practice - reconcile the stock
+### Responsive Mains drill — 10 marks | Ceiling: 150 words
 
-**MCQ 46.** Which item is part of India's official foreign-exchange reserves?
-
-A. Every foreign asset owned by an Indian resident
-B. RBI's reserve-tranche position in the IMF
-C. All outstanding ECBs of Indian firms
-D. The full market capitalisation of foreign-listed Indian companies
-
-**Answer: B**
-
-- **A is wrong:** private external assets are not automatically official reserves.
-- **B is correct:** RTP is one of the four reported reserve components.
-- **C is wrong:** ECBs are external liabilities of borrowers.
-- **D is wrong:** corporate valuation is not a reserve asset of RBI.
-
-**Block checkpoint - intervention and reserves:** The next item tests whether the
-learner can separate active transactions from valuation.
-
-**MCQ 47.** Reserves fall by USD 20 billion in dollar terms while the BoP-basis decline
-is USD 6 billion. The best inference is:
-
-A. RBI necessarily sold USD 20 billion.
-B. The current account must have improved by USD 14 billion.
-C. Valuation and other non-transaction effects account for the remaining USD 14 billion.
-D. Gold and non-dollar assets cannot affect the total.
-
-**Answer: C**
-
-- **A is wrong:** the nominal change includes valuation.
-- **B is wrong:** the difference is not a current-account balance.
-- **C is correct:** -20 minus -6 leaves -14 of non-transaction change.
-- **D is wrong:** gold prices and cross-currency movements can materially revalue reserves.
-
-**Mains micro-model - 10 marks:** *Why should a fall in headline forex reserves not be
+**Mains prompt:** *Why should a fall in headline forex reserves not be
 equated automatically with central-bank intervention?*
 
-**Model answer:** India's reserves include multi-currency FCA, gold, SDR holdings and
+**Indicative answer:** India's reserves include multi-currency FCA, gold, SDR holdings and
 the IMF reserve-tranche position, all reported in dollars. The stock can therefore move
 because RBI buys or sells foreign exchange, assets earn income, government transactions
 occur, gold prices change, or non-dollar currencies move against the dollar. RBI's
@@ -2699,19 +1976,283 @@ Q1 FY2026-27 release, published 1 September 2026, separated a USD 8.1 billion Bo
 decline from a USD 14.4 billion valuation loss. Analysts should distinguish transaction
 change from valuation before inferring policy action.
 
-**Transition:** Two reserve components are often mistaken for currency or IMF loans.
-They need separate institutional definitions.
+
+### Concept check
+
+**Question:** Why can reserves fall without an equal RBI sale?
+
+**Model answer:** Multi-currency and gold valuation, income and transactions all move the dollar stock; BoP-basis change better isolates transactions.
+
+**Misconception to avoid:** Headline reserve change is not intervention.
+
+### Unique scoring rubric
+
+2 marks for reserve composition; 3 for transaction-driven changes; 3 for valuation and income changes using the Q1 reconciliation; 2 for explaining why headline movement cannot identify intervention.
+
+**Transition:** Core is now complete. Next, optional Advanced Lesson 16 derives cross-rates, spreads and triangular consistency.
+
+---
+
+## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+## Lesson 16 - Cross-rates, spreads and triangular consistency
+
+Progress: 16/20 | Stage: Advanced | Subtopic: Deriving one currency pair from two others
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: Canonical numerical gaps, exchange-rate workbook and standard cross-rate mechanics queried
+CA search: "RBI foreign exchange market cross currency reference rates methodology"
+CA found: No separate mutable claim is required; the cross-rate identities are stable and checked against official-market conventions retrieved 3 October 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual - cancel the common currency like a unit
+
+```text
+₹83        USD 1
+----   x   ----      = ₹89.64 per EUR
+USD 1      EUR 0.9259
+
+Equivalent shortcut:
+₹83/USD x USD 1.08/EUR = ₹89.64/EUR
+```
+
+### Unit-first method
+
+Suppose:
+
+- ₹83 per USD
+- USD 1.08 per EUR
+
+Then:
+
+```text
+₹/EUR = ₹/USD x USD/EUR
+      = 83 x 1.08
+      = ₹89.64 per EUR
+```
+
+Writing units makes the dollar cancel. If units do not cancel, the formula is upside
+down.
+
+### Triangular consistency
+
+If the market simultaneously quotes:
+
+- ₹83/USD;
+- USD 1.08/EUR; and
+- ₹92/EUR,
+
+the implied ₹/EUR rate is ₹89.64, not ₹92. Ignoring transaction costs, a triangular
+arbitrage opportunity exists. Actual dealers compare bid and ask rates, funding costs,
+settlement risk and execution speed before concluding that profit is available.
+
+### Bid-ask cross-rate
+
+Suppose:
+
+- USD/₹ is represented for simplicity as ₹83.00-83.10 per USD;
+- EUR/USD is USD 1.0790-1.0810 per EUR.
+
+The conservative customer-facing cross bid and ask require combining the correct sides,
+not multiplying midpoints. At UPSC level, the essential insight is that spreads widen
+the no-arbitrage band.
+
+### Currency conversion chain
+
+An Indian tourist needs EUR 1,000. At ₹83/USD and USD 1.08/EUR:
+
+1. Dollar requirement = 1,000 x 1.08 = USD 1,080.
+2. Rupee requirement = 1,080 x 83 = ₹89,640.
+3. Fees and dealer spreads would raise the actual amount.
+
+### UPSC integration
+
+- **Numeracy use:** cross-rates connect quote direction, units and real transactions.
+- **Trap:** multiplying two numbers without writing units.
+- **Inference:** persistent large discrepancies are normally closed quickly in liquid
+  markets, but controls and transaction frictions can create segmentation.
+- **Stable lesson:** all rates are hypothetical.
+
+### Revision notes
+
+1. A cross-rate is derived from two other currency pairs.
+2. Write currencies as units.
+3. Multiply when the common currency cancels.
+4. Invert a quote when units do not cancel.
+5. Triangular consistency links three bilateral rates.
+6. Apparent arbitrage must exceed spreads and costs.
+7. Bid and ask cannot be replaced casually by the midpoint.
+8. A customer conversion includes dealer margins.
+9. Cross-rate mistakes are usually orientation mistakes.
+10. Check the final unit before accepting the number.
+
+### Responsive Mains drill — 10 marks | Ceiling: 150 words
+
+**Mains prompt:** *Explain the economic importance of cross-rate
+consistency.*
+
+**Indicative answer:** Cross-rates ensure that bilateral exchange prices form a coherent
+system. If the rupee-dollar and euro-dollar rates imply a rupee-euro rate materially
+different from the observed quote, traders can buy through the cheaper currency path
+and sell through the dearer one. Such arbitrage aligns prices and improves market
+efficiency. However, the comparison must use executable bid and ask rates and account
+for fees, funding, settlement and controls. Thus, a numerical mismatch is not by itself
+a guaranteed profit.
+
+
+### Concept check
+
+**Question:** How do units prevent cross-rate error?
+
+**Model answer:** Treat quotes as fractions: ₹/USD × USD/EUR = ₹/EUR; failed cancellation signals inversion.
+
+**Misconception to avoid:** Arithmetic without units invites inversion.
+
+### Unique scoring rubric
+
+2 marks for the unit-consistent cross-rate formula; 3 for a correct triangular calculation; 2 for the arbitrage mechanism; 2 for bid-ask, funding and transaction-cost limits; 1 for the price-consistency conclusion.
+
+**Transition:** Next, optional Advanced Lesson 17 uses the impossible trinity to explain India’s policy mix.
+
+---
+
+---
+
+## Lesson 17 - The impossible trinity and India's policy mix
+
+Progress: 17/20 | Stage: Advanced | Subtopic: Choosing two-and-a-half corners rather than three absolutes
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: Canonical trilemma analysis, convertibility framework and RBI managed-float policy queried
+CA search: "India monetary policy exchange rate capital flows impossible trinity RBI 2026"
+CA found: Current RBI regime evidence retrieved 3 October 2026 supports market determination with intervention; the trilemma itself is a stable macroeconomic constraint
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual - the policy triangle
+
+```text
+               FIXED EXCHANGE RATE
+                      /\
+                     /  \
+                    /    \
+                   /      \
+                  /        \
+ FREE CAPITAL MOBILITY ---- MONETARY AUTONOMY
+
+Choose any two fully.
+With all three, arbitrage pressure breaks one corner.
+```
+
+### The mechanism
+
+Assume:
+
+- the rupee is credibly fixed to the dollar;
+- capital moves freely;
+- RBI tries to keep India's interest rate below the US rate.
+
+Investors shift toward the higher dollar return. To defend the fixed rupee rate, RBI
+sells dollars and absorbs rupees. Unless policy changes or controls bind, reserves fall.
+The attempt to maintain all three commitments cannot persist indefinitely.
+
+### Three pure corners
+
+| Pair chosen | Corner sacrificed | Example logic |
+|---|---|---|
+| fixed rate + free capital | monetary autonomy | interest conditions follow anchor |
+| fixed rate + monetary autonomy | free capital mobility | controls limit arbitrage |
+| free capital + monetary autonomy | fixed rate | currency must adjust |
+
+Real economies operate between corners. Controls are partial, exchange rates are
+managed, and monetary autonomy is constrained rather than zero.
+
+### India's calibrated middle
+
+India combines:
+
+- a market-determined but managed exchange rate;
+- substantial but not complete capital mobility;
+- an independent inflation-targeting monetary framework.
+
+Intervention, macroprudential regulation, prudential limits and reserve buffers create
+room, but they do not abolish the trilemma. ⚠️ India's configuration is therefore best
+understood as a managed compromise rather than a violation of the theorem.
+
+### Policy case
+
+Global rates rise sharply while domestic growth weakens.
+
+- Cutting domestic rates may intensify capital outflow and rupee pressure.
+- Defending an exact rate may require reserve sales and tighter conditions.
+- Allowing orderly depreciation preserves more monetary autonomy.
+- Temporary liquidity, prudential and flow-management measures may reduce disruption.
+
+The correct answer identifies the trade-off instead of claiming one instrument can
+simultaneously maximise every objective.
+
+### UPSC integration
+
+- **PYQ:** 2022 Q61 provides a Fed-tightening setting.
+- **Trap:** reserves postpone and smooth adjustment; they do not repeal arbitrage.
+- **Diagram:** draw the triangle and place India's calibrated mix inside it.
+- **Answer use:** distinguish full corner solutions from real-world intermediate
+  regimes.
+
+### Revision notes
+
+1. The trilemma has exchange-rate stability, capital mobility and monetary autonomy.
+2. All three cannot be fully achieved together.
+3. A fixed rate plus free capital constrains domestic rates.
+4. Controls can preserve autonomy under a peg.
+5. A float allows more monetary autonomy with open capital.
+6. Real regimes lie between pure corners.
+7. India manages the exchange rate without a fixed target.
+8. India's capital account is calibrated, not fully open.
+9. Reserves buy adjustment time.
+10. Macroprudential tools can reduce, not erase, the trade-off.
+
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
+
+**Mains prompt:** *How does the impossible trinity illuminate India's
+exchange-rate policy?*
+
+**Indicative answer:** The trilemma states that a country cannot fully combine a fixed
+exchange rate, free capital mobility and independent monetary policy. India preserves
+monetary autonomy and permits substantial cross-border capital while allowing the
+rupee to move. RBI intervention smooths disorderly conditions rather than defending a
+declared parity, while prudential rules and calibrated convertibility moderate capital
+mobility. Reserves and macroprudential tools expand room for manoeuvre but cannot
+permanently defeat interest differentials and fundamentals. India's policy is therefore
+a managed compromise: two-way currency flexibility, selective intervention and
+sequenced openness.
+
+
+### Concept check
+
+**Question:** Which trilemma corner must give way?
+
+**Model answer:** Fixed rate plus free capital constrains monetary autonomy; autonomy plus free capital requires exchange flexibility.
+
+**Misconception to avoid:** Buffers do not abolish the trilemma.
+
+### Unique scoring rubric
+
+4 marks for stating the impossible trinity; 4 for mapping India’s monetary, capital-flow and exchange-rate choices; 3 for global-shock transmission; 2 for reserve, intervention and prudential trade-offs; 2 for a reasoned policy verdict.
+
+**Transition:** Next, optional Advanced Lesson 18 distinguishes SDR allocation, SDR holdings, IMF quota and the reserve-tranche position.
+
+---
 
 ---
 
 ## Lesson 18 - SDR, reserve-tranche position and IMF-liquidity distinctions
 
-**Progress: 18/20 | Stage: Advanced | Subtopic: Reserve assets are not all spendable currency balances**
+Progress: 18/20 | Stage: Advanced | Subtopic: Reserve assets are not all spendable currency balances
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: RBI reserve composition, IMF SDR factsheet/FAQ, quota and reserve-tranche definitions queried
 CA search: "IMF SDR not currency potential claim freely usable currencies reserve tranche position"
-CA found: IMF factsheet and FAQ were verified through official search results on 24 September 2026; direct page fetch returned HTTP 403 and that access limitation is recorded
+CA found: IMF factsheet and FAQ were verified through official search results on 3 October 2026; direct page fetch returned HTTP 403 and that access limitation is recorded
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - four concepts, four legal meanings
@@ -2725,7 +2266,7 @@ CA found: IMF factsheet and FAQ were verified through official search results on
 
 ### SDR
 
-✅ IMF official material verified on 24 September 2026 states:
+✅ IMF official material verified on 3 October 2026 states:
 
 - the Special Drawing Right is an international reserve asset;
 - it is **not a currency**;
@@ -2776,7 +2317,7 @@ to its IMF position, not a conventional conditional loan tranche.
 - **Trap:** SDR holding, allocation, quota and RTP are not synonyms.
 - **Answer use:** define instrument, holder, claim and balance-sheet counterpart.
 - **Source limitation:** IMF pages blocked direct fetch with HTTP 403; propositions
-  above were verified through official IMF search results retrieved 24 September 2026.
+  above were verified through official IMF search results retrieved 3 October 2026.
 
 ### Revision notes
 
@@ -2791,56 +2332,12 @@ to its IMF position, not a conventional conditional loan tranche.
 9. RTP is separate from SDR holdings.
 10. Neither is identical to a conditional IMF programme loan.
 
-### Practice - name the claim precisely
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 48.** Choose the accurate institutional description of the SDR.
-
-A. It is legal tender issued to households worldwide.
-B. It is a private cryptocurrency backed by IMF gold.
-C. It is a direct claim on the IMF's tax revenue.
-D. It is an international reserve asset and potential claim on freely usable currencies.
-
-**Answer: D**
-
-- **A is wrong:** SDRs are not circulating national or global legal tender.
-- **B is wrong:** they are an official reserve asset, not a cryptocurrency.
-- **C is wrong:** IMF has no such tax revenue and the SDR is not a claim on IMF itself.
-- **D is correct:** this is the IMF's core definition.
-
-**MCQ 49.** Which item is distinct from an SDR holding but still forms part of India's
-official reserves?
-
-A. Reserve-tranche position in the IMF
-B. Every resident's foreign bank deposit
-C. An Indian company's external loan liability
-D. A foreign investor's holding of Indian shares
-
-**Answer: A**
-
-- **A is correct:** RTP is a separate IMF-related reserve component.
-- **B is wrong:** private assets are outside RBI's official reserve stock.
-- **C is wrong:** the ECB is a liability, not a reserve asset.
-- **D is wrong:** this is India's external liability to the portfolio investor.
-
-**MCQ 50.** A general SDR allocation is normally distributed primarily in proportion
-to members':
-
-A. merchandise imports
-B. IMF quotas
-C. gold production
-D. current-account deficits
-
-**Answer: B**
-
-- **A is wrong:** import volume is not the allocation key.
-- **B is correct:** quota shares govern general allocation shares.
-- **C is wrong:** mining output has no such role.
-- **D is wrong:** allocations are not targeted automatically to the largest CAD.
-
-**Mains micro-model - 15 marks:** *Distinguish an SDR allocation, SDR holdings, IMF
+**Mains prompt:** *Distinguish an SDR allocation, SDR holdings, IMF
 quota and reserve-tranche position.*
 
-**Model answer:** IMF quota is the member's foundational financial and governance
+**Indicative answer:** IMF quota is the member's foundational financial and governance
 position, influencing contribution, voting, normal access and general SDR-allocation
 share. An SDR allocation distributes reserve assets broadly according to quota and is
 matched by an allocation position. SDR holdings are the reserve assets actually held
@@ -2849,19 +2346,33 @@ The reserve-tranche position is a separate liquid quota-related claim on the IMF
 can be readily drawn. These distinctions prevent the errors of treating allocation as
 a grant, RTP as an SDR balance, or either as an ordinary IMF programme loan.
 
-**Transition:** Knowing what reserves contain is not enough. Adequacy asks what drains
-they must withstand and how quickly those drains can materialise.
+
+### Concept check
+
+**Question:** Why are SDR, quota and RTP distinct?
+
+**Model answer:** Quota is the IMF financial/governance base; allocation and holdings are SDR-system positions; RTP is a separate liquid quota-related claim.
+
+**Misconception to avoid:** SDR is not currency and RTP is not SDR.
+
+### Unique scoring rubric
+
+3 marks for SDR allocation; 3 for SDR holdings; 3 for IMF quota; 3 for reserve-tranche position; 3 for accurately relating the four while excluding currency and ordinary-loan misconceptions.
+
+**Transition:** Next, optional Advanced Lesson 19 tests reserve adequacy through import cover, debt rules and stress metrics.
+
+---
 
 ---
 
 ## Lesson 19 - Reserve adequacy: import cover, debt rules and stress metrics
 
-**Progress: 19/20 | Stage: Advanced | Subtopic: A dashboard, not one magic threshold**
+Progress: 19/20 | Stage: Advanced | Subtopic: A dashboard, not one magic threshold
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: RBI reserve-management reports, IMF ARA guidance, canonical adequacy framework and Greenspan-Guidotti rule queried
 CA search: "RBI end March 2026 short term debt reserves 21.6 residual maturity 47.3 reserve adequacy"
-CA found: RBI's 46th reserve-management report, retrieved 24 September 2026, reports end-March 2026 reserves of USD 691.11 billion; official accompanying data report short-term-debt ratios of 21.6% by original maturity and 47.3% by residual maturity
+CA found: RBI's 46th reserve-management report, retrieved 3 October 2026, reports end-March 2026 reserves of USD 691.11 billion; official accompanying data report short-term-debt ratios of 21.6% by original maturity and 47.3% by residual maturity
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - the reserve adequacy dashboard
@@ -2898,7 +2409,7 @@ Original maturity can understate immediate refinancing need.
 
 ### IMF ARA approach
 
-IMF guidance verified on 24 September 2026 uses a composite risk approach for emerging
+IMF guidance verified on 3 October 2026 uses a composite risk approach for emerging
 markets. It considers potential drains linked to:
 
 - short-term debt;
@@ -2912,7 +2423,7 @@ stress proxy, not a divine optimum.
 ### India's dated dashboard
 
 ✅ RBI's 46th reserve-management report gives end-March 2026 reserves of
-USD 691.11 billion. Official accompanying data retrieved on 24 September 2026 report:
+USD 691.11 billion. Official accompanying data retrieved on 3 October 2026 report:
 
 - short-term debt by original maturity/reserves: 21.6%;
 - debt due within a year on residual-maturity basis/reserves: 47.3%.
@@ -2953,55 +2464,12 @@ predict the crisis; it makes assumptions visible.
 9. Usable reserves can differ from gross reserves.
 10. Stress testing is superior to one universal ratio.
 
-### Practice - choose the right denominator
+### Responsive Mains drill — 15 marks | Ceiling: 250 words
 
-**MCQ 51.** For assessing debt repayments due in the next twelve months, the most
-relevant concept is:
-
-A. original maturity only
-B. annual merchandise exports only
-C. short-term debt by residual maturity
-D. the fiscal primary deficit
-
-**Answer: C**
-
-- **A is wrong:** it excludes long-term debt now nearing repayment.
-- **B is wrong:** exports matter for earning capacity but not the maturity count itself.
-- **C is correct:** residual maturity captures all obligations falling due within the horizon.
-- **D is wrong:** the fiscal balance is not a debt-maturity measure.
-
-**MCQ 52.** Why is import cover insufficient as the sole reserve-adequacy test?
-
-A. Imports never require foreign currency.
-B. It automatically includes every portfolio outflow.
-C. It measures all private hedging positions exactly.
-D. A country can face capital flight and debt rollover needs in addition to imports.
-
-**Answer: D**
-
-- **A is wrong:** imports normally create foreign-payment demand.
-- **B is wrong:** import cover does not include asset-market outflow.
-- **C is wrong:** it contains no complete derivative or hedge inventory.
-- **D is correct:** financially open economies face multiple simultaneous drains.
-
-**MCQ 53.** Which statement best represents the IMF ARA idea?
-
-A. Combine risks from debt, exports, broad money and other liabilities rather than use one ratio alone.
-B. Treat three months of imports as universally optimal for every economy.
-C. Exclude portfolio liabilities because they are always stable.
-D. Count all domestic currency as an international reserve.
-
-**Answer: A**
-
-- **A is correct:** ARA is a composite risk-weighted framework.
-- **B is wrong:** adequacy depends on structure and regime.
-- **C is wrong:** portfolio reversals are an important stress channel.
-- **D is wrong:** ordinary domestic currency is not an external reserve asset.
-
-**Mains micro-model - 15 marks:** *Why must reserve adequacy be tested through a
+**Mains prompt:** *Why must reserve adequacy be tested through a
 dashboard rather than a single headline number?*
 
-**Model answer:** Reserves insure against different drains. Import cover measures trade
+**Indicative answer:** Reserves insure against different drains. Import cover measures trade
 financing; short-term-debt cover measures rollover; reserves to broad money proxies
 resident conversion pressure; and volatile-liability measures capture portfolio
 reversal. Residual maturity is especially important because long-term debt may fall
@@ -3011,19 +2479,33 @@ reserve haircuts. A large gross stock may therefore coexist with concentrated ma
 or liquidity risk. Adequacy is a scenario-dependent balance-sheet judgment, not a
 universal months-of-imports rule.
 
-**Transition:** The final lesson combines these tools to diagnose who owes what, in
-which currency, when it falls due, and how past Indian shocks propagated.
+
+### Concept check
+
+**Question:** Why is import cover insufficient?
+
+**Model answer:** It ignores debt rollover, portfolio reversal, resident conversion, forward exposure and usable-reserve haircuts.
+
+**Misconception to avoid:** A large stock needs a denominator.
+
+### Unique scoring rubric
+
+3 marks for defining adequacy relative to drains; 3 for import-cover use and limitation; 3 for original versus residual-maturity debt tests; 3 for volatile flows, forwards and usable-reserve stress; 3 for dated evidence and dashboard verdict.
+
+**Transition:** Next, optional Advanced Lesson 20 integrates external-debt composition, capital-flow vulnerability and India’s crisis lessons.
+
+---
 
 ---
 
 ## Lesson 20 - External debt, capital-flow vulnerability and India's crisis lessons
 
-**Progress: 20/20 | Stage: Advanced | Subtopic: Currency, maturity, hedging, borrower and rollover**
+Progress: 20/20 | Stage: Advanced | Subtopic: Currency, maturity, hedging, borrower and rollover
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: DEA quarterly external-debt report, canonical crisis cases, Economic Survey 2025-26 and Ramesh Singh external-debt framework queried
-CA search: "India external debt December 2025 765.5 residual maturity 48.1 reserves DEA March 2026"
-CA found: DEA's official report for quarter ending December 2025, released in March 2026 and retrieved 24 September 2026, reports total external debt of USD 765.5 billion
+Book context: RBI end-March external-debt release, canonical crisis cases, Economic Survey 2025-26 and Ramesh Singh external-debt framework queried
+CA search: "site:rbi.org.in India's External Debt as at the end of March 2026 762.8"
+CA found: RBI's official release dated 29 June 2026 reports end-March 2026 external debt of USD 762.8 billion and supplies five detailed tables
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - the vulnerability cube
@@ -3056,17 +2538,22 @@ A robust debt analysis asks:
 
 ### India's dated debt profile
 
-✅ DEA's *Quarterly External Debt Report for Quarter Ending December 2025*, released
-in March 2026 and retrieved on 24 September 2026, reported:
+✅ RBI's *India's External Debt as at the end of March 2026*, released on
+29 June 2026 and retrieved on 3 October 2026, reported:
 
-- total external debt: USD 765.5 billion;
-- external debt/GDP: 20.4%;
-- short-term debt by original maturity: 19.7% of total debt;
-- original-maturity short-term debt/reserves: 21.9%;
-- debt due within a year by residual maturity: 43.2% of total debt;
-- residual-maturity short-term debt/reserves: 48.1%;
-- currency shares: US dollar 54.8%, Indian rupee 30.1%, yen 6.3%, SDR 4.3% and euro
+- total external debt: USD 762.8 billion;
+- external debt/GDP: 20.8%;
+- short-term debt by original maturity: 19.6% of total debt;
+- original-maturity short-term debt/reserves: 21.6%;
+- debt due within a year by residual maturity: 42.9% of total debt;
+- residual-maturity short-term debt/reserves: 47.3%;
+- currency shares: US dollar 55.5%, Indian rupee 29.4%, yen 6.4%, SDR 4.3% and euro
   3.7%.
+
+The RBI press-release PDF places the headline and valuation facts on page 1, residual
+maturity in Table 2 on page 4, government/non-government debt in Table 3 on page 5,
+instrument composition in Table 4 on page 5, and key indicators in Table 5 on page 6.
+Its linked Statements I and II provide the IMF and old-format data tables.
 
 The figures show why the residual-maturity view matters and why rupee-denominated
 external debt does not disappear from the external-liability count even though currency
@@ -3137,8 +2624,8 @@ fragile. Macro buffers and micro hedging must be assessed together.
 - **Trap:** low sovereign foreign-currency debt does not eliminate private-sector risk.
 - **Trap:** rupee-denominated external debt shifts currency risk but remains external
   debt.
-- **Current anchor:** DEA December 2025 report, March 2026 release status, retrieved
-  24 September 2026.
+- **Current anchor:** RBI end-March 2026 external-debt release dated 29 June 2026,
+  retrieved 3 October 2026.
 
 ### Revision notes
 
@@ -3155,907 +2642,442 @@ fragile. Macro buffers and micro hedging must be assessed together.
 11. Stable FDI and local-currency finance can reduce sudden-stop risk.
 12. Transparency is part of resilience.
 
-### Practice - diagnose the full exposure
+### Responsive Mains drill — 20 marks | Ceiling: 300 words
 
-**MCQ 54.** Which debt measure best reveals obligations falling due in the next year?
-
-A. Original maturity at the date of issue alone
-B. Residual maturity
-C. Merchandise-import growth
-D. NEER
-
-**Answer: B**
-
-- **A is wrong:** long-term debt may now be close to repayment.
-- **B is correct:** residual maturity groups all payments due within the horizon.
-- **C is wrong:** imports do not define debt repayment schedules.
-- **D is wrong:** NEER is an exchange-rate index.
-
-**MCQ 55.** An external bond denominated in rupees is:
-
-A. not external debt because currency alone determines residence
-B. a reserve asset of RBI
-C. external debt if owed to a non-resident, with much of the direct currency risk shifted to the creditor
-D. a current transfer
-
-**Answer: C**
-
-- **A is wrong:** creditor-debtor residence, not denomination alone, determines external debt.
-- **B is wrong:** it is the issuer's liability, not automatically RBI's asset.
-- **C is correct:** the liability is external while rupee depreciation affects the foreign holder's return.
-- **D is wrong:** the creditor receives a financial claim and repayment obligation.
-
-**Block checkpoint - full external-balance-sheet synthesis:** The final lesson item
-combines interest-rate, currency, maturity, hedging and cash-flow risk.
-
-**MCQ 56.** Which borrower is most vulnerable to a combined global-rate and exchange-
-rate shock?
-
-A. A rupee-funded exporter with no foreign debt
-B. A dollar-earning firm with fully matched dollar debt
-C. A firm with long fixed-rate rupee debt
-D. A rupee-revenue firm with floating-rate dollar debt, little hedge and near-term maturity
-
-**Answer: D**
-
-- **A is wrong:** it lacks the relevant foreign-rate and currency mismatch.
-- **B is wrong:** the natural hedge reduces currency exposure.
-- **C is wrong:** fixed-rate domestic-currency debt is insulated from the stated external channels.
-- **D is correct:** interest, currency and rollover risks reinforce one another.
-
-**Mains micro-model - 20 marks:** *Evaluate India's external vulnerability through
+**Mains prompt:** *Evaluate India's external vulnerability through
 debt composition rather than debt level alone.*
 
-**Model answer:** The debt stock and debt/GDP ratio provide scale but not the timing or
+**Indicative answer:** The debt stock and debt/GDP ratio provide scale but not the timing or
 distribution of risk. Analysis must identify borrower, currency, interest basis,
-original and residual maturity, hedging, creditor concentration and use of funds. DEA's
-December 2025 report, released in March 2026, placed external debt at USD 765.5 billion
-and 20.4% of GDP. Yet debt due within a year on residual maturity was 43.2% of total
-debt and 48.1% of reserves, much above the original-maturity share. Dollar denomination
-was 54.8%, while rupee denomination shifted some currency risk to creditors. India's
+original and residual maturity, hedging, creditor concentration and use of funds. RBI's
+end-March 2026 release, dated 29 June 2026, placed external debt at USD 762.8 billion
+and 20.8% of GDP. Yet debt due within a year on residual maturity was 42.9% of total
+debt and 47.3% of reserves, much above the original-maturity share. Dollar denomination
+was 55.5%, while rupee denomination shifted some currency risk to creditors. India's
 reserves and relatively diversified profile provide buffers, but private unhedged ECBs,
 floating rates and maturity walls can still transmit global shocks. Policy should
 combine reserve adequacy with local-currency finance, hedging, transparent reporting,
 export capacity and macroprudential limits on concentrated short-term exposure.
 
-**Transition:** The twenty lessons now converge into verified PYQ routing, cumulative
-application, original Mains practice, remediation and final revision maps.
+
+### Concept check
+
+**Question:** Why can private FX debt remain fragile despite national reserves?
+
+**Model answer:** Reserves are a system buffer, not a hedge for a rupee-revenue firm with unhedged dollar debt and near-term maturities.
+
+**Misconception to avoid:** External debt is defined by creditor residence, not currency alone.
+
+### Unique scoring rubric
+
+3 marks for residence-based debt framing; 4 for borrower and instrument composition; 4 for currency, rate and hedge exposure; 4 for original/residual maturity and rollover risk; 3 for end-March 2026 RBI evidence; 2 for policy and overall vulnerability verdict.
+
+**Transition:** Next, the final arc begins with verified PYQ linkage, followed by cumulative concept checks, original Mains practice, remediation, maps, register notes, coverage and sources.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-> **Provenance rule:** The direct ownership table below is controlled by the audited
-> local routing ledgers. The official 2019-2023 answer keys are not held locally, so no
-> option letter is inferred. PYQs are used only as demand links and answer approaches,
-> not reproduced solved answers.
+> Audited local routing ledgers control ownership. Historical official Prelims answer keys for the nine direct demands are unavailable locally; no option letter or solved PYQ answer is inferred.
 
-## Directly owned Prelims demands
+| Year | Q | Neutral demand | Status | Lesson | Answer approach |
+|---:|---:|---|---|---:|---|
+| 2019 | 63 | India external-debt composition and currency denomination | Direct; key unavailable locally | 20 | Separate residence, borrower, instrument, denomination and maturity; external debt need not be foreign-currency debt. |
+| 2019 | 65 | Factors reducing currency-crisis risk | Direct; key unavailable locally | 5, 19, 20 | Test CAD quality, short-term debt, reserves, hedging and credibility separately. |
+| 2020 | 49 | Policies reducing global-financial-crisis vulnerability | Direct; key unavailable locally | 5, 17, 19, 20 | Prefer resilient banks, lower short-term leverage, buffers and credible adjustment over isolation. |
+| 2020 | 51 | Defining characteristics of FDI | Direct; key unavailable locally | 4 | Identify lasting interest/influence; distinguish liquid portfolio claims. |
+| 2021 | 7 | Instruments eligible for FDI classification | Direct; key unavailable locally | 3, 4 | Ask whether the instrument forms a direct-investment relationship. |
+| 2021 | 8 | Devaluation effects on exports and trade | Direct; key unavailable locally | 9-11 | Separate official parity change from depreciation; test prices, elasticities, capacity and import costs. |
+| 2022 | 2 | NEER and REER | Direct; key unavailable locally | 12 | Separate nominal basket movement from relative-price adjustment and inspect orientation. |
+| 2022 | 61 | Federal Reserve tightening, capital flight and ECBs | Direct; key unavailable locally | 4, 17, 20 | Trace global rates and flows into interest, currency and rollover stress. |
+| 2023 | 86 | Switzerland gold exports versus official gold reserves | Direct; key unavailable locally | 15 | Separate refining/trade-hub status from central-bank reserve ownership. |
 
-| Year | Q | Neutral demand | Provenance/status | Lesson route | Answer approach |
-|---:|---:|---|---|---|---|
-| 2019 | 63 | India's external-debt composition and currency denomination | Directly routed; official key unavailable locally | 20 | Separate sovereign/private, currency, maturity and denomination; do not infer that external debt must be foreign-currency debt. |
-| 2019 | 65 | Factors that reduce India's currency-crisis risk | Directly routed; official key unavailable locally | 5, 19, 20 | Test reserves, short-term debt, current-account financing and foreign-currency exposure as distinct buffers. |
-| 2020 | 49 | Policies that reduce vulnerability to a global financial crisis | Directly routed; official key unavailable locally | 5, 14, 19, 20 | Prefer lower short-term external leverage, adequate reserves, resilient banks and credible macro policy over absolute isolation. |
-| 2020 | 51 | Major defining characteristics of FDI | Directly routed; official key unavailable locally | 4 | Look for lasting interest/influence and distinguish FDI from tradable portfolio claims. |
-| 2021 | 7 | Instruments eligible for FDI classification | Directly routed; official key unavailable locally | 3, 4 | First identify whether the instrument creates the direct-investment relationship; do not treat every foreign security purchase as FDI. |
-| 2021 | 8 | Effects of currency devaluation on exports and trade | Directly routed; official key unavailable locally | 10, 11, 12 | Separate official parity change from depreciation, then test price, elasticity, import-cost and time-lag channels. |
-| 2022 | 2 | NEER and REER concepts | Directly routed; official key unavailable locally | 13 | Distinguish basket nominal movement from relative-price-adjusted real movement and inspect index orientation. |
-| 2022 | 61 | US Federal Reserve tightening, capital flight and ECBs | Directly routed; official key unavailable locally | 4, 14, 20 | Trace rate differential -> portfolio/credit outflow -> rupee pressure -> unhedged ECB interest, currency and rollover risk. |
-| 2023 | 86 | Switzerland's gold exports versus official gold-reserve ranking | Directly routed; official key unavailable locally | 17 | Separate refining/trade-hub status from central-bank ownership of official gold reserves. |
+## Cross-owned and excluded demands
 
-## Cross-links and audited exclusions
+| Year | Q | Correct treatment |
+|---:|---:|---|
+| 2024 | 51 | US Treasury bonds and sovereign default belongs to Economy Topic 7; cross-link only. |
+| 2025 | 2 | RBI income belongs to Economy Topic 4; cross-link only to reserve-asset income. |
+| 2026 | 2 | Hilton-Young Commission and rupee-sterling rationale belongs to Modern History; provisional key not imported. |
+| 2026 | - | No direct Topic 19 route in the audited ledger; no ownership is manufactured. |
 
-| Year | Q | Status | Correct treatment |
-|---:|---:|---|---|
-| 2024 | 51 | Owned by Economy Topic 7: US Treasury bonds and sovereign default | Cross-link only for safe-asset and reserve-portfolio discussion; it is not a direct Topic 19 PYQ. |
-| 2025 | 2 | Owned by Economy Topic 4: sources of RBI income; official Set-A key available locally and recorded as A | Cross-link only to reserve-asset income and RBI balance sheet; do not claim direct Topic 19 ownership. |
-| 2026 | 2 | Owned by Modern History: Hilton-Young Commission and rupee-sterling rationale; local key is provisional | Historical exchange-rate cross-link only. It is not a direct Topic 19 PYQ and no provisional answer is used. |
-| 2026 | - | No directly routed Topic 19 demand in the audited ledger | Do not manufacture ownership from lexical references to RBI, bonds or currency. |
+# CUMULATIVE CONCEPT CHECKS
 
-## Mains answer-approach matrix
+## Check 1 - Post and diagnose
 
-| Demand type | 10-mark spine | 15-mark addition | 20-mark addition |
-|---|---|---|---|
-| Explain a mechanism | definition -> 4-step causal chain -> one India example -> qualification | add competing channel and policy trade-off | add comparative episode, counter-argument and reasoned verdict |
-| Evaluate CAD | identity -> cause -> financing -> verdict | add maturity/currency/hedging dashboard | compare productive absorption, sudden stop and reserve-use scenarios |
-| Analyse depreciation | quotation -> price effect -> volume lag -> balance sheet | add Marshall-Lerner and pass-through | add policy mix, imported inflation and distributional effects |
-| Assess reserves | composition -> transaction/valuation -> adequacy | add debt and broad-money metrics | add ARA-style stress test, usable-reserve caveat and opportunity cost |
-| Examine external vulnerability | debt stock -> composition -> maturity -> hedge | add capital-flow and trilemma channels | compare 1991, 2013 and 2020; distinguish macro buffer from firm-level risk |
+**Question:** India imports machinery on five-year supplier credit. What are the two entries and the sustainability test?
 
-# CUMULATIVE MCQS
+**Model answer:** Machinery is a current-account goods debit; supplier credit is a financial-account liability increase. Sustainability depends on maturity, currency, hedge, project return and future foreign-exchange earnings.
 
-> These questions continue the same hidden A -> B -> C -> D key sequence from the
-> lessons. Each option is explained separately.
+**Misconception to avoid:** A capital good does not enter the narrow capital account merely because it creates capacity.
 
-**MCQ 57.** An Indian software exporter earns USD 20 million and leaves the proceeds
-in a foreign bank deposit. Which entries best reflect the transaction?
+## Check 2 - Decompose India’s current account
 
-A. Services credit and increase in foreign assets as a financial-account debit
-B. Services debit and increase in external liabilities as a credit
-C. Goods credit and reserve-asset debit
-D. Secondary-income credit and capital-transfer debit
+**Question:** Why did a USD 86.1 billion goods deficit in Q1 FY2026-27 coexist with a CAD of USD 4.2 billion?
 
-**Answer: A**
+**Model answer:** RBI’s 1 September 2026 release reported net services receipts of USD 51.6 billion and personal transfers of USD 42.9 billion, while primary-income outgo was USD 10.5 billion. Non-merchandise components substantially offset the goods deficit.
 
-- **A is correct:** the service export earns a credit while the resident acquires a foreign financial asset.
-- **B is wrong:** an export is not a debit and the deposit is an asset, not India's liability.
-- **C is wrong:** software service is not merchandise and a private deposit is not RBI reserves.
-- **D is wrong:** the payment is earned consideration, not a transfer.
+**Misconception to avoid:** Selected gross receipts cannot be added without all sub-items and signs.
 
-**MCQ 58.** Which combination most clearly improves the quality of CAD financing?
+## Check 3 - Integrate depreciation
 
-A. More short-term unhedged debt and lower reserves
-B. More stable equity, longer maturities and stronger export earning capacity
-C. Larger maturity concentration and weaker disclosure
-D. Persistent reserve depletion financing consumption imports
+**Question:** Give the complete test for whether rupee depreciation improves the external balance.
 
-**Answer: B**
+**Model answer:** State the quote; separate depreciation from devaluation; trace pass-through and debt effects; test contracts, Marshall-Lerner elasticities, capacity and imported inputs; then compare NEER and REER.
 
-- **A is wrong:** it raises currency and rollover risk.
-- **B is correct:** risk sharing, time and repayment capacity strengthen resilience.
-- **C is wrong:** concentration and opacity amplify sudden-stop risk.
-- **D is wrong:** it erodes insurance without creating obvious future earnings.
+**Misconception to avoid:** A cheaper currency cannot create elastic demand or supply capacity automatically.
 
-**MCQ 59.** The rupee depreciates nominally, but India's inflation exceeds partner
-inflation enough to reverse the movement in REER. Which inference is best?
+## Check 4 - Read RBI’s balance sheet
 
-A. Bilateral nominal rates become irrelevant to contracts.
-B. Reserves must have increased.
-C. The nominal price advantage may be eroded in real terms.
-D. The current account must immediately move to surplus.
+**Question:** RBI buys dollars and sterilises fully. What remains changed?
 
-**Answer: C**
+**Model answer:** The purchase raises foreign assets and initially injects rupees. Domestic absorption removes the liquidity impulse, but RBI retains the foreign asset and changed asset composition unless the FX leg is reversed.
 
-- **A is wrong:** contracts and debt still use nominal rates.
-- **B is wrong:** REER does not determine the reserve transaction.
-- **C is correct:** relative domestic prices can offset nominal depreciation.
-- **D is wrong:** trade quantities and other current-account components adjust with lags.
+**Misconception to avoid:** Sterilisation is not cancellation of intervention.
 
-**MCQ 60.** RBI buys dollars and fully sterilises the liquidity injection. Which
-statement is correct?
+## Check 5 - Judge reserves
 
-A. Foreign assets return to their pre-purchase level.
-B. The exchange transaction disappears from the BoP.
-C. The rupee becomes legally fixed to the dollar.
-D. RBI retains the foreign assets while a separate domestic operation absorbs liquidity.
+**Question:** Why is the 25 September 2026 reserve stock insufficient by itself to prove adequacy?
 
-**Answer: D**
+**Model answer:** The USD 747.557 billion stock establishes scale, not likely drains. Adequacy also needs imports, residual-maturity debt, volatile liabilities, usable liquidity, forward exposure and stress scenarios.
 
-- **A is wrong:** only a sale of the acquired dollars would reverse the asset increase.
-- **B is wrong:** sterilisation does not erase the external transaction.
-- **C is wrong:** a liquidity operation does not create a peg.
-- **D is correct:** the two legs target different balance-sheet effects.
+**Misconception to avoid:** A large stock is not an analytical denominator.
 
-**MCQ 61.** A country's reserves equal USD 300 billion, annual imports equal
-USD 360 billion, and debt due within one year equals USD 240 billion. Which statement
-is correct?
+## Check 6 - Integrate debt risk
 
-A. Import cover is 10 months and debt-due coverage is 1.25 times.
-B. Import cover is 12 months and debt-due coverage is 0.8 times.
-C. Import cover is 8 months and debt-due coverage is 2 times.
-D. Import cover and debt coverage are identical by definition.
+**Question:** A rupee-revenue firm has floating dollar debt, little hedging and 40 per cent due within a year. What shocks reinforce one another?
 
-**Answer: A**
+**Model answer:** Global tightening raises interest cost; depreciation raises rupee debt service; failed rollover creates a refinancing gap. Weak cash flow can turn liquidity stress into solvency stress.
 
-- **A is correct:** monthly imports are USD 30 billion; 300/30 = 10 and 300/240 = 1.25.
-- **B is wrong:** both calculations use incorrect ratios.
-- **C is wrong:** it understates import cover and overstates debt cover.
-- **D is wrong:** the metrics use different denominators and risks.
-
-**MCQ 62.** Which statement about a general SDR allocation is most accurate?
-
-A. It transfers tax revenue from IMF to households.
-B. It increases members' SDR holdings and corresponding allocation positions broadly by quota share.
-C. It converts every member currency into legal tender abroad.
-D. It is identical to drawing a conditional IMF programme loan.
-
-**Answer: B**
-
-- **A is wrong:** SDR allocation is an official reserve-asset operation, not household fiscal transfer.
-- **B is correct:** holdings and allocation positions arise together under the system.
-- **C is wrong:** national currencies do not acquire universal legal-tender status.
-- **D is wrong:** an allocation differs from programme borrowing.
-
-**MCQ 63.** Under the impossible trinity, which policy package is internally coherent
-as a pure corner?
-
-A. Fixed rate, free capital and fully independent interest rate
-B. Fixed rate, no reserve movement and free capital
-C. Floating rate, free capital and monetary autonomy
-D. Fixed rate, free capital and unlimited sterilisation forever
-
-**Answer: C**
-
-- **A is wrong:** all three full objectives cannot coexist sustainably.
-- **B is wrong:** defending a fixed rate under flow pressure requires adjustment.
-- **C is correct:** exchange-rate flexibility accommodates capital mobility and monetary autonomy.
-- **D is wrong:** sterilisation has costs and cannot repeal arbitrage indefinitely.
-
-**MCQ 64.** Which scenario most strongly predicts an initial J-curve deterioration?
-
-A. Import contracts reprice and quantities adjust instantly.
-B. Imports are fully substitutable at once.
-C. Export supply expands before the currency moves.
-D. Foreign-currency import prices and quantities are sticky immediately after depreciation.
-
-**Answer: D**
-
-- **A is wrong:** instant quantity adjustment weakens the lag.
-- **B is wrong:** rapid substitution improves the balance sooner.
-- **C is wrong:** advance export response would support improvement.
-- **D is correct:** the domestic import bill rises before volumes fall.
-
-**MCQ 65.** A foreign investor buys a rupee-denominated Indian bond. Which statement is
-correct?
-
-A. India incurs an external liability, while direct rupee depreciation risk largely falls on the foreign holder.
-B. No external liability exists because the bond is in rupees.
-C. The purchase is a service export.
-D. The bond becomes an RBI reserve asset automatically.
-
-**Answer: A**
-
-- **A is correct:** residence defines the external claim and denomination allocates currency risk.
-- **B is wrong:** external debt is not restricted to foreign-currency instruments.
-- **C is wrong:** it is a financial transaction.
-- **D is wrong:** ownership by a foreign investor does not place the bond in official reserves.
-
-**MCQ 66.** Which change can reduce headline dollar reserves without any sale of foreign
-currency by RBI?
-
-A. An SDR ceases legally to exist every quarter.
-B. The dollar appreciates against currencies held in FCA, lowering their dollar value.
-C. Every exporter converts receipts into rupees.
-D. An Indian firm issues domestic equity.
-
-**Answer: B**
-
-- **A is wrong:** SDRs do not expire quarterly.
-- **B is correct:** cross-currency valuation can reduce the reported dollar stock.
-- **C is wrong:** exporter conversion may affect market flows but does not necessarily lower reserves.
-- **D is wrong:** domestic equity issuance has no direct reserve valuation effect.
-
-**MCQ 67.** Which pair is correctly matched?
-
-A. Personal remittance - primary income
-B. Interest on external debt - secondary income
-C. FDI acquisition - financial account
-D. Debt forgiveness as capital transfer - merchandise account
-
-**Answer: C**
-
-- **A is wrong:** personal remittance is secondary income.
-- **B is wrong:** interest is primary income.
-- **C is correct:** direct investment is a financial-account transaction.
-- **D is wrong:** qualifying debt forgiveness is a capital transfer.
-
-**MCQ 68.** The exchange quote changes from ₹75/USD to ₹90/USD. Which statement is
-correct?
-
-A. The rupee appreciates by 20%.
-B. The dollar depreciates by 16.67%.
-C. Returning from 90 to 75 requires a 20% rupee appreciation on the same base.
-D. The rupee depreciates by 20%, while the reverse percentage from 90 to 75 is 16.67%.
-
-**Answer: D**
-
-- **A is wrong:** more rupees per dollar means rupee depreciation.
-- **B is wrong:** the dollar appreciates against the rupee.
-- **C is wrong:** the reverse uses 90 as its base.
-- **D is correct:** 15/75 = 20%, while 15/90 = 16.67%.
+**Misconception to avoid:** National reserves do not neutralise every private contract.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
-## 10 marks - 150 words
+## 10 marks | Ceiling: 150 words
 
 ### Question 1
 
-**"A current-account deficit is an accounting outcome; vulnerability is a financing
-outcome." Explain.**
+**“The BoP always balances, but the route through which it balances determines vulnerability.” Explain.**
 
-**Model answer:** A current-account deficit records that an economy's current external
-payments exceed receipts. Double-entry accounting ensures that it is matched by
-financial flows, reserve use or statistical adjustment. Vulnerability depends on the
-quality of that counterpart. FDI and long-duration equity share risk and may create
-productive capacity. Short-term foreign-currency debt creates fixed repayment,
-currency mismatch and rollover exposure. Persistent reserve depletion narrows the
-insurance buffer. The use of funds also matters: machinery that raises exports differs
-from consumption without future foreign-exchange earnings. Therefore, the same CAD
-ratio can be sustainable in one economy and dangerous in another. Policy should
-evaluate maturity, currency, hedging, borrower, concentration, reserve adequacy and
-future earning capacity rather than target one numerical threshold.
+**Model answer:** BoP double-entry gives every current, capital or financial transaction an equal counterpart. A CAD can be matched by FDI, portfolio flows, loans, deposits, reserve use or statistical adjustment. This identity does not establish external health. Stable equity financing of productive machinery differs from short-term unhedged debt used for consumption. Reserve depletion can close the accounts temporarily while weakening future insurance. Vulnerability rises when financing is reversible, maturities are concentrated, liabilities are in foreign currency, borrowers lack hedges, or future foreign-exchange earnings are weak. Analysis must therefore move from accounting closure to financing quality, balance-sheet exposure and adjustment capacity.
+
+**Scoring ceiling:** 2 definition/double entry; 4 financing routes; 2 vulnerability; 2 qualified conclusion.
 
 ### Question 2
 
-**Distinguish depreciation, devaluation and REER appreciation.**
+**Distinguish depreciation, devaluation, NEER and REER.**
 
-**Model answer:** Depreciation is a market-driven fall in a currency under a flexible
-or managed regime. Devaluation is an official reduction in parity under a fixed or
-pegged system. REER appreciation is a rise in the price-adjusted effective exchange
-index under the convention where a higher index means appreciation. It can occur
-through nominal appreciation or because domestic inflation exceeds partner inflation.
-Thus, the rupee can depreciate bilaterally against the dollar while appreciating in
-real effective terms if relative prices and other partner currencies offset the
-movement. Each concept answers a different question: market price, official parity and
-trade-weighted real competitiveness.
+**Model answer:** Depreciation is market-driven weakening under a flexible or managed regime; devaluation is an official parity reduction under a fixed or administered regime. NEER is a trade-weighted index of nominal bilateral rates. REER adjusts the effective nominal movement for relative prices or costs. Under a higher-means-appreciation convention, domestic inflation above partner inflation can appreciate REER even when the rupee depreciates against the dollar. The terms therefore describe market movement, official parity, basket-wide nominal movement and basket-wide real price competitiveness. State the quotation and index convention.
 
-## 15 marks - 250 words
+**Scoring ceiling:** 4 definitions; 2 convention; 2 interaction; 2 conclusion.
+
+## 15 marks | Ceiling: 250 words
 
 ### Question 3
 
-**Analyse the channels through which rupee depreciation affects the Indian economy.**
+**Assess India’s CAD through composition and financing quality.**
 
-**Model answer:** Rupee depreciation raises the domestic-currency price of a fixed
-foreign invoice. The first channel is imported inflation through energy, electronics,
-fertiliser and other inputs. Pass-through depends on hedges, inventories, taxes,
-margins, demand and the imported share of final cost. Second, exporters receive more
-rupees per dollar, but the gain can be offset by imported inputs, capacity constraints
-and competitor currencies. Third, unhedged firms with foreign-currency debt and rupee
-revenue face a balance-sheet loss; exporters with matched foreign earnings possess a
-natural hedge. Fourth, the trade balance may initially deteriorate because contract and
-quantity lags create a J-curve; later improvement requires the Marshall-Lerner
-elasticity condition and supply response. Fifth, higher inflation or capital outflow
-can alter monetary policy. A managed-float response may smooth disorderly movement but
-cannot permanently override fundamentals. Depreciation is therefore distributive and
-time-dependent, not a simple export subsidy.
+**Model answer:** A CAD means national investment exceeds national saving; it is not automatically a crisis. India’s merchandise deficit reflects energy, electronics, gold and capital-goods imports, while services and personal transfers provide a cushion and primary-income payments create an outgo. RBI’s Q1 FY2026-27 release reported a CAD of USD 4.2 billion, or 0.5 per cent of GDP, alongside a USD 86.1 billion goods deficit, USD 51.6 billion net services receipts and USD 42.9 billion personal transfers.
+
+Financing quality is decisive. FDI and long-duration equity share risk; short-term foreign-currency debt creates fixed repayment, rollover and depreciation exposure. The same CAD is safer when imports raise productivity, maturities are staggered, debt is hedged and reserves cover stress drains. It is riskier when consumption, volatile flows, unhedged ECBs or repeated reserve depletion dominate. Services and remittances add resilience but carry concentration risk.
+
+Policy should diversify exports, improve energy security, deepen stable local-currency and equity finance, monitor residual maturity and preserve usable reserves.
+
+**Scoring ceiling:** 3 identity/composition; 5 dated evidence; 4 financing quality; 3 policy verdict.
 
 ### Question 4
 
-**Evaluate the role and limitations of forex reserves in India's external-sector
-management.**
+**Explain RBI intervention’s liquidity effect and why sterilisation is imperfect.**
 
-**Model answer:** Reserves provide foreign-payment liquidity, support orderly exchange
-markets, reassure creditors and cover imports and maturing debt. India's official stock
-contains multi-currency FCA, gold, SDR holdings and the IMF reserve-tranche position.
-RBI can sell foreign exchange during disorderly pressure, but the sale absorbs domestic
-liquidity and may need an offsetting operation. Adequacy must be assessed through import
-cover, residual-maturity debt, broad-money and volatile-liability exposure, together
-with an ARA-style stress test. Headline stocks can mislead because valuation changes
-move the dollar total without intervention, forward commitments affect usable
-liquidity, and private unhedged debt can remain fragile despite ample sovereign buffers.
-Accumulation also has opportunity, sterilisation and carry costs. Reserves buy time and
-policy space; they cannot substitute for export capacity, prudent debt composition,
-credible macro policy and flexible adjustment.
+**Model answer:** RBI intervention is an asset swap. A dollar purchase raises foreign assets and bank rupee balances; a dollar sale lowers foreign assets and absorbs rupees. These effects arise even when the objective is only orderly exchange-market conditions.
 
-## 20 marks - 250 to 300 words
+Sterilisation uses a separate domestic operation. After a purchase, RBI may sell securities or absorb deposits; after a sale, it may inject rupees if tightening is excessive. The FX transaction remains while liquidity moves toward the desired path.
+
+The separation is imperfect. Absorption can carry interest and quasi-fiscal costs; repeated one-way flows recreate liquidity; operations affect yields and may attract further flows; forward positions create future obligations. Sterilisation cannot preserve a fixed rate, free capital and monetary autonomy indefinitely. It provides room within a managed float, not escape from fundamentals.
+
+**Scoring ceiling:** 4 mechanics; 4 sterilisation; 4 limits; 3 trilemma-linked verdict.
+
+## 20 marks | Ceiling: 300 words
 
 ### Question 5
 
-**Compare the external-sector transmission of India's 1991 crisis, the 2013 taper
-tantrum and the 2020 pandemic shock. What policy lessons follow?**
+**Evaluate India’s external resilience through reserves, external debt and crisis transmission rather than headline stocks.**
 
-**Model answer:** The three episodes demonstrate that the initial external balance
-sheet determines how a shock propagates. In 1991, very low usable reserves interacted
-with oil-price pressure, fiscal and current-account weakness and loss of financing
-confidence, producing an acute external-payments crisis and structural reform. In
-2013, anticipated US monetary tightening triggered portfolio reassessment across
-emerging markets. India's large then-current-account deficit and inflation concerns
-intensified rupee and funding pressure, illustrating sudden-stop and global-rate
-channels. In 2020, the pandemic disrupted trade, travel and capital flows, but import
-compression and lower energy demand improved the current account for a period, while
-policy support and existing buffers altered the reserve outcome.
+**Model answer:** External resilience is the capacity to meet foreign obligations and adjust without disorderly compression. Headline reserves and debt/GDP establish scale, not liquidity or distribution of risk.
 
-The comparison yields five lessons. First, reserves must be judged against likely
-drains, not celebrated in gross terms. Second, CAD composition and financing quality
-matter more than one threshold. Third, residual maturity, currency mismatch and hedging
-must be monitored at firm and system level. Fourth, a managed float should permit
-orderly two-way adjustment rather than defend an artificial parity. Fifth, services,
-remittances, diversified exports and local-currency finance strengthen structural
-resilience. India's goal should be shock absorption with adjustment, not the illusion
-that reserves can prevent every movement.
+RBI’s release published on 2 October 2026 reported reserves of USD 747.557 billion for 25 September: FCA USD 615.411 billion, gold USD 108.701 billion, SDRs USD 18.642 billion and IMF reserve position USD 4.804 billion. Adequacy must compare usable assets with imports, debt due within a year, portfolio reversal, forward commitments and resident conversion. Valuation matters: RBI’s 1 September release separated Q1 FY2026-27 BoP-basis depletion of USD 8.1 billion from a USD 14.4 billion valuation loss.
+
+Debt analysis must identify borrower, currency, rate, maturity, hedge and rollover. RBI’s release dated 29 June 2026 recorded end-March 2026 debt of USD 762.8 billion and 20.8 per cent of GDP; residual-maturity debt due within a year was 42.9 per cent of debt and 47.3 per cent of reserves.
+
+The 1991 crisis combined low usable reserves and financing loss; 2013 transmitted global repricing through flows and the rupee; 2020 combined disruption with import compression. India needs liquid reserves, exchange flexibility, transparent forward/debt data, hedging, diversified exports and macroprudential control. Reserves buy time; credible adjustment creates resilience.
+
+**Scoring ceiling:** 4 framework; 6 dated evidence; 4 stress analysis; 4 episodes/policy; 2 verdict.
 
 ### Question 6
 
-**"India's exchange-rate framework is a practical negotiation with the impossible
-trinity." Critically examine.**
+**“India’s exchange-rate framework is a practical negotiation with the impossible trinity.” Critically examine.**
 
-**Model answer:** The impossible trinity prevents a country from fully combining a
-fixed exchange rate, unrestricted capital mobility and independent monetary policy.
-India seeks monetary autonomy under an inflation-targeting framework, permits
-substantial but calibrated capital flows, and allows a market-determined rupee while
-RBI intervenes against disorderly conditions. This is a negotiated middle rather than
-a pure corner.
+**Model answer:** The trilemma prevents full combination of a fixed rate, unrestricted capital mobility and independent monetary policy. India retains an inflation-oriented monetary framework, permits substantial but calibrated flows, and allows a market-determined rupee. RBI may contain excessive or disruptive volatility but declares no fixed target or band.
 
-The framework has advantages. Exchange flexibility absorbs global shocks; reserves
-provide intervention capacity; and prudential rules temper volatile borrowing.
-Sterilisation can offset the liquidity effect of intervention. Yet each instrument has
-limits. Reserve defence can be exhausted, sterilisation carries interest and instrument
-costs, controls can distort allocation, and opaque intervention may encourage one-way
-expectations. Global rate increases still affect portfolio flows, ECB costs and the
-domestic policy trade-off.
+Exchange flexibility absorbs shocks; reserves support orderly markets; prudential rules moderate unstable borrowing; sterilisation offsets immediate liquidity. Current convertibility supports trade while differentiated capital rules preserve room.
 
-India therefore cannot simultaneously promise a rupee level, complete openness and an
-interest rate chosen solely for domestic conditions. The durable framework is a
-credible no-target managed float, two-way currency risk, deeper hedging markets,
-sequenced capital liberalisation, sound banks, prudent residual maturity and
-transparent reserve metrics. The trilemma is managed, not abolished.
+Limits remain. Reserve defence cannot defeat fundamentals; sterilisation carries costs; controls may distort finance; one-way intervention can weaken price discovery. Global rates still affect FPI, ECB cost, rollover and domestic policy. Depreciation may raise imported inflation and damage unhedged borrowers before trade adjusts.
+
+India manages rather than abolishes the trilemma through two-way currency risk, calibrated openness, usable reserves, hedging and credible macro policy. The objective is orderly adjustment, not an artificial currency level.
+
+**Scoring ceiling:** 4 mechanism; 5 India mix; 5 benefits/limits; 4 transmission; 2 verdict.
 
 # REMEDIATION
 
-## Error clinic
-
-| If you made this error | Repair rule | Return lesson |
+| Error | Repair rule | Return lesson |
 |---|---|---:|
-| Put every foreign flow in "capital account" | Use BPM6: narrow capital account, separate financial account | 3 |
-| Called a merchandise deficit a CAD | Add services, primary and secondary income | 2, 6 |
-| Said a rising ₹/USD quote means rupee appreciation | Name units: more rupees per dollar means depreciation | 8 |
-| Assumed depreciation guarantees export growth | Test elasticities, lags, capacity and imported inputs | 11, 12 |
-| Treated RBI dollar purchase as liquidity absorption | Purchase injects rupees; sale absorbs rupees | 15 |
-| Treated sterilisation as reversal of intervention | Draw a separate domestic-liquidity leg | 16 |
-| Equated reserve fall with dollar sale | Separate BoP transaction change from valuation | 17 |
-| Called SDR a currency or IMF loan | Define reserve asset, holdings, allocation, quota and RTP | 18 |
-| Used import cover as the sole adequacy test | Add residual debt, broad money, liabilities and stress | 19 |
-| Judged debt only by debt/GDP | Add borrower, currency, maturity, hedge and rollover | 20 |
+| Put every flow in “capital account” | Use narrow BPM6 capital plus separate financial account | 3 |
+| Treated goods deficit as CAD | Add services, primary and secondary income | 2, 6 |
+| Called rising ₹/USD appreciation | More rupees per dollar means rupee depreciation | 8 |
+| Assumed depreciation guarantees exports | Test pass-through, elasticities, lags and capacity | 10, 11 |
+| Reversed intervention liquidity | Dollar purchase injects; sale absorbs rupees | 13 |
+| Treated sterilisation as reversal | Draw separate FX and liquidity legs | 14 |
+| Equated reserve change with intervention | Separate transaction and valuation | 15 |
+| Called SDR currency or RTP an SDR holding | Define quota, allocation, holding and RTP | 18 |
+| Used import cover alone | Add residual debt, volatile flows and stress | 19 |
+| Judged debt only by debt/GDP | Add borrower, currency, maturity, rate, hedge and rollover | 20 |
 
-## Remedial MCQs
+## Remedial retrieval set
 
-**Mastery guidance:** Revisit the lesson named in the error clinic if either the
-classification rule or the causal explanation remains uncertain. A learner has cleared
-the topic when they can (i) post both sides of a new BoP transaction, (ii) solve quote
-and reserve-adequacy calculations without changing units, and (iii) defend a
-composition-based external-vulnerability verdict without using a single magic ratio.
+1. Post both sides of machinery imported on supplier credit.
+2. Explain why a remittance is secondary income and an NRI deposit is a financial liability.
+3. Convert ₹83/USD and USD 1.08/EUR into ₹/EUR using units.
+4. Draw a dollar sale followed by a liquidity injection.
+5. Reconcile nominal reserve decline 22.5 = transaction decline 8.1 + valuation loss 14.4.
+6. Diagnose floating dollar debt with rupee revenue and a maturity wall.
 
-**MCQ 69.** An Indian importer pays for machinery from current earnings. Where is the
-machinery transaction recorded?
-
-A. Goods debit in the current account
-B. Capital transfer in the capital account
-C. FDI in the financial account
-D. Primary-income debit
-
-**Answer: A**
-
-- **A is correct:** machinery is a merchandise import despite being a capital good.
-- **B is wrong:** no transfer without equivalent value occurs.
-- **C is wrong:** no lasting ownership relationship is created.
-- **D is wrong:** the payment is for a good, not interest or dividend.
-
-**MCQ 70.** The quote rises from ₹80/USD to ₹84/USD. Which statement is correct?
-
-A. Rupee appreciates by 5%.
-B. Rupee depreciates by 5%.
-C. Dollar depreciates by 4.76%.
-D. No bilateral value changes.
-
-**Answer: B**
-
-- **A is wrong:** a higher rupee cost per dollar means a weaker rupee.
-- **B is correct:** 4/80 x 100 = 5%.
-- **C is wrong:** the dollar appreciates; the inverse percentage uses a different base.
-- **D is wrong:** the relative price has changed.
-
-**MCQ 71.** RBI buys dollars and takes no offsetting liquidity action. What happens
-immediately?
-
-A. Rupee liquidity falls.
-B. RBI foreign assets fall.
-C. RBI foreign assets and rupee liquidity rise.
-D. Private external debt is extinguished.
-
-**Answer: C**
-
-- **A is wrong:** banks receive rupee balances.
-- **B is wrong:** RBI acquires the foreign currency.
-- **C is correct:** both sides of RBI's balance sheet expand.
-- **D is wrong:** intervention does not cancel private liabilities.
-
-**MCQ 72.** Which statement correctly distinguishes SDR holdings from RTP?
-
-A. Both are household currencies.
-B. Both are identical to programme loans.
-C. RTP is the market value of India's gold.
-D. SDR holdings and the quota-related liquid claim on IMF are separate reserve components.
-
-**Answer: D**
-
-- **A is wrong:** neither circulates as household currency.
-- **B is wrong:** neither is simply a conditional programme loan.
-- **C is wrong:** gold is another reserve component.
-- **D is correct:** the legal source and balance-sheet nature differ.
-
-**MCQ 73.** Which action most directly reduces a firm's currency mismatch?
-
-A. Matching dollar debt service with dollar export revenue
-B. Shortening maturity while leaving revenue in rupees
-C. Increasing floating-rate exposure
-D. Removing all debt disclosure
-
-**Answer: A**
-
-- **A is correct:** a natural hedge aligns liability and cash-flow currency.
-- **B is wrong:** it increases rollover pressure without fixing currency exposure.
-- **C is wrong:** it adds interest-rate risk.
-- **D is wrong:** opacity does not remove risk.
-
-**MCQ 74.** Which item belongs to secondary income?
-
-A. Dividend paid to a foreign shareholder
-B. Personal remittance received without an equivalent current service
-C. Purchase of a foreign bond
-D. Debt-financed machinery import
-
-**Answer: B**
-
-- **A is wrong:** dividends are primary investment income.
-- **B is correct:** it is a current transfer.
-- **C is wrong:** it is a financial-asset transaction.
-- **D is wrong:** it combines a goods debit and financial liability.
-
-**MCQ 75.** Which fact most weakens the claim that a large gross reserve stock is
-automatically adequate?
-
-A. Reserves are reported in dollars.
-B. Gold is a reserve component.
-C. Near-term residual debt and volatile outflows may be large relative to usable reserves.
-D. RBI publishes reserve data.
-
-**Answer: C**
-
-- **A is wrong:** reporting currency creates valuation issues but does not alone prove inadequacy.
-- **B is wrong:** composition matters, but gold's presence alone is not decisive.
-- **C is correct:** adequacy is the stock relative to plausible drains.
-- **D is wrong:** publication improves transparency.
-
-**MCQ 76.** Which statement about sterilised intervention is correct?
-
-A. It fixes the exchange rate permanently.
-B. It removes all interest costs.
-C. It prevents the reserve asset from appearing on RBI's balance sheet.
-D. It offsets the domestic-liquidity effect through a separate operation.
-
-**Answer: D**
-
-- **A is wrong:** sterilisation cannot guarantee a parity.
-- **B is wrong:** absorption instruments may carry costs.
-- **C is wrong:** the foreign asset remains unless sold.
-- **D is correct:** monetary impact is offset without reversing the FX leg.
+**Mastery rule:** classify a new transaction, state every quote and stock-flow convention, and defend a composition-based resilience verdict without one magic ratio.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
-## Master account-classification map
+## Complete account map
 
 ```text
 RESIDENT <-> NON-RESIDENT TRANSACTION
- |
- +-- current production/income/transfer?
- |      +-- goods
- |      +-- services
- |      +-- primary income
- |      +-- secondary income
- |
- +-- capital transfer or non-produced non-financial asset?
- |      +-- CAPITAL ACCOUNT
- |
- +-- financial asset/liability changes?
-        +-- direct investment
-        +-- portfolio investment
-        +-- derivatives
-        +-- other investment: loans/deposits/trade credit
-        +-- reserve assets
+ +-- current production/income/transfer? -> goods | services | primary | secondary
+ +-- capital transfer/non-produced asset? -> CAPITAL ACCOUNT
+ +-- financial asset/liability change? -> FDI | portfolio | derivatives
+                                         | loans/deposits | reserve assets
 ```
 
-## Master CAD-financing map
+## CAD diagnosis chain
 
 ```text
-CAD = investment - national saving
- |
- +-- Why? capital goods / oil shock / consumption / weak exports
- +-- Financed by? FDI / FPI / debt / deposits / reserves
- +-- Exposure? currency / maturity / hedge / borrower / concentration
- +-- Return? productivity and future FX earnings / no earning capacity
- |
- +--> sustainable absorption OR accumulating vulnerability
+CAD = INVESTMENT - NATIONAL SAVING
+ -> cause and use -> financing instrument -> currency/maturity/hedge
+ -> borrower/concentration -> future FX earnings -> buffer
+ -> PRODUCTIVE ABSORPTION or VULNERABILITY
 ```
 
-## Master depreciation map
+## Depreciation transmission
 
 ```text
 DEPRECIATION
- |
- +-- import invoice -> margins/taxes -> retail inflation
- +-- export price/revenue -> capacity/imported inputs -> volume
- +-- FX debt -> rupee service -> balance-sheet stress
- +-- expectations -> policy rate/capital flow -> exchange feedback
- +-- contracts and elasticities -> J-curve time path
+ +-> import invoice -> margins/taxes/inventory -> inflation
+ +-> export receipt -> inputs/capacity -> volume
+ +-> FX debt -> rupee service -> balance-sheet stress
+ +-> contracts + elasticities -> J-curve
 ```
 
-## Intervention and sterilisation balance-sheet map
+## Intervention matrix
 
-| Operation | RBI foreign assets | Rupee liquidity | Separate offset |
+| Operation | Foreign assets | Rupee liquidity | Offset |
 |---|---:|---:|---|
-| RBI buys USD | rises | injected | absorb domestic liquidity |
-| RBI sells USD | falls | absorbed | inject domestic liquidity if needed |
-| Sterilised purchase | remains higher | returns toward prior level | domestic asset sale/deposit absorption |
-| Sterilised sale | remains lower | returns toward prior level | domestic liquidity injection |
+| RBI buys USD | rises | injected | absorb liquidity |
+| RBI sells USD | falls | absorbed | inject if needed |
+| Sterilised purchase | remains higher | toward prior level | domestic absorption |
+| Sterilised sale | remains lower | toward prior level | domestic injection |
 
-## Reserve and debt stress map
+## Reserve-to-resilience map
 
 ```text
-GROSS RESERVES
- - valuation sensitivity
- - encumbrance/forward commitments
- = USABLE LIQUID BUFFER
-
-Compare with:
-imports + residual-maturity debt + portfolio reversal
-+ resident conversion + contingent needs
-
-Then ask:
-Can adjustment occur without disorderly compression?
+GROSS RESERVES - valuation/encumbrance/forwards = USABLE BUFFER
+COMPARE WITH imports + residual debt + portfolio reversal
+           + resident conversion + contingent needs
+ASK: can adjustment occur without disorder?
 ```
 
-## Argument map - should India accumulate more reserves?
+## Should India accumulate more reserves?
 
-| Case for more | Qualification |
+| Case | Qualification |
 |---|---|
-| insures imports and debt service | adequacy depends on plausible drains |
-| improves confidence | confidence also needs sound policy and data |
-| permits orderly intervention | defence cannot override fundamentals forever |
-| protects against sudden stops | private unhedged balance sheets may remain exposed |
-| provides crisis option value | liquidity, sterilisation and opportunity costs exist |
-
-**Reasoned verdict:** reserve accumulation is justified until marginal insurance
-benefit is outweighed by financial, monetary and opportunity costs; the optimum is a
-stress-tested range, not a prestige ranking.
+| insures payments | test simultaneous drains |
+| improves confidence | sound policy and data also matter |
+| permits intervention | cannot override fundamentals forever |
+| protects against sudden stops | private unhedged risk remains |
+| offers crisis option value | carrying and opportunity costs remain |
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-## 1. Core definitions
+## BoP ledger
 
-- **BoP:** period statement of resident-non-resident economic transactions.
-- **IIP:** stock statement of external financial assets and liabilities at a date.
-- **Residence:** centre of predominant economic interest, not passport alone.
-- **Credit:** export/receipt, liability increase or foreign-asset reduction in the
-  elementary debit-credit presentation.
-- **Debit:** import/payment, foreign-asset increase or liability reduction.
-- **CAD:** current-account debits exceed credits; macro identity is investment minus
-  national saving.
+- Period statement of resident–non-resident transactions; IIP is the stock statement.
+- Residence follows centre of predominant economic interest, not nationality.
+- Credit: export/receipt, asset reduction, liability increase. Debit: import/payment, asset increase, liability reduction.
+- Double entry closes the ledger; financing quality determines strain.
+- Errors and omissions reconcile statistical gaps.
 
-## 2. Current account
+## Current account
 
-| Component | Includes | Common trap |
+| Component | Includes | Trap |
 |---|---|---|
-| Goods | merchandise exports/imports | capital good is still a goods import |
-| Services | software, travel, transport, finance | not in customs merchandise balance |
-| Primary income | wages, interest, dividends, reinvested earnings | remittance is not automatically primary income |
-| Secondary income | current transfers, personal remittances | not FDI or capital transfer |
+| Goods | merchandise | machinery is still goods |
+| Services | software, travel, transport, finance | outside merchandise customs balance |
+| Primary income | compensation, interest, dividends | not family transfer |
+| Secondary income | current transfers, remittances | not FDI or exports |
 
-## 3. Capital and financial accounts
+- Q1 FY2026-27: CAD USD 4.2 billion/0.5% GDP; goods deficit USD 86.1 billion; services net USD 51.6 billion; primary outgo USD 10.5 billion; personal transfers USD 42.9 billion.
 
-- Narrow BPM6 capital account = capital transfers + non-produced non-financial assets.
-- Financial account = FDI + FPI + derivatives + other investment + reserve assets.
-- Older Indian sources may use "capital account" broadly; state the vintage.
-- FDI implies lasting interest/influence; FPI is a tradable claim without equivalent
-  control.
-- ECB vulnerability = global rate + currency mismatch + rollover + cash-flow risk.
+## Capital, finance and CAD
 
-## 4. CAD diagnosis
+- Narrow capital account = capital transfers + non-produced non-financial assets.
+- Financial account = FDI + FPI + derivatives + other investment + reserves.
+- Older Indian “capital account” can be a broad vintage label; state the convention.
+- FDI implies lasting interest; FPI is a tradable claim without equivalent control.
+- CAD memory chain: **Cause -> Use -> Flow -> Currency -> Maturity -> Hedge -> Buffer -> Return**.
+- ECB shock: global rate + depreciation + rollover difficulty.
 
-> **Memory chain:** **Cause -> Composition -> Financing -> Currency -> Maturity -> Hedge
-> -> Buffer -> Return.**
+## Convertibility and currency language
 
-- Productive CAD: machinery/technology, stable equity, future export capacity.
-- Fragile CAD: consumption boom, short-term debt, unhedged currency exposure, reserve
-  depletion.
-- No universal CAD/GDP safety threshold.
-- Twin deficits are a possible causal link, not an identity.
+- Current convertibility operates within FEMA rules; capital convertibility is calibrated.
+- ₹/USD rises -> rupee depreciates. State the quote before the direction.
+- Depreciation/appreciation are market movements; devaluation/revaluation are official parity changes.
+- India: market-determined managed float; RBI contains excessive/disruptive volatility, not a fixed level.
 
-## 5. India's current-account structure
+## Pass-through, J-curve, NEER and REER
 
-- Merchandise deficit reflects energy, electronics, gold and capital-goods demand.
-- Services and personal transfers provide recurring cushions.
-- Net primary-income outgo partly offsets those cushions.
-- Q1 FY2026-27, RBI release dated 1 September 2026:
-  - CAD USD 4.2 billion or 0.5% GDP;
-  - merchandise deficit USD 86.1 billion;
-  - net services receipts USD 51.6 billion;
-  - primary-income outgo USD 10.5 billion;
-  - personal-transfer receipts USD 42.9 billion.
+- Hedges, inventories, taxes, margins, demand and imported inputs mediate pass-through.
+- FX liabilities rise in rupee terms after depreciation.
+- Marshall-Lerner requires sufficient export/import demand elasticities under simplifying assumptions.
+- J-curve: invoice effect precedes quantity adjustment.
+- NEER is trade-weighted nominal movement; REER adjusts relative prices/costs.
+- State basket, weights, base and orientation; REER is not total competitiveness.
 
-## 6. Convertibility
+## Intervention and sterilisation
 
-- Current-account convertibility operates within FEMA rules, not without any
-  restriction.
-- RBI current-remittance Master Direction was updated 6 May 2026.
-- Capital convertibility is calibrated by instrument, resident, sector and prudential
-  condition.
-- A machinery import is current-account goods; a foreign-bond purchase is a capital
-  transaction.
+- Buy dollars -> foreign assets and rupee liquidity rise.
+- Sell dollars -> both fall.
+- Sterilisation offsets liquidity through a separate domestic operation; it leaves the FX leg.
+- Costs include carry, instrument constraints, yield effects, repeated flows and expectations.
+- Read spot, forwards and swaps together.
 
-## 7. Exchange-rate calculations
+## Reserves and latest snapshot
 
-```text
-₹/USD rises -> rupee depreciates
-₹/USD falls -> rupee appreciates
-
-percentage change = (new - old) / old x 100
-
-cross rate:
-₹/EUR = ₹/USD x USD/EUR
-```
-
-- Bid: dealer buys base/foreign currency.
-- Ask: dealer sells it.
-- Percentage depreciation and reversal are asymmetric.
-- Devaluation is official parity reduction; depreciation is market-driven.
-
-## 8. Pass-through and trade adjustment
-
-- Invoice effect precedes retail effect.
-- Margins, taxes, hedges, inventory and demand mediate pass-through.
-- Export gains depend on capacity, imported inputs and competitor currencies.
-- Foreign-currency debt can create balance-sheet contraction.
-- Marshall-Lerner: absolute export plus import demand elasticities exceed one under
-  simplifying assumptions.
-- J-curve: trade balance may worsen before quantity adjustment improves it.
-
-## 9. NEER and REER
-
-- NEER = trade-weighted nominal basket index.
-- REER = NEER adjusted for relative prices.
-- RBI methodology retrieved 24 September 2026: 40-currency basket, base 2015-16, CPI
-  price adjustment.
-- State index orientation.
-- REER measures price competitiveness, not logistics, quality or productivity.
-
-## 10. Impossible trinity
-
-```text
-fixed rate + free capital -> constrained monetary autonomy
-fixed rate + monetary autonomy -> constrained capital mobility
-free capital + monetary autonomy -> flexible exchange rate
-```
-
-- India: managed flexibility + calibrated capital mobility + constrained but real
-  monetary autonomy.
-- Reserves, intervention and macroprudential rules buy room; they do not abolish the
-  trade-off.
-
-## 11. Intervention and sterilisation
-
-- Buy dollars -> foreign assets up, rupee liquidity up.
-- Sell dollars -> foreign assets down, rupee liquidity down.
-- Sterilise purchase -> absorb rupee liquidity through separate domestic operation.
-- Sterilise sale -> inject liquidity separately if needed.
-- Costs: interest differential, instrument limits, repeated inflows, market signals.
-
-## 12. Reserve composition and change
-
-- Components: FCA + gold + SDR holdings + RTP.
+- Components: FCA + gold + SDR holdings + IMF reserve position.
 - FCA are multi-currency assets expressed in dollars.
-- Nominal reserve change = BoP transaction change + valuation change.
-- Q1 FY2026-27, release dated 1 September 2026:
-  - BoP-basis reserve decline USD 8.1 billion;
-  - valuation loss USD 14.4 billion;
-  - nominal decline USD 22.5 billion.
-- End-March 2026 reserves: USD 691.11 billion in RBI's 46th half-yearly report.
+- Q1 FY2026-27: BoP-basis decline USD 8.1 billion; valuation loss USD 14.4 billion; nominal decline USD 22.5 billion.
+- RBI release published 2 October 2026 for 25 September: total USD 747.557 billion; FCA 615.411; gold 108.701; SDR 18.642; IMF position 4.804. Provisional dated stock.
+- Safety and liquidity precede return optimisation.
 
-## 13. IMF distinctions
+## IMF reserve distinctions
 
-- SDR = international reserve asset, not currency.
-- SDR = potential claim on freely usable currencies.
-- Basket = USD, euro, renminbi, yen, sterling.
-- Allocation creates holdings and an allocation position.
-- Quota influences contribution, vote, access and allocation share.
-- RTP = separate liquid quota-related claim on IMF.
+- SDR is a reserve asset and potential claim on freely usable currencies, not circulating currency.
+- Allocation creates holdings and an allocation position broadly by quota share.
+- Quota affects contribution, vote, access and allocation share.
+- RTP is a separate liquid quota-related claim, not an SDR balance or ordinary programme loan.
 
-## 14. Reserve adequacy
+## Adequacy and debt
 
-- Import cover = reserves / average monthly imports.
-- Greenspan-Guidotti = cover debt due within one year.
-- Prefer residual maturity for near-term obligations.
-- IMF ARA considers short-term debt, broad money, exports and other liabilities.
-- Add usable-reserve haircut, forward positions and simultaneous stress.
-- No one ratio is sufficient.
+- Import cover tests trade payments; Greenspan-Guidotti tests debt due within a year.
+- Residual maturity includes long-term debt now falling due.
+- Add broad money, volatile liabilities, forwards, usable-reserve haircut and stress.
+- RBI half-yearly report: end-December 2025 import cover 10.8 months; original short-term debt/reserves 21.9%; volatile capital flows/reserves 69.1%.
+- RBI end-March 2026: debt USD 762.8 billion; 20.8% GDP; original short-term 19.6% of debt; residual debt due within year 42.9%; residual debt/reserves 47.3%.
+- Currency shares: USD 55.5%, INR 29.4%, yen 6.4%, SDR 4.3%, euro 3.7%.
+- Rupee-denominated debt remains external when owed to a non-resident.
 
-## 15. External debt
+## Crisis comparison and answer spine
 
-> **Mnemonic:** **Who - Currency - Rate - Maturity - Hedge - Use - Lender.**
-
-- DEA December 2025 report, March 2026 release:
-  - total debt USD 765.5 billion;
-  - debt/GDP 20.4%;
-  - short-term original maturity 19.7% of debt;
-  - residual-maturity debt due within year 43.2% of debt;
-  - residual-maturity debt/reserves 48.1%;
-  - currency: USD 54.8%, INR 30.1%, yen 6.3%, SDR 4.3%, euro 3.7%.
-- Rupee-denominated debt remains external if owed to non-resident.
-- Reserves are macro insurance, not an automatic firm-level hedge.
-
-## 16. Crisis comparison
-
-| Episode | Dominant transmission | Core lesson |
+| Episode | Transmission | Lesson |
 |---|---|---|
-| 1991 | reserve/payment and structural constraint | financing confidence and macro fundamentals interact |
-| 2013 | global-rate repricing and portfolio pressure | CAD and volatile financing amplify sudden stops |
-| 2020 | trade/demand collapse with import compression | identical global shock can yield different BoP outcome |
-
-## 17. Final answer template
+| 1991 | low usable reserves plus macro/financing loss | buffers cannot replace fundamentals |
+| 2013 | global-rate repricing, flows and rupee pressure | volatile financing amplifies CAD |
+| 2020 | disruption with import compression | initial structure changes outcomes |
 
 ```text
-Define the exact external-sector object.
-State whether it is stock/flow and current/financial.
-Trace the mechanism in 4-6 arrows.
-Add composition: currency, maturity, borrower, hedge.
-Use one dated Indian fact.
-Present counter-channel or cost.
-Conclude with a stress-tested, conditional verdict.
+DEFINE object and resident boundary
+ -> STATE stock/flow and account/quote convention
+ -> TRACE mechanism
+ -> ADD currency/maturity/borrower/hedge
+ -> USE dated Indian evidence
+ -> QUALIFY cost/counter-channel
+ -> CONCLUDE conditionally
 ```
 
 # COVERAGE MATRIX
 
-| Coverage obligation | Main location | Practice/evidence |
+| Obligation | Location | Control/application |
 |---|---|---|
-| Residence, period and stock-flow boundary | Lesson 1 | MCQs 1-3, 57 |
-| Double-entry and errors/omissions | Lesson 1 | import-loan and export-deposit drills |
-| Current-account classification | Lesson 2 | MCQs 4-5, 67, 69, 74 |
-| Narrow capital versus financial account | Lesson 3 | MCQs 6-8 |
-| FDI, FPI, ECB, deposits, derivatives | Lesson 4 | MCQs 9-10; 2020/2021 PYQs |
-| CAD financing and sustainability | Lesson 5 | MCQs 11-14, 58; Mains Q1 |
-| India's goods/services/remittance structure | Lesson 6 | MCQs 15-16; Q1 FY2026-27 case |
-| Convertibility and FEMA | Lesson 7 | MCQs 17-19 |
-| Quotation and percentage calculations | Lesson 8 | MCQs 20-22, 68, 70 |
-| Cross-rate and triangular consistency | Lesson 9 | MCQs 23-24 |
-| Exchange-rate regimes and managed float | Lesson 10 | MCQs 25-27 |
-| Pass-through and balance-sheet effects | Lesson 11 | MCQs 28-31; Mains Q3 |
-| Marshall-Lerner and J-curve | Lesson 12 | MCQs 32-34, 64 |
-| NEER/REER | Lesson 13 | MCQs 35-37, 59; 2022 Q2 |
-| Impossible trinity | Lesson 14 | MCQs 38-39, 63; Mains Q6 |
-| Intervention balance sheet | Lesson 15 | MCQs 40-42, 71 |
-| Sterilisation | Lesson 16 | MCQs 43-45, 60, 76 |
-| Reserve composition and valuation | Lesson 17 | MCQs 46-47, 66; Mains Q4 |
-| SDR, quota and RTP | Lesson 18 | MCQs 48-50, 62, 72 |
-| Reserve adequacy | Lesson 19 | MCQs 51-53, 61, 75 |
-| External debt and crisis vulnerability | Lesson 20 | MCQs 54-56, 65, 73; Mains Q5 |
-| PYQ provenance through 2026 | Verified PYQ section | Direct/cross-link/exclusion tables |
-| Consolidated revision | Register notes | 17-part final notebook |
+| Residence, period, IIP, double entry | Lesson 1 | 2019 Q63/65 context |
+| Goods, services, incomes, transfers, invisibles | Lesson 2 | Q1 FY2026-27 |
+| Capital versus financial | Lesson 3 | 2020 Q51; 2021 Q7 |
+| FDI, FPI, ECB, deposits, derivatives | Lesson 4 | 2022 Q61 |
+| CAD financing/sustainability | Lesson 5 | 2019 Q65; 2020 Q49 |
+| India services/remittance cushion | Lesson 6 | RBI/Survey evidence |
+| FEMA and convertibility | Lesson 7 | legal boundary |
+| Quotes and percentage mechanics | Lesson 8 | numerical check |
+| Regimes and devaluation | Lesson 9 | 2021 Q8 |
+| Pass-through/balance sheets | Lesson 10 | imported inflation/ECB |
+| Marshall-Lerner/J-curve | Lesson 11 | trade adjustment |
+| NEER/REER | Lesson 12 | 2022 Q2 |
+| Intervention | Lesson 13 | balance-sheet mechanics |
+| Sterilisation | Lesson 14 | Topic 4 cross-owner |
+| Reserve composition/valuation/gold trap | Lesson 15 | 2023 Q86; latest stock |
+| Cross-rates | Optional Lesson 16 | numerical enrichment |
+| Trilemma | Optional Lesson 17 | policy-space enrichment |
+| SDR/quota/RTP | Optional Lesson 18 | IMF boundary |
+| Reserve adequacy | Optional Lesson 19 | dashboard/stress |
+| External debt/IIP/crises | Optional Lesson 20 | 2019/2020/2022 routes |
+| Mains models and ceilings | Final Mains | six unique rubrics |
+| No compiled MCQs | Whole file | one concept trio per lesson |
+| PYQs through 2026 | PYQ index | direct/cross/excluded separated |
 
 # SOURCE LEDGER
 
-## Canonical repository owners
+## SOURCE-MANIFEST GATE
 
-| Source | Use |
-|---|---|
-| `upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` | Primary syllabus and PYQ owner |
-| `upsc-ai-kit/knowledge/Economy/advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` | Financing quality, trilemma, adequacy and vulnerability |
-| `upsc-ai-kit/knowledge/Economy/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves_Learner-V2-Complete-Topic-Package.md` | Completeness audit only; repetitive shell not inherited |
-| `upsc-ai-kit/knowledge/Economy/learning-sessions/v2/subject-wide-syllabus/economy-19_Learning-Session.md` | Prior learning-scope audit |
-| `upsc-ai-kit/knowledge/Economy/learning-sessions/v2/subject-wide-syllabus/economy-19_Solved-Workbook.md` | Concept and practice-gap audit; generic distractors not reused |
-| `upsc-ai-kit/manifests/v2/economy--subject-wide-syllabus.json` | Topic status and syllabus mapping |
-
-## PYQ ledgers
-
-| Source | Status/use |
-|---|---|
-| `_PYQ-ROUTING-PRELIMS-2018-2023.md` | Controls nine direct demands; historical official keys unavailable locally |
-| `_PYQ-ROUTING-PRELIMS-2024-2025.md` | Confirms 2024 sovereign-bond and 2025 RBI-income questions are owned elsewhere |
-| `_PYQ-ROUTING-PRELIMS-2026.md` | Confirms no direct Topic 19 route; 2026 keys are provisional |
-| `notes/Economy/PYQ_Prelims_Economy_2025.md` | Records official key A for RBI-income cross-link |
-| `notes/Economy/PYQ_Prelims_Economy_2026.md` | Provisional only; no answer imported |
-
-## OCR-searchable books and official publications
-
-| Source | Publication/status date | Retrieval/use boundary |
+| Category | Status | Evidence or reason |
 |---|---|---|
-| Ramesh Singh, *Indian Economy*, external-sector chapter in local OCR PDF | Edition-specific book context | Stable concepts used; outdated figures and broad legacy "capital account" language not treated as current |
-| Economic Survey 2025-26, Chapter 4, local official PDF | Tabled 29 January 2026 | External-sector context; internal data dates retained |
-| RBI, BPM6 BoP methodology pages | Official methodology; retrieved 24 September 2026 | Residence, accounts, signs and double entry |
-| RBI, *Developments in India's Balance of Payments during Q1:2026-27* | Published 1 September 2026 | CAD and current/financial-account components |
-| RBI, *Sources of Variation in Foreign Exchange Reserves during Q1:2026-27* | Published 1 September 2026 | Transaction, valuation and nominal reserve changes |
-| RBI, Master Direction on current-account remittances | Updated 6 May 2026 | FEMA current-transaction architecture |
-| RBI, Master Direction - External Commercial Borrowings, Trade Credits and Structured Obligations | Updated 8 September 2026 | Qualitative ECB regulatory architecture; no unverified numerical limit frozen |
-| RBI, 46th Half-Yearly Report on Management of Foreign Exchange Reserves | Covers October 2025-March 2026; retrieved 24 September 2026 | End-March reserve stock, composition and adequacy |
-| DEA, *Quarterly External Debt Report for Quarter Ending December 2025* | Released March 2026; retrieved 24 September 2026 | Debt stock, GDP ratio, maturity and currency composition |
-| IMF, SDR factsheet and FAQ | Official pages verified 24 September 2026 | Direct fetch returned HTTP 403; facts verified through official IMF-indexed results |
-| IMF, reserve-adequacy guidance | Official guidance verified 24 September 2026 | ARA components and multidimensional adequacy |
+| Canonical Markdown | checked | Exact Basic owner `upsc-ai-kit/knowledge/Economy/basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` read and mapped. |
+| Final learner package | not relevant | Permanently excluded by the live-session source-exclusion rule. |
+| Layered/complete session | not relevant | Learner-v2 and derived complete packages are excluded for this workflow. |
+| Solved workbook | not relevant | Permanently excluded by the live-session source-exclusion rule. |
+| Advanced dossier | checked | Exact Advanced owner read; enrichment remains after Core. |
+| OCR books | checked | Ramesh Singh external-sector chapter and Economic Survey 2025-26 Chapter 4 OCR-read; stale figures excluded. |
+| PYQs through 2026 | checked | Local 2018-2023, 2024-2025 and 2026 routing ledgers control ownership and key status. |
+| Official live sources | checked | RBI BoP, reserve variation, reserve management, weekly reserves, policy statement and end-March 2026 external-debt release checked through 3 October 2026. |
 
-## Evidence-control notes
+## Repository sources actually used
 
-1. All lesson calculations using invented exchange rates are explicitly hypothetical.
-2. No live exchange-rate level is presented as a current claim.
-3. Q1 FY2026-27 figures use RBI's modern BoP release; an accompanying reserve-variation
-   table warns that its "capital account" grouping uses an older format.
-4. The end-March 2026 reserve stock is not described as the live 24 September stock.
-5. DEA's December 2025 debt figures retain their quarter-end reference and March 2026
-   release status.
-6. Historical PYQ answers are not inferred where official keys are unavailable locally.
-7. Topic 19 remains generation-only and is not represented here as indexed or released.
+- Core and Advanced Topic 19 owners.
+- Economy Topic 4 cross owners for intervention/sterilisation.
+- Economy Topic 20 cross owners for trade balance and competitiveness.
+- Economy Topic 21 cross owners for SDR, quota and RTP.
+- `_PYQ-ROUTING-PRELIMS-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2026.md`.
+- `books/Indian economy ramesh singh.pdf`; `books/economic-survey-2025-26.pdf`.
+
+## Official evidence and boundaries
+
+| Source | Date/status | Use |
+|---|---|---|
+| RBI BPM6 concepts/manual | official methodology | residence, accounts, double entry and signs |
+| RBI Q1 FY2026-27 BoP | 1 September 2026 | CAD and account components |
+| RBI Q1 reserve variation | 1 September 2026 | transaction/valuation reconciliation; old-format capital grouping treated as vintage |
+| RBI 46th reserve-management report | end-March 2026 report | composition, deployment, objectives and adequacy |
+| RBI weekly reserves | 25 September position; published 2 October 2026 | latest stock by cutoff; provisional |
+| RBI policy statement | 8 April 2026 | market determination and volatility intervention |
+| RBI, *India's External Debt as at the end of March 2026* | 29 June 2026; `https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63041` | Headline and valuation facts: PDF page 1; Table 1: page 3; Table 2 residual maturity: page 4; Tables 3-4 sector/instrument: page 5; Table 5 indicators: page 6. PDF: `https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR563E39149DA01F44968BA284AFAE0A7F4BF.PDF`. |
+| RBI external-debt data statements | linked from the 29 June 2026 release | Statement I, IMF format: `https://rbidocs.rbi.org.in/rdocs/content/docs/EXTERNALDEBT29062026_ST1.xlsx`; Statement II, old format: `https://rbidocs.rbi.org.in/rdocs/content/docs/EXTERNALDEBT29062026_ST2.xlsx`. |
+
+## Truthful current-status manifest
+
+1. Every mutable fact carries a reference/status date.
+2. The weekly stock updates only the latest-stock sentence; the half-yearly report controls management and adequacy detail.
+3. No live rupee level, intervention amount or unofficial answer key is asserted.
+4. RBI's 29 June 2026 end-March release is the controlling external-debt source; table and page references above were checked against its six-page PDF and linked data statements.
+5. Hypothetical calculations are mechanisms, not observations.
+6. Core owner material is completed before optional enrichment.
+7. No compiled MCQ corpus, solved-PYQ leakage or prohibited derived-package source is present.
