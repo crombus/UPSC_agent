@@ -250,6 +250,7 @@
 | Polity | Topic 47 - Comparative Constitutional Design | 13 | 16,104 | `7730422c08b2` | [Polity/47-Comparative-Constitutional-Design/Learning-Session-Live-Edition.md](Polity/47-Comparative-Constitutional-Design/Learning-Session-Live-Edition.md) |
 | Polity | Topic 48 - Ministries, Departments and Central Secretariat | 12 | 15,560 | `3a13556a63ba` | [Polity/48-Ministries-Departments-and-Central-Secretariat/Learning-Session-Live-Edition.md](Polity/48-Ministries-Departments-and-Central-Secretariat/Learning-Session-Live-Edition.md) |
 | Polity | Topic 49 - Regulatory State and Quasi-Judicial Institutions | 15 | 22,291 | `f84d23c631c9` | [Polity/49-Regulatory-State-and-Quasi-Judicial-Institutions/Learning-Session-Live-Edition.md](Polity/49-Regulatory-State-and-Quasi-Judicial-Institutions/Learning-Session-Live-Edition.md) |
+| Polity | Topic 50 - Concept of the Constitution | 10 | 11,780 | `e323b07ae0b4` | [Polity/50-Concept-of-the-Constitution/Learning-Session-Live-Edition.md](Polity/50-Concept-of-the-Constitution/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
