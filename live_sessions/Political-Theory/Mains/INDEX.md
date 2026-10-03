@@ -7,3 +7,4 @@ sessions remain indexed in `live_sessions\INDEX.md`.
 |---|---|---:|---:|---|---|
 | Political Theory Mains | Topic 01 - Nature and Significance of Political Theory | 10 | 28,705 | `fa65a76f5341` | [01-Nature-and-Significance-of-Political-Theory/Mains-Focused-Live-Edition.md](01-Nature-and-Significance-of-Political-Theory/Mains-Focused-Live-Edition.md) |
 | Political Theory Mains | Topic 02 - Ideology and End of Ideology | 11 | 38,953 | `e57b91d764fe` | [02-Ideology-and-End-of-Ideology/Mains-Focused-Live-Edition.md](02-Ideology-and-End-of-Ideology/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 03 - Liberalism and Neoliberalism | 10 | 27,458 | `94543027c181` | [03-Liberalism-and-Neoliberalism/Mains-Focused-Live-Edition.md](03-Liberalism-and-Neoliberalism/Mains-Focused-Live-Edition.md) |
