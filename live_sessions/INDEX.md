@@ -253,6 +253,7 @@
 | Polity | Topic 50 - Concept of the Constitution | 10 | 11,780 | `e323b07ae0b4` | [Polity/50-Concept-of-the-Constitution/Learning-Session-Live-Edition.md](Polity/50-Concept-of-the-Constitution/Learning-Session-Live-Edition.md) |
 | Polity | Topic 51 - Rights and Liabilities of the Government | 9 | 14,692 | `aca05346a39e` | [Polity/51-Rights-and-Liabilities-of-the-Government/Learning-Session-Live-Edition.md](Polity/51-Rights-and-Liabilities-of-the-Government/Learning-Session-Live-Edition.md) |
 | Polity | Topic 52 - NCRWC and Working of the Constitution | 12 | 19,493 | `7ba4f28d7d52` | [Polity/52-NCRWC-and-Working-of-the-Constitution/Learning-Session-Live-Edition.md](Polity/52-NCRWC-and-Working-of-the-Constitution/Learning-Session-Live-Edition.md) |
+| Polity | Topic 53 - Special Provisions Relating to Certain Classes | 8 | 10,152 | `3bbbaa79fee7` | [Polity/53-Special-Provisions-Relating-to-Certain-Classes/Learning-Session-Live-Edition.md](Polity/53-Special-Provisions-Relating-to-Certain-Classes/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
