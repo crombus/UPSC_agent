@@ -254,6 +254,7 @@
 | Polity | Topic 51 - Rights and Liabilities of the Government | 9 | 14,692 | `aca05346a39e` | [Polity/51-Rights-and-Liabilities-of-the-Government/Learning-Session-Live-Edition.md](Polity/51-Rights-and-Liabilities-of-the-Government/Learning-Session-Live-Edition.md) |
 | Polity | Topic 52 - NCRWC and Working of the Constitution | 12 | 19,493 | `7ba4f28d7d52` | [Polity/52-NCRWC-and-Working-of-the-Constitution/Learning-Session-Live-Edition.md](Polity/52-NCRWC-and-Working-of-the-Constitution/Learning-Session-Live-Edition.md) |
 | Polity | Topic 53 - Special Provisions Relating to Certain Classes | 8 | 10,152 | `3bbbaa79fee7` | [Polity/53-Special-Provisions-Relating-to-Certain-Classes/Learning-Session-Live-Edition.md](Polity/53-Special-Provisions-Relating-to-Certain-Classes/Learning-Session-Live-Edition.md) |
+| Polity | Topic 54 - Lok Adalats and Other Courts | 11 | 15,369 | `79ba408b2187` | [Polity/54-Lok-Adalats-and-Other-Courts/Learning-Session-Live-Edition.md](Polity/54-Lok-Adalats-and-Other-Courts/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
