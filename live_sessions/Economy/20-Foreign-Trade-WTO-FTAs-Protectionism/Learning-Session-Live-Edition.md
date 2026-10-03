@@ -1,71 +1,65 @@
 # Economy 20 - Foreign Trade, WTO, FTAs and Protectionism
 
-> **Generation status:** complete learner-first live edition generated on 24 September 2026.
-> **Evidence convention:** ✅ Fact = directly supported by a cited canonical, official-paper, OCR-book or official-document source. ⚠️ Analytical inference = reasoned synthesis.
-> **Current-claim boundary:** every mutable claim carries a publication, status or retrieval date. The Economic Survey 2025-26 was tabled on 29 January 2026. The Department of Commerce FY2025-26 trade release is dated 15 April 2026. Official web sources were retrieved on 24 September 2026 IST. Stable definitions, legal architecture and textbook calculations explicitly need no separate current claim.
+> **Generation status:** fully rebuilt learner-first live edition, 3 October 2026.
+> **Learner-first lock:** visual intuition comes before terminology; every lesson moves through mechanism, India application, exam use, revision, one concept-check trio and one responsive Mains model.
+> **Evidence convention:** ✅ Fact = directly supported by a canonical owner, verified PYQ record, OCR-searchable local book or dated official source. ⚠️ Inference = reasoned analysis.
+> **Current-claim boundary:** official WTO and Department of Commerce material was checked through 3 October 2026 IST. August 2026 is the latest official monthly India trade release used here; September 2026 trade data were not treated as available. Stable doctrine and calculations do not receive artificial current dates.
+> **Ownership boundary:** this topic owns trade theory, trade instruments, WTO architecture, FTAs, foreign-trade policy, protectionism and GVC/geoeconomic synthesis. Detailed farm-subsidy design remains with Economy Topic 28; domestic carbon-market design remains with Topic 25; patent commercialisation remains with Science and Technology Topic 17.
 
 ## Frozen dependency roadmap - 21 lessons
 
-| # | Learner-facing lesson | Stage |
+| # | Learner-facing lesson | Block |
 |---:|---|---|
-| 1 | Why countries trade: absolute and comparative advantage | Foundation |
-| 2 | Opportunity cost, specialisation and terms of trade | Foundation |
-| 3 | Tariffs: price wedges, incidence and welfare | Foundation |
+| 1 | Why countries trade: absolute and comparative advantage | Core |
+| 2 | Opportunity cost, specialisation and terms of trade | Core |
+| 3 | Tariffs: price wedges, incidence and welfare | Core |
 | 4 | Quotas, tariff-rate quotas and effective protection | Core |
 | 5 | WTO architecture: principles, bindings and exceptions | Core |
-| 6 | The WTO agreement map: goods, services, IP and regulation | Core |
-| 7 | Agreement on Agriculture: pillars, boxes and AMS | Advanced |
-| 8 | Public stockholding, the Peace Clause and food-security equity | Advanced |
-| 9 | SPS and TBT: legitimate regulation versus disguised restriction | Core |
-| 10 | Trade remedies: anti-dumping, countervailing and safeguards | Core |
-| 11 | FTAs, customs unions and the legal-status ladder | Core |
-| 12 | Rules of origin and value-addition calculations | Advanced |
-| 13 | Trade creation, trade diversion and the welfare test | Advanced |
-| 14 | GATS and the four modes of services supply | Core |
-| 15 | India's export basket: merchandise, services and diversification | Core |
-| 16 | Global value chains, imported inputs and downstream competitiveness | Advanced |
-| 17 | Trade facilitation, standards capacity and export reliability | Core |
-| 18 | Protectionism: infant industry, jobs and political economy | Advanced |
-| 19 | Industrial policy, resilience and national-security trade-offs | Advanced |
-| 20 | Dispute settlement, Appellate Body paralysis and WTO reform | Advanced |
-| 21 | India's selective FTA strategy and a balanced trade-policy framework | Advanced |
-
+| 6 | WTO agreement map: goods, services, IP and trade-linked investment | Core |
+| 7 | SPS and TBT: legitimate regulation versus disguised restriction | Core |
+| 8 | Trade remedies: anti-dumping, countervailing and safeguards | Core |
+| 9 | FTAs, CEPA/ECTA/TEPA and the legal-status ladder | Core |
+| 10 | GATS and the four modes of services supply | Core |
+| 11 | India's merchandise-services export basket and diversification | Core |
+| 12 | Foreign Trade Policy 2023, export-import institutions and facilitation | Core |
+| 13 | Protectionism: infant industry, jobs and political economy | Core |
+| 14 | India's selective FTA strategy and balanced trade-policy framework | Core synthesis |
+| 15 | Agreement on Agriculture: pillars, boxes and AMS | Optional Advanced |
+| 16 | Public stockholding, the Peace Clause and food-security equity | Optional Advanced |
+| 17 | Rules of origin, cumulation and value-addition calculations | Optional Advanced |
+| 18 | Trade creation, trade diversion and the welfare test | Optional Advanced |
+| 19 | GVCs, imported inputs and downstream competitiveness | Optional Advanced |
+| 20 | Industrial policy, resilience, CBAM and geoeconomics | Optional Advanced |
+| 21 | Dispute settlement, Appellate Body paralysis and WTO reform | Optional Advanced |
 
 ```text
-OPPORTUNITY COST AND SPECIALISATION
-              |
-              v
- TARIFFS / QUOTAS / STANDARDS / REMEDIES
-              |
-              v
- WTO RULES + FTA PREFERENCES + ORIGIN
-              |
-              v
- FIRMS + SERVICES + GVCs + DISTRIBUTION
-              |
-              v
- CAPABILITY + RESILIENCE + DEVELOPMENT + REFORM
+TRADE GAINS
+   -> BORDER AND BEHIND-BORDER INSTRUMENTS
+      -> WTO MULTILATERAL RULES
+         -> FTA PREFERENCES + ORIGIN + UTILISATION
+            -> EXPORT-IMPORT INSTITUTIONS + FIRM CAPABILITY
+               -> GVCs + DISTRIBUTION + RESILIENCE
+                  -> GEOECONOMICS + WTO REFORM
 ```
 
-The roadmap moves from the reason for trade to border incidence, legal rules, agreement
-design, firm capability and strategic governance. AoA and public stockholding are taught
-inside Topic 20 for WTO completeness while Topic 28 remains the dedicated farm-subsidy
-owner.
+The Core block is sufficient for a competent GS-III answer. The final seven lessons are a
+distinct enrichment block: they deepen calculations, agriculture law, GVC measurement,
+geoeconomic trade-offs and institutional reform without becoming prerequisites for the Core.
 
----
+## CORE LEARNING SESSION
 
 ## Lesson 1 - Why countries trade: absolute and comparative advantage
 
-**Progress: 1/21 | Stage: Foundation | Subtopic: Why countries trade: absolute and comparative advantage**
+Progress: 1/21 | Stage: Core | Subtopic: Why countries trade: absolute and comparative advantage
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Core trade-theory chapter and Ramesh Singh comparative-advantage passages queried
 CA search: "WTO comparative advantage gains from trade developing countries official"
-CA found: Stable textbook mechanism; no separate mutable claim required. WTO principles page retrieved 24 September 2026.
+CA found: Stable textbook mechanism; no separate mutable claim required. WTO principles page retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Opportunity-cost scoreboard
 
 ```text
 One workday available
@@ -127,7 +121,7 @@ and unequal bargaining power.
 ### UPSC integration
 
 - **Syllabus route:** Why countries trade: absolute and comparative advantage supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** Stable textbook mechanism; no separate mutable claim required. WTO principles page retrieved 24 September 2026.
+- **Evidence boundary:** Stable textbook mechanism; no separate mutable claim required. WTO principles page retrieved 3 October 2026.
 - **Prelims trap:** Strategic dependence is a qualification, not a refutation of opportunity-cost logic.
 - **Mains use:** Define comparative advantage through opportunity cost.
 
@@ -142,70 +136,42 @@ and unequal bargaining power.
 7. Comparative advantage may be acquired through capability-building.
 8. Strategic dependence is a qualification, not a refutation of opportunity-cost logic.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 1.** Which statement best captures comparative advantage?
+**Question:** Why can a country gain from trade even if it is less productive in both goods?
 
-A. It belongs to the producer with the lower opportunity cost, even if that producer lacks absolute advantage.
-B. It always belongs to the producer with the highest output per worker.
-C. It exists only when each country has an absolute advantage in one good.
-D. It proves that every factor owner gains from trade.
+**Model answer:** Because comparative advantage depends on lower opportunity cost, not absolute productivity. If relative costs differ, an exchange ratio between the two opportunity costs can raise joint consumption possibilities.
 
-**Answer: A**
+**Misconception to avoid:** Do not infer that aggregate gains guarantee gains for every worker, region or firm.
 
-- **A:** Comparative advantage is a relative-cost concept.
-- **B:** Highest productivity describes absolute advantage.
-- **C:** Mutual absolute advantage is unnecessary.
-- **D:** Aggregate gains can coexist with distributional losses.
+### Apply the opportunity-cost logic
 
-**MCQ 2.** India gives up 2 units of rice for one cloth; its partner gives up 1. Which exchange is potentially mutually beneficial?
+**Question (10 marks):** *Why can two countries gain from trade even when one has an absolute advantage in both goods?*
 
-A. One cloth for 0.5 unit of rice.
-B. One cloth for 1.5 units of rice.
-C. One cloth for 2.5 units of rice.
-D. No exchange can benefit both.
+**Responsive model:** Define comparative advantage through opportunity cost. Use a two-good numerical example to show a mutually beneficial exchange range. Then qualify the result: transport costs, market power, adjustment unemployment and security externalities can alter realised gains. Conclude that trade policy should preserve the efficiency baseline while building mobility, resilience and dynamic capability.
 
-**Answer: B**
+**Named evidence to deploy:** Use the rice-cloth opportunity-cost table and qualify it with worker adjustment and strategic dependence.
 
-- **A:** 0.5 is below the partner's cost.
-- **B:** 1.5 lies between the two opportunity costs.
-- **C:** 2.5 exceeds India's cost.
-- **D:** Different opportunity costs create a bargaining range.
+**Unique scoring rubric — Why countries trade: absolute and comparative advantage:** 2 marks definition; 3 opportunity-cost arithmetic; 2 exchange range; 2 distributional qualification; 1 verdict.
 
-**MCQ 3.** What is the strongest limitation of a simple comparative-advantage model for policy?
+**Why this earns marks:** The response converts a productivity comparison into opportunity costs, identifies the exchange interval and then limits the conclusion with distribution and adjustment.
 
-A. It cannot compare any two goods.
-B. It assumes countries must use the same currency.
-C. It does not by itself resolve adjustment costs, distribution or strategic dependence.
-D. It makes tariffs legally compulsory.
-
-**Answer: C**
-
-- **A:** Two-good comparison is its standard teaching device.
-- **B:** Currency identity is irrelevant.
-- **C:** The model establishes potential aggregate gains, not their distribution.
-- **D:** The theory does not mandate tariffs.
-
-**Mains micro-model - 10 marks:** *Why can two countries gain from trade even when one has an absolute advantage in both goods?*
-
-**Model answer:** Define comparative advantage through opportunity cost. Use a two-good numerical example to show a mutually beneficial exchange range. Then qualify the result: transport costs, market power, adjustment unemployment and security externalities can alter realised gains. Conclude that trade policy should preserve the efficiency baseline while building mobility, resilience and dynamic capability.
-
-**Transition:** Knowing who should specialise is not enough; Lesson 2 asks how the exchange price divides the gain.
+**Transition:** Carry the opportunity-cost table into Lesson 2, where the open question becomes how the gains are divided.
 
 ---
 
 ## Lesson 2 - Opportunity cost, specialisation and terms of trade
 
-**Progress: 2/21 | Stage: Foundation | Subtopic: Opportunity cost, specialisation and terms of trade**
+Progress: 2/21 | Stage: Core | Subtopic: Opportunity cost, specialisation and terms of trade
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Core opportunity-cost and terms-of-trade derivations checked against the worked examples
 CA search: "terms of trade opportunity cost specialisation WTO official learning"
 CA found: Stable concept; no separate current claim required.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Terms-of-trade bargaining corridor
 
 ```text
 India: 1 cloth costs 2 rice       Partner: 1 cloth costs 1 rice
@@ -268,56 +234,42 @@ excuse for rent protection.
 7. Learning-by-doing can change future comparative advantage.
 8. Dynamic support needs milestones and an exit rule.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 4.** Which is a terms-of-trade measure?
+**Question:** What must be true for the terms of trade to benefit both partners?
 
-A. Merchandise exports minus merchandise imports.
-B. Services receipts minus services payments.
-C. The applied tariff minus the bound tariff.
-D. An index of export prices relative to import prices.
+**Model answer:** The international exchange ratio must lie between the partners' opportunity costs, after allowing for transport, transaction and adjustment costs.
 
-**Answer: D**
+**Misconception to avoid:** Terms of trade is an export-price/import-price ratio; it is not the trade balance.
 
-- **A:** That is a trade-balance measure.
-- **B:** That is a services-balance measure.
-- **C:** That gap is tariff water.
-- **D:** Terms of trade is a relative-price concept.
+### Negotiate the gains corridor
 
-**MCQ 5.** Why must an infant-industry claim specify an exit test?
+**Question (10 marks):** *Distinguish comparative advantage, terms of trade and trade balance.*
 
-A. Without a measurable learning target, temporary support can become permanent rent protection.
-B. WTO rules prohibit every industrial subsidy.
-C. Comparative advantage can never change.
-D. Exports cannot benefit from scale economies.
+**Responsive model:** Comparative advantage identifies the lower opportunity-cost activity. Terms of trade measures the relative price at which exports exchange for imports and allocates the gain. Trade balance records export value minus import value. Illustrate how an oil-price rise can worsen India's terms of trade and merchandise balance without changing the conceptual source of comparative advantage.
 
-**Answer: A**
+**Named evidence to deploy:** Use the 1-to-2 rice exchange interval and distinguish it from the export-price/import-price index.
 
-- **A:** An exit test makes the learning claim falsifiable.
-- **B:** WTO disciplines vary by instrument.
-- **C:** Capabilities can evolve.
-- **D:** Scale economies can support export upgrading.
+**Unique scoring rubric — Opportunity cost, specialisation and terms of trade:** 2 marks definition; 3 mutual-gain interval; 2 price-versus-balance distinction; 2 frictions; 1 conclusion.
 
-**Mains micro-model - 10 marks:** *Distinguish comparative advantage, terms of trade and trade balance.*
+**Why this earns marks:** The response distinguishes the terms-of-trade ratio from the trade balance, follows bargaining power into welfare and avoids treating one observed price as universally beneficial.
 
-**Model answer:** Comparative advantage identifies the lower opportunity-cost activity. Terms of trade measures the relative price at which exports exchange for imports and allocates the gain. Trade balance records export value minus import value. Illustrate how an oil-price rise can worsen India's terms of trade and merchandise balance without changing the conceptual source of comparative advantage.
-
-**Transition:** Once the gain-sharing price is clear, Lesson 3 introduces the border wedge that changes that price.
+**Transition:** With the gains corridor fixed, Lesson 3 asks what changes when the state inserts a tariff at the border.
 
 ---
 
 ## Lesson 3 - Tariffs: price wedges, incidence and welfare
 
-**Progress: 3/21 | Stage: Foundation | Subtopic: Tariffs: price wedges, incidence and welfare**
+Progress: 3/21 | Stage: Core | Subtopic: Tariffs: price wedges, incidence and welfare
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Core tariff-incidence chapter and India input-cost linkages queried
 CA search: "WTO tariffs bound applied rates official principles retrieved September 2026"
-CA found: WTO principles page retrieved 24 September 2026; stable tariff concepts confirmed.
+CA found: WTO principles page retrieved 3 October 2026; stable tariff concepts confirmed.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Tariff welfare ledger
 
 ```text
 Price
@@ -375,7 +327,7 @@ lobbying for extension.
 ### UPSC integration
 
 - **Syllabus route:** Tariffs: price wedges, incidence and welfare supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** WTO principles page retrieved 24 September 2026; stable tariff concepts confirmed.
+- **Evidence boundary:** WTO principles page retrieved 3 October 2026; stable tariff concepts confirmed.
 - **Prelims trap:** Good protection has an identified externality, target and sunset.
 - **Mains use:** Trace the price wedge.
 
@@ -390,70 +342,42 @@ lobbying for extension.
 7. Large-country ToT gains are conditional and invite retaliation.
 8. Good protection has an identified externality, target and sunset.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 6.** In the standard small-country tariff model, what is a deadweight loss?
+**Question:** Why can the same tariff help one producer but hurt another?
 
-A. The entire increase in producer surplus.
-B. The production and consumption distortions not offset by producer gain or tariff revenue.
-C. All customs revenue collected by government.
-D. Every rupee transferred from consumers to domestic firms.
+**Model answer:** It raises the protected good's domestic price, helping competing producers, but it also raises consumer cost and can tax downstream firms that use the import as an input.
 
-**Answer: B**
+**Misconception to avoid:** Tariff revenue is a transfer to government, not proof that the economy has no efficiency loss.
 
-- **A:** Producer surplus is a transfer.
-- **B:** These two residual triangles are net efficiency losses.
-- **C:** Revenue is also a transfer.
-- **D:** A transfer is not automatically a social loss.
+### Trace a tariff shock
 
-**MCQ 7.** A 20% tariff on a ₹1,000 imported input changes its pre-tax landed price to:
+**Question (10 marks):** *How can an import tariff protect one Indian industry but weaken another?*
 
-A. ₹800.
-B. ₹1,020.
-C. ₹1,200.
-D. ₹2,000.
+**Responsive model:** Trace the price wedge. Upstream producers gain from a higher domestic price, but downstream firms using the import face higher costs, reduced margins and weaker export competitiveness. Add consumer loss, tariff revenue and deadweight loss. Recommend lower input duties, duty remission for exporters, direct capability support and periodic review rather than undifferentiated protection.
 
-**Answer: C**
+**Named evidence to deploy:** Use the ₹100 world-price tariff wedge and identify consumer loss, producer gain, revenue and deadweight loss.
 
-- **A:** That subtracts rather than adds the tariff.
-- **B:** That treats 20% as ₹20.
-- **C:** Twenty per cent of ₹1,000 is ₹200.
-- **D:** That doubles the base price.
+**Unique scoring rubric — Tariffs: price wedges, incidence and welfare:** 2 marks wedge; 3 incidence map; 2 welfare decomposition; 2 downstream link; 1 calibrated policy.
 
-**MCQ 8.** Why can an upstream tariff operate like an anti-export tax?
+**Why this earns marks:** The response accounts for consumer loss, producer gain, revenue and deadweight loss before carrying input-cost and retaliation effects into India’s macroeconomy.
 
-A. It automatically appreciates the currency.
-B. It legally bans all exports of the input.
-C. It converts a specific tariff into a quota.
-D. It raises the input cost of downstream exporters competing at world prices.
-
-**Answer: D**
-
-- **A:** Currency appreciation is not automatic.
-- **B:** A tariff is not an export ban.
-- **C:** A tariff does not become a quota.
-- **D:** Downstream firms cannot always pass the cost into export prices.
-
-**Mains micro-model - 10 marks:** *How can an import tariff protect one Indian industry but weaken another?*
-
-**Model answer:** Trace the price wedge. Upstream producers gain from a higher domestic price, but downstream firms using the import face higher costs, reduced margins and weaker export competitiveness. Add consumer loss, tariff revenue and deadweight loss. Recommend lower input duties, duty remission for exporters, direct capability support and periodic review rather than undifferentiated protection.
-
-**Transition:** A single tariff rate still hides the structure of protection, so Lesson 4 moves to quotas and domestic value added.
+**Transition:** The tariff ledger now leads to Lesson 4’s harder question: how protection changes value added when inputs are also taxed.
 
 ---
 
 ## Lesson 4 - Quotas, tariff-rate quotas and effective protection
 
-**Progress: 4/21 | Stage: Core | Subtopic: Quotas, tariff-rate quotas and effective protection**
+Progress: 4/21 | Stage: Core | Subtopic: Quotas, tariff-rate quotas and effective protection
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Core quota/TRQ material and the effective-protection calculation reconciled
 CA search: "WTO quantitative restrictions tariff rate quota effective protection official"
-CA found: Stable legal and textbook concepts; WTO principles page retrieved 24 September 2026.
+CA found: Stable legal and textbook concepts; WTO principles page retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Value-added protection microscope
 
 ```text
 NOMINAL PROTECTION EXAMPLE
@@ -508,7 +432,7 @@ its administration must be transparent.
 ### UPSC integration
 
 - **Syllabus route:** Quotas, tariff-rate quotas and effective protection supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** Stable legal and textbook concepts; WTO principles page retrieved 24 September 2026.
+- **Evidence boundary:** Stable legal and textbook concepts; WTO principles page retrieved 3 October 2026.
 - **Prelims trap:** Inverted duty can penalise domestic assembly or exports.
 - **Mains use:** Define ERP and calculate it from domestic value added.
 
@@ -523,70 +447,42 @@ its administration must be transparent.
 7. Tariff escalation can favour processing in the importing country.
 8. Inverted duty can penalise domestic assembly or exports.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 9.** Who normally captures quota rent when import licences are given free to selected domestic firms?
+**Question:** When can effective protection be negative despite a positive output tariff?
 
-A. The licence holders, subject to market structure and administration.
-B. The government necessarily captures all rent.
-C. Foreign consumers necessarily capture it.
-D. No rent exists under a binding quota.
+**Model answer:** When duties on imported inputs raise production cost by more than the protection created by the output tariff, reducing domestic value added at world prices.
 
-**Answer: A**
+**Misconception to avoid:** Never equate the nominal tariff on the final good with protection to domestic value added.
 
-- **A:** Scarce licences carry economic value.
-- **B:** Government captures rent mainly through auction or fees.
-- **C:** Foreign consumers are not the importing-country licence holders.
-- **D:** A binding quantity restriction creates scarcity rent.
+### Diagnose the value-added incentive
 
-**MCQ 10.** Using the lesson example, value added rises from 40 to 54. What is ERP?
+**Question (15 marks):** *Why is the effective rate of protection more informative than the nominal tariff?*
 
-A. 14%.
-B. 35%.
-C. 20%.
-D. 54%.
+**Responsive model:** Define ERP and calculate it from domestic value added. Show that a final-good tariff combined with lower input duties can yield ERP above the nominal rate, while high input duties can reverse protection. Apply this to Indian downstream manufacturers and recommend value-chain-wide tariff review, transparent TRQs and exporter remission.
 
-**Answer: B**
+**Named evidence to deploy:** Use the lesson's value-added calculation and the imported-component channel affecting exporters.
 
-- **A:** 14 is the absolute value-added increase.
-- **B:** (54-40)/40 equals 0.35.
-- **C:** 20% is the nominal output tariff.
-- **D:** 54 is post-policy value added, not a rate.
+**Unique scoring rubric — Quotas, tariff-rate quotas and effective protection:** 2 marks quota/TRQ distinction; 3 ERP calculation; 2 rent allocation; 2 export effect; 1 policy test.
 
-**MCQ 11.** Which statement about a tariff-rate quota is correct?
+**Why this earns marks:** The response calculates domestic value added rather than stopping at nominal tariffs, revealing the anti-export bias hidden in an escalated tariff structure.
 
-A. All imports are prohibited after the quota.
-B. It is identical to an export subsidy.
-C. Imports within the quota face one tariff and imports beyond it face a higher tariff.
-D. It measures domestic value added.
-
-**Answer: C**
-
-- **A:** Beyond-quota imports may continue at the higher rate.
-- **B:** A TRQ is an import instrument.
-- **C:** That two-tier schedule defines a TRQ.
-- **D:** ERP, not TRQ, measures value-added protection.
-
-**Mains micro-model - 15 marks:** *Why is the effective rate of protection more informative than the nominal tariff?*
-
-**Model answer:** Define ERP and calculate it from domestic value added. Show that a final-good tariff combined with lower input duties can yield ERP above the nominal rate, while high input duties can reverse protection. Apply this to Indian downstream manufacturers and recommend value-chain-wide tariff review, transparent TRQs and exporter remission.
-
-**Transition:** With price and quantity instruments understood, Lesson 5 asks what multilateral rules discipline them.
+**Transition:** Once nominal and effective protection diverge, Lesson 5 supplies the multilateral principles that discipline such border choices.
 
 ---
 
 ## Lesson 5 - WTO architecture: principles, bindings and exceptions
 
-**Progress: 5/21 | Stage: Core | Subtopic: WTO architecture: principles, bindings and exceptions**
+Progress: 5/21 | Stage: Core | Subtopic: WTO architecture: principles, bindings and exceptions
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Core WTO-principles map and official WTO rule gateways queried
 CA search: "WTO principles MFN national treatment bindings transparency official"
-CA found: WTO “Principles of the trading system” page retrieved 24 September 2026.
+CA found: WTO “Principles of the trading system” page retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### WTO rulebook compass
 
 ```text
 WTO RULE SYSTEM
@@ -641,7 +537,7 @@ to avoid customs duty; it governs internal treatment after importation.
 ### UPSC integration
 
 - **Syllabus route:** WTO architecture: principles, bindings and exceptions supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** WTO “Principles of the trading system” page retrieved 24 September 2026.
+- **Evidence boundary:** WTO “Principles of the trading system” page retrieved 3 October 2026.
 - **Prelims trap:** Special and differential treatment addresses development asymmetry only partially.
 - **Mains use:** Organise the answer around negotiated bindings, MFN, national treatment and transparency.
 
@@ -656,70 +552,42 @@ to avoid customs duty; it governs internal treatment after importation.
 7. Transparency and notification support predictability.
 8. Special and differential treatment addresses development asymmetry only partially.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 12.** Which comparison is made by national treatment?
+**Question:** How do MFN and national treatment examine different discrimination?
 
-A. The tariff offered to two foreign partners at the border.
-B. A bound tariff and an applied tariff.
-C. A subsidy and a safeguard.
-D. Imported and domestic products after the imported product has entered the market.
+**Model answer:** MFN compares treatment among foreign partners; national treatment compares imported and domestic like products after border entry, subject to agreement-specific scope and exceptions.
 
-**Answer: D**
+**Misconception to avoid:** MFN means non-discrimination, not zero tariffs.
 
-- **A:** That is the MFN comparison.
-- **B:** That is the binding-policy-space distinction.
-- **C:** Those are different instruments.
-- **D:** National treatment addresses internal treatment after entry.
+### Test a WTO principle claim
 
-**MCQ 13.** A member has a 40% bound tariff and applies 15%. Which statement is correct?
+**Question (10 marks):** *Explain why the WTO is a system of qualified openness rather than unrestricted free trade.*
 
-A. The 25-percentage-point gap is policy space, though using it can reduce predictability.
-B. The applied rate already breaches the binding.
-C. The member must apply 40%.
-D. MFN requires a zero applied rate.
+**Responsive model:** Organise the answer around negotiated bindings, MFN, national treatment and transparency. Then identify structured exceptions: FTAs, development preferences, trade remedies and public-policy exceptions. Conclude that legitimacy depends on non-discriminatory administration, development policy space and enforceable dispute settlement.
 
-**Answer: A**
+**Named evidence to deploy:** Use GATT non-discrimination, the FTA exception and the border-tax versus internal-tax distinction.
 
-- **A:** Applied tariff remains below the ceiling.
-- **B:** Fifteen is below forty.
-- **C:** A binding is a ceiling, not a mandated rate.
-- **D:** MFN is non-discrimination, not zero duty.
+**Unique scoring rubric — WTO architecture: principles, bindings and exceptions:** 3 marks MFN; 3 national treatment; 2 lawful exceptions; 1 example; 1 trap-free conclusion.
 
-**MCQ 14.** Which statement about an FTA preference and MFN is correct?
+**Why this earns marks:** The response classifies MFN, national treatment, bindings and exceptions accurately, then shows why predictable rules matter even when tariffs remain positive.
 
-A. Every FTA preference automatically violates WTO law.
-B. An FTA preference can be a permitted exception to general MFN treatment when relevant conditions are met.
-C. MFN and an FTA preference are identical rules.
-D. An FTA removes national-treatment obligations.
-
-**Answer: B**
-
-- **A:** Legality depends on the applicable conditions.
-- **B:** The WTO framework recognises qualified regional-trade exceptions.
-- **C:** MFN is the baseline and the FTA is a structured exception.
-- **D:** Internal non-discrimination remains a separate question.
-
-**Mains micro-model - 10 marks:** *Explain why the WTO is a system of qualified openness rather than unrestricted free trade.*
-
-**Model answer:** Organise the answer around negotiated bindings, MFN, national treatment and transparency. Then identify structured exceptions: FTAs, development preferences, trade remedies and public-policy exceptions. Conclude that legitimacy depends on non-discriminatory administration, development policy space and enforceable dispute settlement.
-
-**Transition:** The principles become usable only when each dispute is routed to the correct agreement in Lesson 6.
+**Transition:** The principles are now stable; Lesson 6 sorts the specialised agreements that apply to different policy objects.
 
 ---
 
 ## Lesson 6 - The WTO agreement map: goods, services, IP and regulation
 
-**Progress: 6/21 | Stage: Core | Subtopic: The WTO agreement map: goods, services, IP and regulation**
+Progress: 6/21 | Stage: Core | Subtopic: The WTO agreement map: goods, services, IP and regulation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Core agreement map, exact GI/TRIMS PYQs and official TRIMS text checked
 CA search: "WTO legal texts GATT GATS TRIPS TRIMS SPS TBT SCM safeguards official"
-CA found: WTO legal-text and agreement pages retrieved or officially searched 24 September 2026.
+CA found: WTO legal-text and agreement pages retrieved or officially searched 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Agreement sorting board
 
 | Agreement | Main object | Typical exam boundary |
 |---|---|---|
@@ -738,8 +606,21 @@ CA found: WTO legal-text and agreement pages retrieved or officially searched 24
 
 WTO questions often become easy once the subject matter is classified. **GATT** governs
 goods. **GATS** governs services. **TRIPS** lays down minimum IP standards. **TRIMS**
-disciplines certain goods-related investment measures inconsistent with GATT, notably
-local-content and trade-balancing requirements.
+applies only to investment measures related to trade in goods. It prohibits covered
+measures that are inconsistent with **GATT Article III** on national treatment or
+**GATT Article XI** on eliminating quantitative restrictions. Its illustrative Annex
+therefore captures:
+
+- **local-content requirements** that condition an advantage on buying or using domestic
+  products, engaging Article III;
+- **trade-balancing or foreign-exchange restrictions** that limit imports by reference to
+  export volume/value or foreign-exchange earnings, engaging Article XI; and
+- mandatory as well as advantage-linked compliance, rather than only formally coercive
+  rules.
+
+TRIMS does not regulate admission of foreign investment as such, create investor-protection
+rights or govern services. The Annex is illustrative: the underlying Article III/XI
+inconsistency controls, not the label attached by domestic law.
 
 Regulatory agreements answer different questions. **SPS** addresses food safety and
 animal or plant health risks. **TBT** addresses other technical regulations, standards and
@@ -749,19 +630,52 @@ The **Agreement on Agriculture** has sector-specific pillars and support categor
 
 ### Three dangerous category errors
 
-1. TRIMS does not prohibit foreign investment or screening in general. It targets covered
-   trade-related investment measures.
+1. TRIMS applies to goods-related investment measures and operationalises GATT Articles
+   III and XI through an illustrative list.
 2. TRIPS does not itself grant an Indian patent or GI. Domestic authorities apply domestic
    law within international minimum standards.
 3. GATS Mode 4 does not mean permanent migration or general access to the labour market;
    it concerns temporary presence of natural persons supplying services within commitments.
 
 The **Geographical Indications of Goods (Registration and Protection) Act, 1999** is
-India's domestic GI statute. IP India's official GI resources, searched on 24 September
+India's domestic GI statute. IP India's official GI resources, searched on 3 October
 2026, link the protection framework to TRIPS Articles 22-24. The exam boundary is precise:
 TRIPS requires GI protection; the Indian statute and registry create and administer the
-domestic right. This is the concept needed for the routed 2018 Prelims Q26; its answer
-letter is not inferred.
+domestic right.
+
+### Verified PYQ station — legal classification, answer-neutral
+
+**2018 Prelims GS-I, Q26 — exact wording and options**
+
+> India enacted The Geographical Indications of Goods (Registration and Protection) Act,
+> 1999 in order to comply with the obligations to
+>
+> (a) ILO
+> (b) IMF
+> (c) UNCTAD
+> (d) WTO
+
+**Key provenance:** exact question verified from the local official question paper; the
+2018 official key is unavailable in the routed local repository, so no answer is stated.
+
+**2020 Prelims GS-I, Q56 — exact wording and options**
+
+> With reference to Trade-Related Investment Measures (TRIMS), which of the following
+> statements is/are correct?
+>
+> 1. Quantitative restrictions on imports by foreign investors are prohibited.
+> 2. They apply to investment measures related to trade in both goods and services.
+> 3. They are not concerned with the regulation of foreign investment.
+>
+> Select the correct answer using the code given below:
+>
+> (a) 1 and 2 only
+> (b) 2 only
+> (c) 1 and 3 only
+> (d) 1, 2 and 3
+
+**Key provenance:** exact question verified from the local official 2020 paper; the routed
+local ledger records the official key as unavailable, so the block remains answer-neutral.
 
 ### Why classifications overlap in a real case
 
@@ -773,7 +687,7 @@ not exist.
 ### UPSC integration
 
 - **Syllabus route:** The WTO agreement map: goods, services, IP and regulation supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** WTO legal-text and agreement pages retrieved or officially searched 24 September 2026.
+- **Evidence boundary:** WTO legal-text and agreement pages retrieved or officially searched 3 October 2026.
 - **Prelims trap:** One transaction can engage several agreements.
 - **Mains use:** Use a goods-services-IP-regulation-remedies-agriculture map.
 
@@ -781,351 +695,50 @@ not exist.
 
 1. GATT concerns goods; GATS concerns services.
 2. TRIPS sets minimum IP standards.
-3. TRIMS is goods-linked and GATT-related.
+3. TRIMS links local-content requirements to Article III and trade-balancing/import
+   restrictions to Article XI.
 4. SPS and TBT regulate different kinds of standards.
 5. SCM, anti-dumping and safeguards have distinct predicates.
 6. AoA is the agriculture-specific rule architecture.
 7. Domestic law grants and enforces patents and GIs.
 8. One transaction can engage several agreements.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 15.** Which description of TRIMS is correct?
+**Question:** Which WTO agreement should be identified first in a mixed trade dispute?
 
-A. It is the WTO agreement governing services modes.
-B. It grants patents directly to investors.
-C. It disciplines certain goods-related investment measures inconsistent with GATT, such as local-content requirements.
-D. It prohibits every form of FDI screening.
+**Model answer:** Classify the measure by subject: GATT/goods, GATS/services, TRIPS/IP, TRIMS goods-linked investment measures, AoA agriculture, SPS health risks or TBT technical regulation; multiple agreements may apply.
 
-**Answer: C**
+**Misconception to avoid:** Do not treat TRIPS as granting patents or TRIMS as banning foreign investment.
 
-- **A:** GATS governs services.
-- **B:** Domestic offices grant patents under TRIPS-compatible law.
-- **C:** TRIMS is goods-linked and GATT-related.
-- **D:** TRIMS is not a general investment code.
+### Classify the agreement before answering
 
-**MCQ 16.** Which pair is correctly matched?
+**Question (15 marks):** *Classify the major WTO agreements and explain why legal classification matters for trade policy.*
 
-A. TBT - only agricultural subsidies.
-B. TRIPS - customs valuation.
-C. GATS - merchandise tariff bindings.
-D. SPS - food safety and animal or plant health risk.
+**Responsive model:** Use a goods-services-IP-regulation-remedies-agriculture map. Explain boundaries among GATT, GATS, TRIPS, TRIMS, SPS, TBT, SCM, Anti-Dumping, Safeguards and AoA. Apply the map to an imported food product. Conclude that accurate classification prevents both over-regulation and disguised protection.
 
-**Answer: D**
+**Named evidence to deploy:** Use GATT Articles III/XI, the TRIMS illustrative Annex and the exact answer-neutral 2020 Q56 statements alongside the GATT/GATS/TRIPS/SPS/TBT map.
 
-- **A:** Agricultural support belongs primarily to AoA.
-- **B:** TRIPS concerns IP.
-- **C:** GATS concerns services, not merchandise tariffs.
-- **D:** That is the SPS scope.
+**Unique scoring rubric — The WTO agreement map: goods, services, IP and regulation:** 2 marks agreement classification; 3 mixed-measure mapping; 2 TRIMS/TRIPS boundary; 2 India example; 1 conclusion.
 
-**MCQ 17.** Why can one imported food shipment engage several WTO agreements?
+**Why this earns marks:** The response assigns each issue to the correct WTO agreement and anchors TRIMS in GATT Articles III and XI instead of using WTO as an undifferentiated label.
 
-A. Tariff, health standard, label, origin and IP questions are legally distinct layers.
-B. Every WTO agreement has identical obligations.
-C. SPS automatically overrides all other agreements.
-D. An FTA removes domestic regulation.
-
-**Answer: A**
-
-- **A:** Classification separates simultaneous legal issues.
-- **B:** The agreements have different objects.
-- **C:** SPS does not erase other rules.
-- **D:** Preferential tariff access does not abolish regulation.
-
-**Mains micro-model - 15 marks:** *Classify the major WTO agreements and explain why legal classification matters for trade policy.*
-
-**Model answer:** Use a goods-services-IP-regulation-remedies-agriculture map. Explain boundaries among GATT, GATS, TRIPS, TRIMS, SPS, TBT, SCM, Anti-Dumping, Safeguards and AoA. Apply the map to an imported food product. Conclude that accurate classification prevents both over-regulation and disguised protection.
-
-**Transition:** The general agreement map now narrows to agriculture's exceptional measurement architecture in Lesson 7.
+**Transition:** Agreement classification sets up Lesson 7, where health and technical regulation must be separated without dismissing either as a mere barrier.
 
 ---
 
-## Lesson 7 - Agreement on Agriculture: pillars, boxes and AMS
+## Lesson 7 - SPS and TBT: legitimate regulation versus disguised restriction
 
-**Progress: 7/21 | Stage: Advanced | Subtopic: Agreement on Agriculture: pillars, boxes and AMS**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
-CA search: "WTO Agreement on Agriculture domestic support green blue amber de minimis official"
-CA found: WTO domestic-support explainer retrieved 24 September 2026.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual
-
-```text
-AoA THREE PILLARS
-Market access | Domestic support | Export competition
-
-DOMESTIC SUPPORT BOXES
-Green: minimal distortion, criteria-based, no reduction commitment
-Blue: production-limiting direct payments, exempt under conditions
-Amber: trade-distorting support, counted in AMS unless exempt
-Article 6.2: specified developing-country development support
-De minimis: 10% product-specific and 10% non-product-specific for developing members
-```
-
-*The box map turns agricultural-support labels into legal tests and a measurable AMS calculation.*
-
-### Agriculture is not treated like an ordinary factory tariff
-
-The AoA rests on **market access**, **domestic support** and **export competition**.
-Domestic support is classified by design and effect, not by the colour of the budget
-document.
-
-The **Green Box** covers measures meeting general and measure-specific criteria, including
-minimal trade distortion and public funding without producer price support. Research,
-extension, certain infrastructure, qualifying public stockholding and domestic food aid
-can fit here. The **Blue Box** covers specified production-limiting payments. The
-**Amber Box** is the residual trade-distorting category and feeds the Aggregate Measurement
-of Support (AMS), subject to exemptions and member schedules.
-
-For developing members, the WTO explainer retrieved on 24 September 2026 states a 10%
-de minimis threshold for product-specific support and separately for non-product-specific
-support. Article 6.2 also exempts specified development measures such as generally
-available investment subsidies and input subsidies for low-income or resource-poor
-producers.
-
-### AMS box calculation
-
-```text
-Market price support
-= (administered price - fixed external reference price)
-  x eligible production
-```
-
-If administered price is ₹2,400 per unit, fixed reference price ₹1,000, and eligible
-production 10 million units, measured market-price support is ₹14,000 million before
-relevant adjustments. The political dispute arises because the fixed external reference
-price uses an old base and because procurement, inflation and eligible-production
-interpretation matter.
-
-### Equity critique
-
-Developing countries argue that historically larger support in advanced economies and
-old reference prices constrain current food-security programmes asymmetrically. The
-counterargument is that administered-price procurement can affect production and trade.
-A balanced answer separates food distribution from producer price support and proposes
-updated methods, transparency and anti-export safeguards.
-
-### UPSC integration
-
-- **Syllabus route:** Agreement on Agriculture: pillars, boxes and AMS supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** WTO domestic-support explainer retrieved 24 September 2026.
-- **Prelims trap:** Food-security purpose does not erase trade-effect questions.
-- **Mains use:** Begin with the three pillars.
-
-### Revision notes
-
-1. AoA pillars are market access, domestic support and export competition.
-2. Green Box requires criteria; it is not simply any 'good' subsidy.
-3. Blue Box is linked to production-limiting programmes.
-4. Amber support is measured through AMS unless exempt.
-5. Developing-country de minimis is 10% under the cited WTO framework.
-6. Article 6.2 covers specified development support.
-7. Market price support uses administered price, fixed reference price and eligible production.
-8. Food-security purpose does not erase trade-effect questions.
-
-### Adaptive practice
-
-**MCQ 18.** Which AoA support is generally subject to reduction commitments unless exempt?
-
-A. Qualifying Green Box support.
-B. Amber Box support counted in AMS.
-C. Every Article 6.2 development measure.
-D. All Blue Box payments without condition.
-
-**Answer: B**
-
-- **A:** Qualifying Green support is exempt.
-- **B:** Amber is the trade-distorting residual category.
-- **C:** Specified Article 6.2 support is exempt.
-- **D:** Blue exemption depends on its conditions.
-
-**MCQ 19.** For a developing member, the cited de minimis ceiling is generally:
-
-A. 5% combined for all support.
-B. 20% of export value only.
-C. 10% for product-specific support and separately 10% for non-product-specific support.
-D. Zero whenever procurement occurs.
-
-**Answer: C**
-
-- **A:** Five per cent applies to developed members.
-- **B:** The test is not based only on exports.
-- **C:** The WTO explainer distinguishes the two 10% tests.
-- **D:** Procurement does not automatically make the threshold zero.
-
-**MCQ 20.** Which variable is part of measured market price support?
-
-A. Only the government's procurement expenditure.
-B. The current world price multiplied by exports.
-C. The fiscal deficit multiplied by MSP.
-D. Eligible production multiplied by the gap between administered and fixed reference prices.
-
-**Answer: D**
-
-- **A:** Budget cost is not identical to AMS market-price support.
-- **B:** Exports are not the formula base.
-- **C:** Fiscal deficit is unrelated to the calculation.
-- **D:** That is the AoA measurement structure.
-
-**Mains micro-model - 15 marks:** *Explain the WTO Agreement on Agriculture's domestic-support architecture and India's equity concerns.*
-
-**Model answer:** Begin with the three pillars. Distinguish Green, Blue, Amber, Article 6.2 and de minimis. Show the AMS formula and the fixed-reference-price controversy. Balance India's food-security and livelihood concerns against spillover and transparency concerns. Recommend an updated, development-sensitive permanent solution.
-
-**Transition:** AMS arithmetic creates the food-security controversy that Lesson 8 resolves through the Peace-Clause boundary.
-
----
-
-## Lesson 8 - Public stockholding, the Peace Clause and food-security equity
-
-**Progress: 8/21 | Stage: Advanced | Subtopic: Public stockholding, the Peace Clause and food-security equity**
+Progress: 7/21 | Stage: Core | Subtopic: SPS and TBT: legitimate regulation versus disguised restriction
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
-CA search: "WTO public stockholding food security Bali peace clause permanent solution official status"
-CA found: Bali/General Council framework officially located; no permanent solution was treated as verified as of retrieval on 24 September 2026.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual
-
-```text
-MSP PROCUREMENT
-      |
-      +--> domestic food security and farmer support
-      |
-      +--> AoA market-price-support calculation may cross de minimis
-                    |
-              INTERIM PEACE CLAUSE
-              notification + safeguards + transparency
-                    |
-              PERMANENT SOLUTION
-              still must be verified; never assume completion
-```
-
-*The chain shows where a domestic food-security programme meets an interim, conditional multilateral safeguard.*
-
-### Why public stockholding becomes a trade question
-
-India procures staples at administered prices and distributes food for food security.
-The distribution objective is domestic, but procurement price support can enter the AoA
-calculation. When the administered-price/reference-price gap is multiplied by eligible
-production, old fixed reference prices can make measured support appear large.
-
-The 2013 Bali decision created an interim restraint on specified challenges for covered
-public-stockholding programmes, commonly called the **Peace Clause**, subject to
-conditions including notification, transparency and safeguards against adverse trade
-effects. It is not a blanket exemption for any crop, any programme or unlimited exports
-from subsidised stocks.
-
-### Four boxes for an answer
-
-| Box | Question |
-|---|---|
-| Coverage | Is the programme and traditional staple within the decision's scope? |
-| Calculation | Which administered price, fixed reference price and eligible quantity are used? |
-| Compliance | Were notification, information and safeguard conditions met? |
-| Reform | How should a permanent solution update reference prices and protect food security without export displacement? |
-
-### India's case and the strongest counterpoint
-
-India argues that food security for a large low-income population and support for
-smallholders require policy space, while the 1986-88 reference base fails to reflect
-inflation. Critics worry that procurement above market conditions, accumulation and
-release into export channels can affect other producers.
-
-A defensible permanent solution can combine inflation adjustment or alternative
-measurement, programme transparency, coverage for genuine food-security stocks, and
-credible safeguards against commercial export of subsidised stocks.
-
-**Status discipline:** The source audit did not establish a concluded permanent solution
-by 24 September 2026. The safe formulation is “interim Peace-Clause protection subject to
-conditions; permanent solution not verified as concluded.”
-
-### UPSC integration
-
-- **Syllabus route:** Public stockholding, the Peace Clause and food-security equity supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** Bali/General Council framework officially located; no permanent solution was treated as verified as of retrieval on 24 September 2026.
-- **Prelims trap:** Do not claim a permanent solution without an exact official outcome.
-- **Mains use:** Explain the domestic food-security objective, the AoA market-price-support calculation and the old reference-price problem.
-
-### Revision notes
-
-1. Public stockholding has distribution and producer-support dimensions.
-2. Peace Clause is interim protection, not a new permanent box.
-3. Coverage and notification conditions matter.
-4. It is not unlimited permission to export subsidised stocks.
-5. Old fixed reference prices drive India's inflation critique.
-6. Eligible production is a contested measurement variable.
-7. Transparency and anti-spillover safeguards support legitimacy.
-8. Do not claim a permanent solution without an exact official outcome.
-
-### Adaptive practice
-
-**MCQ 21.** Which statement about the Peace Clause is correct?
-
-A. It is conditional interim protection for covered public-stockholding programmes pending a permanent solution.
-B. It permanently moves every MSP payment into the Green Box.
-C. It authorises unlimited export of subsidised stocks.
-D. It abolishes notification requirements.
-
-**Answer: A**
-
-- **A:** Interim and conditional are the key boundaries.
-- **B:** It does not reclassify all support.
-- **C:** Safeguards address trade spillovers.
-- **D:** Transparency remains central.
-
-**MCQ 22.** Why does the fixed external reference price matter?
-
-A. It directly sets India's current retail price.
-B. An old nominal base can enlarge the measured administered-price gap after inflation.
-C. It is recalculated daily from futures markets.
-D. It measures only transport subsidy.
-
-**Answer: B**
-
-- **A:** The reference price is an AoA calculation input.
-- **B:** Inflation can widen the nominal gap mechanically.
-- **C:** It is fixed rather than daily.
-- **D:** It is not limited to transport support.
-
-**MCQ 23.** What is the strongest balanced permanent-solution design?
-
-A. An unconditional exemption for every procurement and export.
-B. A ban on all developing-country food stocks.
-C. Updated measurement plus transparency and safeguards against adverse export spillovers.
-D. Replacing food distribution with import dependence.
-
-**Answer: C**
-
-- **A:** Unlimited exemption ignores spillovers.
-- **B:** A blanket ban ignores development needs.
-- **C:** It combines food-security space with trade discipline.
-- **D:** Food security need not depend solely on imports.
-
-**Mains micro-model - 15 marks:** *Why does public stockholding for food security remain contentious at the WTO?*
-
-**Model answer:** Explain the domestic food-security objective, the AoA market-price-support calculation and the old reference-price problem. Define the conditional interim Peace Clause. Present India's equity case and the spillover concern. Propose inflation-sensitive measurement, notification support, smallholder focus and safeguards against subsidised commercial exports.
-
-**Transition:** Public purpose can be genuine yet trade restrictive; Lesson 9 develops that test for health and technical standards.
-
----
-
-## Lesson 9 - SPS and TBT: legitimate regulation versus disguised restriction
-
-**Progress: 9/21 | Stage: Core | Subtopic: SPS and TBT: legitimate regulation versus disguised restriction**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Core SPS/TBT distinctions and official WTO standards gateways queried
 CA search: "WTO SPS TBT agreements science risk assessment international standards official"
-CA found: WTO SPS/TBT official resources searched 24 September 2026.
+CA found: WTO SPS/TBT official resources searched 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Standards legitimacy filter
 
 | Test | SPS | TBT |
 |---|---|---|
@@ -1175,7 +788,7 @@ chosen objective.
 ### UPSC integration
 
 - **Syllabus route:** SPS and TBT: legitimate regulation versus disguised restriction supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** WTO SPS/TBT official resources searched 24 September 2026.
+- **Evidence boundary:** WTO SPS/TBT official resources searched 3 October 2026.
 - **Prelims trap:** Review measures as evidence and risk change.
 - **Mains use:** Define the scope of each agreement, compare science and standards disciplines, and use mango-treatment and labelling examples.
 
@@ -1190,56 +803,42 @@ chosen objective.
 7. A legitimate objective does not excuse discriminatory administration.
 8. Review measures as evidence and risk change.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 24.** A quarantine rule against an identified plant pest is principally governed by:
+**Question:** How can an SPS measure be legitimate without becoming disguised protection?
 
-A. The TRIPS Agreement.
-B. The GATS Annex on air transport.
-C. The Agreement on Government Procurement.
-D. The SPS Agreement.
+**Model answer:** It should pursue a genuine food, animal or plant-health objective, rest on scientific principles and risk assessment, and avoid arbitrary or unjustifiable discrimination.
 
-**Answer: D**
+**Misconception to avoid:** Not every costly standard is an illegal non-tariff barrier.
 
-- **A:** TRIPS concerns IP.
-- **B:** The example is goods regulation, not air services.
-- **C:** Government procurement is not the principal issue.
-- **D:** Plant-health risk is within SPS.
+### Audit a standards measure
 
-**MCQ 25.** Which best distinguishes equivalence from harmonisation?
+**Question (10 marks):** *Distinguish SPS and TBT measures and explain their relevance for Indian exporters.*
 
-A. Equivalence accepts a different measure that achieves the required protection; harmonisation uses common standards.
-B. Equivalence requires identical legal text.
-C. Harmonisation means abolishing all standards.
-D. They are names for tariff reduction.
+**Responsive model:** Define the scope of each agreement, compare science and standards disciplines, and use mango-treatment and labelling examples. Show how laboratories, traceability, equivalence and recognition determine market access. Conclude with standards diplomacy and MSME compliance support.
 
-**Answer: A**
+**Named evidence to deploy:** Use SPS risk assessment, TBT legitimate objectives and the independent US-apple/GM-food regulatory facts.
 
-- **A:** Equivalent outcomes can arise from different measures.
-- **B:** Identity is not required.
-- **C:** Harmonisation aligns standards rather than abolishing them.
-- **D:** Both concern regulation, not tariff cuts.
+**Unique scoring rubric — SPS and TBT: legitimate regulation versus disguised restriction:** 3 marks SPS/TBT distinction; 2 evidence test; 2 non-discrimination; 2 capacity/equivalence; 1 verdict.
 
-**Mains micro-model - 10 marks:** *Distinguish SPS and TBT measures and explain their relevance for Indian exporters.*
+**Why this earns marks:** The response separates SPS risk disciplines from TBT technical objectives and tests legitimacy through evidence, non-discrimination and proportionality.
 
-**Model answer:** Define the scope of each agreement, compare science and standards disciplines, and use mango-treatment and labelling examples. Show how laboratories, traceability, equivalence and recognition determine market access. Conclude with standards diplomacy and MSME compliance support.
-
-**Transition:** Standards are preventive regulation, whereas Lesson 10 turns to remedial action after alleged injury.
+**Transition:** After testing regulatory legitimacy, Lesson 8 turns to the three injury-based remedies and their different legal predicates.
 
 ---
 
-## Lesson 10 - Trade remedies: anti-dumping, countervailing and safeguards
+## Lesson 8 - Trade remedies: anti-dumping, countervailing and safeguards
 
-**Progress: 10/21 | Stage: Core | Subtopic: Trade remedies: anti-dumping, countervailing and safeguards**
+Progress: 8/21 | Stage: Core | Subtopic: Trade remedies: anti-dumping, countervailing and safeguards
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Core remedies chapter, DGTR role and official WTO remedy predicates checked
 CA search: "DGTR anti-dumping countervailing safeguard official India 2026"
-CA found: DGTR role and objectives officially searched and retrieved 24 September 2026.
+CA found: DGTR role and objectives officially searched and retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Trade-remedy decision tree
 
 ```text
 Is there injurious dumping? --------> ANTI-DUMPING
@@ -1293,7 +892,7 @@ consumers must therefore be part of the injury-incidence assessment.
 ### UPSC integration
 
 - **Syllabus route:** Trade remedies: anti-dumping, countervailing and safeguards supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** DGTR role and objectives officially searched and retrieved 24 September 2026.
+- **Evidence boundary:** DGTR role and objectives officially searched and retrieved 3 October 2026.
 - **Prelims trap:** Downstream-user costs belong in policy assessment.
 - **Mains use:** Use a three-column predicate-injury-duration-discrimination framework.
 
@@ -1308,70 +907,42 @@ consumers must therefore be part of the injury-incidence assessment.
 7. Final notification is a separate legal step.
 8. Downstream-user costs belong in policy assessment.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 26.** An import surge causes serious injury but no dumping or subsidy is shown. The relevant route is:
+**Question:** What legal fact separates anti-dumping, countervailing and safeguard action?
 
-A. Anti-dumping duty only.
-B. Safeguard action.
-C. Countervailing duty only.
-D. TRIPS enforcement.
+**Model answer:** Anti-dumping addresses dumped imports and injury; countervailing action addresses subsidised imports and injury; safeguards address serious injury from increased imports without requiring dumping or subsidy.
 
-**Answer: B**
+**Misconception to avoid:** Trade remedies are conditional, investigated and time-bound; they are not ordinary permanent tariffs.
 
-- **A:** Dumping has not been shown.
-- **B:** Safeguards address serious injury from increased imports.
-- **C:** Subsidisation has not been shown.
-- **D:** IP enforcement is unrelated.
+### Select the lawful remedy
 
-**MCQ 27.** Which statement about DGTR is correct?
+**Question (15 marks):** *Compare anti-dumping, countervailing and safeguard measures.*
 
-A. Every initiation automatically imposes a permanent duty.
-B. It grants patents and GIs.
-C. It investigates and recommends; a final notified duty is a separate step.
-D. It negotiates all Indian FTAs.
+**Responsive model:** Use a three-column predicate-injury-duration-discrimination framework. Add the DGTR-to-final-notification chain. Explain why cheap imports, dumping and subsidisation are not synonyms. Conclude that remedies should be evidence-based, temporary where required and sensitive to downstream users.
 
-**Answer: C**
+**Named evidence to deploy:** Use DGTR's investigating role and contrast dumping, subsidy and import-surge predicates.
 
-- **A:** Initiation is not final relief.
-- **B:** IP offices handle grants.
-- **C:** Recommendation and final imposition are distinct.
-- **D:** Department of Commerce negotiations are broader than DGTR.
+**Unique scoring rubric — Trade remedies: anti-dumping, countervailing and safeguards:** 3 marks three predicates; 2 injury/causation; 2 DGTR chain; 2 misuse risk; 1 conclusion.
 
-**MCQ 28.** What additional element is needed beyond a dumping margin?
+**Why this earns marks:** The response matches dumping, subsidy and import-surge predicates to distinct remedies, includes injury and causation, and preserves DGTR–government sequencing.
 
-A. Proof of an export subsidy only.
-B. A current-account deficit.
-C. A bilateral FTA.
-D. Material injury and a causal link to dumped imports.
-
-**Answer: D**
-
-- **A:** Subsidy is the countervailing route.
-- **B:** Macro balance is not the legal test.
-- **C:** FTA membership is not required.
-- **D:** Trade-remedy relief requires injury and causation.
-
-**Mains micro-model - 15 marks:** *Compare anti-dumping, countervailing and safeguard measures.*
-
-**Model answer:** Use a three-column predicate-injury-duration-discrimination framework. Add the DGTR-to-final-notification chain. Explain why cheap imports, dumping and subsidisation are not synonyms. Conclude that remedies should be evidence-based, temporary where required and sensitive to downstream users.
-
-**Transition:** Trade remedies remain multilateral exceptions; Lesson 11 examines the preferential clubs that alter partner treatment.
+**Transition:** The remedy map completes unilateral instruments; Lesson 9 shifts to negotiated preferences and the legal-status ladder.
 
 ---
 
-## Lesson 11 - FTAs, customs unions and the legal-status ladder
+## Lesson 9 - FTAs, customs unions and the legal-status ladder
 
-**Progress: 11/21 | Stage: Core | Subtopic: FTAs, customs unions and the legal-status ladder**
+Progress: 9/21 | Stage: Core | Subtopic: FTAs, customs unions and the legal-status ladder
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Core FTA taxonomy, legal-status discipline and official Commerce agreement pages queried
 CA search: "India free trade agreements 2025-26 key highlights Department of Commerce official"
-CA found: Department of Commerce “India’s Free Trade Agreements (2025-26) - Key Highlights” retrieved 24 September 2026.
+CA found: Department of Commerce “India’s Free Trade Agreements (2025-26) - Key Highlights” retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### FTA status ladder
 
 ```text
 PREFERENTIAL ARRANGEMENTS
@@ -1395,11 +966,11 @@ investment, digital trade, standards, procurement, environment or mobility, but 
 varies.
 
 Legal status must be exact. The Department of Commerce 2025-26 highlights, retrieved on
-24 September 2026, distinguish announcements, signatures and implementation. They record
-the India-EU FTA as announced on 27 January 2026 and the India-UK CETA as signed on
-24 July 2025. As of the 24 September 2026 audit, no official India or UK ratification or
-entry-into-force notification was verified for the India-UK CETA; signature alone therefore
-does not establish operative concessions. The same publication warns that its snapshot
+3 October 2026, distinguish announcements, signatures and implementation. They record
+the India-EU FTA as concluded on 27 January 2026 and the India-UK CETA as signed on
+24 July 2025. A later official Commerce release states that the India-UK CETA entered into
+force on 15 July 2026. The dated sequence matters: the July 2025 signature did not itself
+activate concessions, whereas the July 2026 entry into force did. The same publication warns that its snapshot
 creates no legal rights and that treaty text controls obligations.
 
 The official India-EU release posted 27 January 2026 states that negotiations were
@@ -1425,7 +996,7 @@ awareness, logistics and buyer relationships. FTA evaluation therefore asks not 
 ### UPSC integration
 
 - **Syllabus route:** FTAs, customs unions and the legal-status ladder supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** Department of Commerce “India’s Free Trade Agreements (2025-26) - Key Highlights” retrieved 24 September 2026.
+- **Evidence boundary:** Department of Commerce “India’s Free Trade Agreements (2025-26) - Key Highlights” retrieved 3 October 2026.
 - **Prelims trap:** Utilisation requires firms to claim and satisfy preferences.
 - **Mains use:** Use status, coverage, preference margin, rules of origin, utilisation, services commitments, standards, adjustment and strategic fit.
 
@@ -1440,70 +1011,1024 @@ awareness, logistics and buyer relationships. FTA evaluation therefore asks not 
 7. Multiple origin regimes create noodle-bowl costs.
 8. Utilisation requires firms to claim and satisfy preferences.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 29.** Which sequence best preserves FTA legal status?
+**Question:** Why does an announced FTA concession not immediately create market access?
 
-A. Negotiation, conclusion, signature, ratification, entry into force.
-B. Signature, negotiation, expiry, ratification, conclusion.
-C. Entry into force, negotiation, signature.
-D. Announcement and implementation are always simultaneous.
+**Model answer:** The treaty must be legally operative, the product must be covered, phase-down and origin conditions must be met, and firms must find the preference margin worth the compliance cost.
 
-**Answer: A**
+**Misconception to avoid:** Concluded, signed, ratified and in force are not interchangeable statuses.
 
-- **A:** This is the normal status ladder.
-- **B:** The sequence is incoherent.
-- **C:** Implementation cannot precede negotiation.
-- **D:** Legal procedures may separate the dates.
+### Evaluate an FTA beyond headlines
 
-**MCQ 30.** What is FTA utilisation?
+**Question (15 marks):** *How should India evaluate an FTA beyond headline tariff concessions?*
 
-A. The number of pages in the agreement.
-B. The extent to which eligible traders actually claim and obtain preferences.
-C. The bound tariff of every WTO member.
-D. The bilateral trade balance alone.
+**Responsive model:** Use status, coverage, preference margin, rules of origin, utilisation, services commitments, standards, adjustment and strategic fit. Cite dated India-EU, UK, EFTA, UAE and Australia examples cautiously. Conclude that an FTA succeeds when domestic firms can use it and upgrade, not merely when negotiators announce coverage.
 
-**Answer: B**
+**Named evidence to deploy:** Use UAE CEPA, Australia ECTA, EFTA TEPA, UK CETA and the concluded India-EU FTA with exact status dates.
 
-- **A:** Document length is not usage.
-- **B:** Use requires origin compliance and a preference claim.
-- **C:** WTO bindings are a different measure.
-- **D:** Balance alone does not show preference use.
+**Unique scoring rubric — FTAs, customs unions and the legal-status ladder:** 2 marks integration ladder; 2 legal-status ladder; 2 dated India evidence; 3 utilisation test; 1 verdict.
 
-**MCQ 31.** Why is a customs union deeper than an FTA in goods?
+**Why this earns marks:** The response moves from agreement label to legal status, exclusions, usability and distribution, preventing a signature announcement from becoming a welfare conclusion.
 
-A. It eliminates every domestic tax.
-B. It requires one currency.
-C. Its members combine internal liberalisation with a common external tariff.
-D. It contains no rules of origin or customs administration.
-
-**Answer: C**
-
-- **A:** Domestic taxes remain subject to domestic and treaty rules.
-- **B:** A monetary union is different.
-- **C:** The common external tariff is the defining added feature.
-- **D:** Customs administration remains necessary.
-
-**Mains micro-model - 15 marks:** *How should India evaluate an FTA beyond headline tariff concessions?*
-
-**Model answer:** Use status, coverage, preference margin, rules of origin, utilisation, services commitments, standards, adjustment and strategic fit. Cite dated India-EU, UK, EFTA, UAE and Australia examples cautiously. Conclude that an FTA succeeds when domestic firms can use it and upgrade, not merely when negotiators announce coverage.
-
-**Transition:** An FTA schedule has no effect until origin is proved, which makes Lesson 12 the operational core of preference use.
+**Transition:** Agreement labels and status are now controlled; Lesson 10 follows services, firms and people across borders.
 
 ---
 
-## Lesson 12 - Rules of origin and value-addition calculations
+## Lesson 10 - GATS and the four modes of services supply
 
-**Progress: 12/21 | Stage: Advanced | Subtopic: Rules of origin and value-addition calculations**
+Progress: 10/21 | Stage: Core | Subtopic: GATS and the four modes of services supply
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
-CA search: "WTO rules of origin preferential non-preferential official 2026"
-CA found: WTO Rules of Origin resources searched 24 September 2026; Commerce FTA origin chapters retrieved through official search.
+Checklist date: 3 October 2026 IST
+Book context: Core GATS mode map and India services evidence queried
+CA search: "WTO GATS four modes supply official services trade India 2026"
+CA found: WTO GATS training module retrieved 3 October 2026; Commerce FY2025-26 release dated 15 April 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Services-mode movement map
+
+| Mode | Who/what crosses border? | India-centric example |
+|---|---|---|
+| 1 Cross-border | service | Indian software delivered online |
+| 2 Consumption abroad | consumer | foreign patient/student in India |
+| 3 Commercial presence | supplier's enterprise | Indian IT subsidiary abroad |
+| 4 Natural persons | service supplier temporarily | Indian professional on assignment |
+
+*The mode map follows the service, consumer, enterprise or person that crosses the relevant boundary.*
+
+### Services trade is not only a laptop crossing no border
+
+GATS defines four modes according to the location of supplier and consumer. Mode 1 is
+cross-border supply. Mode 2 is consumption abroad. Mode 3 is commercial presence. Mode 4
+is temporary presence of natural persons supplying a service.
+
+The WTO module retrieved on 3 October 2026 emphasises that this is broader than the
+BoP residence concept, especially for Mode 3: a foreign-owned local subsidiary may involve
+resident-to-resident transactions in BoP statistics but still represent commercial
+presence under GATS.
+
+### Commitments are scheduled
+
+GATS combines general obligations with sector- and mode-specific scheduled commitments on
+market access and national treatment. “The country opened services” is therefore too
+vague. Ask: which sector, which mode, what limitation, and what horizontal condition?
+
+### India stakes
+
+India has strengths in Mode 1 digitally delivered services and interests in Mode 4
+temporary professional mobility. Tourism, education and medical travel involve Mode 2.
+Indian firms investing abroad use Mode 3. Data governance, licensing, recognition of
+qualifications, visas, social-security contributions and local-presence conditions shape
+actual access.
+
+The Department of Commerce release dated 15 April 2026 estimated FY2025-26 services
+exports at USD 418.31 billion and services imports at USD 204.42 billion, yielding an
+estimated services surplus of USD 213.89 billion. The release explicitly notes that March
+services values were estimates because the latest RBI data then available were for
+February 2026.
+
+### Trap
+
+Mode 4 is not permanent migration and does not cover persons seeking access to the
+employment market as such. Mode 3 is not a cross-border digital transaction.
+
+### UPSC integration
+
+- **Syllabus route:** GATS and the four modes of services supply supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
+- **Evidence boundary:** WTO GATS training module retrieved 3 October 2026; Commerce FY2025-26 release dated 15 April 2026.
+- **Prelims trap:** FY2025-26 services figures in the 15 April release were partly estimated.
+- **Mains use:** Map each mode to an India-centric example.
+
+### Revision notes
+
+1. GATS has four modes of supply.
+2. Mode 1 moves the service; Mode 2 moves the consumer.
+3. Mode 3 is commercial presence.
+4. Mode 4 is temporary presence of natural persons.
+5. GATS and BoP service concepts are not identical.
+6. Commitments are sector-, mode- and limitation-specific.
+7. India has interests in digital supply and professional mobility.
+8. FY2025-26 services figures in the 15 April release were partly estimated.
+
+### Concept check
+
+**Question:** How do GATS Modes 1 and 4 differ?
+
+**Model answer:** Mode 1 supplies a service across a border while supplier and consumer stay put; Mode 4 involves temporary movement of a natural person supplying the service.
+
+**Misconception to avoid:** Mode 4 is not a general immigration right, and Mode 3 is commercial presence rather than a simple cross-border payment.
+
+### Map India’s services interests
+
+**Question (15 marks):** *Explain the four GATS modes and India's offensive interests in services trade.*
+
+**Responsive model:** Map each mode to an India-centric example. Distinguish GATS from BoP treatment, especially Mode 3. Discuss digital delivery, professional mobility, recognition, visas, data rules and commercial presence. Use the dated FY2025-26 services estimate with its estimation caveat.
+
+**Named evidence to deploy:** Use software delivery, tourism/education, foreign bank presence and temporary professionals to map Modes 1-4.
+
+**Unique scoring rubric — GATS and the four modes of services supply:** 4 marks accurate mode map; 2 India interests; 2 scheduled commitments; 1 mobility qualification; 1 conclusion.
+
+**Why this earns marks:** The response maps all four GATS modes to Indian interests while keeping Mode 3 distinct from balance-of-payments services measurement.
+
+**Transition:** The mode map prepares Lesson 11 to read India’s actual goods–services basket without confusing legal supply modes with statistical balances.
+
+---
+
+## Lesson 11 - India's export basket: merchandise, services and diversification
+
+Progress: 11/21 | Stage: Core | Subtopic: India's export basket: merchandise, services and diversification
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Checklist date: 3 October 2026 IST
+Book context: Core export-basket and IGC material, local PYQs and official trade releases checked
+CA search: "Department of Commerce India exports FY 2025-26 merchandise services 15 April 2026"
+CA found: Official PIB release dated 15 April 2026 downloaded and checked on 3 October 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Export-basket dashboard
+
+| FY2025-26 official release item | USD billion | Status in 15 Apr 2026 release |
+|---|---:|---|
+| Merchandise exports | 441.78 | reported cumulative value |
+| Estimated services exports | 418.31 | March services estimated |
+| Estimated total exports | 860.09 | merchandise + services |
+| Merchandise trade deficit | 333.19 | reported |
+| Estimated services surplus | 213.89 | March services estimated |
+
+*The dashboard makes the merchandise-services split and the estimate status visible before interpretation.*
+
+### Never say “exports rose” without naming the basket
+
+Merchandise, services and total exports answer different questions. The official Commerce
+release dated 15 April 2026 estimated total FY2025-26 exports at USD 860.09 billion:
+USD 441.78 billion merchandise and USD 418.31 billion services. It recorded a merchandise
+trade deficit of USD 333.19 billion and estimated a services surplus of USD 213.89 billion.
+The release states that March 2026 services data were estimated using the latest RBI data
+then available for February.
+
+This pattern shows why India's external strength cannot be read from merchandise alone.
+Services offset a large part of the goods gap, but they do not remove vulnerabilities in
+energy, electronics, machinery or critical inputs.
+
+### Composition beats headline
+
+Export quality depends on domestic value added, technology intensity, diversification,
+market concentration and firm participation. A petroleum export may contain imported
+crude. An electronics export may contain imported components. Software exports can embed
+high domestic skill value but face market and regulatory concentration.
+
+The Department of Commerce release issued on 16 September 2026 estimated August 2026
+total exports at USD 82.68 billion, including USD 43.81 billion merchandise exports and
+**USD 38.87 billion estimated services exports**. It estimated April-August 2026-27 total
+exports at USD 399.27 billion. The period is **August 2026**, and the source is the
+Department of Commerce/PIB monthly trade release dated **16 September 2026**. This is a
+one-month snapshot, not a structural trend; the services value follows the release's
+estimation convention.
+
+The Economic Survey 2025-26, tabled 29 January 2026, reported FY25 total exports of
+USD 825.3 billion and highlighted growth in services and non-petroleum, non-gems-and-
+jewellery exports. It also noted FY25 services exports of USD 387.5 billion and a
+USD 188.8 billion services surplus.
+
+### International Grains Council: four distinctions that eliminate close options
+
+The **International Grains Council (IGC)** is an independent intergovernmental organisation
+headquartered in London. It administers the **Grains Trade Convention (GTC)** and promotes
+market transparency, statistics, information-sharing and cooperation covering grains,
+rice and oilseeds. India is a GTC member; the Department of Food and Public Distribution is
+the Indian nodal agency.
+
+Keep four boundaries separate:
+
+1. The IGC is **not a United Nations agency**.
+2. It is **not a food-relief or food-aid body**. Its administrative relationship with the
+   legally separate Food Assistance Convention (FAC) does not transform its own function,
+   and India's GTC membership does not by itself establish that India is an FAC party.
+3. GTC membership is **not a legal precondition** for a country to export or import rice or
+   wheat.
+4. The IGC does **not** set prices, procure grain or manage India's buffer stocks; those are
+   separate domestic functions.
+
+### Verified PYQ gallery — trade facts, answer-neutral
+
+**2018 Prelims GS-I, Q10 — exact wording and options**
+
+> Consider the following statements:
+>
+> 1. The quantity of imported edible oils is more than the domestic production of edible
+>    oils in the last five years.
+> 2. The Government does not impose any customs duty on all the imported edible oils as a
+>    special case.
+>
+> Which of the statements given above is/are correct?
+>
+> (a) 1 only
+> (b) 2 only
+> (c) Both 1 and 2
+> (d) Neither 1 nor 2
+
+**Key provenance:** exact local official paper verified; the routed repository ledger does
+not hold the official 2018 key, so no answer is supplied.
+
+**2019 Prelims GS-I, Q37 — exact wording and options**
+
+> Among the following, which one is the largest exporter of rice in the world in the last
+> five years?
+>
+> (a) China
+> (b) India
+> (c) Myanmar
+> (d) Vietnam
+
+**Key provenance:** exact local official paper verified; the routed local ledger records
+the official key as unavailable. The five-year reference period must not be converted into
+a timeless ranking.
+
+**2019 Prelims GS-I, Q84 — exact wording and options**
+
+> Among the agricultural commodities imported by India, which one of the following
+> accounts for the highest imports in terms of value in the last five years?
+>
+> (a) Spices
+> (b) Fresh fruits
+> (c) Pulses
+> (d) Vegetable oils
+
+**Key provenance:** exact local official paper verified; the routed local ledger records
+the official key as unavailable.
+
+**2020 Prelims GS-I, Q52 — exact wording and options**
+
+> With reference to the international trade of India at present, which of the following
+> statements is/are correct?
+>
+> 1. India's merchandise exports are less than its merchandise imports.
+> 2. India's imports of iron and steel, chemicals, fertilisers and machinery have decreased
+>    in recent years.
+> 3. India's exports of services are more than its imports of services.
+> 4. India suffers from an overall trade/current account deficit.
+>
+> Select the correct answer using the code given below:
+>
+> (a) 1 and 2 only
+> (b) 2 and 4 only
+> (c) 3 only
+> (d) 1, 3 and 4 only
+
+**Key provenance:** exact local official paper verified; the routed local ledger records
+the official key as unavailable. Read every statement in its question-period context.
+
+**2024 Prelims GS-I, Q59, Set A — exact wording and options**
+
+> Consider the following statements:
+>
+> 1. India is a member of the International Grains Council.
+> 2. A country needs to be a member of the International Grains Council for exporting or
+>    importing rice and wheat.
+>
+> Which of the statements given above is/are correct?
+>
+> (a) 1 only
+> (b) 2 only
+> (c) Both 1 and 2
+> (d) Neither 1 nor 2
+
+**Key provenance:** exact Set-A question and the official UPSC 2024 Set-A answer-key file
+are present locally. The answer letter is deliberately withheld in this live session.
+
+**2024 Prelims GS-I, Q92, Set A — exact wording and options**
+
+> Consider the following statements:
+>
+> Statement-I: India does not import apples from the United States of America.
+>
+> Statement-II: In India, the law prohibits the import of Genetically Modified food
+> without the approval of the competent authority.
+>
+> Which one of the following is correct in respect of the above statements?
+>
+> (a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+> (b) Both Statement-I and Statement-II are correct, but Statement-II does not explain
+>     Statement-I
+> (c) Statement-I is correct, but Statement-II is incorrect
+> (d) Statement-I is incorrect, but Statement-II is correct
+
+**Key provenance:** exact Set-A question and the official UPSC 2024 Set-A answer-key file
+are present locally. No answer letter or elimination cue is disclosed here. The apple-trade
+claim and the GM-food approval rule are independent propositions.
+
+### Diversification test
+
+Use a three-axis dashboard:
+
+1. products - is India moving toward complex, high-value goods and services?
+2. destinations - are earnings concentrated in a few markets?
+3. inputs - how much domestic value and imported technology sit behind gross exports?
+
+An export strategy that ignores import capability can weaken itself because competitive
+exports often require world-class imported inputs.
+
+### UPSC integration
+
+- **Syllabus route:** India's export basket: merchandise, services and diversification supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
+- **Evidence boundary:** Official PIB release dated 15 April 2026 downloaded and checked on 3 October 2026.
+- **Prelims trap:** Diversification must cover products, markets and inputs.
+- **Mains use:** Start with the 15 April 2026 merchandise-services split and its estimation caveat.
+
+### Revision notes
+
+1. Always identify merchandise, services or total trade.
+2. FY2025-26 Commerce total exports were estimated at USD 860.09 billion.
+3. Merchandise exports were USD 441.78 billion.
+4. Services exports were estimated at USD 418.31 billion.
+5. March services data carried an estimation caveat.
+6. Services surplus cushions but does not erase goods vulnerability.
+7. Gross export value is not domestic value added.
+8. August 2026 estimated services exports were USD 38.87 billion in the 16 September 2026
+   Commerce/PIB release.
+9. IGC administers the GTC; it is not a UN relief agency or a condition for grain trade.
+10. Diversification must cover products, markets and inputs.
+
+### Concept check
+
+**Question:** Why can strong services exports coexist with merchandise vulnerability?
+
+**Model answer:** Services can generate a large surplus while goods trade remains exposed to energy, electronics, machinery and critical-input imports; the balances measure different baskets.
+
+**Misconception to avoid:** Do not call the merchandise deficit the current-account deficit or treat gross exports as domestic value added.
+
+### Read the export basket with caveats
+
+**Question (15 marks):** *Assess the changing composition of India's exports.*
+
+**Responsive model:** Start with the 15 April 2026 merchandise-services split and its estimation caveat, then use the 16 September 2026 release's August figure of USD 38.87 billion estimated services exports as a dated snapshot rather than a trend. Explain the services cushion, non-petroleum momentum, domestic-value-added problem and product/destination concentration. Add transparent market intelligence—while distinguishing the IGC's GTC/statistical role from price-setting or procurement—and recommend standards, logistics, design, R&D, market diversification and reliable access to competitive inputs.
+
+**Named evidence to deploy:** Use the 15 April 2026 FY2025-26 release and the 16 September 2026 August trade release, preserving estimate caveats.
+
+**Unique scoring rubric — India's export basket: merchandise, services and diversification:** 2 marks basket distinction; 3 dated data; 2 domestic-value analysis; 2 diversification; 1 caveated verdict.
+
+**Why this earns marks:** The response uses dated official figures with estimate caveats, separates goods and services balances and links diversification to domestic value capture and market intelligence.
+
+**Transition:** The basket diagnosis feeds Lesson 12: export potential matters only if institutions can carry a firm from authorisation to a repeat buyer.
+
+---
+
+## Lesson 12 - Trade facilitation, standards capacity and export reliability
+
+Progress: 12/21 | Stage: Core | Subtopic: Trade facilitation, standards capacity and export reliability
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Checklist date: 3 October 2026 IST
+Book context: Core FTP and institutions chain and official Commerce-DGFT scheme pages queried
+CA search: "Economic Survey 2025-26 trade facilitation logistics standards export reliability India"
+CA found: Economic Survey 2025-26 tabled 29 January 2026; Trade Connect/FTA facilitation discussion queried.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Export journey control room
+
+```text
+ORDER
+  -> product standard understood
+  -> testing/certification completed
+  -> origin documented
+  -> customs risk assessment
+  -> port/air/land movement
+  -> predictable delivery
+  -> repeat buyer
+
+One broken link can erase a tariff preference.
+```
+
+*The order-to-delivery rail shows why a preference can be lost outside the tariff schedule.*
+
+### Market access on paper is not delivery at the buyer's door
+
+An exporter needs information, finance, quality systems, accredited testing, origin proof,
+customs clearance, logistics and grievance resolution. A ten-percentage-point preference
+can be worthless if certification costs twelve points or delivery is unreliable.
+
+**Trade facilitation** lowers time, uncertainty and administrative cost without requiring
+lower product standards. Risk-based customs can inspect high-risk consignments while
+allowing compliant traders faster clearance. Digital documentation can reduce repetition,
+but poor interoperability merely converts paper queues into portal queues.
+
+### Standards as capability
+
+Standards infrastructure includes laboratories, metrology, accreditation, certification,
+traceability and mutual-recognition arrangements. It creates a public-good problem:
+individual MSMEs may not finance the ecosystem even though an industry benefits.
+
+### Foreign Trade Policy 2023 and the export-import institutional chain
+
+Foreign Trade Policy 2023 took effect on 1 April 2023 and is organised around continuity,
+process re-engineering, digital delivery, collaboration and export promotion. Its operational
+logic is a chain rather than one ministry:
+
+| Institution / instrument | Operational role | Exam caution |
+|---|---|---|
+| Department of Commerce | policy direction, negotiations and export ecosystem | announcement is not firm-level utilisation |
+| DGFT | IEC, authorisations, policy procedures and digital services | licensing is not the same as customs assessment |
+| DGTR | investigates anti-dumping, countervailing and safeguard cases | recommendation still requires government action |
+| CBIC / Customs | classification, valuation, origin verification and border clearance | customs duty is distinct from internal tax |
+| RBI and authorised dealers | foreign-exchange and export-realisation framework | payment compliance is not market access |
+| Export Promotion Councils / FIEO | sector guidance, exporter representation and market support | membership does not guarantee orders |
+| ECGC / EXIM Bank | risk cover and trade/development finance | finance cannot cure weak quality or demand |
+| Standards, testing and accreditation bodies | conformity assessment, traceability and buyer confidence | a certificate must match the destination rule |
+
+FTP instruments include Advance Authorisation and EPCG for duty-linked input/capital-goods
+facilitation, and remission mechanisms such as RoDTEP/RoSCTL that seek to neutralise embedded
+taxes rather than reward exports merely for crossing the border. Trade Connect supplies market
+and FTA information. The legal and economic test is additionality, WTO compatibility,
+administrative simplicity and measurable exporter use.
+
+### India case: preference to purchase order
+
+The Department of Commerce's 2025-26 FTA material highlights product-specific origin,
+SPS/TBT cooperation and services commitments. The Economic Survey 2025-26 notes the Trade
+Connect ePlatform's tariff explorer for eligible exports. These are enabling tools, not
+proof that utilisation or exports automatically rise.
+
+### Reliability premium
+
+A buyer values low defect rates, on-time delivery and rapid correction. Export policy must
+therefore join infrastructure, customs, standards, credit and firm capability. Frequent
+export bans or minimum export prices may offer short-run domestic relief but can push
+buyers toward reliable alternatives; the Survey's external-sector chapter warns of this
+reputational cost in agricultural trade.
+
+### UPSC integration
+
+- **Syllabus route:** Trade facilitation, standards capacity and export reliability supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
+- **Evidence boundary:** Economic Survey 2025-26 tabled 29 January 2026; Trade Connect/FTA facilitation discussion queried.
+- **Prelims trap:** Policy instability can destroy buyer trust.
+- **Mains use:** Trace the order-to-delivery chain across standards, testing, origin, customs, logistics and reliability.
+
+### Revision notes
+
+1. Tariff preference is only one component of market access.
+2. Trade facilitation reduces time, uncertainty and administrative cost.
+3. Risk-based customs can combine control and speed.
+4. Digitalisation needs interoperable processes.
+5. Standards infrastructure has public-good features.
+6. MSMEs face fixed compliance costs.
+7. Trade portals enable but do not prove utilisation.
+8. Policy instability can destroy buyer trust.
+
+### Concept check
+
+**Question:** Why is trade facilitation broader than customs clearance?
+
+**Model answer:** Export success requires policy information, finance, standards, testing, origin proof, customs, logistics, insurance and buyer reliability; delay or compliance cost anywhere can erase a tariff preference.
+
+**Misconception to avoid:** A portal or signed FTA enables trade but does not prove utilisation or firm-level upgrading.
+
+### Repair the export pipeline
+
+**Question (10 marks):** *Why is trade facilitation a competitiveness reform rather than merely a customs reform?*
+
+**Responsive model:** Trace the order-to-delivery chain across standards, testing, origin, customs, logistics and reliability. Explain fixed MSME compliance costs and risk-based clearance. Conclude with interoperable digital systems, accredited labs, stable policy and measurable delivery-time outcomes.
+
+**Named evidence to deploy:** Use FTP 2023, DGFT, DGTR, Customs, EPCs/FIEO, ECGC, EXIM Bank, Trade Connect and accredited testing.
+
+**Unique scoring rubric — Trade facilitation, standards capacity and export reliability:** 2 marks FTP architecture; 3 institutional chain; 2 remission/facilitation tools; 2 MSME constraints; 1 outcome metric.
+
+**Why this earns marks:** The response follows an exporter from authorisation through customs, finance, standards and buyer access, so institutional reform is tied to a specific bottleneck.
+
+**Transition:** With the implementation chain visible, Lesson 13 tests the political case for selective protection against its downstream and lobbying costs.
+
+---
+
+## Lesson 13 - Protectionism: infant industry, jobs and political economy
+
+Progress: 13/21 | Stage: Core | Subtopic: Protectionism: infant industry, jobs and political economy
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Checklist date: 3 October 2026 IST
+Book context: Core protectionism chapter and Economic Survey political-economy passages queried
+CA search: "Economic Survey 2025-26 protectionism tariffs industrial policy global trade uncertainty"
+CA found: Economic Survey 2025-26, tabled 29 January 2026, external-sector and economic-statecraft chapters queried.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Protection political-economy balance
+
+```text
+PROTECTION CLAIM
+  |
+  +-- market failure? learning / coordination / security / adjustment
+  +-- targeted beneficiary?
+  +-- measurable performance?
+  +-- consumer + downstream cost?
+  +-- sunset and competition?
+  +-- less distortive alternative?
+
+If these boxes are blank, protection is probably rent preservation.
+```
+
+*The screening questions convert an appealing protection claim into a falsifiable policy test.*
+
+### The infant must eventually grow
+
+The **infant-industry argument** says a new sector may have high initial cost but lower
+future cost through learning, scale or supplier development. Private firms may underinvest
+when learning spills over to rivals or when complementary infrastructure is missing.
+
+The argument can justify temporary support, but not any tariff. A credible policy specifies
+the learning externality, duration, milestones, competition, export discipline and exit.
+If costs never converge and lobbying blocks withdrawal, consumers finance inefficiency.
+
+### Other protection arguments
+
+- adjustment time for workers and firms after a sudden shock;
+- anti-dumping or countervailing action against defined unfair trade;
+- security of critical supply;
+- environmental or labour objectives;
+- strategic trade under scale economies and oligopoly.
+
+Each has a different instrument. Worker adjustment may be better served by income support
+and retraining than by permanent product tariffs. A security risk may justify diversified
+procurement and stockpiles rather than full domestic production.
+
+### Political economy
+
+Benefits are concentrated among protected firms; costs are dispersed among consumers and
+downstream users. This asymmetry encourages lobbying and makes temporary barriers sticky.
+Protection can also invite retaliation, currency pressure, smuggling and anti-export bias.
+
+### Verified Mains PYQ — answer-neutral
+
+**2018 General Studies Paper III, Q12 — exact wording**
+
+> How would the recent phenomena of protectionism and currency manipulations in world trade
+> affect macroeconomic stability of India?
+
+**Demand:** 15 marks; answer in 250 words.
+**Provenance:** exact wording, marks and word limit verified from the local official UPSC
+Mains 2018 GS-III question paper. No answer outline is embedded in this PYQ block.
+
+### India design rule
+
+Prefer direct, transparent and reviewable support for capability gaps. Tie assistance to
+productivity, quality, R&D, supplier development or exports. Preserve competition and
+allow failure. The Economic Survey 2025-26 frames the global environment as more
+protectionist and bilateral, but its policy logic emphasises capability and diversification
+rather than indiscriminate closure.
+
+### UPSC integration
+
+- **Syllabus route:** Protectionism: infant industry, jobs and political economy supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
+- **Evidence boundary:** Economic Survey 2025-26, tabled 29 January 2026, external-sector and economic-statecraft chapters queried.
+- **Prelims trap:** Performance-linked support is stronger than unconditional shelter.
+- **Mains use:** State the learning-externality case, then specify evidence, duration, milestones and exit.
+
+### Revision notes
+
+1. Infant-industry logic rests on learning or coordination failure.
+2. Temporary support needs measurable graduation.
+3. Different policy problems require different instruments.
+4. Worker adjustment is not identical to producer protection.
+5. Concentrated benefits and dispersed costs sustain lobbying.
+6. Protection can create anti-export bias.
+7. Retaliation can shrink the intended gain.
+8. Performance-linked support is stronger than unconditional shelter.
+
+### Concept check
+
+**Question:** What makes infant-industry protection economically defensible?
+
+**Model answer:** A demonstrable learning externality, temporary support, measurable productivity or export milestones, competitive pressure and a credible sunset make the case stronger.
+
+**Misconception to avoid:** Age does not prove infancy, and employment alone cannot justify permanent protection.
+
+### Stress-test infant-industry protection
+
+**Question (15 marks):** *Critically examine the infant-industry argument for protection.*
+
+**Responsive model:** State the learning-externality case, then specify evidence, duration, milestones and exit. Discuss consumer cost, downstream incidence, lobbying, retaliation and government failure. Recommend direct capability support, competition and export discipline, with tariffs used narrowly where they are the least-distortive workable instrument.
+
+**Named evidence to deploy:** Use infant-industry learning, downstream cost, lobbying risk and a milestone-plus-sunset design.
+
+**Unique scoring rubric — Protectionism: infant industry, jobs and political economy:** 2 marks rationale; 3 design conditions; 2 political economy; 2 India value-chain effect; 1 sunset verdict.
+
+**Why this earns marks:** The response grants the learning rationale only after specifying evidence, milestones, competition and sunset, while accounting for downstream and political-economy costs.
+
+**Transition:** The protection test culminates in Lesson 14’s Core synthesis of FTAs, digital rules, multilateral enforcement and domestic capability.
+
+---
+
+## Lesson 14 - India's selective FTA strategy and a balanced trade-policy framework
+
+Progress: 14/21 | Stage: Core | Subtopic: India's selective FTA strategy and a balanced trade-policy framework
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Checklist date: 3 October 2026 IST
+Book context: Core synthesis plus the digital-trade issue set and WTO/Commerce status records reconciled
+CA search: "India FTAs 2025-26 Department of Commerce EU UK EFTA UAE Australia official status"
+CA found: Commerce FTA highlights and India-EU release checked 3 October 2026; mutable statuses stated with document dates.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### India strategy synthesis
+
+```text
+INDIA TRADE STRATEGY
+
+Multilateral baseline (WTO)
+        +
+Selective FTAs (market + services + standards)
+        +
+Domestic capability (logistics + skills + finance + quality)
+        +
+Adjustment and resilience (workers + MSMEs + critical supply)
+        =
+Open, competitive and strategically resilient integration
+```
+
+*The synthesis map treats rules, agreements, capability and adjustment as complements rather than rival slogans.*
+
+### India is neither choosing pure multilateralism nor pure bilateralism
+
+India's strategy combines WTO engagement, selective FTAs, export promotion, domestic
+capability and calibrated protection. The important word is **selective**. India withdrew
+from RCEP negotiations in November 2019 amid market-access and domestic-sensitivity
+concerns, but subsequently operationalised agreements with the UAE and Australia and
+India-EFTA TEPA on 1 October 2025.
+
+Official Commerce material checked through 3 October 2026 records a dated ladder:
+India-UK CETA was signed on 24 July 2025 and entered into force on 15 July 2026; India-EU
+FTA negotiations were concluded on 27 January 2026, while conclusion remains distinct from
+signature, ratification and entry into force. India-EFTA TEPA has operated since 1 October
+2025. These examples show why every claim must name both the agreement and its legal status.
+
+Foreign Trade Policy 2023 was launched on 31 March 2023 and took effect on 1 April 2023
+under the official Commerce/DGFT record searched on 3 October 2026. Its process
+re-engineering, digitalisation and remission orientation illustrates how domestic export
+policy must fit trade disciplines, but policy announcement alone cannot solve logistics,
+credit or standards constraints.
+
+### Five tests for every agreement
+
+1. **Market access:** preference margin after exclusions and phase-downs.
+2. **Usability:** origin, customs, standards and awareness.
+3. **Capability:** investment, technology, supplier and services linkages.
+4. **Distribution:** consumers, workers, farmers, MSMEs and sensitive sectors.
+5. **Strategy:** diversification, trusted supply and compatibility with multilateral rules.
+
+### Bilateralism's benefit and cost
+
+FTAs can move faster than consensus, tailor commitments and secure market access. But they
+discriminate, multiply rules, divert trade and weaken the incentive to repair the
+multilateral system. A small exporter may face a different origin calculation for every
+market.
+
+### Digital trade is a regulatory package, not a tariff slogan
+
+Digital trade includes both **electronically ordered trade** and **electronically delivered
+trade**; the two overlap but are not identical. A physical book ordered online is digitally
+ordered, whereas cloud computing or a remotely supplied software service may be digitally
+delivered. Policy therefore spans several distinct questions:
+
+| Issue | Trade opportunity | Public-policy question |
+|---|---|---|
+| Cross-border data flows | scale, matching and remote delivery | privacy, cybersecurity and lawful access |
+| Data localisation | regulatory access and resilience | compliance cost, fragmentation and proportionality |
+| Source-code rules | protection against forced disclosure | auditability, competition, security and regulatory inspection |
+| Platform regulation | lower search and transaction costs | consumer protection, market power and intermediary duties |
+| E-signatures/e-payments | paperless trade and MSME access | interoperability, fraud, identity and inclusion |
+| Taxation | access to remote markets | nexus, value creation and revenue allocation |
+| Customs duties on electronic transmissions | predictability for digital supply | revenue, classification and development policy space |
+
+The WTO's 30 March 2026 MC14 news record states that members did not reach agreement to
+continue the moratorium on customs duties on electronic transmissions; the existing
+moratorium consequently expired at the end of March 2026. This is a narrow customs-duty
+status, not a prohibition on digital regulation, a settled definition of every electronic
+transmission, or an answer to privacy, source-code, competition and tax debates. India must
+therefore seek interoperability and market access while preserving proportionate,
+transparent policy space rather than treating “free data flows” and “data sovereignty” as
+complete positions.
+
+### Core dispute-settlement checkpoint: restoration is not MPIA membership
+
+The WTO Appellate Body impasse weakened the normal two-tier dispute-settlement system. The
+**Multi-Party Interim Appeal Arbitration Arrangement (MPIA)** was established in 2020 by a
+group of participating WTO members as an interim appeal-arbitration mechanism under
+**DSU Article 25**. It is plurilateral and binds only participating members.
+
+As checked against WTO participant material through 3 October 2026, **India is not an MPIA
+participant**. That does not mean India rejects adjudication: India has supported restoration
+of a fully functioning, accessible and binding multilateral two-tier system. Keep the two
+positions distinct—support for restoring the Appellate Body is not participation in the
+interim MPIA workaround. Lesson 21 later examines the institutional design problem; this
+Core checkpoint supplies the status and legal boundary first.
+
+### Final policy framework
+
+India should pursue competitive input access, standards capacity, logistics, trade
+finance, services mobility and product-market diversification. Protection should be
+targeted at demonstrated learning or security externalities, linked to performance and
+reviewed. Adjustment support should follow workers and firms rather than freeze the old
+production structure.
+
+The final objective is not the largest possible trade surplus. It is higher productivity,
+domestic value addition, stable access to essential imports, quality employment and policy
+space consistent with credible rules.
+
+### Verified Mains PYQ — answer-neutral
+
+**2025 General Studies Paper III, Q2 — exact wording**
+
+> What are the challenges before the Indian economy when the world is moving away from free
+> trade and multilateralism to protectionism and bilateralism? How can these challenges be
+> met?
+
+**Demand:** 10 marks; answer in 150 words.
+**Provenance:** exact wording, marks and word limit verified from the local official UPSC
+Mains 2025 GS-III question paper. This block supplies no model answer or preferred conclusion.
+
+### UPSC integration
+
+- **Syllabus route:** India's selective FTA strategy and a balanced trade-policy framework supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
+- **Evidence boundary:** Commerce FTA highlights and India-EU release checked 3 October 2026; mutable statuses stated with document dates.
+- **Prelims trap:** Trade strategy targets productivity and resilience, not surplus alone.
+- **Mains use:** Begin with the multilateral-rule crisis and selective FTA response.
+
+### Revision notes
+
+1. India combines multilateral and preferential strategies.
+2. RCEP withdrawal does not imply rejection of all FTAs.
+3. UAE, Australia and EFTA illustrate selective engagement.
+4. Status dates must distinguish signature, conclusion and operation.
+5. FTA success requires usability and domestic capability.
+6. Bilateralism can create noodle-bowl and diversion costs.
+7. Protection needs learning or security evidence and review.
+8. Digital trade separates ordering, delivery, data, localisation, source code, platforms,
+   taxation and the customs-moratorium question.
+9. WTO MC14 did not renew the moratorium; it expired at the end of March 2026.
+10. India supports restored two-tier multilateral adjudication but is not an MPIA
+    participant.
+11. Trade strategy targets productivity and resilience, not surplus alone.
+
+### Concept check
+
+**Question:** What is the central test of India's selective FTA strategy?
+
+**Model answer:** Whether multilateral rules, usable preferences, competitive inputs, services access, standards capability, adjustment support and resilience jointly raise productivity and domestic value addition.
+
+**Misconception to avoid:** A bilateral surplus or the number of agreements signed is not a sufficient success metric.
+
+### Build India’s balanced trade strategy
+
+**Question (20 marks):** *Formulate a balanced trade-policy strategy for India in an era of protectionism and bilateralism.*
+
+**Responsive model:** Begin with the multilateral-rule crisis and selective FTA response. Evaluate market access, origin, services, standards, digital rules, GVCs, adjustment and security. Distinguish India’s support for restored two-tier WTO adjudication from non-participation in the MPIA. Use cautiously dated UAE/Australia/EFTA/UK/EU examples and the post-MC14 customs-moratorium status. Recommend competitive inputs, logistics, quality, digital interoperability with proportionate safeguards, trade finance, worker support and time-bound strategic intervention. End with open but resilient integration.
+
+**Named evidence to deploy:** Use RCEP withdrawal, operational UAE/Australia/EFTA/UK agreements, the concluded EU deal, MC14's non-renewal of the electronic-transmissions moratorium and India's non-participation in MPIA alongside its support for multilateral restoration.
+
+**Unique scoring rubric — India's selective FTA strategy and a balanced trade-policy framework:** 2 marks thesis; 3 multilateral-bilateral evidence; 2 domestic capability; 2 adjustment/resilience; 1 qualified verdict.
+
+**Why this earns marks:** The response integrates FTAs, digital rules, MPIA status, domestic capability and adjustment into one strategy without confusing bilateral activity with multilateral replacement.
+
+**Transition:** Core is now complete; optional Advanced Lesson 15 deepens the agriculture-support architecture without displacing Topic 28 ownership.
+
+---
+
+## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+The Core spine is complete. The following lessons add legal, numerical and strategic depth.
+They may strengthen a high-quality answer, but a learner should not delay Core mastery for them.
+
+
+---
+
+## Lesson 15 - Agreement on Agriculture: pillars, boxes and AMS
+
+Progress: 15/21 | Stage: Optional Advanced | Subtopic: Agreement on Agriculture: pillars, boxes and AMS
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Checklist date: 3 October 2026 IST
+Book context: AoA classification chapter and its Core prerequisites and official WTO agriculture explainers queried
+CA search: "WTO Agreement on Agriculture domestic support green blue amber de minimis official"
+CA found: WTO domestic-support explainer retrieved 3 October 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Farm-support box sorter
+
+```text
+AoA THREE PILLARS
+Market access | Domestic support | Export competition
+
+DOMESTIC SUPPORT BOXES
+Green: minimal distortion, criteria-based, no reduction commitment
+Blue: production-limiting direct payments, exempt under conditions
+Amber: trade-distorting support, counted in AMS unless exempt
+Article 6.2: specified developing-country development support
+De minimis: 10% product-specific and 10% non-product-specific for developing members
+```
+
+*The box map turns agricultural-support labels into legal tests and a measurable AMS calculation.*
+
+### Agriculture is not treated like an ordinary factory tariff
+
+The AoA rests on **market access**, **domestic support** and **export competition**.
+Domestic support is classified by design and effect, not by the colour of the budget
+document.
+
+The **Green Box** covers measures meeting general and measure-specific criteria, including
+minimal trade distortion and public funding without producer price support. Research,
+extension, certain infrastructure, qualifying public stockholding and domestic food aid
+can fit here. The **Blue Box** covers specified production-limiting payments. The
+**Amber Box** is the residual trade-distorting category and feeds the Aggregate Measurement
+of Support (AMS), subject to exemptions and member schedules.
+
+For developing members, the WTO explainer retrieved on 3 October 2026 states a 10%
+de minimis threshold for product-specific support and separately for non-product-specific
+support. Article 6.2 also exempts specified development measures such as generally
+available investment subsidies and input subsidies for low-income or resource-poor
+producers.
+
+### AMS box calculation
+
+```text
+Market price support
+= (administered price - fixed external reference price)
+  x eligible production
+```
+
+If administered price is ₹2,400 per unit, fixed reference price ₹1,000, and eligible
+production 10 million units, measured market-price support is ₹14,000 million before
+relevant adjustments. The political dispute arises because the fixed external reference
+price uses an old base and because procurement, inflation and eligible-production
+interpretation matter.
+
+### Equity critique
+
+Developing countries argue that historically larger support in advanced economies and
+old reference prices constrain current food-security programmes asymmetrically. The
+counterargument is that administered-price procurement can affect production and trade.
+A balanced answer separates food distribution from producer price support and proposes
+updated methods, transparency and anti-export safeguards.
+
+### UPSC integration
+
+- **Syllabus route:** Agreement on Agriculture: pillars, boxes and AMS supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
+- **Evidence boundary:** WTO domestic-support explainer retrieved 3 October 2026.
+- **Prelims trap:** Food-security purpose does not erase trade-effect questions.
+- **Mains use:** Begin with the three pillars.
+
+### Revision notes
+
+1. AoA pillars are market access, domestic support and export competition.
+2. Green Box requires criteria; it is not simply any 'good' subsidy.
+3. Blue Box is linked to production-limiting programmes.
+4. Amber support is measured through AMS unless exempt.
+5. Developing-country de minimis is 10% under the cited WTO framework.
+6. Article 6.2 covers specified development support.
+7. Market price support uses administered price, fixed reference price and eligible production.
+8. Food-security purpose does not erase trade-effect questions.
+
+### Concept check
+
+**Question:** Why are AoA support boxes not simple labels for permitted and prohibited subsidies?
+
+**Model answer:** The boxes reflect legal treatment and conditions: Amber support is disciplined through AMS, Green measures must satisfy criteria, Blue and Article 6.2 have specific policy space, and de minimis excludes limited support.
+
+**Misconception to avoid:** Green does not mean environmentally green, and Amber does not mean automatically illegal.
+
+### Calculate and classify farm support
+
+**Question (15 marks):** *Explain the WTO Agreement on Agriculture's domestic-support architecture and India's equity concerns.*
+
+**Responsive model:** Begin with the three pillars. Distinguish Green, Blue, Amber, Article 6.2 and de minimis. Show the AMS formula and the fixed-reference-price controversy. Balance India's food-security and livelihood concerns against spillover and transparency concerns. Recommend an updated, development-sensitive permanent solution.
+
+**Named evidence to deploy:** Use the AoA's three pillars, AMS arithmetic, Article 6.2 and the developing-country de minimis distinction.
+
+**Unique scoring rubric — Agreement on Agriculture: pillars, boxes and AMS:** 2 marks pillars; 3 boxes/AMS; 2 developing-country space; 2 equity critique; 1 precise conclusion.
+
+**Why this earns marks:** The response classifies support before calculating AMS, states de minimis and development exceptions, and avoids equating every agricultural programme with prohibited support.
+
+**Transition:** The box and AMS framework leads directly to Lesson 16’s public-stockholding tension and interim legal protection.
+
+---
+
+## Lesson 16 - Public stockholding, the Peace Clause and food-security equity
+
+Progress: 16/21 | Stage: Optional Advanced | Subtopic: Public stockholding, the Peace Clause and food-security equity
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Checklist date: 3 October 2026 IST
+Book context: Public-stockholding chapter and dated WTO interim-protection status queried
+CA search: "WTO public stockholding food security Bali peace clause permanent solution official status"
+CA found: Bali/General Council framework officially located; no permanent solution was treated as verified as of retrieval on 3 October 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Stockholding legal-pressure map
+
+```text
+MSP PROCUREMENT
+      |
+      +--> domestic food security and farmer support
+      |
+      +--> AoA market-price-support calculation may cross de minimis
+                    |
+              INTERIM PEACE CLAUSE
+              notification + safeguards + transparency
+                    |
+              PERMANENT SOLUTION
+              still must be verified; never assume completion
+```
+
+*The chain shows where a domestic food-security programme meets an interim, conditional multilateral safeguard.*
+
+### Why public stockholding becomes a trade question
+
+India procures staples at administered prices and distributes food for food security.
+The distribution objective is domestic, but procurement price support can enter the AoA
+calculation. When the administered-price/reference-price gap is multiplied by eligible
+production, old fixed reference prices can make measured support appear large.
+
+The 2013 Bali decision created an interim restraint on specified challenges for covered
+public-stockholding programmes, commonly called the **Peace Clause**, subject to
+conditions including notification, transparency and safeguards against adverse trade
+effects. It is not a blanket exemption for any crop, any programme or unlimited exports
+from subsidised stocks.
+
+### Four boxes for an answer
+
+| Box | Question |
+|---|---|
+| Coverage | Is the programme and traditional staple within the decision's scope? |
+| Calculation | Which administered price, fixed reference price and eligible quantity are used? |
+| Compliance | Were notification, information and safeguard conditions met? |
+| Reform | How should a permanent solution update reference prices and protect food security without export displacement? |
+
+### India's case and the strongest counterpoint
+
+India argues that food security for a large low-income population and support for
+smallholders require policy space, while the 1986-88 reference base fails to reflect
+inflation. Critics worry that procurement above market conditions, accumulation and
+release into export channels can affect other producers.
+
+A defensible permanent solution can combine inflation adjustment or alternative
+measurement, programme transparency, coverage for genuine food-security stocks, and
+credible safeguards against commercial export of subsidised stocks.
+
+**Status discipline:** The source audit did not establish a concluded permanent solution
+by 3 October 2026. The safe formulation is “interim Peace-Clause protection subject to
+conditions; permanent solution not verified as concluded.”
+
+### UPSC integration
+
+- **Syllabus route:** Public stockholding, the Peace Clause and food-security equity supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
+- **Evidence boundary:** Bali/General Council framework officially located; no permanent solution was treated as verified as of retrieval on 3 October 2026.
+- **Prelims trap:** Do not claim a permanent solution without an exact official outcome.
+- **Mains use:** Explain the domestic food-security objective, the AoA market-price-support calculation and the old reference-price problem.
+
+### Revision notes
+
+1. Public stockholding has distribution and producer-support dimensions.
+2. Peace Clause is interim protection, not a new permanent box.
+3. Coverage and notification conditions matter.
+4. It is not unlimited permission to export subsidised stocks.
+5. Old fixed reference prices drive India's inflation critique.
+6. Eligible production is a contested measurement variable.
+7. Transparency and anti-spillover safeguards support legitimacy.
+8. Do not claim a permanent solution without an exact official outcome.
+
+### Concept check
+
+**Question:** What does the public-stockholding Peace Clause do—and not do?
+
+**Model answer:** It offers conditional interim protection from specified challenges for covered food-security programmes while members seek a permanent solution; it does not rewrite the fixed reference price or create an unlimited exemption.
+
+**Misconception to avoid:** Do not state that a permanent solution has already been concluded.
+
+### Resolve the stockholding tension
+
+**Question (15 marks):** *Why does public stockholding for food security remain contentious at the WTO?*
+
+**Responsive model:** Explain the domestic food-security objective, the AoA market-price-support calculation and the old reference-price problem. Define the conditional interim Peace Clause. Present India's equity case and the spillover concern. Propose inflation-sensitive measurement, notification support, smallholder focus and safeguards against subsidised commercial exports.
+
+**Named evidence to deploy:** Use the 1986-88 external reference price, Bali 2013 interim protection and the unresolved permanent-solution status.
+
+**Unique scoring rubric — Public stockholding, the Peace Clause and food-security equity:** 2 marks mechanism; 3 dated legal architecture; 2 India food-security case; 2 spillover qualification; 1 unresolved-status conclusion.
+
+**Why this earns marks:** The response connects food-security procurement to the AoA calculation and distinguishes conditional interim protection from a permanent solution.
+
+**Transition:** After the farm-policy case, Lesson 17 returns to FTAs and proves when a product actually qualifies for a preference.
+
+---
+
+## Lesson 17 - Rules of origin and value-addition calculations
+
+Progress: 17/21 | Stage: Optional Advanced | Subtopic: Rules of origin and value-addition calculations
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Checklist date: 3 October 2026 IST
+Book context: Rules-of-origin chapter and official WTO/FTA product-rule material queried
+CA search: "WTO rules of origin preferential non-preferential official 2026"
+CA found: WTO Rules of Origin resources searched 3 October 2026; Commerce FTA origin chapters retrieved through official search.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Origin qualification worksheet
 
 ```text
 FTA VALUE-ADDITION EXAMPLE
@@ -1562,7 +2087,7 @@ unworkably strict rules that prevent firms from joining supply chains.
 ### UPSC integration
 
 - **Syllabus route:** Rules of origin and value-addition calculations supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** WTO Rules of Origin resources searched 24 September 2026; Commerce FTA origin chapters retrieved through official search.
+- **Evidence boundary:** WTO Rules of Origin resources searched 3 October 2026; Commerce FTA origin chapters retrieved through official search.
 - **Prelims trap:** Gross exports do not reveal domestic value added.
 - **Mains use:** Define preferential origin and show an RVC calculation.
 
@@ -1577,70 +2102,42 @@ unworkably strict rules that prevent firms from joining supply chains.
 7. Preference margin must exceed compliance cost.
 8. Gross exports do not reveal domestic value added.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 32.** FOB value is ₹1,000 and non-originating inputs are ₹350. Build-down RVC is:
+**Question:** How can rules of origin both prevent trans-shipment and support supply chains?
 
-A. 35%.
-B. 40%.
-C. 135%.
-D. 65%.
+**Model answer:** Product-specific origin tests block mere routing through a partner, while cumulation allows qualifying partner inputs to count as originating and can support regional production networks.
 
-**Answer: D**
+**Misconception to avoid:** The port of shipment does not determine origin, and meeting one test may not satisfy cumulative rules.
 
-- **A:** 35% is the imported-input share.
-- **B:** 40% may be a threshold, not the result.
-- **C:** RVC cannot exceed 100% in this calculation.
-- **D:** (1,000-350)/1,000 equals 65%.
+### Prove originating status
 
-**MCQ 33.** What does cumulation do?
+**Question (15 marks):** *Explain how rules of origin can both prevent trade deflection and enable regional value chains.*
 
-A. It permits specified partner-originating inputs to count toward origin.
-B. It removes every product-specific rule.
-C. It converts an FTA into a customs union.
-D. It treats all world inputs as originating.
+**Responsive model:** Define preferential origin and show an RVC calculation. Explain tariff-shift, process and cumulation rules. Balance fraud prevention against compliance cost, especially for MSMEs. Apply the reasoning to garments or electronics and recommend interoperable digital certification with risk-based verification.
 
-**Answer: A**
+**Named evidence to deploy:** Use the ₹1,000 FOB/₹350 non-originating-input RVC calculation, tariff shift and cumulation.
 
-- **A:** Cumulation supports agreed regional sourcing.
-- **B:** Other origin conditions remain.
-- **C:** A common external tariff is not created.
-- **D:** Coverage is limited to specified partners and rules.
+**Unique scoring rubric — Rules of origin and value-addition calculations:** 2 marks origin purpose; 3 correct RVC; 2 cumulation/tariff shift; 2 compliance trade-off; 1 conclusion.
 
-**MCQ 34.** Why may an eligible preference remain unused?
+**Why this earns marks:** The response performs the RVC calculation but still checks tariff shift, product-specific rules, cumulation, minimal operations and documentation.
 
-A. Rules of origin apply only to services.
-B. Compliance and documentation costs can exceed the tariff saving.
-C. The MFN tariff is always zero.
-D. Certificates automatically guarantee market demand.
-
-**Answer: B**
-
-- **A:** Origin is central to goods preferences.
-- **B:** Firms compare preference margin with compliance cost.
-- **C:** MFN rates can be positive.
-- **D:** Origin proof does not create buyers.
-
-**Mains micro-model - 15 marks:** *Explain how rules of origin can both prevent trade deflection and enable regional value chains.*
-
-**Model answer:** Define preferential origin and show an RVC calculation. Explain tariff-shift, process and cumulation rules. Balance fraud prevention against compliance cost, especially for MSMEs. Apply the reasoning to garments or electronics and recommend interoperable digital certification with risk-based verification.
-
-**Transition:** Origin determines eligibility; Lesson 13 then asks whether the resulting source switch actually improves welfare.
+**Transition:** Origin eligibility is only the gate; Lesson 18 asks whether using the preference creates or diverts trade.
 
 ---
 
-## Lesson 13 - Trade creation, trade diversion and the welfare test
+## Lesson 18 - Trade creation, trade diversion and the welfare test
 
-**Progress: 13/21 | Stage: Advanced | Subtopic: Trade creation, trade diversion and the welfare test**
+Progress: 18/21 | Stage: Optional Advanced | Subtopic: Trade creation, trade diversion and the welfare test
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Trade-creation/diversion chapter and utilisation-welfare counterfactual checked
 CA search: "trade creation trade diversion customs union welfare WTO learning official"
 CA found: Stable customs-union concept; no separate mutable claim required.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Welfare counterfactual switchboard
 
 ```text
 Before FTA:
@@ -1652,7 +2149,7 @@ After partner gets zero tariff:
 Partner cost = 90
 Non-member cost + tariff = 100  -> switch to partner
 
-If partner resource cost 90 < non-member resource cost 80,
+If partner resource cost 90 > non-member resource cost 80,
 the switch is TRADE DIVERSION despite a lower consumer price.
 ```
 
@@ -1709,321 +2206,42 @@ not through the bilateral deficit alone.
 7. Dynamic competition and investment gains may matter.
 8. Evaluate product and value-chain incidence.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 35.** When does trade diversion occur?
+**Question:** Why can bilateral trade rise after an FTA without proving a welfare gain?
 
-A. A lower-cost partner replaces costly domestic production.
-B. Domestic productivity rises after machinery imports.
-C. A higher-cost partner displaces a lower-cost non-member because of preference.
-D. All members lower their MFN tariffs equally.
+**Model answer:** Trade may be created by replacing costly domestic production, or diverted by replacing a cheaper non-member source; the counterfactual cost, tariff revenue and compliance burden determine welfare.
 
-**Answer: C**
+**Misconception to avoid:** More intra-FTA trade is not synonymous with trade creation.
 
-- **A:** That is trade creation.
-- **B:** That may be a dynamic gain.
-- **C:** That is the preference-induced inefficient source switch.
-- **D:** Equal MFN cuts reduce preferential discrimination.
+### Compare creation with diversion
 
-**MCQ 36.** Why can consumers gain during trade diversion?
+**Question (15 marks):** *Why can an FTA expand trade but reduce welfare?*
 
-A. Trade diversion always raises consumer price.
-B. The partner becomes the lowest-cost world producer by definition.
-C. Government revenue necessarily rises.
-D. The post-preference domestic price may fall even though tariff revenue falls and resource cost rises.
+**Responsive model:** Define creation and diversion with a numerical source-switch example. Decompose consumer gain, producer effect and tariff-revenue loss. Add dynamic scale, investment and origin-rule effects. Conclude that India should evaluate agreements by productivity, value addition and utilisation rather than bilateral trade volume alone.
 
-**Answer: D**
+**Named evidence to deploy:** Use the three-source price example and include tariff-revenue loss in the counterfactual.
 
-- **A:** A lower price is possible.
-- **B:** The partner may remain higher-cost before tariff.
-- **C:** Duty-free preference can reduce revenue.
-- **D:** Private price and social-resource ranking can differ.
+**Unique scoring rubric — Trade creation, trade diversion and the welfare test:** 3 marks creation/diversion; 3 counterfactual example; 2 revenue/compliance; 1 India application; 1 verdict.
 
-**Mains micro-model - 15 marks:** *Why can an FTA expand trade but reduce welfare?*
+**Why this earns marks:** The response evaluates the source-switch counterfactual in resource-cost terms, separating a lower private landed price from a welfare-improving trade-creation claim.
 
-**Model answer:** Define creation and diversion with a numerical source-switch example. Decompose consumer gain, producer effect and tariff-revenue loss. Add dynamic scale, investment and origin-rule effects. Conclude that India should evaluate agreements by productivity, value addition and utilisation rather than bilateral trade volume alone.
-
-**Transition:** Goods preferences are only half the story, so Lesson 14 maps the distinct ways services cross borders.
+**Transition:** The source-switch counterfactual opens Lesson 19’s wider inquiry into where value is captured inside global production networks.
 
 ---
 
-## Lesson 14 - GATS and the four modes of services supply
+## Lesson 19 - Global value chains, imported inputs and downstream competitiveness
 
-**Progress: 14/21 | Stage: Core | Subtopic: GATS and the four modes of services supply**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
-CA search: "WTO GATS four modes supply official services trade India 2026"
-CA found: WTO GATS training module retrieved 24 September 2026; Commerce FY2025-26 release dated 15 April 2026.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual
-
-| Mode | Who/what crosses border? | India-centric example |
-|---|---|---|
-| 1 Cross-border | service | Indian software delivered online |
-| 2 Consumption abroad | consumer | foreign patient/student in India |
-| 3 Commercial presence | supplier's enterprise | Indian IT subsidiary abroad |
-| 4 Natural persons | service supplier temporarily | Indian professional on assignment |
-
-*The mode map follows the service, consumer, enterprise or person that crosses the relevant boundary.*
-
-### Services trade is not only a laptop crossing no border
-
-GATS defines four modes according to the location of supplier and consumer. Mode 1 is
-cross-border supply. Mode 2 is consumption abroad. Mode 3 is commercial presence. Mode 4
-is temporary presence of natural persons supplying a service.
-
-The WTO module retrieved on 24 September 2026 emphasises that this is broader than the
-BoP residence concept, especially for Mode 3: a foreign-owned local subsidiary may involve
-resident-to-resident transactions in BoP statistics but still represent commercial
-presence under GATS.
-
-### Commitments are scheduled
-
-GATS combines general obligations with sector- and mode-specific scheduled commitments on
-market access and national treatment. “The country opened services” is therefore too
-vague. Ask: which sector, which mode, what limitation, and what horizontal condition?
-
-### India stakes
-
-India has strengths in Mode 1 digitally delivered services and interests in Mode 4
-temporary professional mobility. Tourism, education and medical travel involve Mode 2.
-Indian firms investing abroad use Mode 3. Data governance, licensing, recognition of
-qualifications, visas, social-security contributions and local-presence conditions shape
-actual access.
-
-The Department of Commerce release dated 15 April 2026 estimated FY2025-26 services
-exports at USD 418.31 billion and services imports at USD 204.42 billion, yielding an
-estimated services surplus of USD 213.89 billion. The release explicitly notes that March
-services values were estimates because the latest RBI data then available were for
-February 2026.
-
-### Trap
-
-Mode 4 is not permanent migration and does not cover persons seeking access to the
-employment market as such. Mode 3 is not a cross-border digital transaction.
-
-### UPSC integration
-
-- **Syllabus route:** GATS and the four modes of services supply supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** WTO GATS training module retrieved 24 September 2026; Commerce FY2025-26 release dated 15 April 2026.
-- **Prelims trap:** FY2025-26 services figures in the 15 April release were partly estimated.
-- **Mains use:** Map each mode to an India-centric example.
-
-### Revision notes
-
-1. GATS has four modes of supply.
-2. Mode 1 moves the service; Mode 2 moves the consumer.
-3. Mode 3 is commercial presence.
-4. Mode 4 is temporary presence of natural persons.
-5. GATS and BoP service concepts are not identical.
-6. Commitments are sector-, mode- and limitation-specific.
-7. India has interests in digital supply and professional mobility.
-8. FY2025-26 services figures in the 15 April release were partly estimated.
-
-### Adaptive practice
-
-**MCQ 37.** An Indian architect emails a design to a foreign client. This is:
-
-A. GATS Mode 1.
-B. Mode 2.
-C. Mode 3.
-D. Mode 4.
-
-**Answer: A**
-
-- **A:** The service crosses the border.
-- **B:** Mode 2 moves the consumer.
-- **C:** Mode 3 requires commercial presence.
-- **D:** Mode 4 requires temporary presence of a person.
-
-**MCQ 38.** A foreign patient travels to an Indian hospital. From India's export perspective this is:
-
-A. Mode 1 cross-border supply.
-B. Mode 2 consumption abroad.
-C. Mode 3 commercial presence.
-D. A merchandise export.
-
-**Answer: B**
-
-- **A:** The service is not supplied remotely.
-- **B:** The consumer moves to the supplier's territory.
-- **C:** No foreign affiliate is required.
-- **D:** Healthcare is a service.
-
-**MCQ 39.** Why is GATS Mode 3 broader than BoP cross-border services?
-
-A. Mode 3 covers only tourists.
-B. BoP uses nationality rather than residence.
-C. A locally established foreign affiliate can be Mode 3 even when transactions are between residents.
-D. Mode 3 is limited to goods warehouses.
-
-**Answer: C**
-
-- **A:** Tourists are Mode 2.
-- **B:** BoP primarily uses residence.
-- **C:** GATS classification follows supplier presence.
-- **D:** Commercial presence supplies services.
-
-**Mains micro-model - 15 marks:** *Explain the four GATS modes and India's offensive interests in services trade.*
-
-**Model answer:** Map each mode to an India-centric example. Distinguish GATS from BoP treatment, especially Mode 3. Discuss digital delivery, professional mobility, recognition, visas, data rules and commercial presence. Use the dated FY2025-26 services estimate with its estimation caveat.
-
-**Transition:** The four modes prepare the merchandise-services reading of India's export basket in Lesson 15.
-
----
-
-## Lesson 15 - India's export basket: merchandise, services and diversification
-
-**Progress: 15/21 | Stage: Core | Subtopic: India's export basket: merchandise, services and diversification**
+Progress: 19/21 | Stage: Optional Advanced | Subtopic: Global value chains, imported inputs and downstream competitiveness
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
-CA search: "Department of Commerce India exports FY 2025-26 merchandise services 15 April 2026"
-CA found: Official PIB release dated 15 April 2026 downloaded and checked on 24 September 2026.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual
-
-| FY2025-26 official release item | USD billion | Status in 15 Apr 2026 release |
-|---|---:|---|
-| Merchandise exports | 441.78 | reported cumulative value |
-| Estimated services exports | 418.31 | March services estimated |
-| Estimated total exports | 860.09 | merchandise + services |
-| Merchandise trade deficit | 333.19 | reported |
-| Estimated services surplus | 213.89 | March services estimated |
-
-*The dashboard makes the merchandise-services split and the estimate status visible before interpretation.*
-
-### Never say “exports rose” without naming the basket
-
-Merchandise, services and total exports answer different questions. The official Commerce
-release dated 15 April 2026 estimated total FY2025-26 exports at USD 860.09 billion:
-USD 441.78 billion merchandise and USD 418.31 billion services. It recorded a merchandise
-trade deficit of USD 333.19 billion and estimated a services surplus of USD 213.89 billion.
-The release states that March 2026 services data were estimated using the latest RBI data
-then available for February.
-
-This pattern shows why India's external strength cannot be read from merchandise alone.
-Services offset a large part of the goods gap, but they do not remove vulnerabilities in
-energy, electronics, machinery or critical inputs.
-
-### Composition beats headline
-
-Export quality depends on domestic value added, technology intensity, diversification,
-market concentration and firm participation. A petroleum export may contain imported
-crude. An electronics export may contain imported components. Software exports can embed
-high domestic skill value but face market and regulatory concentration.
-
-The Economic Survey 2025-26, tabled 29 January 2026, reported FY25 total exports of
-USD 825.3 billion and highlighted growth in services and non-petroleum, non-gems-and-
-jewellery exports. It also noted FY25 services exports of USD 387.5 billion and a
-USD 188.8 billion services surplus.
-
-### Objective-PYQ fact clinic
-
-- **International Grains Council:** official IGC material located in the live search
-  records Indian participation in Council sessions in January and June 2026. The IGC is an
-  intergovernmental grain-trade transparency and cooperation body, not a UN food-relief
-  agency, price setter or Indian procurement authority. This teaches the 2024 Prelims Q59
-  boundary without reproducing its key.
-- **US apples and GM food:** Commerce TRADESTAT/TIA pages searched on 24 September 2026
-  provide commodity-country import data, including apples under the relevant HS
-  classification. Separately, FSSAI official resources searched the same day retain the
-  prior-approval boundary for GM food under the food-safety framework. These are independent
-  statements for 2024 Prelims Q92; neither proves the other.
-- **Edible oils:** the canonical owner records both a September 2024 duty increase for
-  farmer-price protection and a mid-2025 cut for consumer-price relief. Exact current rates
-  are deliberately not quoted because the live official search did not establish one
-  stable rate across crude/refined oils and dates. The 2018 Prelims lesson is the policy
-  tension, not a timeless percentage.
-- **Rice-export and agricultural-import rankings:** the 2019 Q37 and Q84 demands are
-  period-specific statistical questions. Rankings must be taken from the question's
-  reference period and official dataset, never memorised as permanent country or commodity
-  facts.
-
-### Diversification test
-
-Use a three-axis dashboard:
-
-1. products - is India moving toward complex, high-value goods and services?
-2. destinations - are earnings concentrated in a few markets?
-3. inputs - how much domestic value and imported technology sit behind gross exports?
-
-An export strategy that ignores import capability can weaken itself because competitive
-exports often require world-class imported inputs.
-
-### UPSC integration
-
-- **Syllabus route:** India's export basket: merchandise, services and diversification supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** Official PIB release dated 15 April 2026 downloaded and checked on 24 September 2026.
-- **Prelims trap:** Diversification must cover products, markets and inputs.
-- **Mains use:** Start with the 15 April 2026 merchandise-services split and its estimation caveat.
-
-### Revision notes
-
-1. Always identify merchandise, services or total trade.
-2. FY2025-26 Commerce total exports were estimated at USD 860.09 billion.
-3. Merchandise exports were USD 441.78 billion.
-4. Services exports were estimated at USD 418.31 billion.
-5. March services data carried an estimation caveat.
-6. Services surplus cushions but does not erase goods vulnerability.
-7. Gross export value is not domestic value added.
-8. Diversification must cover products, markets and inputs.
-
-### Adaptive practice
-
-**MCQ 40.** According to the 15 April 2026 Commerce release, FY2025-26 merchandise exports were:
-
-A. USD 418.31 billion.
-B. USD 860.09 billion.
-C. USD 333.19 billion.
-D. USD 441.78 billion.
-
-**Answer: D**
-
-- **A:** That is estimated services exports.
-- **B:** That is estimated total exports.
-- **C:** That is the merchandise trade deficit.
-- **D:** That is the reported merchandise-export value.
-
-**MCQ 41.** Why must the FY2025-26 services number be qualified?
-
-A. The March 2026 services value was estimated because the latest RBI data then available were for February.
-B. Services were legally prohibited in March.
-C. The figure included only goods.
-D. The WTO supplied India's monthly BoP.
-
-**Answer: A**
-
-- **A:** The official release states the estimation boundary.
-- **B:** No such prohibition existed.
-- **C:** Services and goods were separately shown.
-- **D:** Commerce/RBI data, not a WTO estimate, underpinned the release.
-
-**Mains micro-model - 15 marks:** *Assess the changing composition of India's exports.*
-
-**Model answer:** Start with the 15 April 2026 merchandise-services split and its estimation caveat. Explain the services cushion, non-petroleum momentum, domestic-value-added problem and product/destination concentration. Recommend standards, logistics, design, R&D, market diversification and reliable access to competitive inputs.
-
-**Transition:** Gross export figures conceal foreign input content; Lesson 16 opens the value-added and GVC ledger.
-
----
-
-## Lesson 16 - Global value chains, imported inputs and downstream competitiveness
-
-**Progress: 16/21 | Stage: Advanced | Subtopic: Global value chains, imported inputs and downstream competitiveness**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: GVC chapter and Economic Survey domestic-value-addition passages queried
 CA search: "Economic Survey 2025-26 global value chains imported inputs export competitiveness India"
 CA found: Economic Survey 2025-26, tabled 29 January 2026, OCR pages 178 and 196-220 queried.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### GVC value-capture ladder
 
 ```text
 Imported component -> Indian processing/design -> export assembly
@@ -2098,320 +2316,42 @@ critical items, interoperability and domestic capability, not blanket autarky.
 7. Resilience requires diversification and capability.
 8. Autarky can destroy scale and technology access.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 42.** What is backward GVC participation?
+**Question:** Why can imported inputs strengthen rather than weaken self-reliance?
 
-A. Domestic value added embodied in another country's exports.
-B. Foreign value added embodied in a country's exports.
-C. Only final-goods imports for consumption.
-D. A ban on imported intermediates.
+**Model answer:** Competitive components and capital goods can support scale, learning and exports while domestic firms move toward higher value-added stages; resilience comes from capability and diversification, not automatic localisation.
 
-**Answer: B**
+**Misconception to avoid:** Gross exports and low import content are both poor standalone measures of upgrading.
 
-- **A:** That describes forward participation.
-- **B:** That is the standard backward-linkage idea.
-- **C:** GVC measures include intermediates.
-- **D:** Participation is not a ban.
+### Move from gross exports to value capture
 
-**MCQ 43.** Why can a tariff on imported components reduce exports?
+**Question (15 marks):** *Why can indiscriminate import substitution weaken India's participation in global value chains?*
 
-A. The tariff automatically subsidises foreign buyers.
-B. Every exporter can raise world prices without limit.
-C. Exporters face world prices but incur higher input costs and lose margin or orders.
-D. Component tariffs reduce domestic cost.
+**Responsive model:** Explain imported-input dependence, effective protection and the difference between gross exports and domestic value added. Use a numerical component-cost example. Balance upgrading and security with scale and technology access. Recommend selective capability support, lower logistics cost, multi-sourcing and performance-linked localisation.
 
-**Answer: C**
+**Named evidence to deploy:** Use backward/forward GVC participation, the ₹10 lakh machine example and the upgrading ladder.
 
-- **A:** No automatic foreign subsidy exists.
-- **B:** Most firms are price takers or constrained.
-- **C:** Cost incidence can fall on the downstream exporter.
-- **D:** The tariff raises, not lowers, landed cost.
+**Unique scoring rubric — Global value chains, imported inputs and downstream competitiveness:** 2 marks GVC concepts; 3 imported-input channel; 2 upgrading; 2 resilience qualification; 1 conclusion.
 
-**MCQ 44.** Which metric best complements gross export value?
+**Why this earns marks:** The response replaces gross-export celebration with domestic-value-added, linkage and upgrading analysis, while recognising that imported inputs can enable exports.
 
-A. Only the number of shipping containers.
-B. The highest bound tariff.
-C. The bilateral deficit with one partner alone.
-D. Domestic value added and upgrading within the value chain.
-
-**Answer: D**
-
-- **A:** Containers ignore value and content.
-- **B:** Bindings do not measure export quality.
-- **C:** One balance cannot reveal value-chain upgrading.
-- **D:** It reveals local income and capability capture.
-
-**Mains micro-model - 15 marks:** *Why can indiscriminate import substitution weaken India's participation in global value chains?*
-
-**Model answer:** Explain imported-input dependence, effective protection and the difference between gross exports and domestic value added. Use a numerical component-cost example. Balance upgrading and security with scale and technology access. Recommend selective capability support, lower logistics cost, multi-sourcing and performance-linked localisation.
-
-**Transition:** Participation requires more than cheap inputs, leading Lesson 17 to standards, customs and delivery reliability.
+**Transition:** Value-chain upgrading then meets disruption risk in Lesson 20’s portfolio approach to geoeconomic resilience.
 
 ---
 
-## Lesson 17 - Trade facilitation, standards capacity and export reliability
+## Lesson 20 - Industrial policy, resilience and national-security trade-offs
 
-**Progress: 17/21 | Stage: Core | Subtopic: Trade facilitation, standards capacity and export reliability**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
-CA search: "Economic Survey 2025-26 trade facilitation logistics standards export reliability India"
-CA found: Economic Survey 2025-26 tabled 29 January 2026; Trade Connect/FTA facilitation discussion queried.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual
-
-```text
-ORDER
-  -> product standard understood
-  -> testing/certification completed
-  -> origin documented
-  -> customs risk assessment
-  -> port/air/land movement
-  -> predictable delivery
-  -> repeat buyer
-
-One broken link can erase a tariff preference.
-```
-
-*The order-to-delivery rail shows why a preference can be lost outside the tariff schedule.*
-
-### Market access on paper is not delivery at the buyer's door
-
-An exporter needs information, finance, quality systems, accredited testing, origin proof,
-customs clearance, logistics and grievance resolution. A ten-percentage-point preference
-can be worthless if certification costs twelve points or delivery is unreliable.
-
-**Trade facilitation** lowers time, uncertainty and administrative cost without requiring
-lower product standards. Risk-based customs can inspect high-risk consignments while
-allowing compliant traders faster clearance. Digital documentation can reduce repetition,
-but poor interoperability merely converts paper queues into portal queues.
-
-### Standards as capability
-
-Standards infrastructure includes laboratories, metrology, accreditation, certification,
-traceability and mutual-recognition arrangements. It creates a public-good problem:
-individual MSMEs may not finance the ecosystem even though an industry benefits.
-
-### India case: preference to purchase order
-
-The Department of Commerce's 2025-26 FTA material highlights product-specific origin,
-SPS/TBT cooperation and services commitments. The Economic Survey 2025-26 notes the Trade
-Connect ePlatform's tariff explorer for eligible exports. These are enabling tools, not
-proof that utilisation or exports automatically rise.
-
-### Reliability premium
-
-A buyer values low defect rates, on-time delivery and rapid correction. Export policy must
-therefore join infrastructure, customs, standards, credit and firm capability. Frequent
-export bans or minimum export prices may offer short-run domestic relief but can push
-buyers toward reliable alternatives; the Survey's external-sector chapter warns of this
-reputational cost in agricultural trade.
-
-### UPSC integration
-
-- **Syllabus route:** Trade facilitation, standards capacity and export reliability supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** Economic Survey 2025-26 tabled 29 January 2026; Trade Connect/FTA facilitation discussion queried.
-- **Prelims trap:** Policy instability can destroy buyer trust.
-- **Mains use:** Trace the order-to-delivery chain across standards, testing, origin, customs, logistics and reliability.
-
-### Revision notes
-
-1. Tariff preference is only one component of market access.
-2. Trade facilitation reduces time, uncertainty and administrative cost.
-3. Risk-based customs can combine control and speed.
-4. Digitalisation needs interoperable processes.
-5. Standards infrastructure has public-good features.
-6. MSMEs face fixed compliance costs.
-7. Trade portals enable but do not prove utilisation.
-8. Policy instability can destroy buyer trust.
-
-### Adaptive practice
-
-**MCQ 45.** Why can an FTA preference fail to generate exports?
-
-A. Standards, origin, finance and logistics costs may exceed the tariff advantage.
-B. Preferences automatically create foreign demand.
-C. Rules of origin apply after the sale only.
-D. Customs time has no inventory cost.
-
-**Answer: A**
-
-- **A:** Usability depends on the whole delivery chain.
-- **B:** Demand and capability still matter.
-- **C:** Origin proof is needed to claim preference.
-- **D:** Delay ties up working capital.
-
-**MCQ 46.** What is the purpose of risk-based customs?
-
-A. To inspect every shipment identically.
-B. To focus controls on higher-risk consignments while facilitating compliant trade.
-C. To abolish product regulation.
-D. To replace rules of origin with self-declaration in all cases.
-
-**Answer: B**
-
-- **A:** Uniform inspection wastes scarce capacity.
-- **B:** Targeting can improve both enforcement and speed.
-- **C:** Customs does not abolish standards.
-- **D:** Origin procedures remain agreement-specific.
-
-**Mains micro-model - 10 marks:** *Why is trade facilitation a competitiveness reform rather than merely a customs reform?*
-
-**Model answer:** Trace the order-to-delivery chain across standards, testing, origin, customs, logistics and reliability. Explain fixed MSME compliance costs and risk-based clearance. Conclude with interoperable digital systems, accredited labs, stable policy and measurable delivery-time outcomes.
-
-**Transition:** Capability constraints invite protection claims, which Lesson 18 subjects to an infant-industry and political-economy test.
-
----
-
-## Lesson 18 - Protectionism: infant industry, jobs and political economy
-
-**Progress: 18/21 | Stage: Advanced | Subtopic: Protectionism: infant industry, jobs and political economy**
+Progress: 20/21 | Stage: Optional Advanced | Subtopic: Industrial policy, resilience and national-security trade-offs
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
-CA search: "Economic Survey 2025-26 protectionism tariffs industrial policy global trade uncertainty"
-CA found: Economic Survey 2025-26, tabled 29 January 2026, external-sector and economic-statecraft chapters queried.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual
-
-```text
-PROTECTION CLAIM
-  |
-  +-- market failure? learning / coordination / security / adjustment
-  +-- targeted beneficiary?
-  +-- measurable performance?
-  +-- consumer + downstream cost?
-  +-- sunset and competition?
-  +-- less distortive alternative?
-
-If these boxes are blank, protection is probably rent preservation.
-```
-
-*The screening questions convert an appealing protection claim into a falsifiable policy test.*
-
-### The infant must eventually grow
-
-The **infant-industry argument** says a new sector may have high initial cost but lower
-future cost through learning, scale or supplier development. Private firms may underinvest
-when learning spills over to rivals or when complementary infrastructure is missing.
-
-The argument can justify temporary support, but not any tariff. A credible policy specifies
-the learning externality, duration, milestones, competition, export discipline and exit.
-If costs never converge and lobbying blocks withdrawal, consumers finance inefficiency.
-
-### Other protection arguments
-
-- adjustment time for workers and firms after a sudden shock;
-- anti-dumping or countervailing action against defined unfair trade;
-- security of critical supply;
-- environmental or labour objectives;
-- strategic trade under scale economies and oligopoly.
-
-Each has a different instrument. Worker adjustment may be better served by income support
-and retraining than by permanent product tariffs. A security risk may justify diversified
-procurement and stockpiles rather than full domestic production.
-
-### Political economy
-
-Benefits are concentrated among protected firms; costs are dispersed among consumers and
-downstream users. This asymmetry encourages lobbying and makes temporary barriers sticky.
-Protection can also invite retaliation, currency pressure, smuggling and anti-export bias.
-
-### India design rule
-
-Prefer direct, transparent and reviewable support for capability gaps. Tie assistance to
-productivity, quality, R&D, supplier development or exports. Preserve competition and
-allow failure. The Economic Survey 2025-26 frames the global environment as more
-protectionist and bilateral, but its policy logic emphasises capability and diversification
-rather than indiscriminate closure.
-
-### UPSC integration
-
-- **Syllabus route:** Protectionism: infant industry, jobs and political economy supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** Economic Survey 2025-26, tabled 29 January 2026, external-sector and economic-statecraft chapters queried.
-- **Prelims trap:** Performance-linked support is stronger than unconditional shelter.
-- **Mains use:** State the learning-externality case, then specify evidence, duration, milestones and exit.
-
-### Revision notes
-
-1. Infant-industry logic rests on learning or coordination failure.
-2. Temporary support needs measurable graduation.
-3. Different policy problems require different instruments.
-4. Worker adjustment is not identical to producer protection.
-5. Concentrated benefits and dispersed costs sustain lobbying.
-6. Protection can create anti-export bias.
-7. Retaliation can shrink the intended gain.
-8. Performance-linked support is stronger than unconditional shelter.
-
-### Adaptive practice
-
-**MCQ 47.** What makes an infant-industry policy testable?
-
-A. A promise that support will continue until firms request removal.
-B. A permanently rising tariff.
-C. Predefined learning or productivity milestones and a sunset review.
-D. A ban on performance disclosure.
-
-**Answer: C**
-
-- **A:** Beneficiaries cannot control exit.
-- **B:** Permanent escalation defeats infancy.
-- **C:** Milestones allow graduation or termination.
-- **D:** Transparency is needed for review.
-
-**MCQ 48.** Why is retraining often preferable to permanent product protection for adjustment?
-
-A. It guarantees every firm survives.
-B. It eliminates all import competition.
-C. It creates an FTA preference.
-D. It targets displaced workers without indefinitely raising prices for all users.
-
-**Answer: D**
-
-- **A:** No policy guarantees survival.
-- **B:** Retraining does not ban imports.
-- **C:** It is domestic adjustment policy.
-- **D:** The instrument matches the adjustment problem.
-
-**MCQ 49.** Which political-economy feature makes protection sticky?
-
-A. Benefits are concentrated while consumer and downstream costs are dispersed.
-B. Every consumer negotiates the tariff individually.
-C. Protection has no identifiable beneficiaries.
-D. Tariffs cannot be extended.
-
-**Answer: A**
-
-- **A:** Concentrated groups organise more easily.
-- **B:** Consumers do not negotiate customs schedules individually.
-- **C:** Protected firms are identifiable.
-- **D:** Temporary measures can be renewed.
-
-**Mains micro-model - 15 marks:** *Critically examine the infant-industry argument for protection.*
-
-**Model answer:** State the learning-externality case, then specify evidence, duration, milestones and exit. Discuss consumer cost, downstream incidence, lobbying, retaliation and government failure. Recommend direct capability support, competition and export discipline, with tariffs used narrowly where they are the least-distortive workable instrument.
-
-**Transition:** The learning argument is domestic; Lesson 19 adds the harder externality of national security.
-
----
-
-## Lesson 19 - Industrial policy, resilience and national-security trade-offs
-
-**Progress: 19/21 | Stage: Advanced | Subtopic: Industrial policy, resilience and national-security trade-offs**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
+Checklist date: 3 October 2026 IST
+Book context: Geoeconomics chapter, Topic 25 boundary and official CBAM material queried
 CA search: "Economic Survey 2025-26 economic statecraft national security trade resilience supply chains"
 CA found: Economic Survey 2025-26, tabled 29 January 2026, pages on economic statecraft and geostrategic globalisation queried.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Resilience portfolio map
 
 | Objective | Weak response | Better calibrated response |
 |---|---|---|
@@ -2468,7 +2408,7 @@ proportionality, transparency and genuine connection to the stated objective. In
 contest discriminatory design while improving emissions measurement, standards and
 domestic capability.
 
-The European Commission's official CBAM page, retrieved on 24 September 2026, states that
+The European Commission's official CBAM page, retrieved on 3 October 2026, states that
 the definitive regime applies from **1 January 2026** to selected imports in cement, iron
 and steel, aluminium, fertilisers, electricity and hydrogen. Importers face authorisation,
 reporting, verification and certificate obligations linked to embedded emissions; the
@@ -2501,70 +2441,42 @@ the resilience instrument.
 7. Climate and security measures still need proportionality.
 8. Compare expected disruption loss with policy cost.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 50.** Which policy best represents trade resilience?
+**Question:** How should a security-based trade intervention be tested?
 
-A. A permanent ban on all imports.
-B. Diversified suppliers, strategic stocks and domestic substitution capability.
-C. Dependence on a single cheapest supplier.
-D. Treating every product as critical.
+**Model answer:** Define the critical risk, compare expected disruption loss with continuing policy cost, assess less-distortive alternatives, protect downstream competitiveness and impose review and sunset conditions.
 
-**Answer: B**
+**Misconception to avoid:** Calling every product strategic converts resilience into costly autarky.
 
-- **A:** That is closer to autarky.
-- **B:** Resilience uses a portfolio of options.
-- **C:** Concentration is fragile.
-- **D:** Overbroad criticality wastes resources.
+### Design a resilience portfolio
 
-**MCQ 51.** What is a security externality in sourcing?
+**Question (20 marks):** *How should India balance economic efficiency, industrial policy and national security in trade policy?*
 
-A. Every imported product is subsidised.
-B. The exchange rate is legally fixed.
-C. A private buyer may ignore the wider social cost of supply failure during a crisis.
-D. Consumers always prefer domestic goods.
+**Responsive model:** Frame the efficiency-security frontier. Distinguish resilience from autarky. Use critical minerals or semiconductors to build a portfolio of domestic capability, trusted partners, diversification, stocks, recycling and R&D. Add WTO compatibility, downstream cost, fiscal discipline and sunset review. Conclude with narrow, evidence-based strategic intervention.
 
-**Answer: C**
+**Named evidence to deploy:** Use critical minerals or semiconductors, trusted partners, stocks, recycling and CBAM's emissions-linked mechanism.
 
-- **A:** Subsidy is not universal.
-- **B:** Exchange-rate regime is separate.
-- **C:** Private and social risk valuations can diverge.
-- **D:** Preferences vary and do not define the externality.
+**Unique scoring rubric — Industrial policy, resilience and national-security trade-offs:** 2 marks resilience/autarky distinction; 3 portfolio; 2 expected-loss test; 2 CBAM/security evidence; 1 conclusion.
 
-**MCQ 52.** How should a strategic trade measure be evaluated?
+**Why this earns marks:** The response prices disruption risk, compares resilience instruments and applies proportionality rather than turning strategic autonomy into autarky.
 
-A. Only by the size of the tariff.
-B. Only by whether imports fall.
-C. By assuming security benefits are infinite.
-D. By objective, proportionality, alternatives, downstream cost, review and expected-loss reduction.
-
-**Answer: D**
-
-- **A:** Rate alone omits incidence.
-- **B:** Lower imports do not prove resilience.
-- **C:** Security benefits and costs must be bounded.
-- **D:** The full test links instrument to net social benefit.
-
-**Mains micro-model - 20 marks:** *How should India balance economic efficiency, industrial policy and national security in trade policy?*
-
-**Model answer:** Frame the efficiency-security frontier. Distinguish resilience from autarky. Use critical minerals or semiconductors to build a portfolio of domestic capability, trusted partners, diversification, stocks, recycling and R&D. Add WTO compatibility, downstream cost, fiscal discipline and sunset review. Conclude with narrow, evidence-based strategic intervention.
-
-**Transition:** Security policy still depends on enforceable rules, so Lesson 20 examines the WTO's impaired dispute system.
+**Transition:** The resilience portfolio ends at the institutional question: Lesson 21 examines whether common WTO enforcement can still constrain power.
 
 ---
 
-## Lesson 20 - Dispute settlement, Appellate Body paralysis and WTO reform
+## Lesson 21 - Dispute settlement, Appellate Body paralysis and WTO reform
 
-**Progress: 20/21 | Stage: Advanced | Subtopic: Dispute settlement, Appellate Body paralysis and WTO reform**
+Progress: 21/21 | Stage: Optional Advanced | Subtopic: Dispute settlement, Appellate Body paralysis and WTO reform
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
-CA search: "WTO Appellate Body current vacancies official retrieved 24 September 2026 dispute settlement reform"
-CA found: WTO Appellate Body page retrieved 24 September 2026 says it is unable to review appeals; last member term expired 30 November 2020.
+Checklist date: 3 October 2026 IST
+Book context: Dispute-settlement chapter and the earlier MPIA checkpoint and official WTO status pages queried
+CA search: "WTO Appellate Body current vacancies official retrieved 3 October 2026 dispute settlement reform"
+CA found: WTO Appellate Body page retrieved 3 October 2026 says it is unable to review appeals; last member term expired 30 November 2020.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual
+### Adjudication break-point map
 
 ```text
 CONSULTATIONS
@@ -2589,7 +2501,7 @@ appellate review, followed by adoption and implementation procedures. The Appell
 was designed as a standing seven-person body capable of upholding, modifying or reversing
 panel legal findings.
 
-The official WTO page retrieved on 24 September 2026 states that the Appellate Body is
+The official WTO page retrieved on 3 October 2026 states that the Appellate Body is
 currently unable to review appeals because of ongoing vacancies and that the last sitting
 member's term expired on 30 November 2020. Panels, consultations and notified appeals
 continue. Therefore, “WTO dispute settlement has ended” is false; “binding appellate review
@@ -2599,8 +2511,19 @@ is structurally impaired” is accurate.
 
 When a party appeals a panel report into a non-functioning appellate stage, final adoption
 can be blocked under the ordinary route. This weakens enforceability and can favour members
-with greater bargaining power. Some members use interim arbitration arrangements, but
-participation is not universal; do not attribute membership without a dated list.
+with greater bargaining power.
+
+The **Multi-Party Interim Appeal Arbitration Arrangement (MPIA)**, established in 2020,
+uses DSU Article 25 arbitration to preserve an interim appeal-like review among participating
+members. It is neither the WTO Appellate Body nor a universal substitute for it. Its awards
+bind the participating disputants that use the arrangement; non-participants are not swept
+in merely because they are WTO members.
+
+The WTO participant record checked through 3 October 2026 does **not** list India as an MPIA
+participant. India has nevertheless advocated restoration of a fully functioning,
+accessible two-tier multilateral dispute-settlement system. Thus an answer must not infer
+MPIA membership from India's support for appellate restoration, or infer rejection of rules
+from India's non-participation in a plurilateral interim arrangement.
 
 ### Reform tensions
 
@@ -2628,7 +2551,7 @@ clubs fragment rules and leave outsiders exposed.
 ### UPSC integration
 
 - **Syllabus route:** Dispute settlement, Appellate Body paralysis and WTO reform supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** WTO Appellate Body page retrieved 24 September 2026 says it is unable to review appeals; last member term expired 30 November 2020.
+- **Evidence boundary:** WTO Appellate Body page retrieved 3 October 2026 says it is unable to review appeals; last member term expired 30 November 2020.
 - **Prelims trap:** Bilateralism cannot fully replace a common multilateral baseline.
 - **Mains use:** Separate the continuing functions from the impaired appellate stage.
 
@@ -2638,214 +2561,208 @@ clubs fragment rules and leave outsiders exposed.
 2. Appellate Body cannot currently review appeals.
 3. Last sitting member's term expired 30 November 2020.
 4. Appeal into the void weakens final enforceability.
-5. Interim appeal arrangements are not universal.
-6. Reform disputes concern both law and institutional control.
-7. Developing countries value rules but face litigation-capacity gaps.
-8. Bilateralism cannot fully replace a common multilateral baseline.
+5. MPIA is a 2020 DSU Article 25 interim appeal-arbitration arrangement among participants.
+6. India is not an MPIA participant as checked through 3 October 2026, while supporting
+   restoration of a multilateral two-tier system.
+7. Reform disputes concern both law and institutional control.
+8. Developing countries value rules but face litigation-capacity gaps.
+9. Bilateralism cannot fully replace a common multilateral baseline.
 
-### Adaptive practice
+### Concept check
 
-**MCQ 53.** What is the accurate current description of WTO dispute settlement?
+**Question:** What remains functional when the WTO Appellate Body cannot hear appeals?
 
-A. Panels and consultations continue, but the Appellate Body cannot currently review appeals.
-B. Every WTO dispute process ceased in December 2019.
-C. The Appellate Body continues with seven members.
-D. Only bilateral FTAs may hear trade disputes.
+**Model answer:** Consultations, panels, committees, notifications and negotiations continue, but binding appellate review is impaired and an appeal into the void can obstruct ordinary finality.
 
-**Answer: A**
+**Misconception to avoid:** Appellate paralysis does not mean the WTO or all dispute settlement has disappeared.
 
-- **A:** This preserves both continuity and impairment.
-- **B:** Panels did not disappear.
-- **C:** The official page records vacancies.
-- **D:** WTO panels still exist.
+### Reform appellate review without erasing the WTO
 
-**MCQ 54.** What is an appeal into the void?
+**Question (20 marks):** *Assess the continuing relevance of the WTO amid Appellate Body paralysis.*
 
-A. A tariff appeal decided by domestic customs only.
-B. An appeal filed when no functioning appellate review is available, delaying final adoption under the ordinary route.
-C. Automatic acceptance of the panel report.
-D. Withdrawal of the dispute before consultations.
+**Responsive model:** Separate the continuing functions from the impaired appellate stage. Explain appeal into the void, bargaining asymmetry and fragmentation. Define MPIA as a 2020 DSU Article 25 interim arrangement, state that India is not a participant, and distinguish that status from India's support for restored two-tier multilateral review. Present reform concerns over interpretation, speed and development access. Conclude that India should support restored binding review, preserve policy space and use bilateral agreements as complements rather than substitutes.
 
-**Answer: B**
+**Named evidence to deploy:** Use DSU consultations-panel-appeal architecture, the last member's 30 November 2020 expiry, MPIA's Article 25 basis and India's non-participant status as checked on 3 October 2026.
 
-- **A:** The phrase is WTO-specific.
-- **B:** The non-functioning appeal stage creates the void.
-- **C:** It can prevent ordinary finality.
-- **D:** Withdrawal is a different act.
+**Unique scoring rubric — Dispute settlement, Appellate Body paralysis and WTO reform:** 2 marks DSU sequence; 3 impairment accuracy; 2 appeal-into-void effect; 2 reform/development; 1 verdict.
 
-**MCQ 55.** Why do developing countries have a strong interest in dispute reform?
+**Why this earns marks:** The response identifies the precise appellate impairment, explains appeal into the void and distinguishes India’s restoration position from MPIA participation.
 
-A. They never use WTO disputes.
-B. Bilateral pressure is always cheaper and fairer.
-C. Predictable rules can constrain power bargaining, but access, cost and remedy delays must improve.
-D. Only developed members receive panel reports.
-
-**Answer: C**
-
-- **A:** Developing members do participate.
-- **B:** Power bargaining can disadvantage smaller states.
-- **C:** Rules and usable access both matter.
-- **D:** Panels are not reserved for developed members.
-
-**Mains micro-model - 20 marks:** *Assess the continuing relevance of the WTO amid Appellate Body paralysis.*
-
-**Model answer:** Separate the continuing functions from the impaired appellate stage. Explain appeal into the void, bargaining asymmetry and fragmentation. Present reform concerns over interpretation, speed and development access. Conclude that India should support restored binding review, preserve policy space and use bilateral agreements as complements rather than substitutes.
-
-**Transition:** The final lesson combines the theory, instruments and institutions into a dated Indian strategy.
-
----
-
-## Lesson 21 - India's selective FTA strategy and a balanced trade-policy framework
-
-**Progress: 21/21 | Stage: Advanced | Subtopic: India's selective FTA strategy and a balanced trade-policy framework**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Checklist date: 24 September 2026 IST
-Book context: Canonical Basic/Advanced files, Learner-V2 package, matching session/workbook, syllabus mapping and OCR books queried
-CA search: "India FTAs 2025-26 Department of Commerce EU UK EFTA UAE Australia official status"
-CA found: Commerce FTA highlights and India-EU release checked 24 September 2026; mutable statuses stated with document dates.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual
-
-```text
-INDIA TRADE STRATEGY
-
-Multilateral baseline (WTO)
-        +
-Selective FTAs (market + services + standards)
-        +
-Domestic capability (logistics + skills + finance + quality)
-        +
-Adjustment and resilience (workers + MSMEs + critical supply)
-        =
-Open, competitive and strategically resilient integration
-```
-
-*The synthesis map treats rules, agreements, capability and adjustment as complements rather than rival slogans.*
-
-### India is neither choosing pure multilateralism nor pure bilateralism
-
-India's strategy combines WTO engagement, selective FTAs, export promotion, domestic
-capability and calibrated protection. The important word is **selective**. India withdrew
-from RCEP negotiations in November 2019 amid market-access and domestic-sensitivity
-concerns, but subsequently operationalised agreements with the UAE and Australia and
-India-EFTA TEPA on 1 October 2025.
-
-The Department of Commerce FTA highlights for 2025-26, retrieved on 24 September 2026,
-record the India-UK CETA signature on 24 July 2025 and the India-EU FTA announcement on
-27 January 2026. The official India-EU release of 27 January says negotiations were
-concluded and describes goods, services, origin, SPS/TBT, trade-remedy and CBAM provisions.
-The official India-UK status page was searched and rechecked on 24 September 2026, but no
-official India or UK ratification or entry-into-force notification was verified. The
-defensible status boundary is therefore signed on 24 July 2025; do not infer operative
-concessions from signature alone or convert conclusion or signature into entry into force
-without a dated legal notification.
-
-Foreign Trade Policy 2023 was launched on 31 March 2023 and took effect on 1 April 2023
-under the official Commerce/DGFT record searched on 24 September 2026. Its process
-re-engineering, digitalisation and remission orientation illustrates how domestic export
-policy must fit trade disciplines, but policy announcement alone cannot solve logistics,
-credit or standards constraints.
-
-### Five tests for every agreement
-
-1. **Market access:** preference margin after exclusions and phase-downs.
-2. **Usability:** origin, customs, standards and awareness.
-3. **Capability:** investment, technology, supplier and services linkages.
-4. **Distribution:** consumers, workers, farmers, MSMEs and sensitive sectors.
-5. **Strategy:** diversification, trusted supply and compatibility with multilateral rules.
-
-### Bilateralism's benefit and cost
-
-FTAs can move faster than consensus, tailor commitments and secure market access. But they
-discriminate, multiply rules, divert trade and weaken the incentive to repair the
-multilateral system. A small exporter may face a different origin calculation for every
-market.
-
-### Final policy framework
-
-India should pursue competitive input access, standards capacity, logistics, trade
-finance, services mobility and product-market diversification. Protection should be
-targeted at demonstrated learning or security externalities, linked to performance and
-reviewed. Adjustment support should follow workers and firms rather than freeze the old
-production structure.
-
-The final objective is not the largest possible trade surplus. It is higher productivity,
-domestic value addition, stable access to essential imports, quality employment and policy
-space consistent with credible rules.
-
-### UPSC integration
-
-- **Syllabus route:** India's selective FTA strategy and a balanced trade-policy framework supplies a direct mechanism for analysing liberalisation, the Indian economy and external-sector policy.
-- **Evidence boundary:** Commerce FTA highlights and India-EU release checked 24 September 2026; mutable statuses stated with document dates.
-- **Prelims trap:** Trade strategy targets productivity and resilience, not surplus alone.
-- **Mains use:** Begin with the multilateral-rule crisis and selective FTA response.
-
-### Revision notes
-
-1. India combines multilateral and preferential strategies.
-2. RCEP withdrawal does not imply rejection of all FTAs.
-3. UAE, Australia and EFTA illustrate selective engagement.
-4. Status dates must distinguish signature, conclusion and operation.
-5. FTA success requires usability and domestic capability.
-6. Bilateralism can create noodle-bowl and diversion costs.
-7. Protection needs learning or security evidence and review.
-8. Trade strategy targets productivity and resilience, not surplus alone.
-
-### Adaptive practice
-
-**MCQ 56.** Which best describes India's post-RCEP trade approach?
-
-A. Withdrawal from every trade negotiation.
-B. Automatic acceptance of every regional agreement.
-C. Complete autarky.
-D. Selective bilateral and plurilateral engagement alongside continued WTO participation.
-
-**Answer: D**
-
-- **A:** India continued negotiating and signing agreements.
-- **B:** Sensitivity review remains important.
-- **C:** Trade integration continues.
-- **D:** Subsequent agreements show selectivity.
-
-**MCQ 57.** What is the best first test of an announced tariff concession?
-
-A. Its legal status, product schedule, phase-down and origin conditions.
-B. The headline percentage alone.
-C. The bilateral deficit alone.
-D. Whether the agreement uses the word comprehensive.
-
-**Answer: A**
-
-- **A:** Operative access depends on these details.
-- **B:** Headline coverage can mislead.
-- **C:** Balance does not identify concession usability.
-- **D:** Labels do not determine depth.
-
-**Mains micro-model - 20 marks:** *Formulate a balanced trade-policy strategy for India in an era of protectionism and bilateralism.*
-
-**Model answer:** Begin with the multilateral-rule crisis and selective FTA response. Evaluate market access, origin, services, standards, GVCs, adjustment and security. Use cautiously dated UAE/Australia/EFTA/UK/EU examples. Recommend competitive inputs, logistics, quality, trade finance, worker support and time-bound strategic intervention. End with open but resilient integration.
+**Transition:** The lesson sequence is complete; the final arc now tests exact PYQs, cumulative concepts, answer construction, remediation and register recall.
 
 ---
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-## Direct owner PYQs verified through 2026
+## Direct owner PYQs — exact, verified and answer-neutral
 
-| Year | Paper / Q | Verified demand | Source status | Answer approach |
-|---:|---|---|---|---|
-| 2018 | GS-III Q12 | Protectionism and currency manipulation and their effect on macroeconomic stability | Routed from the audited 2018-2023 official-paper ledger | Define both instruments; trace trade, inflation, exchange-rate, retaliation and confidence channels; add distribution and coordinated multilateral response. |
-| 2018 | Prelims Q10 | Imported edible oils, domestic production and customs-duty policy | Official key unavailable in the local ledger; no answer letter inferred | Separate import dependence from domestic cultivation; explain farmer-price versus consumer-inflation duty trade-off. |
-| 2018 | Prelims Q26 | Geographical Indications of Goods Act and treaty compliance | Official key unavailable locally; no answer letter inferred | Link GI domestic law to TRIPS minimum standards without claiming WTO grants the GI. |
-| 2019 | Prelims Q37 | Largest global rice exporter in the referenced period | Key unavailable locally; no answer letter inferred | Treat as a dated trade-statistics item; do not convert a historical ranking into a permanent fact. |
-| 2019 | Prelims Q84 | Highest-value agricultural commodity imported by India in the referenced period | Key unavailable locally; no answer letter inferred | Use exact period and commodity classification; avoid timeless ranking claims. |
-| 2020 | Prelims Q52 | India's merchandise/services trade and deficit distinctions | Key unavailable locally; no answer letter inferred | Separate goods balance, services balance, total trade and current account. |
-| 2020 | Prelims Q56 | TRIMS provisions | Key unavailable locally; no answer letter inferred | Identify goods-linked local-content/trade-balancing disciplines; reject the claim that TRIMS bans FDI generally. |
-| 2024 | Prelims Q59 | India and the International Grains Council | Official Set-A key is present locally, but the live edition does not reproduce or infer it | Identify IGC as an intergovernmental grain-trade transparency/cooperation body, not a UN relief or Indian procurement agency. |
-| 2024 | Prelims Q92 | US apple imports and Indian GM-food import law | Official Set-A key is present locally, but the live edition does not reproduce or infer it | Test the trade fact and regulatory approval fact independently; one does not prove the other. |
-| 2025 | GS-III Q2 | Challenges to India amid protectionism and bilateralism | Routed from the audited 2024-2025 official-paper ledger | Use WTO impairment, selective FTAs, origin/standards costs, GVCs, services, adjustment and resilience; conclude bilateralism complements but cannot replace multilateral rules. |
-| 2026 | Prelims / GS-III ledgers | No direct Topic 20 owner question is routed in the audited 2026 Prelims or GS-III ledgers | Ledgers checked 24 September 2026; no question invented | Cross-link 2026 GS-III Q14 on AoA farm support to Topic 28 while retaining the AoA prerequisite taught here. |
+### 2018 Prelims GS-I, Q10
+
+> Consider the following statements:
+>
+> 1. The quantity of imported edible oils is more than the domestic production of edible
+>    oils in the last five years.
+> 2. The Government does not impose any customs duty on all the imported edible oils as a
+>    special case.
+>
+> Which of the statements given above is/are correct?
+>
+> (a) 1 only
+> (b) 2 only
+> (c) Both 1 and 2
+> (d) Neither 1 nor 2
+
+**Provenance/key status:** exact wording/options verified from the local official 2018
+question paper. The official key is unavailable in the routed local ledger; no answer is
+inferred.
+
+### 2018 Prelims GS-I, Q26
+
+> India enacted The Geographical Indications of Goods (Registration and Protection) Act,
+> 1999 in order to comply with the obligations to
+>
+> (a) ILO
+> (b) IMF
+> (c) UNCTAD
+> (d) WTO
+
+**Provenance/key status:** exact wording/options verified from the local official 2018
+question paper. The official key is unavailable in the routed local ledger; no answer is
+inferred.
+
+### 2019 Prelims GS-I, Q37
+
+> Among the following, which one is the largest exporter of rice in the world in the last
+> five years?
+>
+> (a) China
+> (b) India
+> (c) Myanmar
+> (d) Vietnam
+
+**Provenance/key status:** exact wording/options verified from the local official 2019
+question paper. The official key is unavailable in the routed local ledger; no answer is
+inferred.
+
+### 2019 Prelims GS-I, Q84
+
+> Among the agricultural commodities imported by India, which one of the following
+> accounts for the highest imports in terms of value in the last five years?
+>
+> (a) Spices
+> (b) Fresh fruits
+> (c) Pulses
+> (d) Vegetable oils
+
+**Provenance/key status:** exact wording/options verified from the local official 2019
+question paper. The official key is unavailable in the routed local ledger; no answer is
+inferred.
+
+### 2020 Prelims GS-I, Q52
+
+> With reference to the international trade of India at present, which of the following
+> statements is/are correct?
+>
+> 1. India's merchandise exports are less than its merchandise imports.
+> 2. India's imports of iron and steel, chemicals, fertilisers and machinery have decreased
+>    in recent years.
+> 3. India's exports of services are more than its imports of services.
+> 4. India suffers from an overall trade/current account deficit.
+>
+> Select the correct answer using the code given below:
+>
+> (a) 1 and 2 only
+> (b) 2 and 4 only
+> (c) 3 only
+> (d) 1, 3 and 4 only
+
+**Provenance/key status:** exact wording/options verified from the local official 2020
+question paper. The official key is unavailable in the routed local ledger; no answer is
+inferred.
+
+### 2020 Prelims GS-I, Q56
+
+> With reference to Trade-Related Investment Measures (TRIMS), which of the following
+> statements is/are correct?
+>
+> 1. Quantitative restrictions on imports by foreign investors are prohibited.
+> 2. They apply to investment measures related to trade in both goods and services.
+> 3. They are not concerned with the regulation of foreign investment.
+>
+> Select the correct answer using the code given below:
+>
+> (a) 1 and 2 only
+> (b) 2 only
+> (c) 1 and 3 only
+> (d) 1, 2 and 3
+
+**Provenance/key status:** exact wording/options verified from the local official 2020
+question paper. The official key is unavailable in the routed local ledger; no answer is
+inferred.
+
+### 2024 Prelims GS-I, Q59, Set A
+
+> Consider the following statements:
+>
+> 1. India is a member of the International Grains Council.
+> 2. A country needs to be a member of the International Grains Council for exporting or
+>    importing rice and wheat.
+>
+> Which of the statements given above is/are correct?
+>
+> (a) 1 only
+> (b) 2 only
+> (c) Both 1 and 2
+> (d) Neither 1 nor 2
+
+**Provenance/key status:** exact wording/options verified from the local official 2024
+Set-A paper. The official Set-A key is present locally; its answer letter is intentionally
+withheld.
+
+### 2024 Prelims GS-I, Q92, Set A
+
+> Consider the following statements:
+>
+> Statement-I: India does not import apples from the United States of America.
+>
+> Statement-II: In India, the law prohibits the import of Genetically Modified food without
+> the approval of the competent authority.
+>
+> Which one of the following is correct in respect of the above statements?
+>
+> (a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+> (b) Both Statement-I and Statement-II are correct, but Statement-II does not explain
+>     Statement-I
+> (c) Statement-I is correct, but Statement-II is incorrect
+> (d) Statement-I is incorrect, but Statement-II is correct
+
+**Provenance/key status:** exact wording/options verified from the local official 2024
+Set-A paper. The official Set-A key is present locally; its answer letter is intentionally
+withheld.
+
+### 2018 General Studies Paper III, Q12
+
+> How would the recent phenomena of protectionism and currency manipulations in world trade
+> affect macroeconomic stability of India?
+
+**Demand:** 15 marks; answer in 250 words.
+**Provenance:** exact wording, marks and word limit verified from the local official 2018
+GS-III paper. No answer outline is supplied in this final PYQ block.
+
+### 2025 General Studies Paper III, Q2
+
+> What are the challenges before the Indian economy when the world is moving away from free
+> trade and multilateralism to protectionism and bilateralism? How can these challenges be
+> met?
+
+**Demand:** 10 marks; answer in 150 words.
+**Provenance:** exact wording, marks and word limit verified from the local official 2025
+GS-III paper. No answer outline is supplied in this final PYQ block.
+
+### 2026 routing result
+
+No direct Topic 20 owner question is routed in the audited 2026 Prelims or GS-III ledgers.
+The ledgers were checked on 3 October 2026; no question has been invented or back-filled.
 
 ## Cross-owner link that must not be mis-owned
 
@@ -2871,116 +2788,126 @@ services and bargaining challenges; finish with diversification, capability and 
 
 ---
 
-# CUMULATIVE MCQS
+---
 
-**MCQ 58.** An Indian final good has a 10% output tariff but its imported input has a 25% tariff. What is the safest inference?
+# CUMULATIVE CONCEPT CHECKS
 
-A. The final producer necessarily enjoys 25% protection.
-B. Effective protection may be low or negative; nominal output tariff alone is insufficient.
-C. ERP must equal 10%.
-D. Input tariffs never affect export competitiveness.
+## Check 1 - Instrument classification
 
-**Answer: B**
+**Question:** An import surge causes serious injury, but neither dumping nor a foreign subsidy is shown. Which instrument fits?
 
-- **A:** Input duty is a cost, not final protection.
-- **B:** ERP depends on value added after both output and input tariffs.
-- **C:** ERP need not equal the output tariff.
-- **D:** Imported-input cost can weaken exports.
+**Model answer:** A safeguard, subject to the applicable investigation, serious-injury and temporary-adjustment requirements.
 
-**MCQ 59.** Which pair correctly states an FTA welfare effect?
+**Misconception to avoid:** Do not use anti-dumping as a generic label for harmful imports.
 
-A. Both necessarily improve world efficiency.
-B. Trade diversion means domestic output replaces imports.
-C. Trade creation can improve allocation; trade diversion can replace a cheaper outsider.
-D. Trade creation requires a common external tariff.
+## Check 2 - FTA usability
 
-**Answer: C**
+**Question:** Why may a 10-percentage-point preference produce no export order?
 
-- **A:** Diversion can reduce world efficiency.
-- **B:** That is import substitution, not diversion.
-- **C:** The pair captures the Vinerian distinction.
-- **D:** An FTA can create trade without becoming a customs union.
+**Model answer:** Origin certification, testing, finance, logistics, information and buyer-acquisition costs may exceed the preference margin.
 
-**MCQ 60.** A product satisfies 45% RVC where the FTA requires 40%, but fails a required tariff-heading change. Result?
+**Misconception to avoid:** A tariff schedule does not automatically create demand or utilisation.
 
-A. RVC automatically overrides every other rule.
-B. The exporter may choose any rule after shipment.
-C. Origin depends only on the port used.
-D. It may still be ineligible because product-specific rules can be cumulative.
+## Check 3 - Origin and value chains
 
-**Answer: D**
+**Question:** Can a product meet a regional-value-content threshold and still fail origin?
 
-- **A:** RVC is not always the sole test.
-- **B:** The agreement controls the test.
-- **C:** Shipping route does not establish origin.
-- **D:** All required product rules must be checked.
+**Model answer:** Yes. A product-specific rule may cumulatively require a tariff shift, specified process or exclusion of minimal operations.
 
-**MCQ 61.** Which is the best distinction between an SPS and a safeguard measure?
+**Misconception to avoid:** One numerical threshold does not override the treaty text.
 
-A. SPS addresses specified health risks; safeguard addresses serious injury from increased imports.
-B. Both require proof of dumping.
-C. SPS is a tariff ceiling and safeguard is a patent.
-D. Safeguard applies only to services.
+## Check 4 - WTO status
 
-**Answer: A**
+**Question:** What is impaired, and what continues, in WTO dispute settlement?
 
-- **A:** Their objects and legal tests differ.
-- **B:** Neither universally requires dumping.
-- **C:** The categories are unrelated to those labels.
-- **D:** Safeguards principally concern goods imports.
+**Model answer:** Appellate review is impaired; consultations, panels, committees, notifications and negotiations continue.
 
-**MCQ 62.** What most directly turns FTA access into GVC upgrading?
+**Misconception to avoid:** Do not write that the WTO dispute system has vanished.
 
-A. A signed agreement without domestic reform.
-B. Reliable logistics, standards, technology, supplier learning and usable origin rules.
-C. The highest possible tariff on every input.
-D. A permanent bilateral deficit target.
+## Check 5 - Protection and exports
 
-**Answer: B**
+**Question:** How can protection create an anti-export bias?
 
-- **A:** Signature alone is insufficient.
-- **B:** Capability and usability create upgrading.
-- **C:** Costly inputs can block participation.
-- **D:** A deficit target does not produce firm capability.
+**Model answer:** Tariffs on intermediates raise downstream cost while exporters remain constrained by world prices, reducing margins and orders.
 
-**MCQ 63.** Which statement best captures the WTO dispute-settlement status on 24 September 2026?
+**Misconception to avoid:** Protection to an upstream producer is not automatically protection to the whole value chain.
 
-A. The Appellate Body was fully restored in 2024.
-B. Every panel report is automatically void.
-C. The Appellate Body cannot review appeals, but panels and consultations continue.
-D. The WTO has no dispute rules.
+## Check 6 - Services trade
 
-**Answer: C**
+**Question:** Why is Mode 3 analytically different from Mode 1?
 
-- **A:** No restoration was verified.
-- **B:** Panels can still operate.
-- **C:** This is the official-page boundary.
-- **D:** The DSU continues to exist.
+**Model answer:** Mode 3 supplies through commercial presence in the importing economy; Mode 1 supplies across the border without establishing that presence.
 
-**MCQ 64.** Which policy package best reconciles openness with security?
+**Misconception to avoid:** Do not map every foreign-exchange services receipt mechanically to a GATS mode.
 
-A. Blanket autarky.
-B. Single-source dependence.
-C. Permanent protection without performance tests.
-D. Competitive inputs plus narrow critical-capability support, diversification, stocks and review.
+## Check 7 - Geoeconomic resilience
 
-**Answer: D**
+**Question:** What separates resilience from autarky?
 
-- **A:** Autarky sacrifices gains and scale.
-- **B:** Concentration raises risk.
-- **C:** Unreviewed support invites rent capture.
-- **D:** The portfolio balances efficiency and resilience.
+**Model answer:** Resilience uses diversified suppliers, trusted partners, stocks, recycling, substitution and bounded domestic capability; autarky seeks broad withdrawal from trade.
 
+**Misconception to avoid:** Lower imports alone do not prove lower vulnerability.
 
-**Cumulative mastery rule:** A learner who misses a calculation should redo Lessons 1-4
-and 12-13. A learner who confuses legal categories should redo Lessons 5-10 and 14. A
-learner who gives one-sided policy answers should redo Lessons 16-21.
+## Check 8 - Agriculture boundary
+
+**Question:** Why must public-stockholding protection be described as interim?
+
+**Model answer:** The Bali Peace Clause conditionally protects covered programmes while a permanent solution remains unresolved; it is not an unlimited rewrite of AoA measurement.
+
+**Misconception to avoid:** Never claim that the Peace Clause permanently legalised every stockholding programme.
+
+## Check 9 - TRIMS legal hook
+
+**Question:** Why are a local-content condition and an import limit linked to exports treated
+differently within the same TRIMS framework?
+
+**Model answer:** The local-content condition ordinarily engages GATT Article III national
+treatment, while the import or trade-balancing limit ordinarily engages Article XI's
+quantitative-restriction discipline; both remain goods-related investment measures.
+
+**Misconception to avoid:** TRIMS does not regulate services or prohibit FDI and investment
+screening as such.
+
+## Check 10 - IGC institutional boundary
+
+**Question:** Does India's IGC membership authorise its grain trade or make the IGC an Indian
+procurement institution?
+
+**Model answer:** No. The IGC administers the GTC and supports grain-market transparency and
+cooperation; membership is not a rice/wheat trade licence, and Indian procurement and buffer
+stocks remain domestic functions.
+
+**Misconception to avoid:** Do not merge the IGC with the UN system, the separate FAC or
+India's food-management agencies.
+
+## Check 11 - Digital-trade moratorium
+
+**Question:** What changed at WTO MC14, and what did not?
+
+**Model answer:** Members did not agree to continue the customs-duty moratorium on electronic
+transmissions, so the existing moratorium expired at the end of March 2026. This did not
+settle data-flow, localisation, privacy, source-code, platform or tax rules.
+
+**Misconception to avoid:** Moratorium expiry is not equivalent to a customs duty on every
+digital service or a ban on digital trade.
+
+## Check 12 - India and MPIA
+
+**Question:** Can India's support for restoring two-tier WTO dispute settlement be cited as
+proof that India participates in the MPIA?
+
+**Model answer:** No. MPIA is an interim DSU Article 25 arrangement among participants; India
+was not a participant on the WTO record checked through 3 October 2026, while supporting
+restoration of the multilateral two-tier system.
+
+**Misconception to avoid:** A preferred institutional objective and membership in an interim
+plurilateral mechanism are separate facts.
 
 ---
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
-## 10 marks - Tariff incidence
+## 10 marks - Tariff incidence (150-word ceiling)
 
 **Question:** *A tariff intended to support domestic manufacturing may reduce exports.
 Explain in 150 words.*
@@ -2991,12 +2918,17 @@ it is an intermediate input, downstream producers face higher cost. Exporters ge
 cannot pass that cost into world prices, so margins, wages, local procurement or orders
 fall. The effective rate of protection can therefore be negative even when the final-good
 tariff is positive. Tariff revenue is a transfer, while production and consumption
-distortions are efficiency losses. India should assess the whole value chain, retain
-competitive access to inputs, use remission for genuine exported content and support
-capability directly through technology, logistics and standards. Protection should have a
-defined externality, beneficiary, performance benchmark and sunset.
+distortions are efficiency losses. India's FTP 2023 instruments illustrate the alternative:
+RoDTEP seeks remission of embedded taxes, while Advance Authorisation facilitates eligible
+inputs. India should assess the whole value chain, retain competitive inputs and support
+capability through technology, logistics and standards. Protection should identify the
+externality and beneficiary, publish performance benchmarks, and carry a sunset.
 
-## 10 marks - WTO non-discrimination
+**Unique final scoring rubric — Tariff-chain rubric:** World-price constraint, input incidence, effective protection, India value-chain example, sunset design.
+
+**Why this earns marks:** The answer turns a border-price change into producer, consumer and downstream effects, then closes with an instrument-design qualification within 150 words.
+
+## 10 marks - WTO non-discrimination (150-word ceiling)
 
 **Question:** *Differentiate MFN treatment and national treatment with suitable examples.*
 
@@ -3010,7 +2942,11 @@ treatment addresses internal discrimination. In GATS and TRIPS the principles op
 agreement-specific qualifications. UPSC answers should not call MFN zero tariff or treat an
 FTA preference as automatically unlawful.
 
-## 15 marks - AoA and food security
+**Unique final scoring rubric — Non-discrimination rubric:** Correct comparison pair, border/internal distinction, lawful exception, agreement qualification, trap-free example.
+
+**Why this earns marks:** The answer defines both discrimination principles, applies their different comparators and adds lawful exceptions without exceeding the short-answer ceiling.
+
+## 15 marks - AoA and food security (250-word ceiling)
 
 **Question:** *Examine the conflict between WTO agricultural-support disciplines and
 developing-country public stockholding.*
@@ -3019,14 +2955,19 @@ developing-country public stockholding.*
 competition. Amber support enters AMS unless exempt, while Green, Blue, Article 6.2 and de
 minimis rules create policy space. Public procurement at an administered price may be
 measured as the administered-price/fixed-reference-price gap multiplied by eligible
-production. India argues that the old reference base and inflation exaggerate measured
-support and constrain food security and smallholder support. The Bali Peace Clause provides
-conditional interim protection for covered programmes but is not an unlimited permanent
-exemption. Critics fear production and export spillovers. A durable solution should update
-measurement, preserve genuine food-security stocks, assist notification, and prohibit
-commercial displacement through subsidised exports.
+production. India argues that the 1986-88 fixed reference price and subsequent inflation can
+exaggerate measured support; developing countries also have a 10% de minimis threshold for
+relevant product-specific support. The 2013 Bali Peace Clause provides conditional interim
+protection for covered food-security programmes, but is neither an unlimited exemption nor a
+permanent solution. Critics fear production and export spillovers. A durable settlement
+should modernise measurement, preserve genuine food-security stocks, strengthen notification
+and prevent subsidised commercial displacement.
 
-## 15 marks - FTAs
+**Unique final scoring rubric — Food-security rubric:** AoA pillars, AMS arithmetic, dated Peace Clause, India equity case, spillover qualification.
+
+**Why this earns marks:** The answer classifies support before evaluating food-security space, preserving legal precision and a balanced reform conclusion within 250 words.
+
+## 15 marks - FTAs (250-word ceiling)
 
 **Question:** *An FTA should be judged by utilisation and upgrading, not by signed tariff
 coverage alone. Discuss.*
@@ -3035,30 +2976,44 @@ coverage alone. Discuss.*
 status. A firm uses a preference only when the tariff margin exceeds classification,
 certification, record and logistics costs. Trade creation can improve efficiency, while
 trade diversion can replace a cheaper non-member. Modern FTAs also influence services,
-standards, investment, mobility and digital rules. India should track preference
-utilisation, domestic value addition, exporter survival, supplier upgrading, consumer
-benefit and adjustment loss. MSMEs require origin guidance, accredited testing, trade
-finance and digital customs. Agreement success is therefore a firm-level capability and
-productivity outcome, not the number of tariff lines announced.
+standards, investment, mobility and digital rules. India's cases show the status ladder:
+EFTA TEPA has operated since 1 October 2025; UK CETA since 15 July 2026; the India-EU FTA
+was concluded on 27 January 2026 but conclusion is not entry into force. India should track
+preference utilisation, domestic value addition, exporter survival, supplier upgrading,
+consumer benefit and adjustment loss. MSMEs require origin guidance, accredited testing,
+trade finance and digital customs. Success is a firm-level productivity outcome, not the
+number of tariff lines announced.
 
-## 20 marks - Protectionism and bilateralism
+**Unique final scoring rubric — FTA-performance rubric:** Status, preference margin, origin/utilisation, creation/diversion, services/standards, firm upgrading.
+
+**Why this earns marks:** The answer tests an FTA through status, usability and the welfare counterfactual rather than headline tariff coverage, while staying below 250 words.
+
+## 20 marks - Protectionism and bilateralism (300-word ceiling)
 
 **Question:** *“Bilateral trade agreements are a necessary hedge against protectionism but
 an incomplete substitute for multilateralism.” Analyse.*
 
 **Model answer:** Bilateral agreements can secure faster, tailored access when multilateral
-negotiations stall. India has pursued selective agreements across the Gulf, Indo-Pacific
-and Europe while retaining WTO engagement. They can deepen services, investment, standards
-and supply-chain cooperation. Yet preferences discriminate against outsiders, multiply
-origin regimes, risk trade diversion and offer weaker protection to countries outside the
-club. A large partner may also exercise bargaining power. WTO rules provide a common MFN
-baseline, transparency, committees and dispute procedures, although appellate review is
-impaired. India should use FTAs to diversify markets and build capability, while pressing
-for restored WTO dispute settlement, development-sensitive agriculture rules and policy
-space. Domestic logistics, standards, competitive inputs and worker adjustment determine
-whether access becomes real upgrading.
+negotiations stall. After leaving RCEP negotiations in 2019, India operationalised UAE CEPA,
+Australia ECTA and EFTA TEPA; UK CETA entered into force on 15 July 2026, while the India-EU
+FTA was concluded on 27 January 2026. These agreements can deepen goods, services,
+investment, standards and supply-chain cooperation. Yet preferences discriminate against
+outsiders, multiply origin regimes, risk trade diversion and amplify bargaining asymmetry.
+Digital chapters also raise distinct choices over data flows, localisation, source code,
+platforms, taxation and privacy; WTO MC14's non-renewal of the electronic-transmissions
+customs-duty moratorium did not settle those wider rules. WTO disciplines still provide a
+common MFN baseline, committees, transparency and dispute procedures, although the Appellate
+Body cannot hear appeals. India is not an MPIA participant as checked through 3 October 2026,
+but supports restored two-tier multilateral review. India should use FTAs for diversification
+and capability while pressing for binding review and development-sensitive agriculture
+rules. Competitive inputs, testing, logistics, digital interoperability, trade finance and
+worker/MSME adjustment determine whether negotiated access becomes upgrading.
 
-## 20 marks - Economic security
+**Unique final scoring rubric — Rules-versus-clubs rubric:** Protectionist setting, dated India agreements, WTO impairment, bilateral benefits/costs, capability and qualified verdict.
+
+**Why this earns marks:** The answer connects dated bilateral evidence to digital and dispute-settlement fragmentation, then gives a capability-based qualified verdict below 300 words.
+
+## 20 marks - Economic security (300-word ceiling)
 
 **Question:** *Design an Indian trade strategy that combines efficiency, employment,
 industrial capability and national security.*
@@ -3070,85 +3025,47 @@ portfolio: domestic capacity, trusted partners, multi-sourcing, recycling, strat
 stocks and substitution R&D. Industrial support should be transparent, time-bound,
 competitive and tied to productivity, quality and exports. Tariff structures must be
 tested for effective protection and downstream anti-export bias. FTAs should be evaluated
-through origin usability, services, standards and value addition. Workers and MSMEs need
-adjustment finance, skills and compliance infrastructure. WTO-compatible rules and a
-restored dispute system protect India from raw power bargaining. The goal is resilient
-integration, not autarky or a trade-surplus fetish.
+through origin usability, services, standards and value addition. For semiconductors or
+critical minerals, combine domestic capability with trusted-partner agreements and stocks;
+for EU CBAM exposure, build emissions measurement and lower-carbon production while
+contesting discriminatory design. Workers and MSMEs need adjustment finance, skills and
+compliance infrastructure. WTO-compatible rules and restored appellate review constrain raw
+power bargaining. The goal is resilient integration, not autarky or a trade-surplus fetish.
+
+**Unique final scoring rubric — Resilient-integration rubric:** Criticality test, portfolio response, downstream cost, worker/MSME adjustment, WTO compatibility, review.
+
+**Why this earns marks:** The answer converts security concerns into a reviewable risk portfolio, protects downstream competitiveness and rejects autarky within the ceiling.
 
 ---
 
 # REMEDIATION
 
-**MCQ 65.** A learner says: “MFN means India must offer zero tariffs to every WTO member.” What is the correction?
-
-A. MFN requires equal treatment of like partners subject to exceptions; it does not require zero tariffs.
-B. MFN applies only to domestic taxes.
-C. MFN is another name for national treatment.
-D. MFN requires the highest tariff for all.
-
-**Answer: A**
-
-- **A:** Non-discrimination is not zero duty.
-- **B:** Domestic treatment is the national-treatment question.
-- **C:** The two principles compare different relationships.
-- **D:** MFN does not prescribe the highest rate.
-
-**MCQ 66.** A learner says: “If bilateral trade rises after an FTA, trade creation is proved.” Correction?
-
-A. Any rise proves welfare gain.
-B. Source switching, tariff revenue, costs and counterfactual prices must be examined.
-C. Only the bilateral balance is needed.
-D. Trade diversion cannot occur under an FTA.
-
-**Answer: B**
-
-- **A:** Volume alone is insufficient.
-- **B:** Creation/diversion is a counterfactual welfare test.
-- **C:** Balance alone is insufficient.
-- **D:** Preferential discrimination can divert trade.
-
-**MCQ 67.** A learner says: “All standards are non-tariff barriers and should be abolished.” Correction?
-
-A. SPS rules prohibit food-safety measures.
-B. TBT rules require identical national laws.
-C. Standards can pursue legitimate objectives; test evidence, necessity and non-discrimination.
-D. Only tariffs may protect health.
-
-**Answer: C**
-
-- **A:** SPS permits justified health measures.
-- **B:** TBT encourages standards without demanding identical laws.
-- **C:** The issue is design and application, not existence.
-- **D:** Regulation can protect health.
-
-**MCQ 68.** A learner says: “Self-reliance means eliminating imported inputs.” Correction?
-
-A. Autarky is always the lowest-cost policy.
-B. Imported inputs never support exports.
-C. Security makes cost irrelevant.
-D. Resilient self-reliance combines domestic capability with diversified and trusted external supply.
-
-**Answer: D**
-
-- **A:** Autarky carries large costs.
-- **B:** GVC exports often use imported inputs.
-- **C:** Security benefits still require proportionality.
-- **D:** Capability and diversified access can coexist.
-
+| Diagnostic error | Corrective task | Evidence that mastery is restored |
+|---|---|---|
+| MFN means zero duty | Rebuild partner-partner versus import-domestic comparison | Explain one FTA exception without confusing national treatment |
+| Any bilateral trade rise proves creation | Recalculate outsider cost, tariff revenue and source switching | State the counterfactual welfare result |
+| Every standard is protectionist | Classify SPS/TBT objective, evidence and discrimination | Give one legitimate and one disguised-measure case |
+| Self-reliance means no imported inputs | Map import-to-export and upgrading channels | Design a diversified resilience portfolio |
+| FTA signature equals operation | Rebuild the five-stage legal-status ladder | Attach the correct status/date to UK, EU and EFTA |
+| DGTR imposes every remedy | Trace investigation, recommendation and notification | Separate institutional roles precisely |
+| Merchandise deficit equals BoP deficit | Split goods, services, income, transfers and financing | Explain the services cushion without erasing goods vulnerability |
+| Peace Clause is a permanent solution | Reconstruct AMS measurement and interim protection | State the unresolved status and conditions |
 
 ## Error-to-lesson routing
 
-| Error | Return to | Repair task |
+| Error family | Return to | Repair prompt |
 |---|---|---|
-| Absolute versus comparative advantage | Lessons 1-2 | Recalculate both opportunity costs and exchange range |
-| Tariff versus ERP | Lessons 3-4 | Rebuild value added before and after policy |
-| MFN versus national treatment | Lesson 5 | Identify whether comparison is partner-partner or import-domestic |
-| SPS/TBT/remedy confusion | Lessons 6, 9-10 | Name objective, legal predicate, evidence and institution |
-| FTA headline bias | Lessons 11-13 | Add status, origin, utilisation and creation/diversion |
-| Services mode confusion | Lesson 14 | Track movement of service, consumer, firm or person |
-| Gross export triumphalism | Lessons 15-16 | Add import content and domestic value added |
-| Protection equals resilience | Lessons 18-19 | Build a targeted portfolio and sunset test |
-| WTO has disappeared | Lesson 20 | Separate continuing panels from impaired appeals |
+| Relative-cost arithmetic | Lessons 1-2 | Recalculate opportunity costs and the exchange interval |
+| Tariff, quota and ERP | Lessons 3-4 | Rebuild prices, rents and domestic value added |
+| WTO legal categories | Lessons 5-8 | Name subject, predicate, GATT Article III/XI link, evidence and institution |
+| IGC/FAC/procurement confusion | Lesson 11 | Separate GTC membership, FAC status, market transparency and Indian buffer-stock functions |
+| FTA status, origin and welfare | Lessons 9, 14, 17-18 | Add status, product rule, utilisation and counterfactual |
+| Services/export basket and IGC | Lessons 10-11 | Separate GATS mode, BoP category, domestic value added and grain-market institution |
+| Export-policy implementation | Lesson 12 | Trace policy-to-authorisation-to-border-to-finance-to-buyer |
+| Protection, GVCs and geoeconomics | Lessons 13, 19-20 | Add downstream incidence, portfolio resilience and proportionality |
+| AoA/public stockholding | Lessons 15-16 | Rebuild boxes, AMS, de minimis and interim protection |
+| Digital trade | Lesson 14 | Separate ordering/delivery, data, localisation, source code, platforms, tax and customs duties |
+| WTO enforcement | Lessons 14 and 21 | Separate functioning panels, impaired appellate review, MPIA and India's participant status |
 
 ---
 
@@ -3210,9 +3127,11 @@ QUALIFIED VERDICT
 GOODS: GATT + customs valuation + origin + licensing + remedies
 SERVICES: GATS and scheduled modes
 IP: TRIPS, implemented through domestic law
+INVESTMENT MEASURES: TRIMS -> GATT III national treatment / XI quantitative restrictions
 REGULATION: SPS or TBT according to objective/risk
 AGRICULTURE: AoA plus relevant general agreements
-DISPUTES: consultations -> panel -> impaired appellate stage
+DIGITAL: ordering/delivery + data/localisation/source code/platforms/tax/customs duty
+DISPUTES: consultations -> panel -> impaired appellate stage; MPIA only for participants
 ```
 
 ## India answer spine
@@ -3226,6 +3145,8 @@ DISPUTES: consultations -> panel -> impaired appellate stage
 6. Test proportionality, alternatives, transparency and sunset.
 7. End with competitive capability + diversified resilience + rules.
 ```
+
+---
 
 ---
 
@@ -3259,10 +3180,14 @@ DISPUTES: consultations -> panel -> impaired appellate stage
 ## D. Agreement map
 
 1. GATT - goods; GATS - services; TRIPS - IP minimum standards.
-2. TRIMS disciplines covered goods-related local-content/trade-balancing measures.
-3. SPS - food, animal and plant health risks; TBT - other technical regulation.
-4. SCM, Anti-Dumping and Safeguards have separate predicates.
-5. AoA pillars: market access, domestic support and export competition.
+2. TRIMS covers goods-related investment measures inconsistent with GATT Article III
+   national treatment or Article XI quantitative-restriction disciplines.
+3. Its illustrative list includes local-content and trade-balancing/import-restriction
+   requirements; it does not govern services, ban FDI or prohibit investment screening
+   generally.
+4. SPS - food, animal and plant health risks; TBT - other technical regulation.
+5. SCM, Anti-Dumping and Safeguards have separate predicates.
+6. AoA pillars: market access, domestic support and export competition.
 
 ## E. Agriculture boxes and stockholding
 
@@ -3301,9 +3226,16 @@ DISPUTES: consultations -> panel -> impaired appellate stage
 2. GATS Mode 3 is broader than BoP cross-border services.
 3. FY2025-26 Commerce release dated 15 April 2026: merchandise exports USD 441.78 billion; estimated services exports USD 418.31 billion; estimated total exports USD 860.09 billion.
 4. March 2026 services values in that release were estimates based on latest February RBI data.
-5. Gross exports differ from domestic value added.
-6. Competitive imported inputs can enable downstream exports.
-7. Upgrading ladder: assembly -> process -> components -> design/IP -> brand/distribution.
+5. The 16 September 2026 Commerce/PIB release estimated August 2026 services exports at USD
+   38.87 billion; it is a monthly snapshot, not a trend.
+6. IGC is an independent intergovernmental body administering the GTC for transparency and
+   cooperation in grains, rice and oilseeds; India is a member, with Food and Public
+   Distribution as nodal agency.
+7. IGC is not a UN relief agency, grain-price setter, procurement body or membership gateway
+   for rice/wheat trade; GTC membership does not automatically establish FAC-party status.
+8. Gross exports differ from domestic value added.
+9. Competitive imported inputs can enable downstream exports.
+10. Upgrading ladder: assembly -> process -> components -> design/IP -> brand/distribution.
 
 ## I. Protection, resilience and reform
 
@@ -3312,11 +3244,27 @@ DISPUTES: consultations -> panel -> impaired appellate stage
 3. Resilience = diversification + stocks + substitution + domestic option.
 4. Self-reliance is not autarky.
 5. Security externality must be bounded by expected-loss analysis.
-6. WTO Appellate Body could not review appeals on the official page retrieved 24 September 2026.
+6. WTO Appellate Body could not review appeals on the official page retrieved 3 October 2026.
 7. Panels and consultations continue; dispute settlement is impaired, not absent.
-8. Bilateral FTAs complement but do not replace a multilateral baseline.
+8. MPIA is a 2020 DSU Article 25 interim appeal-arbitration arrangement for participants;
+   India is not a participant as checked through 3 October 2026.
+9. India's MPIA non-participation is distinct from its support for restoring a multilateral
+   two-tier dispute-settlement system.
+10. Bilateral FTAs complement but do not replace a multilateral baseline.
 
-## J. India policy formula
+## J. Digital trade
+
+1. Digitally ordered trade and digitally delivered trade are overlapping, not identical.
+2. Digital-trade rules cover data flows, localisation, privacy, cybersecurity, source code,
+   platforms, consumer protection, e-signatures, payments and taxation.
+3. WTO MC14 did not agree to continue the customs-duty moratorium on electronic
+   transmissions; the existing moratorium expired at the end of March 2026.
+4. Moratorium status does not settle the definition of every electronic transmission or
+   remove domestic regulatory authority over privacy, security, competition and taxation.
+5. India's design problem is interoperability and market access with proportionate,
+   transparent safeguards and development policy space.
+
+## K. India policy formula
 
 > **Competitive inputs + standards and logistics + usable FTAs + services mobility +
 > GVC upgrading + worker/MSME adjustment + narrow strategic capability + WTO reform =
@@ -3324,121 +3272,119 @@ DISPUTES: consultations -> panel -> impaired appellate stage
 
 ---
 
+---
+
 # COVERAGE MATRIX
 
-| Coverage unit | Lesson(s) / final location | Status |
+| Owner / syllabus unit | Lesson(s) / final location | Coverage result |
 |---|---|---|
-| Comparative and absolute advantage | 1 | Complete with calculation and limitations |
-| Opportunity cost and terms of trade | 1-2 | Complete with exchange range |
-| Tariff incidence and welfare | 3 | Complete with price and deadweight map |
-| Quota, TRQ, quota rent | 4 | Complete |
-| Effective protection | 4, 16 | Complete with calculation |
-| WTO principles, MFN, national treatment, bindings | 5 | Complete |
-| Agreement classification | 6 | Complete |
-| GATT, GATS, TRIPS, TRIMS | 6, 14 | Complete |
-| AoA pillars, boxes, Article 6.2, de minimis, AMS | 7 | Complete |
-| Public stockholding and Peace Clause | 8 | Complete with status caution |
-| SPS and TBT | 9 | Complete with cases |
-| Anti-dumping, countervailing, safeguard, DGTR | 10 | Complete |
-| PTA/FTA/customs union and legal status | 11 | Complete |
-| Rules of origin, RVC, cumulation | 12 | Complete with value-add calculation |
-| Trade creation and diversion | 13 | Complete with welfare case |
-| GATS Modes 1-4 | 14 | Complete |
-| Merchandise/services composition and dated FY2025-26 figures | 15 | Complete |
-| GVCs, imported inputs, domestic value added | 16 | Complete |
-| Trade facilitation, standards, logistics, reliability | 17 | Complete |
-| Infant industry and political economy | 18 | Complete |
-| Industrial policy, resilience, security, climate-trade boundary | 19 | Complete |
-| WTO disputes, Appellate Body and reform | 20 | Complete |
-| India FTA strategy and policy synthesis | 21 | Complete |
-| 2018-2025 direct PYQs | Verified PYQ section and local lesson links | Complete without inferred keys |
-| 2026 ledgers | Verified PYQ section | Checked; no direct Topic 20 owner question invented |
-| Conceptual/applied/remedial MCQs | Lessons, cumulative and remediation | 68, continuous A-B-C-D rotation |
-| Mains 10/15/20-mark practice | Lesson micro-models and final practice | Complete |
-| Natural variation | All lessons | Calculations, welfare maps, legal maps, cases, mode maps and argument trees used concept-specifically |
+| Trade theory, absolute/comparative advantage, opportunity cost, terms of trade | 1-2 | Core complete with arithmetic, limits and distribution |
+| Tariffs, quotas, TRQs, rent and effective protection | 3-4 | Core complete with incidence and calculations |
+| WTO principles, bindings, exceptions and agreement map | 5-6 | Core complete |
+| GATT, GATS, TRIPS, TRIMS, SPS and TBT | 5-7, 10 | Core checked against owner, including TRIMS Articles III/XI relation and limits |
+| Anti-dumping, countervailing, safeguards and DGTR | 8 | Core complete |
+| PTA/FTA/customs union, CEPA/ECTA/TEPA, legal status and utilisation | 9, 14 | Core complete with dated India examples |
+| GATS Modes 1-4 and Indian services interests | 10 | Core complete |
+| Merchandise/services basket, latest official snapshot and diversification | 11 | Core checked with USD 38.87 billion August 2026 services estimate and caveats |
+| International Grains Council, GTC, India status and institutional limits | 11 | Core checked with UN/FAC/trade-condition/procurement distinctions |
+| FTP 2023, DGFT, Commerce, Customs, RBI, EPC/FIEO, ECGC, EXIM Bank | 12 | Core complete |
+| Advance Authorisation, EPCG, RoDTEP/RoSCTL, Trade Connect, standards/logistics | 12 | Core complete with WTO-compatibility caution |
+| Protectionism, infant industry, jobs and political economy | 13 | Core complete |
+| Digital trade: ordering/delivery, data, localisation, source code, platforms, tax and moratorium | 14 | Core owner unit restored; WTO MC14 status dated 30 March 2026 |
+| MPIA Article 25 design, India status and two-tier restoration position | 14, 21 | Core status taught before Advanced; Advanced institutional analysis retained |
+| India selective strategy: RCEP, UAE, Australia, EFTA, UK and EU | 14 | Core synthesis checked through 3 October 2026 |
+| AoA pillars, boxes, Article 6.2, de minimis and AMS | 15 | Optional Advanced complete |
+| Public stockholding and Peace Clause | 16 | Optional Advanced complete with unresolved-status caution |
+| Rules of origin, tariff shift, RVC, cumulation and documentation | 17 | Optional Advanced complete |
+| Trade creation/diversion and utilisation welfare | 18 | Optional Advanced complete |
+| GVCs, imported inputs, forward/backward participation and upgrading | 19 | Optional Advanced complete |
+| Resilience, geoeconomics, CBAM and security trade-offs | 20 | Optional Advanced complete |
+| DSU, Appellate Body paralysis, appeal into void, MPIA boundary and reform | 21 | Optional Advanced analysis complete after Core status foundation |
+| Direct 2018-2025 PYQs and 2026 no-direct-owner finding | Lessons 6, 11, 13-14 and final PYQ section | Exact wording/options/directives/marks/limits verified; blocks answer-neutral |
+| Cross-owned 2024 IPR and 2026 AoA demands | PYQ ownership section | Routed without silent re-ownership |
+| Lesson-local assessment | Every lesson | Exactly one question, model answer and misconception |
+| Lesson-local Mains application | Every lesson | One responsive model, named evidence and unique rubric |
+| Final Mains practice | Final models | 2 × 10, 2 × 15 and 2 × 20 marks; ceilings stated |
+| Final arc | PYQs → concept checks → models → remediation → maps → register → coverage → sources | Exact required order |
 
 ---
 
 # SOURCE LEDGER
 
-## Governing and canonical repository sources
+## Governing rules and style benchmarks
 
-1. `instructions/README.md` - instruction registry, read 24 September 2026.
-2. `instructions/GENERATION-OPTIMIZATION-AND-INTEGRITY.md` - non-compromise and integrity lock.
-3. `live_sessions/LIVE-SESSION-GENERATION-RULES.md` - authoritative live-session contract.
-4. `upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.
-5. `upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md`.
-6. `upsc-ai-kit/knowledge/Economy/20_Foreign-Trade-WTO-FTAs-and-Protectionism_Learner-V2-Complete-Topic-Package.md`.
-7. Matching `economy-20_Learning-Session.md` and `economy-20_Solved-Workbook.md`.
-8. `upsc-ai-kit/knowledge/Economy/OFFICIAL-UPSC-SYLLABUS-MAPPING.md`.
-9. Cross-owner Economy Topics 17-19, 25 and 28 for GVC, external-sector, climate-trade and AoA boundaries.
+1. `AGENT_MEMORY.md`, especially learner-first, evidence, Mains-model and hostile-audit rules.
+2. `instructions/GENERATION-OPTIMIZATION-AND-INTEGRITY.md`.
+3. `live_sessions/LIVE-SESSION-GENERATION-RULES.md`.
+4. Openings and complete learner-facing lessons from Nyaya-Vaisesika, Yoga and Mimamsa live editions.
+5. The permanently excluded derived-package source category was not read, searched, cited or used.
 
-## PYQ sources
+## Canonical and cross-owner Markdown
 
-1. `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.
-2. `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
-3. `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
-4. `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-5. `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-6. `_PYQ-ROUTING-PRELIMS-2026.md` and `_PYQ-GS3-2026.md`.
-7. Local official/OCR question papers listed by the repository ledgers. Objective answer
-   letters were not inferred where the ledger did not record them.
+1. `upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` — Core owner.
+2. `upsc-ai-kit/knowledge/Economy/advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` — optional enrichment owner.
+3. Economy Topics 17-19 for manufacturing, infrastructure/logistics and BoP boundaries.
+4. Economy Topic 25 for domestic carbon-market/MRV ownership; Topic 28 for detailed farm-support ownership.
+5. Science and Technology Topic 17 retains patent-commercialisation ownership.
 
-## OCR books and documents
+## OCR-searchable local books
 
-1. Ramesh Singh, *Indian Economy*, OCR-searchable local PDF, especially pages 408-419,
-   743-746 and glossary/foreign-trade passages. Used for standard WTO/AoA/SPS and
-   development-policy formulations; older mutable statements were not carried forward.
-2. *Economic Survey 2025-26*, tabled 29 January 2026, OCR-searchable local PDF,
-   especially External Sector chapter pages 196-220 and economic-statecraft discussion.
-3. Department of Commerce, “PIB Release”, dated 15 April 2026, FY2025-26 trade estimates.
-   `https://www.commerce.gov.in/files/2026-04/PIBRelease.pdf`
-4. Department of Commerce, “India’s Free Trade Agreements (2025-26) - Key Highlights”,
-   retrieved 24 September 2026; status snapshot expressly non-creating of legal rights.
-   `https://www.commerce.gov.in/files/2026-03/FTAs%20achievement%20v6%205%20pm.pdf`
-5. Ministry of Commerce & Industry/PIB, “India-EU Free Trade Agreement Concluded”,
-   posted 27 January 2026, retrieved 24 September 2026.
-   `https://www.commerce.gov.in/files/2026-02/India%E2%80%93EU%20Free%20Trade%20Agreement%20Concluded%20dated%2027.01.2026.pdf`
-6. Ministry of Commerce & Industry, India-UK CETA status page/document, searched and
-   rechecked 24 September 2026. The page did not support a verified ratification or
-   entry-into-force claim; the defensible official status used here is signed on
-   24 July 2025, as recorded in the Department of Commerce 2025-26 highlights.
-   `https://www.commerce.gov.in/ministryofcommerce/node/4903`
+1. Ramesh Singh, *Indian Economy*: OCR hits checked on pages 39, 338, 432, 702, 720, 722-723, 726, 933, 1133-1134 and 1199; used only for stable trade/WTO textbook framing.
+2. *Economic Survey 2025-26*: OCR hits checked across the external-sector and economic-statecraft passages, including pages 178 and 196-220; mutable figures retain official date/status.
 
-## Official WTO and Indian institutional sources
+## Verified PYQ provenance
 
-1. WTO, “Principles of the trading system”:
-   `https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm`,
-   retrieved 24 September 2026.
-2. WTO, “Appellate Body”:
-   `https://www.wto.org/english/tratop_e/dispu_e/appellate_body_e.htm`,
-   retrieved 24 September 2026.
-3. WTO, “Domestic support in agriculture”:
-   `https://www.wto.org/english/tratop_e/agric_e/ag_intro03_domestic_e.htm`,
-   retrieved 24 September 2026.
-4. WTO GATS training module, “Definition of Services Trade and Modes of Supply”:
-   `https://www.wto.org/english/tratop_e/serv_e/cbt_course_e/c1s3p1_e.htm`,
-   retrieved 24 September 2026.
-5. WTO SPS, TBT and Rules of Origin official gateways, searched 24 September 2026.
-6. Directorate General of Trade Remedies official role/objectives pages, searched
-   24 September 2026.
-7. Department of Commerce official FTA and trade documents listed above, downloaded or
-   officially searched on 24 September 2026.
-8. International Grains Council official member/session material, searched 24 September
-   2026.
-9. IP India GI Act/resources, FSSAI GM-food/import resources, and Commerce TRADESTAT/TIA
-   portals, searched 24 September 2026.
-10. European Commission, official CBAM gateway, retrieved 24 September 2026; definitive
-    regime date, sector scope, embedded-emissions certificate mechanism and EU ETS-linked
-    pricing used.
-    `https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en`
+1. Audited local routing ledgers for Prelims 2018-2026 and Mains GS-III 2018-2026.
+2. Exact questions were directly checked in the local official/OCR papers for 2018, 2019,
+   2020 and 2024 Prelims and 2018 and 2025 Mains GS-III.
+3. The local official 2024 Set-A answer key was used only to verify key provenance; its
+   answer letters are not reproduced. Routed local ledgers record the 2018-2020 objective
+   keys as unavailable, so none is inferred.
+4. Exact wording, options, directives, marks and word limits are rendered in answer-neutral
+   lesson-local and final blocks.
+5. Topic 28 retains the 2026 AoA farm-support demand; Science and Technology Topic 17 retains the 2024 patent-commercialisation demand.
 
-## Integrity notes
+## Official live sources checked through 3 October 2026
 
-- Stable doctrine and calculations are marked as such rather than given artificial dates.
-- Every mutable figure or agreement/institution status used in teaching carries a
-  publication, status or retrieval date.
-- Where official current material did not prove a permanent public-stockholding solution,
-  the file states that no concluded solution was verified.
-- No official PYQ answer letter was guessed.
-- Qdrant was not required because Markdown, OCR PDFs and live official sources were available.
+1. WTO principles, GATT/GATS/TRIPS/TRIMS—including the GATT Articles III/XI relationship—AoA, SPS, TBT, origin, remedies and dispute-settlement gateways.
+2. WTO Appellate Body page: standing seven-person design; inability to review appeals; last sitting member's term ended 30 November 2020.
+3. WTO MPIA material and participant record: 2020 DSU Article 25 arrangement; India was not
+   listed as a participant when checked through 3 October 2026.
+4. WTO MC14 news dated 30 March 2026: no agreement to continue the electronic-transmissions
+   customs-duty moratorium; the existing moratorium expired at the end of March 2026.
+5. Department of Commerce, 15 April 2026 FY2025-26 trade release: merchandise, estimated services and total exports with March-estimation caveat.
+6. Department of Commerce/PIB, 16 September 2026 August trade release: USD 38.87 billion
+   estimated August services exports and the April-August 2026-27 snapshot; September data
+   were not claimed.
+7. Department of Commerce/DGFT, Foreign Trade Policy 2023 and official institutional/scheme pages.
+8. Official Commerce material for UAE CEPA, Australia ECTA, EFTA TEPA, India-UK CETA and the concluded India-EU FTA.
+9. European Commission CBAM gateway for the 1 January 2026 definitive phase, covered sectors and EU ETS-linked certificate mechanism.
+10. Official DGTR, IGC/GTC, Department of Food and Public Distribution, FSSAI/GEAC, IP India
+    and TradeSTAT/TIA resources for institutional and PYQ-tested distinctions.
+
+## Integrity and truth boundary
+
+- Stable legal architecture and worked calculations are separated from mutable trade figures and agreement statuses.
+- The latest official monthly trade snapshot used is August 2026; no September 2026 trade figure is fabricated.
+- The August 2026 services value is stated exactly as USD 38.87 billion and explicitly
+  identified as an estimate in the 16 September 2026 release.
+- UK CETA is stated as in force from 15 July 2026 on the dated official Commerce evidence found; the India-EU FTA is stated as concluded, not silently treated as in force.
+- No fixed CBAM ad valorem rate is claimed; exporter exposure varies with embedded emissions, EU ETS prices and implementing rules.
+- No permanent public-stockholding solution or restored WTO Appellate Body is claimed;
+  India is not represented as an MPIA participant.
+- MC14 moratorium expiry is limited to customs duties on electronic transmissions and is
+  not expanded into a claim that digital trade is unregulated or uniformly defined.
+- No official PYQ key is guessed or leaked.
+
+## SOURCE-MANIFEST GATE
+
+| Source category | Status | Evidence / reason |
+|---|---|---|
+| canonical markdown | checked | Complete Basic/Core owner, Advanced owner and relevant cross-owner boundaries were read; TRIMS, IGC, digital-trade and MPIA units are explicitly mapped. |
+| final learner package | not relevant | Excluded from live-session sourcing under the permanent source-exclusion rule. |
+| layered/complete session | checked | The pre-existing target was audited only as the in-place reconstruction source. |
+| solved workbook | not relevant | A live-session rebuild does not source or create the separate workbook corpus. |
+| advanced dossier | checked | Complete Advanced owner supplied the distinct optional enrichment block. |
+| ocr books | checked | Ramesh Singh and Economic Survey OCR-searchable PDFs were queried for trade passages. |
+| pyqs through 2026 | checked | Exact direct-owner questions were checked against local papers where available; key availability and ownership boundaries are stated without answer leakage. |
+| official live sources | checked | WTO, IGC/Food Department and Commerce/PIB material was checked through 3 October 2026 with dated status cautions. |
