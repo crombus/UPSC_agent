@@ -1,51 +1,55 @@
-# Economy 15 - Food Processing, Cold Chains and Value Addition
+# Economy 15 - Food Processing, Cold Chains and Value Addition - Live Session Edition
 
-## Frozen roadmap - 16 lessons
+> **Scope:** UPSC Prelims and GS-III. Current-source cutoff: **3 October 2026**.
+> **Evidence rule:** Facts are tied to the source ledger; analytical claims are qualified. PYQs appear only as verified demands and answer approaches, never as solved PYQ answers.
 
-| # | Learner-facing lesson | Stage |
-|---:|---|---|
-| 1 | From marketed crop to processed food: scope, chain and Topic 13 bridge | Foundation |
-| 2 | What value addition really measures: utility, margins and farmer capture | Foundation |
-| 3 | Processing depth, preservation, nutrition and food-safety trade-offs | Core |
-| 4 | Cold-chain continuity: temperature, time and broken-link diagnosis | Core |
-| 5 | Why processing locates where it does: raw material, market and cluster logic | Core |
-| 6 | Upstream requirements: aggregation, FPOs, quality supply and contracts | Core |
-| 7 | Downstream requirements: packaging, logistics, retail, exports and traceability | Core |
-| 8 | Institutions and standards: MoFPI, FSSAI, APEDA, Codex and SPS | Core |
-| 9 | Infrastructure policy: PMKSY, integrated cold chain, clusters and Operation Greens | Advanced |
-| 10 | Incentives and inclusion: PLISFPI, PMFME, MSMEs and formalisation | Advanced |
-| 11 | Plant economics: throughput, capacity use, finance, technology and skills | Advanced |
-| 12 | Jobs, nutrition and regional inclusion: who gains from processing? | Advanced |
-| 13 | Environmental account: energy, refrigerants, water, waste and circularity | Advanced |
-| 14 | Commodity decisions: fruit, dairy, fish, millet and palm-oil chains | Advanced |
-| 15 | Governance and evaluation: sanction, operation, outcomes and distribution | Mastery |
-| 16 | Integrated strategy and UPSC answer craft, including biotechnology linkage | Mastery |
+## Learner-facing roadmap - 18 lessons
+
+| Lesson | Stage | Subtopic | Governing learner question |
+|---:|---|---|---|
+| 1 | Foundation | Scope, processing levels and the Topic 13 bridge | What belongs inside food processing? |
+| 2 | Foundation | Value addition, conversion and farmer capture | Where is value created, and who receives it? |
+| 3 | Core | Processing depth, preservation, nutrition and safety | Which operation solves which food problem? |
+| 4 | Core | Post-harvest loss and cold-chain continuity | Why does one warm break defeat a cold asset? |
+| 5 | Core | Location, clusters and regional logic | Why do processors locate near some farms and markets? |
+| 6 | Core | Upstream aggregation, FPOs and contracts | How is reliable raw-material supply created? |
+| 7 | Core | Warehousing, packaging, logistics, traceability and exports | How is integrity maintained after production? |
+| 8 | Core | MoFPI, FSSAI, APEDA, Codex and SPS | Which institution answers which governance question? |
+| 9 | Core | PMKSY, integrated cold chain, clusters, Mega Food Parks and Operation Greens | Which infrastructure instrument repairs which link? |
+| 10 | Core | PLISFPI, PMFME, ODOP and formalisation | How should policy differ for scale and micro capability? |
+| 11 | Core | Plant economics, throughput, finance, technology and skills | Why can installed capacity remain idle? |
+| 12 | Core | Employment, nutrition, gender and regional inclusion | Who gains, in what kind of job? |
+| 13 | Core | Energy, refrigerants, water, waste and circularity | Does loss reduction shift environmental cost? |
+| 14 | Core | Fruit, vegetables, dairy, fish, cereals, millets, meat and oilseeds | Why does each subsector need a different chain? |
+| 15 | Core mastery | Governance, outcome measurement and distribution | How do sanction and welfare differ? |
+| 16 | Core mastery | Integrated reforms and UPSC answer craft | How does diagnosis become an answer? |
+| 17 | Optional Advanced | Market power, contract design, differentiation and governance | How does governance determine capture? |
+| 18 | Optional Advanced | Additionality, resilience and policy evaluation | How should an advanced answer judge policy? |
 
 ```text
-Topic 13: market access, storage and farmer aggregation
-                         |
-                         v
-raw material -> preservation -> transformation -> standards -> market
-      |              |              |              |          |
-   upstream       cold chain     value added     safety     value capture
-                         |
-                         v
-jobs + nutrition + exports + regional industry - environmental costs
+COMPLETE CORE
+farm output
+  -> aggregation and grade
+  -> post-harvest handling and cold continuity
+  -> processing and conversion
+  -> safety, packaging and traceability
+  -> warehousing, logistics, retail and export
+  -> jobs, nutrition, farmer realisation and environmental outcome
+
+OPTIONAL ADVANCED DEPTH
+market power -> contract allocation -> differentiation -> additionality -> resilience
 ```
 
-The roadmap follows a product rather than a scheme list. It begins where Topic 13 ended:
-the farmer has a marketable lot, but the lot is still seasonal, variable and often
-perishable. Topic 15 asks how that lot becomes a safer, longer-lived, differentiated
-product and whether the added value reaches farmers, workers and consumers.
+Lessons 1-16 complete the Core before Lessons 17-18 add optional analytical depth. The sequence follows product, information, money and risk rather than a scheme catalogue.
 
 ---
 
 ## Lesson 1 - From marketed crop to processed food
 
-**Progress: 1/16 | Stage: Foundation | Subtopic: Scope, chain and the bridge from Topic 13**
+Progress: 1/18 | Stage: Foundation | Subtopic: Scope, chain and the bridge from Topic 13
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical Basic/Advanced owners, complete package, solved workbook, Ramesh Singh food-processing chapter and Economic Survey 2025-26 queried
+Book context: Ramesh Singh food-processing chapter and Economic Survey 2025-26 queried
 CA search: "official Economic Survey 2025-26 food processing organised manufacturing employment PMKSY"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; food-processing data carry status dates of 30 November and 31 December 2025
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -131,60 +135,29 @@ returns.
 9. Topic 13 supplies the market-and-aggregation base; Topic 15 adds transformation.
 10. Define the boundary before citing a scheme or statistic.
 
-### Practice - finding the real scope
+### Concept check
 
-**MCQ 1.** Which description best captures the food-processing ecosystem?
+**Question:** How can handling belong to food processing without chemical transformation?
 
-A. Transformation plus linked handling, packaging, testing, logistics and market services
-B. Only factory conversion of raw food into a chemically altered product
-C. Only cold storage owned by the government
-D. Agricultural production before harvest
+**Model answer:** Cleaning, grading, chilling, packing and preservation change usability, safety, shelf life or marketability and connect raw output to later transformation and sale.
 
-**Answer: A**
+**Misconception to avoid:** Do not define the sector as factories alone; related industries and chain services are examinable.
 
-- **A is correct:** it includes processing and the related industries required by the syllabus.
-- **B is wrong:** processing ranges from basic handling to substantial transformation.
-- **C is wrong:** cold storage is one possible node, not the full ecosystem.
-- **D is wrong:** cultivation is upstream production, though it affects processing suitability.
+### Responsive Mains practice
 
-**MCQ 2.** Which statement most accurately distinguishes scope from significance?
+**Mains question (10 marks; 150-word ceiling):** Why must food processing be written as an ecosystem rather than a factory boundary?
 
-A. Scope measures profits; significance lists machinery.
-B. Scope identifies activities; significance evaluates their economic and social effects.
-C. Scope applies to Prelims; significance applies only to Mains.
-D. There is no useful distinction.
+**Mains model:** Food processing begins after harvest and extends from cleaning, grading and preservation to transformation, packaging, testing, storage, logistics, branding and sale. Product quality is created and protected across these linked nodes. A tomato-pulp plant cannot operate without graded supply, timely transport, food-safety testing, packaging and buyers. This wider boundary also explains employment beyond the factory in aggregation, refrigeration, machinery, laboratories and distribution. The 2022 GS-III scope-and-significance demand is therefore best answered by mapping the complete chain. Yet cultivation remains upstream production, and a higher processed-food price does not prove that farmers captured the gain.
 
-**Answer: B**
+**Lesson-specific scoring rubric:** 2 marks boundary; 3 chain; 2 example; 2 significance; 1 distributional qualification.
 
-- **A is wrong:** neither term has that restricted meaning.
-- **B is correct:** this is the proper analytical separation.
-- **C is wrong:** both distinctions can appear in either examination stage.
-- **D is wrong:** the distinction directly structures several verified Mains demands.
-
-**Relevant PYQ linkage - 2022 GS-III Q4:** demand: scope and significance of food
-processing in India. Approach: define the chain, classify activities, then assess loss,
-income, jobs, nutrition, exports and regional development with one distributional
-qualification. No solved PYQ answer is supplied here.
-
-**Mains micro-model - 10 marks:** *Why is food processing wider than manufacturing?*
-
-**Model:** Food processing is an ecosystem rather than a plant boundary. It begins with
-sorting, grading and preservation; uses cold logistics, machinery, packaging, testing and
-finance; and ends in retail, institutional demand or export. Manufacturing changes the
-product, but the surrounding services maintain quality, establish trust and connect
-seasonal farm output with year-round demand. Its development can reduce avoidable loss,
-create rural non-farm work and diversify markets. Yet these gains depend on reliable
-upstream supply, downstream competition and fair contracts; a new plant alone does not
-guarantee farmer income or consumer welfare.
-
-**Transition:** Once the chain is visible, the next question is what "added value" means
-and who receives it.
+**Transition:** With the boundary fixed, separate value creation from value capture.
 
 ---
 
 ## Lesson 2 - What value addition really measures
 
-**Progress: 2/16 | Stage: Foundation | Subtopic: Utility, accounting value and farmer capture**
+Progress: 2/18 | Stage: Foundation | Subtopic: Utility, accounting value and farmer capture
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical value-addition distinction and OCR-searchable Ramesh Singh discussion of farm-to-plate processing queried
@@ -280,68 +253,34 @@ competition policy, farmer aggregation and credible contracts.
 9. Evaluate absolute farmer net return and share in final value.
 10. A good answer states who creates, bears and captures value.
 
-### Practice - separating price, value and distribution
+### Concept check
 
-**MCQ 3.** A processor sells output worth Rs 15 lakh after using intermediate inputs worth
-Rs 9 lakh. Ignoring taxes on products, its accounting value added is:
+**Question:** Why can processor value added rise while the farmer's final-price share falls?
 
-A. Rs 24 lakh
-B. Rs 15 lakh
-C. Rs 6 lakh
-D. Rs 9 lakh
+**Model answer:** Processor value added is output minus intermediate consumption; farmer capture depends on procurement price, grade, deductions, contracts and buyer competition. They can move oppositely.
 
-**Answer: C**
+**Misconception to avoid:** Do not treat value added, profit, final price and farmer income as synonyms.
 
-- **A is wrong:** it adds rather than subtracts intermediate consumption.
-- **B is wrong:** that is gross output or sales value.
-- **C is correct:** Rs 15 lakh minus Rs 9 lakh equals Rs 6 lakh.
-- **D is wrong:** that is the value of intermediate inputs.
+### Responsive Mains practice
 
-**MCQ 4.** Which observation most strongly shows that value addition need not raise farmer
-income?
+**Mains question (10 marks; 150-word ceiling):** Explain the difference between creating value and transmitting value to farmers.
 
-A. The product has a longer shelf life.
-B. The processor employs packaging workers.
-C. The final product meets a safety standard.
-D. One dominant buyer can retain the gain through weak procurement competition.
+**Mains model:** Value is created through form, time, place, safety, quality, convenience or brand utility. Accounting value added is output minus intermediate consumption. Farmer transmission is a separate bargaining question. Processing may reduce distress sale and reward quality, but final price also covers conversion loss, energy, packaging, finance, logistics and retail. If one processor controls procurement or uses opaque grading and delayed payment, its value added may rise without a farm-gate gain. FPO aggregation, transparent assaying, competing buyers, fair rejection clauses and prompt payment improve transmission. The outcome is cost-adjusted farmer realisation and share in realised value, not retail price alone.
 
-**Answer: D**
+**Lesson-specific scoring rubric:** 2 marks definition; 3 creation; 2 transmission; 2 remedies; 1 indicator.
 
-- **A is wrong:** longer life can help but does not decide distribution.
-- **B is wrong:** employment is a separate benefit.
-- **C is wrong:** standards create trust but do not allocate margins.
-- **D is correct:** buyer power can prevent transmission of added value upstream.
-
-**Relevant PYQ linkage - 2020 GS-III Q4:** demand: challenges and opportunities of food
-processing for raising farmer income. Approach: separate value creation from value
-capture; organise opportunities and bottlenecks around loss, demand, grade, contract,
-competition and farmer net return. No solved PYQ answer is supplied here.
-
-**Mains micro-model - 10 marks:** *Does a rise in processed-food sales necessarily improve
-farm income?*
-
-**Model:** Higher processed-food sales enlarge potential demand for farm output, but the
-income transmission is conditional. Farmers gain when processing reduces distress sales,
-accepts differentiated grades, lowers rejection and creates a stable procurement market.
-They may not gain when one buyer dominates, quality is measured opaquely, contracts shift
-weather and rejection risk upstream, or high intermediate costs absorb the margin.
-Therefore policy should combine FPO aggregation, transparent assaying, competing buyers,
-prompt payment and fair risk clauses. The relevant indicator is not retail sales alone but
-the farmer's cost-adjusted realisation and share in realised value.
-
-**Transition:** Value can be created by many methods, but methods differ in their effects
-on shelf life, safety and nutrition.
+**Transition:** Now judge processing methods by safety, shelf life and nutrition.
 
 ---
 
 ## Lesson 3 - Processing depth, preservation, nutrition and safety
 
-**Progress: 3/16 | Stage: Core | Subtopic: Methods, product change and consumer welfare**
+Progress: 3/18 | Stage: Core | Subtopic: Methods, product change and consumer welfare
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical processing definition, food-safety boundary and Ramesh Singh preservation discussion queried
 CA search: "site:fssai.gov.in food processing safety fortification labelling official 2026"
-CA found: Stable regulatory concepts used; no undated product-specific enforcement claim is imported, retrieval cutoff 24 September 2026
+CA found: FSSAI regulations page accessed 24 September 2026 and rechecked 3 October 2026; these are access dates, not publication dates, and no undated product-specific enforcement claim is imported
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - choose a method for the hazard and objective
@@ -415,66 +354,34 @@ training, common labs and phased formalisation rather than lowering safety.
 9. Compliance costs are regressive when fixed costs are high.
 10. Shared labs can reconcile safety with small-enterprise inclusion.
 
-### Practice - method and welfare
+### Concept check
 
-**MCQ 5.** Which statement about food processing and nutrition is most accurate?
+**Question:** Why is the label 'processed' insufficient to judge nutrition or safety?
 
-A. Its nutritional effect depends on the product, method and consumption pattern.
-B. Every processed product has lower nutritional value than its raw input.
-C. Fortification eliminates the need for dietary diversity.
-D. Freezing necessarily adds chemical preservatives.
+**Model answer:** Pasteurisation, drying, freezing, fermentation and extrusion affect hazards, nutrients, shelf life and convenience differently; composition and degree must be examined.
 
-**Answer: A**
+**Misconception to avoid:** Do not equate all processing with ultra-processed food or assume preservation is harmful.
 
-- **A is correct:** processing has method- and diet-specific effects.
-- **B is wrong:** preservation, fermentation and fortification can produce nutritional gains.
-- **C is wrong:** fortification addresses selected nutrients, not the whole diet.
-- **D is wrong:** freezing preserves mainly through low temperature.
+### Responsive Mains practice
 
-**MCQ 6.** Why is food-safety regulation economically justified?
+**Mains question (10 marks; 150-word ceiling):** How should policy reconcile preservation, nutrition and food safety?
 
-A. Consumers know every hidden quality before purchase.
-B. Sellers may know more than consumers about contamination and process conditions.
-C. It guarantees every firm an export market.
-D. It removes the need for testing.
+**Mains model:** Processing should be judged by purpose, method and composition. Pasteurisation controls microbial risk; drying lowers water activity; freezing slows deterioration; fermentation can improve preservation and digestibility; excessive refining or added salt, sugar and fat may create nutritional concerns. Food-safety regulation addresses hidden hazards, while labelling and composition standards address information asymmetry. Policy should maintain science-based safety floors, encourage reformulation and truthful labels, and help small units meet hygiene, testing and record requirements through shared facilities and training. The balanced objective is appropriate processing that preserves food and protects health without disguising poor nutritional quality.
 
-**Answer: B**
+**Lesson-specific scoring rubric:** 2 marks methods; 3 safety mechanism; 2 nutrition trade-off; 2 inclusion; 1 verdict.
 
-- **A is wrong:** the inability to observe hidden quality is the problem.
-- **B is correct:** this is information asymmetry.
-- **C is wrong:** conformity is necessary in many markets but not a sales guarantee.
-- **D is wrong:** testing is one instrument of assurance.
-
-**Relevant PYQ linkage - 2026 GS-III Q5:** the locally OCR-verified official paper asks
-how biotechnology helped Indian farmers in processing perishable crops, with two
-examples. This lesson supplies the processing-stage logic; Lesson 16 supplies the
-biotechnology answer route. No solved PYQ answer is supplied here.
-
-**Mains micro-model - 10 marks:** *Can food processing support both nutrition and
-enterprise development?*
-
-**Model:** Yes, if policy distinguishes useful processing from indiscriminate product
-promotion. Chilling, pasteurisation, drying and fermentation can reduce contamination and
-seasonal loss; fortification can address specified deficiencies; and convenient millet,
-dairy or fruit products can widen demand. Yet high sugar, salt or fat, misleading labels
-and weak hygiene can harm consumers. Regulation should enforce a non-negotiable safety
-floor, improve labels and testing, and help micro firms comply through training, common
-labs and suitable technology. The goal is safe, affordable and nutritionally responsible
-value addition, not processing volume alone.
-
-**Transition:** Many preservation methods depend on temperature, so the next lesson treats
-the cold chain as a continuity problem.
+**Transition:** Method choice leads to the continuity problem between nodes.
 
 ---
 
 ## Lesson 4 - Cold-chain continuity
 
-**Progress: 4/16 | Stage: Core | Subtopic: Temperature, time and broken-link diagnosis**
+Progress: 4/18 | Stage: Core | Subtopic: Temperature, time and broken-link diagnosis
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical cold-chain nodes, local book definition of unbroken farm-gate-to-consumer infrastructure and Topic 13 perishable-chain bridge queried
 CA search: "site:mofpi.gov.in integrated cold chain value addition infrastructure official"
-CA found: MoFPI scheme page retrieved 24 September 2026 was a thin title shell; no project or capacity figure is inferred from it
+CA found: MoFPI scheme page accessed 24 September 2026 and rechecked 3 October 2026; these are access dates, not a publication date, and no project or capacity figure is inferred from the thin title shell
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - a chain is only as cold as its warmest break
@@ -562,76 +469,29 @@ environmental balance.
 9. Cold chains trade lower spoilage against energy and refrigerant costs.
 10. Diagnose continuity, suitability and use before quoting capacity.
 
-### Practice - cold-chain diagnosis
+### Concept check
 
-**MCQ 7.** Which situation is a complete cold-chain failure despite adequate cold-storage
-space?
+**Question:** Why can a modern cold store fail to reduce post-harvest loss?
 
-A. Produce is graded before storage.
-B. Temperature is recorded throughout movement.
-C. Field heat is not removed and unrefrigerated transport delays arrival.
-D. Storage uses backup power.
+**Model answer:** Quality may be lost before storage if harvesting or pre-cooling is delayed, and after storage if reefer movement, monitoring, power or last-mile handling breaks continuity.
 
-**Answer: C**
+**Misconception to avoid:** Do not describe cold-storage capacity as an end-to-end chain or assume cooling restores damage.
 
-- **A is wrong:** grading can improve lot management.
-- **B is wrong:** monitoring strengthens continuity.
-- **C is correct:** quality can deteriorate before the commodity reaches storage.
-- **D is wrong:** backup power reduces outage risk.
+### Responsive Mains practice
 
-**MCQ 8.** Which indicator best measures utilisation rather than installed capacity?
+**Mains question (10 marks; 150-word ceiling):** Discuss post-harvest loss as a chain failure and propose a cold-chain response.
 
-A. Number of scheme guidelines
-B. Maximum designed tonnes at one time
-C. Amount sanctioned for construction
-D. Tonnes actually handled over a stated period relative to usable capacity
+**Mains model:** Post-harvest loss includes quantitative loss, quality deterioration, rejection and avoidable value loss. A cold chain works only when commodity-appropriate temperature and time are controlled from packhouse and pre-cooling through storage, reefer transport, processing or retail. A warm first mile may cause irreversible damage. Policy must map commodity flow, locate transfer breaks, connect pre-cooling, suitable storage, reefer capacity, sensors, backup power and trained technicians, and secure throughput through aggregation and buyers. Dry warehousing remains more suitable for many cereals. Evaluation should use loss, rejection, temperature compliance, tonnes handled and farmer netback rather than installed cold-storage tonnes.
 
-**Answer: D**
+**Lesson-specific scoring rubric:** 2 marks loss taxonomy; 3 continuity; 2 commodity distinction; 2 metrics; 1 qualification.
 
-- **A is wrong:** documents are not physical use.
-- **B is wrong:** that is a capacity stock.
-- **C is wrong:** sanction is a financial stage.
-- **D is correct:** it compares realised throughput with available capacity.
-
-**MCQ 9.** A refrigerated product records a two-hour warm excursion during transfer and
-is cooled again afterward. Which conclusion is most accurate?
-
-A. Re-cooling may slow further deterioration but cannot be assumed to reverse damage already caused.
-B. The excursion is irrelevant once the final storage temperature is correct.
-C. A temperature record alone proves that the product is safe.
-D. The product must always be discarded without risk assessment.
-
-**Answer: A**
-
-- **A is correct:** temperature history matters, and later cooling does not restore lost quality.
-- **B is wrong:** time outside the required range can affect quality or safety.
-- **C is wrong:** a record informs assessment but does not itself prove safety.
-- **D is wrong:** disposition depends on the product, excursion and applicable safety assessment.
-
-**Relevant PYQ linkage - 2025 GS-III Q4 on agricultural supply-chain management:** cold
-chains form one downstream segment. Approach: place cooling inside product, information,
-money and risk flows; avoid presenting storage as the complete chain. No solved PYQ
-answer is supplied here.
-
-**Mains micro-model - 10 marks:** *Why can cold-storage expansion fail to reduce
-post-harvest loss?*
-
-**Model:** Storage works only inside an unbroken, commodity-appropriate chain. Produce may
-lose quality before arrival if packhouses, field heat removal and first-mile transport are
-missing. A store may also be badly located, designed for another commodity, power
-constrained or underused because aggregation and buyers are weak. Even after storage,
-unrefrigerated transfer and retail handling can recreate loss. Policy should therefore
-measure end-to-end temperature compliance and throughput, not merely installed tonnes,
-while supporting monitoring, reliable power, reefer movement and viable market linkage.
-
-**Transition:** Continuity is partly a location problem. Processing and cooling assets must
-sit where raw material, infrastructure and markets can support them.
+**Transition:** A complete chain must also be located intelligently.
 
 ---
 
 ## Lesson 5 - Why processing locates where it does
 
-**Progress: 5/16 | Stage: Core | Subtopic: Raw material, market, infrastructure and cluster logic**
+Progress: 5/18 | Stage: Core | Subtopic: Raw material, market, infrastructure and cluster logic
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Official syllabus location clause, canonical cluster economics and locally verified 2019 GS-I localisation route queried
@@ -723,47 +583,29 @@ training, aggregation and demand alongside the plant.
 9. Regional inclusion needs an ecosystem, not an isolated factory.
 10. A location answer must combine material, market, infrastructure and institutions.
 
-### Practice - location logic
+### Concept check
 
-**MCQ 10.** What is the central economic rationale for a processing cluster?
+**Question:** Why may perishability pull processing farmward while branding pulls it marketward?
 
-A. Every firm must produce the same product.
-B. Firms can share fixed-cost facilities, suppliers, skills and market linkages.
-C. Competition between processors is legally eliminated.
-D. Raw-material seasonality disappears.
+**Model answer:** Location minimises raw-material transport, conversion loss, perishability, power, labour, infrastructure and final-market costs; products weight them differently.
 
-**Answer: B**
+**Misconception to avoid:** Do not use 'near raw material' universally or confuse a cluster with land allotment.
 
-- **A is wrong:** complementary or multi-product activity may be superior.
-- **B is correct:** shared external economies are the cluster logic.
-- **C is wrong:** competition may remain and is desirable for procurement.
-- **D is wrong:** clusters manage but do not abolish biological seasonality.
+### Responsive Mains practice
 
-**Relevant PYQ linkage - 2019 GS-I Q7:** locally routed demand concerns localisation of
-agro-based food processing in North-West India. Approach: combine raw-material surplus,
-irrigation and procurement legacy with infrastructure, market, skills and agglomeration;
-then qualify regional and resource costs. No solved PYQ answer is supplied here.
+**Mains question (10 marks; 150-word ceiling):** Analyse the location of agro-based food-processing industries in India.
 
-**Mains micro-model - 10 marks:** *Why are agro-processing clusters more than industrial
-estates?*
+**Mains model:** Location follows delivered cost, perishability and coordination. Sugar mills and primary fruit processing are pulled towards bulky or rapidly deteriorating inputs; bakeries and branded convenience foods may be market-oriented. Dairy, marine and frozen chains need reliable chilling, power and transport. Clusters lower common costs through collection, testing, effluent treatment, packaging, maintenance, skills and anchor buyers. North-West India's base reflects surplus, irrigation and procurement history, roads, power and markets, but concentration carries groundwater and regional-balance costs. A sound answer combines material, conversion ratio, market, infrastructure, policy legacy and agglomeration.
 
-**Model:** An industrial estate provides land and utilities; an effective agro-processing
-cluster coordinates a biological and commercial system. It links farm aggregation and
-quality supply with common cold facilities, testing, packaging, effluent treatment,
-skills, finance and anchor buyers. Shared fixed costs can make services affordable for
-smaller firms and multi-product activity can improve seasonal utilisation. Yet a cluster
-fails when land and buildings precede raw-material planning, occupancy and market demand.
-Its success should therefore be judged by throughput, firm survival, farmer linkage and
-realised sales rather than sanctioned area or constructed sheds.
+**Lesson-specific scoring rubric:** 2 marks framework; 3 examples; 2 clusters; 2 regional qualification; 1 synthesis.
 
-**Transition:** Location works only if the processor can assemble a reliable upstream
-supply of the required quantity and quality.
+**Transition:** Location works only if reliable raw material arrives.
 
 ---
 
 ## Lesson 6 - Upstream requirements
 
-**Progress: 6/16 | Stage: Core | Subtopic: Aggregation, FPOs, quality supply and contracts**
+Progress: 6/18 | Stage: Core | Subtopic: Aggregation, FPOs, quality supply and contracts
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical backward-linkage, contract-risk and FPO bridge; Topic 13 lessons on aggregation and netback queried
@@ -847,62 +689,29 @@ payment, local dispute mechanisms and multiple potential buyers.
 9. Buyer alternatives strengthen farmer bargaining.
 10. Backward linkage succeeds when technical coordination and fair exchange coexist.
 
-### Practice - upstream design
+### Concept check
 
-**MCQ 11.** Which contract feature most directly limits opportunistic quality rejection?
+**Question:** Why is backward linkage more than a promise to buy?
 
-A. A broad promise to support farmers
-B. A long brand description
-C. A measurable quality schedule, sampling protocol and appeal mechanism
-D. A requirement that all disputes remain oral
+**Model answer:** It specifies quantity, grade, variety, timing, price and risk allocation and may supply extension, inputs or aggregation; otherwise usable throughput is uncertain.
 
-**Answer: C**
+**Misconception to avoid:** Do not assume contracts are automatically fair or FPO formation creates professional management.
 
-- **A is wrong:** a general promise is not enforceable measurement.
-- **B is wrong:** branding does not govern procurement disputes.
-- **C is correct:** it makes quality decisions observable and contestable.
-- **D is wrong:** oral-only resolution increases uncertainty.
+### Responsive Mains practice
 
-**MCQ 12.** Which statement about FPO linkage is most accurate?
+**Mains question (10 marks; 150-word ceiling):** How can upstream arrangements raise supply reliability without shifting excessive risk?
 
-A. An FPO automatically removes all crop risk.
-B. An FPO guarantees the highest market price.
-C. An FPO makes professional management unnecessary.
-D. An FPO can aggregate lots and services, but needs governance, capital and buyers.
+**Mains model:** Processors need predictable quantity, variety, grade and timing; farmers need transparent terms and credible purchase. FPOs can aggregate lots, coordinate harvest, provide extension, reduce testing cost and strengthen negotiation. Contracts should specify quality measurement, price formula, rejection, input liability, delivery, payment, force majeure and disputes. Buyer linkage can reduce uncertainty, but captive procurement or unilateral grading can transfer risk. Competition, independent assaying, prompt settlement, accessible grievance systems and farmer access to records are essential. Measure completed procurement and farmer net realisation, not signed agreements.
 
-**Answer: D**
+**Lesson-specific scoring rubric:** 2 marks linkage; 3 FPO; 2 clauses; 2 safeguards; 1 metric.
 
-- **A is wrong:** biological and price risks remain.
-- **B is wrong:** aggregation improves bargaining possibilities, not guaranteed price.
-- **C is wrong:** collective business increases management needs.
-- **D is correct:** it states both mechanism and conditions.
-
-**Relevant PYQ linkage - 2020 GS-III Q4:** upstream challenges include fragmented lots,
-inconsistent quality, weak testing, finance and unequal contracts. Approach: connect each
-constraint to farmer-income transmission rather than listing schemes. No solved PYQ
-answer is supplied here.
-
-**Mains micro-model - 15 marks:** *How can processors build reliable backward linkages
-without weakening farmer bargaining?*
-
-**Model:** Reliable supply requires agreed varieties, quality attributes, harvest windows,
-aggregation and traceable delivery. Processors can provide demand signals, extension and
-assured procurement, while FPOs pool lots, services and negotiation. The risk is captive
-procurement: opaque grades, unilateral rejection, delayed payment and input-linked debt may
-transfer uncertainty to farmers. A fair architecture needs measurable specifications,
-independent sampling, price or premium formulae, prompt digital payment, force-majeure
-risk sharing, accessible dispute resolution and alternative buyers. Backward linkage
-should be judged by repeated farmer participation and cost-adjusted realisation, not
-contract enrolment alone.
-
-**Transition:** Once a safe, standard lot is processed, value still depends on reaching
-buyers with product integrity and credible information.
+**Transition:** Reliable procurement must be matched by downstream integrity.
 
 ---
 
 ## Lesson 7 - Downstream requirements
 
-**Progress: 7/16 | Stage: Core | Subtopic: Packaging, logistics, retail, exports and traceability**
+Progress: 7/18 | Stage: Core | Subtopic: Packaging, logistics, retail, exports and traceability
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical forward-linkage, branding, traceability and SPS material plus local book treatment of packaging and agri-export linkage queried
@@ -991,64 +800,34 @@ power away from producers. Competition and producer-owned branding matter.
 9. Export share, export value and profitability are different indicators.
 10. Downstream failure can destroy value created upstream.
 
-### Practice - trust and market access
+### Concept check
 
-**MCQ 13.** Which statement best describes traceability?
+**Question:** Why do packaging and traceability create value rather than only compliance cost?
 
-A. It links a product or batch to its origin and movement through recorded chain stages.
-B. It guarantees that the product is nutritious.
-C. It replaces laboratory testing.
-D. It is identical to an export subsidy.
+**Model answer:** Packaging protects and informs; traceability permits origin verification, recall and responsibility. They reduce hidden-quality risk and open organised and export markets.
 
-**Answer: A**
+**Misconception to avoid:** Do not merge warehousing with cold chain or treat export conformity as tariffs alone.
 
-- **A is correct:** that is the chain-evidence function.
-- **B is wrong:** nutrition requires separate assessment.
-- **C is wrong:** testing and traceability answer different questions.
-- **D is wrong:** it is an information system, not fiscal support.
+### Responsive Mains practice
 
-**MCQ 14.** Which statement correctly distinguishes FSSAI and APEDA?
+**Mains question (10 marks; 150-word ceiling):** Explain the downstream requirements of a competitive processing sector.
 
-A. APEDA is India's domestic food-safety regulator.
-B. FSSAI regulates food safety within its mandate; APEDA supports relevant export development and market access.
-C. Both are private certification companies.
-D. FSSAI sets customs tariffs while APEDA runs the PDS.
+**Mains model:** A processed product must retain quality after the factory gate. Warehousing manages inventory; packaging protects against moisture, oxygen, contamination and damage while carrying information; logistics preserves delivery conditions; traceability links lots to origin; testing builds trust. Export access depends on SPS requirements, technical standards, residues and documentation, not tariffs alone. APEDA supports market access, while FSSAI governs domestic food safety. Shared laboratories, digital records, appropriate packaging and reliable logistics can lower fixed costs. Market access requires repeated conformity, not a one-time certificate.
 
-**Answer: B**
+**Lesson-specific scoring rubric:** 2 marks chain; 3 functions; 2 institutions; 2 exports; 1 consistency qualification.
 
-- **A is wrong:** it misstates APEDA's function.
-- **B is correct:** it preserves the institutional boundary.
-- **C is wrong:** both are statutory/public institutional actors, not private firms.
-- **D is wrong:** neither description is accurate.
-
-**Relevant PYQ linkage - 2025 GS-III Q14:** employment measures should include downstream
-packaging, testing, logistics, marketing and export roles, not only plant labour. No
-solved PYQ answer is supplied here.
-
-**Mains micro-model - 10 marks:** *Why are packaging and traceability productive
-infrastructure rather than cosmetic additions?*
-
-**Model:** Packaging preserves quality during storage and transport, reduces damage,
-communicates safe use and enables standard handling. Traceability connects origin, batch,
-movement and sale, allowing targeted recall and investigation. Together they reduce
-information and transaction costs and can open organised retail or export channels.
-However, excessive packaging raises material waste, while traceability with unreliable
-data creates false assurance. Policy should promote fit-for-purpose, recyclable packaging,
-interoperable records, credible testing and affordable common services for small firms.
-
-**Transition:** These trust systems operate through institutions whose mandates must not
-be merged.
+**Transition:** Downstream functions divide institutional responsibility.
 
 ---
 
 ## Lesson 8 - Institutions and standards
 
-**Progress: 8/16 | Stage: Core | Subtopic: MoFPI, FSSAI, APEDA, Codex and SPS**
+Progress: 8/18 | Stage: Core | Subtopic: MoFPI, FSSAI, APEDA, Codex and SPS
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical institutional architecture, food-safety information asymmetry and OCR book treatment of Codex and quality assurance queried
 CA search: "official MoFPI FSSAI APEDA mandates food processing standards"
-CA found: Institutional mandates checked to retrieval cutoff 24 September 2026; no time-sensitive project count is used
+CA found: Institutional mandates verified through 3 October 2026; individual page-access and publication dates are separated in the source ledger, and no time-sensitive project count is used
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - four different questions
@@ -1128,63 +907,29 @@ traceability capacity.
 9. Certification does not guarantee sales.
 10. Institutional mandates should be stated before scheme details.
 
-### Practice - institutional precision
+### Concept check
 
-**MCQ 15.** Which institution is primarily associated with food-safety regulation in
-India within its statutory mandate?
+**Question:** Why is APEDA not India's domestic food-safety regulator?
 
-A. APEDA
-B. MoFPI alone
-C. FSSAI
-D. Food Corporation of India
+**Model answer:** FSSAI performs the statutory food-safety role; APEDA develops specified agricultural and processed-food exports, while MoFPI frames sector programmes.
 
-**Answer: C**
+**Misconception to avoid:** Do not interchange promotion, regulation, standards, export facilitation and coordination.
 
-- **A is wrong:** APEDA's principal route here is export development.
-- **B is wrong:** MoFPI is the sector-development ministry, not the sole food regulator.
-- **C is correct:** FSSAI is the relevant food-safety authority.
-- **D is wrong:** FCI manages procurement, storage and movement of foodgrains.
+### Responsive Mains practice
 
-**MCQ 16.** What is the best policy response when fixed testing costs exclude small
-processors?
+**Mains question (10 marks; 150-word ceiling):** Show how institutions and standards solve different chain failures.
 
-A. Remove all food-safety standards.
-B. Exempt every small unit from hygiene requirements.
-C. Ban large processors from testing.
-D. Preserve the safety floor while providing shared labs, training and proportionate procedures.
+**Mains model:** Food processing combines industrial coordination, consumer safety and external-market access, so no single institution owns the whole chain. MoFPI designs sector programmes. FSSAI sets and enforces food-safety requirements. APEDA develops scheduled agricultural and processed-food exports, including market and traceability support. Codex provides international reference points, while the WTO SPS framework permits health protection subject to scientific discipline and non-discrimination. FPOs, laboratories, State authorities and logistics firms operationalise quantity, testing and compliance. Policy must preserve credible safety while lowering fixed compliance costs through common facilities, training, finance and risk-based enforcement.
 
-**Answer: D**
+**Lesson-specific scoring rubric:** 2 marks mandates; 3 standards/SPS; 2 actors; 2 inclusion; 1 precision.
 
-- **A is wrong:** it transfers risk to consumers and credible firms.
-- **B is wrong:** enterprise size does not remove food hazards.
-- **C is wrong:** reducing large-firm testing does not help safety or inclusion.
-- **D is correct:** it addresses fixed cost without sacrificing protection.
-
-**Relevant PYQ linkage - 2019 GS-III Q14:** government policy for food-processing
-challenges must include regulatory capacity and standards alongside infrastructure,
-enterprise, skills and markets. No solved PYQ answer is supplied here.
-
-**Mains micro-model - 15 marks:** *Standards are both market enablers and entry
-barriers. Discuss.*
-
-**Model:** Standards protect consumers from hidden hazards, make quality comparable and
-create a common language for organised retail and exports. They therefore expand trusted
-demand. However, testing, documentation, upgraded premises and traceability impose fixed
-costs that weigh more heavily on micro firms. Abrupt formalisation can exclude otherwise
-viable enterprises or push activity underground. The answer is not weaker safety but
-capability-oriented compliance: common laboratories, technical extension, affordable
-certification, phased upgrades, risk-based inspection and interoperable records. Standards
-then become a ladder into higher-value markets rather than a wall around them.
-
-**Transition:** Institutions operate through policy instruments. The next two lessons
-separate infrastructure support, price stabilisation, output incentives and micro-enterprise
-formalisation.
+**Transition:** Mandates become concrete through policy instruments.
 
 ---
 
 ## Lesson 9 - Infrastructure policy
 
-**Progress: 9/16 | Stage: Advanced | Subtopic: PMKSY, integrated cold chain, clusters and Operation Greens**
+Progress: 9/18 | Stage: Core | Subtopic: PMKSY, integrated cold chain, clusters and Operation Greens
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical PMKSY, cold-chain, Mega Food Park and Operation Greens boundaries plus Economic Survey 2025-26 status figures queried
@@ -1271,75 +1016,29 @@ environmental services, occupancy and post-support viability.
 9. Viability needs raw material, users, power and markets.
 10. Evaluate infrastructure through throughput and beneficiary linkage.
 
-### Practice - scheme-stage discipline
+### Concept check
 
-**MCQ 17.** Which inference can safely be drawn from a reported count of completed
-processing projects?
+**Question:** Why can a completed food park underperform?
 
-A. Physical completion occurred under the reporting definition; utilisation and income effects require further evidence.
-B. Every project operates at full capacity.
-C. Farmer income rose by the same percentage.
-D. All supported firms became exporters.
+**Model answer:** Completion does not ensure occupancy, raw-material throughput, working capital, utilities, skilled operation or buyers. Common infrastructure creates capacity, not use.
 
-**Answer: A**
+**Misconception to avoid:** Do not treat PMKSY, Mega Food Parks, integrated cold chain and Operation Greens as interchangeable or timeless.
 
-- **A is correct:** it preserves the stage boundary.
-- **B is wrong:** operation and utilisation are unproven.
-- **C is wrong:** distributional effects need separate measurement.
-- **D is wrong:** completion does not establish export activity.
+### Responsive Mains practice
 
-**MCQ 18.** What problem does Operation Greens most directly recognise?
+**Mains question (10 marks; 150-word ceiling):** Evaluate infrastructure-led policy for food processing.
 
-A. Every crop must receive universal procurement.
-B. Perishable gluts can create price stress and need linked logistics or processing responses.
-C. Cold storage eliminates all agricultural risk.
-D. Food-safety regulation is unnecessary for perishables.
+**Mains model:** Infrastructure support addresses coordination failures: collection, primary processing, cold movement, common laboratories, packaging, utilities and central facilities. PMKSY has operated as an umbrella; Mega Food Parks illustrate hub-and-spoke infrastructure; integrated cold-chain support links preservation nodes; Operation Greens recognises perishable price and value-chain stress. Their logic is sound where fragmented supply and fixed costs deter investment. However, land, occupancy, raw-material radius, power, maintenance, co-investment and demand determine utilisation. Scheme components change over plan periods, so status must be dated. Evaluation must move from sanction and completion to operation, throughput, survival, farmer linkage and loss reduction.
 
-**Answer: B**
+**Lesson-specific scoring rubric:** 2 marks differentiation; 3 matching; 2 constraints; 2 results ladder; 1 status caution.
 
-- **A is wrong:** that is not its universal design.
-- **B is correct:** it captures the price-stabilisation and chain logic.
-- **C is wrong:** demand, power, quality and price risks remain.
-- **D is wrong:** perishability strengthens rather than removes safety concerns.
-
-**MCQ 19.** Which project design most directly addresses a coordination failure?
-
-A. A stand-alone shed with no identified users
-B. A grant that ignores raw-material supply
-C. Shared testing, treatment and cold facilities tied to committed processors and suppliers
-D. A capacity target without a market plan
-
-**Answer: C**
-
-- **A is wrong:** construction without users does not coordinate a chain.
-- **B is wrong:** raw-material continuity is essential to viability.
-- **C is correct:** common assets and committed users address simultaneous-investment problems.
-- **D is wrong:** capacity without demand can become stranded.
-
-**Relevant PYQ linkage - 2019 GS-III Q14:** approach: classify government policy into
-infrastructure, enterprise, standards, skills, finance and market linkage; then evaluate
-implementation stages and outcomes. No solved PYQ answer is supplied here.
-
-**Mains micro-model - 15 marks:** *How should infrastructure support for food processing
-be evaluated?*
-
-**Model:** The first test is problem fit: common facilities may correct coordination and
-fixed-cost failures, while integrated cold chains address continuity and Operation
-Greens-type instruments address perishable price stress. The second test is the project
-ladder - sanction, construction, operation, utilisation and commercial outcome. The third
-is distribution: farmer linkage, small-firm access, jobs and consumer benefit. Finally,
-environmental performance and post-support viability matter. Project counts are useful
-administrative outputs, but policy success requires sustained throughput, lower loss,
-competitive procurement and realised value addition.
-
-**Transition:** Infrastructure support builds assets. Output incentives and micro-enterprise
-programmes target different constraints.
+**Transition:** Infrastructure creates potential; enterprise policy must activate it.
 
 ---
 
 ## Lesson 10 - Incentives and inclusion
 
-**Progress: 10/16 | Stage: Advanced | Subtopic: PLISFPI, PMFME, MSMEs and formalisation**
+Progress: 10/18 | Stage: Core | Subtopic: PLISFPI, PMFME, MSMEs and formalisation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical PLISFPI additionality boundary, small-processor constraints and Economic Survey 2025-26 PMFME/PLI status queried
@@ -1430,47 +1129,29 @@ and do spillovers reach suppliers, workers and smaller firms?
 9. Scheme-reported jobs are not automatically net additional formal jobs.
 10. Evaluate survival, productivity, market access and distribution.
 
-### Practice - instrument choice
+### Concept check
 
-**MCQ 20.** Which reform best represents capability-oriented formalisation?
+**Question:** Why should a large-firm performance incentive not substitute for micro capability support?
 
-A. Requiring compliance without technical support
-B. Treating registration as the final outcome
-C. Permanently exempting unsafe activity
-D. Combining finance, technology, training, common services and phased compliance
+**Model answer:** Large firms may need incremental scale and brand incentives; micro units face records, credit, technology, hygiene, packaging and market barriers. Failures differ.
 
-**Answer: D**
+**Misconception to avoid:** Do not count approvals as disbursals or formalisation as one-time registration.
 
-- **A is wrong:** it may force exclusion or evasion.
-- **B is wrong:** registration is only an entry stage.
-- **C is wrong:** safety cannot be permanently traded away.
-- **D is correct:** it builds the ability to comply and compete.
+### Responsive Mains practice
 
-**Relevant PYQ linkage - 2025 GS-III Q14:** government measures for employment should
-distinguish scale-oriented incentives from micro-enterprise support and examine jobs
-across direct, indirect, formal, informal and seasonal categories. No solved PYQ answer
-is supplied here.
+**Mains question (10 marks; 150-word ceiling):** Compare PLISFPI and PMFME as responses to different enterprise constraints.
 
-**Mains micro-model - 15 marks:** *Compare performance-linked incentives with
-micro-enterprise formalisation support in food processing.*
+**Mains model:** PLISFPI seeks scale, incremental eligible sales, brands and competitiveness; the evaluation question is additionality. PMFME addresses micro-enterprise capability through credit-linked support, training, common infrastructure, branding and ODOP. A micro unit may possess product knowledge but lack accounts, collateral, testing or management. Formalisation should be a capability ladder. Large-firm incentives require disbursal, incremental output, supplier linkage and competition evidence; micro support requires survival, safer production, credit, productivity and market entry. Neither repairs aggregation, logistics or farmer bargaining alone.
 
-**Model:** Performance-linked incentives seek scale, incremental sales, technology and
-brands among eligible firms; their tests are additionality, disbursal discipline,
-competition and spillovers. Micro-enterprise support addresses a different failure:
-credit, old technology, hygiene, skills, packaging, records and local market access. It
-must combine finance with handholding and shared services. The instruments are
-complementary when large firms create supplier and contract-manufacturing opportunities
-without squeezing smaller units. Evaluation should track net jobs, firm survival,
-productivity, market access and value distribution rather than approvals alone.
+**Lesson-specific scoring rubric:** 2 marks distinction; 3 failures; 2 evidence; 2 formalisation; 1 qualification.
 
-**Transition:** Neither grants nor incentives make an uneconomic plant viable. The next
-lesson opens the processor's operating account.
+**Transition:** Enterprise support still fails without operating economics.
 
 ---
 
 ## Lesson 11 - Plant economics
 
-**Progress: 11/16 | Stage: Advanced | Subtopic: Throughput, capacity use, finance, technology and skills**
+Progress: 11/18 | Stage: Core | Subtopic: Throughput, capacity use, finance, technology and skills
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical capacity-utilisation, seasonality, energy, procurement-radius and working-capital material queried
@@ -1559,65 +1240,34 @@ may be superior.
 9. Maintenance and cleaning are productive functions.
 10. Procurement radius can offset scale economies.
 
-### Practice - operating economics
+### Concept check
 
-**MCQ 21.** A plant's fixed cost remains unchanged while annual throughput doubles. Other
-things equal, fixed cost per tonne:
+**Question:** Why does a technically ready plant need throughput and working capital?
 
-A. Falls by half
-B. Doubles
-C. Remains unchanged
-D. Becomes a variable cost
+**Model answer:** Fixed cost per unit falls with adequate processing, while cash finances procurement, inventories and operations before sales. A plant can be ready yet financially idle.
 
-**Answer: A**
+**Misconception to avoid:** Do not equate capacity with utilisation, output, sales, value added or profit.
 
-- **A is correct:** the same fixed cost is spread over twice the throughput.
-- **B is wrong:** that reverses the relationship.
-- **C is wrong:** total fixed cost is unchanged, not fixed cost per unit.
-- **D is wrong:** cost classification does not change because utilisation changes.
+### Responsive Mains practice
 
-**MCQ 22.** Which situation is primarily a working-capital problem?
+**Mains question (10 marks; 150-word ceiling):** Explain how processing capacity becomes a stranded asset.
 
-A. The product recipe is technically impossible.
-B. The firm must pay farmers now but receives retailer payment after 60 days.
-C. The factory is permanently outside the raw-material region.
-D. The food standard prohibits the product.
+**Mains model:** Plants carry fixed costs in buildings, machinery, refrigeration and compliance. Seasonal supply and dispersed farms can leave them underused, raising unit cost. Processors also pay for raw material, labour, energy, packaging and inventory before revenue, creating a working-capital cycle. Unreliable power, unsuitable technology, maintenance, scarce skills and uncertain buyers deepen the problem. Multi-product design, staggered sourcing, FPO contracts, warehouse or receivables finance, maintenance, technicians and buyer commitments improve use. Metrics are operating days, tonnes, yield, rejection, energy, cash cycle and survival, not installed tonnes.
 
-**Answer: B**
+**Lesson-specific scoring rubric:** 2 marks costs; 3 mechanism; 2 technology/skills; 2 remedies; 1 conclusion.
 
-- **A is wrong:** that is a technology or product-feasibility problem.
-- **B is correct:** it creates a cash timing gap.
-- **C is wrong:** that is mainly a location and logistics problem.
-- **D is wrong:** that is a regulatory-product constraint.
-
-**Relevant PYQ linkage - 2020 and 2022 GS-III:** capacity, credit, infrastructure and
-skills explain why apparent potential does not become realised significance. No solved
-PYQ answer is supplied here.
-
-**Mains micro-model - 10 marks:** *Why is installed processing capacity a weak indicator
-of sector performance?*
-
-**Model:** Installed capacity records designed capability, not whether raw material,
-power, labour and buyers keep it operating. Seasonal procurement, unsuitable location,
-working-capital shortages, maintenance downtime and weak demand can leave assets idle.
-Even high throughput may generate little value if conversion yield, quality, price or
-cost is poor. A better dashboard separates usable capacity, annual throughput, capacity
-utilisation, saleable yield, realised value added and payment to suppliers. Policy should
-therefore support commercially coherent chains rather than maximise sanctioned tonnes.
-
-**Transition:** Plant viability is only one test. Public policy also asks whether jobs,
-nutrition and regional opportunity are broad-based.
+**Transition:** Operating viability determines the reality of employment claims.
 
 ---
 
 ## Lesson 12 - Jobs, nutrition and regional inclusion
 
-**Progress: 12/16 | Stage: Advanced | Subtopic: Employment nodes, women, small firms and consumer access**
+Progress: 12/18 | Stage: Core | Subtopic: Employment nodes, women, small firms and consumer access
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical employment-node, informality, nutrition and inclusion qualifications plus Economic Survey 2025-26 employment data queried
-CA search: "Economic Survey 2025-26 food processing 12.91 organised manufacturing employment"
-CA found: Economic Survey 2025-26, tabled 29 January 2026, reports a 12.91 percent share of organised-manufacturing employment; underlying ASI reference is for 2022-23
+Book context: Permitted Basic and Advanced owners plus Economic Survey 2025-26 employment and manufacturing-GVA evidence queried
+CA search: "official food processing 12.91 employment 7.93 manufacturing GVA 2023-24 PIB"
+CA found: Economic Survey 2025-26 reports the 12.91 percent organised-manufacturing employment share; PIB, published 12 December 2025, reports 7.93 percent of manufacturing GVA in 2023-24 (First Revised Estimates)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - jobs sit across the chain
@@ -1650,6 +1300,13 @@ employment in organised manufacturing, using the cited organised-sector evidence
 
 **Boundary:** It is not an economy-wide employment share and does not cover the entire
 unregistered segment.
+
+**Dated manufacturing anchor:** PIB's 12 December 2025 release reports that food
+processing contributed **7.93 percent of India's manufacturing GVA in 2023-24**, using
+First Revised Estimates.
+
+**GVA boundary:** This is the sector's share of manufacturing GVA for the stated period,
+not its share of total national GVA, informal-enterprise output or farmer income.
 
 ### Why women may benefit - and why they may not
 
@@ -1692,75 +1349,43 @@ village / district aggregation and primary processing
 2. Direct and indirect jobs must be separated.
 3. Seasonal work is not equivalent to stable full-time work.
 4. Organised-manufacturing shares exclude unregistered activity.
-5. Women workers and women owners are different categories.
-6. Finance and market control determine enterprise empowerment.
-7. Processing can improve nutrition through safety and availability.
-8. Product formulation and affordability can create contrary effects.
-9. Hub-and-spoke systems may support regional inclusion.
-10. Job policy should measure quality, continuity and progression.
+5. Food processing contributed 7.93 percent of manufacturing GVA in 2023-24 (First
+   Revised Estimates); this is not an economy-wide GVA share.
+6. Women workers and women owners are different categories.
+7. Finance and market control determine enterprise empowerment.
+8. Processing can improve nutrition through safety and availability.
+9. Product formulation and affordability can create contrary effects.
+10. Hub-and-spoke systems may support regional inclusion.
+11. Job policy should measure quality, continuity and progression.
 
-### Practice - employment integrity
+### Concept check
 
-**MCQ 23.** Which statement is valid when using the Survey's 12.91 percent employment
-figure?
+**Question:** Why can rising employment coexist with poor inclusion?
 
-A. It proves 12.91 percent of all Indian workers are in food processing.
-B. It covers every informal household processor.
-C. It is a share within organised manufacturing and must retain that denominator.
-D. It proves every processing job is permanent.
+**Model answer:** Jobs may be seasonal, informal, low-paid, unsafe or inaccessible to women without transport, sanitation, childcare, skills and asset control.
 
-**Answer: C**
+**Misconception to avoid:** Do not apply organised-sector shares economy-wide or treat every reported job as additional and durable.
 
-- **A is wrong:** it changes the denominator to the whole workforce.
-- **B is wrong:** organised-sector evidence does not cover all informal units.
-- **C is correct:** the denominator is essential to the fact.
-- **D is wrong:** an aggregate share says nothing about contract duration.
+### Responsive Mains practice
 
-**MCQ 24.** Which measure best tests women's economic empowerment under a processing
-programme?
+**Mains question (10 marks; 150-word ceiling):** Examine food processing as an employment and inclusion strategy.
 
-A. Number of women attending one launch event
-B. Number of forms distributed
-C. Total project outlay alone
-D. Sustained control over enterprise decisions, income, assets and market access
+**Mains model:** Food processing creates work in aggregation, grading, plants, machinery, refrigeration, packaging, testing, logistics, retail and exports. Official evidence can anchor its importance in registered manufacturing, but that denominator excludes the informal segment. Rural location may expand work for women and small towns, while millet, dairy, fish and horticulture processing diversify regional industry. Yet seasonality, contract work, safety and unpaid family labour limit welfare. Policy should combine infrastructure with skilling, transport, sanitation, childcare, formal records, safety and access to credit or ownership. Evaluate net additional jobs, duration, wages, formality, gender, location and progression.
 
-**Answer: D**
+**Lesson-specific scoring rubric:** 2 marks job map; 3 denominator/quality; 2 inclusion; 2 measures; 1 framework.
 
-- **A is wrong:** attendance is an activity count.
-- **B is wrong:** distribution does not establish participation.
-- **C is wrong:** spending does not show agency or benefit.
-- **D is correct:** it captures durable control and outcome.
-
-**Relevant PYQ linkage - 2025 GS-III Q14:** the question explicitly asks measures for
-generating employment. Approach: map job nodes, distinguish job quantity from quality,
-and evaluate scale, MSME, skills, women and regional dimensions. No solved PYQ answer is
-supplied here.
-
-**Mains micro-model - 15 marks:** *How can food processing generate inclusive rural
-employment?*
-
-**Model:** Employment arises in sorting, packhouses, cold logistics, processing,
-maintenance, testing, packaging and market services. Inclusion improves when FPOs and
-SHGs connect small producers, micro units receive finance and common facilities, and
-district-level primary processing links to regional hubs. Training must cover technology,
-food safety and management, not only manual operations. Policy should also prevent women
-from remaining in low-paid tasks by supporting asset ownership, credit and buyer access.
-Success requires stable, safer and progressively skilled work, measured beyond sanctioned
-projects or short-term direct-and-indirect job claims.
-
-**Transition:** Loss reduction and jobs are incomplete benefits if cooling, packaging and
-processing externalise environmental costs.
+**Transition:** Social gains must be netted against environmental costs.
 
 ---
 
 ## Lesson 13 - Environmental account
 
-**Progress: 13/16 | Stage: Advanced | Subtopic: Energy, refrigerants, water, waste and circularity**
+Progress: 13/18 | Stage: Core | Subtopic: Energy, refrigerants, water, waste and circularity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical cold-chain energy trade-off and by-product circular-bioeconomy material queried
 CA search: "food processing cold chain environmental energy refrigerants circular bioeconomy official India"
-CA found: No project-specific live figure used; environmental mechanisms are stated as stable concepts with retrieval cutoff 24 September 2026
+CA found: Official-source verification completed 3 October 2026; no project-specific live figure is used and the environmental mechanisms are treated as stable concepts
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - the full environmental ledger
@@ -1843,60 +1468,29 @@ their recovered value. Local material balance matters.
 9. Local use may outperform long-distance residue transport.
 10. Environmental performance should enter project appraisal and monitoring.
 
-### Practice - lifecycle reasoning
+### Concept check
 
-**MCQ 25.** Which statement best captures the environmental balance of a cold chain?
+**Question:** How can cold chains reduce embodied loss while increasing environmental burden?
 
-A. It can reduce embodied food loss but consumes energy and may create refrigerant impacts.
-B. It has no environmental benefit because it uses electricity.
-C. It has no environmental cost because it prevents spoilage.
-D. Its impact depends only on warehouse size.
+**Model answer:** They preserve land, water and energy embodied in food, yet consume electricity and refrigerants. Net benefit depends on avoided loss, efficiency, power and refrigerant management.
 
-**Answer: A**
+**Misconception to avoid:** Do not call loss reduction automatically green or classify every by-product as waste.
 
-- **A is correct:** it states both sides of the lifecycle account.
-- **B is wrong:** avoided loss can be a major benefit.
-- **C is wrong:** electricity, refrigerants and equipment have costs.
-- **D is wrong:** utilisation, technology, power source and route also matter.
+### Responsive Mains practice
 
-**MCQ 26.** What is usually the first preferred step in a circular processing hierarchy?
+**Mains question (10 marks; 150-word ceiling):** Construct an environmental account for processing and cold chains.
 
-A. Landfill all residues.
-B. Prevent avoidable waste before seeking recovery routes.
-C. Transport every residue to a distant biogas plant.
-D. Mix safe and hazardous streams.
+**Mains model:** Processing can avoid loss of water, land, fertiliser and labour embodied in food, but uses energy, water, refrigerants, chemicals and packaging. Dairy, meat, fish, starch and fruit units may create high-organic-load effluent; cold systems impose electricity and refrigerant costs. Apply a hierarchy: prevent loss, improve yield, recover edible co-products, use safe feed or materials, produce energy where viable, compost nutrients and dispose only residue. Efficient insulation, lower-impact refrigerants, renewable power, water reuse, treatment and producer responsibility improve lifecycle balance. Measure useful safe output and avoided loss per unit energy, water and emissions.
 
-**Answer: B**
+**Lesson-specific scoring rubric:** 2 marks lifecycle; 3 externalities; 2 hierarchy; 2 remedies; 1 qualification.
 
-- **A is wrong:** disposal is a last resort.
-- **B is correct:** prevention avoids the full burden.
-- **C is wrong:** distance and residue quality may make it inefficient.
-- **D is wrong:** mixing destroys safety and recovery value.
-
-**Relevant PYQ linkage - 2020 and 2022 GS-III:** environmental qualification strengthens
-answers on significance and opportunity by showing that loss reduction, energy and waste
-must be jointly managed. No solved PYQ answer is supplied here.
-
-**Mains micro-model - 15 marks:** *Food processing can reduce waste while creating new
-externalities. Examine.*
-
-**Model:** Processing and cooling can preserve the land, water and inputs embodied in
-otherwise spoiled food and can convert side streams into feed, ingredients, compost or
-energy. Yet inefficient refrigeration, high-impact refrigerants, water-intensive cleaning,
-organic effluent, long transport and excessive packaging create new burdens. Policy should
-use lifecycle appraisal, efficient equipment, cleaner power, leak control, water reuse,
-segregation and a recovery hierarchy that prioritises prevention and higher-value safe
-uses. Environmental success is lower net resource loss per unit of safe food delivered,
-not merely more processing capacity.
-
-**Transition:** The same policy cannot be copied across commodities. Biological and market
-properties change the correct chain.
+**Transition:** Environmental performance varies by commodity.
 
 ---
 
 ## Lesson 14 - Commodity decisions
 
-**Progress: 14/16 | Stage: Advanced | Subtopic: Fruit, dairy, fish, millet and palm-oil chains**
+Progress: 14/18 | Stage: Core | Subtopic: Fruit, dairy, fish, millet and palm-oil chains
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical boundary cases, allied-sector links and locally verified palm-oil concept route queried
@@ -1972,63 +1566,34 @@ chain" and "one cluster model" are false abstractions.
 9. Contaminated input cannot be rescued by branding.
 10. Commodity-specific diagnosis should precede scheme recommendation.
 
-### Practice - choose the chain
+### Concept check
 
-**MCQ 27.** Which pairing is most accurate?
+**Question:** Why is one cold-chain template unsuitable for milk, fish, grain and mango?
 
-A. Fish - no temperature control required after landing
-B. Milk - annual collection without chilling
-C. Oil-palm fruit - time-sensitive linkage to a processing mill
-D. Millet grain - identical microbial risk to warm raw milk
+**Model answer:** Their hazards, temperatures, shelf lives, conversion ratios, harvest patterns and markets differ. Grain needs dry storage; milk rapid chilling; fish icing/freezing; mango packhouse or processing choices.
 
-**Answer: C**
+**Misconception to avoid:** Do not infer chain design from 'perishable' or treat palm and palm-kernel oil as identical.
 
-- **A is wrong:** fish needs immediate hygienic cooling.
-- **B is wrong:** milk procurement is frequent and temperature-sensitive.
-- **C is correct:** harvest-to-mill timing is central.
-- **D is wrong:** the commodity risks and moisture conditions differ.
+### Responsive Mains practice
 
-**MCQ 28.** Which statement preserves the verified palm-oil concept boundary?
+**Mains question (10 marks; 150-word ceiling):** Compare the processing logic of major food subsectors.
 
-A. Palm oil and palm-kernel oil are identical because both come from the kernel.
-B. Oil palm originated in South America and cannot be used in biodiesel.
-C. All palm derivatives are used only as edible oil.
-D. Palm oil mainly comes from the mesocarp; palm-kernel oil comes from the kernel.
+**Mains model:** Commodity biology determines chain design. Fruit and vegetables need sorting, grading, packhouses, pre-cooling or pulping. Milk needs daily collection, chilling, testing and conversion. Fish and meat require hygiene, rapid temperature control and traceability. Cereals and pulses need drying, pest-safe warehousing and milling rather than universal refrigeration. Millets require cleaning, dehulling, formulation and demand creation. Oilseeds require extraction and refining economics; the 2021 objective route requires separating oil-palm origin, palm oil, palm-kernel oil, food uses and biodiesel without inferring an unavailable official key. Start with commodity-specific hazard, time, temperature, conversion and market maps.
 
-**Answer: D**
+**Lesson-specific scoring rubric:** 2 marks principle; 4 subsectors; 2 palm distinction; 1 implication; 1 qualification.
 
-- **A is wrong:** the oils come mainly from different fruit parts.
-- **B is wrong:** African oil palm originated in tropical Africa, and biodiesel use is possible.
-- **C is wrong:** palm derivatives also have non-food uses.
-- **D is correct:** it states the key anatomical distinction.
-
-**Relevant PYQ linkage - 2021 Prelims GS-I Q52:** concept route: oil-palm origin, product
-parts, uses and biodiesel. Provenance: locally verified routing ledger; official answer
-key unavailable locally, so no key is stated. No solved answer is supplied.
-
-**Mains micro-model - 10 marks:** *Why must food-processing policy be commodity-specific?*
-
-**Model:** Commodities differ in perishability, harvest rhythm, conversion yield, safety
-risk and market form. Milk and fish need immediate cooling and hygienic handling; fruit
-processing must manage gluts and bruising; oil-palm fruit requires rapid mill linkage;
-dry millet can travel farther but needs moisture, shelf-life and product-formulation
-management. Consequently, infrastructure, finance, location, testing and contract design
-cannot be copied mechanically. Policy should begin with a commodity flow map and its
-binding failure, then choose the smallest coherent set of interventions.
-
-**Transition:** Commodity design shows why governance must evaluate the whole result chain,
-not celebrate one administrative milestone.
+**Transition:** Commodity design enables rigorous programme evaluation.
 
 ---
 
 ## Lesson 15 - Governance and evaluation
 
-**Progress: 15/16 | Stage: Mastery | Subtopic: Sanction, operation, outcomes and distribution**
+Progress: 15/18 | Stage: Core mastery | Subtopic: Sanction, operation, outcomes and distribution
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical stage distinctions, scheme cautions, competition and contract trade-offs queried
 CA search: "official food processing scheme outcome evaluation sanction disbursal utilisation"
-CA found: Dated Survey and PIB administrative outputs are available; causal outcome claims remain qualified to retrieval cutoff 24 September 2026
+CA found: Dated Survey and PIB administrative outputs verified through 3 October 2026; causal outcome claims remain qualified and page-access dates are not presented as publication dates
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - the results ladder
@@ -2113,66 +1678,34 @@ portfolio of immediate output and medium-term outcome measures.
 9. Competition and grievance systems shape farmer benefit.
 10. Evaluation must include environmental performance.
 
-### Practice - evidence discipline
+### Concept check
 
-**MCQ 29.** Which evidence most strongly supports a claim that a cold-chain project is
-commercially functioning?
+**Question:** Why is '100 projects sanctioned' an input rather than an outcome claim?
 
-A. Repeated throughput, temperature compliance, sales and user payments over a stated period
-B. The original press announcement
-C. The sanctioned grant amount
-D. The number of foundation stones
+**Model answer:** Sanction is an administrative decision. Construction, operation, utilisation, survival, loss reduction, farmer payment and durable jobs are later stages.
 
-**Answer: A**
+**Misconception to avoid:** Do not upgrade approvals, MoUs, installed capacity or gross jobs into welfare outcomes.
 
-- **A is correct:** it demonstrates operation and use.
-- **B is wrong:** announcement precedes implementation.
-- **C is wrong:** sanction is a funding decision.
-- **D is wrong:** a ceremony is not an operating outcome.
+### Responsive Mains practice
 
-**MCQ 30.** Which statement is the best causal caution?
+**Mains question (10 marks; 150-word ceiling):** Design an evaluation framework for food-processing programmes.
 
-A. Any rise after a scheme is entirely caused by it.
-B. Observed change should be tested against baseline, mechanism and alternative explanations.
-C. Evaluation should ignore distribution.
-D. Administrative data can never be useful.
+**Mains model:** Evaluation begins with allocation, approval, financial closure, construction, operation, utilisation, output, sale and welfare. Each stage needs a date, denominator and unit. Infrastructure programmes require uptime, tenants, throughput, facility use and survival; incentives require disbursal and additionality; micro support requires adoption, productivity, safety and survival. Cross-cutting outcomes include loss, farmer realisation, job quality, export rejection, nutrition and environmental intensity. Counterfactual caution matters because selected firms or regions may already be stronger. Independent data, project tracking, beneficiary feedback and competition indicators make evaluation credible.
 
-**Answer: B**
+**Lesson-specific scoring rubric:** 2 marks ladder; 3 metrics; 2 welfare; 2 counterfactual; 1 data conclusion.
 
-- **A is wrong:** timing alone is insufficient.
-- **B is correct:** it states the causal-evaluation discipline.
-- **C is wrong:** distribution is central to public purpose.
-- **D is wrong:** administrative data are useful when their limits are preserved.
-
-**Relevant PYQ linkage - 2019 GS-III Q14 and 2025 GS-III Q14:** both require policy
-evaluation beyond scheme recital. Approach: move from rationale to instrument, stage,
-outcome, limitation and reform. No solved PYQ answer is supplied here.
-
-**Mains micro-model - 15 marks:** *Why do food-processing schemes need a results-chain
-evaluation?*
-
-**Model:** Schemes operate through sequential stages: approval, investment, operation,
-utilisation, output and welfare outcome. A completed plant may remain underused; a busy
-plant may pay farmers poorly; higher sales may rely on temporary support; gross jobs may
-be seasonal. A results chain prevents these categories from being merged. Each project
-should disclose uptime, throughput, quality, procurement, payment, jobs, environmental
-performance and commercial survival, with baseline and comparison where possible.
-Staged support, public dashboards and grievance systems can improve accountability while
-preserving timely execution.
-
-**Transition:** The final lesson combines the chain, institutions, policy, commodity
-variation and evidence discipline into answer-writing strategy.
+**Transition:** The results ladder supplies the final Core answer method.
 
 ---
 
 ## Lesson 16 - Integrated strategy and UPSC answer craft
 
-**Progress: 16/16 | Stage: Mastery | Subtopic: Whole-chain reform and biotechnology linkage**
+Progress: 16/18 | Stage: Core mastery | Subtopic: Whole-chain reform and biotechnology linkage
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Complete canonical owners, package, workbook, syllabus map, PYQ ledgers through 2026 and relevant local official papers queried
+Book context: Permitted Basic and Advanced Markdown owners, syllabus map, PYQ ledgers through 2026, OCR sources and relevant official papers queried
 CA search: "official PIB food processing PLISFPI April 2026 Economic Survey 2025-26"
-CA found: PIB brief dated 21 April 2026 and Economic Survey tabled 29 January 2026 retained with exact status dates; retrieval cutoff 24 September 2026
+CA found: PIB brief published 21 April 2026 and Economic Survey tabled 29 January 2026 retained with exact status dates; live verification completed 3 October 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - diagnose before prescribing
@@ -2284,55 +1817,226 @@ utilisation; aggregate value versus farmer capture; safety standards versus incl
 11. For biotechnology, explain the processing mechanism.
 12. For every policy claim, state one limitation or evaluation metric.
 
-### Practice - synthesis
+### Concept check
 
-**MCQ 31.** Which reform package is most coherent for a perishable horticulture cluster?
+**Question:** What is the first diagnostic before recommending a scheme?
 
-A. A large plant without aggregation, cooling or buyers
-B. A portal alone
-C. FPO supply, packhouse and cooling, processing, testing, working capital and competing buyers
-D. Permanent exemption from food-safety requirements
+**Model answer:** Identify the commodity and broken node: supply, quality, preservation, finance, standards, market, competition or capability; then match instrument and metric.
 
-**Answer: C**
+**Misconception to avoid:** Do not begin with a scheme list or cite biotechnology without a processing mechanism.
 
-- **A is wrong:** it leaves the chain discontinuous.
-- **B is wrong:** digital matching cannot preserve or transform produce.
-- **C is correct:** it coordinates the essential physical, financial and market nodes.
-- **D is wrong:** safety is a necessary market and welfare condition.
+### Responsive Mains practice
 
-**MCQ 32.** Which response best answers a biotechnology-processing question?
+**Mains question (10 marks; 150-word ceiling):** Propose an integrated strategy for competitive, inclusive and sustainable food processing.
 
-A. Name two biotechnology missions without a processing mechanism.
-B. Discuss only e-NAM prices.
-C. State that all preservation is genetic engineering.
-D. Give two technically accurate processing-stage examples and link each to shelf life, value or loss reduction.
+**Mains model:** Start with commodity maps of perishability, conversion, location and demand. FPOs and transparent contracts secure supply; packhouses, appropriate cold chains, warehousing and shared testing repair midstream gaps; packaging, traceability, brands and export conformity strengthen markets. PMKSY-type support should be selected for throughput, PLISFPI judged on additionality, and PMFME used for micro finance and compliance capability. Competition, prompt payment and grievances support farmer capture. Skills, women's access and regional hubs improve inclusion. Efficient cooling, water treatment and by-product recovery control externalities. Biotechnology earns marks only when the enzyme, microbe or trait is linked to shelf life, conversion or loss. Success is safe output, durable jobs and fair distribution, not sanctioned capacity.
 
-**Answer: D**
+**Lesson-specific scoring rubric:** 2 marks diagnosis; 3 instruments; 2 inclusion; 2 sustainability/technology; 1 verdict.
 
-- **A is wrong:** names without mechanisms do not meet the demand.
-- **B is wrong:** marketing platforms are outside the technical core.
-- **C is wrong:** preservation uses many non-genetic and biological methods.
-- **D is correct:** it meets the example-plus-mechanism demand.
+**Transition:** The Core is complete; optional depth follows.
 
-**Relevant PYQ linkage - 2026 GS-III Q5:** provenance: official scan locally preserved
-and OCR-verified. Approach: define processing-stage biotechnology; give two accurate
-examples; show mechanism -> shelf life/value/loss -> farmer effect; add cost, safety or
-adoption qualification. No solved PYQ answer is supplied here.
+---
 
-**Mains micro-model - 20 marks:** *Design a strategy to make Indian food processing
-competitive, inclusive and sustainable.*
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-**Model:** Strategy should begin with commodity-specific maps of perishability, location,
-conversion and demand. FPOs and transparent contracts can create reliable upstream supply;
-packhouses, appropriate cold chains and shared testing can repair midstream gaps; packaging,
-traceability and export capability can strengthen downstream markets. PMKSY-type
-infrastructure should be selected for throughput, while performance incentives should
-prove additionality and micro-enterprise support should build finance, technology and
-compliance capability. Competition, prompt payment and grievance systems are necessary for
-farmer capture. Skills, women's asset control and regional hubs improve inclusion.
-Energy-efficient cooling, water treatment and by-product recovery reduce externalities.
-Success is realised safe output, durable jobs and fair value distribution - not sanctioned
-capacity alone.
+The Core answer is complete at Lesson 16. These lessons add political-economy, contract and evaluation depth; they are not prerequisites for a competent answer.
+
+---
+
+## Lesson 17 - Market power, contract design and differentiated value
+
+Progress: 17/18 | Stage: Optional Advanced | Subtopic: Market power, contracts, brands, identity and chain governance
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: Queried - Advanced owner on fair contracting, information asymmetry, branding, traceability and distribution
+CA search: "site:apeda.gov.in processed food traceability branding export market access India 2026 official"
+CA found: APEDA official export-data and market-access systems checked to 3 October 2026; no unsupported project count is used
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual - value may be created at one node and captured at another
+
+```text
+FARMER QUALITY EFFORT
+        |
+        v
+PROCESSOR CONVERSION -> BRAND / TRACEABILITY -> RETAIL OR EXPORT PREMIUM
+        |                       |                       |
+        +-----------------------+-----------------------+
+                                v
+                WHO CONTROLS GRADE, DATA, CONTRACT
+                         AND BUYER ACCESS?
+                                v
+                     DISTRIBUTION OF VALUE
+```
+
+A chain can be technically efficient and distributionally unequal. Market power exists when an actor can influence price, grading, access or terms because alternatives are weak. Perishability makes delay costly and magnifies this power.
+
+### Contract as a map of risk
+
+| Clause | Risk allocated | Advanced question |
+|---|---|---|
+| Variety and quality | production and rejection | Is the standard measurable before delivery? |
+| Price formula | market risk | Is the reference transparent and symmetric? |
+| Quantity and schedule | throughput risk | Who bears weather shortfall? |
+| Inputs and advice | technology risk | Who bears prescribed-input failure? |
+| Force majeure | systemic shock | Is risk shared or shifted downward? |
+| Data and traceability | information power | Can farmers inspect and contest records? |
+| Termination and dispute | hold-up risk | Is remedy timely enough for perishables? |
+
+FPO aggregation can create countervailing power only if members control governance, records are credible and management can negotiate. A nominal collective tied to one buyer may reproduce dependence.
+
+Branding, geographical identity and traceability can move products away from commodity competition. The gain is strongest when quality is reproducible, misuse is controlled and producer groups retain influence. Otherwise downstream firms may capture the reputation premium.
+
+### Objection, reply and residual
+
+**Objection:** Large buyers are necessary because they provide technology, standards and assured markets.
+
+**Reply:** Scale and long-term contracts can create real coordination efficiency.
+
+**Residual:** Efficiency does not answer distribution. Competition, transparent grading, data access, fair termination and remedies remain necessary.
+
+### UPSC integration
+
+- Deepens the 2020 GS-III farmer-income route after value creation is explained.
+- Use `value created -> governance -> bargaining -> value captured`.
+- Trap: an FPO label does not prove member control or buyer competition.
+- Answer line: **Value-chain upgrading is incomplete when quality rises but producer agency falls.**
+
+### Revision notes
+
+1. Efficiency and fairness are separate tests.
+2. Perishability magnifies buyer power.
+3. Contracts allocate price, quality, quantity, technology and shock risk.
+4. Measurable grades reduce discretionary rejection.
+5. Transparent references reduce one-sided information advantage.
+6. Force-majeure design reveals shock allocation.
+7. FPOs need member control and professional management.
+8. Traceability creates trust and data power.
+9. Brands and identity create differentiation rents.
+10. Producer participation determines upstream premium transmission.
+11. One assured buyer can create hold-up risk.
+12. Competition, records and remedies complement contracts.
+
+### Concept check
+
+**Question:** Why can assured purchase reduce price risk yet increase hold-up risk?
+
+**Model answer:** A buyer is guaranteed, but buyer-specific investment and weak alternatives may let that buyer use grading, rejection or delay to renegotiate terms.
+
+**Misconception to avoid:** Contractual certainty does not prove equal bargaining power.
+
+### Responsive Mains practice
+
+**Mains question (15 marks; 250-word ceiling):** "Food-processing value chains must be judged by governance as well as efficiency." Analyse.
+
+**Mains model:** Processing efficiency reduces spoilage, coordinates quality and connects seasonal output to markets. Large buyers may supply technology, standards, finance and assured demand. Yet concentration can shape grading, price, data and rejection. Perishability weakens a farmer's ability to wait, while buyer-specific varieties create hold-up risk. A contract distributes quantity, quality, price, technology and force-majeure risk; it is not merely a purchase promise. FPOs can create countervailing power, but only with member control, professional management and competing buyers. Traceability and brands create trust and differentiation, though downstream firms may capture the premium if producers lack rights over data and identity. Reform should combine transparent assaying, reference-price formulas, prompt payment, data access, fair termination, accessible disputes and competition oversight. Efficient movement is necessary, but welfare also requires producer agency and cost-adjusted realisation.
+
+**Lesson-specific scoring rubric:** 3 marks efficiency; 4 market power; 3 contracts; 3 safeguards; 2 qualified verdict.
+
+**Transition:** Governance explains distribution; the final lesson adds counterfactual evaluation and resilience.
+
+---
+
+## Lesson 18 - Additionality, resilience and the policy-evaluation frontier
+
+Progress: 18/18 | Stage: Optional Advanced | Subtopic: Counterfactual additionality, resilience, redundancy and adaptive policy
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: Queried - Advanced owner and mission-design material on utilisation, additionality, resilience and outcomes
+CA search: "site:pib.gov.in food processing PLISFPI disbursal employment capacity February 2026 official"
+CA found: Official PIB sector-status material available by April 2026 used only to teach date, denominator and results-stage discipline
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual - two questions after an observed gain
+
+```text
+OBSERVED OUTPUT / JOB / EXPORT GAIN
+                 |
+        +--------+---------+
+        |                  |
+        v                  v
+ADDITIONALITY?          RESILIENCE?
+Would it occur          Can the chain continue
+without support?        through shock or failure?
+        |                  |
+baseline, selection,    redundancy, diversity,
+deadweight, spillover   buffers, repair, adaptation
+        +--------+---------+
+                 v
+       NET PUBLIC VALUE AND DISTRIBUTION
+```
+
+**Additionality** asks whether public support caused performance beyond a credible no-support baseline. Approval, investment or later sales do not prove causation because selected firms may already be stronger.
+
+**Resilience** is the capacity to anticipate, absorb, recover and adapt. A lowest-cost chain may be brittle if it depends on one road, cold store, buyer, energy source or export market.
+
+### Efficiency-resilience frontier
+
+| Design | Efficiency strength | Resilience weakness or gain |
+|---|---|---|
+| one large specialised plant | scale and low unit cost | single-point failure and long radius |
+| distributed primary processing | proximity and redundancy | coordination and consistency cost |
+| just-in-time inventory | low holding cost | weak shock buffer |
+| diversified buyers | demand and bargaining resilience | higher coordination cost |
+| multi-product cold infrastructure | seasonal utilisation | technical complexity |
+
+The task is not maximum redundancy. It is the right resilience at the lowest social cost.
+
+```text
+market failure -> instrument -> behaviour -> additional capability
+  -> spillover or displacement -> distribution
+  -> resilience and environmental effect -> adaptive redesign
+```
+
+A programme can raise one firm's sales while displacing another, create gross jobs while replacing work, or reduce food loss while raising energy demand. Advanced evaluation records these offsets.
+
+### Objection, reply and residual
+
+**Objection:** Counterfactual evaluation is too difficult for routine administration.
+
+**Reply:** Matched comparisons, phased rollout, before-after panels, transparent baselines and sensitivity analysis are superior to counting approvals.
+
+**Residual:** Quantification cannot itself decide weights for farmer income, safety, equity, fiscal cost and environmental harm; the final judgement remains normative.
+
+### UPSC integration
+
+- Use additionality to evaluate PLISFPI and deadweight.
+- Use resilience for redundancy, diversified markets and shocks.
+- Use the results-chain firewall against sanction-to-success leaps.
+- Answer line: **Reward verified capability and public value, then adapt when the binding constraint moves.**
+
+### Revision notes
+
+1. Additionality is a counterfactual.
+2. Selection bias can predate support.
+3. Deadweight rewards activity that would occur anyway.
+4. Spillovers may justify support.
+5. Displacement separates gross from net gain.
+6. Resilience means anticipate, absorb, recover and adapt.
+7. Redundancy has a cost; zero redundancy creates fragility.
+8. Supplier, buyer, route, energy and market diversity reduce failure.
+9. Distributed and centralised assets trade efficiency for resilience.
+10. Status dates accompany mutable figures.
+11. Distribution and environment belong inside evaluation.
+12. Adaptive policy follows the binding constraint.
+
+### Concept check
+
+**Question:** Why does higher sales by a supported firm not prove additionality?
+
+**Model answer:** It may have grown without support, been selected because it was stronger, or displaced another firm. A credible baseline and net-sector analysis are needed.
+
+**Misconception to avoid:** Temporal sequence is not proof of causation.
+
+### Responsive Mains practice
+
+**Mains question (15 marks; 250-word ceiling):** Critically examine how additionality and resilience should reshape evaluation of food-processing policy.
+
+**Mains model:** Policy is often reported through approvals, investment, capacity, sales and gross jobs. These stages do not establish public value. Additionality asks whether supported firms produced more investment, output, exports or capability than under a credible no-support baseline. Selection bias, deadweight and displacement should be tested through phased comparisons, panels and transparent baselines. Resilience asks whether the chain can absorb power, climate, logistics, disease or market shocks. A specialised plant may minimise unit cost yet create a single failure point; distributed processing, diversified buyers, backup energy and multi-product design add robustness but cost more. Evaluation should combine additional throughput and spillovers with farmer realisation, net job quality, competition, food safety, environmental intensity and fiscal cost. Policy should support the minimum effective bundle, monitor the binding constraint and redesign when behaviour, technology or risk changes. The advanced test is net, additional, distributed and resilient value.
+
+**Lesson-specific scoring rubric:** 3 marks additionality; 3 counterfactual threats; 3 resilience; 4 methods and metrics; 2 adaptive verdict.
+
+**Transition:** Teaching now moves to verified PYQ routes, cumulative retrieval and final practice.
 
 ---
 
@@ -2348,7 +2052,7 @@ capacity alone.
 | 2022 | GS-III Q4 | Scope and significance of food processing in India | Elaborate; 10 marks; 150 words | Lessons 1-3, 12 | Define scope from handling to related services; explain loss, income, jobs, nutrition, exports and regional development; add one distributional limit. |
 | 2025 | GS-III Q3 | Factors influencing farmers' choice of high-value crops | Explain; 10 marks; 150 words | Lessons 4-6, 14 | Use risk-adjusted return: water, skill, perishability, cold chain, grade, buyer, contract, insurance and payment. |
 | 2025 | GS-III Q4 | Scope and significance of agricultural supply-chain management | Elaborate; 10 marks; 150 words | Lessons 1, 4, 6-7 | Map product, information, money and risk; place processing inside the wider chain; show loss, timing, quality and value distribution. |
-| 2025 | GS-III Q14 | Scope of food-processing industries and government measures for employment generation | Examine / Elaborate; 15 marks; 250 words | Lessons 1, 9-12 | Scope beyond factories; map job nodes; distinguish infrastructure, PLI and micro-enterprise support; evaluate formality, seasonality, women and regional inclusion. |
+| 2025 | GS-III Q14 | Scope of food-processing industries and government measures for employment generation | Examine; 15 marks; 250 words | Lessons 1, 9-12 | Scope beyond factories; map job nodes; distinguish infrastructure, PLI and micro-enterprise support; evaluate formality, seasonality, women and regional inclusion. |
 | 2026 | GS-III Q5 | Two examples of biotechnology helping Indian farmers in processing perishable crops | Explain; 10 marks; 150 words | Lessons 3, 14, 16 | Define processing-stage biotechnology; use two accurate enzyme/microbial/delayed-ripening examples; connect mechanism to shelf life, value and farmer benefit. |
 
 The 2026 GS-III wording is from the official local scan
@@ -2374,135 +2078,43 @@ EMPLOYMENT -> node + quantity + quality + inclusion
 TECHNOLOGY -> example + mechanism + farmer consequence
 ```
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-### MCQ 33
+## Check 1 - chain diagnosis
 
-Which statement best distinguishes food processing from value addition?
+**Question:** A district has a new plant but continued farm-gate spoilage. What precedes another subsidy?
 
-A. Processing is a set of operations; value addition is the utility or economic value created through operations and services.
-B. They are identical to farmer income.
-C. Value addition occurs only in exports.
-D. Processing begins only after retail sale.
+**Model answer:** Map harvest timing, aggregation, grade, first-mile handling, pre-cooling or dry storage, transport, throughput, working capital, buyers and payment. The broken node determines the instrument.
 
-**Answer: A**
+## Check 2 - value distribution
 
-- **A is correct:** it distinguishes activity from the value outcome.
-- **B is wrong:** farmer income depends on distribution.
-- **C is wrong:** domestic chains also add value.
-- **D is wrong:** processing precedes final sale.
+**Question:** Which indicators prevent value-addition claims from hiding farmer outcomes?
 
-### MCQ 34
+**Model answer:** Cost-adjusted farmer net realisation and farmer share in realised value, tied to grade, deductions, payment timing and buyer alternatives.
 
-Which chain is logically complete?
+## Check 3 - policy status
 
-A. Cold store -> farm -> harvest
-B. Aggregation -> pre-cooling -> storage/reefer -> processing -> tested market access
-C. Brand -> cultivation -> abandoned shipment
-D. Subsidy -> automatic farmer income
+**Question:** Why report approval, completion, operation and utilisation separately?
 
-**Answer: B**
+**Model answer:** They are successive evidence stages. None automatically proves the next stage or welfare.
 
-- **A is wrong:** it reverses production and handling.
-- **B is correct:** it links supply, continuity, transformation and market trust.
-- **C is wrong:** it is not an operating value chain.
-- **D is wrong:** income transmission is conditional.
+## Check 4 - standards and inclusion
 
-### MCQ 35
+**Question:** How can safety be preserved without excluding micro units?
 
-Which indicator most directly captures farmer value realisation?
+**Model answer:** Retain risk-based safety floors while lowering fixed capability costs through training, shared labs, common facilities, finance, records and phased support.
 
-A. Retail price alone
-B. Processor's installed capacity
-C. Farmer's grade- and cost-adjusted net payment from completed procurement
-D. Number of scheme brochures
+## Check 5 - commodity specificity
 
-**Answer: C**
+**Question:** Why prioritise dry warehousing over refrigeration in some chains?
 
-- **A is wrong:** downstream price does not reveal upstream capture.
-- **B is wrong:** capacity does not measure farmer payment.
-- **C is correct:** it measures realised return after relevant deductions.
-- **D is wrong:** publications are not outcomes.
+**Model answer:** Cereals and pulses often face moisture, pest and inventory risks rather than a low-temperature requirement. Assets must match biological hazard.
 
-### MCQ 36
+## Check 6 - advanced evaluation
 
-Which project is most vulnerable to a stranded-asset problem?
+**Question:** State four adjectives for a strong final judgement on public support.
 
-A. A multi-user cluster with verified buyers and supply
-B. A small packhouse with repeated throughput
-C. A plant with seasonal scheduling and working capital
-D. A large sanctioned plant without reliable raw material, power or market
-
-**Answer: D**
-
-- **A is wrong:** verified linkages reduce risk.
-- **B is wrong:** repeated use demonstrates demand.
-- **C is wrong:** planning and finance support use.
-- **D is correct:** key operating conditions are absent.
-
-### MCQ 37
-
-Why may processing stabilise farm demand?
-
-A. It can convert a seasonal perishable into a product sold over a longer period.
-B. It abolishes every price cycle.
-C. It guarantees universal procurement.
-D. It removes consumer preference.
-
-**Answer: A**
-
-- **A is correct:** preservation and transformation can spread sale over time.
-- **B is wrong:** demand and supply shocks remain.
-- **C is wrong:** processors do not buy every output universally.
-- **D is wrong:** consumer demand remains central.
-
-### MCQ 38
-
-Which statement best reflects additionality in an incentive scheme?
-
-A. Every approved investment is automatically additional.
-B. Ask whether the supported performance exceeded a credible no-incentive baseline.
-C. Count applications only.
-D. Ignore firms that would have invested anyway.
-
-**Answer: B**
-
-- **A is wrong:** approval cannot establish counterfactual impact.
-- **B is correct:** additionality is a counterfactual question.
-- **C is wrong:** applications are an input measure.
-- **D is wrong:** such firms are precisely relevant to deadweight analysis.
-
-### MCQ 39
-
-Which combination best promotes small-processor access to high-standard markets?
-
-A. Lower every safety threshold
-B. Prohibit traceability
-C. Shared laboratories, training, finance and proportionate compliance support
-D. Require each micro unit to build a full private laboratory
-
-**Answer: C**
-
-- **A is wrong:** it sacrifices consumer protection and trust.
-- **B is wrong:** records can support recall and access.
-- **C is correct:** it lowers fixed capability costs.
-- **D is wrong:** it duplicates expensive fixed assets.
-
-### MCQ 40
-
-Which conclusion is most balanced?
-
-A. Processing always raises farmer income.
-B. Cold chains have no environmental cost.
-C. Export standards are always protectionist.
-D. Processing creates potential value, but chain continuity, competition and distribution determine realised welfare.
-
-**Answer: D**
-
-- **A is wrong:** farmer capture is conditional.
-- **B is wrong:** energy and refrigerants matter.
-- **C is wrong:** standards can protect genuine health interests.
-- **D is correct:** it integrates mechanism and qualification.
+**Model answer:** Net, additional, distributed and resilient: net of displacement and externalities, caused by support, fairly transmitted and shock-capable.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -2524,6 +2136,8 @@ farm realisation. FPO aggregation, transparent assaying, competing buyers, fair 
 force-majeure clauses, prompt payment and accessible disputes are needed. The correct
 indicator is the farmer's cost-adjusted net payment and share in realised value, not
 processing capacity alone.
+
+**Final 10-mark scoring rubric:** 2 marks distinction; 3 transmission; 2 safeguards; 2 metric; 1 qualification.
 
 ## 15 marks - cold-chain policy
 
@@ -2551,10 +2165,12 @@ control environmental cost.
 Thus storage is one link. Value is realised only when temperature, product, finance and
 market continuity are jointly maintained.
 
+**Final 15-mark scoring rubric:** 3 marks chain; 4 broken links; 4 framework; 2 qualification; 2 metrics.
+
 ## 20 marks - sector strategy
 
 **Question:** Critically examine India's policy architecture for food processing and
-propose an integrated strategy for competitiveness, inclusion and sustainability.
+propose an integrated strategy for competitiveness, inclusion and sustainability. Answer in 250 words.
 
 **Model answer:**
 
@@ -2584,95 +2200,45 @@ An integrated strategy should:
 The objective should be safe output and fairly distributed value per unit of resource,
 not maximum sanctioned capacity.
 
+**Final 20-mark scoring rubric:** 3 marks architecture; 4 limitations; 7 strategy; 3 evidence and metrics; 3 verdict and coherence.
+
 # REMEDIATION
 
 ## Error 1 - "Cold store means cold chain"
 
-**Repair:** Draw the complete rail: packhouse -> pre-cooling -> storage -> reefer ->
-processor/retail -> consumer. Then mark power, monitoring and transfer points.
-
-### MCQ 41
-
-A cold store receives warm produce after a ten-hour unrefrigerated delay. Which diagnosis
-is best?
-
-A. The first-mile break may already have caused irreversible quality loss.
-B. Storage will automatically restore original quality.
-C. The chain is complete because one cold asset exists.
-D. Only branding can solve the problem.
-
-**Answer: A**
-
-- **A is correct:** cooling does not reverse all prior deterioration.
-- **B is wrong:** refrigeration mainly slows further change.
-- **C is wrong:** continuity is absent.
-- **D is wrong:** branding cannot repair physical damage.
+**Repair drill:** Draw `harvest -> packhouse -> pre-cooling -> storage -> reefer -> processor/retail`. Mark the warm break, power, monitoring and transfer points.
 
 ## Error 2 - "More final price means more farmer income"
 
-**Repair:** Calculate conversion yield, intermediate cost and farmer net payment. Then ask
-who controls grade, contract and buyer alternatives.
-
-### MCQ 42
-
-Which reform most directly improves farmer capture of added value?
-
-A. A larger retail advertisement
-B. Transparent grade, competing procurement, fair contracts and prompt payment
-C. Higher installed plant capacity without purchases
-D. A longer scheme name
-
-**Answer: B**
-
-- **A is wrong:** advertising may raise brand demand without upstream transmission.
-- **B is correct:** it improves bargaining and realised payment.
-- **C is wrong:** unused capacity creates no procurement benefit.
-- **D is wrong:** nomenclature has no economic mechanism.
+**Repair drill:** Separate farmer payment, processor value added, conversion loss, packaging, logistics, finance and retail margin; then add grading power and competition.
 
 ## Error 3 - "Every scheme number proves success"
 
-**Repair:** Label every number: approval, completion, operation, throughput, sales,
-disbursal, jobs or welfare. Keep date and denominator.
+**Repair drill:** Label each number as allocation, approval, completion, operation, utilisation, disbursal, sales, gross jobs or welfare. Attach date and denominator.
 
-### MCQ 43
+## Error 4 - "Standards and small firms are a zero-sum choice"
 
-An official source reports 100 approved projects. What may be claimed without further
-evidence?
+**Repair drill:** Preserve the safety floor, then lower fixed compliance cost through shared labs, common treatment, training, records, credit and phased upgrades.
 
-A. All 100 are profitable.
-B. All 100 are operating.
-C. One hundred approvals were recorded under the source's dated definition.
-D. Farmer income doubled.
+## Error 5 - "One processing strategy fits every commodity"
 
-**Answer: C**
+**Repair drill:** For milk, fish, grain and fruit, write hazard, time, temperature or moisture, conversion and market before recommending assets.
 
-- **A is wrong:** profitability is a later commercial outcome.
-- **B is wrong:** approval precedes operation.
-- **C is correct:** it preserves exactly what the evidence establishes.
-- **D is wrong:** no income evidence is supplied.
+## Error 6 - "Observed growth proves policy causation"
 
-## Error 4 - "Standards versus small firms is a zero-sum choice"
-
-**Repair:** Preserve the safety floor while lowering fixed compliance cost through shared
-capability and phased support.
-
-### MCQ 44
-
-Which policy best reconciles food safety with micro-enterprise inclusion?
-
-A. Permanent exemption from hygiene
-B. Abolition of testing
-C. Identical private-lab investment by every household unit
-D. Risk-based enforcement with training, shared labs, finance and phased upgrades
-
-**Answer: D**
-
-- **A is wrong:** consumer risk does not disappear with firm size.
-- **B is wrong:** testing remains necessary for specified hazards.
-- **C is wrong:** it imposes inefficient fixed duplication.
-- **D is correct:** it preserves protection while building capability.
+**Repair drill:** State the no-support baseline, selection problem, deadweight, displacement and spillover before concluding.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
+
+## Core and optional-advanced boundary map
+
+```text
+CORE: scope -> value -> methods -> loss/cold continuity -> location -> upstream
+   -> downstream -> institutions -> infrastructure policy -> enterprise policy
+   -> plant economics -> jobs/nutrition -> environment -> subsectors -> evaluation -> strategy
+
+OPTIONAL ADVANCED: market power/contracts/differentiation -> additionality/resilience/adaptation
+```
 
 ## Supply chain versus value chain
 
@@ -2885,6 +2451,7 @@ farm production
 | Claim | Exact date/status | Source boundary |
 |---|---|---|
 | Food processing accounts for 12.91 percent of organised-manufacturing employment | Economic Survey 2025-26 tabled 29 January 2026; underlying organised-sector reference identified in the canonical source as ASI 2022-23 | Not an all-economy employment share |
+| Food processing accounts for 7.93 percent of manufacturing GVA | 2023-24, First Revised Estimates; PIB release published 12 December 2025 | Manufacturing-sector share only; not total national GVA, informal output or farmer income |
 | 1,185 PMKSY projects completed | Status 30 November 2025; Survey tabled 29 January 2026 | Completion does not prove utilisation or welfare |
 | PLISFPI: 165 approved applications, 274 project locations, Rs 2,162.55 crore disbursed | Status February 2026; PIB brief published 21 April 2026 | Scheme-reported administrative evidence |
 | PLISFPI: about 3.39 lakh direct and indirect jobs | Status February 2026; PIB brief published 21 April 2026 | Not an independent net-additional or formal-job estimate |
@@ -2954,42 +2521,59 @@ DEFINE scope and commodity
 14. Processing can improve or worsen nutrition.
 15. By-product use must be safe and lifecycle-efficient.
 
+## Optional Advanced rapid recall
+
+1. Efficiency and fairness are separate value-chain tests.
+2. Perishability can create spatial and temporal monopsony.
+3. Contracts allocate price, quality, quantity, technology and shock risk.
+4. Traceability creates trust and data power simultaneously.
+5. Differentiation rents require producer participation to travel upstream.
+6. Additionality asks what exceeds a credible no-support baseline.
+7. Deadweight rewards activity that would occur anyway.
+8. Displacement separates gross firm gains from net sector gains.
+9. Resilience trades some efficiency for absorption and adaptation.
+10. The advanced verdict is net, additional, distributed, resilient and environmentally qualified.
+
 # COVERAGE MATRIX
 
 | Coverage unit | Lesson(s) | Visual / mechanism | Practice / PYQ proof |
 |---|---|---|---|
-| Syllabus scope and significance | 1, 12 | farm-to-market chain; employment chain | MCQs 1-2, 23-24; 2022 and 2025 PYQs |
-| Topic 13 bridge without duplication | 1, 6-7 | product-information-money-risk flows | MCQ 1; 2025 supply-chain linkage |
-| Food-processing definitions and levels | 1, 3 | primary-secondary-tertiary table | MCQs 1, 5 |
-| Value addition and calculations | 2 | output-minus-input and conversion case | MCQs 3-4; 2020 PYQ |
-| Farmer value capture | 2, 6, 15 | income-transmission and contract maps | MCQs 4, 11, 29-30 |
-| Preservation, nutrition and safety | 3 | method matrix | MCQs 5-6; 2026 biotechnology bridge |
-| Cold-chain nodes and continuity | 4 | time-temperature diagnostic | MCQs 7-9; remediation MCQ 41 |
-| Location clause | 5, 14 | input-market-cluster pull | MCQ 10; 2019 GS-I PYQ |
-| Cluster and Mega Food Park logic | 5, 9 | collection-to-common-facility flow | MCQs 10, 17 |
-| Upstream requirements | 6 | quality-contract rail | MCQs 11-12; 2020 PYQ |
-| Downstream requirements | 7 | packaging-traceability-market rail | MCQs 13-14 |
-| MoFPI, FSSAI, APEDA, Codex, SPS | 8 | mandate table | MCQs 15-16; 2019 policy PYQ |
-| PMKSY and integrated cold chain | 9 | instrument-to-failure map | MCQs 17-19 |
-| Operation Greens | 9 | physical-loss versus price-loss distinction | MCQ 18 |
-| PLISFPI | 10 | performance and disbursal sequence | cumulative MCQ 38; 2025 employment PYQ |
-| PMFME, MSME and formalisation | 10 | capability ladder | MCQ 20; remediation MCQ 44 |
-| Throughput, capacity and working capital | 11 | unit-cost calculation and cash cycle | MCQs 21-22 |
-| Jobs and job quality | 12 | chain jobs and classification table | MCQs 23-24; 2025 Q14 |
-| Women and regional inclusion | 12 | hub-and-spoke design | MCQ 24 |
-| Environmental externalities | 13 | lifecycle ledger and by-product hierarchy | MCQs 25-26 |
-| Circular bioeconomy | 13 | prevention-to-disposal hierarchy | MCQ 26 |
-| Commodity cases | 14 | commodity decision table | MCQs 27-28 |
-| Palm-oil objective route | 14 | mesocarp/kernel distinction | MCQ 28; 2021 Prelims linkage |
-| Governance and causal evaluation | 15 | results ladder and scorecard | MCQs 29-30; remediation MCQ 43 |
-| Biotechnology in perishable processing | 16 | example-mechanism-farmer route | MCQ 32; 2026 GS-III Q5 |
-| Integrated policy and answer craft | 16 | seven-step diagnostic | MCQs 31-32; all direct Mains routes |
-| Cumulative and remedial mastery | Final arc | comparison and causal maps | MCQs 33-44; 10/15/20-mark models |
-
-No visible `LAYER` wrapper from the canonical package has been retained. Canonical
-concepts are reorganised into the learner-facing dependency sequence above.
+| Syllabus scope, levels and significance | 1, 12 | farm-to-market and employment chains | Lesson 1 check/model; 2022 and 2025 PYQs |
+| Topic 13 bridge and chain flows | 1, 6-7 | product-information-money-risk flow | Lesson 1 check; 2025 supply-chain route |
+| Value addition, conversion and farmer capture | 2, 6, 15 | calculation and income-transmission maps | Lesson 2 model; 2020 PYQ |
+| Preservation, nutrition, safety and biotechnology | 3, 16 | method matrix and mechanism route | Lessons 3 and 16 checks; 2026 GS-III Q5 |
+| Post-harvest loss and cold-chain continuity | 4 | time-temperature diagnostic | Lesson 4 model and cumulative Check 1 |
+| Location and cluster economics | 5, 9, 14 | input-market-cluster pull | Lesson 5 model; 2019 GS-I route |
+| Upstream aggregation, FPOs and contracts | 6, 17 | quality-contract and risk-allocation rails | Lessons 6 and 17 models |
+| Warehousing, packaging, logistics and traceability | 7 | downstream integrity rail | Lesson 7 check/model |
+| MoFPI, FSSAI, APEDA, Codex and SPS | 8 | mandate and standards table | Lesson 8 check/model; 2019 policy route |
+| PMKSY, cold chain, Mega Food Parks and Operation Greens | 9 | instrument-to-failure map | Lesson 9 model and remediation Errors 1/3 |
+| PLISFPI, PMFME, ODOP and formalisation | 10, 18 | performance and capability ladders | Lessons 10 and 18 models |
+| Throughput, capacity, finance, technology and skills | 11 | unit-cost and cash-cycle case | Lesson 11 check/model |
+| Employment, manufacturing GVA, women, nutrition and regional inclusion | 12 | chain-jobs and inclusion matrix; 7.93 percent manufacturing-GVA anchor | Lesson 12 model; 2025 GS-III Q14 |
+| Energy, refrigerants, water, waste and circularity | 13 | lifecycle ledger and by-product hierarchy | Lesson 13 check/model |
+| Fruit, dairy, fish, meat, grains, millets and oilseeds | 14 | commodity decision table | Lesson 14 model; 2021 objective route |
+| Governance, results ladder and causal evaluation | 15 | sanction-to-welfare scorecard | Lesson 15 model; remediation Error 3 |
+| Integrated reform and answer architecture | 16 | seven-step diagnostic | Lesson 16 model; final 10/15/20-mark models |
+| Optional Advanced market governance | 17 | market-power and contract-risk map | Lesson 17 model |
+| Optional Advanced additionality and resilience | 18 | counterfactual and frontier maps | Lesson 18 model; cumulative Check 6 |
+| Cumulative mastery and remediation | Final arc | comparisons, causal chains and error drills | Six cumulative checks; six remediation drills |
 
 # SOURCE LEDGER
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | Complete Basic and Advanced Economy Topic 15 owners audited |
+| Final learner package | not relevant | Permanently excluded by the governing live-session source-exclusion rule |
+| Layered/complete session | not relevant | No separate layered or complete-session artifact was used as a source in this repair |
+| Solved workbook | not relevant | Permanently excluded by the governing live-session source-exclusion rule |
+| Advanced dossier | checked | Permitted Economy Topic 15 Advanced Markdown owner and relevant cross-owner distinctions audited |
+| OCR books | checked | OCR-searchable Ramesh Singh and Economic Survey material used for stable and current context |
+| PYQs through 2026 | checked | Audited routing ledgers and locally preserved official 2026 GS-III paper control used |
+| Official live sources | checked | Official-source verification completed 3 October 2026; individual publication and page-access dates are recorded below |
+
 
 ## Repository authorities
 
@@ -3002,17 +2586,10 @@ concepts are reorganised into the learner-facing dependency sequence above.
    Topic 15 ownership.
 5. `upsc-ai-kit\knowledge\OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md` - verbatim GS-III clause.
 
-## Canonical topic owners audited
+## Permitted topic owners
 
 1. `upsc-ai-kit\knowledge\Economy\basic\15_Food-Processing-Cold-Chains-and-Value-Addition.md`
 2. `upsc-ai-kit\knowledge\Economy\advanced\15_Food-Processing-Cold-Chains-and-Value-Addition.md`
-3. `upsc-ai-kit\knowledge\Economy\15_Food-Processing-Cold-Chains-and-Value-Addition_Learner-V2-Complete-Topic-Package.md`
-4. `upsc-ai-kit\knowledge\Economy\learning-sessions\v2\subject-wide-syllabus\economy-15_Learning-Session.md`
-5. `upsc-ai-kit\knowledge\Economy\learning-sessions\v2\subject-wide-syllabus\economy-15_Solved-Workbook.md`
-
-The package and subject-wide learning-session files have identical SHA-256 in the audited
-worktree; both were still treated as named canonical owners. Their visible internal shell
-was not copied.
 
 ## Verified PYQ sources
 
@@ -3053,15 +2630,42 @@ No absent key was inferred.
    21 April 2026**, official PDF:
    `https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/apr/doc2026421852801.pdf`
    - used for PLISFPI status as of February 2026 and the 2024-25 processed-export share.
-2. Ministry of Food Processing Industries, PMKSY page, retrieved 24 September 2026:
+2. Press Information Bureau, **"Employment Generation in Food Processing Sector,"
+   published 12 December 2025**:
+   `https://pib.gov.in/PressReleasePage.aspx?PRID=2202879&reg=1&lang=1`
+   - used for the 7.93 percent manufacturing-GVA share for 2023-24 (First Revised
+   Estimates). The live page returned an access restriction in the 3 October 2026
+   fetcher; the exact fact, date and URL were cross-checked through the permitted
+   canonical Markdown and official search result.
+3. Ministry of Food Processing Industries, PMKSY page, **accessed 24 September 2026
+   and rechecked 3 October 2026**:
    `https://www.mofpi.gov.in/en/Schemes/about-pmksy-scheme`
-   - the fetchable page was a thin shell; no quantity was imported from it.
-3. Ministry of Food Processing Industries, PLISFPI page, retrieved 24 September 2026:
+   - these are access dates, not a publication date; the fetchable page was a thin
+   shell and no quantity was imported from it.
+4. Ministry of Food Processing Industries, PLISFPI page, **accessed 24 September
+   2026**:
    `https://www.mofpi.gov.in/en/PLISFPI/central-sector-scheme-production-linked-incentive-scheme-food-processing-industry-plisfpi`
-   - used to confirm scheme identity; dated quantities come from the 21 April 2026 PIB
-   brief.
+   - 24 September is the page-access date, not a publication date; it was used only
+   to confirm scheme identity, while dated quantities come from the published
+   21 April 2026 PIB brief.
+5. Food Safety and Standards Authority of India, **Food Laws - Regulations**, accessed
+   and rechecked **3 October 2026**:
+   `https://fssai.gov.in/food-law/regulations`
+   - live regulations index used to verify FSSAI's regulatory boundary; the page did
+   not display a single publication date.
+6. Agricultural and Processed Food Products Export Development Authority,
+   **India Export Analytical Report**, accessed and rechecked **3 October 2026**:
+   `https://agriexchange.apeda.gov.in/India/ExportAnalyticalReport/Index`
+   - live official data portal used for APEDA's export-market context; the landing page
+   did not display a single publication date.
+7. Agricultural and Processed Food Products Export Development Authority,
+   **APEDA Act**, accessed and rechecked **3 October 2026**:
+   `https://apeda.gov.in/apeda-act`
+   - used to verify the statutory scheduled-product export-development mandate.
 
-**Retrieval cutoff for live web verification:** 24 September 2026.
+**File-wide live-verification cutoff:** 3 October 2026. Any 24 September 2026 entry
+above is explicitly a page-access date, not a publication date or an earlier file
+cutoff.
 
 ## Evidence discipline
 
