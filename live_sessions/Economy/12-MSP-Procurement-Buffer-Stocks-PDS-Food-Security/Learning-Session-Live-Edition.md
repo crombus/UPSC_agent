@@ -1,6 +1,6 @@
-# Economy 12 - MSP, Procurement, Buffer Stocks, PDS and Food Security
+# Economy 12 — MSP, Procurement, Buffer Stocks, PDS and Food Security
 
-## Frozen roadmap - 16 lessons
+## Roadmap — complete Core first, optional Advanced last
 
 | # | Learner-facing lesson | Stage |
 |---:|---|---|
@@ -10,44 +10,32 @@
 | 4 | MSP is not procurement: announcement, market price, purchase and income support | Core |
 | 5 | How procurement works: operations, open-ended purchase and crop-regional concentration | Core |
 | 6 | FCI and decentralised procurement: a federal grain-management chain | Core |
-| 7 | What food really costs the State: acquisition, distribution, carrying cost and subsidy | Advanced |
+| 7 | What food really costs the State: acquisition, distribution, carrying cost and subsidy | Core |
 | 8 | Why India holds grain: buffer-stock norms, actual stocks and stock discipline | Core |
-| 9 | How stocks stabilise prices: OMSS, releases, rotation and limits | Advanced |
+| 9 | How stocks stabilise prices: OMSS, releases, rotation and limits | Core |
 | 10 | NFSA as a legal entitlement: coverage, quantities and institutional architecture | Core |
 | 11 | How TPDS delivers: identification, allocation, offtake and the last-mile federal chain | Core |
-| 12 | Portability and technology: ONORC, digitisation, leakage control and exclusion risk | Advanced |
-| 13 | From cereals to nutrition: utilisation, fortified rice, pulses and millets | Advanced |
-| 14 | Diversifying support: pulses, oilseeds, coarse cereals and sustainable incentives | Advanced |
-| 15 | WTO constraints: Agreement on Agriculture, public stockholding and the peace clause | Advanced |
-| 16 | Reforming the whole system: federal choices, trade-offs and UPSC answer craft | Mastery |
+| 12 | Portability and technology: ONORC, digitisation, leakage control and exclusion risk | Core |
+| 13 | From cereals to nutrition: utilisation, fortified rice, pulses and millets | Core |
+| 14 | Diversifying support: pulses, oilseeds, coarse cereals and sustainable incentives | Core |
+| 15 | WTO constraints: Agreement on Agriculture, public stockholding and the peace clause | Optional Advanced |
+| 16 | Reforming the whole system: federal choices, trade-offs and UPSC answer craft | Optional Advanced |
 
 ```text
-Farm risk and price policy
-        |
-        v
-MSP recommendation and announcement
-        |
-        v
-Market purchase / public procurement
-        |
-        v
-FCI-State storage and movement
-        |
-        +----> buffer and price stabilisation
-        |
-        `----> NFSA allocation -> TPDS/ONORC -> household
-                                              |
-                                              v
-                                  food and nutrition security
+FARM RISK -> MSP RECOMMENDATION -> GOVERNMENT DECISION
+     -> MARKET / PROCUREMENT -> FCI-STATE STOCK AND MOVEMENT
+     -> BUFFER RELEASE OR NFSA-TPDS DELIVERY -> HOUSEHOLD OUTCOME
+     -> NUTRITION, FISCAL, ECOLOGICAL AND WTO TESTS
 ```
 
-The roadmap follows one grain from a risky farm decision to a rights-bearing household.
-It then asks whether the same system remains fiscally, ecologically, nutritionally and
-internationally sustainable.
+Lessons 1-14 establish the complete Core chain. Lessons 15-16 are a distinct optional
+Advanced block for WTO classification and whole-system reform synthesis.
 
 ---
 
-**Progress: 1/16 | Stage: Foundation | Subtopic: Why food policy exists: the farmer-consumer-security triangle**
+## Lesson 1 — Why food policy exists: the farmer-consumer-security triangle
+
+Progress: 1/16 | Stage: Foundation | Subtopic: Why food policy exists: the farmer-consumer-security triangle
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 Basic/Advanced and Ramesh Singh food-management chapter queried
@@ -153,53 +141,35 @@ nutrition and environmental tests.
 10. The farmer and consumer objectives can conflict.
 11. Public food policy must be judged as a complete chain.
 
-### Two quick checks
+### Revision notes
 
-**MCQ 1.** Which situation most clearly demonstrates that national food availability
-does not by itself establish household food security?
+1. Food policy balances farm incentives, consumer affordability and national resilience.
+2. Agriculture faces biological lags, weather risk and seasonal market arrivals.
+3. Food security includes availability, access, utilisation and stability.
+4. Aggregate stocks do not prove household access.
+5. Cereal access does not prove dietary adequacy.
+6. MSP, procurement, storage, release and distribution are distinct stages.
+7. Public intervention answers market failure but creates fiscal and design trade-offs.
+8. Judge the chain by both producer and household outcomes.
 
-A. Public and private stocks are adequate, but an eligible household cannot obtain its
-entitlement or afford a diverse diet
+### Lesson-local PYQ linkage and answer approach
 
-B. Market arrivals rise during harvest and prices temporarily soften
+No directly owned question is attached to this foundation lesson. Use the four-dimensional food-security test to frame later MSP, NFSA and nutrition demands.
 
-C. A State procures locally preferred grain for distribution
+### Concept check
 
-D. The government revises a crop's MSP before sowing
+**Question:** Why can a country have adequate grain stocks and still have food insecurity?
 
-**Answer: A**
+**Model answer:** Because aggregate availability is only one dimension. A household may lack purchasing power, physical access, entitlement delivery, dietary diversity, safe water or health conditions needed for nutritional utilisation; stability must also survive shocks.
 
-- **A is correct:** aggregate food exists, but economic access and nutritional
-  utilisation remain missing.
-- **B is wrong:** seasonal price movement does not by itself show household
-  insecurity.
-- **C is wrong:** local procurement can improve access and preference matching.
-- **D is wrong:** an MSP revision concerns producer support, not proof of household
-  access.
+**Misconception to avoid:** Do not equate national cereal availability with household nutrition security.
 
-**MCQ 2.** In the food-policy chain, which instrument most directly converts a
-statutory household claim into a recurring physical delivery channel?
+### Responsive Mains practice
 
-A. CACP recommendation
-
-B. Targeted Public Distribution System
-
-C. Open Market Sale Scheme
-
-D. Export restriction
-
-**Answer: B**
-
-- **A is wrong:** CACP advises on crop prices; it does not deliver household rations.
-- **B is correct:** TPDS operationalises NFSA allocations through fair price shops.
-- **C is wrong:** OMSS supplies the open market and is not an NFSA entitlement.
-- **D is wrong:** an export restriction may affect domestic supply but creates no
-  household claim.
-
-**Ten-mark synthesis - 10 marks:** "Food policy in India is a balancing mechanism, not
+**Question (10 marks; 150-word ceiling):** synthesis - 10 marks: "Food policy in India is a balancing mechanism, not
 merely a subsidy programme." Explain.
 
-**Model answer:** Indian food policy reconciles three objectives: remunerative and
+**Model answer (within the 150-word ceiling):** Indian food policy reconciles three objectives: remunerative and
 predictable prices for farmers, affordable access for vulnerable consumers, and reliable
 stocks for distribution and emergencies. MSP signals a floor before sowing, while
 procurement turns part of that assurance into public grain. FCI and State agencies store
@@ -210,14 +180,17 @@ price stability, inclusion, stock discipline, diet quality, ecological sustainab
 federal accountability. Food subsidy is a financing result of this wider social contract,
 not its complete description.
 
----
+**Unique scoring guidance:** 2 marks for the three-objective frame; 3 for the MSP-procurement-stock-NFSA chain; 3 for named trade-offs; 2 for a qualified reform verdict.
 
-**Progress: 2/16 | Stage: Foundation | Subtopic: Who fixes MSP: crop coverage, institutions and the 22-versus-23 trap**
+---
+## Lesson 2 — Who fixes MSP: crop coverage, institutions and the 22-versus-23 trap
+
+Progress: 2/16 | Stage: Foundation | Subtopic: Who fixes MSP: crop coverage, institutions and the 22-versus-23 trap
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners and Ramesh Singh MSP chapter queried; dated book crop counts were not carried forward
-CA search: "PIB MSP RMS 2026-27 CCEA 22 mandated crops"
-CA found: CCEA approval dated 1 October 2025 for RMS 2026-27; official formulation states MSP for 22 mandated crops
+CA search: "PIB MSP RMS 2027-28 CCEA 22 mandated crops 30 September 2026"
+CA found: CCEA approved MSPs for RMS 2027-28 on 30 September 2026; the current official formulation remains 22 mandated crops
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## MSP is a decision chain, not one institution's declaration
@@ -273,9 +246,9 @@ derived-price items. A dated textbook count must not override a current official
 ### Season matters
 
 An MSP is linked to a crop and marketing season. The CCEA approved MSPs for Rabi
-Marketing Season 2026-27 on **1 October 2025**. It approved MSPs for Kharif Marketing
-Season 2026-27 on **13 May 2026**. These dates show why an answer must attach a policy
-number to its season rather than calling it timeless.
+Marketing Season 2027-28 on **30 September 2026** and for Kharif Marketing Season
+2026-27 on **13 May 2026**. These dates show why an answer must attach a policy number
+to its season rather than calling it timeless.
 
 ### Comparison
 
@@ -311,59 +284,35 @@ farm.
 10. MSP and market price are not synonyms.
 11. Institutional and crop-list traps are highly Prelims-relevant.
 
-### Spot the institutional trap
+### Revision notes
 
-**MCQ 3.** Which sequence correctly describes the central MSP decision process?
+1. CACP recommends; CCEA takes the executive MSP decision.
+2. The current official formulation covers 22 mandated crops.
+3. The grouping is 14 Kharif, six Rabi and two other commercial crops.
+4. Toria and de-husked coconut prices are derived from related mandated crops.
+5. Sugarcane follows FRP, not MSP.
+6. Every MSP number requires a crop and marketing season.
+7. RMS 2027-28 was approved on 30 September 2026.
+8. Announcement does not guarantee operational procurement.
 
-A. CCEA recommends and CACP issues the binding price
+### Lesson-local PYQ linkage and answer approach
 
-B. FCI calculates MSP and Parliament ratifies it
+[2018 Prelims GS-I, Q93](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2018--gs-paper-i): institution associated with MSP announcement. Demand: distinguish CACP recommendation from CCEA decision; the local ledger does not provide an official key.
 
-C. CACP recommends and CCEA takes the executive decision
+### Concept check
 
-D. State Food Commissions recommend and the GST Council decides
+**Question:** Why must CACP and CCEA be named separately in an MSP answer?
 
-**Answer: C**
+**Model answer:** CACP supplies the expert recommendation using cost and wider market-policy factors; CCEA takes the Union executive decision. Neither act by itself proves that an individual farmer can sell an eligible quantity at MSP.
 
-- **A is wrong:** it reverses the roles of CACP and CCEA.
-- **B is wrong:** FCI procures and manages grain; it does not determine MSP.
-- **C is correct:** CACP supplies the recommendation and CCEA approves the price.
-- **D is wrong:** neither institution has an MSP-fixation role.
+**Misconception to avoid:** Do not write that CACP announces the final MSP or that FCI fixes it.
 
-**MCQ 4.** Which statement best resolves the recurring MSP crop-count confusion?
+### Responsive Mains practice
 
-A. Sugarcane is one of the 22 crops because FRP and MSP are identical
-
-B. Every derived price creates an additional mandated crop
-
-C. Toria and de-husked coconut have no relationship to MSP announcements
-
-D. The official formulation is 22 mandated crops, with certain additional prices
-derived from mandated crops and sugarcane under FRP
-
-**Answer: D**
-
-- **A is wrong:** FRP for sugarcane is distinct from MSP.
-- **B is wrong:** a derived price does not automatically change the mandated-crop
-  count.
-- **C is wrong:** their prices are derived from related mandated crops.
-- **D is correct:** it preserves both the official count and the source of common
-  confusion.
-
-**Directly owned PYQ link:** [2018 Prelims GS-I, Q93 - institution associated with
-announcing MSP; objective; local verified ledger notes answer key unavailable](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2018--gs-paper-i)
-
-### Precision rules for the exam
-
-- Write "CACP recommends; CCEA decides."
-- Use the 22-crop formulation and separately identify derived-price items.
-- Do not call sugarcane an MSP crop.
-- Attach every current MSP figure to the correct marketing season.
-
-**Ten-mark institution drill - 10 marks:** Explain why institutional precision matters in an
+**Question (10 marks; 150-word ceiling):** institution drill - 10 marks: Explain why institutional precision matters in an
 answer on MSP.
 
-**Model answer:** MSP is not produced by a single administrative act. CACP evaluates
+**Model answer (within the 150-word ceiling):** MSP is not produced by a single administrative act. CACP evaluates
 cost, market and wider economic evidence and submits recommendations; the Union
 executive, through CCEA, decides the announced price after consultation. The distinction
 matters because a recommendation does not itself create procurement, a market
@@ -373,14 +322,17 @@ coconut are derived and sugarcane follows FRP. An answer that merges these insti
 and prices cannot explain accountability. Correct sequencing clarifies who advises, who
 decides, which price applies, and what further operational action is needed.
 
----
+**Unique scoring guidance:** 2 marks for CACP/CCEA role precision; 3 for crop-count and season discipline; 3 for accountability implications; 2 for a concise institutional conclusion.
 
-**Progress: 3/16 | Stage: Core | Subtopic: What cost means: A2, A2+FL, C2 and CACP's recommendation logic**
+---
+## Lesson 3 — What cost means: A2, A2+FL, C2 and CACP's recommendation logic
+
+Progress: 3/16 | Stage: Core | Subtopic: What cost means: A2, A2+FL, C2 and CACP's recommendation logic
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, official CACP material and OCR-searchable Ramesh Singh chapter queried
 CA search: "CACP MSP factors A2 FL C2 official"
-CA found: Official CCEA releases dated 1 October 2025 for RMS 2026-27 and 13 May 2026 for KMS 2026-27 retain the policy of at least 1.5 times the all-India weighted average cost of production; cost must be read with the stated official methodology
+CA found: Official CCEA releases dated 30 September 2026 for RMS 2027-28 and 13 May 2026 for KMS 2026-27 retain the policy of at least 1.5 times the all-India weighted average cost of production; cost must be read with the stated official methodology
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## There is no single self-evident "cost of cultivation"
@@ -492,79 +444,42 @@ separate instruments.
 **Concept-derived trap:** "Fifty per cent over cost" is incomplete unless the answer
 states the cost concept and recognises that CACP weighs factors beyond cost.
 
-### Cost checks
-
 **Short calculation.** If A2 is Rs 1,400 per quintal, family labour is imputed at
 Rs 250 and owned-land/fixed-capital cost at Rs 350, calculate A2+FL and C2 before
-attempting the MCQs.
+the concept check.
 
 **Check:** A2+FL = Rs 1,650; C2 = Rs 2,000. The calculation identifies cost boundaries;
 it does not determine the actual MSP.
 
-**MCQ 5.** Which addition converts A2 into A2+FL?
+### Revision notes
 
-A. Imputed value of unpaid family labour
+1. A2 records paid-out expenses.
+2. A2+FL adds imputed unpaid family labour.
+3. C2 further adds owned-land rent and interest on owned fixed capital.
+4. The three concepts are progressively wider, not interchangeable.
+5. The official margin statement must be tied to its stated cost methodology.
+6. CACP also considers demand, supply, parity, prices, trade and resource use.
+7. A national weighted average is not every farmer’s individual cost.
+8. Cost policy requires productivity, sustainability and affordability qualifications.
 
-B. Rental value of owned land only
+### Lesson-local PYQ linkage and answer approach
 
-C. Interest on owned fixed capital only
+No directly owned question isolates cost concepts. Use A2/A2+FL/C2 precision in the 2018 MSP Mains demand and the 2019 FCI economic-cost objective demand.
 
-D. Distribution cost incurred by FCI
+### Concept check
 
-**Answer: A**
+**Question:** How can the statements “MSP gives at least a 50 per cent margin” and “farmers seek C2+50 per cent” coexist?
 
-- **A is correct:** FL is the imputed value of family labour.
-- **B is wrong:** owned-land rent enters the broader C2 concept.
-- **C is wrong:** fixed-capital interest also enters C2.
-- **D is wrong:** FCI distribution cost is part of public food management, not farm
-  production cost.
+**Model answer:** The official margin statement uses the notified all-India weighted-average cost methodology commonly associated with A2+FL, while C2 additionally imputes owned-land rent and interest on owned fixed capital. The percentage claim changes with the denominator.
 
-**MCQ 6.** Which statement most accurately describes CACP's recommendation method?
+**Misconception to avoid:** Do not use A2+FL and C2 as interchangeable labels for one cost.
 
-A. It considers only international crop prices
+### Responsive Mains practice
 
-B. It considers cost along with demand-supply, price parity, consumer and wider
-economic effects
-
-C. It is legally required to recommend exactly 1.5 times C2 for every crop
-
-D. It reimburses the separately verified cost of every farmer
-
-**Answer: B**
-
-- **A is wrong:** international prices are one factor among many.
-- **B is correct:** it captures the multi-factor recommendation framework.
-- **C is wrong:** the announced policy statement should not be converted into a
-  universal C2 formula.
-- **D is wrong:** recommendations rely on aggregate evidence, not farm-wise
-  reimbursement.
-
-### Cost ledger for revision
-
-1. A2 is paid-out cost.
-2. FL is imputed unpaid family labour.
-3. C2 adds imputed owned-land rent and fixed-capital interest.
-4. Imputed cost is economically real even without a cash payment.
-5. A2+FL is the commonly stated official cost base for the 50 per cent margin policy.
-6. MSP is not a simple reimbursement formula.
-7. Demand and supply enter CACP analysis.
-8. Inter-crop parity influences crop signals.
-9. Consumer-price effects matter.
-10. International prices matter but do not alone decide MSP.
-11. National average cost differs from individual farm cost.
-12. Cost policy must be linked to resource sustainability.
-
-### Answer discipline
-
-- Define the cost concept before evaluating the margin.
-- Distinguish imputed cost from cash expenditure.
-- Treat C2 as analytically broader, not as the automatically announced formula.
-- Add non-cost CACP factors for a complete Mains answer.
-
-**Ten-mark cost debate - 10 marks:** Why is the debate over the cost concept central to
+**Question (10 marks; 150-word ceiling):** cost debate - 10 marks: Why is the debate over the cost concept central to
 the MSP debate?
 
-**Model answer:** The apparent simplicity of a "cost-plus" MSP hides different cost
+**Model answer (within the 150-word ceiling):** The apparent simplicity of a "cost-plus" MSP hides different cost
 boundaries. A2 records paid-out expenses; A2+FL adds imputed family labour; C2 further
 adds rental value of owned land and interest on owned fixed capital. The current
 government margin statement is tied to the official all-India weighted average cost
@@ -574,9 +489,12 @@ cannot settle MSP: demand, supply, inter-crop parity, inflation, trade and natur
 use also matter. A defensible policy combines transparent cost estimates with broader
 market and sustainability tests.
 
----
+**Unique scoring guidance:** 3 marks for exact A2/A2+FL/C2 boundaries; 2 for the denominator dispute; 3 for CACP’s wider factors; 2 for a qualified affordability-productivity verdict.
 
-**Progress: 4/16 | Stage: Core | Subtopic: MSP is not procurement: announcement, market price, purchase and income support**
+---
+## Lesson 4 — MSP is not procurement: announcement, market price, purchase and income support
+
+Progress: 4/16 | Stage: Core | Subtopic: MSP is not procurement: announcement, market price, purchase and income support
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners and local food-management textbook evidence queried
@@ -655,66 +573,35 @@ payment, market development or direct income support.
 - Compare physical and non-physical support instruments.
 - Use "effective floor" only when enforcement or purchase credibility exists.
 
-### Diagnose the price-support claim
+### Revision notes
 
-**MCQ 7.** A crop has a notified MSP, but no nearby purchase centre and its market
-price falls below MSP. Which inference is most defensible?
+1. MSP is an announced support price; market price is realised in trade.
+2. Procurement is an actual eligible public purchase.
+3. Income support can protect households without purchasing crop.
+4. A crop may trade above, near or below MSP.
+5. Direct protection depends on purchase access, quality acceptance and payment.
+6. Universal physical purchase is neither the only nor always the best remedy.
+7. Deficiency payments avoid stock but create benchmark and verification risks.
+8. Effective support is measured by price-risk reduction, not notification alone.
 
-A. The farmer is legally certain to receive MSP from any private trader
+### Lesson-local PYQ linkage and answer approach
 
-B. Notification automatically converts the crop into Central Pool stock
+[2018 GS-III, Q3](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md#2018--gs-paper-iii): discuss MSP and protection from low farm income, 10 marks, 150 words. Approach: separate announcement, effective purchase access and complementary income-risk tools.
 
-C. The price signal exists, but operational protection may be weak
+### Concept check
 
-D. The market price must be treated as statistically invalid
+**Question:** A notified crop sells below MSP. What does this prove—and what does it not prove?
 
-**Answer: C**
+**Model answer:** It proves that the realised market transaction was below the announced floor for that sale. It may indicate weak purchase access or market power, but it does not prove that MSP has no signalling effect everywhere or that universal physical procurement is the only remedy.
 
-- **A is wrong:** MSP notification does not generally compel every private purchase at
-  that price.
-- **B is wrong:** stock arises only after procurement and acceptance.
-- **C is correct:** it separates announced coverage from accessible intervention.
-- **D is wrong:** a below-MSP market transaction remains a real market outcome.
+**Misconception to avoid:** Do not collapse announcement, market price, procurement payment and income support into one instrument.
 
-**MCQ 8.** Which policy supports farm income without necessarily requiring the State
-to acquire and store the crop?
+### Responsive Mains practice
 
-A. Open-ended physical procurement
-
-B. Buffer-stock accumulation
-
-C. Central Pool allocation
-
-D. Price-deficiency payment
-
-**Answer: D**
-
-- **A is wrong:** physical procurement transfers the crop to a public agency.
-- **B is wrong:** accumulation requires public stock ownership.
-- **C is wrong:** allocation distributes existing public grain.
-- **D is correct:** it can compensate a verified price gap without taking delivery.
-
-**Directly owned PYQ link:** [2018 GS-III, Q3 - MSP and protection from low farm
-income; Discuss; 10 marks; 150 words](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md#2018--gs-paper-iii)
-
-### Decision rules to retain
-
-1. MSP is an announced price, not a universal purchase guarantee.
-2. Procurement is a physical transaction.
-3. Market price can remain above MSP.
-4. Market price can fall below MSP.
-5. Credible procurement may support private bids.
-6. Quality specifications affect actual purchase.
-7. Distance and transaction cost affect access.
-8. Timely payment is part of operational protection.
-9. Income transfer does not itself stabilise crop price.
-10. Deficiency payment avoids stock accumulation but creates verification risks.
-11. Instrument choice should reflect crop and regional conditions.
-
-**Ten-mark instrument drill - 10 marks:** "MSP is a price signal; procurement is an
+**Question (10 marks; 150-word ceiling):** instrument drill - 10 marks: "MSP is a price signal; procurement is an
 implementation choice." Discuss.
 
-**Model answer:** MSP announces a crop-specific support price and can shape sowing
+**Model answer (within the 150-word ceiling):** MSP announces a crop-specific support price and can shape sowing
 expectations and market bids. It becomes direct protection only where a farmer can access
 a purchase agency, satisfy quality norms and receive timely payment. Procurement is the
 actual acquisition of accepted produce and may be open-ended for selected grain
@@ -725,9 +612,12 @@ physical procurement for strategic stocks, price-deficiency payments where stora
 undesirable, income support for household resilience, and stronger markets for durable
 competition.
 
----
+**Unique scoring guidance:** 2 marks for defining the four instruments; 3 for operational procurement access; 3 for complementary tools; 2 for a balanced conclusion on effective protection.
 
-**Progress: 5/16 | Stage: Core | Subtopic: How procurement works: operations, open-ended purchase and crop-regional concentration**
+---
+## Lesson 5 — How procurement works: operations, open-ended purchase and crop-regional concentration
+
+Progress: 5/16 | Stage: Core | Subtopic: How procurement works: operations, open-ended purchase and crop-regional concentration
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, local textbook procurement chapter and Economic Survey 2025-26 Box VI.5 queried
@@ -833,62 +723,42 @@ gradually reducing excess accumulation, not abruptly dismantle the food-security
 - Link concentration to water, fertiliser, power and diversification.
 - Distinguish procurement share from production share.
 
-### Test the purchase chain
-
 **Operational application.** A district reports that every farmer grows an MSP crop,
 but only a small proportion can reach a purchase centre before urgent loan repayments
-fall due. Diagnose the failure in one line before attempting the MCQs.
+fall due. Diagnose the failure in one line before the concept check.
 
 **Check:** Notification coverage is broad, but operational coverage is weak because
 time, distance and liquidity constraints prevent effective access.
 
-**MCQ 9.** In public foodgrain operations, "open-ended procurement" most accurately
-means:
+### Revision notes
 
-A. eligible quantities offered in the covered operation and meeting quality norms are
-purchased
+1. Procurement begins at an operating purchase centre.
+2. Eligibility requires the notified crop, period, documentation and quality.
+3. Open-ended purchase is bounded by operation, crop, region and quality.
+4. Rice-wheat dominance reflects infrastructure and repeated assurance.
+5. Regional concentration can support national supply while increasing water stress.
+6. Pulses and oilseeds require crop-specific agencies and market design.
+7. Payment delay can convert nominal support into farmer distress.
+8. Diversification must protect income before reducing established procurement.
 
-B. all agricultural output is bought without documentation
+### Lesson-local PYQ linkage and answer approach
 
-C. procurement agencies may ignore buffer and distribution requirements
+[2020 Prelims GS-I, Q69](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2020--gs-paper-i): operational limits of oilseed procurement. Demand: do not infer unlimited purchase from MSP notification; official key is unavailable locally.
 
-D. private traders must buy every MSP crop at the announced price
+### Concept check
 
-**Answer: A**
+**Question:** What makes procurement “open-ended” without making it universal?
 
-- **A is correct:** it retains the operational and quality conditions.
-- **B is wrong:** identity, crop, weighment and quality controls still matter.
-- **C is wrong:** stock and distribution consequences remain central.
-- **D is wrong:** open-ended public procurement is not a universal private-trader
-  mandate.
+**Model answer:** Within an announced operation, eligible produce meeting quality and documentation conditions can be purchased without a pre-fixed farmer-wise quantity ceiling. Crop, season, agency, geography, operational window and quality still bound the purchase.
 
-**MCQ 10.** Which combination most plausibly explains persistent rice-wheat
-procurement concentration?
+**Misconception to avoid:** Open-ended does not mean every crop, every farmer, every place and every quality is bought indefinitely.
 
-A. Uniform rainfed conditions and absence of public distribution demand
+### Responsive Mains practice
 
-B. Established purchase networks, irrigation, input support and repeated assurance
-
-C. Prohibition of cereal storage by public agencies
-
-D. MSP being announced only after private trade ends
-
-**Answer: B**
-
-- **A is wrong:** major procurement belts are not uniformly rainfed, and PDS demand
-  matters.
-- **B is correct:** the factors reinforce one another over time.
-- **C is wrong:** public storage is a central part of the system.
-- **D is wrong:** MSP is pre-announced rather than fixed after trade ends.
-
-**Directly owned PYQ link:** [2020 Prelims GS-I, Q69 - proposition concerning
-"unlimited" procurement of oilseeds at MSP; objective; local verified ledger notes
-answer key unavailable](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2020--gs-paper-i)
-
-**Ten-mark procurement drill - 10 marks:** Why can successful procurement become a source of
+**Question (10 marks; 150-word ceiling):** procurement drill - 10 marks: Why can successful procurement become a source of
 structural imbalance?
 
-**Model answer:** Procurement succeeds when it offers an accessible buyer, transparent
+**Model answer (within the 150-word ceiling):** Procurement succeeds when it offers an accessible buyer, transparent
 quality testing and timely MSP payment. Repeated cereal purchase has supported farmers,
 built national stocks and supplied PDS. However, an assured outlet combined with
 irrigation, subsidised power and fertiliser can repeatedly favour rice and wheat in
@@ -899,9 +769,12 @@ The solution is sequenced diversification: retain reliable cereal procurement, i
 access in underserved regions, build pulse-oilseed value chains and use targeted
 transition incentives instead of a sudden withdrawal.
 
----
+**Unique scoring guidance:** 2 marks for the purchase-centre chain; 3 for open-ended limits; 3 for crop-regional concentration and consequences; 2 for farmer-safe reform.
 
-**Progress: 6/16 | Stage: Core | Subtopic: FCI and decentralised procurement: a federal grain-management chain**
+---
+## Lesson 6 — FCI and decentralised procurement: a federal grain-management chain
+
+Progress: 6/16 | Stage: Core | Subtopic: FCI and decentralised procurement: a federal grain-management chain
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, FCI operational material and local DCP evidence queried
@@ -972,69 +845,34 @@ decentralisation works when authority and accountability move together.
 
 ### Federal-operation checks
 
-**MCQ 11.** Which is a potential advantage of decentralised procurement?
+### Revision notes
 
-A. It abolishes common quality and accounting standards
+1. FCI and State agencies together create the Central Pool.
+2. Centralised procurement and DCP are alternative operational routes.
+3. DCP States procure, store and issue local requirements.
+4. DCP can reduce movement and match local food preference.
+5. State capacity, quality control, reimbursement and audit determine success.
+6. FCI remains necessary for national balancing and inter-State movement.
+7. Decentralisation reallocates functions; it does not erase Union responsibility.
+8. Judge the federal chain by timely purchase, safe stocks and reliable issue.
 
-B. It makes national inter-State movement unnecessary in every year
+### Lesson-local PYQ linkage and answer approach
 
-C. It can reduce avoidable movement and align procurement with local distribution
+Cross-link the 2019 distribution-reform demand to federal procurement and movement: explain when DCP improves local purchase and when capacity, audit or inter-State balancing remains necessary.
 
-D. It transfers the constitutional power to fix MSP to fair price shops
+### Concept check
 
-**Answer: C**
+**Question:** When does decentralised procurement improve food management?
 
-- **A is wrong:** decentralisation still requires standards and audit.
-- **B is wrong:** surplus-deficit geography may still require inter-State movement.
-- **C is correct:** proximity and local matching are core potential benefits.
-- **D is wrong:** FPSs do not fix MSP.
+**Model answer:** It helps when a capable State can procure locally, maintain quality, store and issue grain, reduce avoidable movement and match local preferences. Common standards, reimbursement discipline, audit and Central balancing remain necessary.
 
-**MCQ 12.** Which statement is **not** correct about the federal
-foodgrain chain?
+**Misconception to avoid:** Do not confuse decentralisation with the disappearance of Union finance, FCI coordination or accountability.
 
-A. State agencies may procure grain under recognised arrangements
+### Responsive Mains practice
 
-B. DCP can combine local procurement, storage and issue
+**Question (10 marks; 150-word ceiling):** federal drill - 10 marks: Assess decentralised procurement as a federal reform.
 
-C. Inter-State balancing may still require FCI-coordinated movement
-
-D. A Central allocation conclusively proves delivery to each intended household
-
-**Answer: D**
-
-- **A is wrong:** the statement is true; State agencies may procure under recognised
-  arrangements.
-- **B is wrong:** the statement is true; DCP can combine local procurement, storage
-  and issue.
-- **C is wrong:** the statement is true; production and requirement remain spatially
-  unequal, so inter-State balancing may still be needed.
-- **D is correct:** it is the only incorrect statement; allocation is an upstream
-  administrative quantity and cannot prove final receipt.
-
-### Federal answer cues
-
-- Do not write that FCI alone buys and distributes all grain.
-- Use DCP to show cooperative federalism and local preference.
-- Identify both benefits and capacity risks.
-- Trace Centre, FCI, State agency and FPS roles separately.
-
-### Centre-State recall
-
-1. FCI is a statutory corporation.
-2. Its core functions include procurement, storage, movement and distribution support.
-3. Central Pool stock can include grain procured by different agencies.
-4. DCP was operationalised to deepen State participation.
-5. DCP States procure, store and issue their local requirement.
-6. Union reimbursement follows applicable norms.
-7. DCP can lower unnecessary long-distance movement.
-8. DCP can support locally preferred grain.
-9. State capacity and audit quality vary.
-10. Allocation, offtake and receipt are distinct.
-11. Food management is an example of operational federalism.
-
-**Ten-mark federal drill - 10 marks:** Assess decentralised procurement as a federal reform.
-
-**Model answer:** Decentralised procurement allows designated States to procure, store
+**Model answer (within the 150-word ceiling):** Decentralised procurement allows designated States to procure, store
 and distribute foodgrains for their local public-distribution requirement, with central
 reimbursement under prescribed norms. It can extend price support, reduce avoidable
 movement, lower handling and preserve local dietary preference. It also uses State
@@ -1045,9 +883,12 @@ withdrawal of the Centre but a reallocation of operations. Its success requires 
 data standards, transparent reimbursement, scientific storage, independent audit and
 clear responsibility from purchase centre to household.
 
----
+**Unique scoring guidance:** 2 marks for centralised/DCP distinction; 3 for efficiency benefits; 3 for capacity, audit and balancing risks; 2 for a conditional federal verdict.
 
-**Progress: 7/16 | Stage: Advanced | Subtopic: What food really costs the State: acquisition, distribution, carrying cost and subsidy**
+---
+## Lesson 7 — What food really costs the State: acquisition, distribution, carrying cost and subsidy
+
+Progress: 7/16 | Stage: Core | Subtopic: What food really costs the State: acquisition, distribution, carrying cost and subsidy
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, FCI cost concepts and OCR-searchable textbook evidence queried
@@ -1139,6 +980,36 @@ years without eliminating the underlying cost. UPSC answers should distinguish:
 - arrears or financing liabilities;
 - the social value of the entitlement.
 
+### Shanta Kumar Committee: reform package and boundary
+
+The **High-Level Committee on restructuring FCI**, chaired by **Shanta Kumar**, is a
+named reform anchor rather than current law. Its recommendations included:
+
+- let experienced States undertake more procurement while FCI concentrates direct
+  operations in underserved eastern regions where small farmers face distress-sale risk;
+- modernise and outsource storage through competitive warehousing, silos and mechanised
+  depots, with end-to-end computerisation;
+- rationalise excess stocks and improve movement, quality control and cost discipline;
+- reduce NFSA coverage from about 67 per cent to 40 per cent while raising the proposed
+  priority-household quantity from 5 kg to 7 kg per person; and
+- introduce cash transfer gradually, beginning with large cities and areas with adequate
+  banking and grain markets.
+
+The operational recommendations can reduce FCI cost and widen procurement reach, but the
+coverage proposal was not adopted as a wholesale replacement of NFSA. A narrower roll can
+increase exclusion, while cash works only if transfers are timely and indexed and local
+food markets, bank access and household control over the benefit are reliable.
+
+### Cash-transfer food subsidy: actual locations, not a national replacement
+
+The DFPD **Annual Report 2024-25** records NFSA implementation in cash-transfer mode in
+**Chandigarh, Puducherry, and some areas of the Union Territory of Dadra and Nagar Haveli
+and Daman and Diu**. Food subsidy is credited to beneficiary bank accounts, after which
+households buy grain in the open market. This is a continuing location-specific mode under
+the Cash Transfer of Food Subsidy Rules, not proof of nationwide replacement of in-kind
+TPDS. It can reduce handling and diversion, but shifts inflation, market-availability,
+payment-timing, banking-access and intra-household control risks toward beneficiaries.
+
 ### Comparison
 
 | Question | Correct metric |
@@ -1164,8 +1035,6 @@ fiscal transfer remains whenever public economic cost exceeds issue receipts.
 distribution cost is then added to obtain economic cost. Carrying cost is related but
 must not be used as a substitute name for either formula.
 
-### Calculation and diagnosis
-
 **Calculation drill.** Purchase price is Rs 2,400, procurement incidentals are Rs 250
 and distribution cost is Rs 650 per quintal. Find acquisition cost and economic cost.
 Then identify one separate reason why the subsidy bill could rise even if these unit
@@ -1175,86 +1044,59 @@ costs do not.
 procured or issued, a lower issue receipt, or prolonged excess holding can raise total
 subsidy pressure.
 
-**MCQ 13.** Which expression best describes FCI's economic cost of foodgrains?
+### Revision notes
 
-A. Acquisition cost plus distribution cost
+1. Farm cost and public food-management cost are different ledgers.
+2. Acquisition cost combines purchase value and procurement incidentals.
+3. FCI economic cost combines acquisition and distribution cost.
+4. Carrying cost arises from holding stocks over time.
+5. Food subsidy finances the policy-relevant cost-receipt gap.
+6. Free issue increases fiscal support while protecting household consumption.
+7. Excess stocks, freight and incidentals can raise subsidy without larger entitlements.
+8. Cost reform should remove inefficiency, not dilute statutory quantity.
+9. Shanta Kumar Committee recommendations must be separated from provisions actually adopted.
+10. Cash-transfer food subsidy currently operates only in named locations, not nationwide.
 
-B. MSP minus procurement incidentals
+### Lesson-local PYQ linkage and answer approach
 
-C. Central issue receipt plus household income
+[2019 Prelims GS-I, Q79](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2019--gs-paper-i): FCI economic-cost formula. Demand: distinguish acquisition cost from distribution cost; official key is unavailable locally.
 
-D. Carrying cost alone
+### Concept check
 
-**Answer: A**
+**Question:** Why is MSP not the same as FCI economic cost?
 
-- **A is correct:** it is the standard two-part cost expression.
-- **B is wrong:** incidentals add to, rather than subtract from, acquisition cost.
-- **C is wrong:** household income is not an FCI cost component.
-- **D is wrong:** carrying cost is only one stock-related burden.
+**Model answer:** MSP or the pooled purchase price is only the starting purchase component. Acquisition cost adds procurement incidentals; economic cost adds distribution cost, while carrying cost reflects holding inventory over time.
 
-**MCQ 14.** Which change can reduce food-management cost without reducing an NFSA
-household's legal grain quantity?
+**Misconception to avoid:** Do not attribute freight, storage and distribution expenditure to the farmer-cost concepts A2 or C2.
 
-A. Counting allocation as final delivery
+### Responsive Mains practice
 
-B. Reducing avoidable excess stocks and improving movement efficiency
+**Question (10 marks; 150-word ceiling):** subsidy drill - 10 marks: How should food subsidy be evaluated?
 
-C. Treating MSP and economic cost as identical
-
-D. Delaying subsidy recognition outside the budget
-
-**Answer: B**
-
-- **A is wrong:** it hides, rather than fixes, delivery failure.
-- **B is correct:** operational savings need not cut entitlements.
-- **C is wrong:** the concepts have different cost boundaries.
-- **D is wrong:** financing delay moves the liability and weakens transparency.
-
-**Directly owned PYQ link:** [2019 Prelims GS-I, Q79 - formula for economic cost of
-foodgrains to FCI; objective; local verified ledger notes answer key unavailable](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2019--gs-paper-i)
-
-### Cost identities to retain
-
-1. MSP is not FCI economic cost.
-2. Acquisition cost includes procurement incidentals.
-3. Distribution cost is added to obtain economic cost.
-4. Carrying cost increases with stock and time.
-5. Free issue increases the fiscal gap but also expands access.
-6. Subsidy amount is a dated budget fact.
-7. Off-budget financing does not remove economic liability.
-8. Cost decomposition is better than calling all subsidy waste.
-9. Efficient movement and storage can protect welfare while reducing cost.
-10. Excess procurement can create avoidable carrying burden.
-11. Social benefit and operational efficiency are separate evaluations.
-
-### Cost-accounting answer cues
-
-- Write the economic-cost formula exactly.
-- Do not equate subsidy with MSP.
-- Separate benefit generosity from delivery inefficiency.
-- Mention transparent budgeting and timely reimbursement as reforms.
-
-**Ten-mark subsidy drill - 10 marks:** How should food subsidy be evaluated?
-
-**Model answer:** Food subsidy should be decomposed rather than judged by its headline
+**Model answer (within the 150-word ceiling):** Food subsidy should be decomposed rather than judged by its headline
 size. FCI economic cost includes acquisition cost - the pooled purchase price plus
 procurement incidentals - and distribution cost. The fiscal gap also reflects the
 applicable issue receipt, while excessive stocks add carrying cost, interest, handling
 and deterioration risk. Part of subsidy finances a rights-based transfer that protects
 real consumption and price stability; part may arise from avoidable procurement,
 logistics or accounting inefficiency. Reform should preserve NFSA quantities while
-improving stock rotation, movement, storage, cost norms, reimbursement and transparent
-budget recognition. Fiscal prudence and food security are compatible when cost
-reduction targets the chain rather than the beneficiary.
+improving stock rotation, silos, movement, cost norms and transparent budgeting, as the
+operational side of the Shanta Kumar reform debate suggests. Cash-transfer food subsidy
+in Chandigarh, Puducherry and some areas of Dadra and Nagar Haveli and Daman and Diu is
+location-specific; expansion requires reliable markets, indexation, banking access and
+beneficiary choice. Fiscal prudence should target the chain, not the entitlement.
+
+**Unique scoring guidance:** 3 marks for the economic-cost identity; 2 for subsidy logic; 3 for named cost drivers and efficiency reforms; 2 for preserving entitlement while reducing waste.
 
 ---
+## Lesson 8 — Why India holds grain: buffer-stock norms, actual stocks and stock discipline
 
-**Progress: 8/16 | Stage: Core | Subtopic: Why India holds grain: buffer-stock norms, actual stocks and stock discipline**
+Progress: 8/16 | Stage: Core | Subtopic: Why India holds grain: buffer-stock norms, actual stocks and stock discipline
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, official buffer-norm table and local textbook evidence queried
 CA search: "DFPD buffer stocking norms Central Pool official"
-CA found: DFPD's Central Pool norm document, rechecked on 24 September 2026, continues to publish the quarterly norms effective from 22 January 2015; norms must be compared with dated actual stock
+CA found: DFPD's Central Pool norm document, rechecked on 3 October 2026, continues to publish the quarterly norms effective from 22 January 2015; norms must be compared with dated actual stock
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## A norm is a benchmark; a stock is an observed quantity
@@ -1283,7 +1125,7 @@ seasonal.
 | 1 January | 138.00 | 76.10 | 214.10 |
 
 These revised norms took effect on **22 January 2015**; the DFPD norm page/document was
-rechecked on **24 September 2026**. The dates are important: the table is not an annual
+rechecked on **3 October 2026**. The dates are important: the table is not an annual
 average or a permanent statement of actual stock.
 
 ### Why the seasonal profile changes
@@ -1340,74 +1182,41 @@ and release decisions remain institutionally disconnected or politically delayed
 - Explain both understock and overstock risks.
 - Link norm design to seasonality and NFSA.
 
-### Stock decision checks
-
 **Diagnostic prompt.** A candidate compares a 1 July actual-stock figure with the
 1 April norm and declares a surplus. Identify the error.
 
 **Check:** The comparison uses mismatched dates. Seasonal norms must be matched to the
 same observation date before pipeline and quality are assessed.
 
-**MCQ 15.** On a particular date, actual Central Pool stock is above the buffer norm.
-Which conclusion is safest?
+### Revision notes
 
-A. Every unit above the norm is unusable
+1. A buffer norm is a date-specific benchmark, not actual stock.
+2. Operational stock supports routine distribution; strategic reserve covers shocks.
+3. The quarterly profile changes with procurement and issue seasons.
+4. Understock threatens NFSA delivery and emergency resilience.
+5. Persistent overstock raises storage, interest and quality costs.
+6. Stock decisions require pipeline, procurement and demand forecasts.
+7. Modern silos, rotation and scientific handling protect grain quality.
+8. Norms should discipline decisions without becoming mechanical disposal rules.
 
-B. NFSA entitlements must be suspended
+### Lesson-local PYQ linkage and answer approach
 
-C. The system may have excess stock, but expected procurement, issues, pipeline needs
-and quality must also be examined
+[2024 GS-III, Q14](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md#2024--gs-paper-iii): elucidate buffer stocks in price stabilisation and storage challenges, 15 marks, 250 words. Approach: functions, date-specific norms, overstock costs and storage reform.
 
-D. The norm and the actual stock are the same accounting concept
+### Concept check
 
-**Answer: C**
+**Question:** Why can stock above a quarterly norm be both useful and costly?
 
-- **A is wrong:** stock above norm may still be usable and seasonally justified.
-- **B is wrong:** high stock does not justify suspending entitlements.
-- **C is correct:** it treats the norm as a benchmark within an operational forecast.
-- **D is wrong:** one is a standard and the other an observed quantity.
+**Model answer:** The excess may cover imminent issues, procurement arrivals or shocks, but persistent excess raises interest, storage, handling, quality-loss and market-crowding costs. The decision requires a dated stock-flow forecast, not a mechanical sale rule.
 
-**MCQ 16.** Why is the 1 July combined buffer norm substantially higher than the
-1 April norm?
+**Misconception to avoid:** Do not treat a norm as either the actual stock or an automatic disposal command.
 
-A. NFSA applies only in July
+### Responsive Mains practice
 
-B. Rice cannot be stored after April
-
-C. The strategic reserve is legally abolished in winter
-
-D. Seasonal procurement, especially wheat arrivals, changes the required stock profile
-
-**Answer: D**
-
-- **A is wrong:** NFSA distribution is not a July-only programme.
-- **B is wrong:** rice remains part of Central Pool stocks across dates.
-- **C is wrong:** strategic reserve is part of the norm framework.
-- **D is correct:** procurement and issue cycles make requirements seasonal.
-
-**Directly owned PYQ link:** [2024 GS-III, Q14 - importance of buffer stocks for
-stabilising agricultural prices and storage challenges; Elucidate; 15 marks; 250
-words](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md#2024--gs-paper-iii)
-
-### Stock-management memory strip
-
-1. Buffer norm is not actual stock.
-2. Central Pool norms cover wheat and rice.
-3. Norms vary by quarter.
-4. Procurement cycles explain seasonal variation.
-5. Operational stock supports routine issue.
-6. Strategic reserve supports shocks.
-7. Understock can weaken entitlement delivery.
-8. Overstock raises carrying cost.
-9. Overstock can crowd out private storage and trade.
-10. Old grain requires rotation.
-11. Any stock claim needs a date and unit.
-12. Review should be risk-based and transparent.
-
-**Ten-mark buffer drill - 10 marks:** Explain why buffer-stock policy requires both
+**Question (10 marks; 150-word ceiling):** buffer drill - 10 marks: Explain why buffer-stock policy requires both
 adequacy and discipline.
 
-**Model answer:** Buffer stocks provide grain for NFSA issues, emergencies and market
+**Model answer (within the 150-word ceiling):** Buffer stocks provide grain for NFSA issues, emergencies and market
 stabilisation. Adequacy therefore requires an operational stock plus a strategic
 reserve, with quarterly norms reflecting seasonal wheat and rice procurement. Yet
 actual stock persistently above requirement creates interest, storage, handling and
@@ -1423,7 +1232,12 @@ Holding grain is only the inward half of stabilisation. The next decision is whe
 where, how much and at what reserve price to release without weakening entitlements or
 ordinary trade.
 
-**Progress: 9/16 | Stage: Advanced | Subtopic: How stocks stabilise prices: OMSS, releases, rotation and limits**
+**Unique scoring guidance:** 2 marks for functions; 2 for norm-versus-stock precision; 3 for understock/overstock risks; 3 for storage, rotation and release reform.
+
+---
+## Lesson 9 — How stocks stabilise prices: OMSS, releases, rotation and limits
+
+Progress: 9/16 | Stage: Core | Subtopic: How stocks stabilise prices: OMSS, releases, rotation and limits
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, DFPD/FCI scheme material and local OMSS chapter queried
@@ -1528,65 +1342,41 @@ consumer prices; the causal chain must reach the retail market.
 10. Excessively cheap release can crowd out private trade.
 11. Price stabilisation requires logistics and competition.
 
-### OMSS decision checks
-
 **Decision exercise.** Stock is adequate, but tomato inflation is high while cereal
 prices are stable. Should wheat OMSS be the primary response?
 
 **Check:** No. Commodity mismatch matters. A wheat release cannot directly correct a
 tomato supply shock, though wider food-price expectations may have indirect effects.
 
-**MCQ 17.** Which statement correctly distinguishes OMSS from TPDS?
+### Revision notes
 
-A. OMSS releases Central Pool grain into the market; TPDS delivers entitlement-based
-allocations through fair price shops
+1. OMSS releases Central Pool grain into the open market.
+2. TPDS delivers entitlement-based grain; the two channels are different.
+3. Release timing, quantity, geography and reserve price determine bidding.
+4. A sale offer that receives no bids does not augment supply.
+5. Retail pass-through can fail because of freight, milling or market power.
+6. OMSS cannot substitute for production, trade and logistics policy.
+7. Transparent release rules reduce uncertainty for private storage.
+8. Price stabilisation requires adequate stocks plus a credible transmission chain.
 
-B. OMSS determines the MSP, while TPDS recommends it
+### Lesson-local PYQ linkage and answer approach
 
-C. OMSS identifies NFSA households, while TPDS regulates exports
+[2020 Prelims GS-I, Q63](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2020--gs-paper-i): factors affecting rice prices. Demand: combine production, procurement, public stocks, trade, transport and release policy; official key is unavailable locally.
 
-D. Both are identical names for open-ended procurement
+### Concept check
 
-**Answer: A**
+**Question:** Why may an OMSS release fail to reduce retail prices?
 
-- **A is correct:** it separates market release from rights-based distribution.
-- **B is wrong:** neither process fixes MSP.
-- **C is wrong:** the stated institutional roles are unrelated.
-- **D is wrong:** procurement brings grain in; OMSS and TPDS move it out through
-  different channels.
+**Model answer:** The release may be too small, mistimed, geographically misplaced, priced above bidders’ willingness, weakly competed for, or blocked by milling, freight and market-power bottlenecks before reaching consumers.
 
-**MCQ 18.** An OMSS auction fails to attract buyers because its reserve price is above
-the relevant market price. What is the most likely immediate result?
+**Misconception to avoid:** Do not equate grain offered in auction with grain sold, moved or passed through to retail prices.
 
-A. NFSA coverage automatically expands
+### Responsive Mains practice
 
-B. The intended market-supply augmentation remains weak
-
-C. The buffer norm becomes legally invalid
-
-D. The MSP for the next crop season is automatically reduced
-
-**Answer: B**
-
-- **A is wrong:** NFSA coverage is not determined by auction participation.
-- **B is correct:** unsold quantity does not add effective market supply.
-- **C is wrong:** an auction outcome does not invalidate the norm.
-- **D is wrong:** future MSP requires a separate decision process.
-
-**Directly owned PYQ link:** [2020 Prelims GS-I, Q63 - factors affecting rice prices
-in India; objective; local verified ledger notes answer key unavailable](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2020--gs-paper-i)
-
-### Price-stabilisation answer cues
-
-- Separate OMSS from NFSA entitlement.
-- Explain release design rather than merely naming FCI.
-- Mention retail transmission and commodity mismatch.
-- Connect stock rotation to cost and quality.
-
-**Ten-mark release drill - 10 marks:** How can buffer stocks stabilise prices without
+**Question (10 marks; 150-word ceiling):** release drill - 10 marks: How can buffer stocks stabilise prices without
 distorting markets?
 
-**Model answer:** Buffer stocks stabilise prices when procurement prevents a severe
+**Model answer (within the 150-word ceiling):** Buffer stocks stabilise prices when procurement prevents a severe
 harvest collapse and calibrated release adds supply during scarcity. OMSS can offload
 surplus, rotate ageing grain and moderate cereal prices. The effect, however, depends on
 timing, quantity, reserve price, geography, auction competition and retail
@@ -1602,7 +1392,12 @@ Procurement, storage and market release explain how the State manages grain. The
 not yet explain who has a legal claim to receive it; that shift from inventory to
 entitlement is the purpose of NFSA.
 
-**Progress: 10/16 | Stage: Core | Subtopic: NFSA as a legal entitlement: coverage, quantities and institutional architecture**
+**Unique scoring guidance:** 2 marks for OMSS mechanism; 3 for timing-price-quantity-geography; 3 for pass-through limits; 2 for a transparent rule-based conclusion.
+
+---
+## Lesson 10 — NFSA as a legal entitlement: coverage, quantities and institutional architecture
+
+Progress: 10/16 | Stage: Core | Subtopic: NFSA as a legal entitlement: coverage, quantities and institutional architecture
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, NFSA text and DFPD implementation material queried
@@ -1697,79 +1492,41 @@ correction.
 **Concept-derived trap:** Coverage ceiling, identified beneficiary, entitlement,
 allocation, offtake and receipt are six different propositions.
 
-### Entitlement cases
-
 **Short application.** A six-member PHH and a six-member AAY household each arrive in
-the same month. Calculate the entitlement before looking at the MCQs.
+the same month. Calculate the entitlement before the concept check.
 
 **Check:** PHH = 30 kg; AAY = 35 kg. Household size changes PHH quantity but not the
 fixed AAY quantity.
 
-**MCQ 19.** A five-member Priority Household is correctly entitled under NFSA to:
+### Revision notes
 
-A. 35 kg per person per month
+1. NFSA converts specified food access into a statutory entitlement.
+2. Coverage ceilings and individual entitlement quantities are different concepts.
+3. PHH receives 5 kg per person per month.
+4. AAY receives 35 kg per household per month.
+5. Free issue changes price, not category or quantity.
+6. States identify beneficiaries within the national framework.
+7. State Food Commissions and DGROs support accountability.
+8. NFSA protects cereal access but cannot alone eliminate malnutrition.
 
-B. 5 kg per household per month
+### Lesson-local PYQ linkage and answer approach
 
-C. 25 kg per household per month
+[2021 GS-III, Q13](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md#2021--gs-paper-iii): salient features of NFSA and its role against hunger and malnutrition, 15 marks, 250 words. Approach: legal entitlements, institutions, delivery and the nutrition limitation.
 
-D. a quantity determined only by open-market price
+### Concept check
 
-**Answer: C**
+**Question:** What did NFSA change even when foodgrain had already been distributed earlier?
 
-- **A is wrong:** 35 kg applies per AAY household, not per PHH person.
-- **B is wrong:** PHH receives 5 kg per person.
-- **C is correct:** five persons multiplied by 5 kg equals 25 kg.
-- **D is wrong:** the legal quantity is category-based, not market-price based.
+**Model answer:** It converted specified access into a statutory entitlement with defined categories, quantities, coverage ceilings and accountability institutions. Implementation remains federal, and cereal rights alone cannot eliminate malnutrition.
 
-**MCQ 20.** Under the current free-foodgrain arrangement, which element remains
-unchanged?
+**Misconception to avoid:** Do not confuse a legal entitlement with automatic inclusion, flawless delivery or complete nutrition.
 
-A. Household identification is abolished
+### Responsive Mains practice
 
-B. Every resident becomes an AAY beneficiary
-
-C. OMSS becomes the delivery mechanism
-
-D. The distinction between PHH and AAY entitlement quantities
-
-**Answer: D**
-
-- **A is wrong:** eligibility and lists remain operationally necessary.
-- **B is wrong:** free issue does not universalise AAY status.
-- **C is wrong:** NFSA delivery continues through TPDS, not OMSS.
-- **D is correct:** price becomes zero, while category and quantity rules remain.
-
-**Directly owned PYQ link:** [2021 GS-III, Q13 - salient features of the National Food
-Security Act, 2013 and its role in eliminating hunger and malnutrition; What are; 15
-marks; 250 words](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md#2021--gs-paper-iii)
-
-### Entitlement-writing rules
-
-- Write PHH per person and AAY per household.
-- Distinguish free issue from entitlement quantity.
-- Include grievance and monitoring institutions.
-- Discuss dynamic inclusion and exclusion.
-
-### NFSA memory card
-
-1. NFSA is a statutory entitlement framework.
-2. Rural and urban coverage ceilings differ.
-3. PHH entitlement is person-based.
-4. AAY entitlement is household-based.
-5. Free issue does not change the quantity formula.
-6. Current free-foodgrain period runs from January 2024 through December 2028.
-7. States identify beneficiaries within the framework.
-8. State Food Commissions monitor implementation.
-9. DGROs provide district grievance redress.
-10. Allocation is not receipt.
-11. NFSA includes nutrition-related provisions beyond cereals.
-12. Dynamic updating needs due process.
-
-**Ten-mark rights drill - 10 marks:** How did NFSA change India's food-security
+**Question (10 marks; 150-word ceiling):** rights drill - 10 marks: How did NFSA change India's food-security
 architecture?
 
-**Model answer:** NFSA transformed selected food support from an executive scheme into
+**Model answer (within the 150-word ceiling):** NFSA transformed selected food support from an executive scheme into
 a legal entitlement. It provides different coverage ceilings for rural and urban
 populations, 5 kg per person for Priority Households and 35 kg per AAY household, and
 creates monitoring and grievance institutions. States identify beneficiaries and run
@@ -1780,9 +1537,12 @@ accountability, yet stale lists, exclusion, population change and uneven grievan
 capacity remain. Dynamic inclusion, transparent deletion rules and nutrition-sensitive
 delivery are necessary to realise the statute.
 
----
+**Unique scoring guidance:** 3 marks for NFSA legal features and quantities; 2 for institutions; 3 for hunger versus malnutrition analysis; 2 for rights-compatible reform.
 
-**Progress: 11/16 | Stage: Core | Subtopic: How TPDS delivers: identification, allocation, offtake and the last-mile federal chain**
+---
+## Lesson 11 — How TPDS delivers: identification, allocation, offtake and the last-mile federal chain
+
+Progress: 11/16 | Stage: Core | Subtopic: How TPDS delivers: identification, allocation, offtake and the last-mile federal chain
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, NFSA implementation material and PDS reform evidence queried
@@ -1867,8 +1627,6 @@ people whose incomes and residence are hard to document.
 needs broad and current coverage, presumptive inclusion for vulnerable groups, simple
 self-declaration, rapid appeal and no denial solely because technology fails.
 
-### Delivery-chain diagnosis
-
 **Case diagnosis.** A dashboard shows 100 per cent ePoS authentication, but local
 social audit finds repeated short weighing. What has technology solved, and what has it
 not solved?
@@ -1877,75 +1635,35 @@ not solved?
 physical quantity delivered. Weighment, beneficiary verification and grievance remain
 necessary.
 
-**MCQ 21.** Which sequence correctly orders the TPDS chain?
+### Revision notes
 
-A. Identification -> allocation -> offtake/movement -> FPS transaction -> household
-receipt
+1. TPDS runs from identification to allocation, offtake, FPS stock and receipt.
+2. Allocation is not the same as household delivery.
+3. Leakage diverts benefits; exclusion denies genuine claimants.
+4. Digitisation improves traceability but does not prove receipt.
+5. Stock display, receipts, audits and grievance systems strengthen accountability.
+6. Targeting saves fiscal resources but creates identification risk.
+7. Fallback delivery is essential during authentication or connectivity failure.
+8. The final performance metric is correct and timely household receipt.
 
-B. Household receipt -> CACP recommendation -> MSP -> allocation
+### Lesson-local PYQ linkage and answer approach
 
-C. OMSS auction -> AAY identification -> buffer norm -> procurement
+[2019 GS-III, Q13](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md#2019--gs-paper-iii) and [2022 GS-III, Q3](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md#2022--gs-paper-iii): distribution reform and PDS transparency. Approach: trace allocation to receipt and pair leakage control with exclusion safeguards.
 
-D. MSP -> WTO notification -> ration-card deletion -> household receipt
+### Concept check
 
-**Answer: A**
+**Question:** Why are allocation, offtake and household receipt different performance measures?
 
-- **A is correct:** it follows the operational flow.
-- **B is wrong:** receipt cannot precede identification and allocation.
-- **C is wrong:** OMSS is not the entry point for NFSA delivery.
-- **D is wrong:** the listed steps do not form a delivery chain.
+**Model answer:** Allocation is an upstream authorisation, offtake records lifting into the distribution chain, and receipt tests whether the entitled person obtained the correct quantity and quality without avoidable denial. Each can diverge from the next.
 
-**MCQ 22.** Which reform most directly guards against a genuine beneficiary being
-denied grain because biometric authentication fails?
+**Misconception to avoid:** Do not use a high allocation figure as proof of zero leakage or zero exclusion.
 
-A. A higher procurement incidentals rate
+### Responsive Mains practice
 
-B. A clearly enforced alternate authentication and exception mechanism
-
-C. A lower buffer norm on every quarterly date
-
-D. A ban on inter-State portability
-
-**Answer: B**
-
-- **A is wrong:** acquisition charges do not solve last-mile authentication.
-- **B is correct:** an exception route preserves the right when technology fails.
-- **C is wrong:** stock norms do not resolve individual authentication failure.
-- **D is wrong:** restricting portability can worsen migrant exclusion.
-
-**Directly owned PYQ links:**
-
-- [2019 GS-III, Q13 - reformative steps to make the foodgrain distribution system
-  effective; Discuss; 15 marks; 250 words](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md#2019--gs-paper-iii)
-- [2022 GS-III, Q3 - major challenges of PDS and measures for effectiveness and
-  transparency; Discuss; 10 marks; 150 words](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md#2022--gs-paper-iii)
-
-### Last-mile control points
-
-1. TPDS operationalises targeted grain delivery.
-2. Identification precedes entitlement access.
-3. States manage beneficiary identification.
-4. Allocation is an administrative upstream quantity.
-5. Offtake is not household receipt.
-6. FPS stock is a critical last-mile node.
-7. Leakage and exclusion are different failures.
-8. Quality and quantity both matter.
-9. Social audit complements digital monitoring.
-10. Authentication needs an exception route.
-11. Grievance redress is part of entitlement, not an optional add-on.
-12. Targeting requires dynamic records.
-
-### PDS answer route
-
-- Trace the chain from identification to receipt.
-- Pair leakage control with exclusion safeguards.
-- Mention transparency, grievance and local accountability.
-- Avoid claiming digitisation automatically proves delivery.
-
-**Ten-mark delivery drill - 10 marks:** Why must PDS reform address both leakage and
+**Question (10 marks; 150-word ceiling):** delivery drill - 10 marks: Why must PDS reform address both leakage and
 exclusion?
 
-**Model answer:** Leakage diverts grain or subsidy away from intended beneficiaries,
+**Model answer (within the 150-word ceiling):** Leakage diverts grain or subsidy away from intended beneficiaries,
 while exclusion denies an eligible person entry or delivery. Digitised lists, supply-
 chain tracking, ePoS and transaction records can reduce duplicate cards and diversion.
 The same tools can exclude migrants, elderly persons or workers when identity data,
@@ -1955,9 +1673,12 @@ deletion, social audit, stock display, DGRO access and time-bound appeal. The co
 metric is not merely grain allocated or transactions authenticated, but reliable
 household receipt without avoidable diversion or denial.
 
----
+**Unique scoring guidance:** 2 marks for the delivery chain; 3 for leakage/exclusion distinction; 3 for named transparency and fallback measures; 2 for receipt-based evaluation.
 
-**Progress: 12/16 | Stage: Advanced | Subtopic: Portability and technology: ONORC, digitisation, leakage control and exclusion risk**
+---
+## Lesson 12 — Portability and technology: ONORC, digitisation, leakage control and exclusion risk
+
+Progress: 12/16 | Stage: Core | Subtopic: Portability and technology: ONORC, digitisation, leakage control and exclusion risk
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, DFPD portability material and Economic Survey 2025-26 queried
@@ -2072,8 +1793,6 @@ succeeds.
 - State the 36-State/UT status with its date.
 - Pair digital gains with denial and privacy risks.
 
-### Migrant entitlement cases
-
 **Failure-mode exercise.** Classify each case: (i) listed worker cannot use the home
 FPS while away; (ii) worker is missing from the beneficiary list; (iii) listed worker's
 fingerprint fails at destination.
@@ -2081,44 +1800,34 @@ fingerprint fails at destination.
 **Check:** (i) portability failure, (ii) identification/coverage exclusion, (iii)
 authentication failure requiring an exception route.
 
-**MCQ 23.** Which description of ONORC is most accurate?
+### Revision notes
 
-A. It replaces NFSA categories with universal grain access
+1. ONORC makes an existing NFSA entitlement portable.
+2. Portability does not create eligibility or change PHH/AAY status.
+3. Nationwide enablement assists migrants and split-family lifting.
+4. Digitised ration records and ePoS support interstate settlement.
+5. Authentication failure can still deny a genuine beneficiary.
+6. Alternate, offline and exception handling protect the right to food.
+7. Dynamic inclusion and appeal remain separate from portability.
+8. Evaluate ONORC through successful receipt, not transaction counts alone.
 
-B. It fixes MSP uniformly across States
+### Lesson-local PYQ linkage and answer approach
 
-C. It makes an existing NFSA entitlement portable across enabled fair price shops
+The PDS-reform PYQs of 2019 and 2022 require portability to be evaluated as one delivery reform, not as universal eligibility. Use migration, authentication failure and grievance redress as the analytical chain.
 
-D. It converts PDS grain into an OMSS auction
+### Concept check
 
-**Answer: C**
+**Question:** What exactly becomes portable under ONORC?
 
-- **A is wrong:** portability does not create universal eligibility.
-- **B is wrong:** ONORC is a distribution reform, not a price-fixation body.
-- **C is correct:** it separates access from the home FPS.
-- **D is wrong:** household entitlement and market sale remain distinct.
+**Model answer:** The place from which an already eligible NFSA beneficiary lifts all or part of the entitlement becomes portable across enabled fair-price shops; the reform does not itself create eligibility or change PHH/AAY status.
 
-**MCQ 24.** Which is the strongest reason to retain an alternate authentication
-mechanism in a digitised PDS?
+**Misconception to avoid:** Do not describe ONORC as universalisation of NFSA coverage.
 
-A. It increases the number of mandated MSP crops
+### Responsive Mains practice
 
-B. It eliminates the need for beneficiary records
+**Question (10 marks; 150-word ceiling):** portability drill - 10 marks: Evaluate ONORC as a food-security reform.
 
-C. It guarantees that every ration card is genuine
-
-D. It prevents a technology failure from becoming a denial of a legal entitlement
-
-**Answer: D**
-
-- **A is wrong:** crop-price coverage is unrelated.
-- **B is wrong:** records remain necessary for targeted entitlements.
-- **C is wrong:** an exception mechanism does not validate every record.
-- **D is correct:** technology should assist delivery, not extinguish the right.
-
-**Ten-mark portability drill - 10 marks:** Evaluate ONORC as a food-security reform.
-
-**Model answer:** ONORC makes an existing NFSA entitlement portable across enabled
+**Model answer (within the 150-word ceiling):** ONORC makes an existing NFSA entitlement portable across enabled
 fair price shops and is operational across all 36 States and Union Territories. It
 reduces location lock-in for migrant workers, permits split-family lifting and can
 increase beneficiary choice while producing an auditable transaction trail. Its limits
@@ -2135,7 +1844,12 @@ Once portability secures access to the cereal entitlement, the next question is 
 that entitlement achieves inside the body. Delivery is a necessary input; nutrition
 depends on diet composition, absorption and health.
 
-**Progress: 13/16 | Stage: Advanced | Subtopic: From cereals to nutrition: utilisation, fortified rice, pulses and millets**
+**Unique scoring guidance:** 2 marks for portability mechanism; 3 for migrant benefits; 3 for exclusion, authentication and privacy limits; 2 for exception-proof safeguards.
+
+---
+## Lesson 13 — From cereals to nutrition: utilisation, fortified rice, pulses and millets
+
+Progress: 13/16 | Stage: Core | Subtopic: From cereals to nutrition: utilisation, fortified rice, pulses and millets
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners and Economic Survey 2025-26 nutrition chapter queried
@@ -2179,6 +1893,23 @@ Fortified rice kernels are blended with ordinary rice under prescribed standards
 current continuation covers government schemes through **December 2028** and uses
 iron, folic acid and vitamin B12 under the applicable framework.
 
+### Safety and health controversy: evidence with qualification
+
+The 2018 fortification regulations carried an advisory for people with **thalassemia**
+and **sickle-cell anaemia** in relation to iron-fortified foods. A government expert
+working group and an ICMR-led review later concluded that the available evidence did not
+show added harm from the quantity of iron delivered through fortified rice; a PIB release
+dated **17 October 2024** reported removal of the advisory requirement. The reasoning included the
+small food-fortification iron exposure relative to transfusion-related iron loading and
+evidence that iron deficiency can also occur among people with sickle-cell disease.
+
+The safe exam formulation remains qualified. An older FSSAI compendium accessible online
+still reproduces the earlier warning language, and critics continue to seek stronger
+large-population surveillance, informed choice and careful monitoring in high-prevalence
+areas. Therefore, do not write either that fortified rice is proved harmful to all such
+patients or that every health concern is permanently closed; distinguish the official
+expert review from continuing implementation and evidence-governance questions.
+
 ### Why millets matter
 
 - nutrient density, fibre and important micronutrients;
@@ -2214,86 +1945,53 @@ diets and public health.
 complement, not a substitute, for diet diversity, screening, supplementation, sanitation
 and locally appropriate foods.
 
-### Nutrition diagnosis
+### Revision notes
 
-**MCQ 25.** Which household is most clearly calorie-secure but not necessarily
-nutrition-secure?
+1. Nutrition security goes beyond calories and cereal quantity.
+2. Fortification addresses selected micronutrients through a food vehicle.
+3. Fortified rice is a complement, not a complete diet.
+4. Pulses contribute protein and support legume rotations.
+5. Millets can support dietary diversity and dryland resilience.
+6. Oilseeds matter for dietary fats and import dependence.
+7. Health, sanitation, care and absorption shape nutrition outcomes.
+8. Local taste, processing and supply continuity determine actual consumption.
+9. The official expert review found no evidence of added harm for thalassemia or sickle-cell disease at fortification exposure.
+10. Older warning text and continuing monitoring concerns require a qualified, not absolute, safety claim.
 
-A. It regularly obtains enough cereal energy but consumes little protein-rich and
-micronutrient-rich food
+### Lesson-local PYQ linkage and answer approach
 
-B. It has a diverse diet, safe water and adequate healthcare
+[2024 GS-III, Q4](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md#2024--gs-paper-iii): explain the role of millets in health and nutritional security, 10 marks, 150 words. Approach: nutrition, climate/dryland suitability, livelihoods and value-chain constraints.
 
-C. It grows a pulse crop and sells above MSP
+### Concept check
 
-D. It uses an enabled fair price shop while travelling
+**Question:** Why is fortified rice an incomplete answer to malnutrition?
 
-**Answer: A**
+**Model answer:** It can deliver specified micronutrients through a widely consumed food vehicle, but nutrition also depends on proteins, fats, diverse foods, bioavailability, disease, sanitation and care. The official expert review reported no evidence of added harm for thalassemia or sickle-cell disease at fortification exposure, while older warning text and demands for continued surveillance justify caution. It is a complement to, not a replacement for, dietary diversity.
 
-- **A is correct:** energy intake may be adequate while diet quality is poor.
-- **B is wrong:** the conditions support nutrition security.
-- **C is wrong:** a production outcome does not reveal household nutrition.
-- **D is wrong:** portability reveals access, not the complete diet.
+**Misconception to avoid:** Do not describe fortification as a complete diet or as a substitute for health and WASH.
 
-**MCQ 26.** What is the strongest policy description of food fortification?
+### Responsive Mains practice
 
-A. A substitute for all diverse foods and health interventions
-
-B. A complementary method for adding selected micronutrients through a common food
-vehicle
-
-C. A method for increasing the statutory NFSA coverage ceiling
-
-D. An open-market instrument for reducing crop prices
-
-**Answer: B**
-
-- **A is wrong:** fortification cannot replace dietary diversity and health.
-- **B is correct:** it states the role and boundary accurately.
-- **C is wrong:** fortification does not determine beneficiary coverage.
-- **D is wrong:** it is a nutrition intervention, not a price-release mechanism.
-
-**Directly owned PYQ link:** [2024 GS-III, Q4 - role of millets in ensuring health and
-nutritional security in India; Explain; 10 marks; 150 words](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md#2024--gs-paper-iii)
-
-### Nutrition answer cues
-
-- Move from cereal quantity to diet quality.
-- Present fortification as one layer, not the whole nutrition strategy.
-- Link millets to health, climate and livelihoods.
-- Add local food preference and bioavailability.
-
-### Diet-security recall
-
-1. Calorie security is narrower than nutrition security.
-2. Utilisation depends on health, sanitation and care.
-3. Cereals provide energy but a narrow basket can lack nutrients.
-4. Fortification adds specified micronutrients to a food vehicle.
-5. Fortified rice continuation is dated through December 2028.
-6. Fortification does not create a diverse diet.
-7. Pulses support protein and crop rotation.
-8. Edible oils matter for dietary quality and import dependence.
-9. Millets can support dryland resilience.
-10. Local preference affects actual consumption.
-11. Storage and processing needs differ by commodity.
-12. Nutrition policy should track outcomes, not only tonnes distributed.
-
-**Ten-mark nutrition drill - 10 marks:** Why must India's food-security policy move beyond
+**Question (10 marks; 150-word ceiling):** nutrition drill - 10 marks: Why must India's food-security policy move beyond
 cereal delivery?
 
-**Model answer:** Cereal entitlements protect energy intake and remain indispensable,
+**Model answer (within the 150-word ceiling):** Cereal entitlements protect energy intake and remain indispensable,
 but nutrition depends on proteins, fats, micronutrients, safe water, sanitation, health
 and care. A grain-heavy system can coexist with anaemia, child malnutrition and diet-
 related disease. Fortified rice supplies selected micronutrients at scale and is
-currently continued in government schemes through December 2028, but it cannot replace
-a diverse diet. Public policy should progressively support pulses, millets and locally
-preferred foods, improve school and Anganwadi meals, and track nutritional outcomes.
-The objective is not to weaken cereal security but to build a layered system of
-calorie protection, dietary diversity and effective utilisation.
+continued in government schemes through December 2028. An ICMR-led review found no
+evidence of added harm for thalassemia or sickle-cell disease at fortification exposure,
+but older warning text and calls for continued surveillance require transparent
+monitoring rather than an absolute safety claim. Policy should add pulses, millets,
+locally preferred foods, health and WASH. The objective is a cereal floor plus dietary
+diversity and effective utilisation.
+
+**Unique scoring guidance:** 2 marks for food-versus-nutrition distinction; 3 for cereals/fortification/pulses/millets; 3 for health-WASH and implementation limits; 2 for a diversified conclusion.
 
 ---
+## Lesson 14 — Diversifying support: pulses, oilseeds, coarse cereals and sustainable incentives
 
-**Progress: 14/16 | Stage: Advanced | Subtopic: Diversifying support: pulses, oilseeds, coarse cereals and sustainable incentives**
+Progress: 14/16 | Stage: Core | Subtopic: Diversifying support: pulses, oilseeds, coarse cereals and sustainable incentives
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 Advanced and Economic Survey 2025-26 diversification analysis queried
@@ -2326,6 +2024,20 @@ network, lower marketing risk and subsidised water-energy inputs.
 | Oilseeds | edible-oil security, processing value chain, import reduction |
 | Millets/coarse cereals | dryland resilience, nutrition, fodder and climate adaptation |
 | Maize | feed, food, processing and industrial demand |
+
+### Niger seed: a minor oilseed with a major livelihood lesson
+
+**Niger seed (*Guizotia abyssinica*)** is a **Kharif**, largely rainfed minor oilseed
+suited to hilly, marginal and low-input land. It is associated especially with tribal
+and smallholder cultivation in **Madhya Pradesh, Chhattisgarh, Odisha, Maharashtra and
+parts of the North-East**. The crop contributes edible oil, local consumption and cash
+income where higher-input alternatives may be risky.
+
+Its UPSC significance is institutional. Niger seed is a mandated MSP crop, but
+notification does not mean unlimited procurement in every State. Effective livelihood
+support still depends on seed quality, extension, aggregation, local processing, market
+access and an operating price-support channel where applicable. It therefore links crop
+classification, Kharif ecology, tribal livelihoods and the MSP-versus-procurement trap.
 
 ### Instruments
 
@@ -2381,8 +2093,6 @@ water and import-dependence risks.
 - Avoid one-size-fits-all crop replacement.
 - Add Centre-State cost sharing and measurable safeguards.
 
-### Farmer-choice tests
-
 **Answer-outline exercise.** In four bullets, design a diversification pilot for a
 water-stressed district.
 
@@ -2390,71 +2100,45 @@ water-stressed district.
 processing/offtake; compare farmer income, water use and food-security effects before
 scaling.
 
-**MCQ 27.** Which package is most likely to produce durable crop diversification?
+### Revision notes
 
-A. A public appeal without changes in price, risk or market access
+1. Farmers respond to expected risk-adjusted relative returns.
+2. Diversification needs seed, extension, processing, storage and demand.
+3. Transition income protection reduces the risk of acreage change.
+4. Deficiency payments support price without requiring physical stock.
+5. Institutional procurement can create markets for pulses and millets.
+6. Region-specific design must reflect water, soil, climate and diets.
+7. Abrupt withdrawal from rice-wheat support can hurt farmers and stocks.
+8. Measure diversification through income, ecology, nutrition and import effects.
+9. Niger seed is a Kharif rainfed oilseed linked with tribal and marginal farming regions.
+10. Its MSP notification does not guarantee unlimited procurement or a complete value chain.
 
-B. Immediate withdrawal of cereal procurement in all regions
+### Lesson-local PYQ linkage and answer approach
 
-C. Region-specific transition support, credible offtake and processing infrastructure
+[2023 Prelims GS-I, Q27](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2023--gs-paper-i): niger seed, MSP, cultivation season and tribal communities. Demand: crop classification plus livelihood context; official key is unavailable locally.
 
-D. A uniform compulsory crop order unrelated to water and soil
+### Concept check
 
-**Answer: C**
+**Question:** Why does Niger seed show that MSP notification alone cannot secure diversification livelihoods?
 
-- **A is wrong:** advice alone does not change expected returns.
-- **B is wrong:** abrupt withdrawal can create severe income and food-security risk.
-- **C is correct:** it changes incentives and market capability together.
-- **D is wrong:** it ignores agronomy and farmer choice.
+**Model answer:** Niger seed is a Kharif, rainfed minor oilseed important in several tribal and marginal farming regions. Its inclusion among MSP crops supplies a price signal, but livelihood protection still depends on an operating purchase or price-support channel, seed and extension, aggregation, processing and market demand. The crop therefore demonstrates that diversification requires a complete value chain, not notification alone.
 
-**MCQ 28.** Why may a price-deficiency payment be preferable to physical procurement
-for some crops?
+**Misconception to avoid:** Do not prescribe abrupt withdrawal from cereals before alternative income and market systems exist.
 
-A. It guarantees that market prices never change
+### Responsive Mains practice
 
-B. It removes the need to verify sales or benchmark prices
+**Question (10 marks; 150-word ceiling):** diversification drill - 10 marks: Design a farmer-safe diversification strategy.
 
-C. It automatically creates a strategic grain reserve
-
-D. It can support price realisation without requiring the State to store the commodity
-
-**Answer: D**
-
-- **A is wrong:** no instrument guarantees a fixed market price.
-- **B is wrong:** verification and benchmark design are major challenges.
-- **C is wrong:** no physical stock is acquired.
-- **D is correct:** it separates income support from inventory accumulation.
-
-**Directly owned PYQ link:** [2023 Prelims GS-I, Q27 - niger seed, MSP, cultivation
-season and tribal communities; objective; local verified ledger notes answer key
-unavailable](../../../upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md#2023--gs-paper-i)
-
-### Incentive-design memory
-
-1. Diversification responds to expected relative return.
-2. Procurement assurance is part of that return.
-3. Pulses improve protein access and rotations.
-4. Oilseeds address edible-oil dependence.
-5. Millets support dryland resilience.
-6. Alternative crops need processing and storage.
-7. Deficiency payment can avoid unnecessary public stock.
-8. Per-acre support can finance transition.
-9. Institutional demand can reduce market risk.
-10. Regional agro-climatic fit is essential.
-11. Diversification should be voluntary.
-12. Food-security safeguards must remain automatic.
-
-**Ten-mark diversification drill - 10 marks:** Design a farmer-safe diversification strategy.
-
-**Model answer:** Diversification must improve the expected risk-adjusted return from
+**Model answer (within the 150-word ceiling):** Diversification must improve the expected risk-adjusted return from
 alternative crops. It should begin voluntarily in regions where soils, rainfall and
-markets favour pulses, oilseeds, millets or maize. Per-acre or per-quintal transition
-support can bridge yield and learning gaps, while calibrated procurement, deficiency
-payments and institutional offtake reduce price risk. Seed systems, extension, FPOs,
-drying, milling, storage and processing must precede large acreage shifts. Centre-State
-financing can use savings from lower excess-stock carrying costs and input subsidies.
-Automatic food-security safeguards and periodic income comparison should prevent both
-farmer loss and cereal shortage. Diversification is a value-chain reform, not a slogan.
+markets favour alternative crops. Transition support can bridge yield and learning gaps,
+while calibrated procurement, deficiency payments and institutional offtake reduce price
+risk. Seed systems, extension, FPOs, storage and processing must precede large acreage
+shifts. Centre-State financing can use savings from excess-stock carrying costs.
+Niger seed illustrates the package: a Kharif rainfed oilseed important to tribal and
+marginal farmers still needs aggregation, processing and an operating support channel;
+MSP notification alone is insufficient. Automatic food-security safeguards and periodic
+income comparison should prevent farmer loss and cereal shortage.
 
 ---
 
@@ -2463,12 +2147,22 @@ classification rules. Having designed a farmer-safe alternative, the learner mus
 test how administered prices and public stocks are measured under the WTO Agreement on
 Agriculture.
 
-**Progress: 15/16 | Stage: Advanced | Subtopic: WTO constraints: Agreement on Agriculture, public stockholding and the peace clause**
+**Unique scoring guidance:** 2 marks for expected-return logic; 3 for instrument package; 3 for regional, ecological and transition risks; 2 for a voluntary farmer-safe verdict.
+
+---
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+The Core chain is complete. The following lessons add international-rule and synthesis
+depth; a competent core answer need not reproduce every legal or design refinement.
+
+## Lesson 15 — WTO constraints: Agreement on Agriculture, public stockholding and the peace clause
+
+Progress: 15/16 | Stage: Optional Advanced | Subtopic: WTO constraints: Agreement on Agriculture, public stockholding and the peace clause
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 12 owners, local WTO chapter and official WTO Bali public-stockholding material queried
 CA search: "WTO permanent solution public stockholding food security India"
-CA found: WTO MC14 ran from 26 to 30 March 2026 and ended without consensus on the agriculture declaration or a permanent public-stockholding solution; official WTO MC14 pages were rechecked on 24 September 2026, and peace-clause protection remains conditional
+CA found: WTO MC14 ran from 26 to 30 March 2026 and ended without consensus on the agriculture declaration or a permanent public-stockholding solution; official WTO MC14 pages were rechecked on 3 October 2026, and peace-clause protection remains conditional
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Domestic food policy enters trade law through administered prices
@@ -2554,7 +2248,7 @@ peace clause
 The WTO's Fourteenth Ministerial Conference met in Yaounde from **26 to 30 March
 2026**. Its post-MC14 agriculture briefing records that members did not reach consensus
 on the draft Ministerial Declaration on Agriculture, Trade and Global Food Security.
-No permanent public-stockholding solution emerged; as rechecked on **24 September
+No permanent public-stockholding solution emerged; as rechecked on **3 October
 2026**, the conditional peace-clause framework therefore remains the relevant
 protection.
 
@@ -2581,8 +2275,6 @@ That requires negotiated rule change.
 enter Amber Box calculations because WTO classification depends on design and price
 rules, not purpose alone.
 
-### Legal classification checks
-
 **Legal classification exercise.** A public programme buys grain at an administered
 price above the fixed reference price and later distributes it domestically to eligible
 households. Identify the two separate questions.
@@ -2591,74 +2283,35 @@ households. Identify the two separate questions.
 the AoA; second, whether the programme qualifies for conditional peace-clause
 protection. A food-security purpose does not merge the questions.
 
-**MCQ 29.** Why can an old fixed external reference price increase India's measured
-WTO support for a crop?
+### Revision notes
 
-A. Current administered prices are compared with a historically fixed nominal
-reference, so inflation can widen the calculated gap
+1. AoA disciplines domestic support, market access and export competition.
+2. Administered-price support can enter Amber Box calculations.
+3. The simplified price-support measure uses a fixed external reference price.
+4. Inflation can widen the nominal gap against that historical reference.
+5. Food-security purpose alone does not guarantee Green Box treatment.
+6. The peace clause is conditional non-challenge protection.
+7. Notification, information and trade-distortion safeguards remain important.
+8. India seeks a permanent solution while preserving domestic food security.
 
-B. WTO calculations always subtract current MSP from the world price
+### Lesson-local PYQ linkage and answer approach
 
-C. The reference price automatically rises with India's CPI
+[2026 GS-III, Q14](../../../upsc-ai-kit/knowledge/_PYQ-GS3-2026.md) is cross-owned by Economy Topic 28. Use only the MSP/public-stockholding interface here: AoA classification, fixed reference-price concern, conditional peace clause and permanent-solution demand.
 
-D. NFSA quantities are excluded from all trade-law calculations by definition
+### Concept check
 
-**Answer: A**
+**Question:** Why does a food-security objective not automatically settle WTO classification?
 
-- **A is correct:** it identifies the nominal-reference problem.
-- **B is wrong:** it reverses and oversimplifies the calculation.
-- **C is wrong:** the criticism exists precisely because the reference is not
-  automatically inflation-indexed.
-- **D is wrong:** the programme's purpose does not create blanket exclusion.
+**Model answer:** AoA treatment depends on programme design, acquisition price and applicable criteria. Administered-price support may enter measured support; the peace clause offers conditional non-challenge protection, not a permanent exemption.
 
-**MCQ 30.** Which statement about the public-stockholding peace clause is correct?
+**Misconception to avoid:** Do not label every public stockholding operation Green Box solely because its stated purpose is food security.
 
-A. It permanently deletes all AoA domestic-support obligations
+### Responsive Mains practice
 
-B. It provides conditional protection from specified challenge while a permanent
-solution remains unresolved
-
-C. It authorises unrestricted commercial export from subsidised stocks
-
-D. It removes notification and transparency duties
-
-**Answer: B**
-
-- **A is wrong:** it is not a permanent rewrite of the AoA.
-- **B is correct:** protection is conditional and linked to the continuing negotiation.
-- **C is wrong:** trade-distortion safeguards remain relevant.
-- **D is wrong:** transparency is one of the conditions.
-
-**Cross-owned 2026 PYQ link:** [2026 GS-III, Q14 - agricultural subsidies/support and
-WTO Agreement on Agriculture; Topic 28 owns the full answer; Economy 12 owns only the
-MSP/public-stockholding interface](../../../upsc-ai-kit/knowledge/_PYQ-GS3-2026.md)
-
-### WTO rule card
-
-1. AoA covers domestic support, market access and export competition.
-2. Administered price support can enter amber-box calculations.
-3. Developing countries have a product-specific de minimis threshold under applicable rules.
-4. The external reference price is historically fixed.
-5. Inflation can widen measured support.
-6. Food-security purpose does not create automatic exemption.
-7. Qualifying Green Box stockholding has conditions.
-8. The Bali peace clause is conditional protection.
-9. It is not a permanent solution.
-10. Transparency and notification matter.
-11. Protected stocks should not distort commercial trade.
-12. Reform design can reduce distortion while preserving income support.
-
-### Legal answer discipline
-
-- Explain the dated reference-price problem.
-- State that the peace clause is conditional.
-- Separate food-security objective from legal classification.
-- Preserve detailed farm-subsidy ownership for the wider subsidy/WTO topic.
-
-**Ten-mark WTO drill - 10 marks:** Explain India's public-stockholding concern at the
+**Question (10 marks; 150-word ceiling):** WTO drill - 10 marks: Explain India's public-stockholding concern at the
 WTO.
 
-**Model answer:** India procures grain at administered prices to support farmers, build
+**Model answer (within the 150-word ceiling):** India procures grain at administered prices to support farmers, build
 stocks and fulfil food entitlements. Under the Agreement on Agriculture, the measured
 product-specific support may compare the administered price with a fixed external
 reference price rooted in the late 1980s. Inflation can therefore enlarge the notified
@@ -2669,9 +2322,12 @@ permanent solution. India should seek an updated and equitable methodology while
 maintaining accurate notifications, efficient stocks and safeguards against commercial
 export distortion.
 
----
+**Unique scoring guidance:** 2 marks for AoA framework; 3 for support measurement and reference-price issue; 3 for peace-clause conditions and safeguards; 2 for a permanent-solution conclusion.
 
-**Progress: 16/16 | Stage: Mastery | Subtopic: Reforming the whole system: federal choices, trade-offs and UPSC answer craft**
+---
+## Lesson 16 — Reforming the whole system: federal choices, trade-offs and UPSC answer craft
+
+Progress: 16/16 | Stage: Optional Advanced | Subtopic: Reforming the whole system: federal choices, trade-offs and UPSC answer craft
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: All Economy 12 owners, verified PYQ ledgers, local books and current official sources synthesised
@@ -2761,66 +2417,35 @@ automatic safeguards, not abrupt withdrawal.
 - Separate stable concept, dated policy and inference.
 - End with a conditional, implementable verdict.
 
-### Synthesis test
+### Revision notes
 
-**MCQ 31.** Which reform package best preserves food security while reducing
-structural cost?
+1. Preserve credible farm support, strategic reserves and NFSA rights.
+2. Link procurement to demand forecasts and quarterly stock discipline.
+3. Reduce avoidable incidentals, movement, carrying cost and accounting opacity.
+4. Diversify crops voluntarily with income and market protection.
+5. Use DCP where capacity, audit and local advantage are credible.
+6. Pair digital delivery with inclusion, fallback and grievance safeguards.
+7. Measure nutrition, water, farmer income and household receipt together.
+8. Prefer sequenced, federal and reversible reform over one-shot withdrawal.
 
-A. End all procurement before alternative markets emerge
+### Lesson-local PYQ linkage and answer approach
 
-B. Replace every grain entitlement with cash irrespective of local markets
+Synthesise all directly owned demands without treating any objective item as solved: institution, cost, procurement reach, stock discipline, NFSA rights, delivery transparency and nutrition.
 
-C. Use stock discipline, scientific storage, voluntary diversification and protected
-NFSA delivery
+### Concept check
 
-D. Treat digitised allocation as conclusive proof of nutrition
+**Question:** What is the unifying principle of a coherent reform sequence?
 
-**Answer: C**
+**Model answer:** Preserve the functions that markets do not reliably supply—price-risk protection, strategic resilience and legal access—while reducing avoidable cereal concentration, excess inventory, transaction cost and exclusion through sequenced, measurable and reversible reform.
 
-- **A is wrong:** abrupt withdrawal exposes farmers and stocks.
-- **B is wrong:** cash effectiveness depends on price, market and access conditions.
-- **C is correct:** it targets avoidable cost while preserving core protection.
-- **D is wrong:** allocation does not prove receipt or nutrition.
+**Misconception to avoid:** Do not choose either total State withdrawal or unlimited expansion as a substitute for instrument-by-instrument diagnosis.
 
-**MCQ 32.** What is the best conclusion to a Mains answer on food-system reform?
+### Responsive Mains practice
 
-A. One instrument should maximise farmer price regardless of all other effects
-
-B. Food subsidy should be eliminated because markets are always complete
-
-C. Technology should replace grievance institutions
-
-D. Reform should be sequenced around farmer income, household entitlement, stock
-discipline, nutrition and federal accountability
-
-**Answer: D**
-
-- **A is wrong:** it ignores consumers, fiscal cost and ecological effects.
-- **B is wrong:** it assumes away access and resilience failures.
-- **C is wrong:** digital systems require, rather than replace, accountable correction.
-- **D is correct:** it integrates the principal objectives and safeguards.
-
-### Whole-system recall
-
-1. Reform must cover the full chain.
-2. Farmer and consumer effects should be assessed together.
-3. Fiscal savings should target avoidable cost.
-4. Diversification requires transition income.
-5. Buffer rules need transparent triggers.
-6. Storage reform needs location and contract quality.
-7. DCP needs capacity and audit.
-8. Portability is not universalisation.
-9. Cash transfer depends on functioning markets.
-10. Nutrition reform needs local preference.
-11. Federal finance must follow responsibility.
-12. Grievance data should shape reform.
-13. Current facts need dates and sources.
-14. A strong conclusion balances resilience, equity and efficiency.
-
-**Ten-mark system drill - 10 marks:** Suggest a coherent reform strategy for India's public
+**Question (10 marks; 150-word ceiling):** system drill - 10 marks: Suggest a coherent reform strategy for India's public
 food system.
 
-**Model answer:** India should preserve MSP credibility, strategic stocks and NFSA
+**Model answer (within the 150-word ceiling):** India should preserve MSP credibility, strategic stocks and NFSA
 rights while reducing cereal concentration and avoidable cost. Procurement forecasts
 must be linked to quarterly norms and transparent release rules; scientific silos,
 rotation and logistics should reduce carrying losses. Voluntary, region-specific
@@ -2832,8 +2457,9 @@ accounts should be explicit and timely. Success should be measured through farme
 income, household receipt, stock adequacy, diet diversity, water use and federal
 accountability.
 
----
+**Unique scoring guidance:** 2 marks for retaining core functions; 3 for sequenced producer-side reform; 3 for stock, delivery and nutrition reform; 2 for measurable federal accountability.
 
+---
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
 ## Directly owned verified PYQs, 2018-2026
@@ -2871,224 +2497,55 @@ Economy Topic 28; this file uses only its MSP/public-stockholding interface.](..
 
 ---
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-## Integrated test
+## Check 1 — price policy to physical stock
 
-**MCQ 33.** Which chain is correctly ordered?
+**Question:** Trace the minimum institutional chain by which an MSP decision can become public grain.
 
-A. CACP recommendation -> CCEA decision -> MSP announcement -> accessible procurement
--> public stock
+**Model answer:** CACP recommends after examining cost and wider factors; CCEA takes the price decision; procurement agencies open operations; an eligible farmer offers produce; quality, weighment and payment complete the purchase; accepted grain enters the Central Pool or a DCP State stock. A break at any operational node weakens direct protection.
 
-B. Public stock -> sowing -> CACP recommendation -> household identification
+**Misconception to avoid:** An announced MSP does not itself create a purchase or a stock.
 
-C. NFSA entitlement -> MSP recommendation -> procurement incidentals -> CCEA
+## Check 2 — cost and subsidy
 
-D. OMSS auction -> A2+FL -> ration-card issue -> buffer norm
+**Question:** Separate farm cost, acquisition cost, economic cost and food subsidy in one chain.
 
-**Answer: A**
+**Model answer:** A2/A2+FL/C2 classify farm production cost. Public acquisition cost begins with purchase value and adds procurement incidentals. FCI economic cost adds distribution cost. Food subsidy finances the policy-relevant gap between eligible public cost and issue or other receipts; carrying excess stock can enlarge that burden.
 
-- **A is correct:** it follows the price-policy and stock-creation sequence.
-- **B is wrong:** stock is not the starting institution for sowing or recommendation.
-- **C is wrong:** it mixes household entitlement with price fixation.
-- **D is wrong:** these are separate concepts without the stated causal order.
+**Misconception to avoid:** MSP and economic cost are not interchangeable numbers.
 
-**MCQ 34.** Which farmer has the strongest direct operational MSP protection?
+## Check 3 — stock discipline
 
-A. A farmer growing a notified crop with no accessible buyer
+**Question:** What four questions should precede a decision to release grain from public stock?
 
-B. A farmer whose eligible produce meets quality norms at an operating purchase centre
+**Model answer:** Compare actual dated stock with the relevant quarterly norm; forecast NFSA and welfare issues; account for expected procurement and pipeline needs; then test grain age, quality, storage capacity and market conditions. Only after this stock-flow diagnosis should OMSS, welfare allocation or disposal be chosen.
 
-C. A farmer receiving an unrelated household transfer
+**Misconception to avoid:** “Above norm” is not an automatic command to sell immediately.
 
-D. A farmer selling an unnotified commodity in a distant private market
+## Check 4 — rights and delivery
 
-**Answer: B**
+**Question:** Why can NFSA coverage coexist with PDS exclusion?
 
-- **A is wrong:** notification alone may not produce a sale at MSP.
-- **B is correct:** access, eligibility and purchase credibility are present.
-- **C is wrong:** income support does not guarantee the crop price.
-- **D is wrong:** neither MSP notification nor accessible public purchase is present.
+**Model answer:** The Act creates category-based entitlements, but a person may be omitted from the list, wrongfully deleted, unable to authenticate, denied by an FPS or affected by stock and connectivity failures. Rights therefore require dynamic inclusion, alternate authentication, transaction traceability and accessible grievance remedies.
 
-**MCQ 35.** Which statement about cost concepts is correct?
+**Misconception to avoid:** Legal coverage ceilings and successful monthly receipt are different measures.
 
-A. C2 excludes family labour
+## Check 5 — food to nutrition
 
-B. A2 includes FCI freight
+**Question:** Build a nutrition-sensitive food-security package without discarding the cereal floor.
 
-C. A2+FL adds imputed family labour to paid-out cost
+**Model answer:** Retain reliable cereal entitlements for calorie and shock protection; add pulses and locally suitable millets where supply chains permit; use fortification for selected micronutrients; strengthen maternal-child feeding, health, safe water and sanitation; and measure diet quality and absorption rather than tonnes alone.
 
-D. Distribution cost is a farm production cost
+**Misconception to avoid:** Neither cereals nor fortified rice alone constitute complete nutrition security.
 
-**Answer: C**
+## Check 6 — coherent reform
 
-- **A is wrong:** C2 incorporates A2+FL and further imputed costs.
-- **B is wrong:** FCI freight is not a farm A2 expense.
-- **C is correct:** it states the defining addition.
-- **D is wrong:** it belongs to public grain distribution.
+**Question:** Which reforms should occur before cereal procurement is materially reduced in a region?
 
-**MCQ 36.** Which combination would most likely raise food subsidy while leaving NFSA
-quantities unchanged?
+**Model answer:** Establish profitable alternative crops through seed and extension, transition income protection, processing, storage, institutional demand and credible price-risk tools; verify water and agro-climatic suitability; create automatic safeguards if food-security stocks tighten. Sequencing protects both farmers and consumers.
 
-A. Lower avoidable carrying cost and faster movement
-
-B. Reduced procurement incidentals and better stock rotation
-
-C. Higher issue receipts and lower distribution cost
-
-D. Higher acquisition cost, prolonged excess stocks and zero household issue price
-
-**Answer: D**
-
-- **A is wrong:** both changes reduce cost pressure.
-- **B is wrong:** both are efficiency gains.
-- **C is wrong:** both narrow the fiscal gap.
-- **D is correct:** cost rises while issue receipts remain absent.
-
-**MCQ 37.** Which statement correctly relates a buffer norm and OMSS?
-
-A. The norm is a stock benchmark; OMSS is one possible release instrument
-
-B. The norm is an auction price; OMSS is an MSP recommendation
-
-C. Both determine household eligibility
-
-D. Both are names for procurement incidentals
-
-**Answer: A**
-
-- **A is correct:** it separates the stock standard from the market-sale tool.
-- **B is wrong:** neither definition is accurate.
-- **C is wrong:** NFSA/State identification processes determine eligibility.
-- **D is wrong:** procurement incidentals are an acquisition-cost component.
-
-**MCQ 38.** A migrant already listed as a PHH beneficiary uses ONORC in another State.
-What changes?
-
-A. The migrant becomes an AAY household
-
-B. The place of lifting can change, not the underlying entitlement category
-
-C. MSP becomes payable to the migrant
-
-D. The household's legal quantity becomes an OMSS reserve price
-
-**Answer: B**
-
-- **A is wrong:** portability does not change category.
-- **B is correct:** ONORC changes access location.
-- **C is wrong:** MSP concerns crop sale.
-- **D is wrong:** entitlement quantity and auction price are unrelated.
-
-**MCQ 39.** Which metric best tests final TPDS performance?
-
-A. MSP announced for the season
-
-B. Grain allocated by the Union
-
-C. Correct quantity and quality actually received by eligible households without
-avoidable denial
-
-D. Number of procurement centres alone
-
-**Answer: C**
-
-- **A is wrong:** it measures a producer-price decision.
-- **B is wrong:** allocation is upstream.
-- **C is correct:** it captures the final delivery outcome.
-- **D is wrong:** procurement infrastructure cannot prove household receipt.
-
-**MCQ 40.** Which reform most directly addresses both cereal concentration and edible-
-oil import dependence?
-
-A. A larger wheat buffer in every quarter
-
-B. Removal of all pulse processing facilities
-
-C. Restriction of crop choice without compensation
-
-D. Voluntary region-specific oilseed diversification backed by income protection and
-processing demand
-
-**Answer: D**
-
-- **A is wrong:** it reinforces cereal stock.
-- **B is wrong:** it weakens alternative-crop markets.
-- **C is wrong:** coercion without income protection is neither durable nor equitable.
-- **D is correct:** it aligns farmer incentives and national demand.
-
-**MCQ 41.** Which is a nutrition-security rather than only calorie-security measure?
-
-A. Combining cereal access with pulses, micronutrient interventions, safe water and
-health support
-
-B. Counting total grain stocks without tracking consumption
-
-C. Increasing only the number of procurement bags
-
-D. Treating every cereal as nutritionally complete
-
-**Answer: A**
-
-- **A is correct:** it covers diet quality and utilisation.
-- **B is wrong:** stock does not establish individual nutrition.
-- **C is wrong:** procurement quantity is not a nutrition outcome.
-- **D is wrong:** a cereal-only diet may be deficient.
-
-**MCQ 42.** Which statement about WTO public stockholding is accurate?
-
-A. A food-security objective automatically places every price-support operation in the
-Green Box
-
-B. The peace clause is conditional and does not constitute a permanent solution
-
-C. The external reference price automatically adjusts for current inflation
-
-D. Protected stocks may always be exported commercially without safeguards
-
-**Answer: B**
-
-- **A is wrong:** acquisition price and policy conditions affect classification.
-- **B is correct:** it states the legal position safely.
-- **C is wrong:** the fixed historical reference is central to India's concern.
-- **D is wrong:** trade-distortion safeguards remain relevant.
-
-**MCQ 43.** Which body is most directly associated with monitoring and
-reviewing NFSA implementation within a State?
-
-A. CACP
-
-B. FCI Board of Directors
-
-C. State Food Commission
-
-D. GST Council
-
-**Answer: C**
-
-- **A is wrong:** CACP recommends agricultural prices.
-- **B is wrong:** FCI manages foodgrain operations, not the State's statutory NFSA
-  review body.
-- **C is correct:** this is a core State Food Commission function.
-- **D is wrong:** the GST Council concerns indirect-tax federal coordination.
-
-**MCQ 44.** A State reports high foodgrain allocation but repeated beneficiary denial.
-Which conclusion follows?
-
-A. Allocation proves the PDS is fully effective
-
-B. Buffer norms should be abolished
-
-C. MSP must equal C2 immediately
-
-D. Upstream availability is not translating into reliable last-mile access
-
-**Answer: D**
-
-- **A is wrong:** allocation is not receipt.
-- **B is wrong:** stock benchmarks do not cause the stated denial.
-- **C is wrong:** farm cost policy does not resolve last-mile delivery.
-- **D is correct:** the chain is breaking after allocation.
+**Misconception to avoid:** Abrupt withdrawal is not diversification policy.
 
 ---
 
@@ -3105,12 +2562,15 @@ intervention." Examine. Answer in 150 words.**
 expectations. Its direct protection, however, depends on whether the farmer can reach an
 operating purchase centre, meet Fair Average Quality norms and receive timely payment.
 Where procurement is deep, private bids may also remain near the floor. Where purchase
-is thin, a notified pulse or oilseed may still sell below MSP. Universal physical
+is thin, a notified pulse or oilseed—Niger seed in rainfed tribal regions is a useful
+example—may still sell below MSP. Universal physical
 procurement is neither necessary nor desirable because storage and disposal costs differ
 by crop. Policy should combine strategic cereal procurement with calibrated pulse and
 oilseed purchase, price-deficiency payments, FPO aggregation, grading, market
 competition and direct income support. The criterion is effective price-risk reduction,
 not the number of crops printed in an announcement.
+
+**Unique scoring guidance:** 2 marks definition and thesis; 3 operational reach; 3 named alternatives/evidence; 2 qualification.
 
 ### Question 2
 
@@ -3123,12 +2583,16 @@ micronutrients, safe water, sanitation, health and effective absorption. India's
 NFSA provide a critical cereal floor, protecting calories and real consumption during
 price or income shocks. Yet rice and wheat alone cannot address protein gaps, anaemia
 or the double burden of undernutrition and obesity. Fortified rice can supply selected
-micronutrients but is complementary, not a substitute for diverse diets. Reform should
+micronutrients. The official expert review reported no added thalassemia/sickle-cell harm
+at fortification exposure, but older warning text and continued surveillance concerns
+require qualified monitoring. Fortification remains complementary to diverse diets. Reform should
 retain cereal entitlements while progressively integrating locally suitable millets and
 pulses, strengthening school and Anganwadi meals, and tracking nutrition outcomes.
 Thus the policy transition is from tonnes delivered to healthy lives enabled.
 
 ## 15-mark practice
+
+**Unique scoring guidance:** 2 marks distinction; 3 PDS contribution; 3 nutrition gaps and complements; 2 outcome-based conclusion.
 
 ### Question 3
 
@@ -3152,11 +2616,17 @@ and emergency resilience; its size cannot be equated with waste. Reform should:
 4. rationalise high incidentals through common cost norms;
 5. strengthen DCP where State capacity lowers logistics cost;
 6. disclose subsidy, arrears and reimbursement fully in the budget;
-7. reinvest savings in voluntary pulse-oilseed-millet diversification; and
-8. preserve PHH and AAY quantities with exception-proof delivery.
+7. apply Shanta Kumar's storage, mechanisation and underserved-region procurement logic
+   without adopting a coverage cut that raises exclusion;
+8. evaluate the existing cash-transfer mode in Chandigarh, Puducherry and some areas of
+   Dadra and Nagar Haveli and Daman and Diu before wider, indexed and voluntary use;
+9. reinvest savings in voluntary pulse-oilseed-millet diversification; and
+10. preserve PHH and AAY quantities with exception-proof delivery.
 
 Fiscal prudence should remove avoidable inventory and transaction cost, not reduce the
 legal entitlement of vulnerable households.
+
+**Unique scoring guidance:** 4 marks for the economic-cost identity and fiscal drivers; 3 for explaining the entitlement value and distinguishing subsidy from waste; 6 for rights-preserving reforms, including stock discipline, Shanta Kumar operational proposals and qualified DBT use; 2 for a reasoned NFSA-preserving conclusion. Total: 15 marks.
 
 ### Question 4
 
@@ -3183,6 +2653,8 @@ authentication counts. ONORC is therefore a major mobility reform, but universal
 coverage and rights protection require separate policy choices.
 
 ## 20-mark practice
+
+**Unique scoring guidance:** 3 marks for ONORC's portability mechanism and migrant gains; 4 for distinct coverage, identification, authentication and dealer-side exclusion mechanisms; 5 for dynamic enrolment, alternate/offline authentication, notice, appeal, denial audit and DGRO safeguards; 2 for federal/data-accountability analysis; 1 for the balanced portability-not-universality verdict. Total: 15 marks.
 
 ### Question 5
 
@@ -3221,6 +2693,8 @@ The objective is not State withdrawal but smarter intervention: credible where m
 fail, disciplined where stocks accumulate, and accountable where a legal entitlement
 meets the citizen.
 
+**Unique scoring guidance:** 4 marks full chain and achievements; 6 marks multidimensional problems; 7 marks coherent sequenced reform; 3 marks critical verdict.
+
 ### Question 6
 
 **Examine India's public stockholding policy through the lenses of food security,
@@ -3253,171 +2727,40 @@ to meet applicable criteria. Food sovereignty, cooperative federalism and predic
 trade rules are compatible when programme objectives, accounts and market effects are
 transparent.
 
----
+**Unique scoring guidance:** 4 marks domestic food-security mechanism; 4 federal architecture; 5 WTO analysis; 4 reform safeguards; 3 qualified conclusion.
 
 # REMEDIATION
 
-## Misconception-driven MCQs
+## Eight high-risk errors and repairs
 
-**MCQ 45.** A candidate writes, "CACP announces MSP and FCI fixes the procurement
-price." What is the correction?
+1. **“CACP announces MSP.”** Repair: CACP recommends; CCEA takes the executive decision. Then ask whether an accessible procurement operation exists.
+2. **“MSP is 1.5 times C2.”** Repair: name the official all-India weighted-average cost methodology and distinguish it from the broader C2 demand.
+3. **“Open-ended means universal purchase.”** Repair: restore crop, season, geography, agency, quality and operational-window conditions.
+4. **“Economic cost equals MSP.”** Repair: move from purchase value to procurement incidentals, acquisition cost, distribution cost and carrying burden.
+5. **“Stock above norm is waste.”** Repair: use a dated stock-flow forecast, pipeline needs, expected procurement, grain age and storage constraints.
+6. **“ONORC makes every migrant eligible.”** Repair: portability changes the lifting location of an existing entitlement; inclusion remains separate.
+7. **“Fortification solves malnutrition.”** Repair: identify selected micronutrients, then add diverse diets, protein, fats, health, care and WASH.
+8. **“The peace clause permanently exempts public stockholding.”** Repair: state conditional non-challenge protection, transparency conditions and the unresolved permanent solution.
 
-A. CACP recommends, CCEA decides MSP, and procurement agencies implement purchase
-
-B. FCI recommends and State Food Commissions decide MSP
-
-C. CCEA only manages ration cards
-
-D. CACP determines NFSA coverage
-
-**Answer: A**
-
-- **A is correct:** it restores the institutional sequence.
-- **B is wrong:** those bodies do not share the stated roles.
-- **C is wrong:** CCEA is an economic decision-making committee.
-- **D is wrong:** CACP is not a beneficiary-identification body.
-
-**MCQ 46.** A student says, "MSP is 1.5 times C2 for every crop." The safest repair is:
-
-A. MSP never considers cost
-
-B. the official margin statement uses the notified all-India weighted average cost
-methodology commonly associated with A2+FL; C2 is a broader analytical cost
-
-C. C2 is smaller than A2
-
-D. MSP is the same as FCI economic cost
-
-**Answer: B**
-
-- **A is wrong:** cost is a major recommendation factor.
-- **B is correct:** it distinguishes the policy statement and broader cost concept.
-- **C is wrong:** C2 has wider scope.
-- **D is wrong:** FCI adds acquisition and distribution costs.
-
-**MCQ 47.** Which statement repairs the error "ONORC makes every migrant eligible for
-free grain"?
-
-A. ONORC abolishes ration cards
-
-B. ONORC fixes the migrant's wage
-
-C. ONORC makes an existing NFSA entitlement portable; inclusion remains a separate
-question
-
-D. ONORC is an FCI procurement auction
-
-**Answer: C**
-
-- **A is wrong:** beneficiary records remain integral.
-- **B is wrong:** the reform concerns food access.
-- **C is correct:** it states both capability and boundary.
-- **D is wrong:** it is a TPDS portability system.
-
-**MCQ 48.** Which correction best addresses "high allocation proves zero leakage and
-zero exclusion"?
-
-A. Allocation is identical to nutrition
-
-B. Procurement quantity proves household delivery
-
-C. Only buffer norms matter
-
-D. Allocation must be traced through offtake, FPS stock, authentication and household
-receipt
-
-**Answer: D**
-
-- **A is wrong:** allocation does not measure diet or absorption.
-- **B is wrong:** procurement is still further upstream.
-- **C is wrong:** norms cannot establish last-mile delivery.
-- **D is correct:** it restores the accountability chain.
-
-**MCQ 49.** Which statement corrects "all stock above the norm should immediately be
-sold"?
-
-A. Stock must be evaluated against date-specific norms, pipeline needs, expected issues,
-procurement and quality before release
-
-B. Buffer norms are household entitlements
-
-C. All excess stock is legally unfit
-
-D. OMSS has no relation to stock management
-
-**Answer: A**
-
-- **A is correct:** it adds the necessary operational context.
-- **B is wrong:** a stock benchmark is not a household right.
-- **C is wrong:** excess relative to norm does not establish quality.
-- **D is wrong:** OMSS can be used to offload surplus.
-
-**MCQ 50.** What is wrong with the statement "fortified rice solves malnutrition"?
-
-A. Rice cannot carry micronutrients
-
-B. fortification addresses selected micronutrients but cannot replace diverse diets,
-health, sanitation and care
-
-C. fortified rice changes PHH into AAY
-
-D. fortification is an MSP instrument
-
-**Answer: B**
-
-- **A is wrong:** fortification uses a rice food vehicle.
-- **B is correct:** it defines both benefit and limitation.
-- **C is wrong:** nutrition intervention does not alter NFSA category.
-- **D is wrong:** it is not a farm-price mechanism.
-
-**MCQ 51.** A student treats "peace clause" as an unlimited permanent exemption.
-Which repair is correct?
-
-A. It eliminates all WTO transparency
-
-B. It applies automatically to any export subsidy
-
-C. It is conditional non-challenge protection while a permanent solution remains
-unresolved
-
-D. It converts Amber Box support into MSP law
-
-**Answer: C**
-
-- **A is wrong:** notification and information conditions matter.
-- **B is wrong:** its scope is public stockholding, not any export subsidy.
-- **C is correct:** it accurately states the legal character.
-- **D is wrong:** WTO boxes do not enact domestic price law.
-
-**MCQ 52.** Which correction best addresses "diversification means ending paddy
-procurement everywhere"?
-
-A. Diversification requires a national ban on cereals
-
-B. It should ignore food-security regions
-
-C. It is achieved by announcing a new crop name
-
-D. It should be voluntary, region-specific, income-protected and backed by markets
-
-**Answer: D**
-
-- **A is wrong:** cereal security remains necessary.
-- **B is wrong:** regional strategic roles differ.
-- **C is wrong:** naming does not change incentives or capacity.
-- **D is correct:** it provides a credible transition design.
-
-## Repair matrix
+## Diagnostic repair map
 
 | Error | Diagnostic question | Repair |
 |---|---|---|
-| MSP = procurement | Was an actual eligible purchase made? | Separate signal and transaction |
-| A2+FL = C2 | Were owned land and fixed capital imputed? | Restore cost boundary |
-| Buffer norm = stock | Is this a benchmark or dated observation? | Compare date and unit |
-| Allocation = receipt | Did grain reach the household? | Trace every delivery node |
+| MSP = procurement | Was an eligible quantity actually purchased? | Separate signal and transaction |
+| A2+FL = C2 | Were owned land and fixed capital imputed? | Restore the cost boundary |
+| Buffer norm = stock | Is the number a benchmark or dated inventory? | Match date, unit and purpose |
+| Allocation = receipt | Did correct grain reach the entitled household? | Trace every delivery node |
 | ONORC = universal PDS | Was the person already eligible? | Separate portability and inclusion |
 | Food = nutrition | Are diet quality and utilisation adequate? | Add diversity, health and WASH |
-| Peace clause = exemption | Are conditions and duration recognised? | State conditional protection |
+| Cash = automatic efficiency | Are markets, indexation, accounts and choice reliable? | Pilot with reversibility and safeguards |
+| Peace clause = exemption | Are conditions and safeguards recognised? | State conditional protection |
+
+## Targeted retrieval drill
+
+- Write the MSP-to-stock chain in six nodes without using the word “government” twice.
+- Explain in two sentences why a high allocation figure cannot prove household receipt.
+- Give one reform that lowers cost without cutting NFSA quantity, and one safeguard against exclusion.
+- State one benefit and one limit each of OMSS, ONORC, fortified rice and DCP.
 
 ---
 
@@ -3549,9 +2892,9 @@ permanent methodology reform
   commercial crops.
 - Toria and de-husked coconut have prices derived from related mandated crops.
 - Sugarcane is governed by FRP, not MSP.
-- RMS 2026-27 MSPs were approved on 1 October 2025.
+- RMS 2027-28 MSPs were approved by CCEA on 30 September 2026.
 - KMS 2026-27 MSPs were approved on 13 May 2026.
-- Both dated releases retain the policy statement of at least 1.5 times the all-India
+- The KMS 2026-27 and RMS 2027-28 releases retain the policy statement of at least 1.5 times the all-India
   weighted average cost of production.
 - A dated price must always carry crop and marketing season.
 
@@ -3610,6 +2953,12 @@ permanent methodology reform
   distinct food-subsidy routes through FCI and decentralised procurement.
 - Free issue raises fiscal support but also protects real household consumption.
 - Explicit budget accounting is preferable to hidden or delayed liability.
+- Shanta Kumar Committee proposed FCI focus in underserved regions, greater State
+  procurement, silos/mechanisation, stock discipline and gradual cash transfer; its
+  suggested NFSA coverage reduction was not adopted wholesale and carries exclusion risk.
+- DFPD Annual Report 2024-25 records cash-transfer implementation in Chandigarh,
+  Puducherry and some areas of Dadra and Nagar Haveli and Daman and Diu; it is not a
+  nationwide replacement for in-kind TPDS.
 
 ## 8. Buffer stocks and OMSS
 
@@ -3617,7 +2966,7 @@ permanent methodology reform
 - Current combined wheat-rice norms: 210.40 lakh tonnes on 1 April, 411.20 on 1 July,
   307.70 on 1 October and 214.10 on 1 January.
 - Norms effective from 22 January 2015 combine operational and strategic needs; the
-  DFPD norm document was rechecked on 24 September 2026.
+  DFPD norm document was rechecked on 3 October 2026.
 - Understock threatens entitlements and resilience.
 - Persistent overstock raises storage, interest, loss and crowding risks.
 - OMSS releases stock to augment market supply, moderate prices or rotate surplus.
@@ -3653,6 +3002,11 @@ permanent methodology reform
 - Nutrition security requires diet quality, absorption, health, sanitation and care.
 - Fortification supplies selected micronutrients through a food vehicle.
 - Fortified rice continuation under government schemes runs through December 2028.
+- A government working group and ICMR-led review reported no evidence of added harm at
+  fortification exposure for thalassemia or sickle-cell disease, leading to reported
+  removal of the advisory requirement.
+- Older FSSAI compendium warning text and calls for continued surveillance mean the
+  health claim must remain qualified rather than absolute.
 - Fortification complements rather than replaces diverse diets.
 - Pulses improve protein access and legume rotations.
 - Millets support health, dryland resilience and livelihoods.
@@ -3665,6 +3019,10 @@ permanent methodology reform
 - Durable shift needs transition support, offtake, processing, storage and extension.
 - Price-deficiency payment can support price without accumulating stock.
 - Region-specific design should reflect soil, water, climate and demand.
+- Niger seed is a Kharif, rainfed minor oilseed associated with hilly and tribal
+  smallholder regions, including parts of central, eastern, western and North-East India.
+- MSP notification for Niger seed does not ensure unlimited procurement; seed,
+  aggregation, processing and a functioning support channel remain necessary.
 - The Economic Survey 2025-26 proposes using procurement efficiencies to finance
   voluntary diversification.
 - Centre-State partnership and automatic food-security safeguards are necessary.
@@ -3679,7 +3037,7 @@ permanent methodology reform
 - It is not a permanent exemption.
 - WTO MC14 met from 26 to 30 March 2026 and ended without consensus on the agriculture
   declaration or a permanent public-stockholding solution.
-- The official MC14 and post-MC14 agriculture pages were rechecked on 24 September
+- The official MC14 and post-MC14 agriculture pages were rechecked on 3 October
   2026.
 - Notification, transparency and trade safeguards matter.
 - India seeks a permanent solution while preserving domestic food security.
@@ -3728,6 +3086,8 @@ permanent methodology reform
 | Decentralised procurement | Lesson 6; federal map | Covered |
 | Economic cost | Lesson 7; price-cost map | Covered |
 | Food subsidy and accounting | Lesson 7; original Q3 | Covered |
+| Shanta Kumar Committee recommendations and adoption limits | Lesson 7; original Q3; Register 7 | Covered |
+| Cash-transfer food subsidy locations, status and trade-offs | Lesson 7; original Q3; Register 7 | Covered |
 | Buffer norms and actual stocks | Lesson 8 | Covered |
 | OMSS and stock release | Lesson 9 | Covered |
 | NFSA entitlements | Lesson 10 | Covered |
@@ -3737,8 +3097,9 @@ permanent methodology reform
 | ONORC and portability | Lesson 12 | Covered |
 | Digitisation and denial safeguards | Lesson 12; remediation | Covered |
 | Nutrition versus calorie security | Lesson 13 | Covered |
-| Fortified rice | Lesson 13 | Covered |
+| Fortified rice policy, safety evidence and health controversy | Lesson 13; original Q2; Register 11 | Covered |
 | Pulses, oilseeds and coarse cereals | Lesson 14 | Covered |
+| Niger seed Kharif ecology, geography, tribal livelihoods and procurement limit | Lesson 14; original Q1; Register 12 | Covered |
 | Diversification reform | Lesson 14; causal map | Covered |
 | WTO AoA and public stockholding | Lesson 15 | Covered |
 | Peace clause limitations | Lesson 15; WTO map | Covered |
@@ -3746,17 +3107,31 @@ permanent methodology reform
 | India-centric evidence | All lessons; source ledger | Covered |
 | Verified directly owned PYQs | PYQ linkage section | Covered |
 | No solved PYQ answers | PYQ linkage section | Confirmed |
-| Local MCQs with four-option explanations | Lessons 1-16 | Covered |
-| Cumulative MCQs | MCQs 33-44 | Covered |
-| Remedial MCQs | MCQs 45-52 | Covered |
+| Exactly one concept-check trio per lesson | Lessons 1-16 | Covered |
+| Cumulative concept checks | Final cumulative section | Covered |
+| Misconception remediation without an objective-question corpus | Remediation section | Covered |
 | Original 10/15/20-mark models | Original Mains section | Covered |
 | Criticism and reply in every lesson | Lessons 1-16 | Covered |
-| Mains micro-model in every lesson | Lessons 1-16 | Covered |
+| Responsive Mains model and unique scoring guidance in every lesson | Lessons 1-16 | Covered |
 | Final register notes | Register section | Covered |
 
 ---
 
 # SOURCE LEDGER
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | Basic owner rechecked for Shanta Kumar, DBT locations, fortified-rice controversy and Niger seed; all units mapped below |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Layered/complete session | not relevant | No permitted derived session was required; the existing target was reconstructed only as the file being overwritten |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | `upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` audited completely |
+| OCR books | checked | Local OCR PDFs: Ramesh Singh food-management pages around 371-381 and Economic Survey 2025-26 Chapter 6 |
+| PYQs through 2026 | checked | Repository Mains/Prelims routing ledgers for 2018-2026; no directly owned 2025/2026 item, with 2026 WTO question cross-owned |
+| Official live sources | checked | PIB Shanta Kumar and fortified-rice review releases, DFPD Annual Report 2024-25, ICAR Niger material, Budget/FCI/DFPD and WTO pages checked through 3 October 2026 |
+
 
 ## Governing repository sources
 
@@ -3768,10 +3143,9 @@ permanent methodology reform
   - canonical Basic owner.
 - `upsc-ai-kit/knowledge/Economy/advanced/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md`
   - advanced trade-offs and synthesis.
-- `upsc-ai-kit/knowledge/Economy/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security_Learner-V2-Complete-Topic-Package.md`
-  - evidence inventory only; its visible lesson shells were not reused.
 - `upsc-ai-kit/knowledge/Economy/OFFICIAL-UPSC-SYLLABUS-MAPPING.md` - direct ownership
   and Topic 28 WTO boundary.
+- Cross-owner boundary checks: `Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md`, `Economy/basic/13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md`, `Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md`, and `Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md`.
 - Verified Mains and Prelims routing ledgers for 2018-2026 - exact ownership and
   metadata.
 
@@ -3796,24 +3170,37 @@ permanent methodology reform
   - procurement, storage, movement, distribution and operational documents.
 - [Commission for Agricultural Costs and Prices / Directorate of Economics and Statistics](https://desagri.gov.in/)
   - price-policy reports, cost and recommendation factors.
+- [PIB, Shanta Kumar Committee recommendations on restructuring FCI](https://pib.gov.in/newsite/PrintRelease.aspx?relid=116125)
+  - procurement focus, storage modernisation, stock discipline, NFSA coverage proposal
+    and gradual cash-transfer recommendation; recommendations are not current law.
+- [DFPD Annual Report 2024-25](https://dfpd.gov.in/WriteReadData/AnnualRecordUploadDocuments/b9c640b8-5889-4ffd-a62d-5b56c5d4f029_Food%20AR%202024-25%20English%20small%20size.pdf)
+  - page 18 records cash-transfer mode in Chandigarh, Puducherry and some areas of Dadra
+    and Nagar Haveli and Daman and Diu.
+- [PIB, expert review of fortified rice for thalassemia and sickle-cell disease](https://pib.gov.in/PressReleasePage.aspx?PRID=2065835&reg=3&lang=2)
+  - official account of the working-group and ICMR-led review and reported advisory removal.
+- [FSSAI Fortification of Foods Regulations compendium](https://www.fssai.gov.in/upload/uploadfiles/files/Compendium_Food_Fortification_Regulations_30_09_2021.pdf)
+  - older publicly accessible compendium retaining the warning language; used to state
+    the documentation and continuing-monitoring qualification, not to override the later review.
+- [ICAR Kharif Agro-Advisories for Farmers 2025](https://icar.gov.in/en/icar-kharif-agro-advisories-farmers-2025)
+  - Kharif/rainfed crop context supporting the Niger seed ecology and livelihood treatment.
 - [WTO Agreement on Agriculture](https://www.wto.org/english/docs_e/legal_e/14-ag_01_e.htm)
   - domestic-support rules.
 - [WTO Bali Ministerial Decision on Public Stockholding for Food Security Purposes](https://www.wto.org/english/thewto_e/minist_e/mc9_e/desci38_e.htm)
   - peace-clause framework.
 - [WTO Fourteenth Ministerial Conference](https://www.wto.org/english/thewto_e/minist_e/mc14_e/mc14_e.htm)
   - MC14 met in Yaounde from 26 to 30 March 2026; official page rechecked
-    24 September 2026.
+    3 October 2026.
 - [WTO post-MC14 agriculture briefing](https://www.wto.org/english/thewto_e/minist_e/mc14_e/briefing_notes_e/agriculture_e.htm)
   - records the absence of consensus on the draft agriculture declaration and
-    continuation of negotiations; rechecked 24 September 2026.
+    continuation of negotiations; rechecked 3 October 2026.
 - [UPSC previous question papers](https://upsc.gov.in/examinations/previous-question-papers)
   - official examination-paper source.
 
 ## Dated current anchors
 
-- [PIB, CCEA approval of MSP for Rabi crops for RMS 2026-27](https://pib.gov.in/PressReleasePage.aspx?PRID=2173566)
-  - dated 1 October 2025; current Rabi-season decision and cost-margin statement.
-- [PIB, CCEA approval of MSP for Kharif crops for KMS 2026-27](https://pib.gov.in/PressReleasePage.aspx?PRID=2260618&reg=3&lang=1)
+- [PIB Cabinet briefing, MSP for Rabi crops for RMS 2027-28](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/sep/doc_10048_20260930_16392401.pdf)
+  - dated 30 September 2026; latest Rabi-season decision available by 3 October 2026 and the cost-margin statement.
+- [PIB, CCEA approval of MSP for Kharif crops for KMS 2026-27](https://pib.gov.in/PressReleasePage.aspx?PRID=2260617&reg=3&lang=2)
   - dated 13 May 2026; current Kharif-season decision.
 - [Economic Survey 2025-26, Chapter 6](https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap06.pdf)
   - released 29 January 2026; 22 mandated crops, procurement, diversification and food
@@ -3829,7 +3216,7 @@ permanent methodology reform
   - dated 9 October 2024; continuation from July 2024 through December 2028.
 - [DFPD, Central Pool stock position and buffer norms](https://dfpd.gov.in/WriteReadData/Other/63ad6ff0-b8ce-4826-a2d5-2f5749230f6b.pdf)
   - quarterly wheat-rice norm table effective 22 January 2015; actual stocks must be
-  read with their observation date; official document rechecked 24 September 2026.
+  read with their observation date; official document rechecked 3 October 2026.
 - [Union Budget, Statement on Subsidies and Subsidy Related Schemes](https://www.indiabudget.gov.in/doc/eb/stat7.pdf)
   - Union Budget 2026-27 document presented 1 February 2026; year-specific food-subsidy
   accounting and separate implementation channels must not be treated as timeless.
