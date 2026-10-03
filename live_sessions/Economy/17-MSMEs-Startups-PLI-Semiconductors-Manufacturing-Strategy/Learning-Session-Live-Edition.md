@@ -1,63 +1,61 @@
-# Economy 17 - MSMEs, Startups, PLI, Semiconductors and Manufacturing Strategy
+# Economy 17 — MSMEs, Startups, PLI, Semiconductors and Manufacturing Strategy
 
-> **Generation status:** complete learner-first live edition generated on 24 September 2026.  
-> **Evidence convention:** ✅ Fact = directly supported by a cited canonical, official-paper or official-document source. ⚠️ Analytical inference = reasoned synthesis.  
-> **Current-claim boundary:** every time-sensitive claim below carries a publication/status date. The official Economic Survey 2025-26 was tabled on 29 January 2026; its internal data dates are retained. Official web endpoints were rechecked on 24 September 2026 IST. Where a page returned HTTP 403 or a PDF could not be text-extracted by the live fetcher, that limitation is recorded and no unsupported figure is imported.
+> **Teaching boundary:** complete Core first; optional Advanced depth follows only after the Core sequence.
+> **Evidence convention:** ✅ Fact = source-supported statement. ⚠️ Analysis = reasoned inference or evaluation.
+> **Current-status cut-off:** 3 October 2026. Every programme number retains its own status date; approval, investment, production and outcome are never treated as interchangeable stages.
 
-## Frozen roadmap - 18 lessons
+## Frozen roadmap — 23 lessons
+
+### CORE LEARNING SEQUENCE
 
 | # | Learner-facing lesson | Stage |
 |---:|---|---|
-| 1 | Why manufacturing needs an ecosystem rather than a factory | Foundation |
-| 2 | MSME classification, identity and the lifecycle from entry to graduation | Foundation |
-| 3 | Formalisation as a capability bargain: Udyam, compliance and data trails | Foundation |
-| 4 | MSME finance diagnosis: term credit, working capital, guarantees and receivables | Core |
+| 1 | Manufacturing as an ecosystem | Foundation |
+| 2 | MSME definition, role and graduation | Foundation |
+| 3 | Formalisation and Udyam | Foundation |
+| 4 | Credit, working capital and guarantees | Core |
 | 5 | Delayed payments, TReDS, M1xchange, Samadhaan and ODR | Core |
-| 6 | Clusters, standards, technology and the productivity ladder | Core |
-| 7 | Startup identity, lifecycle and the difference from MSMEs and unicorns | Foundation |
-| 8 | Startup finance from grant to exit: matching risk with capital | Core |
-| 9 | How startups generate innovation, entrepreneurship and employment | Core |
-| 10 | Startup market failures, institutions, domestic/global challenges and reform | Advanced |
-| 11 | PLI rationale and design: scale, learning and measurable additionality | Core |
-| 12 | PLI eligibility, incentive calculations and the implementation-status ladder | Advanced |
-| 13 | PLI scorecard, counterfactual evaluation and MSME-anchor integration | Advanced |
-| 14 | Semiconductor value chain: design to fab, ATMP/OSAT and downstream products | Core |
-| 15 | Fab economics: technology cycles, utilities, talent, clusters and federal delivery | Advanced |
-| 16 | India Semiconductor Mission architecture, strategic autonomy and status caution | Advanced |
-| 17 | GVCs, domestic value addition, resilience, trade costs and environmental limits | Advanced |
-| 18 | Integrated manufacturing strategy: jobs, exports, productivity, value and accountability | Advanced |
+| 6 | Clusters, standards and productivity | Core |
+| 7 | Startup, MSME and unicorn distinctions | Foundation |
+| 8 | Startup funding ladder and exit | Core |
+| 9 | Entrepreneurship, innovation and employment | Core |
+| 10 | Startup failures, regulation and reforms | Core |
+| 11 | PLI rationale and design | Core |
+| 12 | PLI eligibility, calculation and status | Core |
+| 13 | PLI evaluation and supplier integration | Core |
+| 14 | Semiconductor supply chain | Core |
+| 15 | Fab economics and clusters | Core |
+| 16 | India Semiconductor Mission, ATMP and design | Core |
+| 17 | GVCs, domestic value and resilience | Core |
+| 18 | Integrated strategy and official dashboard | Core |
+
+### OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+| # | Learner-facing lesson | Stage |
+|---:|---|---|
+| 19 | MSME political economy and cluster governance | Advanced |
+| 20 | Startup option value, patient capital and governance | Advanced |
+| 21 | PLI counterfactual evaluation and dynamic capability | Advanced |
+| 22 | Semiconductor industrial economics and geopolitics | Advanced |
+| 23 | Productivity discovery, GVC upgrading and strategic autonomy | Advanced |
 
 ```text
-ENTERPRISE BASE                         TECHNOLOGY FRONTIER
-MSME entry -> formalise -> finance      startup idea -> prototype -> scale
-       -> improve quality -> supply             -> innovation spillovers
-                         \                     /
-                          v                   v
-                    ANCHOR MANUFACTURING / PLI
-                              |
-             design -> inputs -> production -> suppliers -> exports
-                              |
-                              v
-             SEMICONDUCTOR + OTHER STRATEGIC VALUE CHAINS
-                              |
-                              v
-        jobs + productivity + domestic value + resilience - fiscal/ecological cost
+CORE: entry -> identity -> suitable finance -> timely payment -> shared capability
+      -> startup experimentation -> scaled production -> chip ecosystem -> GVC upgrading
+OPTIONAL ADVANCED: counterfactual -> capture control -> policy learning -> strategic options
 ```
 
-The roadmap follows capability formation. It begins with the small firm's actual
-constraints, distinguishes the startup's uncertainty problem, then tests PLI and
-semiconductor policy against a common scorecard. The final question is not whether a
-scheme exists, but whether India acquires productive, technological and institutional
-capability that survives after support.
+The sequence builds a complete answer-ready Core before distinct optional enrichment.
+
 
 ---
 
 ## Lesson 1 - Why manufacturing needs an ecosystem rather than a factory
 
-**Progress: 1/18 | Stage: Foundation | Subtopic: The manufacturing capability system**
+Progress: 1/23 | Stage: Foundation | Subtopic: The manufacturing capability system
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical Basic/Advanced owners, complete package, solved workbook, Ramesh Singh OCR and Economic Survey 2025-26 Chapter 8 queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official Economic Survey 2025-26 manufacturing GVC high technology MSME PLI"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; Chapter 8 reports FY2025-26 industrial analysis and dated 2025 indicators
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -150,42 +148,19 @@ or a factory announcement as equivalent to production.
 9. Strategic resilience is not identical to complete self-sufficiency.
 10. Evaluate policy through additionality, depth, productivity, inclusion and durability.
 
-### Practice - reading the system
+### Concept check
 
-**MCQ 1.** A firm's gross output rises sharply while imported intermediate content rises
-in the same proportion. Which conclusion is most defensible?
+**Question:** A phone assembler's sales rise while imported content rises proportionately. What is proved and unproved?
 
-A. Production expanded, but domestic value-addition depth must be tested separately.
-B. Domestic technological capability necessarily doubled.
-C. Imports prove that the production has no economic value.
-D. Gross output and domestic value added must have risen identically.
+**Model answer:** Higher gross production is proved. Higher domestic value, supplier depth and technological capability require separate stage-level evidence.
 
-**Answer: A**
+**Misconception to avoid:** Gross sales do not establish domestic technological depth.
 
-- **A is correct:** gross production can rise without a proportionate rise in domestic value.
-- **B is wrong:** capability requires evidence on design, suppliers, processes and learning.
-- **C is wrong:** imported-input assembly can create jobs and an entry route into GVCs.
-- **D is wrong:** intermediate consumption is deducted when value added is calculated.
+### Lesson-local Mains practice
 
-**MCQ 2.** Which condition best converts an anchor plant into a wider manufacturing
-ecosystem?
+**Mains prompt:** *Why should manufacturing policy be evaluated as an ecosystem policy?*
 
-A. Permanent protection from all competition
-B. Capable domestic suppliers meeting cost, quality and delivery requirements
-C. Counting every announced job as realised employment
-D. Restricting policy evaluation to sanctioned fiscal outlay
-
-**Answer: B**
-
-- **A is wrong:** permanent insulation weakens the pressure to become competitive.
-- **B is correct:** supplier capability creates local linkages and diffusion.
-- **C is wrong:** announcement, hiring and sustained employment are different stages.
-- **D is wrong:** outlay is an input, not an industrial outcome.
-
-**Mains micro-model - 10 marks:** *Why should manufacturing policy be evaluated as an
-ecosystem policy?*
-
-**Model answer:** Manufacturing combines design, finance, machinery, inputs, skills,
+**Mains model:** Manufacturing combines design, finance, machinery, inputs, skills,
 utilities, standards, logistics, suppliers and markets. A subsidy can install capacity,
 but it cannot alone assure reliable production, domestic value addition or export
 competitiveness. Ecosystem evaluation therefore asks whether supported investment was
@@ -196,19 +171,19 @@ mistaking gross production for technological depth. India needs sequenced moveme
 from assembly to components, systems, design and intellectual property, supported by
 competitive inputs, infrastructure, skills and transparent outcome review.
 
+**Unique quantified rubric:** 10 marks: ecosystem map 2; output-value distinction 2; India example 2; trade-off 2; verdict 2.
+
 **Transition:** The ecosystem begins with firms of very different sizes. We first need
 to know what the label "MSME" legally measures and what it does not.
 
----
-
 ## Lesson 2 - MSME classification, identity and the lifecycle
 
-**Progress: 2/18 | Stage: Foundation | Subtopic: Composite thresholds, identity and graduation**
+Progress: 2/23 | Stage: Foundation | Subtopic: Composite thresholds, identity and graduation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: MSMED framework, canonical classification table, official-notification provenance and Economic Survey 2025-26 MSME discussion queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official MSME classification notification 21 March 2025 effective 1 April 2025"
-CA found: Ministry of MSME notification S.O. 1364(E), dated 21 March 2025 and effective 1 April 2025; official PIB page re-fetch attempted 24 September 2026 returned HTTP 403
+CA found: Ministry of MSME notification S.O. 1364(E), dated 21 March 2025 and effective 1 April 2025; official PIB page re-fetch attempted 3 October 2026 returned HTTP 403
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual - classification is a two-lock gate
@@ -225,7 +200,7 @@ Cross either ceiling -> move to the next applicable category.
 
 ✅ These prevailing thresholds derive from S.O. 1364(E), dated 21 March 2025,
 effective 1 April 2025. The older 2020 limits are historically important but are not
-the figures applicable on 24 September 2026 as verified in the canonical official-notification
+the figures applicable on 3 October 2026 as verified in the dated official-notification
 record.
 
 ### What classification does
@@ -271,7 +246,7 @@ on size-linked concessions alone.
 
 ### UPSC integration and verified objective linkage
 
-**2023 Prelims GS-I Q71:** the local audited ledger verifies a question on MSMED Act
+**2023 Prelims GS-I Q71:** the verified PYQ ledger verifies a question on MSMED Act
 medium-enterprise investment limits and bank credit. The official key is unavailable
 locally; no answer letter is inferred. Exam method: identify the vintage of every
 threshold statement and separately test any bank-credit proposition.
@@ -280,7 +255,7 @@ threshold statement and separately test any bank-credit proposition.
 
 1. MSME classification is composite: investment plus turnover.
 2. The applicable notification date is examinable.
-3. The limits applicable on 24 September 2026 took effect on 1 April 2025.
+3. The limits applicable on 3 October 2026 took effect on 1 April 2025.
 4. MSME does not mean informal.
 5. MSME does not mean startup.
 6. Classification is an eligibility boundary, not a performance rating.
@@ -290,41 +265,19 @@ threshold statement and separately test any bank-credit proposition.
 10. Medium firms can anchor supplier and export networks.
 11. Never answer a vintage-sensitive Prelims item from memory alone.
 
-### Practice - classify, then interpret
+### Concept check
 
-**MCQ 3.** Under the classification effective 1 April 2025, which enterprise fits
-within the medium ceiling on both dimensions?
+**Question:** Why can a firm fit one MSME investment ceiling yet fail its turnover ceiling?
 
-A. Investment ₹130 crore; turnover ₹400 crore
-B. Investment ₹80 crore; turnover ₹510 crore
-C. Investment ₹120 crore; turnover ₹480 crore
-D. Investment ₹126 crore; turnover ₹501 crore
+**Model answer:** The classification is composite. Both applicable ceilings must be met; crossing either changes the category.
 
-**Answer: C**
+**Misconception to avoid:** Do not choose whichever criterion gives the preferred label.
 
-- **A is wrong:** investment exceeds ₹125 crore.
-- **B is wrong:** turnover exceeds ₹500 crore.
-- **C is correct:** both figures remain within the medium ceilings.
-- **D is wrong:** both figures exceed the ceilings.
+### Lesson-local Mains practice
 
-**MCQ 4.** Which policy design best addresses the "dwarf firm" problem?
+**Mains prompt:** *MSME classification should enable graduation, not reward permanent smallness. Explain.*
 
-A. Withdraw every benefit immediately when one threshold is crossed.
-B. Ban firms from growing beyond the small category.
-C. Replace productivity support with permanent tax concessions.
-D. Provide predictable transition support while shifting assistance toward capability.
-
-**Answer: D**
-
-- **A is wrong:** a sharp cliff can strengthen the incentive to remain artificially small.
-- **B is wrong:** graduation is the objective, not a policy failure.
-- **C is wrong:** permanent concessions can entrench low productivity.
-- **D is correct:** it reduces the cliff while preserving the incentive to scale.
-
-**Mains micro-model - 10 marks:** *MSME classification should enable graduation, not
-reward permanent smallness. Explain.*
-
-**Model answer:** Classification is needed to target credit, procurement and
+**Mains model:** Classification is needed to target credit, procurement and
 development support, but a legal threshold can alter firm behaviour. If benefits
 disappear abruptly, enterprises may postpone investment, split operations or
 under-report turnover. This produces many sub-scale firms and weakens productivity.
@@ -334,17 +287,17 @@ testing, technology, skills and market access. Outcomes should be measured by su
 formalisation, productivity and movement into higher supplier tiers. The aim is not to
 keep every enterprise micro; it is to make entry possible and graduation viable.
 
+**Unique quantified rubric:** 10 marks: current criteria 2; lifecycle 2; benefit-cliff mechanism 2; graduation reform 2; date caution 2.
+
 **Transition:** Classification gives a legal identity. The next question is whether
 formal identity actually lowers the cost of finance and market access.
 
----
-
 ## Lesson 3 - Formalisation as a capability bargain
 
-**Progress: 3/18 | Stage: Foundation | Subtopic: Udyam, compliance, data trails and access**
+Progress: 3/23 | Stage: Foundation | Subtopic: Udyam, compliance, data trails and access
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical Udyam account, Economic Survey 2025-26 formalisation discussion and Ramesh Singh OCR queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official Udyam Udyam Assist formalisation MSME Economic Survey 2025-26"
 CA found: Economic Survey 2025-26, tabled 29 January 2026, links digital integration and formalisation with finance and supply-chain access; no separate post-publication count is used
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -395,7 +348,7 @@ Informality weakens worker protection, tax capacity, contract enforcement and th
 firm's ability to join formal supply chains.
 
 **Criticism:** Digitisation can exclude firms with weak connectivity or literacy and
-can intensify surveillance without delivering benefits.  
+can intensify surveillance without delivering benefits.
 **Reply:** use assisted registration, simple returns, interoperable records,
 proportionate risk-based inspection and a visible benefit path. Safeguards for data
 purpose, security and grievance redress are part of good formalisation.
@@ -423,42 +376,19 @@ Frame formalisation as a sequence:
 9. Productive formalisation should improve survival, finance and market access.
 10. Data use needs security, purpose limitation and grievance redress.
 
-### Practice - locate the broken arrow
+### Concept check
 
-**MCQ 5.** Which outcome most directly shows that formalisation has become productive
-rather than merely administrative?
+**Question:** A firm has Udyam identity but no reliable invoices. What is missing?
 
-A. The firm obtains repeat formal orders and finance based on a verifiable transaction trail.
-B. The portal issues a registration number.
-C. A registration campaign reports more applications.
-D. The firm is renamed without changing records or production.
+**Model answer:** Administrative identity exists, but productive formalisation lacks the transaction trail needed for appraisal, procurement and contracts.
 
-**Answer: A**
+**Misconception to avoid:** Registration is a gateway, not proof of capability.
 
-- **A is correct:** identity has translated into market and financing capability.
-- **B is wrong:** this is only the first administrative step.
-- **C is wrong:** applications do not establish enterprise outcomes.
-- **D is wrong:** a label change does not reduce information asymmetry.
+### Lesson-local Mains practice
 
-**MCQ 6.** A registered unit has no collateral but has stable digital invoices and bank
-receipts. Which appraisal reform is most relevant?
+**Mains prompt:** *Why is registration alone insufficient to formalise MSME capability?*
 
-A. Ignore all transaction evidence and require land.
-B. Use verified cash-flow information alongside prudent credit assessment.
-C. Treat registration as an automatic loan guarantee.
-D. Replace repayment assessment with a permanent subsidy.
-
-**Answer: B**
-
-- **A is wrong:** it discards information capable of improving appraisal.
-- **B is correct:** cash-flow lending uses the firm's operating evidence without abandoning prudence.
-- **C is wrong:** registration does not prove repayment capacity.
-- **D is wrong:** subsidy is not a substitute for viable credit assessment.
-
-**Mains micro-model - 10 marks:** *Why is registration alone insufficient to formalise
-MSME capability?*
-
-**Model answer:** Registration creates a recognised identity and can open access to
+**Mains model:** Registration creates a recognised identity and can open access to
 schemes, procurement and formal dispute mechanisms. Yet productive formalisation
 requires the next links: reliable accounts, digital invoices, bank flows, standards and
 enforceable contracts. These reduce information asymmetry and allow lenders and buyers
@@ -468,17 +398,17 @@ simple bookkeeping, cash-flow-based lending, proportionate regulation, quality s
 and grievance redress. Success is shown by survival, repeat formal orders, timely
 finance, productivity and worker protection—not by registration totals alone.
 
+**Unique quantified rubric:** 10 marks: formalisation definition 2; broken-link diagnosis 2; Udyam example 2; safeguards 2; outcome test 2.
+
 **Transition:** Once records reveal the firm, finance must still match the exact
 constraint. A machinery loan cannot solve a buyer's unpaid invoice.
 
----
-
 ## Lesson 4 - MSME finance is not one problem
 
-**Progress: 4/18 | Stage: Core | Subtopic: Term credit, working capital, guarantees and risk**
+Progress: 4/23 | Stage: Core | Subtopic: Term credit, working capital, guarantees and risk
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical CGTMSE and finance distinctions, Economic Survey 2025-26 Chapter 8 and local Economy book OCR queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "Economic Survey 2025-26 MSME credit growth collateral cash flow CGTMSE"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; Table VIII.3 reports MSME credit growth for August 2025 and discusses guarantee changes effective 1 April 2025
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -560,45 +490,19 @@ large buyer delays payment.
 10. Segment and inclusion data matter.
 11. Measure finance by productive use and repayment, not sanction alone.
 
-### Practice - match instrument to constraint
+### Concept check
 
-**MCQ 7.** A viable supplier has completed an order and holds a buyer-accepted invoice
-payable after 60 days, but needs cash now. Which instrument is the closest fit?
+**Question:** Why is a credit guarantee not a substitute for appraisal?
 
-A. A new equity issue for permanent ownership capital
-B. A long-term machinery loan
-C. Receivables discounting
-D. A patent grant
+**Model answer:** It reallocates part of loss after default; it does not create demand, cash flow or repayment capacity.
 
-**Answer: C**
+**Misconception to avoid:** Collateral relief is not automatic risk-free credit.
 
-- **A is wrong:** ownership dilution is disproportionate to a short cash-timing gap.
-- **B is wrong:** the need is not acquisition of a long-lived asset.
-- **C is correct:** the accepted receivable can be discounted for present liquidity.
-- **D is wrong:** intellectual-property support does not finance the payment gap.
+### Lesson-local Mains practice
 
-**MCQ 8.** What is the most important prudential qualification to a credit-guarantee
-programme?
+**Mains prompt:** *MSME credit constraints are heterogeneous. Analyse the implications for policy design.*
 
-A. It should eliminate all lender exposure.
-B. It should replace borrower cash-flow assessment.
-C. It should guarantee every enterprise regardless of viability.
-D. It should share risk without destroying appraisal and monitoring incentives.
-
-**Answer: D**
-
-- **A is wrong:** zero exposure can intensify moral hazard.
-- **B is wrong:** guarantees complement rather than replace appraisal.
-- **C is wrong:** indiscriminate cover misallocates credit and strains the corpus.
-- **D is correct:** partial risk sharing preserves lending discipline.
-
-**Block checkpoint - MSME foundations:** Classification identifies the enterprise;
-formalisation creates records; finance must then be matched to the lifecycle constraint.
-
-**Mains micro-model - 15 marks:** *MSME credit constraints are heterogeneous. Analyse
-the implications for policy design.*
-
-**Model answer:** MSMEs do not face a single "credit gap." A new machine requires term
+**Mains model:** MSMEs do not face a single "credit gap." A new machine requires term
 finance; inventories and wages require working capital; an unpaid accepted invoice
 requires receivables finance; an innovation experiment may require grant or equity.
 Collateral scarcity can be addressed through partial guarantees, but guarantees cannot
@@ -610,17 +514,17 @@ viability-based restructuring contain moral hazard. Finally, timely-payment refo
 essential because more loans cannot sustainably compensate for buyers who retain the
 supplier's working capital.
 
+**Unique quantified rubric:** 10 marks: finance taxonomy 2; information problem 2; guarantee mechanism 2; moral hazard 2; matched policy 2.
+
 **Transition:** The finance diagnosis now reaches its most distinctive MSME problem:
 the firm has already supplied, yet its money remains with the buyer.
 
----
-
 ## Lesson 5 - Delayed payment is involuntary finance to the buyer
 
-**Progress: 5/18 | Stage: Core | Subtopic: TReDS, M1xchange, Samadhaan and ODR**
+Progress: 5/23 | Stage: Core | Subtopic: TReDS, M1xchange, Samadhaan and ODR
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: MSMED delayed-payment framework, canonical TReDS distinction and Economic Survey 2025-26 ODR box queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official TReDS M1xchange delayed payments MSME ODR Economic Survey 2025-26"
 CA found: Economic Survey 2025-26, tabled 29 January 2026, describes TReDS expansion and MSME ODR; 2026 Prelims Q93 is locally routed with a provisional Set-A key but no answer letter is inferred
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -700,56 +604,19 @@ accepted receivable, financiers and working-capital liquidity.
 10. Buyer power can suppress complaints.
 11. Measure success through payment time and supplier liquidity.
 
-### Practice - follow the invoice
+### Concept check
 
-**MCQ 9.** What event most directly makes a trade receivable suitable for ordinary
-TReDS discounting?
+**Question:** What does TReDS solve after invoice acceptance?
 
-A. Acceptance of the invoice obligation by the buyer
-B. Purchase of a new machine by the supplier
-C. Grant of a patent to the supplier
-D. Conversion of the supplier into a listed company
+**Model answer:** It discounts an accepted future receivable into present liquidity. It does not solve an unresolved contract dispute.
 
-**Answer: A**
+**Misconception to avoid:** TReDS is not a term-loan portal or rating agency.
 
-- **A is correct:** acceptance establishes the receivable to be financed.
-- **B is wrong:** machinery investment is unrelated to invoice acceptance.
-- **C is wrong:** intellectual property does not create the buyer's payment obligation.
-- **D is wrong:** listing status is unnecessary to the core mechanism.
+### Lesson-local Mains practice
 
-**MCQ 10.** Which pairing is accurate?
+**Mains prompt:** *Why can delayed payments not be solved by expanding ordinary bank credit alone?*
 
-A. Samadhaan - semiconductor design incentive
-B. M1xchange - TReDS receivables-finance platform
-C. CGTMSE - invoice-acceptance exchange
-D. ODR - automatic subsidy disbursal
-
-**Answer: B**
-
-- **A is wrong:** Samadhaan concerns delayed-payment applications.
-- **B is correct:** M1xchange operates within the TReDS receivables-finance architecture.
-- **C is wrong:** CGTMSE is a credit-guarantee institution.
-- **D is wrong:** ODR is a dispute-resolution route, not a subsidy channel.
-
-**MCQ 11.** A buyer refuses to acknowledge that goods met the contract specification.
-What is the immediate limitation of TReDS?
-
-A. It cannot finance any MSME.
-B. It finances only equity.
-C. The absence of an accepted invoice blocks the standard discounting route.
-D. It automatically decides the quality dispute.
-
-**Answer: C**
-
-- **A is wrong:** accepted receivables can be financed.
-- **B is wrong:** TReDS is receivables finance, not equity.
-- **C is correct:** invoice acceptance is the missing prerequisite.
-- **D is wrong:** contract adjudication belongs to dispute mechanisms, not the exchange.
-
-**Mains micro-model - 10 marks:** *Why can delayed payments not be solved by expanding
-ordinary bank credit alone?*
-
-**Model answer:** A delayed payment is not merely a shortage of borrowing; it is money
+**Mains model:** A delayed payment is not merely a shortage of borrowing; it is money
 already earned but retained by the buyer. A fresh loan makes the MSME pay interest to
 replace its own receivable and can increase leverage without correcting buyer conduct.
 TReDS converts an accepted invoice into immediate liquidity through financier
@@ -759,17 +626,17 @@ may fear retaliation. A complete response therefore combines digital invoicing,
 mandatory buyer discipline, transparent payment-time reporting, receivables finance,
 low-cost dispute resolution and procurement consequences for persistent delay.
 
+**Unique quantified rubric:** 10 marks: payment-cycle mechanism 2; TReDS 2; remedy distinction 2; buyer-power limit 2; integrated response 2.
+
 **Transition:** Liquidity keeps the firm alive. It does not make the firm precise,
 certified or productive enough to enter a demanding supply chain.
 
----
-
 ## Lesson 6 - Clusters, standards and the productivity ladder
 
-**Progress: 6/18 | Stage: Core | Subtopic: Shared capability, quality and supplier upgrading**
+Progress: 6/23 | Stage: Core | Subtopic: Shared capability, quality and supplier upgrading
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical cluster/productivity material and Economic Survey 2025-26 quality-control and cluster discussion queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "Economic Survey 2025-26 MSME clusters QCO testing infrastructure productivity"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; QCO count is stated with status 31 December 2025 and the Survey warns about MSME adjustment costs
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -833,7 +700,7 @@ publish requirement -> map input/testing gaps -> provide transition and shared s
 ```
 
 **Criticism:** Cluster policy may subsidise real estate and signage while linkages remain
-weak.  
+weak.
 **Reply:** release support against occupancy, common-facility use, supplier certification,
 buyer orders, productivity and environmental compliance. A cluster is an outcome network,
 not a boundary on a map.
@@ -853,55 +720,19 @@ not a boundary on a map.
 11. Environmental common facilities need enforcement.
 12. The objective is upgrading, not shelter from quality.
 
-### Practice - diagnose capability
+### Concept check
 
-**MCQ 12.** Which cluster result most convincingly demonstrates capability upgrading?
+**Question:** Why can shared testing raise cluster productivity?
 
-A. Land is notified for an industrial park.
-B. A common facility is inaugurated.
-C. Firms attend an awareness seminar.
-D. More local firms meet buyer standards and win repeat higher-tier orders.
+**Model answer:** It spreads a high fixed cost, enabling small suppliers to verify quality and reach buyers.
 
-**Answer: D**
+**Misconception to avoid:** A shared asset works only with access, utilisation, maintenance and demand.
 
-- **A is wrong:** notification is an administrative input.
-- **B is wrong:** an unused facility creates no productive capability.
-- **C is wrong:** attendance does not prove adoption.
-- **D is correct:** certification plus repeat demand reveals functioning capability.
+### Lesson-local Mains practice
 
-**MCQ 13.** A new process raises acceptable output while labour hours and material input
-remain unchanged. This is best described as:
+**Mains prompt:** *Can mandatory quality standards strengthen manufacturing without excluding MSMEs?*
 
-A. a productivity improvement
-B. a mere increase in nominal price
-C. disguised unemployment by definition
-D. a fall in process yield
-
-**Answer: A**
-
-- **A is correct:** more usable output emerges from the same measured inputs.
-- **B is wrong:** the example concerns physical yield, not price.
-- **C is wrong:** no evidence about redundant labour is given.
-- **D is wrong:** acceptable-output yield has increased.
-
-**Block-cumulative MCQ 14.** Which sequence best represents an MSME capability pathway?
-
-A. subsidy -> registration -> permanent protection -> productivity
-B. identity -> records -> suitable finance -> quality upgrading -> market access
-C. classification -> automatic credit -> automatic export
-D. delayed payment -> higher leverage -> stronger liquidity
-
-**Answer: B**
-
-- **A is wrong:** permanent protection does not guarantee capability.
-- **B is correct:** each stage enables the next while retaining an outcome test.
-- **C is wrong:** classification creates no automatic financial or export entitlement.
-- **D is wrong:** delayed payment weakens liquidity and extra leverage may compound stress.
-
-**Mains micro-model - 15 marks:** *Can mandatory quality standards strengthen
-manufacturing without excluding MSMEs?*
-
-**Model answer:** Standards can raise safety, reduce information asymmetry and establish
+**Mains model:** Standards can raise safety, reduce information asymmetry and establish
 credibility in domestic and export markets. They also discipline production processes.
 However, compliance has fixed costs: testing, redesign, certification and compliant
 inputs. Abrupt standards can therefore exclude MSMEs, reduce competition or disrupt
@@ -913,18 +744,18 @@ certification time and cost, market concentration, MSME participation and export
 Thus standards become a productivity ladder when capability support precedes full
 enforcement; otherwise they can become an entry barrier.
 
+**Unique quantified rubric:** 10 marks: cluster externality 2; facility mechanism 2; standards link 2; governance risk 2; productivity verdict 2.
+
 **Transition:** MSME policy largely begins with size and operating constraints. Startup
 policy begins with a different problem: uncertain innovation whose value is not yet
 observable.
 
----
-
 ## Lesson 7 - Startup, MSME and unicorn are different categories
 
-**Progress: 7/18 | Stage: Foundation | Subtopic: Innovation identity and lifecycle**
+Progress: 7/23 | Stage: Foundation | Subtopic: Innovation identity and lifecycle
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical 2026 startup gap repair, lifecycle tables and Economic Survey 2025-26 startup section queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "Economic Survey 2025-26 DPIIT recognised startups 31 October 2025 innovation"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; Chart VIII.23 reports 1.97 lakh recognised startups as of 31 October 2025 and text notes over 2 lakh as of 25 November 2025
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -996,41 +827,19 @@ reforms. Defining the category correctly prevents a scheme-list answer.
 10. Repeated demand is stronger evidence than registration.
 11. Startup evaluation requires cohort survival and outcomes.
 
-### Practice - separate the labels
+### Concept check
 
-**MCQ 15.** Which statement is conceptually correct?
+**Question:** Can one firm be both startup and MSME?
 
-A. Every MSME is a DPIIT-recognised startup.
-B. Every unicorn is legally an MSME.
-C. A firm may simultaneously qualify as an MSME and a recognised startup.
-D. Recognition certifies profitability.
+**Model answer:** Yes. Startup recognition concerns age, innovation and scalability; MSME status concerns investment and turnover.
 
-**Answer: C**
+**Misconception to avoid:** Startup, MSME and unicorn are not synonyms.
 
-- **A is wrong:** MSME status is size-based, not necessarily innovation-based.
-- **B is wrong:** valuation does not establish the prevailing MSME thresholds.
-- **C is correct:** the classifications can overlap because they use different criteria.
-- **D is wrong:** recognition is a policy gateway, not a profitability audit.
+### Lesson-local Mains practice
 
-**MCQ 16.** A prototype works technically but no customer has yet placed a repeat order.
-Which uncertainty remains most directly unresolved?
+**Mains prompt:** *Why should startup policy measure more than recognition and unicorn counts?*
 
-A. Whether the founders possess a registration certificate
-B. Whether the idea has any scientific content
-C. Whether a future acquisition is guaranteed
-D. Whether product-market fit exists
-
-**Answer: D**
-
-- **A is wrong:** registration does not reveal repeat demand.
-- **B is wrong:** a working prototype supplies some technical evidence.
-- **C is wrong:** no exit is guaranteed at this stage.
-- **D is correct:** repeat willingness to pay remains unproven.
-
-**Mains micro-model - 10 marks:** *Why should startup policy measure more than
-recognition and unicorn counts?*
-
-**Model answer:** Recognition measures entry into a policy category and unicorn status
+**Mains model:** Recognition measures entry into a policy category and unicorn status
 measures private valuation; neither proves survival, innovation, profitability or broad
 employment. Startup policy exists because uncertain experiments, knowledge spillovers,
 intangible assets and first-buyer risk can cause socially useful ideas to be underfunded.
@@ -1040,19 +849,19 @@ research, quality jobs, supplier effects, exports, regional and gender inclusion
 successful or orderly exits. Such measurement rewards productive entrepreneurship
 rather than labels while preserving room for honest failure and learning.
 
+**Unique quantified rubric:** 10 marks: three definitions 3; overlap 2; lifecycle 2; metric caution 1; conclusion 2.
+
 **Transition:** Each lifecycle stage has a different uncertainty. It therefore requires
 a different kind of money.
 
----
-
 ## Lesson 8 - Startup finance: match capital to uncertainty
 
-**Progress: 8/18 | Stage: Core | Subtopic: Grant, equity, debt and exit recycling**
+Progress: 8/23 | Stage: Core | Subtopic: Grant, equity, debt and exit recycling
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical financing ladder, SIDBI Fund of Funds architecture and startup market-failure analysis queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official Fund of Funds for Startups Seed Fund Credit Guarantee Startup India 2026"
-CA found: Economic Survey 2025-26, tabled 29 January 2026, identifies Fund of Funds, Seed Fund and Credit Guarantee as ecosystem instruments; live PIB detail page attempted 24 September 2026 returned HTTP 403, so no later ceilings are quoted
+CA found: Economic Survey 2025-26, tabled 29 January 2026, identifies Fund of Funds, Seed Fund and Credit Guarantee as ecosystem instruments; live PIB detail page attempted 3 October 2026 returned HTTP 403, so no later ceilings are quoted
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### A risk-capital staircase
@@ -1130,56 +939,19 @@ protect creditors, workers and investors against fraud.
 11. Funding volume should be read with concentration and outcomes.
 12. Unit economics matter before aggressive scale.
 
-### Practice - finance the stage
+### Concept check
 
-**MCQ 17.** A university team has a promising material but no prototype or revenue.
-Which instrument is most naturally matched to this stage?
+**Question:** Why is secured debt usually unsuitable for an unvalidated prototype?
 
-A. A milestone-based research or prototype grant
-B. A large working-capital overdraft secured by sales
-C. Receivables discounting
-D. A public IPO
+**Model answer:** Technology, demand and cash flow are uncertain and collateral is thin; grants or equity absorb failure better.
 
-**Answer: A**
+**Misconception to avoid:** Do not use one funding instrument at every stage.
 
-- **A is correct:** uncertainty and spillovers are high while repayment evidence is absent.
-- **B is wrong:** there are no operating sales to support the facility.
-- **C is wrong:** no accepted commercial invoice exists.
-- **D is wrong:** public listing is a maturity-stage route.
+### Lesson-local Mains practice
 
-**MCQ 18.** Why does a functioning exit market support early-stage entrepreneurship?
+**Mains prompt:** *Explain why a startup ecosystem needs a financing ladder rather than one universal fund.*
 
-A. It guarantees that every startup succeeds.
-B. It allows capital and experienced people to be recycled into new ventures.
-C. It eliminates investor due diligence.
-D. It converts every acquisition into public expenditure.
-
-**Answer: B**
-
-- **A is wrong:** exits and failures remain uncertain.
-- **B is correct:** liquidity and experience return to the ecosystem.
-- **C is wrong:** exit possibility does not eliminate selection risk.
-- **D is wrong:** private exits are not automatically fiscal transactions.
-
-**MCQ 19.** Which is the strongest reason ordinary secured debt may underprovide
-early-stage deep-tech finance?
-
-A. Deep-tech never produces revenue.
-B. Every intangible asset is worthless.
-C. Long gestation and uncertain cash flow do not fit fixed repayment and collateral requirements.
-D. Equity investors cannot assess technology.
-
-**Answer: C**
-
-- **A is wrong:** successful deep-tech firms can generate substantial revenue.
-- **B is wrong:** intangible knowledge can be highly valuable though hard to collateralise.
-- **C is correct:** the instrument's repayment structure mismatches the risk profile.
-- **D is wrong:** specialised equity investors exist precisely to assess such uncertainty.
-
-**Mains micro-model - 15 marks:** *Explain why a startup ecosystem needs a financing
-ladder rather than one universal fund.*
-
-**Model answer:** Startup risk changes as evidence accumulates. Grants or founder funds
+**Mains model:** Startup risk changes as evidence accumulates. Grants or founder funds
 support validation where spillovers are high and repayment is implausible. Angels and
 seed investors finance prototypes; venture capital bears portfolio risk while helping
 establish product-market fit; growth equity supports scale; and debt becomes suitable
@@ -1190,18 +962,18 @@ remove technology risk. Finally, predictable acquisition, insolvency and listing
 recycle capital and talent. A universal instrument would either demand repayment too
 early or subsidise mature firms unnecessarily.
 
+**Unique quantified rubric:** 10 marks: stage-risk map 2; instrument matching 3; worked finance logic 1; patient capital 2; exit qualification 2.
+
 **Transition:** Finance enables experimentation. It does not by itself explain how
 experiments become entrepreneurship, innovation and employment—the three limbs of the
 direct 2026 question.
 
----
-
 ## Lesson 9 - The startup transmission mechanism
 
-**Progress: 9/18 | Stage: Core | Subtopic: Entrepreneurship, innovation and employment**
+Progress: 9/23 | Stage: Core | Subtopic: Entrepreneurship, innovation and employment
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical 2026 startup mechanism, official 2026 GS-III scan routing and Economic Survey 2025-26 innovation discussion queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official Economic Survey 2025-26 startups entrepreneurship innovation employment 2026"
 CA found: Economic Survey 2025-26, tabled 29 January 2026, links startup expansion to risk-taking and innovation; direct GS-III Q12 was OCR-verified from the official 2026 paper
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1252,7 +1024,7 @@ itself.
 
 ### The direct verified PYQ
 
-**2026 GS-III Q12, 15 marks / 250 words, official scan OCR-verified:**  
+**2026 GS-III Q12, 15 marks / 250 words, official scan OCR-verified:**
 “How are startups in India promoting entrepreneurship, innovation and employment?
 Discuss the global and domestic challenges in their working and suggest suitable
 measures to overcome these challenges.”
@@ -1277,56 +1049,19 @@ classification, instrument-to-failure reforms, outcome-based conclusion.
 11. Reforms must match market failures.
 12. Avoid a scheme-list response.
 
-### Practice - trace the causal route
+### Concept check
 
-**MCQ 20.** Which is an indirect employment effect of a manufacturing startup?
+**Question:** How can a startup create jobs beyond its payroll?
 
-A. The founder's own labour
-B. Engineers hired on its payroll
-C. Shares issued to an investor
-D. Additional work at a local packaging supplier
+**Model answer:** Through supplier, logistics, distribution, service and platform demand, qualified by duration, earnings, security and displacement.
 
-**Answer: D**
+**Misconception to avoid:** Accounts, valuation and projected hiring are not quality jobs.
 
-- **A is wrong:** this is entrepreneurial labour within the firm.
-- **B is wrong:** payroll hiring is direct employment.
-- **C is wrong:** financing is not employment.
-- **D is correct:** supplier demand creates work outside the startup.
+### Lesson-local Mains practice
 
-**MCQ 21.** A digital platform initially increases competition but later becomes hard
-to challenge because users and data reinforce its lead. This illustrates:
+**Mains prompt:** *Through what channels can startups create employment, and what qualifications should accompany the claim?*
 
-A. network-effect concentration
-B. the impossibility of innovation
-C. MSME composite classification
-D. receivables discounting
-
-**Answer: A**
-
-- **A is correct:** self-reinforcing user and data advantages can entrench the platform.
-- **B is wrong:** the platform itself may be innovative.
-- **C is wrong:** size classification does not explain the feedback loop.
-- **D is wrong:** invoice finance is unrelated.
-
-**Block-cumulative MCQ 22.** Which pair correctly matches the enterprise with its most
-distinctive policy problem?
-
-A. Early startup - delayed accepted invoice only; mature MSME - prototype uncertainty only
-B. Early startup - experimentation/intangible risk; MSME supplier - scale, credit and payment constraints
-C. Unicorn - legally guaranteed profitability; micro firm - automatic formal credit
-D. Startup - investment/turnover classification only; MSME - innovation recognition only
-
-**Answer: B**
-
-- **A is wrong:** it reverses the central diagnostic tendencies.
-- **B is correct:** the categories can overlap but their policy starting points differ.
-- **C is wrong:** neither valuation nor classification guarantees performance.
-- **D is wrong:** it swaps the governing criteria.
-
-**Mains micro-model - 15 marks:** *Through what channels can startups create employment,
-and what qualifications should accompany the claim?*
-
-**Model answer:** Startups create direct technical, managerial, production and sales
+**Mains model:** Startups create direct technical, managerial, production and sales
 jobs as they scale. Their purchases create indirect employment among suppliers,
 logistics, cloud, testing and professional services. Worker incomes generate induced
 local demand, while enabling platforms can lower transaction costs for many other
@@ -1338,18 +1073,18 @@ employment, earnings, social protection, skills, regional spread and supplier jo
 alongside productivity. Policy should combine stage-appropriate finance and first-buyer
 support with competition, labour protection and portable benefits.
 
+**Unique quantified rubric:** 10 marks: entrepreneurship 2; innovation 2; direct/indirect jobs 2; evidence 2; quality qualification 2.
+
 **Transition:** The transmission channels reveal why markets may underprovide useful
 startups. They also reveal why poorly designed support can protect weak firms or deepen
 concentration.
 
----
-
 ## Lesson 10 - Startup failures and a matched reform architecture
 
-**Progress: 10/18 | Stage: Advanced | Subtopic: Market failures, institutions and domestic/global constraints**
+Progress: 10/23 | Stage: Core | Subtopic: Market failures, institutions and domestic/global constraints
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical startup failure-response matrix, 2026 PYQ demand and Economic Survey innovation-to-deployment analysis queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "Economic Survey 2025-26 startup commercialisation first buyer RDI translational research"
 CA found: Economic Survey 2025-26, tabled 29 January 2026, identifies the research-to-commercialisation gap and proposes translational capability; no post-publication scheme ceiling is used
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1399,11 +1134,11 @@ exclusion -> regional, gender and network access
 
 ### Criticism-reply exchange
 
-**Objection:** Government cannot pick winners.  
+**Objection:** Government cannot pick winners.
 **Reply:** It need not predict a single champion. It can fund portfolios, common
 infrastructure and milestones while letting independent managers and markets select.
 
-**Objection:** Failure wastes public money.  
+**Objection:** Failure wastes public money.
 **Reply:** Some failure is intrinsic to experimentation. The relevant distinction is
 between informative, bounded failure and repeated support without learning.
 
@@ -1439,42 +1174,19 @@ are indispensable.
 12. Outcome data should follow cohorts.
 13. Domestic and global challenges must remain separate in the 2026 answer.
 
-### Practice - pair failure and instrument
+### Concept check
 
-**MCQ 23.** A technically validated Indian device cannot secure its first commercial
-buyer because hospitals fear adoption risk. Which response is best targeted?
+**Question:** A sound product has no first customer. Diagnose and respond.
 
-A. Permanent import prohibition
-B. An unrelated term-loan waiver
-C. Transparent pilot procurement with safety and performance milestones
-D. Automatic unicorn designation
+**Model answer:** This is a first-buyer failure; transparent procurement pilots, challenge grants or sandboxes can establish evidence with sunset safeguards.
 
-**Answer: C**
+**Misconception to avoid:** More capital alone does not solve adoption risk.
 
-- **A is wrong:** protection does not establish product performance.
-- **B is wrong:** the binding constraint is demand evidence, not an existing loan.
-- **C is correct:** a controlled first-buyer route can generate credible evidence.
-- **D is wrong:** valuation labels do not solve adoption risk.
+### Lesson-local Mains practice
 
-**MCQ 24.** Which safeguard best distinguishes useful public experimentation from
-indefinite winner protection?
+**Mains prompt:** *Diagnose the domestic and global challenges faced by Indian startups and propose a failure-matched reform strategy.*
 
-A. Concealing failed projects
-B. Funding every applicant equally forever
-C. Measuring only money sanctioned
-D. Milestones, portfolio disclosure, independent review and exit rules
-
-**Answer: D**
-
-- **A is wrong:** concealment prevents learning and accountability.
-- **B is wrong:** indiscriminate permanence destroys selection discipline.
-- **C is wrong:** sanction is an input, not an innovation outcome.
-- **D is correct:** it permits risk while limiting capture and persistence.
-
-**Mains micro-model - 20 marks:** *Diagnose the domestic and global challenges faced by
-Indian startups and propose a failure-matched reform strategy.*
-
-**Model answer:** Indian startups correct market gaps but face their own constraints.
+**Mains model:** Indian startups correct market gaps but face their own constraints.
 Domestically, intangible assets and information asymmetry restrict early finance;
 laboratory ideas encounter a prototype and first-buyer gap; mentors, capital and exits
 cluster in metros; compliance imposes fixed costs; rapid scaling can outrun governance;
@@ -1494,17 +1206,17 @@ Success should be judged by cohort survival, commercialised innovation, quality 
 exports, private capital crowded in and orderly failure—not registration or valuation
 alone.
 
+**Unique quantified rubric:** 15 marks: domestic diagnosis 3; global diagnosis 3; matched institutions 3; regulation 2; sequence 2; verdict 2.
+
 **Transition:** Startup policy pays for uncertainty and spillovers. PLI uses a different
 contract: support becomes payable against defined production performance.
 
----
-
 ## Lesson 11 - Why link an incentive to production?
 
-**Progress: 11/18 | Stage: Core | Subtopic: PLI rationale, design and economic logic**
+Progress: 11/23 | Stage: Core | Subtopic: PLI rationale, design and economic logic
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical PLI design, package calculations and Economic Survey 2025-26 paragraphs 8.39-8.40 queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official Economic Survey 2025-26 PLI 14 sectors September 2025"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; PLI metrics in paragraph 8.39 carry status through September 2025
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1572,10 +1284,10 @@ causation, net jobs or domestic value.
 
 ### Criticism and reply
 
-**Criticism:** PLI is a return to selective industrial policy and rent seeking.  
+**Criticism:** PLI is a return to selective industrial policy and rent seeking.
 **Reply:** selection can be justified for demonstrable scale, learning, coordination or
 strategic failures if criteria are transparent, performance is verified and support
-expires.  
+expires.
 **Balanced verdict:** a contingent instrument is better than an open-ended subsidy,
 but only independent counterfactual evaluation can establish value for money.
 
@@ -1594,42 +1306,19 @@ but only independent counterfactual evaluation can establish value for money.
 11. Transparent verification and sunset are essential.
 12. Sector design varies; no universal rate should be assumed.
 
-### Practice - identify the contract
+### Concept check
 
-**MCQ 25.** What most clearly distinguishes a PLI from an unconditional investment
-grant?
+**Question:** What distinguishes PLI from an unconditional capital subsidy?
 
-A. Payment is linked to verified eligible incremental production or sales conditions.
-B. Every registered manufacturer automatically receives it.
-C. It can never coexist with imported inputs.
-D. It guarantees profitability.
+**Model answer:** Payment is tied to verified eligible incremental production or sales under scheme conditions.
 
-**Answer: A**
+**Misconception to avoid:** Performance linkage does not itself prove causal additionality.
 
-- **A is correct:** contingent performance is the defining design feature.
-- **B is wrong:** sector eligibility and selection conditions apply.
-- **C is wrong:** schemes may permit imported inputs subject to their rules.
-- **D is wrong:** market, cost and execution risks remain.
+### Lesson-local Mains practice
 
-**MCQ 26.** Base-year eligible sales are ₹200 crore and current eligible sales are ₹260
-crore. At an illustrative 4% rate, what is the incentive before caps and other conditions?
+**Mains prompt:** *Explain the rationale for PLI and the limits of its production-linked design.*
 
-A. ₹10.4 crore
-B. ₹2.4 crore
-C. ₹8 crore
-D. ₹60 crore
-
-**Answer: B**
-
-- **A is wrong:** it applies 4% to total current sales.
-- **B is correct:** 4% of the ₹60 crore increment equals ₹2.4 crore.
-- **C is wrong:** it applies 4% to the base.
-- **D is wrong:** that is incremental sales, not the incentive.
-
-**Mains micro-model - 15 marks:** *Explain the rationale for PLI and the limits of its
-production-linked design.*
-
-**Model answer:** PLI can help firms cross high fixed-cost and minimum-scale barriers,
+**Mains model:** PLI can help firms cross high fixed-cost and minimum-scale barriers,
 internalise learning spillovers, coordinate anchor and supplier investment, enter GVCs
 and reduce dangerous concentration in strategic products. Linking payment to verified
 eligible incremental production is superior to paying merely for announced capacity.
@@ -1641,19 +1330,19 @@ counterfactual and track additional investment, domestic value, productivity, su
 upgrading, jobs, exports, fiscal cost and post-support durability. Transparent rules,
 audit, review and sunset convert PLI from a payout into a capability contract.
 
+**Unique quantified rubric:** 10 marks: PLI definition 2; rationale 2; formula/base 2; two limitations 2; qualified verdict 2.
+
 **Transition:** Understanding the contract is not enough. Every PLI claim travels
 through a status ladder that public debate often collapses.
 
----
-
 ## Lesson 12 - Eligibility, calculation and the status ladder
 
-**Progress: 12/18 | Stage: Advanced | Subtopic: From approved outlay to verified disbursement**
+Progress: 12/23 | Stage: Core | Subtopic: From approved outlay to verified disbursement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical PLI status ladder and package numerical exercises queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official PLI approved applications investment production incentive disbursement status 2026"
-CA found: Economic Survey 2025-26, tabled 29 January 2026, supplies audited programme-stage figures through September 2025; a PIB page surfaced in search but live fetch returned HTTP 403 on 24 September 2026, so later figures are excluded
+CA found: Economic Survey 2025-26, tabled 29 January 2026, supplies audited programme-stage figures through September 2025; a PIB page surfaced in search but live fetch returned HTTP 403 on 3 October 2026, so later figures are excluded
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### The seven-rung status ladder
@@ -1741,57 +1430,19 @@ opportunity cost of public funds remain.
 11. Job claims need gross/net and direct/indirect boundaries.
 12. Every programme figure needs a status date.
 
-### Practice - climb the ladder correctly
+### Concept check
 
-**MCQ 27.** Which is the strongest evidence that a PLI fiscal liability has actually
-materialised?
+**Question:** Why separate PLI approval, investment, production and disbursement?
 
-A. Cabinet approval of the scheme
-B. Selection of a beneficiary
-C. Verified incentive disbursement
-D. A firm's press release announcing investment
+**Model answer:** They are different implementation stages and prove different things.
 
-**Answer: C**
+**Misconception to avoid:** Never collapse a programme pipeline into one success number.
 
-- **A is wrong:** approval establishes the programme, not payment.
-- **B is wrong:** selection precedes performance verification.
-- **C is correct:** disbursement records the realised fiscal payment.
-- **D is wrong:** an announcement is weaker than realised and verified action.
+### Lesson-local Mains practice
 
-**MCQ 28.** Why is a before-after increase in output insufficient by itself to prove PLI
-additionality?
+**Mains prompt:** *Why does the PLI status ladder matter for public accountability?*
 
-A. Output can never be measured.
-B. PLI has no base year.
-C. Every firm receives the same rate.
-D. Demand, exchange rates and other policies may also have changed.
-
-**Answer: D**
-
-- **A is wrong:** output is measurable even when causation is difficult.
-- **B is wrong:** incremental designs generally use specified bases.
-- **C is wrong:** sector and beneficiary conditions can differ.
-- **D is correct:** contemporaneous factors can produce the observed change.
-
-**MCQ 29.** An incentive rate is 5%, verified eligible increment is ₹120 crore and the
-annual cap is ₹5 crore. What is the maximum preliminary payable amount?
-
-A. ₹5 crore
-B. ₹6 crore
-C. ₹120 crore
-D. ₹25 crore
-
-**Answer: A**
-
-- **A is correct:** the rate gives ₹6 crore, but the ₹5 crore cap binds.
-- **B is wrong:** it ignores the cap.
-- **C is wrong:** this is the increment, not the payout.
-- **D is wrong:** it has no basis in the stated arithmetic.
-
-**Mains micro-model - 10 marks:** *Why does the PLI status ladder matter for public
-accountability?*
-
-**Model answer:** PLI progresses from approved outlay and selected applicants through
+**Mains model:** PLI progresses from approved outlay and selected applicants through
 committed and realised investment, installed capacity, verified eligible incremental
 production and final disbursement. Collapsing these stages exaggerates achievement and
 obscures delay. Accountability requires a dated dashboard that reports each rung,
@@ -1801,17 +1452,17 @@ employment and final assembly from domestic value. This enables Parliament and t
 public to connect fiscal payment with verified performance while preserving space to
 identify implementation bottlenecks before declaring either success or failure.
 
+**Unique quantified rubric:** 10 marks: status ladder 3; calculation 2; date discipline 2; accountability risk 1; reform 2.
+
 **Transition:** Even perfect status reporting does not answer whether the policy built
 capability. That requires a scorecard and an explicit route from anchors to MSMEs.
 
----
-
 ## Lesson 13 - PLI as a capability contract
 
-**Progress: 13/18 | Stage: Advanced | Subtopic: Scorecard, counterfactual and MSME-anchor integration**
+Progress: 13/23 | Stage: Core | Subtopic: Scorecard, counterfactual and MSME-anchor integration
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical additionality scorecard, supplier-development analysis and verified 2025 GS-III routing queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "Economic Survey 2025-26 PLI domestic value MSME integration exports"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; programme metrics carry September 2025 status and National Manufacturing Mission content is explicitly described as proposed
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1880,9 +1531,9 @@ letter is inferred. Treat each quantitative statement by its stated reference ye
 ### Criticism and reply
 
 **Criticism:** High thresholds exclude MSMEs and reward firms that already possess
-scale.  
+scale.
 **Reply:** anchors can create market and technology spillovers if vendor-development,
-shared facilities and procurement commitments are designed in.  
+shared facilities and procurement commitments are designed in.
 **Residual:** without enforceable or measured supplier depth, spillover remains an
 aspiration. Publish supplier-tier and domestic-value outcomes.
 
@@ -1902,56 +1553,19 @@ aspiration. Publish supplier-tier and domestic-value outcomes.
 12. The 2025 PYQ needs rationale, achievement and improvement.
 13. The 2023 objective key remains neutral here.
 
-### Practice - evaluate rather than celebrate
+### Concept check
 
-**MCQ 30.** Which evidence most directly supports a claim of MSME spillover from an
-anchor manufacturer?
+**Question:** What shows broad spillovers from an anchor manufacturer?
 
-A. The anchor is selected under a scheme.
-B. Local suppliers achieve certification, higher-tier contracts and repeat orders.
-C. A vendor portal records many sign-ups.
-D. The scheme outlay is increased.
+**Model answer:** Supplier certification, repeat orders, productivity, technology, tier graduation, domestic value and exports.
 
-**Answer: B**
+**Misconception to avoid:** Local purchase mandates alone do not prove capability.
 
-- **A is wrong:** selection says nothing about downstream linkages.
-- **B is correct:** capability and sustained market access are observable.
-- **C is wrong:** registration is weaker than commercial upgrading.
-- **D is wrong:** fiscal scale is an input.
+### Lesson-local Mains practice
 
-**MCQ 31.** Domestic value rises from ₹30 to ₹36 while gross output rises from ₹100 to
-₹180. Which statement is correct?
+**Mains prompt:** *How can PLI be redesigned to integrate MSMEs without turning supplier policy into forced local sourcing?*
 
-A. Domestic value fell in absolute terms.
-B. Domestic-value share rose to 36%.
-C. Absolute domestic value rose, but its share fell from 30% to 20%.
-D. Gross output and domestic value moved identically.
-
-**Answer: C**
-
-- **A is wrong:** ₹36 exceeds ₹30.
-- **B is wrong:** ₹36/₹180 equals 20%.
-- **C is correct:** it distinguishes level from share.
-- **D is wrong:** output grew much faster than domestic value.
-
-**Block-cumulative MCQ 32.** Which evaluation sequence is strongest?
-
-A. outlay -> announcement -> declare success
-B. applicant count -> gross output -> ignore counterfactual
-C. tariff rise -> import fall -> infer productivity
-D. verified increment -> counterfactual -> domestic depth -> fiscal/durability test
-
-**Answer: D**
-
-- **A is wrong:** inputs and announcements are not outcomes.
-- **B is wrong:** it omits causation.
-- **C is wrong:** imports may fall through cost or demand effects rather than productivity.
-- **D is correct:** it tests performance, causation, depth and value for money.
-
-**Mains micro-model - 15 marks:** *How can PLI be redesigned to integrate MSMEs without
-turning supplier policy into forced local sourcing?*
-
-**Model answer:** PLI's scale thresholds naturally favour anchor firms. MSME integration
+**Mains model:** PLI's scale thresholds naturally favour anchor firms. MSME integration
 should therefore reward verified supplier capability rather than nominal local content.
 Anchors can publish component roadmaps, provide longer demand visibility, support
 vendor development and co-invest in tooling. Cluster institutions should offer common
@@ -1963,18 +1577,18 @@ content mandates should be avoided where inputs are unavailable because they rai
 cost and encourage relabelling. Transparent third-party verification and sunset preserve
 competition while turning anchor scale into broad capability.
 
+**Unique quantified rubric:** 15 marks: additionality 3; domestic value 3; supplier spillovers 3; counterfactual 2; risks 2; verdict 2.
+
 **Transition:** Semiconductors are the hardest test of this capability logic because
 their chain is globally fragmented, technologically fast-moving and extraordinarily
 capital intensive.
 
----
-
 ## Lesson 14 - Map the semiconductor chain before discussing fabs
 
-**Progress: 14/18 | Stage: Core | Subtopic: Design, materials, equipment, fab, ATMP/OSAT and downstream**
+Progress: 14/23 | Stage: Core | Subtopic: Design, materials, equipment, fab, ATMP/OSAT and downstream
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical semiconductor taxonomy and Economic Survey 2025-26 pages 317-319 queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "Economic Survey 2025-26 India Semiconductor Mission design fab ATMP OSAT August 2025"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; project status cited in it is explicitly as of August 2025
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2057,41 +1671,19 @@ addresses a different risk.
 11. Strategic autonomy is broader than autarky.
 12. Entry strategy should combine feasibility and leverage.
 
-### Practice - locate the node
+### Concept check
 
-**MCQ 33.** Which activity belongs most directly to semiconductor design rather than
-wafer fabrication?
+**Question:** Why is ATMP/OSAT not wafer fabrication?
 
-A. Defining chip architecture and optimising power-performance trade-offs
-B. Patterning wafers through repeated clean-room process steps
-C. Dicing and packaging fabricated dies
-D. Mounting packaged chips in consumer devices
+**Model answer:** Fabs process wafers; ATMP/OSAT assembles, packages, marks and tests dies.
 
-**Answer: A**
+**Misconception to avoid:** Not every chip plant performs the same function.
 
-- **A is correct:** architecture and functional optimisation are design tasks.
-- **B is wrong:** this describes fabrication.
-- **C is wrong:** this belongs to assembly and packaging.
-- **D is wrong:** this is downstream electronics integration.
+### Lesson-local Mains practice
 
-**MCQ 34.** Why is an ATMP/OSAT facility not correctly described as a wafer fab?
+**Mains prompt:** *Why must semiconductor strategy distinguish value- chain nodes?*
 
-A. It performs no technologically useful function.
-B. Its core activity is post-fabrication assembly, testing, marking and packaging.
-C. It can operate only outside India.
-D. It designs every chip it packages.
-
-**Answer: B**
-
-- **A is wrong:** advanced packaging and testing are critical value-chain functions.
-- **B is correct:** the stage follows wafer fabrication.
-- **C is wrong:** location is not part of the definition.
-- **D is wrong:** outsourced facilities may package designs belonging to others.
-
-**Mains micro-model - 10 marks:** *Why must semiconductor strategy distinguish value-
-chain nodes?*
-
-**Model answer:** Semiconductor design, materials, equipment, wafer fabrication,
+**Mains model:** Semiconductor design, materials, equipment, wafer fabrication,
 assembly-testing-packaging and downstream electronics require different assets.
 Design depends on talent, EDA tools and intellectual property; fabs depend on capital,
 process technology, yield and ultra-reliable utilities; packaging requires qualification,
@@ -2102,19 +1694,19 @@ materials and equipment partnerships. Resilience should be measured by diversifi
 access and capability across critical nodes rather than impossible immediate
 self-sufficiency in the whole chain.
 
+**Unique quantified rubric:** 10 marks: complete chain 3; node distinctions 3; India relevance 2; strategic qualification 2.
+
 **Transition:** A value-chain map shows where a fab sits. It does not yet explain why a
 fab is unusually difficult to build and sustain.
 
----
-
 ## Lesson 15 - Fab economics is ecosystem economics
 
-**Progress: 15/18 | Stage: Advanced | Subtopic: Capital, yield, utilities, technology and clusters**
+Progress: 15/23 | Stage: Core | Subtopic: Capital, yield, utilities, technology and clusters
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Economic Survey 2025-26 semiconductor economics, canonical fab-enabler analysis and local package queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official semiconductor fab ultra pure water power talent cluster India 2026"
-CA found: Economic Survey 2025-26, tabled 29 January 2026, provides the stable economic architecture; a September 2026 PIB PDF was reachable only as raw PDF bytes on 24 September 2026, so no unextracted project-status claim is used
+CA found: Economic Survey 2025-26, tabled 29 January 2026, provides the stable economic architecture; a September 2026 PIB PDF was reachable only as raw PDF bytes on 3 October 2026, so no unextracted project-status claim is used
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### A fab's weakest-link map
@@ -2194,41 +1786,19 @@ talent and vendor training must connect to actual project milestones.
 12. Environmental cost belongs in project appraisal.
 13. Commissioning is not sustained commercial viability.
 
-### Practice - find the binding constraint
+### Concept check
 
-**MCQ 35.** A fab has modern equipment but low usable output because process variation
-causes many defective dies. Which variable is the immediate concern?
+**Question:** Why do utilisation and yield dominate fab economics?
 
-A. unicorn valuation
-B. merchandise trade balance alone
-C. process yield
-D. MSME turnover classification
+**Model answer:** High sunk cost must be spread over saleable dies; low utilisation or yield sharply raises unit cost.
 
-**Answer: C**
+**Misconception to avoid:** Fiscal approval cannot replace customers, utilities or process control.
 
-- **A is wrong:** startup valuation does not determine wafer defects.
-- **B is wrong:** trade data cannot diagnose the plant's immediate process loss.
-- **C is correct:** yield measures the share of usable dies.
-- **D is wrong:** enterprise size classification is not the technical variable.
+### Lesson-local Mains practice
 
-**MCQ 36.** Which federal arrangement best supports a semiconductor cluster?
+**Mains prompt:** *Why is fiscal support necessary but insufficient for a semiconductor fab?*
 
-A. Hidden and duplicative subsidies from every level
-B. Union funding without state utility planning
-C. State land allocation without national technology strategy
-D. Coordinated support with disclosed incentives, reliable utilities and assigned environmental duties
-
-**Answer: D**
-
-- **A is wrong:** opacity encourages fiscal bidding and weak accountability.
-- **B is wrong:** local infrastructure is indispensable.
-- **C is wrong:** strategic technology and value-chain coordination also matter.
-- **D is correct:** complementary responsibilities are made explicit.
-
-**Mains micro-model - 15 marks:** *Why is fiscal support necessary but insufficient for
-a semiconductor fab?*
-
-**Model answer:** A fab faces enormous fixed cost, long gestation, rapid technology
+**Mains model:** A fab faces enormous fixed cost, long gestation, rapid technology
 change and concentrated equipment and material supply. Fiscal support may close part
 of the viability gap and compensate strategic spillovers, but sustained production
 depends on process technology, yield learning, qualified demand, high-quality
@@ -2240,19 +1810,19 @@ track commissioning, utilisation, yield and customer qualification. Support with
 this ecosystem risks creating expensive capacity that is technologically operational
 but commercially shallow.
 
+**Unique quantified rubric:** 10 marks: fixed-cost/yield 2; utilities 2; technology/talent 2; ecology/cluster 2; commercial verdict 2.
+
 **Transition:** These economics explain why a mission must coordinate design, fabs,
 packaging and talent—and why its project status must always be dated.
 
----
-
 ## Lesson 16 - India Semiconductor Mission: architecture and caution
 
-**Progress: 16/18 | Stage: Advanced | Subtopic: Mission design, resilience and evidence status**
+Progress: 16/23 | Stage: Core | Subtopic: Mission design, resilience and evidence status
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical ISM architecture, Economic Survey 2025-26 paragraph 8.51 and verified 2025 cross-topic PYQ routing queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "official India Semiconductor Mission projects September 2026 PIB"
-CA found: PIB's 17 September 2026 semiconductor PDF URL was found and fetched on 24 September 2026, but the live fetcher returned raw PDF bytes rather than extractable text; no project count or commissioning status from it is asserted
+CA found: PIB's 17 September 2026 semiconductor PDF URL was found and fetched on 3 October 2026, but the live fetcher returned raw PDF bytes rather than extractable text; no project count or commissioning status from it is asserted
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Mission architecture
@@ -2316,9 +1886,9 @@ claimed.
 ### Policy dilemma
 
 **Against support:** global subsidy competition can socialise risk, firms can play
-jurisdictions against one another and technology may become obsolete.  
+jurisdictions against one another and technology may become obsolete.
 **For support:** concentrated supply, learning spillovers, coordination failure and
-security externalities are not fully priced by private investors.  
+security externalities are not fully priced by private investors.
 **Qualified verdict:** support selected nodes where a transparent strategic case,
 partner, demand path and ecosystem plan exist; use milestones, clawback, review and
 sunset.
@@ -2339,56 +1909,19 @@ sunset.
 12. 2025 Q16 is a verified cross-topic Science owner.
 13. No unsupported 2025 separate semiconductor claim is repeated.
 
-### Practice - read mission evidence cautiously
+### Concept check
 
-**MCQ 37.** An official document says a semiconductor project was “approved” as of a
-given date. Which further claim is not justified without new evidence?
+**Question:** What is semiconductor resilience short of self-sufficiency?
 
-A. The project has commenced sustained commercial production.
-B. The project passed an approval stage.
-C. The date limits the status claim.
-D. Later status requires a newer source.
+**Model answer:** Domestic design, selected fab and packaging capability plus diversified trusted imports, inventories, talent and substitutable systems.
 
-**Answer: A**
+**Misconception to avoid:** Strategic autonomy is not autarky.
 
-- **A is correct:** approval does not establish construction, commissioning or production.
-- **B is wrong:** this is exactly what the source supports.
-- **C is wrong:** dated status is the proper interpretation.
-- **D is wrong:** a later claim requires later evidence.
+### Lesson-local Mains practice
 
-**MCQ 38.** Which policy mix best expresses semiconductor strategic autonomy?
+**Mains prompt:** *How should India pursue semiconductor resilience without equating it with complete self-sufficiency?*
 
-A. Ban every imported chip immediately.
-B. Combine selective domestic capability, diversified access and trusted partnerships.
-C. Build only downstream assembly and call the chain self-sufficient.
-D. Ignore cost, technology and environmental constraints.
-
-**Answer: B**
-
-- **A is wrong:** abrupt autarky can disrupt users and remain technologically impossible.
-- **B is correct:** it preserves choice through multiple resilience channels.
-- **C is wrong:** assembly alone does not cover critical upstream nodes.
-- **D is wrong:** autonomy without viability is not durable.
-
-**Block-cumulative MCQ 39.** Which statement unifies the correct treatment of PLI and
-ISM status?
-
-A. Approved outlay equals disbursement and approved project equals production.
-B. Announcement dates are unnecessary when policy is strategic.
-C. Each claim must retain its stage, metric and exact status date.
-D. Strategic sectors need no counterfactual evaluation.
-
-**Answer: C**
-
-- **A is wrong:** it collapses distinct implementation stages.
-- **B is wrong:** strategic importance increases rather than removes the need for dates.
-- **C is correct:** precise nouns and dates preserve evidence integrity.
-- **D is wrong:** strategic externalities modify but do not eliminate evaluation.
-
-**Mains micro-model - 20 marks:** *How should India pursue semiconductor resilience
-without equating it with complete self-sufficiency?*
-
-**Model answer:** Semiconductor production is fragmented across design, materials,
+**Mains model:** Semiconductor production is fragmented across design, materials,
 equipment, fabrication, packaging and downstream systems; extreme concentration at
 some nodes creates economic and security risk. Complete self-sufficiency would be
 costly and technologically unrealistic. India should instead build layered resilience:
@@ -2402,18 +1935,18 @@ domestic linkages and customer qualification. Milestones, clawbacks and review c
 subsidy risk. Autonomy is achieved when India retains choices under disruption and
 becomes valuable within networks—not when it withdraws from them.
 
+**Unique quantified rubric:** 15 marks: mission architecture 3; fab-ATMP-design distinction 3; status discipline 2; resilience 3; risks 2; verdict 2.
+
 **Transition:** Semiconductor strategy exposes a larger dilemma: integration with GVCs
 can increase imported content today while creating more domestic value and resilience
 tomorrow.
 
----
-
 ## Lesson 17 - GVC integration, domestic value and resilience
 
-**Progress: 17/18 | Stage: Advanced | Subtopic: Trade-offs among scale, depth, security and environment**
+Progress: 17/23 | Stage: Core | Subtopic: Trade-offs among scale, depth, security and environment
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Economic Survey 2025-26 GVC discussion, canonical domestic-value distinction and trade linkages queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "Economic Survey 2025-26 backward GVC participation domestic value India Vietnam"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; global-share data refer to 2024 and backward-participation comparisons use stated historical years through 2020
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2500,40 +2033,19 @@ capability support so they do not become disguised exclusion.
 12. Environmental and labour costs cannot be externalised.
 13. Localisation should be sequenced, not theatrical.
 
-### Practice - avoid the import-content trap
+### Concept check
 
-**MCQ 40.** Which statement about backward GVC participation is most accurate?
+**Question:** When can imported intermediates support manufacturing?
 
-A. It means exporting only wholly domestic inputs.
-B. It always reduces absolute domestic value.
-C. It is incompatible with employment growth.
-D. It uses imported intermediates in exported production and can enable scale and learning.
+**Model answer:** When they enable scale, exports and learning while domestic suppliers, value, design and process capability deepen.
 
-**Answer: D**
+**Misconception to avoid:** Import share is neither automatic failure nor success.
 
-- **A is wrong:** that resembles a pure forward/domestic-content description.
-- **B is wrong:** scale can raise absolute domestic value even when foreign share is high.
-- **C is wrong:** assembly and supplier activity can create employment.
-- **D is correct:** it captures the mechanism and its possible dynamic gain.
+### Lesson-local Mains practice
 
-**MCQ 41.** Which indicator best complements domestic sourcing when measuring resilience?
+**Mains prompt:** *Can higher imported content be consistent with a successful manufacturing strategy?*
 
-A. Recovery time and diversity of qualified supply sources
-B. The colour of imported packaging
-C. The number of policy speeches
-D. Nominal sales without input mapping
-
-**Answer: A**
-
-- **A is correct:** resilience concerns disruption exposure and restoration capacity.
-- **B is wrong:** it has no supply-risk relevance.
-- **C is wrong:** announcements are not capability.
-- **D is wrong:** sales conceal concentration and substitutability.
-
-**Mains micro-model - 15 marks:** *Can higher imported content be consistent with a
-successful manufacturing strategy?*
-
-**Model answer:** Higher imported content can be consistent with success when it allows
+**Mains model:** Higher imported content can be consistent with success when it allows
 a late-industrialising economy to enter GVCs, expand production and exports, employ
 workers and learn demanding processes. Absolute domestic value may rise even if the
 domestic share is initially modest. The danger is permanent shallow assembly,
@@ -2545,17 +2057,17 @@ inventories and selective domestic capability add resilience. Evaluation should 
 both foreign and domestic value, jobs, productivity, supplier depth and disruption
 recovery—not celebrate either import substitution or import intensity in isolation.
 
+**Unique quantified rubric:** 10 marks: forward/backward GVC 2; value logic 2; upgrading 2; trade/resilience limit 2; verdict 2.
+
 **Transition:** We can now assemble the whole strategy: enterprise entry, innovation,
 anchor scale, strategic technology and accountable outcomes.
 
----
-
 ## Lesson 18 - An integrated Indian manufacturing strategy
 
-**Progress: 18/18 | Stage: Advanced | Subtopic: Jobs, exports, productivity, value, federalism and accountability**
+Progress: 18/23 | Stage: Core | Subtopic: Jobs, exports, productivity, value, federalism and accountability
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Full canonical/basic/advanced/package/workbook audit, Economic Survey 2025-26 conclusion and all routed PYQs through 2026 queried
+Book context: queried — local Economy texts and relevant official documents
 CA search: "Economic Survey 2025-26 National Manufacturing Mission clusters MSMEs GVC strategy"
 CA found: Economic Survey 2025-26, tabled 29 January 2026; its National Manufacturing Mission box explicitly labels objectives and arrangements as proposed-level content
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2630,6 +2142,21 @@ as completed outcomes.
   and graduation.
 - **"Startups equal innovation."** Measure commercial and social outcomes, not labels.
 
+### Official manufacturing dashboard — status available by 3 October 2026
+
+This is the file's single consolidated current linkage. Figures answer different questions and must not be added together.
+
+| Official status item | Dated fact | What it proves | What it does not prove |
+|---|---|---|---|
+| MSME classification | S.O. 1364(E), 21 March 2025, effective 1 April 2025: ₹2.5/10 crore, ₹25/100 crore and ₹125/500 crore investment/turnover ceilings | prevailing legal boundary | productivity, creditworthiness or survival |
+| Startup recognition | DPIIT/PIB reported 2,12,283 recognised startups as of 31 January 2026 | scale of recognised policy population | profitability, innovation quality or net jobs |
+| TReDS regulation | RBI issued final TReDS Directions on 23 June 2026, simplifying seller onboarding and permitting eligible guarantee cover for financiers | current receivables-finance architecture | automatic buyer acceptance or elimination of disputes |
+| PLI | Official reporting through March 2026 stated investment above ₹2.40 lakh crore, production/sales above ₹20.41 lakh crore, exports above ₹15.2 lakh crore and over 14.15 lakh direct and indirect jobs across 14 sectors | reported programme scale under stated vintages | causal additionality, job quality or stage-level domestic value |
+| Semiconductor mission | Official 2026 reporting described 12 approved manufacturing projects with an investment pipeline around ₹1.64 lakh crore across six states | breadth of approved fab/compound/packaging pipeline | that every approved unit is commissioned or mature |
+| Registered manufacturing | ASI 2024-25 results released 30 September 2026 reported output growth 7.81%, GVA growth 9.59% and employment growth 7.19% | momentum in registered factories | informal-sector performance or policy causation |
+
+Use **status noun + date + mechanism + outcome test + limitation**. A dashboard supplies evidence, not a verdict.
+
 ### Revision notes
 
 1. Manufacturing strategy is a sequenced capability strategy.
@@ -2648,55 +2175,19 @@ as completed outcomes.
 14. Strategic support needs milestones and sunset.
 15. A proposed mission is not a realised result.
 
-### Practice - choose the complete strategy
+### Concept check
 
-**MCQ 42.** Which statement best explains why industrial strategy needs
-both labour-intensive and advanced manufacturing?
+**Question:** What prevents a manufacturing dashboard becoming an announcement ledger?
 
-A. Advanced manufacturing always creates the largest number of direct jobs.
-B. Labour-intensive sectors can broaden employment while advanced sectors build productivity and strategic capability.
-C. Labour-intensive sectors require no technology upgrading.
-D. The two categories cannot share suppliers or services.
+**Model answer:** Connect every input and stage to realised additionality, productivity, domestic value, jobs, exports, resilience, environment and durability.
 
-**Answer: B**
+**Misconception to avoid:** Different vintages cannot be treated as one outcome.
 
-- **A is wrong:** capital intensity can limit direct employment.
-- **B is correct:** a portfolio addresses employment and capability together.
-- **C is wrong:** quality and productivity upgrading remain necessary.
-- **D is wrong:** finance, logistics, software and component networks can overlap.
+### Lesson-local Mains practice
 
-**MCQ 43.** Which is the strongest final test of a time-bound industrial incentive?
+**Mains prompt:** *Design an integrated manufacturing strategy for India that combines MSMEs, startups, PLI and strategic technologies.*
 
-A. Whether its original announcement was ambitious
-B. Whether the maximum outlay was large
-C. Whether supported capability remains productive and competitive as support declines
-D. Whether every beneficiary became a unicorn
-
-**Answer: C**
-
-- **A is wrong:** ambition is not durability.
-- **B is wrong:** larger fiscal input can reduce value for money.
-- **C is correct:** post-support performance tests capability rather than dependency.
-- **D is wrong:** unicorn status is irrelevant to most manufacturers.
-
-**MCQ 44.** Which statement correctly treats environmental performance?
-
-A. It is unrelated to manufacturing competitiveness.
-B. It matters only for export firms.
-C. It can be postponed until every firm becomes large.
-D. Resource efficiency and safe production are cost, resilience and market-access variables.
-
-**Answer: D**
-
-- **A is wrong:** resource waste and pollution create direct and social costs.
-- **B is wrong:** domestic welfare and regulation also matter.
-- **C is wrong:** delay can lock in inefficient capital and harm communities.
-- **D is correct:** environmental discipline is part of durable capability.
-
-**Mains micro-model - 20 marks:** *Design an integrated manufacturing strategy for India
-that combines MSMEs, startups, PLI and strategic technologies.*
-
-**Model answer:** India needs a capability ladder rather than a collection of schemes.
+**Mains model:** India needs a capability ladder rather than a collection of schemes.
 At entry, simple formalisation, competition and proportionate compliance should widen
 entrepreneurship. MSMEs require cash-flow and term finance, guarantees with sound
 appraisal, receivables discipline, shared testing and pathways to graduate. Startups
@@ -2718,6 +2209,366 @@ self-reliance with autarky.
 **Lesson-sequence closure:** The topic began with the invisible ecosystem around a
 factory. It ends with a measurable public bargain: temporary support is defensible when
 it creates durable private and national capability.
+
+**Unique quantified rubric:** 15 marks: integrated pillars 3; MSME/startup links 3; PLI/chip links 3; jobs/ecology 3; dashboard accountability 3.
+
+
+---
+
+## Lesson 19 — OPTIONAL ADVANCED DEPTH: MSME graduation, informality, guarantee risk and cluster governance
+
+Progress: 19/23 | Stage: Advanced | Subtopic: Political economy of scaling small firms
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — local Economy texts and relevant official documents
+CA search: "official India MSME graduation guarantee cluster productivity 2026"
+CA found: no separate event is needed beyond the dated official dashboard in Lesson 18
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual — four traps around a growing firm
+
+```text
+benefit cliff -----> remain artificially small
+      |                    |
+weak records --> costly finance --> low technology
+      |                    |
+buyer power ---> delayed cash ---> fragile survival
+      \________ cluster governance ________/
+```
+
+A small firm is not merely a miniature large firm. Fixed compliance, testing, management and financing costs weigh more heavily on it. Yet permanent protection can freeze those disadvantages. Advanced policy asks how firms can graduate without losing every support at the first sign of growth.
+
+### Informality as adaptation and constraint
+
+⚠️ Informality may respond rationally to uncertain demand, insecure premises, costly compliance and weak expected benefits. But it also limits contracts, worker protection, finance and supplier qualification. The answer is a credible bargain: simpler compliance and assisted transition in exchange for records and standards.
+
+### Guarantees and contingent risk
+
+A guarantee shares eligible lender loss; its fiscal cost is contingent rather than fully paid upfront. Poor pricing or weak appraisal can produce adverse selection and moral hazard. Mature design therefore uses partial coverage, portfolio caps, claim audits, recovery incentives and cohort disclosure.
+
+### Cluster governance
+
+Clusters create external economies through specialised labour, supplier discovery, testing, logistics and tacit knowledge. A Common Facility Centre can still be captured, poorly maintained or detached from buyer demand. Good governance requires open access, professional operation, transparent fees, utilisation disclosure and periodic relevance review.
+
+| Objection | Reply | Residual |
+|---|---|---|
+| Graduation punishes success | transition periods and capability-linked support reduce cliffs | every legal boundary creates difficult cases |
+| Guarantees socialise losses | retain lender exposure and audit portfolios | deep downturns still create legitimate loss |
+| Clusters favour dense regions | build networks around real regional strengths | tacit ecosystems cannot be announced overnight |
+
+### UPSC application
+
+Use **constraint -> incentive effect -> instrument design -> measurable graduation**. Distinguish livelihood protection from a growth-firm strategy.
+
+### Revision notes
+
+1. Firm smallness can be an equilibrium, not only a label.
+2. Benefit cliffs can produce deliberate non-growth.
+3. Informality can be adaptive while imposing social costs.
+4. Formalisation needs a visible capability return.
+5. Guarantees create contingent liabilities.
+6. Partial risk retention protects appraisal incentives.
+7. Cluster gains depend on shared external economies.
+8. Common facilities require access and utilisation governance.
+9. Graduation and supplier-tier movement are strong outcomes.
+10. Artificial clusters may fail without real demand and networks.
+
+### Concept check
+
+**Question:** Why can a larger guarantee corpus increase credit yet fail to improve MSME capability?
+
+**Model answer:** It may lower lender loss without improving selection, cash flow, technology or demand. Capability rises only when viable firms obtain suitable finance and translate it into productivity and repayment.
+
+**Misconception to avoid:** More guaranteed lending is not automatically more productive inclusion.
+
+### Lesson-local Mains practice
+
+**Mains prompt:** Examine how MSME policy can encourage graduation without abandoning vulnerable firms. (15 marks, 250 words)
+
+**Mains model:** MSME support is justified by fixed compliance costs, information asymmetry, collateral constraints and supplier externalities. Yet benefits tied sharply to size can make firms split operations, under-report or postpone investment. Policy should replace permanent-smallness incentives with predictable transition, cash-flow and receivables finance, partial guarantees, shared testing, managerial support and buyer linkage. Procurement should reward quality and delivery rather than status alone. Outcomes should track survival, productivity, formal jobs, supplier certification and movement into higher tiers. Some livelihood units will not become growth firms; social protection must therefore be distinguished from enterprise-scaling policy.
+
+**Unique quantified rubric:** 15 marks: diagnosis 3; benefit-cliff mechanism 3; finance/cluster design 3; vulnerable-firm distinction 2; metrics 2; verdict 2.
+
+---
+
+## Lesson 20 — OPTIONAL ADVANCED DEPTH: Startup option value, patient capital, network effects and governance
+
+Progress: 20/23 | Stage: Advanced | Subtopic: Innovation portfolios and scale risks
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — local Economy texts and relevant official documents
+CA search: "official India deep tech startup patient capital governance 2026"
+CA found: dated recognition and support status is consolidated in Lesson 18
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual — a portfolio, not a prediction contest
+
+```text
+100 experiments
+ |-- many fail early -> information and talent recycled
+ |-- some survive ----> incremental innovation
+ `-- few scale -------> large spillovers and demonstrations
+```
+
+Innovation policy cannot identify every winner in advance. Its case rests partly on **option value**: small bounded experiments buy information, while a few successes may create social returns that private investors cannot capture.
+
+### Patient capital and the valley of death
+
+Deep-tech firms face long laboratory-to-market periods, specialised testing and uncertain first demand. Grants, milestone finance, shared laboratories and professional funds can bridge the gap. The state should finance stages and public goods, not operate firms or protect them indefinitely.
+
+### Networks, concentration and exit
+
+Dense ecosystems recycle founders, engineers, mentors and investors. This explains why exits matter and why metros attract more capital. The same network can exclude outsiders. Regional strategy should connect universities and sector clusters to national investors rather than copy one generic incubator model.
+
+### Governance as scale rises
+
+Early flexibility becomes dangerous when a firm handles large public funds, data, credit or employment. Board oversight, related-party controls, audit, consumer protection and truthful valuation should strengthen with scale. Regulation must remain proportionate: premature bureaucracy kills experiments; permanent exemption socialises private risk.
+
+| Tension | Balanced rule |
+|---|---|
+| tolerate failure vs prevent fraud | protect honest failure; punish misrepresentation |
+| network effects vs competition | interoperability, portability and contestable procurement |
+| founder control vs discipline | staged governance rights and disclosure |
+| rapid scale vs economics | test retention, contribution margin and cash burn |
+
+### Revision notes
+
+1. Startup policy manages uncertainty, not merely size.
+2. Portfolio failure can coexist with social success.
+3. Patient capital matches technological gestation.
+4. Milestones limit open-ended exposure.
+5. First-buyer failure differs from finance shortage.
+6. Exits recycle capital and experience.
+7. Networks create spillovers and concentration.
+8. Platform scale can reverse competition benefits.
+9. Governance duties should rise with scale and risk.
+10. Honest failure and fraud need opposite responses.
+
+### Concept check
+
+**Question:** Why can a high startup failure rate coexist with a defensible innovation policy?
+
+**Model answer:** Experiments generate information and spillovers, while a few scalable successes may yield large returns. The defence holds only when exposure is bounded and failure reflects uncertainty rather than fraud or permanent dependence.
+
+**Misconception to avoid:** Neither every failure proves waste nor every unicorn proves success.
+
+### Lesson-local Mains practice
+
+**Mains prompt:** Discuss why patient capital and proportionate governance must develop together. (15 marks, 250 words)
+
+**Mains model:** Patient capital is needed because deep-tech ventures have intangible assets, long tests and delayed revenue. Grants, milestone finance, professional funds and shared laboratories can bridge invention to product-market fit. Yet long-duration finance without governance can conceal weak economics, related-party transactions or inflated valuations. Oversight should intensify by stage: simple reporting during validation; board, audit and disclosure discipline during institutional funding; stronger consumer, data, labour and competition safeguards at scale. Procurement can solve the first-buyer problem, but pilots need transparency and sunset. The aim is to preserve experimentation while making larger social exposure accountable.
+
+**Unique quantified rubric:** 15 marks: patient-capital rationale 3; instruments 3; governance ladder 3; first-buyer example 2; public-risk qualification 2; synthesis 2.
+
+---
+
+## Lesson 21 — OPTIONAL ADVANCED DEPTH: PLI counterfactual evaluation, rent control and dynamic capability
+
+Progress: 21/23 | Stage: Advanced | Subtopic: Did the incentive cause durable upgrading?
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — local Economy texts and relevant official documents
+CA search: "official PLI evaluation investment production exports jobs March 2026"
+CA found: dated totals are consolidated in Lesson 18 as reported outcomes, not causal estimates
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual — observed growth is not automatically impact
+
+```text
+observed beneficiary growth
+       - plausible no-PLI growth
+       = estimated additional effect
+Then test: value? productivity? suppliers? durability? fiscal cost?
+```
+
+PLI verifies eligible output, but evaluation needs a **counterfactual**. Demand, tariffs, exchange rates, global supply and pre-existing plans may also raise production.
+
+| Method | Use | Limit |
+|---|---|---|
+| pre/post trend | direction of change | common shocks confound it |
+| comparable firms | approximates no-support path | selection can differ |
+| threshold comparison | firms near eligibility cut-off | local result only |
+| phased roll-out | timing differences | timing may not be random |
+| beneficiary audit | compliance | not causal impact |
+
+Minimum scale can select capable firms but favour incumbents. Tariffs can support investment yet raise downstream input cost. Local-content goals can deepen suppliers but become inefficient when capability is absent. Transparent selection, milestones, disclosure, clawback and sunset control rents.
+
+The strongest defence of temporary support is tomorrow's learning. Track yield, defects, engineering, tooling, certified suppliers, R&D links and export qualification. If they do not improve, output may remain shallow.
+
+### Revision notes
+
+1. Eligible sales are not causal additionality.
+2. Counterfactual asks what happens without support.
+3. Pre/post evidence is vulnerable to shocks.
+4. Selection may favour firms already likely to grow.
+5. Domestic value needs stage-level measurement.
+6. Temporary rents may buy learning.
+7. Permanent rents protect inefficiency.
+8. Supplier and R&D spillovers show breadth.
+9. Fiscal cost belongs beside additional outcomes.
+10. Post-support performance tests durability.
+
+### Concept check
+
+**Question:** A beneficiary meets its incremental-sales threshold. What is verified and what remains unproved?
+
+**Model answer:** Compliance with eligible-sales conditions is verified. Causal growth, domestic value, productivity, spillovers and durable social benefit remain evaluation questions.
+
+**Misconception to avoid:** Scheme compliance is not net social benefit.
+
+### Lesson-local Mains practice
+
+**Mains prompt:** How should India test whether PLI created dynamic capability rather than temporary subsidised output? (15 marks, 250 words)
+
+**Mains model:** Separate dated beneficiary investment, eligible sales and disbursement. Estimate a counterfactual through comparable firms, prior trends, thresholds or phased timing. Then track yield, defects, productivity, engineering, domestic components, certified MSME suppliers, R&D links, exports and customer qualification. Relate fiscal cost to additional—not gross—investment, jobs and domestic value. Disclose concentration, downstream prices, environment and trade effects. Finally, test performance after incentives taper. Milestone payment, independent review, clawback and sunset preserve experimentation while limiting capture.
+
+**Unique quantified rubric:** 15 marks: status distinction 2; counterfactual methods 4; capability metrics 3; fiscal/competition risks 2; reforms 2; durability verdict 2.
+
+
+
+---
+
+## Lesson 22 — OPTIONAL ADVANCED DEPTH: Semiconductor industrial economics, geopolitics and ecological constraints
+
+Progress: 22/23 | Stage: Advanced | Subtopic: Why chips are strategic and commercially unforgiving
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — local Economy texts and relevant official documents
+CA search: "official India semiconductor mission projects design packaging 2026"
+CA found: dated project and mission status is consolidated in Lesson 18
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual — three simultaneous races
+
+```text
+COMMERCIAL: yield -> utilisation -> customer qualification -> cost
+TECHNOLOGY: node -> process learning -> obsolescence -> next investment
+STRATEGIC: equipment/material access -> trusted partners -> continuity
+```
+
+A fab faces enormous sunk cost, fast technology cycles and learning-sensitive yield. Waiting reduces technological risk but can miss markets; moving early buys learning but risks obsolescence.
+
+### Mature nodes and advanced packaging
+
+Frontier logic is not universal. Vehicles, power electronics, industrial control and defence often need reliability, longevity and specialised processes rather than the smallest node. Advanced packaging integrates multiple dies and functions; ATMP/OSAT can therefore become a learning platform if capability deepens into process design, materials, testing, reliability and customer qualification.
+
+### Geopolitical interdependence
+
+No major economy controls every tool, material, architecture and market. India needs trusted technology partners, diversified suppliers, domestic talent and selected capabilities. Export controls can affect equipment, software and IP; partnerships need contractual learning, maintenance, training and upgrade pathways.
+
+### Ecology and federalism
+
+Fabs require reliable power, high-quality water and chemical management. State subsidy competition can duplicate capacity or hide full public cost. Union-state appraisal should include water stress, energy source, waste treatment, cluster demand and long-run fiscal exposure.
+
+| Objection | Reply | Residual |
+|---|---|---|
+| Subsidy races waste money | strategic and learning externalities can justify support | opportunity cost and discipline remain essential |
+| India should build only frontier fabs | demand-matched specialty nodes may be more viable | roadmaps must permit upgrading |
+| Packaging is low value | advanced packaging carries growing know-how | assembly alone can remain shallow |
+
+### UPSC application
+
+Start with node and demand, then assess yield, customers, utilities, partners, fiscal cost and environment. Preserve approval, pilot, qualification and commercial stages.
+
+### Revision notes
+
+1. Fab cost is sunk before commercial yield.
+2. Yield and utilisation determine unit economics.
+3. Customer qualification may lag production.
+4. Mature nodes serve strategic applications.
+5. Advanced packaging can deepen value capture.
+6. Design strength does not create fab capability automatically.
+7. Equipment, materials and EDA are dependencies.
+8. Partnerships need learning and maintenance clauses.
+9. Water, power and chemicals belong in economics.
+10. Approval, pilot, qualification and commerce differ.
+
+### Concept check
+
+**Question:** Why can a mature or specialty semiconductor node be strategically rational?
+
+**Model answer:** It may match durable automotive, power, industrial or defence demand, offer a feasible technology path and still create valuable process capability. The choice depends on customers, cost, yield and upgrade potential.
+
+**Misconception to avoid:** The smallest node is not automatically the best first target.
+
+### Lesson-local Mains practice
+
+**Mains prompt:** Evaluate the case for a portfolio of semiconductor capabilities rather than fabrication prestige alone. (15 marks, 250 words)
+
+**Mains model:** Resilience spans design, EDA and IP, materials, equipment, fabrication, packaging, testing and downstream systems. A prestigious fab without customers, yield, utilities or technology access can become stranded. India should exploit design talent, deepen advanced packaging, select fabs around credible demand and partners, develop specialty inputs and use electronics demand to pull upstream capability. Trusted imports remain necessary because the chain is specialised. Appraisal must separate approval, pilot, qualification and commercial output and include water, clean power, chemical safety and full fiscal cost. Success is yield, utilisation, learning and continuity—not announcements.
+
+**Unique quantified rubric:** 15 marks: chain breadth 3; portfolio rationale 3; commercial tests 3; partnership 2; ecology/federalism 2; verdict 2.
+
+---
+
+## Lesson 23 — OPTIONAL ADVANCED DEPTH: Productivity discovery, GVC upgrading and strategic autonomy
+
+Progress: 23/23 | Stage: Advanced | Subtopic: Learning what India can make competitively
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — local Economy texts and relevant official documents
+CA search: "official India manufacturing productivity GVC upgrading ASI 2024-25 September 2026"
+CA found: the dated ASI and programme indicators are consolidated in Lesson 18
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual — from participation to indispensability
+
+```text
+import inputs -> assemble -> export reliably -> localise competitive components
+      -> improve process/design -> own systems/IP -> become hard to replace
+```
+
+Manufacturing development is a process of **discovery**. Firms and government do not know every viable product in advance. Exporting, supplier contests, standards and time-bound support reveal information. Policy succeeds when it learns and reallocates, not when every chosen activity survives.
+
+| Productivity level | Question |
+|---|---|
+| worker/process | output, defects and cycle time per worker-hour |
+| firm | management, technology, scale and product mix |
+| allocation | do resources move toward productive firms? |
+| ecosystem | do logistics, power, finance and standards reduce cost? |
+| dynamic | can firms innovate and move into higher-value tasks? |
+
+Protecting every incumbent improves none of these. Exit and reallocation can raise productivity, but workers and regions need transition support.
+
+### GVC upgrading and autonomy
+
+Backward participation uses imported intermediates in exports; forward participation supplies domestic value into others' exports. The objective is not a mechanical import ratio but movement into valuable, reliable and knowledge-intensive tasks.
+
+Autonomy is capacity to continue essential production and choose suppliers under stress. Diversification, inventories, substitutable designs, standards, domestic capability and reciprocal interdependence create options. Indispensability at selected nodes may yield more leverage than inefficient self-production everywhere.
+
+### Policy-learning compact
+
+Support should state the failure, milestone, review date and exit rule. Firms disclose outcomes; government provides common infrastructure; independent evaluation tests additionality; unsuccessful support ends without criminalising honest experimentation.
+
+### Revision notes
+
+1. Industrial policy is a discovery process.
+2. Export discipline reveals cost and quality.
+3. Firm and allocative productivity differ.
+4. Exit raises productivity but creates transition cost.
+5. Backward GVC participation can be an entry route.
+6. Upgrading requires value, design and supplier learning.
+7. Resilience depends on concentration and recovery time.
+8. Autonomy is not universal self-sufficiency.
+9. Indispensability can create bargaining power.
+10. Good policy learns, reallocates and sunsets.
+
+### Concept check
+
+**Question:** Why is a falling imported-input share insufficient evidence of GVC upgrading?
+
+**Model answer:** It may reflect inefficient substitution, weaker exports or changed product mix. Upgrading requires more productive, knowledge-intensive domestic tasks that remain competitive in cost, quality and delivery.
+
+**Misconception to avoid:** Lower imports and higher capability are not automatically the same result.
+
+### Lesson-local Mains practice
+
+**Mains prompt:** “Strategic autonomy is best pursued through productive options and selective indispensability, not comprehensive autarky.” Analyse. (20 marks, 250 words)
+
+**Mains model:** Modern production is fragmented; comprehensive self-sufficiency is costly and unrealistic. Strategic autonomy means preserving choices under disruption. India can diversify suppliers, hold critical inventories, design substitutable systems and build capability where concentration, learning or security externalities are high. GVC entry through imported intermediates creates scale and export discipline; policy should then deepen components, engineering, design and IP. Semiconductor strategy illustrates the portfolio: domestic design, packaging and selected fabs can coexist with trusted foreign equipment and materials. Indispensability at selected nodes creates reciprocal leverage. Support still needs milestones, environmental safeguards, counterfactual review and sunset. Autonomy is resilient interdependence backed by productive options.
+
+**Unique quantified rubric:** 20 marks: definition 3; options mechanism 4; GVC upgrading 4; semiconductor example 3; autarky critique 2; safeguards 2; conclusion 2.
+
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
@@ -2843,195 +2694,71 @@ provisional-key record does not support an answer letter.
 - **Approach:** distinguish donation, reward, debt and equity forms and do not equate
   crowdfunding with TReDS, bank credit or a government guarantee.
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-Answers follow each question set. These questions continue the single whole-document
-rotation.
+## Check 1 — Enterprise identity versus capability
 
-## Set A - Enterprise capability and finance
+**Question:** Order registration, transaction trail, appraisal, suitable finance, investment and productivity.
 
-**MCQ 45.** A micro supplier's sales are rising, but defects and late deliveries prevent
-repeat anchor orders. Which intervention most directly addresses the binding constraint?
+**Model answer:** Registration -> transaction trail -> appraisal -> suitable finance -> investment -> productivity. Every arrow is contingent.
 
-A. Shared testing, process improvement and supplier-development support
-B. A higher legal classification threshold alone
-C. An unconditional valuation certificate
-D. Permanent exemption from buyer standards
+**Misconception repaired:** legal status is not an outcome.
 
-**MCQ 46.** Which sequence correctly distinguishes a receivables problem from a term-
-finance problem?
+## Check 2 — Finance diagnosis
 
-A. Both require only equity.
-B. Accepted unpaid invoice -> discounting; new machine -> term finance.
-C. Accepted invoice -> patent grant; machine -> ODR.
-D. Both are solved by classification.
+**Question:** Match prototype uncertainty, machinery purchase and an accepted invoice to broad instruments.
 
-**MCQ 47.** Which observation most strongly signals productive formalisation?
+**Model answer:** Grant/risk equity; term finance/leasing, possibly guaranteed; receivables discounting through TReDS.
 
-A. More certificates were downloaded.
-B. A campaign received media attention.
-C. Transaction records lead to repeat orders and appropriately priced finance.
-D. The enterprise remains outside all standards.
+**Misconception repaired:** “more credit” is not a diagnosis.
 
-**MCQ 48.** Which statement best handles an MSME crossing a category threshold?
+## Check 3 — Startup contribution
 
-A. Growth should be reversed.
-B. Accounts should be split artificially.
-C. Every benefit should become permanent.
-D. Transition should be predictable while support shifts toward capability and competition.
+**Question:** Give separate channels for entrepreneurship, innovation and employment.
 
-### Answers and option explanations
+**Model answer:** Entry and visible exits encourage entrepreneurship; risk capital and feedback fund experiments; payroll plus supplier/platform demand creates work, subject to quality and displacement.
 
-**45. Answer: A**
+**Misconception repaired:** recognition or valuation is not a causal channel.
 
-- **A is correct:** the problem is production capability and buyer qualification.
-- **B is wrong:** classification does not repair defects.
-- **C is wrong:** valuation does not improve manufacturing process.
-- **D is wrong:** exemption blocks upgrading and buyer trust.
+## Check 4 — PLI evaluation
 
-**46. Answer: B**
+**Question:** Why can verified eligible sales coexist with low additionality?
 
-- **A is wrong:** debt and receivables tools can fit visible cash flows.
-- **B is correct:** each instrument matches the timing and asset problem.
-- **C is wrong:** the instruments are unrelated to the stated needs.
-- **D is wrong:** legal size identity does not supply finance automatically.
+**Model answer:** Much observed growth may have occurred because of demand, tariffs or prior plans. Compliance establishes eligibility; counterfactual evaluation estimates causation.
 
-**47. Answer: C**
+**Misconception repaired:** payout formula equals policy impact.
 
-- **A is wrong:** registration is an input.
-- **B is wrong:** publicity is not an enterprise outcome.
-- **C is correct:** records have reduced information asymmetry and expanded capability.
-- **D is wrong:** exclusion from standards narrows formal market access.
+## Check 5 — Semiconductor nodes
 
-**48. Answer: D**
+**Question:** Distinguish design, fabrication and ATMP/OSAT.
 
-- **A is wrong:** graduation is desirable.
-- **B is wrong:** artificial fragmentation defeats policy and data integrity.
-- **C is wrong:** permanent benefits encourage threshold dependence.
-- **D is correct:** it softens the cliff without rewarding permanent smallness.
+**Model answer:** Design specifies circuits; fabrication processes wafers; ATMP/OSAT assembles, packages, marks and tests dies.
 
-## Set B - Startup and PLI reasoning
+**Misconception repaired:** all chip plants do the same work.
 
-**MCQ 49.** Which startup metric best tests the innovation-to-market bridge?
+## Check 6 — Domestic value
 
-A. Share of supported prototypes obtaining validated repeat commercial use
-B. Number of recognition certificates alone
-C. Number of incubator buildings painted
-D. Total private valuation without revenue evidence
+**Question:** Exports rise but imported high-value inputs rise faster. What should be checked next?
 
-**MCQ 50.** Which financing order is most coherent for a deep-tech venture?
+**Model answer:** Stage-level domestic value, suppliers, process learning, design ownership, productivity and source concentration.
 
-A. IPO before prototype, then grant
-B. Grant/prototype support, risk equity, then debt as cash flow becomes visible
-C. TReDS before any sale, then compulsory bank debt
-D. Permanent subsidy without milestone review
+**Misconception repaired:** export value proves technological depth.
 
-**MCQ 51.** Which is the best counterfactual question for PLI?
+## Check 7 — Current-data discipline
 
-A. Did supported output rise?
-B. Was the scheme announced?
-C. How much of the observed outcome would have occurred without the incentive?
-D. Was the approved outlay fully publicised?
+**Question:** How should startup data dated 31 January 2026 and PLI data through March 2026 be used together?
 
-**MCQ 52.** Which evidence most clearly distinguishes deep localisation from final
-assembly?
+**Model answer:** As separate dated indicators for different policy populations; never as one denominator or causal story.
 
-A. More finished units bear an Indian label.
-B. A factory announcement is made.
-C. Imported component value is not reported.
-D. Domestic components, process know-how, design and supplier value rise by stage.
+**Misconception repaired:** “latest” figures automatically share date and meaning.
 
-### Answers and option explanations
+## Check 8 — Integrated strategy
 
-**49. Answer: A**
+**Question:** State a one-sentence manufacturing verdict containing scale, depth and accountability.
 
-- **A is correct:** it follows ideas into sustained use.
-- **B is wrong:** recognition does not prove commercialisation.
-- **C is wrong:** infrastructure presence does not establish function.
-- **D is wrong:** valuation can diverge from productive adoption.
+**Model answer:** Use time-bound support and common infrastructure for additional competitive scale, deeper capability and quality jobs, with dated disclosure, counterfactual review, environmental safeguards and sunset.
 
-**50. Answer: B**
-
-- **A is wrong:** public listing normally requires much greater maturity.
-- **B is correct:** risk-bearing capital precedes debt repayment capacity.
-- **C is wrong:** receivables do not exist before a sale.
-- **D is wrong:** support without review encourages dependency.
-
-**51. Answer: C**
-
-- **A is wrong:** a rise can reflect other causes.
-- **B is wrong:** announcement is not an outcome.
-- **C is correct:** additionality compares observed performance with the unobserved baseline.
-- **D is wrong:** publicity does not establish causation.
-
-**52. Answer: D**
-
-- **A is wrong:** labels do not reveal value-chain content.
-- **B is wrong:** announcements precede capability.
-- **C is wrong:** missing data weakens rather than supports the claim.
-- **D is correct:** stage-level value and know-how reveal depth.
-
-## Set C - Semiconductors, GVCs and integrated strategy
-
-**MCQ 53.** Which node converts a chip architecture into patterned wafers?
-
-A. Wafer fabrication
-B. Retail distribution
-C. Venture-debt underwriting
-D. MSME registration
-
-**MCQ 54.** Why can a mature semiconductor node be strategically useful?
-
-A. Mature means technologically useless.
-B. Many vehicles, power and industrial systems require reliable non-frontier chips.
-C. It eliminates all need for imported equipment.
-D. It guarantees the highest private valuation.
-
-**MCQ 55.** Which result best indicates that backward GVC participation is becoming a
-capability ladder rather than a trap?
-
-A. Imported-input share rises with no local learning.
-B. Tariffs on intermediates exceed those on final products.
-C. Domestic suppliers, value and design roles deepen while exports scale.
-D. Every imported input is prohibited immediately.
-
-**MCQ 56.** A supported sector expands output but remains subsidy-dependent, water-
-intensive and unable to export. What is the best verdict?
-
-A. Complete success because output rose
-B. Complete failure because policy support existed
-C. Strategic autonomy is automatically achieved
-D. Scale improved, but durability, environmental and competitiveness tests remain unmet
-
-### Answers and option explanations
-
-**53. Answer: A**
-
-- **A is correct:** fabrication patterns and processes wafers.
-- **B is wrong:** retail comes far downstream.
-- **C is wrong:** finance does not fabricate wafers.
-- **D is wrong:** registration is an enterprise-status process.
-
-**54. Answer: B**
-
-- **A is wrong:** mature nodes remain essential for many applications.
-- **B is correct:** demand relevance can outweigh frontier prestige.
-- **C is wrong:** fabs can remain dependent on specialised foreign equipment.
-- **D is wrong:** strategic utility is not a startup valuation.
-
-**55. Answer: C**
-
-- **A is wrong:** this describes shallow dependence.
-- **B is wrong:** inverted duties can obstruct domestic processing.
-- **C is correct:** scale is translating into domestic capability.
-- **D is wrong:** abrupt import elimination can destroy competitiveness.
-
-**56. Answer: D**
-
-- **A is wrong:** output is only one result.
-- **B is wrong:** justified support can create learning.
-- **C is wrong:** dependence and fragility contradict automatic autonomy.
-- **D is correct:** a balanced scorecard identifies the unfinished dimensions.
+**Misconception repaired:** announcements or gross output alone constitute strategy.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -3053,6 +2780,8 @@ bookkeeping, cash-flow finance, testing, technology, skills and repeat orders. S
 requires both wider formal participation and measurable gains in yield, defects,
 delivery, value added and wages.
 
+**Unique quantified rubric:** 10 marks: formalisation 2; productivity 2; causal bridge 2; limit 2; verdict 2.
+
 ### Q2. Why is buyer acceptance central to the TReDS mechanism?
 
 **Model answer:** TReDS finances a trade receivable rather than an unverified commercial
@@ -3064,6 +2793,8 @@ powerful buyers may delay acceptance. Therefore onboarding, digital invoicing,
 payment-time disclosure, procurement discipline and low-cost dispute resolution must
 complement the platform. TReDS solves post-acceptance liquidity; it does not replace
 contract enforcement.
+
+**Unique quantified rubric:** 10 marks: receivable mechanism 3; sequence 2; acceptance limit 2; remedies 2; conclusion 1.
 
 ## 15 marks / 250 words
 
@@ -3087,6 +2818,8 @@ capital recycled, second-generation founders and time taken to resolve failure.
 Startup policy is therefore not an entry counter; it is an experimentation-and-recycling
 system.
 
+**Unique quantified rubric:** 15 marks: exit thesis 3; recycling 3; failure resolution 2; safeguards 3; metrics 2; verdict 2.
+
 ### Q4. Evaluate PLI through the concepts of additionality and domestic value addition.
 
 **Model answer:** PLI conditions public payment on eligible incremental production or
@@ -3106,6 +2839,8 @@ incremental output, productivity, certified MSME suppliers, sustained jobs, expo
 R&D linkages, fiscal cost and performance after support. Transparent milestones,
 third-party audit, supplier development and sunset can turn a payout formula into a
 capability contract.
+
+**Unique quantified rubric:** 15 marks: additionality 3; value 3; counterfactual 3; suppliers 2; fiscal risk 2; conclusion 2.
 
 ## 20 marks / 250 words
 
@@ -3133,6 +2868,8 @@ should track source diversity, recovery time, yield, utilisation, domestic value
 customer qualification, fiscal cost and post-support competitiveness. Autonomy is thus
 the capacity to choose and continue under stress, not withdrawal from interdependence.
 
+**Unique quantified rubric:** 20 marks: autonomy 3; chip fragmentation 4; options 4; GVC leverage 3; qualification 3; conclusion 3.
+
 ### Q6. Propose a scorecard for job-rich and sustainable manufacturing in India.
 
 **Model answer:** A manufacturing scorecard must prevent output from crowding out every
@@ -3153,148 +2890,29 @@ declines. A dated, beneficiary- and sector-level dashboard with independent revi
 would align MSMEs, startups, anchors and states around capability rather than
 announcements.
 
+**Unique quantified rubric:** 20 marks: jobs 3; productivity 3; suppliers 3; resilience 3; environment 3; fiscal test 3; dashboard 2.
+
 # REMEDIATION
 
-## Error family 1 - confusing labels with outcomes
+| Error family | Why it fails | Repair move | Retrieval drill |
+|---|---|---|---|
+| labels treated as outcomes | status does not prove production or productivity | state status, date, next unproved stage and outcome | qualify “approved project is successful” |
+| one finance answer for all | risks and cash flows differ | diagnose asset, cycle, receivable or experiment | match four needs to four instruments |
+| registration equals capability | identity may lack useful records and markets | follow identity -> trail -> appraisal -> finance -> productivity | locate the broken arrow |
+| production equals domestic depth | imported high-value stages may dominate | report value, learning, suppliers and design | name four missing facts |
+| PLI totals equal causation | compliance does not prove counterfactual impact | separate status ladder and baseline | give two confounders |
+| every chip unit is a fab | nodes need different capabilities | identify design, fab and packaging | classify two facilities |
+| startup answer is a scheme list | mechanism and failure disappear | contribution -> challenge -> matched reform | convert names into functions |
+| autonomy becomes autarky | universal local production can reduce options | selective capability + diversification + trusted access | write a resilience verdict |
+| numbers lose dates | vintages and stages differ | attach status date and denominator | qualify four programme figures |
+| announced jobs are counted | projections are not sustained work | use realised FTE, earnings, duration and security | rewrite an jobs-announcement claim |
 
-**Symptom:** “Registered MSME,” “recognised startup,” “selected PLI applicant” and
-“approved semiconductor project” are treated as proof of productive success.
+## Short corrective models
 
-**Repair drill:** Say the status noun, its date, the next unproved stage and the outcome
-metric required.
-
-**MCQ 57.** Which sentence applies the repair correctly?
-
-A. “Approved as of August 2025” establishes approval; commissioning and production need later evidence.
-B. Startup recognition proves profitability.
-C. PLI selection proves incentive disbursement.
-D. Udyam registration proves productivity.
-
-**Answer: A**
-
-- **A is correct:** it preserves stage and date.
-- **B is wrong:** recognition is not financial performance.
-- **C is wrong:** verification and payment occur later.
-- **D is wrong:** identity is not output efficiency.
-
-## Error family 2 - prescribing “more credit” for every constraint
-
-**Symptom:** unpaid invoices, prototype uncertainty and machinery purchase receive the
-same answer.
-
-**MCQ 58.** Which set is correctly matched?
-
-A. prototype uncertainty-TReDS; unpaid invoice-IPO
-B. prototype uncertainty-risk capital; accepted invoice-discounting
-C. new machine-ODR; contract dispute-equity dilution
-D. all constraints-classification revision
-
-**Answer: B**
-
-- **A is wrong:** neither instrument matches the stated stage.
-- **B is correct:** finance follows the risk and cash-flow structure.
-- **C is wrong:** ODR addresses disputes, not equipment purchase.
-- **D is wrong:** classification does not finance activity.
-
-## Error family 3 - treating domestic production as domestic depth
-
-**Symptom:** final assembly volume is cited as conclusive evidence of technology and
-value capture.
-
-**MCQ 59.** Which additional evidence best repairs the claim?
-
-A. Factory floor area only
-B. Number of speeches about self-reliance
-C. Stage-level domestic value, supplier capability, design and process ownership
-D. A ban on publishing import data
-
-**Answer: C**
-
-- **A is wrong:** area says little about value capture.
-- **B is wrong:** rhetoric is not capability.
-- **C is correct:** it measures economic and technological depth.
-- **D is wrong:** hiding evidence prevents evaluation.
-
-## Error family 4 - equating strategic autonomy with autarky
-
-**MCQ 60.** Which is the best corrective?
-
-A. Produce every input domestically regardless of cost.
-B. Depend permanently on one foreign source.
-C. Withdraw from global technology partnerships.
-D. Build selective capability while diversifying and retaining trusted access.
-
-**Answer: D**
-
-- **A is wrong:** universal self-production is costly and often infeasible.
-- **B is wrong:** concentration creates vulnerability.
-- **C is wrong:** partnerships can expand capability and options.
-- **D is correct:** autonomy is resilient choice under interdependence.
-
-## Error family 5 - reading programme figures without dates
-
-**MCQ 61.** Which citation practice is strongest?
-
-A. “Economic Survey 2025-26, tabled 29 January 2026; PLI figures reported through September 2025.”
-B. “PLI has recently done very well.”
-C. “Current data prove permanent success.”
-D. “The latest number is obvious.”
-
-**Answer: A**
-
-- **A is correct:** publication and status dates are explicit.
-- **B is wrong:** “recently” is vague.
-- **C is wrong:** dated data cannot prove permanence.
-- **D is wrong:** evidence must be stated and sourced.
-
-## Error family 6 - turning the startup answer into a scheme list
-
-**MCQ 62.** What should organise the direct 2026 startup answer?
-
-A. Alphabetical scheme names
-B. Contribution mechanisms, domestic/global failures and matched reforms
-C. Unicorn names
-D. One registration statistic
-
-**Answer: B**
-
-- **A is wrong:** schemes should follow diagnosis.
-- **B is correct:** it mirrors every limb of the demand.
-- **C is wrong:** private valuations do not answer the mechanism.
-- **D is wrong:** one input indicator is insufficient.
-
-## Error family 7 - assuming standards are costless
-
-**MCQ 63.** Which policy best protects quality without disproportionately excluding
-MSMEs?
-
-A. Immediate rules without laboratories
-B. Permanent exemption from all safety requirements
-C. Predictable transition, shared testing and credible final enforcement
-D. Secret standards
-
-**Answer: C**
-
-- **A is wrong:** unprepared enforcement can disrupt supply.
-- **B is wrong:** permanent exemption harms safety and upgrading.
-- **C is correct:** capability support and enforcement are sequenced.
-- **D is wrong:** firms cannot comply with undisclosed requirements.
-
-## Error family 8 - counting announced jobs
-
-**MCQ 64.** Which employment measure is most defensible?
-
-A. Every projected vacancy in a press release
-B. Only founders, regardless of hours
-C. Any account created on a platform
-D. Sustained full-time-equivalent work with earnings and quality indicators
-
-**Answer: D**
-
-- **A is wrong:** projections may not be realised.
-- **B is wrong:** it omits most work and duration.
-- **C is wrong:** accounts are not jobs.
-- **D is correct:** it captures realised quantity and quality.
+- **MSME finance:** diagnose term asset, operating cycle, accepted receivable or experimental risk before naming the instrument.
+- **PLI:** a dated total establishes a reported stage; additionality, value, productivity and durability remain tests.
+- **Semiconductors:** identify node and customer before subsidy, yield, utilities, partners and ecology.
+- **Startups:** diagnose knowledge, finance, first-buyer, coordination, regulation or exit failure before listing institutions.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -3374,7 +2992,7 @@ transparent selection + performance milestones + counterfactual review
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-## Core thesis
+## Core answer thesis
 
 Manufacturing policy should be judged by **additional investment, domestic value,
 productivity, supplier spillovers, quality jobs, exports, resilience and post-support
@@ -3508,89 +3126,105 @@ alone.
 9. Present the strongest criticism and a design reply.
 10. End with measurable milestones, review and sunset.
 
+
+## Optional Advanced recall — use selectively
+
+- Manage MSME benefit cliffs, contingent guarantee risk and cluster governance.
+- Startup portfolios have option value, but patient capital needs staged governance.
+- PLI compliance is not causal additionality; test a counterfactual and post-support durability.
+- Chip strategy is a portfolio of yield, customers, partners, packaging, ecology and fiscal cost.
+- GVC upgrading means more productive and knowledge-intensive tasks, not mechanical import elimination.
+- Strategic autonomy is resilient choice through selective capability, diversification and indispensability.
+
+## Dated dashboard recall
+
+- Write the status noun and date before a programme number.
+- MSME thresholds: effective 1 April 2025 under S.O. 1364(E).
+- Startup docket: DPIIT-recognised population as of 31 January 2026.
+- TReDS Directions: issued 23 June 2026.
+- PLI totals retain December 2025/March 2026 vintages.
+- Semiconductor approval is not commissioning.
+- ASI 2024-25 covers registered factories and was released 30 September 2026.
+
 # COVERAGE MATRIX
 
-| Coverage unit | Main location | Practice/evidence |
-|---|---|---|
-| syllabus: industrial policy and industrial growth | Lessons 1, 11-18 | MCQs 1-2, 25-44; Mains Q4-Q6 |
-| syllabus: employment | Lessons 1, 9, 18 | MCQs 20, 42, 64; job scorecard |
-| MSME prevailing classification | Lesson 2 | MCQs 3-4; 2023 Prelims Q71 |
-| MSME lifecycle and graduation | Lesson 2 | MCQ 48; Lesson 2 micro-model |
-| Udyam/formalisation | Lesson 3 | MCQs 5-6, 47; Mains Q1 |
-| term, working-capital and cash-flow credit | Lesson 4 | MCQs 7-8, 46, 58 |
-| CGTMSE and guarantee risk | Lesson 4 | MCQ 8; Lesson 4 micro-model |
-| delayed payment, Samadhaan and ODR | Lesson 5 | MCQs 9-11; Mains Q2 |
-| TReDS and M1xchange | Lesson 5 | 2026 Prelims Q93 |
-| clusters, quality, standards, productivity | Lesson 6 | MCQs 12-14, 63 |
-| startup/MSME/unicorn distinction | Lesson 7 | MCQs 15-16 |
-| startup lifecycle | Lesson 7 | lifecycle visual and micro-model |
-| startup finance ladder and exit | Lesson 8 | MCQs 17-19, 49-50; Mains Q3 |
-| startup entrepreneurship/innovation/jobs | Lesson 9 | MCQs 20-22; 2026 GS-III Q12 |
-| startup market failures and institutions | Lesson 10 | MCQs 23-24, 62 |
-| domestic/global startup challenges | Lesson 10 | 2026 GS-III Q12 approach |
-| PLI rationale and design | Lesson 11 | MCQs 25-26 |
-| PLI eligibility/calculation/status ladder | Lesson 12 | MCQs 27-29 |
-| PLI additionality and scorecard | Lesson 13 | MCQs 30-32, 51-52; 2025 GS-III Q12 |
-| MSME-anchor integration | Lesson 13 | MCQ 30; supplier micro-model |
-| semiconductor end-to-end chain | Lesson 14 | MCQs 33-34, 53-54 |
-| fab economics/utilities/talent/environment | Lesson 15 | MCQs 35-36 |
-| ISM architecture and status caution | Lesson 16 | MCQs 37-39, 57; 2025 Q16/2026 Q83 |
-| GVC backward/forward participation | Lesson 17 | MCQs 40-41, 55 |
-| domestic value, resilience and trade cost | Lessons 13, 17 | Mains Q4-Q5 |
-| integrated jobs/export/productivity/value metrics | Lesson 18 | MCQs 42-44, 56, 64; Mains Q6 |
-| environmental and federal implementation | Lessons 15, 18 | MCQs 36, 44, 56 |
-| 2023 GS-III Q1 MSMEs | Lessons 2-6 | verified PYQ section |
-| 2023 Prelims Q71/Q88 | Lessons 2, 11-13, 17 | answer-neutral PYQ section |
-| 2025 GS-III Q12 PLI | Lessons 11-13 | verified PYQ section |
-| 2025 GS-III Q16 semiconductor cross-link | Lessons 14-16 | verified cross-link; no solved answer |
-| 2026 Prelims Q93 M1xchange | Lesson 5 | answer-neutral PYQ section |
-| 2026 Prelims Q83/Q97 cross-links | Lessons 16, 4/8 | answer-neutral PYQ section |
-| 2026 GS-III Q12 startups | Lessons 7-10 | exact OCR-verified wording and approach |
-| consolidated retrieval | Register notes | four capsules and ten commands |
+| Coverage unit | Core location | Optional Advanced | Practice/PYQ route |
+|---|---|---|---|
+| Ecosystem, output/value/capability | Lessons 1, 18 | Lesson 23 | checks 6, 8; final Q5-Q6 |
+| MSME role, thresholds, lifecycle | Lesson 2 | Lesson 19 | 2023 GS-III Q1; 2023 Prelims Q71 |
+| Udyam and formalisation | Lesson 3 | Lesson 19 | final Q1; remediation |
+| Credit and guarantees | Lesson 4 | Lesson 19 | check 2 |
+| Delayed payment, Samadhaan, TReDS, M1xchange, ODR | Lesson 5 | Lesson 19 | 2026 Prelims Q93; final Q2 |
+| Clusters, standards, technology, procurement | Lesson 6 | Lesson 19 | local model; remediation |
+| Startup definition and lifecycle | Lesson 7 | Lesson 20 | check 3 |
+| Funding ladder, incubators, AIF/VC, debt, exit | Lesson 8 | Lesson 20 | crowdfunding cross-link; final Q3 |
+| Entrepreneurship, innovation, employment | Lesson 9 | Lesson 20 | 2026 GS-III Q12 |
+| Startup regulation and challenges | Lesson 10 | Lesson 20 | 2026 GS-III Q12 |
+| PLI rationale, formula, eligibility, status | Lessons 11-12 | Lesson 21 | 2023 Prelims Q88; 2025 GS-III Q12 |
+| Additionality, value, supplier spillovers | Lesson 13 | Lesson 21 | final Q4; check 4 |
+| Design, materials, equipment, fab, ATMP/OSAT | Lesson 14 | Lesson 22 | 2025 GS-III Q16; 2026 Prelims Q83 cross-links |
+| Fab utilities, yield, talent, environment | Lesson 15 | Lesson 22 | local model |
+| ISM, design support, project stages, resilience | Lesson 16 | Lesson 22 | semiconductor cross-links |
+| Productivity, GVCs, strategic autonomy | Lessons 17-18 | Lesson 23 | final Q5-Q6 |
+| Official data through 3 October 2026 | Lesson 18 | Lessons 21-23 apply it | check 7 |
+| Core/Advanced boundary | Lessons 1-18 complete | Lessons 19-23 explicitly optional | register notes preserve boundary |
+
+## Ownership and cross-owner boundary
+
+- **Direct Economy scope:** enterprise classification and finance, startup ecosystem economics, PLI evaluation, semiconductor industrial strategy, productivity and GVC value capture.
+- **Cross-owner evidence:** industrial-policy evolution (Economy 16), logistics/utilities (18), trade/GVC and tariffs (20), jobs/skills (22), digital competition (24), and energy reliability (31).
+- **Science and Technology boundary:** device physics, fabrication technology and named processor facts remain with its semiconductor topic; this file uses their economic implications only.
+- **PYQ control:** direct Economy demands and cross-links are labelled separately; objective items remain answer-neutral where keys are unavailable or provisional.
 
 # SOURCE LEDGER
 
-## Repository and book sources
+## SOURCE-MANIFEST GATE
 
-| Publisher/holder | Document/page or section | Publication/status date | Retrieval date | Exact supported proposition | Limitation |
-|---|---|---|---|---|---|
-| UPSC-agent canonical Economy corpus | `basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` | repository state read 24 Sep 2026 | 24 Sep 2026 | definitions, current MSME threshold provenance, MSME/PLI/semiconductor mechanisms, full startup unit | derivative canonical synthesis; current figures require dated official support |
-| UPSC-agent canonical Economy corpus | `advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` | repository state read 24 Sep 2026 | 24 Sep 2026 | additionality, supplier spillovers, startup market failures, strategic trade-offs | analytical source; not independent live verification |
-| UPSC-agent Economy corpus | Topic 17 Learner-v2 Complete Topic Package | generated 3 Sep 2026 | 24 Sep 2026 | older 15-session coverage, calculations and gaps used as audit evidence | not used as a learner-facing shell; unsupported separate-2025-semiconductor wording rejected |
-| UPSC-agent Economy corpus | `economy-17_Learning-Session.md` and `economy-17_Solved-Workbook.md` | repository state read 24 Sep 2026 | 24 Sep 2026 | prior learning/practice coverage and status-boundary cautions | older templated structure not copied |
-| UPSC-agent Economy corpus | `OFFICIAL-UPSC-SYLLABUS-MAPPING.md` | repository state read 24 Sep 2026 | 24 Sep 2026 | Topic 17 ownership of industrial-policy effects, employment and startup lifecycle | mapping, not substantive proof |
-| Government of India, Ministry of Finance | Economic Survey 2025-26, Chapter 8, pp. 293-337 in OCR text | tabled 29 Jan 2026 | local OCR queried 24 Sep 2026 | manufacturing/GVC framework; PLI status through Sep 2025; startups dated Oct/Nov 2025; semiconductor projects as of Aug 2025; MSME credit and ODR; quality standards as of 31 Dec 2025 | official OCR may contain layout artefacts; internal status dates govern every statistic |
-| Local OCR book corpus | Ramesh Singh, *Indian Economy*, MSME/manufacturing passages | edition held locally; no fresh publication claim used | 24 Sep 2026 | standard distinctions on MSMEs, industrial policy and manufacturing | used for conceptual cross-check only; no undated mutable statistic imported |
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | `upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` and relevant Economy 16, 18, 20, 22, 24 and 31 units checked |
+| Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
+| Layered/complete session | not relevant | Derived sessions were unnecessary; canonical owners, books, PYQs and official evidence resolved the topic |
+| Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | `upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` mapped only to Lessons 19-23 |
+| OCR books | checked | Local Ramesh Singh Economy text and official-paper PDFs used for standard formulations and question verification; no unsupported page quotation claimed |
+| PYQs through 2026 | checked | Audited GS-III and Prelims routing ledgers plus available official scans; provisional 2026 objective keys remain answer-neutral |
+| Official live sources | checked | Official MSME/PIB, DPIIT, RBI, MeitY/ISM, Economic Survey and ASI releases checked through 3 October 2026; figures retain status dates |
+
+## Canonical and cross-owner sources
+
+- `upsc-ai-kit/knowledge/Economy/basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md`
+- `upsc-ai-kit/knowledge/Economy/advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md`
+- Relevant bounded Basic/Advanced units from Economy Topics 16, 18, 20, 22, 24 and 31.
+- `upsc-ai-kit/knowledge/Economy/OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
+- `upsc-ai-kit/knowledge/Economy/00_Master-Framework.md`
 
 ## PYQ provenance
 
-| Publisher/holder | Document | Status date | Retrieval date | Supported proposition | Limitation |
-|---|---|---|---|---|---|
-| UPSC official-paper routing corpus | `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md` | covers 2018-2023 | 24 Sep 2026 | 2023 GS-III Q1 route, Comment, 10/150 | neutral ledger rendering used where full printed wording was not reproduced |
-| UPSC official-paper routing corpus | `_PYQ-ROUTING-PRELIMS-2018-2023.md` | covers 2018-2023 | 24 Sep 2026 | 2023 Q71 and Q88 neutral demands | official keys unavailable locally; no letter inferred |
-| UPSC official-paper routing corpus | `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md` | covers 2024-2025 | 24 Sep 2026 | 2025 GS-III Q12 PLI and Q16 semiconductor routing/format | Q16 is cross-topic Science ownership |
-| UPSC official-paper routing corpus | `_PYQ-ROUTING-PRELIMS-2026.md` | provisional 2026 routing | 24 Sep 2026 | Q83 semiconductor plants, Q93 M1xchange, Q97 crowdfunding | provisional key status; no answer letters inferred |
-| UPSC official scan/OCR corpus | `_PYQ-GS3-2026.md`; `_PYQ-GS1-GS3-Static-2026.md` | 2026 official paper OCR | 24 Sep 2026 | exact Q12 startup wording, 15/250, Topic 17 routing | OCR-verified; no solved PYQ answer supplied |
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md`
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2026.md`
+- Available local official 2025 and 2026 GS-III scans; displayed objective demands remain answer-neutral.
 
-## Official live-source attempts and dated current claims
+## Official sources and dated uses
 
-| Publisher | Document/page | Publication/status date | Retrieval date/status | Exact supported proposition used | Limitation |
-|---|---|---|---|---|---|
-| Ministry of Finance, India Budget | Economic Survey 2025-26 Chapter 8 PDF | tabled 29 Jan 2026 | live fetch 24 Sep 2026: HTTP 403; local official OCR available | all Survey claims were taken from local official OCR with internal dates | no post-publication update inferred |
-| Ministry of MSME / PIB | MSME classification release for limits effective 1 Apr 2025 | notification dated 21 Mar 2025 | live fetch 24 Sep 2026: HTTP 403 | prevailing thresholds and effective date retained from canonical notification provenance | page body not re-extracted live |
-| Ministry of MSME | Reports page / Annual Report 2025-26 | report listing dated 19 May 2026 in search index | live fetch 24 Sep 2026: HTTP 403 | no numerical claim imported from the blocked page | search discovery alone not treated as page verification |
-| DPIIT / PIB | PLI programme status page surfaced as PRID 2230621 | 2026 page surfaced in search | live fetch 24 Sep 2026: HTTP 403 | no later PLI figures imported; Survey's Sep 2025 status retained | search summary not used as numerical authority |
-| DPIIT / PIB | Startup recognition update surfaced as PRID 2224069 | 2026 page surfaced in search | live fetch 24 Sep 2026: HTTP 403 | no later recognition threshold/count imported; Survey's 2025 dates retained | search summary not used for mutable figures |
-| PIB / MeitY | “India Building Semiconductor Future” PDF | 17 Sep 2026 | fetched 24 Sep 2026; raw PDF bytes, no reliable text extraction | establishes that a dated official document was located; no project number/status from it is used | raw fetch could not support proposition-level extraction |
-| India Semiconductor Mission | institutional architecture as represented in canonical and Survey sources | stable institutional claim; project status separately dated | rechecked through official-source search 24 Sep 2026 | ISM is the nodal mission architecture under MeitY | live project details excluded unless textually verified |
+- MSME notification S.O. 1364(E), 21 March 2025, effective 1 April 2025: classification.
+- Economic Survey 2025-26, Chapter 8/statistical material: manufacturing, credit and GVC context.
+- RBI, *Trade Receivables Discounting System Directions, 2026*, issued 23 June 2026.
+- DPIIT/PIB Startup India status, data as of 31 January 2026.
+- PIB PLI status releases available by 3 October 2026, with December 2025/March 2026 vintages retained.
+- MeitY/ISM and PIB 2026 project/design-support releases: approval and value-chain status.
+- ASI 2024-25 results released 30 September 2026: registered-manufacturing output, GVA and employment.
+- MSME cluster programme and RBI entity-wise TReDS portals: institutional function and status.
 
-## Verification boundary
+## Verification boundary and truthful manifest
 
-- No time-sensitive source claim uses vague “recent/current/latest” wording without an
-  exact publication, status or retrieval date.
-- No blocked or raw-PDF live result supplied an unsupported number.
-- All 2023 objective questions with unavailable local keys remain answer-neutral.
-- All cited 2026 objective questions retain provisional-key neutrality.
-- No solved model answer is supplied for a verified PYQ.
-- Topic 17 remains generation-only; no index, tracker, instructions, shared source,
-  another topic or Git metadata/history was edited.
+- Review cut-off: **3 October 2026 IST**.
+- Current data are concentrated in one dashboard in Lesson 18; other lessons teach mechanisms.
+- Blocked endpoints or unavailable extraction were not evidence. A figure was retained only with permitted canonical or official support.
+- Approval, construction, pilot, qualification and commercial operation are separate statuses.
+- PLI outlay, investment, production, disbursement, exports and jobs are different measures and vintages.
+- Startup recognition, support, valuation, survival, innovation and employment are different measures.
+- MSME thresholds remain amendable and should be rechecked before a later exam.
+- No official answer letter is asserted for an unkeyed or provisional-key objective PYQ.
