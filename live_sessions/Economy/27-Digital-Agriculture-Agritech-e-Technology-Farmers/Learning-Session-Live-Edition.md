@@ -1,9 +1,9 @@
 **Economy 27 - Digital Agriculture, Agritech and e-Technology for Farmers**
 
 ## Learning Roadmap
-### 15-lesson dependency roadmap
+### 22-lesson dependency roadmap: complete Core first, Optional Advanced last
 
-The sequence follows the learner's dependency chain. A later lesson assumes the distinctions established earlier; skipping directly to AI, credit or privacy usually creates category errors.
+The sequence follows the learner's dependency chain and a strict boundary: Lessons 1-15 complete the exam-sufficient Core before Lessons 16-22 add optional analytical depth. A later lesson assumes the distinctions established earlier; skipping directly to AI, credit or privacy usually creates category errors.
 
 | Stage | Lesson | Dependency question answered |
 |---|---|---|
@@ -22,6 +22,13 @@ The sequence follows the learner's dependency chain. A later lesson assumes the 
 | Risk control | 13. Cyber, manipulation, exclusion and grievance | How does the system fail, and how should failure be detected and repaired? |
 | Evaluation | 14. From registration to income and resilience | Which metrics demonstrate activity, use, outcome, distribution and durability? |
 | Synthesis | 15. Adoption and policy scenarios | What policy mix survives different farm, market and state-capacity conditions? |
+| Optional Advanced | 16. Information and principal-agent models | How can data reduce asymmetry yet deepen control? |
+| Optional Advanced | 17. Fixed costs, complements and rebound | Why do shared services and resource governance decide viability? |
+| Optional Advanced | 18. Network effects and autonomy | When does coordination become gatekeeping? |
+| Optional Advanced | 19. Data quality and contestability | How should a consequential record travel from observation to remedy? |
+| Optional Advanced | 20. Distribution and inclusion-by-design | Who adopts first and who is excluded? |
+| Optional Advanced | 21. Outcome and causal evaluation | Which evidence justifies scale? |
+| Optional Advanced | 22. Integrated policy scenarios | How do institutions change AI, insurance, drone and registry outcomes? |
 
 ### Learner contract
 
@@ -38,20 +45,20 @@ By the end, you should be able to:
 ### Current linkage orientation
 **Topic boundary.** Digital agriculture is not a list of apps. It is the use of data, sensing, connectivity, analytics, institutions and delivery channels to improve decisions across the farm cycle. Agritech is wider: it also includes equipment, biological and material technologies, service firms, finance, logistics and platform business models. This session concentrates on the digital and economic architecture while using e-NAM, FPOs and logistics only as cross-links to Economy Topics 13 and 15.
 
-**Current-status note (retrieved 25 September 2026).** Mutable claims below are tied to their stated publication or status date. Stable economic concepts - information asymmetry, fixed cost, network effects, basis risk, adverse selection and principal-agent problems - do not require a current-status claim.
+**Current-status note (retrieved 3 October 2026).** Mutable claims below are tied to their stated publication or status date. Stable economic concepts - information asymmetry, fixed cost, network effects, basis risk, adverse selection and principal-agent problems - do not require a current-status claim.
 
 | Current anchor | Verified status/publication date | Why it matters for this topic |
 |---|---:|---|
 | Digital Agriculture Mission | Union Cabinet approval reported by PIB, 2 September 2024; mission explainer dated 4 September 2024 | Establishes the public digital-infrastructure frame: AgriStack, Krishi-DSS and data-enabled services rather than one stand-alone portal. |
-| AgriStack division page | Ministry of Agriculture and Farmers Welfare page retrieved 25 September 2026 | Describes a federated architecture and three core registries: Farmer Registry, geo-referenced village maps and crop-sown data through Digital Crop Survey. The page reported more than 10 crore Farmer IDs, about 5 lakh geo-referenced plot-level village maps and more than 30 crore plots surveyed across 650 districts as of the page status retrieved. These are rollout counts, not proof of adoption or income gain. |
-| Krishi-DSS | Launched 16 August 2024; ministry status page retrieved 25 September 2026 | Integrates geospatial and non-geospatial datasets for crop maps, soil maps, drought/flood monitoring and technology-supported yield estimation. It supports decisions; it does not remove model error or the need for field verification. |
-| Bharat-VISTAAR | National launch recorded by ICAR on 17 February 2026; ministry page retrieved 25 September 2026 | Illustrates multilingual and voice-based AI advisory as public digital infrastructure. Its exam value lies in the last-mile design problem: relevance, language, trust, escalation and feedback. |
-| ISRO agriculture applications | ISRO agriculture-and-soil material and 2026 crop/soil-moisture updates retrieved 25 September 2026 | Shows remote sensing in acreage estimation, crop condition, drought monitoring and soil-moisture products. A satellite-derived estimate remains an observation/model output, not automatic ground truth. |
-| RBI digital lending | RBI Digital Lending Directions issued 8 May 2025; RBI page retrieved 25 September 2026 | Adds borrower-protection, disclosure and digital-lending-app accountability to the credit discussion. Better data can reduce verification cost but cannot by itself create repayment capacity. |
-| Account Aggregator framework | RBI NBFC-Account Aggregator Directions issued 28 November 2025 and effective on website placement; retrieved 25 September 2026 | Provides a consent-based channel for financial-information sharing. An AA transfers information under a consent artefact; it is not a general agricultural-data warehouse and it does not decide creditworthiness. |
-| Digital personal-data framework | Digital Personal Data Protection Act, 2023; Digital Personal Data Protection Rules, 2025 and official status material retrieved 25 September 2026 | Supplies the vocabulary of data principal, data fiduciary, notice, purpose, consent, withdrawal, security safeguards and grievance. Farm-data governance also involves non-personal, household, parcel and inferred data, so the legal analysis cannot stop at the label "consent". |
-| NABARD technology adoption | NABARD Annual Report 2023-24 page published for FY 2023-24; retrieved 25 September 2026 | Separates invention from adoption: the Farm Sector Promotion Fund and Capacity Building for Adoption of Technology stress pilots, training and exposure. Capability and service support are complements to hardware. |
-| e-NAM operating complements | Official e-NAM portal/FPO pages retrieved 25 September 2026 | Assaying, aggregation, payment, logistics and grievance are necessary complements to electronic bidding. Topic 27 uses this only to demonstrate the "digital plus physical institutions" principle. |
+| AgriStack division page | Ministry of Agriculture and Farmers Welfare page retrieved 3 October 2026 | Describes a federated architecture and three core registries: Farmer Registry, geo-referenced village maps and crop-sown data through Digital Crop Survey. The page reported more than 10 crore Farmer IDs, about 5 lakh geo-referenced plot-level village maps and more than 30 crore plots surveyed across 650 districts as of the page status retrieved. These are rollout counts, not proof of active use, correct inclusion or income gain. The same live page records AgriStack receiving the Gold Award at the 29th National Conference on e-Governance, 2026; this is administrative recognition, not causal welfare evidence. |
+| Krishi-DSS | Launched 16 August 2024; ministry status page retrieved 3 October 2026 | Integrates geospatial and non-geospatial datasets for crop maps, soil maps, drought/flood monitoring and technology-supported yield estimation. It supports decisions; it does not remove model error or the need for field verification. |
+| Bharat-VISTAAR | National launch recorded by ICAR on 17 February 2026; ministry page retrieved 3 October 2026 | Illustrates multilingual and voice-based AI advisory as public digital infrastructure. Its exam value lies in the last-mile design problem: relevance, language, trust, escalation and feedback. |
+| ISRO agriculture applications | ISRO agriculture-and-soil material and 2026 crop/soil-moisture updates retrieved 3 October 2026 | Shows remote sensing in acreage estimation, crop condition, drought monitoring and soil-moisture products. A satellite-derived estimate remains an observation/model output, not automatic ground truth. |
+| RBI digital lending | RBI Digital Lending Directions issued 8 May 2025; RBI page retrieved 3 October 2026 | Adds borrower-protection, disclosure and digital-lending-app accountability to the credit discussion. Better data can reduce verification cost but cannot by itself create repayment capacity. |
+| Account Aggregator framework | RBI NBFC-Account Aggregator Directions issued 28 November 2025 and effective on website placement; retrieved 3 October 2026 | Provides a consent-based channel for financial-information sharing. An AA transfers information under a consent artefact; it is not a general agricultural-data warehouse and it does not decide creditworthiness. |
+| Digital personal-data framework | Digital Personal Data Protection Act, 2023; Digital Personal Data Protection Rules, 2025 and official status material retrieved 3 October 2026 | Supplies the vocabulary of data principal, data fiduciary, notice, purpose, consent, withdrawal, security safeguards and grievance. Farm-data governance also involves non-personal, household, parcel and inferred data, so the legal analysis cannot stop at the label "consent". |
+| NABARD technology adoption | NABARD Annual Report 2023-24 page published for FY 2023-24; retrieved 3 October 2026 | Separates invention from adoption: the Farm Sector Promotion Fund and Capacity Building for Adoption of Technology stress pilots, training and exposure. Capability and service support are complements to hardware. |
+| e-NAM operating complements | Official e-NAM portal/FPO pages retrieved 3 October 2026 | Assaying, aggregation, payment, logistics and grievance are necessary complements to electronic bidding. Topic 27 uses this only to demonstrate the "digital plus physical institutions" principle. |
 
 **Fact versus inference.**
 
@@ -67,15 +74,17 @@ By the end, you should be able to:
 4. **GS-III 2025, 15 marks/250 words:** nanotechnology advancements in agriculture and their role in uplifting farmers. Nanotechnology is owned primarily by Science and Technology; here it appears only as an agritech-boundary reminder.
 5. **GS-I 2026, 15 marks/250 words:** satellite-based technologies for climate-smart agriculture and food security. The 2026 ledger routes the economic application layer to this topic.
 
-## Complete learner-first lessons
+# BASIC LEARNING SESSION — COMPLETE CORE
+
+The following fifteen lessons are independently sufficient for a competent UPSC answer. Optional Advanced material begins only after the complete Core and does not alter this foundation.
 ## Lesson 1 - The digital-agriculture stack: from observation to farmer welfare
 
-**Progress: 1 / 15 | Stage: Foundation | Subtopic: Digital-agriculture stack and welfare chain**
+Progress: 1 / 22 | Stage: Foundation | Subtopic: Digital-agriculture stack and welfare chain
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Basic/Advanced owners and OCR-searchable Ramesh Singh economy source
 CA search: "Official India digital agriculture mission AgriStack Krishi DSS latest status September 2026"
-CA found: Digital Agriculture Mission approved 2 September 2024; Agriculture Ministry's live Digital Agriculture Division page was retrieved 25 September 2026. Rollout counts are treated as current administrative status, not welfare proof.
+CA found: Digital Agriculture Mission approved 2 September 2024; Agriculture Ministry's live Digital Agriculture Division page was retrieved 3 October 2026. Rollout counts are treated as current administrative status, not welfare proof.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### System map: the full stack
@@ -178,55 +187,34 @@ For any question, use the chain **problem -> digital function -> complement -> r
 - Scale economies coexist with scale harms.
 - Ask who pays, who decides, who can correct and who is excluded.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks):** Why should digital agriculture be evaluated as a complete service chain rather than as a collection of technologies?
+**Question (10 marks, maximum 150 words):** Why must digital agriculture be evaluated as a complete service chain rather than a gadget list?
 
-**Model:** Open with the observation-to-outcome chain. Explain that data, analytics and delivery create value only when the farmer can act. Use the net-value equation to subtract service, learning, error and autonomy costs. Add one failure example, such as a correct but late pest alert. Conclude that income, resilience and agency - not database or app scale - are the final tests.
+**Responsive model:** Digital agriculture is a chain, not a gadget list. Under the Digital Agriculture Mission, AgriStack and Krishi-DSS can improve records and decisions, but value arises only when observation becomes usable advice, affordable action and a better outcome. A timely pest alert may reduce loss; the same alert delivered late or without access to treatment has little value. Evaluation must therefore subtract service fees, learning, downtime, error and autonomy costs from yield, quality, risk and price gains. Registrations and forecasts are intermediate outputs. The defensible verdict is that a complete, correctable service improves welfare only when it raises risk-adjusted net income, resilience, inclusion and agency.
 
-### Stack checkpoint (2 MCQs)
+**Unique scoring rubric:** Award 2 marks for the full service chain, 3 for Digital Agriculture Mission evidence, 3 for the net-value test and 2 for an outcome-based conclusion (10 total).
 
-**MCQ 1. Which sequence best represents a complete digital-agriculture value chain?**
+### Concept check
 
-A. Observation -> data -> analysis -> delivery -> action -> outcome  
-B. Identity -> subsidy -> app -> satellite -> outcome  
-C. Platform -> registration -> download -> income  
-D. Sensor -> algorithm -> prediction -> guaranteed yield
+**Question:** A pest model is accurate, but its alert arrives after the treatment window. At which link did the service fail?
 
-**MCQ 2. A service should be considered economically successful for farmers primarily when it:**
+**Model answer:** It failed at delivery-to-action, so analytical accuracy created no usable decision and no farmer welfare. The complete test follows observation, data, analysis, delivery, action and outcome.
 
-A. generates the largest database.  
-B. produces positive net farmer value after monetary, error, learning and autonomy costs.  
-C. uses the most advanced artificial-intelligence model.  
-D. replaces all human extension.
+**Misconception to avoid:** A technically correct prediction is not automatically a successful agricultural service.
 
-#### Answers and explanations
-
-**MCQ 1: A**
-
-- **A - Correct.** It preserves the causal links and leaves room to test failure at each stage.
-- **B - Incorrect.** It mixes components without a causal order and assumes subsidy is a necessary step.
-- **C - Incorrect.** Registration and download are activity metrics, not proof of income.
-- **D - Incorrect.** Prediction cannot guarantee action, biological response or yield.
-
-**MCQ 2: B**
-
-- **A - Incorrect.** Database size may show administrative reach but not benefit.
-- **B - Correct.** The net-value test captures gains, direct costs and less visible risks.
-- **C - Incorrect.** Model sophistication is an input characteristic, not a welfare result.
-- **D - Incorrect.** Human mediation may remain essential for diagnosis, trust and appeal.
 ### Bridge: from the stack to its entities
 
 The stack begins with entities and records. Before evaluating analytics, we must know whether the system has correctly distinguished the farmer, land, crop, cultivator and payment recipient.
 
 ## Lesson 2 - Farmer registries and data boundaries: identity is not cultivation
 
-**Progress: 2 / 15 | Stage: Foundation | Subtopic: Farmer Registry, parcel, crop, cultivation and payment boundaries**
+Progress: 2 / 22 | Stage: Foundation | Subtopic: Farmer Registry, parcel, crop, cultivation and payment boundaries
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical registry architecture plus OCR evidence on small and marginal farmers
 CA search: "Official India Farmer Registry Digital Crop Survey current status 2026 Ministry Agriculture"
-CA found: Agriculture Ministry live page retrieved 25 September 2026 reported more than 10 crore Farmer IDs and large-scale Digital Crop Survey coverage; these figures do not prove correct tenant or cultivator representation.
+CA found: Agriculture Ministry live page retrieved 3 October 2026 reported more than 10 crore Farmer IDs and large-scale Digital Crop Survey coverage; these figures do not prove correct tenant or cultivator representation.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Entity map: six objects, six questions
@@ -249,7 +237,7 @@ These links may overlap, but they are not synonyms. A woman cultivator may work 
 
 ### AgriStack as a federated architecture
 
-The Ministry of Agriculture page retrieved on 25 September 2026 describes AgriStack as being developed through a **federated structure** involving the Union, states and Union Territories. It identifies:
+The Ministry of Agriculture page retrieved on 3 October 2026 describes AgriStack as being developed through a **federated structure** involving the Union, states and Union Territories. It identifies:
 
 1. a Farmer Registry maintained by states/UTs;
 2. geo-referenced village/parcel maps; and
@@ -330,27 +318,21 @@ Use this distinction in questions on digital public infrastructure, subsidy targ
 - Faster delivery can accelerate a wrong decision.
 - Confidence and contestability are part of data quality.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks):** Distinguish farmer identity from agricultural entitlement in a digital registry.
+**Question (10 marks, maximum 150 words):** Why can an accurate Farmer ID still produce an inaccurate entitlement decision?
 
-**Model:** Define the separate records for person, land interest, actual cultivator, parcel, crop and payee. Show how owner-as-cultivator creates tenant and women-farmer exclusion. Recommend provenance, seasonal updating, confidence flags, assisted correction and reasoned appeal. End with the principle that identification is necessary but not sufficient for entitlement.
+**Responsive model:** A Farmer ID may identify a person correctly without proving who cultivated a parcel in a particular season. AgriStack accordingly separates Farmer Registry, geo-referenced village maps and crop-sown information. Recorded ownership, tenancy, actual cultivation, crop, loss and payment destination are different facts. If title becomes the only entitlement proxy, tenants, sharecroppers and women cultivators may be excluded despite accurate identity. A farmer-centred registry should preserve source and time, accept alternative cultivation evidence, provide assisted correction before denial and allow appeal. Registry quality must be judged against the decision it supports; demographic accuracy alone cannot establish seasonal entitlement.
 
-### Registry diagnostic (1 MCQ)
+**Unique scoring rubric:** Award 2 marks for entity separation, 3 for the AgriStack registry architecture, 3 for tenant/women-cultivator exclusion and 2 for correction plus appeal (10 total).
 
-**MCQ 3. Which statement is most accurate?**
+### Concept check
 
-A. A Farmer ID proves that the holder cultivates every linked parcel.  
-B. Geo-referencing eliminates all boundary disputes.  
-C. Identity, land interest and actual seasonal cultivation should be represented as distinct but linkable records.  
-D. Crop classification by satellite should overwrite farmer declarations.
+**Question:** A verified landowner leases the plot to another cultivator. Which records must remain distinct before crop-loss support is decided?
 
-**MCQ 3: C**
+**Model answer:** The system must distinguish person, recorded land interest, actual seasonal cultivator, parcel, crop/loss observation and payment destination, each with provenance and correction.
 
-- **A - Incorrect.** Identity does not prove current cultivation.
-- **B - Incorrect.** Geo-referencing improves spatial reference but cannot settle every legal or social dispute.
-- **C - Correct.** Separation prevents a convenient proxy from becoming a false equivalence.
-- **D - Incorrect.** Conflicting observations should be retained and resolved, not silently overwritten.
+**Misconception to avoid:** A Farmer ID or title record alone proves neither seasonal cultivation nor loss.
 
 ### Bridge: records now require observation
 
@@ -358,180 +340,166 @@ Once entities are separated, the next challenge is observation. Sensors and mode
 
 ## Lesson 3 - Remote sensing, GIS, drones, weather, IoT and AI: what each tool knows
 
-**Progress: 3 / 15 | Stage: Foundation | Subtopic: Observation technologies, inference and error**
+Progress: 3 / 22 | Stage: Foundation | Subtopic: Observation technologies, inference and error
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical sensing distinctions and OCR crop-insurance/remote-sensing passages
 CA search: "Official ISRO agriculture remote sensing drones soil moisture crop monitoring India 2026"
-CA found: ISRO's official agriculture-and-soil and NISAR soil-moisture pages were current when retrieved 25 September 2026; they establish operational applications, not error-free plot truth.
+CA found: ISRO's official agriculture-and-soil and NISAR soil-moisture pages were current when retrieved 3 October 2026; they establish operational applications, not error-free plot truth.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Entry diagnostic: governing an inferred observation
-
-**MCQ 4. The best safeguard when an inferred crop record affects insurance or relief is to:**
-
-A. keep the model secret to prevent gaming.  
-B. rely only on the registered owner.  
-C. accept no corrections after payment begins.  
-D. record provenance and confidence, disclose the decision reason and provide time-bound appeal with field verification.
-
-**MCQ 4: D**
-
-- **A - Incorrect.** Legitimate security does not justify unreviewable consequential decisions.
-- **B - Incorrect.** Ownership may not identify the cultivator or actual loss bearer.
-- **C - Incorrect.** Finality without correction converts data error into entitlement error.
-- **D - Correct.** It combines traceability, explanation and practical remedy.
-
-### Measurement chain: observation is not truth
+### Visual: observation is a governed inference chain
 
 ```text
-REAL FARM CONDITION
-       |
-       v
-instrument observes a signal
-       |
-       v
-signal is cleaned/geolocated
-       |
-       v
-model maps signal to a class or estimate
-       |
-       v
-decision-maker interprets output
-       |
-       v
-field action and feedback
+PHYSICAL CONDITION
+crop · moisture · pest stress · flood · soil
+             |
+             v
+SENSOR AND PLATFORM
+satellite · drone · weather station · field sensor · phone image
+             |
+             v
+RAW SIGNAL + LOCATION + TIME
+             |
+             v
+MODEL / INTERPRETATION
+classification · estimate · forecast · anomaly
+             |
+             v
+DECISION THRESHOLD
+advise · inspect · spray · pay · deny · appeal
 ```
 
-Error can enter at every arrow.
+The instrument does not directly deliver the final policy fact. It records a signal; a
+model connects that signal to a category or estimate; an institution then decides how
+much evidence is enough for action. The higher the consequence of error, the stronger
+the validation and remedy must be.
 
-### Technology-role table
+### What each technology can and cannot establish
 
-| Technology | Primary function | Agriculture examples | Main limitation |
+| Technology | Primary function | Useful farm application | Boundary |
 |---|---|---|---|
-| Remote sensing | observes reflected/emitted electromagnetic signals at a distance | crop area, vegetation condition, moisture proxies, flood/drought extent | cloud, resolution, revisit time, mixed pixels, model dependence |
-| GIS | stores, overlays and analyses spatial layers | parcel-crop-weather-soil overlay, service planning | inherits errors from every input layer |
-| GNSS/NavIC | positioning, navigation and timing | geo-tagging, machinery guidance, survey location | position accuracy is not crop-classification accuracy |
-| Drone/UAV | flexible high-resolution local sensing or application | imaging, spot spraying, mapping | regulation, battery, weather, operator skill, per-hectare economics |
-| Automatic weather station | local atmospheric measurement | rainfall, temperature, humidity, wind | sparse siting, maintenance and microclimate mismatch |
-| IoT sensor | repeated in-field measurement | soil moisture, water level, equipment condition | calibration, power, connectivity and maintenance |
-| AI/ML | pattern recognition, prediction or recommendation | pest image classification, yield forecast, advisory | training-data bias, distribution shift, opacity and false confidence |
+| Satellite remote sensing | Repeated observation over wide areas | acreage, crop condition, drought, flood and soil-moisture monitoring | resolution, revisit, cloud and mixed-pixel limits |
+| Drone | Flexible high-resolution local observation or operation | scouting, mapping and calibrated spraying | weather, payload, battery, operator, drift and privacy |
+| GIS | Stores, overlays and analyses spatial layers | combines parcel, soil, water, crop and hazard information | does not itself sense or prove field truth |
+| GNSS/NavIC | Position, navigation and timing | geotagging and precision guidance | does not classify crop or stress |
+| Weather station | Local atmospheric measurement | advisory, disease-risk and irrigation timing | siting and maintenance affect representativeness |
+| IoT sensor | Repeated device-level measurement | soil moisture, storage temperature and irrigation control | calibration, power, connectivity and replacement |
+| AI/ML | Classification, prediction or recommendation | pest recognition, yield/risk estimation and advisory | training-data bias, drift, confidence and explainability |
 
-### ISRO application boundary
+ISRO-supported agricultural observation, FASAL-linked crop estimation and Krishi-DSS
+show why combining geospatial and administrative layers can improve planning. The
+Agriculture Ministry's live Digital Agriculture Division page also records MNCFC support
+for crop forecasting, drought monitoring, smart sampling and yield-dispute analysis.
+These are decision-support functions; none converts an inferred signal into
+uncontestable truth.
 
-Official ISRO material retrieved 25 September 2026 describes operational agricultural uses such as FASAL crop forecasting, drought assessment and newer crop/soil-moisture products. The correct inference is **decision support at scale**. The incorrect inference is that satellite output can always identify plot-level truth without calibration and ground observations.
+### Four error families
 
-### Four error types
+1. **Measurement error:** the sensor is noisy, uncalibrated, poorly sited or affected by
+   cloud, shadow or atmosphere.
+2. **Representation error:** the sampled field, training set or weather station does not
+   represent the relevant farm, crop, season or subgroup.
+3. **Classification error:** the model assigns the wrong crop, disease, stress or loss
+   category.
+4. **Decision error:** the estimate may be reasonable, but the administrative threshold
+   or remedy makes the final decision unfair.
 
-1. **Measurement error:** the sensor records the signal inaccurately.
-2. **Representation error:** the sample or training data do not represent the target farm population.
-3. **Classification error:** the model assigns the wrong crop, pest or risk category.
-4. **Decision error:** even an accurate estimate is used with a bad threshold or without local context.
-
-For a binary pest detector:
-
-| Reality/output | Model says pest | Model says no pest |
-|---|---:|---:|
-| Pest present | true positive | **false negative**: missed treatment |
-| Pest absent | **false positive**: unnecessary spray | true negative |
-
-Accuracy alone can mislead. If pest prevalence is low, a model may be "accurate" while generating many false alarms among the positive alerts. For policy, ask about sensitivity, specificity, positive predictive value and the cost of each error.
+These errors can compound. A wrong parcel boundary can feed a correct model the wrong
+pixels; a correct stress signal can be misdiagnosed as pest damage; a useful regional
+estimate can be misused for automatic parcel-level denial.
 
 ### Spatial and temporal mismatch
 
-A 10-metre pixel, a cadastral parcel and a farmer's operational field need not align. Intercropping may generate a mixed spectral signature. A satellite revisit may miss a short stress event. A weather station 20 kilometres away may not capture a local hailstorm. A field photo may be clear but unrepresentative of the whole plot.
-
-Therefore:
+Agriculture changes at several scales:
 
 ```text
-Useful estimate = sensor quality
-                x spatial fit
-                x temporal fit
-                x model validity
-                x ground calibration
-                x decision relevance
+within-plot variation
+    < parcel
+    < village
+    < insurance unit
+    < district or state estimate
+
+hourly weather
+    < crop-stage window
+    < season
+    < multi-year climate trend
 ```
 
-This is a conceptual multiplicative chain: if one critical term approaches zero, practical usefulness collapses.
+A district-level drought map may be appropriate for planning relief inspections but
+too coarse to settle one farmer's localised hail claim. Similarly, last week's crop
+classification may be stale after harvest or re-sowing. Always match spatial and
+temporal resolution to the decision.
 
-### Human-in-the-loop is not a decorative phrase
+### Human-in-the-loop with real authority
 
-Human review is valuable only if the reviewer has:
+Human review is meaningful only when the reviewer:
 
-- access to the underlying evidence and confidence;
-- authority and time to change the result;
-- local knowledge or a verification protocol; and
-- accountability for recording the reason.
+- can see the source, time, confidence and model version;
+- has local agronomic competence;
+- can request field evidence;
+- is authorised to reverse the automated result; and
+- records the reason so recurrent errors improve the system.
 
-A person clicking "approve" on hundreds of model outputs is not meaningful human oversight.
+Merely placing an official after an automated decision is not accountability if the
+official cannot understand or change it.
 
-### Cost challenge: does verification defeat remote sensing?
+### Objection, reply and balanced verdict
 
-**Strongest limitation:** Ground verification defeats the cost advantage of remote sensing.
+**Objection:** Field verification removes the cost advantage of remote sensing.
 
-**Reply:** Statistical sampling and risk-based verification can calibrate models without inspecting every plot.
+**Reply:** Verification can be risk-based. Wide-area sensing can identify anomalies,
+prioritise visits and reduce random inspection.
 
-**Verdict:** The optimal design depends on error cost. A low-stakes advisory can tolerate more uncertainty than denial of insurance, relief or credit.
+**Verdict:** Use remote observation for scalable screening and planning, but combine it
+with representative ground checks, confidence disclosure and appeal when individual
+rights, credit or claims are affected.
 
 ### UPSC linkage
 
-This lesson directly supports the verified 2020 drone-applications Prelims route and the 2026 GS-I satellite-based climate-smart-agriculture question. UPSC traps include equating GIS with GNSS and treating remote sensing as legal or agronomic ground truth. A strong answer names the application, error source, calibration and decision safeguard.
+For the 2020 drone-applications linkage and the 2026 satellite-based climate-smart
+agriculture question, distinguish platform, payload, observation, inference and action.
+Do not write that GIS is a satellite, that NavIC performs crop classification, or that
+AI eliminates biological and sampling uncertainty.
 
-### Error checklist
+### Revision notes
 
-- Remote sensing observes signals; models infer agricultural variables.
-- GIS is an analytical spatial framework, not a sensor.
-- GNSS/NavIC locates; it does not identify crop health.
-- Drone economics depend on utilisation and service density.
-- AI error must be valued by consequence, not accuracy alone.
-- Spatial resolution, temporal resolution and ground truth are separate.
-- Human oversight needs information, authority, time and accountability.
-- High-stakes decisions require stronger verification and appeal.
+1. Remote sensing obtains information without direct contact.
+2. GIS analyses spatial layers; GNSS/NavIC supplies position, navigation and timing.
+3. A drone's capability depends on payload, configuration and operator.
+4. IoT senses and communicates; AI classifies or predicts; control systems act.
+5. Signal, model output, field truth and administrative decision are distinct.
+6. Measurement, representation, classification and decision errors can compound.
+7. Spatial and temporal resolution must match the decision.
+8. Aggregate accuracy can hide subgroup or parcel error.
+9. High-stakes use requires provenance, confidence, reasons and appeal.
+10. Human review needs competence and reversal authority.
+11. Ground checks can be targeted rather than universal.
+12. Technology lowers observation cost; governance allocates the cost of error.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (15 marks):** Assess the role and limits of remote sensing and AI in agricultural decision-making.
+**Question (10 marks, maximum 150 words):** Why is a satellite, drone or AI output evidence rather than automatic ground truth?
 
-**Model:** Classify remote sensing as signal observation, GIS as spatial analysis, GNSS/NavIC as positioning and AI as inference. Trace measurement, representation, classification and decision error. Use false-positive/false-negative costs and spatial-temporal mismatch. Defend calibrated models and risk-based field checks; reject both blind automation and blanket rejection of technology. Link to the verified 2026 satellite-agriculture PYQ.
+**Responsive model:** Satellites, drones and sensors observe signals; GIS combines spatial layers; AI classifies or predicts. ISRO-supported crop monitoring, FASAL and Krishi-DSS show the value of scalable observation, but cloud, mixed pixels, revisit gaps, wrong parcel boundaries and model drift affect inference. A statewide model can be useful for planning inspections yet unsafe as the sole basis for parcel-level claim denial. Consequential use should preserve source, time, confidence and model version, combine representative ground checks with risk-based inspection, and permit human reversal and appeal. Remote sensing lowers observation cost; it does not abolish uncertainty or convert an estimate into uncontestable field truth.
 
-### Technology-role diagnostic (3 MCQs including the bridge question)
+**Unique scoring rubric:** Award 2 marks for signal-versus-inference, 3 for ISRO/Krishi-DSS evidence, 3 for spatial/model errors and 2 for proportional verification (10 total).
 
-**MCQ 5. Which pairing is correct?**
+### Concept check
 
-A. GIS - integration and analysis of spatial layers  
-B. GNSS/NavIC - direct identification of pest species from leaf colour  
-C. Remote sensing - automatic legal determination of land title  
-D. AI - elimination of sampling and measurement error
+**Question:** When may a district-scale satellite estimate guide planning but not settle an individual claim?
 
-**MCQ 6. For an automated yield estimate used to settle insurance, the strongest design is:**
+**Model answer:** It may prioritise inspections or regional response when resolution is adequate for planning, but parcel-level denial needs matching boundaries, local validation, confidence, reasons and appeal.
 
-A. use the highest-resolution image and remove appeals.  
-B. combine validated models, representative ground checks, disclosed confidence and a contestable settlement process.  
-C. treat the model output as neutral because it is mathematical.  
-D. maximise overall accuracy without examining false negatives in affected groups.
+**Misconception to avoid:** High aggregate accuracy does not guarantee fair accuracy for every parcel or crop.
 
-#### Answers and explanations
-
-**MCQ 5: A**
-
-- **A - Correct.** GIS organises, overlays and analyses spatial data.
-- **B - Incorrect.** Positioning systems provide location/timing, not pest diagnosis.
-- **C - Incorrect.** Spectral observation cannot itself settle legal title.
-- **D - Incorrect.** AI depends on measured and sampled data and may add model error.
-
-**MCQ 6: B**
-
-- **A - Incorrect.** Spatial resolution alone does not address classification, timing or legal fairness.
-- **B - Correct.** It joins technical validity with procedural fairness.
-- **C - Incorrect.** Mathematical form does not remove value choices or biased inputs.
-- **D - Incorrect.** Aggregate accuracy can hide systematically costly errors.
 ### Bridge: measurement must change treatment
 
 Observation acquires value when it changes treatment. Precision agriculture is therefore an economic question about variable decisions, fixed costs, scale and uncertainty - not merely a technology label.
 
 ## Lesson 4 - Precision agriculture economics: variable treatment, fixed cost and farm-size constraints
 
-**Progress: 4 / 15 | Stage: Core | Subtopic: Precision agriculture, shared services and farm-size economics**
+Progress: 4 / 22 | Stage: Core | Subtopic: Precision agriculture, shared services and farm-size economics
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Advanced owner on fixed costs/rebound and OCR evidence on small-farm equipment constraints
@@ -645,50 +613,29 @@ Use fixed-cost and utilisation arithmetic in GS-III answers on farm mechanisatio
 - Efficiency per unit need not reduce total resource use.
 - Evaluate distribution: who adopts, who bears error and who captures savings?
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks):** Explain why shared-service models are important for precision agriculture in India.
+**Question (10 marks, maximum 150 words):** Why do shared-service models often fit smallholder precision agriculture better than universal ownership?
 
-**Model:** Begin with high fixed cost and fragmented small holdings. Derive average cost as fixed cost divided by area plus variable cost. Show how FPO/custom hiring raises utilisation and converts ownership into access. Add seasonal-capacity, maintenance and rebound risks. Conclude that subsidy should support a viable service ecosystem rather than idle asset distribution.
+**Responsive model:** Precision equipment often carries high fixed cost, while small and fragmented farms offer little acreage over which to spread it. An FPO, cooperative, SHG or custom-hiring provider can lower per-acre cost and supply trained operation; Namo Drone Didi's service-enterprise design illustrates this logic. Yet rated capacity overstates viable use when weather, travel, narrow spray windows, battery turnaround and repairs bind. A subsidy may reduce acquisition cost but cannot create demand or maintenance. Policy should therefore calculate break-even area using effective seasonal capacity, aggregate cluster demand and protect transparent booking. Shared access is superior only when the recurring service, safety and governance system is viable.
 
-### Break-even laboratory (2 MCQs)
+**Unique scoring rubric:** Award 3 marks for fixed-cost and effective-capacity arithmetic, 2 for a shared-service institution, 3 for lifecycle constraints and 2 for the conditional subsidy verdict (10 total).
 
-**MCQ 7. A service has fixed annual cost Rs 1,50,000, variable cost Rs 250 per acre and expected benefit Rs 750 per acre. Its break-even area is:**
+### Concept check
 
-A. 200 acres  
-B. 250 acres  
-C. 300 acres  
-D. 600 acres
+**Question:** A drone can technically cover 1,200 acres but weather and travel permit 600. Which acreage belongs in the break-even calculation?
 
-**MCQ 8. Which policy best addresses the small-farm constraint without assuming universal ownership?**
+**Model answer:** Use the 600-acre effective seasonal capacity, because only timely saleable operations contribute toward fixed-cost recovery.
 
-A. Mandate every farmer to buy the same equipment.  
-B. Replace agronomic training with an equipment subsidy.  
-C. Restrict service provision to a single proprietary vendor.  
-D. Support interoperable pay-per-use/custom-hiring models with training, maintenance and transparent service standards.
+**Misconception to avoid:** Rated machine capacity is not the same as economically usable agricultural capacity.
 
-#### Answers and explanations
-
-**MCQ 7: C**
-
-- **A - Incorrect.** At 200 acres, contribution is only Rs 1,00,000.
-- **B - Incorrect.** `250 x (750-250) = Rs 1,25,000`, below fixed cost.
-- **C - Correct.** `1,50,000/(750-250) = 300 acres`.
-- **D - Incorrect.** 600 acres gives a surplus but is not the break-even point.
-
-**MCQ 8: D**
-
-- **A - Incorrect.** It ignores farm heterogeneity and fixed-cost economics.
-- **B - Incorrect.** Complementary skill remains necessary.
-- **C - Incorrect.** Monopoly supply raises lock-in and bargaining risks.
-- **D - Correct.** It lowers fixed-cost exposure while preserving contestability and service quality.
 ### Bridge: viable tools still need usable information
 
 Even a technically and economically viable tool requires information to reach the right farmer in a usable form. Advisory services reveal why information asymmetry is more than a shortage of messages.
 
 ## Lesson 5 - Digital advisory: information asymmetry, trust and last-mile inclusion
 
-**Progress: 5 / 15 | Stage: Core | Subtopic: Advisory economics, trust and assisted inclusion**
+Progress: 5 / 22 | Stage: Core | Subtopic: Advisory economics, trust and assisted inclusion
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Advanced owner on information asymmetry and canonical extension/advisory distinctions
@@ -790,55 +737,34 @@ For the 2023 e-technology PYQ, use advisory as the production-side information c
 - Feedback is evidence only if complaints can change the system.
 - Measure useful action and outcome, not messages sent.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks):** How can AI advisory reduce and simultaneously recreate information asymmetry?
+**Question (10 marks, maximum 150 words):** Why is agricultural advisory a credence service, and what follows for governance?
 
-**Model:** Explain reduced search cost, local forecasts and multilingual access. Then show new asymmetries in model confidence, sponsored ranking, commercial conflicts and data use. Add last-mile barriers of language, device, trust and input access. Recommend source/conflict disclosure, escalation and outcome evaluation. Conclude that advisory quality is useful action, not message volume.
+**Responsive model:** Agricultural advice is a credence service because farmers may struggle to judge its quality even after acting: weather and biology obscure causation. Bharat-VISTAAR's multilingual, voice-based design can reduce language and device barriers, but advice must still fit crop, locality, timing and the farmer's ability to obtain the recommended input. AI may also hide confidence or a commission conflict. A reliable system should validate locally, disclose sponsorship and uncertainty, retain versions, accept farmer feedback and escalate low-confidence or high-stakes cases to accountable extension. Performance should be measured through timely understanding, correct action and welfare effect, not messages sent or queries answered.
 
-### Advisory diagnosis (2 MCQs)
+**Unique scoring rubric:** Award 2 marks for the credence-service idea, 2 for Bharat-VISTAAR, 3 for the advisory funnel and 3 for uncertainty, conflict and escalation safeguards (10 total).
 
-**MCQ 9. A digital advisory platform sends technically correct messages to one million registered farmers. Which conclusion is justified?**
+### Concept check
 
-A. Reach has increased, but effective use and welfare impact still require evidence on relevance, timing, understanding, action and outcome.  
-B. Information asymmetry has been eliminated.  
-C. Every recipient has adopted the recommendation.  
-D. The platform caused any subsequent yield increase.
+**Question:** A multilingual advisory is scientifically sound, but the farmer cannot obtain the recommended input. Has the information gap been solved?
 
-**MCQ 10. Which design most directly limits a principal-agent problem in commercial farm advice?**
+**Model answer:** No. Delivery improved, but implementability failed; useful advice must be timely, local, understood, trusted and connected to affordable action.
 
-A. Hide the revenue model to avoid confusing users.  
-B. Disclose sponsored ranking and commissions, separate advice from sales incentives and audit recommendation patterns.  
-C. Maximise notifications from the highest-paying vendor.  
-D. Treat all personalised recommendations as neutral.
+**Misconception to avoid:** Voice or local language alone does not prove last-mile inclusion or welfare.
 
-#### Answers and explanations
-
-**MCQ 9: A**
-
-- **A - Correct.** Delivery is an intermediate activity metric.
-- **B - Incorrect.** Quality uncertainty, conflict and local knowledge gaps remain.
-- **C - Incorrect.** Receipt does not establish comprehension or action.
-- **D - Incorrect.** Causal attribution needs a credible counterfactual.
-
-**MCQ 10: B**
-
-- **A - Incorrect.** Opacity intensifies the conflict.
-- **B - Correct.** Disclosure plus structural separation and audit address motive and behaviour.
-- **C - Incorrect.** It converts advisory into undisclosed advertising.
-- **D - Incorrect.** Personalisation can amplify commercial steering.
 ### Bridge: information meets exchange
 
 Advice helps production decisions, but farmers also face exchange and coordination failures. The next lesson uses e-NAM and FPOs narrowly to show why digital discovery needs physical and institutional complements.
 
 ## Lesson 6 - Digital markets, FPOs and logistics: the complementarity principle
 
-**Progress: 6 / 15 | Stage: Core | Subtopic: Digital market discovery and physical/institutional complements**
+Progress: 6 / 22 | Stage: Core | Subtopic: Digital market discovery and physical/institutional complements
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Topic 27 cross-link plus OCR e-NAM material; Topics 13/15 remain the full market owners
 CA search: "Official e-NAM FPO assaying logistics payments current status 2026"
-CA found: Official e-NAM/FPO pages retrieved 25 September 2026 confirm assaying, FPO payment and logistics functions; third-party scale figures from search were excluded.
+CA found: Official e-NAM/FPO pages retrieved 3 October 2026 confirm assaying, FPO payment and logistics functions; third-party scale figures from search were excluded.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Fulfilment chain: a trade is more than a match
@@ -882,7 +808,7 @@ This lesson does not reteach APMC reform, FPO governance or the complete agricul
 | enforceable rules | default and arbitrary rejection destroy trust |
 | grievance | electronic records document harm but do not remedy it |
 
-Official e-NAM pages retrieved 25 September 2026 describe assaying certificates, FPO onboarding, payment into an FPO/FPC account and logistics arrangements. These features illustrate the complementarity principle; current platform counts are not necessary to establish it.
+Official e-NAM pages retrieved 3 October 2026 describe assaying certificates, FPO onboarding, payment into an FPO/FPC account and logistics arrangements. These features illustrate the complementarity principle; current platform counts are not necessary to establish it.
 
 ### Price comparison is not realised price
 
@@ -931,66 +857,47 @@ But it introduces another principal-agent layer. Management may favour larger me
 
 This supplies the marketing half of the 2023 GS-III e-technology PYQ without duplicating Topics 13/15. The exam trap is "digital platform removes intermediaries"; distinguish exploitative rent from useful aggregation, grading, finance and logistics. Use net realisation rather than the displayed bid.
 
-### Net-realisation checklist
+### Revision notes
 
-- Screen price is not net farm-gate realisation.
-- Digital matching and physical fulfilment are complements.
-- Assaying converts quality from a claim into tradeable information.
-- FPOs lower per-member transaction cost but require internal accountability.
-- Active buyers and completed trades matter more than registrations.
-- Payment delay has a financing cost.
-- Electronic records improve traceability, not automatic enforcement.
-- Use Topic 13/15 for full market architecture; use this lesson for digital complementarity.
+1. Electronic matching is not transaction fulfilment.
+2. e-NAM can improve discovery, records and settlement visibility.
+3. Assaying makes remote quality claims credible.
+4. Aggregation spreads testing, handling and transport costs.
+5. Storage determines whether price information can defeat distress sale.
+6. Compare net farm-gate realisation, not the highest displayed bid.
+7. FPOs can strengthen scale and bargaining but add an internal agency problem.
+8. Registrations are not evidence of market depth or completed trade.
+9. Useful intermediary functions persist even when the traditional intermediary changes.
+10. Platform ranking and transaction data can create new gatekeeping power.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks):** Why is electronic price discovery insufficient to improve farm realisation?
+**Question (10 marks, maximum 150 words):** Why does electronic price discovery not by itself guarantee a higher farmer realisation?
 
-**Model:** Separate the screen bid from net farm-gate price. Deduct assaying, aggregation, transport, delay and expected dispute cost. Explain the roles of FPOs, storage and enforcement while noting the FPO principal-agent risk. Use e-NAM only as the digital-complement example and avoid duplicating full agricultural-market reform.
+**Responsive model:** e-NAM can widen buyer and price discovery, but a bid is not a completed transaction. Produce must be aggregated, assayed, stored, financed, transported, settled and protected by enforceable dispute resolution. The relevant comparison is net farm-gate realisation: displayed bid minus quality testing, handling, logistics, financing delay and expected rejection cost. FPOs can spread these costs and strengthen bargaining, though weak management or buyer concentration can recreate agency problems. Electronic markets therefore work as digital-plus-physical institutions. They can reduce search and coordination costs, but they cannot manufacture trusted quality, market depth or logistics merely by connecting screens.
 
-### Market-complement check (2 MCQs)
+**Unique scoring rubric:** Award 2 marks for discovery versus fulfilment, 3 for the e-NAM complement chain, 3 for net-realisation analysis and 2 for the FPO/platform qualification (10 total).
 
-**MCQ 11. A remote electronic bid exceeds a local bid by Rs 100 per quintal, but incremental assaying, transport, finance and expected dispute costs total Rs 130. The best conclusion is:**
+### Concept check
 
-A. accept the remote bid because gross price is higher.  
-B. electronic bidding always creates competition.  
-C. the remote trade lowers expected net realisation by Rs 30 per quintal.  
-D. logistics cost should be ignored because it occurs after bidding.
+**Question:** A remote bid exceeds the local price by Rs 120 per quintal, while added fulfilment costs and expected dispute loss total Rs 135. Which option is superior?
 
-**MCQ 12. Which is the clearest complement to digital price discovery?**
+**Model answer:** The local option is Rs 15 better before other differences. Compare net risk-adjusted farm-gate realisation, not the displayed electronic bid.
 
-A. More app downloads without trade.  
-B. A single buyer controlling assaying.  
-C. Removing transaction records.  
-D. Credible quality testing, aggregation, logistics, settlement and dispute enforcement.
+**Misconception to avoid:** Electronic price discovery is only one component of a completed and enforceable trade.
 
-#### Answers and explanations
-
-**MCQ 11: C**
-
-- **A - Incorrect.** The relevant comparison is net, risk-adjusted realisation.
-- **B - Incorrect.** The number and independence of active bidders determine competition.
-- **C - Correct.** `100 - 130 = -30`.
-- **D - Incorrect.** Fulfilment cost determines whether the quoted opportunity is valuable.
-
-**MCQ 12: D**
-
-- **A - Incorrect.** Downloads do not execute a sale.
-- **B - Incorrect.** Buyer-controlled grading can create conflict and distrust.
-- **C - Incorrect.** Records support audit and remedy.
-- **D - Correct.** These complete the exchange chain.
 ### Bridge: sale and production require finance
 
 Production and sale leave financing gaps. Digital records can lower lender verification costs, but credit analysis must separate data availability from borrower capacity, consent and fair underwriting.
 
 ## Lesson 7 - Digital credit and Account Aggregator: verification is not repayment capacity
 
-**Progress: 7 / 15 | Stage: Core | Subtopic: Digital credit, Account Aggregator and fair underwriting**
+Progress: 7 / 22 | Stage: Core | Subtopic: Digital credit, Account Aggregator and fair underwriting
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Advanced credit-information analysis and OCR agricultural-credit asymmetry
 CA search: "Official RBI digital lending Account Aggregator agriculture farmers current 2026"
-CA found: RBI Digital Lending Directions were issued 8 May 2025 and the NBFC-Account Aggregator Directions were issued 28 November 2025; retrieved 25 September 2026. Non-official 2026 usage totals were not relied upon.
+CA found: RBI Digital Lending Directions were issued 8 May 2025 and the NBFC-Account Aggregator Directions were issued 28 November 2025; retrieved 3 October 2026. Non-official 2026 usage totals were not relied upon.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Lending chain
@@ -1021,7 +928,7 @@ support, restructuring, recovery or grievance
 
 ### Account Aggregator boundary
 
-The RBI NBFC-Account Aggregator Directions, issued 28 November 2025 and retrieved 25 September 2026, enable consent-based transfer of specified financial information between regulated participants. A valid consent artefact identifies matters such as purpose, information, recipient and duration.
+The RBI NBFC-Account Aggregator Directions, issued 28 November 2025 and retrieved 3 October 2026, enable consent-based transfer of specified financial information between regulated participants. A valid consent artefact identifies matters such as purpose, information, recipient and duration.
 
 An AA:
 
@@ -1090,7 +997,7 @@ The objective is **suitable credit**, not maximum disbursement.
 
 Use Account Aggregator only after defining its limited function. In GS-III, structure digital agricultural credit as verification gain -> underwriting risk -> inclusion/conduct safeguards. The trap is to claim that more data automatically lowers rates or that consent guarantees voluntary choice.
 
-### Credit guardrails
+### Revision notes - credit guardrails
 
 - Verification cost and credit risk are different.
 - AA is consented financial-data transport, not a lender or farm registry.
@@ -1101,55 +1008,34 @@ Use Account Aggregator only after defining its limited function. In GS-III, stru
 - Compare total cost of credit, not headline interest alone.
 - Regulatory association is not a guarantee of product suitability.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (15 marks):** Digital records can reduce verification cost without guaranteeing inclusive agricultural credit. Discuss.
+**Question (10 marks, maximum 150 words):** How can digital data lower credit-verification cost without proving repayment capacity?
 
-**Model:** Distinguish identity verification, cash-flow estimation and repayment capacity. Define Account Aggregator as consented financial-information transport, not a lender. Explain proxy discrimination, thin files, miscalibration and non-pass-through of cost savings. Add RBI disclosure, reason, correction and grievance safeguards. Conclude with suitable crop-cycle credit rather than maximum disbursement.
+**Responsive model:** Reusable records and consent-based financial-information sharing can lower document and verification costs. An Account Aggregator transfers specified financial information under a consent artefact; it neither lends nor certifies agricultural truth. Cash-flow evidence may improve underwriting, but correlation with land, location or transactions does not create repayment capacity after drought or price shock. Thin digital files can also penalise informal cultivators. RBI's digital-lending safeguards make disclosure and accountable apps relevant. Sound design should align amount, tenor and repayment with the crop cycle, disclose total cost and reasons, permit correction and prevent coercive bundling. Lower processing cost benefits farmers only when competition and conduct transmit it.
 
-### Underwriting check (2 MCQs)
+**Unique scoring rubric:** Award 2 marks for the Account Aggregator boundary, 3 for verification versus repayment capacity, 3 for inclusion/conduct risks and 2 for crop-cycle safeguards (10 total).
 
-**MCQ 13. Which statement about an Account Aggregator is most accurate?**
+### Concept check
 
-A. It enables consent-based transfer of specified financial information; it does not itself sanction the farm loan.  
-B. It automatically combines all land, crop and health data into one public database.  
-C. It guarantees that a lender will approve credit.  
-D. It replaces the need for purpose limitation.
+**Question:** Why can a richer digital file lower lender cost yet leave a farmer unsuitable for the proposed loan?
 
-**MCQ 14. A lender's processing cost falls after digitisation, but loan prices do not fall. Which explanation is economically possible?**
+**Model answer:** Verification becomes cheaper, but repayment capacity still depends on crop cash flow, shocks, tenor, total cost and existing debt; data availability does not create income.
 
-A. Processing cost is the only component of lending price.  
-B. The lender retains the saving because of weak competition or other risks and costs remain high.  
-C. Digital records eliminate default risk.  
-D. Lower cost legally requires automatic approval.
+**Misconception to avoid:** An Account Aggregator transports consented financial information; it neither lends nor certifies creditworthiness.
 
-#### Answers and explanations
-
-**MCQ 13: A**
-
-- **A - Correct.** Transport under consent and underwriting are separate functions.
-- **B - Incorrect.** The AA framework concerns defined financial information, not unrestricted data merger.
-- **C - Incorrect.** The lender remains responsible for credit decisions.
-- **D - Incorrect.** Purpose is a core element of meaningful consent.
-
-**MCQ 14: B**
-
-- **A - Incorrect.** Funding, risk, capital, recovery and market structure also matter.
-- **B - Correct.** Cost reduction need not fully pass through to borrowers.
-- **C - Incorrect.** Records do not eliminate weather, price or behavioural shocks.
-- **D - Incorrect.** Prudent underwriting remains necessary.
 ### Bridge: from priced risk to pooled loss
 
 Credit prices expected risk; insurance pools specified loss. Digital yield and damage estimation may reduce delay and fraud, but it creates a separate fairness problem: basis risk.
 
 ## Lesson 8 - Digital insurance and yield estimation: individual loss, index loss and basis risk
 
-**Progress: 8 / 15 | Stage: Core | Subtopic: Yield estimation, insurance triggers and basis risk**
+Progress: 8 / 22 | Stage: Core | Subtopic: Yield estimation, insurance triggers and basis risk
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical basis-risk treatment and OCR remote-sensing/crop-cutting evidence
 CA search: "Official India technology based crop yield estimation insurance Krishi DSS 2026"
-CA found: Agriculture Ministry material retrieved 25 September 2026 describes Krishi-DSS, smart sampling and technology-supported yield estimation; it does not justify treating model output as automatic claim truth.
+CA found: Agriculture Ministry material retrieved 3 October 2026 describes Krishi-DSS, smart sampling and technology-supported yield estimation; it does not justify treating model output as automatic claim truth.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Loss-to-payout map
@@ -1201,7 +1087,7 @@ Reverse basis risk also occurs: an area index triggers payment to a farmer whose
 - reduced manual data-entry delay; and
 - prioritisation of field inspection.
 
-The Ministry page retrieved 25 September 2026 states that Krishi-DSS and MNCFC-linked activity support technology-based yield assessment, smart sampling and dispute resolution. "Support" is the correct verb; the official description does not justify treating automation as infallible.
+The Ministry page retrieved 3 October 2026 states that Krishi-DSS and MNCFC-linked activity support technology-based yield assessment, smart sampling and dispute resolution. "Support" is the correct verb; the official description does not justify treating automation as infallible.
 
 ### Model governance for claims
 
@@ -1252,55 +1138,34 @@ Basis risk is a high-value concept for crop-insurance questions. Define it befor
 - Error costs are asymmetric: denial during distress can be severe.
 - Evaluate payout adequacy and timeliness, not enrolment alone.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (15 marks):** Technology can reduce insurance delay while increasing basis-risk disputes. Analyse.
+**Question (10 marks, maximum 150 words):** Why can digital yield estimation reduce but not eliminate basis risk?
 
-**Model:** Separate actual farm loss, area estimate, model estimate and contractual trigger. Use the localised-hail example to demonstrate basis risk. Explain smart sampling and anomaly detection benefits, then require validated versions, representative ground checks, clear reasons and exceptional-loss appeal. Conclude that faster automation must remain contestable.
+**Responsive model:** Digital crop-cutting records, remote sensing and smart sampling can improve timeliness and anomaly detection in crop insurance. The Agriculture Ministry records DCCES and MNCFC support for yield estimation and PMFBY implementation. Yet actual individual loss, area yield, model estimate and contractual trigger remain distinct. Local hail, mixed cropping, wrong parcel mapping or classification error can leave a genuine loss below the payout trigger, creating basis risk. Technology can reduce this gap but not abolish it. Claims need transparent triggers, preserved model versions, parcel correction, exceptional-loss appeal and proportionate field verification. Success is adequate and timely protection, not merely faster digitisation.
 
-### Insurance diagnostic (2 MCQs)
+**Unique scoring rubric:** Award 3 marks for defining basis risk, 2 for DCCES/MNCFC evidence, 3 for residual parcel/model errors and 2 for contestable settlement (10 total).
 
-**MCQ 15. Basis risk is best described as:**
+### Concept check
 
-A. the lender's risk that a farmer will default.  
-B. the risk that insurance premium is paid digitally.  
-C. the divergence between the farmer's actual loss and the payout generated by the chosen index or trigger.  
-D. the risk that every insured farmer receives the same payout.
+**Question:** A village index stays above the payout trigger although one farm suffers local hail damage. Name the problem and remedy.
 
-**MCQ 16. Which reform most directly addresses a localised loss missed by an area-yield trigger?**
+**Model answer:** This is basis risk. Preserve parcel and crop records, disclose the trigger and method, and provide an exceptional-loss appeal with proportionate field verification.
 
-A. Remove all ground observation.  
-B. Publish only the final payout total.  
-C. Increase enrolment advertising.  
-D. Provide a time-bound exceptional-loss appeal with geo-tagged evidence and proportionate field verification.
+**Misconception to avoid:** Finer digital estimation can reduce basis risk but cannot guarantee that index payout equals every individual loss.
 
-#### Answers and explanations
-
-**MCQ 15: C**
-
-- **A - Incorrect.** That is credit/default risk.
-- **B - Incorrect.** Payment channel is unrelated to the concept.
-- **C - Correct.** It captures mismatch between experienced loss and contractual index.
-- **D - Incorrect.** Equal payout may occur under some area products but is not the definition.
-
-**MCQ 16: D**
-
-- **A - Incorrect.** It removes a source of correction.
-- **B - Incorrect.** Aggregate publication does not remedy individual mismatch.
-- **C - Incorrect.** Promotion does not reduce basis risk.
-- **D - Correct.** It targets the precise failure while controlling verification cost.
 ### Bridge: consequential data need governance
 
 Credit and insurance show that data sharing has distributive consequences. We now need a governance architecture for purpose, access, consent, correction and accountability across a federated ecosystem.
 
 ## Lesson 9 - AgriStack governance: federation, consent, privacy and fiduciary responsibility
 
-**Progress: 9 / 15 | Stage: Advanced | Subtopic: Federation, consent, privacy and data-fiduciary responsibility**
+Progress: 9 / 22 | Stage: Core | Subtopic: Federation, consent, privacy and data-fiduciary responsibility
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical AgriStack governance and Advanced autonomy/data-quality analysis
 CA search: "Official MeitY DPDP Rules 2025 consent data fiduciary current status 2026 India"
-CA found: DPDP Rules were notified 13 November 2025 with phased commencement; as of retrieval on 25 September 2026, the session distinguishes notified duties from provisions scheduled to commence later.
+CA found: DPDP Rules were notified 13 November 2025 with phased commencement; as of retrieval on 3 October 2026, the session distinguishes notified duties from provisions scheduled to commence later.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Governed data flow
@@ -1336,7 +1201,7 @@ But "federated" can become a label without substance if a central actor can acce
 
 ### DPDP vocabulary and agricultural complications
 
-Under India's personal-data framework, a **Data Fiduciary** determines the purpose and means of processing personal data, while the individual is the **Data Principal**. The DPDP Rules were notified on 13 November 2025 with phased commencement. As of 25 September 2026, their concepts provide a governance framework, but provisions scheduled for later commencement must not be described as already fully enforceable.
+Under India's personal-data framework, a **Data Fiduciary** determines the purpose and means of processing personal data, while the individual is the **Data Principal**. The DPDP Rules were notified on 13 November 2025 with phased commencement. As of 3 October 2026, their concepts provide a governance framework, but provisions scheduled for later commencement must not be described as already fully enforceable.
 
 Agricultural data complicates the picture:
 
@@ -1421,50 +1286,29 @@ This is the GS-II/GS-III governance bridge: federal administration, privacy, ser
 - Vendor exit and deletion belong in the initial contract.
 - Privacy and innovation can be complements when trust raises participation.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (15 marks):** What would farmer-centred data governance for AgriStack require?
+**Question (10 marks, maximum 150 words):** What makes consent meaningful in a federated agricultural-data system?
 
-**Model:** Explain federation, authoritative state records and controlled interoperability. Apply purpose limitation, minimisation, role-based access, retention, provenance and correction. Distinguish consent from other lawful public processing and note the phased 2025 Rules status. Include vendor exit, inferred-data accountability and accessible grievance. Conclude that trust is infrastructure.
+**Responsive model:** Federation distributes authoritative responsibility; it does not automatically give farmers control. Meaningful consent requires a specified purpose, understandable notice, genuine choice, granularity, withdrawal, expiry and an auditable record. Agricultural systems link personal, household, parcel, crop and inferred data, often where the farmer depends on the service seeking access. The DPDP framework supplies data-principal and data-fiduciary concepts, but consent cannot authorise unlimited purpose creep, excessive retention or insecure processing. AgriStack governance should add minimisation, role-based access, provenance, logs, correction, vendor controls and grievance. Consent is one element of accountable processing, not a waiver of fairness, security or remedy.
 
-### Consent and federation check (2 MCQs)
+**Unique scoring rubric:** Award 2 marks for federation, 3 for the meaningful-consent test, 3 for purpose-creep and agricultural-data complications and 2 for controls beyond consent (10 total).
 
-**MCQ 17. Which design best reflects data minimisation?**
+### Concept check
 
-A. Collect only fields necessary for the stated service and retain them only as long as justified.  
-B. Collect every available farm and household field because it may be useful later.  
-C. Make essential benefits conditional on commercial advertising consent.  
-D. Remove provenance so records appear simpler.
+**Question:** A farmer consented to crop-advisory use. May the same data automatically price credit two years later?
 
-**MCQ 18. In a federated system, interoperability should mean:**
+**Model answer:** No. Credit pricing is a different purpose and consequence. It needs a valid basis, fresh intelligible notice or consent where applicable, necessity, limited retention, access logs and an effective objection or correction route.
 
-A. every database is publicly downloadable.  
-B. authorised systems can exchange necessary data through common standards with clear responsibility and logs.  
-C. no state system may retain an authoritative record.  
-D. one vendor owns all interfaces and formats.
+**Misconception to avoid:** Consent to one service is not a perpetual, purpose-free licence for linked agricultural data.
 
-#### Answers and explanations
-
-**MCQ 17: A**
-
-- **A - Correct.** Necessity and retention limits are core minimisation practices.
-- **B - Incorrect.** Speculative future utility is not a bounded purpose.
-- **C - Incorrect.** Bundling undermines voluntary choice.
-- **D - Incorrect.** Provenance is necessary for quality and correction.
-
-**MCQ 18: B**
-
-- **A - Incorrect.** Interoperability is not unrestricted access.
-- **B - Correct.** It combines technical connection with governance.
-- **C - Incorrect.** Federation can preserve state authoritative sources.
-- **D - Incorrect.** Proprietary control creates lock-in and weak accountability.
 ### Bridge: lawful use does not remove market power
 
 Governance controls data use, but market structure controls bargaining. Even a privacy-compliant platform can become powerful through network effects, ranking, bundling and switching costs.
 
 ## Lesson 10 - Platform power, interoperability and vendor lock-in
 
-**Progress: 10 / 15 | Stage: Advanced | Subtopic: Network effects, ranking, interoperability and lock-in**
+Progress: 10 / 22 | Stage: Core | Subtopic: Network effects, ranking, interoperability and lock-in
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Advanced platform/network-effects owner and canonical federated architecture
@@ -1571,50 +1415,29 @@ Use platform economics when a question asks whether agritech improves competitio
 - Multi-homing supports bargaining but carries user cost.
 - Aim for contestable scale, not monopoly or incompatible fragmentation.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (15 marks):** How can digital-agriculture platforms preserve scale benefits without creating private gatekeepers?
+**Question (10 marks, maximum 150 words):** How can interoperability reduce lock-in without requiring one central database?
 
-**Model:** Start with network effects and data advantage. Explain ranking, self-preferencing, tying and switching cost. Distinguish five layers of interoperability and add portability, multi-homing and lifecycle procurement. Defend contestable scale: shared rails with competing services and credible exit.
+**Responsive model:** Interoperability permits authorised exchange through common technical, semantic and governance rules; it does not require one central database. In agritech, authoritative state or institutional records can remain federated while common interfaces let farmers or governments change service providers. Lock-in arises when historical data, proprietary formats, ranking advantage and transition costs make exit uneconomic. Portability must therefore produce complete, usable records and include transition assistance, continuity obligations and defined exit cost; a nominal download is insufficient. Open interfaces should also limit self-preferencing and forced tying across advice, inputs, credit and purchase. The objective is contestable scale: common rails, multiple services and credible farmer choice.
 
-### Lock-in test (2 MCQs)
+**Unique scoring rubric:** Award 3 marks for interoperability versus centralisation, 2 for a concrete lock-in mechanism, 3 for operational portability and 2 for contestable-scale design (10 total).
 
-**MCQ 19. Which measure most directly reduces vendor lock-in?**
+### Concept check
 
-A. A longer exclusive contract without termination rights.  
-B. Proprietary device formats that only the incumbent can read.  
-C. Open, documented standards plus usable data export, migration support and exit clauses.  
-D. Deleting historical records when a farmer changes provider.
+**Question:** A farmer can download a PDF history but a rival provider cannot import it. Is the service portable?
 
-**MCQ 20. "Contestable scale" in a digital-agriculture platform means:**
+**Model answer:** Only nominally. Effective portability requires complete machine-usable semantics, authentication, transition support and affordable exit so another provider can continue the service.
 
-A. preventing any platform from growing.  
-B. requiring farmers to use every available platform.  
-C. allowing the dominant platform to rank its own services secretly.  
-D. preserving scale benefits while enabling fair access, portability, competition and credible exit.
+**Misconception to avoid:** Interoperability concerns meaningful governed exchange; it neither requires centralisation nor ends with a view-only download.
 
-#### Answers and explanations
-
-**MCQ 19: C**
-
-- **A - Incorrect.** Exclusivity deepens dependence.
-- **B - Incorrect.** Incompatibility is a classic lock-in mechanism.
-- **C - Correct.** It lowers technical, operational and contractual switching costs.
-- **D - Incorrect.** Loss of history punishes exit.
-
-**MCQ 20: D**
-
-- **A - Incorrect.** Scale can lower costs and improve matching.
-- **B - Incorrect.** Forced multi-homing is costly and unnecessary.
-- **C - Incorrect.** Undisclosed self-preferencing weakens competition and trust.
-- **D - Correct.** It balances coordination benefits with checks on gatekeeping.
 ### Bridge: allocate the infrastructure and service layers
 
 If the service layer should remain contestable, we must decide which components belong in public digital infrastructure and which should be supplied by firms, cooperatives or civil society.
 
 ## Lesson 11 - Public digital goods versus proprietary services
 
-**Progress: 11 / 15 | Stage: Advanced | Subtopic: Public digital infrastructure and contestable service provision**
+Progress: 11 / 22 | Stage: Core | Subtopic: Public digital infrastructure and contestable service provision
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical public-infrastructure architecture and Advanced contestability analysis
@@ -1720,50 +1543,29 @@ This lesson supports questions on digital public infrastructure and public-priva
 - Cooperative ownership can align incentives but needs governance capacity.
 - Public infrastructure should lower entry barriers, not create a new gatekeeper.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (10 marks):** State the principles for allocating digital-agriculture functions between public infrastructure and proprietary services.
+**Question (10 marks, maximum 150 words):** Which digital-agriculture layers have the strongest claim to neutral public provision?
 
-**Model:** Place authoritative registries, standards, rights and grievance in neutral shared layers where network and entitlement effects are high. Place heterogeneous analytics and operational services in contestable markets where performance and switching are possible. Distinguish open source, open standards and open data. Conclude with non-discriminatory access and separation of regulator, rail operator and competitor.
+**Responsive model:** Foundational, reusable and rights-sensitive functions have the strongest claim to neutral shared provision: registry and geospatial standards, consent and exchange protocols, security baselines and grievance rules. AgriStack and Krishi-DSS illustrate public digital infrastructure on which diverse services can operate. Tailored analytics, machinery booking and advisory may be competitively supplied when quality is comparable and switching is realistic. Public provision does not mean zero cost, unrestricted open data or one compulsory state app. The better allocation is neutral rails and rules, contestable service layers, transparent procurement and independent oversight, so public infrastructure lowers entry barriers without becoming a new gatekeeper.
 
-### Public-versus-proprietary check (2 MCQs)
+**Unique scoring rubric:** Award 3 marks for the rail/service allocation principle, 2 for AgriStack or Krishi-DSS evidence, 3 for public/open/free distinctions and 2 for oversight (10 total).
 
-**MCQ 21. Which component has the strongest claim to neutral shared infrastructure?**
+### Concept check
 
-A. An authoritative, interoperable registry needed across multiple public services with controlled access and correction rights.  
-B. A single company's proprietary advertisement ranking.  
-C. One vendor's crop-input bundle.  
-D. A closed analytics model tied permanently to one sensor.
+**Question:** Should a public agricultural DPI operate every advisory, marketplace and machinery service itself?
 
-**MCQ 22. Which statement is correct?**
+**Model answer:** No. Neutral standards, registries, exchange controls, security and grievance have a strong public-rail claim, while heterogeneous services can remain contestable under fair access, portability and oversight.
 
-A. Open-source software automatically makes all farm data public.  
-B. Open standards can support interoperability even when competing services use different software.  
-C. A free service has no business model.  
-D. Public funding removes the need for security and grievance.
+**Misconception to avoid:** Public infrastructure, open standards, open-source software, open data and zero-price services are not synonyms.
 
-#### Answers and explanations
-
-**MCQ 21: A**
-
-- **A - Correct.** It is foundational, reusable and rights-sensitive.
-- **B - Incorrect.** This is a commercial allocation choice.
-- **C - Incorrect.** Bundles can be competitively offered and regulated.
-- **D - Incorrect.** Permanent tying is a lock-in risk, not a public-infrastructure virtue.
-
-**MCQ 22: B**
-
-- **A - Incorrect.** Code licensing and data-access rights are separate.
-- **B - Correct.** Shared specifications allow different implementations to communicate.
-- **C - Incorrect.** Another payer, data use or cross-selling may finance it.
-- **D - Incorrect.** Public systems face heightened duties because rights may depend on them.
 ### Bridge: competitive services still need viable economics
 
 Layer allocation tells us where firms may compete. We now examine whether agritech business models are economically viable without shifting hidden cost or risk onto farmers.
 
 ## Lesson 12 - Agritech business models and unit economics
 
-**Progress: 12 / 15 | Stage: Advanced | Subtopic: Agritech revenue models, utilisation and unit economics**
+Progress: 12 / 22 | Stage: Core | Subtopic: Agritech revenue models, utilisation and unit economics
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Advanced business-model economics and NABARD Annual Report 2023-24 innovation material
@@ -1889,50 +1691,29 @@ Use unit economics in questions on startups, rural innovation and inclusive grow
 - Business sustainability and farmer welfare can align, but not automatically.
 - Distribution metrics reveal cream-skimming.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (15 marks):** Evaluate agritech viability from both firm and farmer perspectives.
+**Question (10 marks, maximum 150 words):** Why can a celebrated agritech pilot fail under routine scale?
 
-**Model:** Identify payer, revenue model and recurring field-service cost. Calculate contribution margin, acquisition cost, retention and realistic utilisation. Then apply the farmer net-value test and conflict analysis. Warn against registration denominators and subsidised-pilot economics. Conclude that sustainable enterprise and farmer welfare align only under transparent incentives and inclusive access.
+**Responsive model:** A pilot may use free hardware, exceptional staff, selected farmers and intensive troubleshooting. Scale exposes normal acquisition, support, repair, compliance and seasonal-utilisation costs. An agritech firm must distinguish registrations, active users and paying users, then test contribution margin and retention without subsidy. Farmer welfare is a separate test: a profitable commission model may bias advice or tie input, credit and sale. Remote and low-value farms may also remain expensive to serve. Scaling is justified only when representative users obtain positive risk-adjusted net value, the provider covers recurring maintenance and grievance under ordinary conditions, and conflicts of interest are governed.
 
-### Enterprise calculation check (2 MCQs)
+**Unique scoring rubric:** Award 2 marks for payer and revenue-model identification, 3 for active-user unit economics, 3 for pilot-to-scale costs/conflicts and 2 for the representative scaling rule (10 total).
 
-**MCQ 23. A service earns Rs 900 per active user and incurs Rs 600 variable cost. Its annual contribution margin per active user is:**
+### Concept check
 
-A. Rs 600  
-B. Rs 900  
-C. Rs 300  
-D. Rs 1,500
+**Question:** A pilot has 100,000 registrations, 20,000 active users and 5,000 paying users. Which denominator matters for contribution margin?
 
-**MCQ 24. Which fact most clearly warns against scaling a successful pilot without further testing?**
+**Model answer:** Use paying or otherwise revenue-generating active users for the revenue model, while separately tracking all active users and farmer outcomes. Registrations cannot bear recurring service cost.
 
-A. The pilot has a user interface.  
-B. The pilot collected feedback.  
-C. The pilot used local language.  
-D. The pilot relied on free hardware, intensive expert support and a narrow, selected user group.
+**Misconception to avoid:** High enrolment does not establish retention, viable unit economics or positive farmer net value.
 
-#### Answers and explanations
-
-**MCQ 23: C**
-
-- **A - Incorrect.** That is the variable cost.
-- **B - Incorrect.** That is revenue before variable cost.
-- **C - Correct.** `900 - 600 = 300`.
-- **D - Incorrect.** It adds rather than subtracts cost.
-
-**MCQ 24: D**
-
-- **A - Incorrect.** An interface is ordinary and says little about scalability.
-- **B - Incorrect.** Feedback is desirable, though its quality should be examined.
-- **C - Incorrect.** Localisation improves relevance and should usually continue.
-- **D - Correct.** The cost structure and population differ from routine scale.
 ### Bridge: scale increases the cost of failure
 
 Viable platforms become critical infrastructure for decisions and payments. That expands the attack surface and makes error, manipulation and grievance design central economic issues.
 
 ## Lesson 13 - Cybersecurity, manipulation, exclusion and grievance
 
-**Progress: 13 / 15 | Stage: Advanced | Subtopic: Cyber risk, conduct manipulation, exclusion and remedy**
+Progress: 13 / 22 | Stage: Core | Subtopic: Cyber risk, conduct manipulation, exclusion and remedy
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical governance risks and Advanced autonomy/principal-agent analysis
@@ -2031,7 +1812,7 @@ This is market/conduct risk, not merely cyber risk.
 
 Cybersecurity can be linked to GS-III internal security, critical infrastructure and inclusive governance. Translate a technical breach into crop, payment, debt or entitlement harm. Include continuity and grievance; do not reduce the answer to encryption alone.
 
-### Operational safeguards
+### Revision notes - operational safeguards
 
 - Cyber harm can become crop, credit, payment or entitlement harm.
 - Protect confidentiality, integrity and availability.
@@ -2042,50 +1823,29 @@ Cybersecurity can be linked to GS-III internal security, critical infrastructure
 - Low complaint counts are ambiguous.
 - Manipulative design can occur without a security breach.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (15 marks):** Why should grievance redressal be treated as part of digital-agriculture infrastructure?
+**Question (10 marks, maximum 150 words):** Why is grievance redress part of infrastructure rather than an afterthought?
 
-**Model:** Trace cyber or conduct failure into payment, crop, debt or entitlement harm. Specify multichannel intake, receipt, evidence preservation, reason, deadline, escalation and systemic publication. Explain why low complaint counts are ambiguous. Conclude that remedy supplies both justice to the farmer and telemetry for system repair.
+**Responsive model:** Digital failure can become crop, payment, debt, privacy or entitlement harm, while agricultural timing makes even a short outage costly. Security must protect confidentiality, integrity, availability and recovery, but authenticated systems can still exclude legitimate users or manipulate choice through hidden fees and defaults. Grievance is therefore both a right and operational telemetry: recurring complaints reveal data, design and vendor defects. A credible mechanism provides assisted and offline channels, a receipt, evidence preservation, reasons, deadlines, escalation and systemic correction. Low complaint counts need qualification because they may show satisfaction or inaccessible remedy. Resilient infrastructure combines prevention, continuity and repair.
 
-### Failure-and-remedy check (2 MCQs)
+**Unique scoring rubric:** Award 2 marks for translating cyber failure into farm harm, 2 for confidentiality-integrity-availability-recovery, 4 for grievance architecture and 2 for qualified complaint interpretation (10 total).
 
-**MCQ 25. Which is primarily an integrity failure?**
+### Concept check
 
-A. An unauthorised operator changes a farmer's crop record used for benefit calculation.  
-B. A public dashboard is temporarily slow.  
-C. A farmer voluntarily downloads a statement.  
-D. A service publishes its grievance number.
+**Question:** Why can a low complaint count indicate either success or governance failure?
 
-**MCQ 26. The strongest grievance design is one that:**
+**Model answer:** It may reflect few harms, or an unknown, inaccessible or powerless grievance channel. Interpret complaints with awareness, channel access, resolution time, reversals and repeated defect data.
 
-A. accepts only app-based complaints.  
-B. offers multiple channels, records reasons and evidence, sets deadlines, allows escalation and feeds systemic fixes.  
-C. closes complaints automatically when a model repeats its first result.  
-D. hides complaint statistics to protect trust.
+**Misconception to avoid:** Authentication and cybersecurity controls do not replace conduct safeguards, continuity or remedy.
 
-#### Answers and explanations
-
-**MCQ 25: A**
-
-- **A - Correct.** The accuracy and authorised state of the record have been compromised.
-- **B - Incorrect.** That is principally availability/performance.
-- **C - Incorrect.** Authorised access is not a failure.
-- **D - Incorrect.** Accessible grievance information is a safeguard.
-
-**MCQ 26: B**
-
-- **A - Incorrect.** It excludes users facing the same digital barrier.
-- **B - Correct.** It combines individual remedy and organisational learning.
-- **C - Incorrect.** Repetition is not independent review.
-- **D - Incorrect.** Careful publication supports accountability and diagnosis.
 ### Bridge: safeguards require outcome evidence
 
 Risk controls protect the system, but policy still needs to know whether the system works. Evaluation must move beyond inputs and registrations to causal, distributed and durable outcomes.
 
 ## Lesson 14 - Evaluation: from registration to income, resilience and agency
 
-**Progress: 14 / 15 | Stage: Advanced | Subtopic: Results chain, causal evaluation and distribution**
+Progress: 14 / 22 | Stage: Core | Subtopic: Results chain, causal evaluation and distribution
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Advanced evaluation owner and canonical warning against registration-as-impact
@@ -2214,50 +1974,29 @@ Evaluation strengthens almost every Mains conclusion. Move from registration to 
 - Metrics can be gamed.
 - Evaluation should trigger redesign, not merely reporting.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (15 marks):** Design an evaluation framework for a digital-agriculture programme.
+**Question (10 marks, maximum 150 words):** How should a programme move from registration metrics to causal welfare evidence?
 
-**Model:** Build the input-activity-output-use-outcome-impact ladder. Measure correctness, repeated use, timeliness, net income, downside resilience and agency. Disaggregate by tenure, gender, farm size and connectivity. Use a credible counterfactual and flag Goodhart's law. Conclude that rollout dashboards and causal impact studies answer different questions.
+**Responsive model:** Evaluation should follow input, activity, output, meaningful use, outcome and impact. Farmer IDs, surveys, devices and messages show operational reach; they do not prove causal welfare. A results framework should measure record accuracy, repeated useful adoption, decision timeliness, risk-adjusted net income, resilience, ecological effects, agency and grievance, disaggregated by tenure, gender, farm size, crop, region and connectivity. Because adopters may differ from non-adopters, comparisons should address baseline differences and concurrent weather or price changes; phased rollout or difference-in-differences can help when assumptions are stated. Dashboards support operations, while causal and distributional evaluation decides whether scaling is justified.
 
-### Metric diagnostic (2 MCQs)
+**Unique scoring rubric:** Award 2 marks for the results ladder, 3 for farmer-welfare and distribution metrics, 3 for counterfactual reasoning and 2 for dashboard-versus-impact evaluation (10 total).
 
-**MCQ 27. Which is an impact metric rather than an activity metric?**
+### Concept check
 
-A. Number of registrations completed.  
-B. Number of SMS messages sent.  
-C. Change in risk-adjusted net farm income attributable to the service.  
-D. Number of devices procured.
+**Question:** Participant income rises by Rs 6,000 while a comparable group rises by Rs 3,000. What is the simple difference-in-differences estimate and its caution?
 
-**MCQ 28. Why should evaluation disaggregate results?**
+**Model answer:** The estimate is Rs 3,000. It is programme-associated only if the comparison is valid and parallel-trends and no major differential-shock assumptions are credible.
 
-A. To make averages larger.  
-B. To avoid measuring programme cost.  
-C. To replace causal analysis with anecdotes.  
-D. To identify whether benefits and errors differ across tenure, gender, farm size, region or capability.
+**Misconception to avoid:** A before-after gain among adopters is not assumption-free causal proof.
 
-#### Answers and explanations
-
-**MCQ 27: C**
-
-- **A - Incorrect.** Registration is an administrative activity/output.
-- **B - Incorrect.** Sending does not establish use or benefit.
-- **C - Correct.** It measures a final welfare result with attribution.
-- **D - Incorrect.** Procurement is an input.
-
-**MCQ 28: D**
-
-- **A - Incorrect.** Disaggregation may reveal lower or higher subgroup effects.
-- **B - Incorrect.** Cost remains part of net value.
-- **C - Incorrect.** Subgroup analysis complements rather than replaces causal design.
-- **D - Correct.** Distribution determines inclusion and policy redesign.
 ### Bridge: evidence must guide scenario choice
 
 Evaluation reveals that no universal design fits every context. The final lesson integrates technology, institutions and political economy through adoption and policy scenarios.
 
 ## Lesson 15 - Adoption and policy scenarios: choosing a robust digital-agriculture strategy
 
-**Progress: 15 / 15 | Stage: Advanced | Subtopic: Adoption, sequencing and robust policy scenarios**
+Progress: 15 / 22 | Stage: Core | Subtopic: Adoption, sequencing and robust policy scenarios
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - full Basic/Advanced synthesis, OCR smallholder constraints and verified PYQ routes
@@ -2392,43 +2131,664 @@ This synthesis can conclude 15- or 20-mark answers. Build scenario-specific poli
 - Modular, interoperable and reversible policy is robust under uncertainty.
 - Scale only after technical, economic, inclusion and grievance evidence.
 
-### Lesson Mains micro-model
+### Mains application, responsive model and unique rubric
 
-**Question (20 marks):** Suggest a robust digital-agriculture strategy for India's heterogeneous farm economy.
+**Question (10 marks, maximum 150 words):** What sequence makes a digital-agriculture strategy robust for rainfed smallholders?
 
-**Model:** Organise the answer around four scenarios: rainfed marginal farms, high-value FPO clusters, registry-based public delivery and private super-apps. Sequence definitions/correction before high-stakes scale; shared access before ownership mandates; standards/portability before integration; and evaluation before expansion. Finish with modularity, reversibility, assisted channels and contestable high-stakes decisions.
+**Responsive model:** Rainfed smallholders face weather uncertainty, low-value output, weak connectivity, thin extension and little capacity to absorb experimentation loss. Universal device ownership or mandatory app use would raise fixed cost and exclusion. Policy should first establish correctable cultivator records, voice/local-language and assisted access, weather and pest advice with human escalation, and FPO or custom-hiring equipment services. Credit and insurance must fit crop cash flow and retain non-digital correction. Interoperable modules are safer than one tied super-app. Scale should follow evidence on technical validity, utilisation, tenant and women-farmer inclusion, grievance, net income and resilience. Robust technology expands capability under adversity rather than merely digitising eligibility.
 
-### Policy-choice check (2 MCQs)
+**Unique scoring rubric:** Award 2 marks for diagnosing the rainfed-smallholder constraint bundle, 3 for sequencing, 3 for inclusion/modularity and 2 for evidence-gated scaling (10 total).
 
-**MCQ 29. For a low-connectivity rainfed region, the strongest first-stage strategy is:**
+### Concept check
 
-A. assisted voice/offline channels, shared services, local validation and non-digital fallback.  
-B. mandatory individual purchase of connected sensors.  
-C. removal of extension workers before the platform is tested.  
-D. denial of benefits to farmers without smartphones.
+**Question:** For rainfed marginal farms with weak connectivity, which should come first: mandatory super-app use or assisted modular services?
 
-**MCQ 30. Which policy sequence is most defensible for consequential registry use?**
+**Model answer:** Begin with correctable cultivator records, voice/offline assistance, human extension and shared services; add interoperable finance, insurance and markets only as capabilities and evidence mature.
 
-A. mandate first, define fields later.  
-B. establish definitions, assisted enrolment, verification/correction and grievance before high-stakes scaling.  
-C. hide error rates until universal coverage.  
-D. make one vendor's identifier the permanent legal proof of cultivation.
+**Misconception to avoid:** Rapid digital scale is not robust when it makes entitlement depend on devices, title proxies or one tied provider.
 
-#### Answers and explanations
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-**MCQ 29: A**
+## Lesson 16 - Information asymmetry and principal-agent problems
 
-- **A - Correct.** It fits capability, risk and infrastructure constraints.
-- **B - Incorrect.** Individual fixed cost and connectivity make it unsuitable.
-- **C - Incorrect.** Human support is a complement during adoption.
-- **D - Incorrect.** It converts the divide into entitlement exclusion.
+Progress: 16 / 22 | Stage: Advanced | Subtopic: Information asymmetry and principal-agent problems
 
-**MCQ 30: B**
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner sections on analytical architecture, information asymmetry and principal-agent incentives
+CA search: "RBI Account Aggregator Digital Lending Directions farmer data consent transparency official 2025 2026"
+CA found: RBI Account Aggregator Directions dated 28 November 2025 and Digital Lending Directions material dated 8 May 2025 provide verified consent and borrower-transparency anchors; neither proves equal bargaining power for farmers.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- **A - Incorrect.** Undefined fields create systemic error.
-- **B - Correct.** Rights-sensitive foundations precede scale.
-- **C - Incorrect.** Opacity prevents correction and learning.
-- **D - Incorrect.** Cultivation is dynamic and cannot be settled by vendor control.
+### Incentive-conflict map
+
+```text
+FARMER DATA -> VENDOR/MODEL -> RECOMMENDATION -> DECISION
+     |              |               |              |
+ knows farmer   objective set    ranking motive   error borne by
+ increasingly   out of view      may be hidden    farmer/state
+```
+
+The advanced issue is reciprocal visibility: digitisation can make the farmer legible to institutions while leaving institutional objectives, confidence and conflicts opaque to the farmer.
+
+#### 1. Analytical architecture
+
+```text
+TECHNICAL POSSIBILITY
+sensor · model · device · platform
+           |
+           v
+ECONOMIC VIABILITY
+fixed cost · marginal cost · scale · recurring revenue
+           |
+           v
+INSTITUTIONAL FIT
+rights · standards · extension · finance · infrastructure
+           |
+           v
+DISTRIBUTIONAL RESULT
+adopters · excluded groups · new intermediaries · market power
+           |
+           v
+SOCIAL OUTCOME
+net income · resilience · ecology · autonomy · state capacity
+```
+
+**Advanced claim:** Agritech is a socio-technical production system. Its impact is determined
+less by the sophistication of a device than by incentives, complements, data governance,
+market structure and the distribution of risk.
+
+#### 2. Seven deeper reasoning models
+
+#### 2.1 Information-asymmetry model
+
+Agriculture contains information gaps about:
+
+- farmer identity and cultivation;
+- crop condition and likely output;
+- input quality;
+- borrower/insurance risk;
+- produce quality;
+- prevailing prices and buyer reliability.
+
+⚠️ Digital records, sensing and assaying can reduce these gaps, lowering verification and
+transaction costs. But the same information can be used for adverse price discrimination,
+opaque credit scoring or benefit exclusion. The analytical question is therefore not “more
+data or less data,” but **who knows what, for which purpose, under whose control and with what
+remedy**.
+
+#### 2.5 Principal-agent model
+
+Actors may have different objectives:
+
+| Relationship | Possible misalignment |
+|---|---|
+| Government–vendor | Vendor optimises delivery/output count rather than farmer outcome |
+| Platform–farmer | Platform maximises transactions/data while farmer needs fair terms |
+| Lender–borrower | Automated score reduces lender cost but may penalise informal cultivators |
+| Insurer–farmer | Remote assessment lowers claim cost but may generate disputed classification |
+| Extension agent–algorithm | Human may defer excessively to a model or ignore it without explanation |
+
+⚠️ Contracts, audit, explainability and appeal are incentive mechanisms, not peripheral
+ethical additions.
+
+### Incentive reminders
+
+1. Information asymmetry can reverse direction rather than disappear.
+2. Ask who sets the model objective and procurement metric.
+3. Disclosure without genuine choice may not cure a conflict.
+4. Human review needs authority and responsibility, not ceremonial presence.
+5. Accountability changes incentives before it repairs harm.
+
+### Mains application, responsive model and unique rubric
+
+**Question (15 marks, maximum 250 words):** Digital agriculture can reduce information asymmetry while creating new principal-agent problems. Analyse.
+
+**Responsive model:** Digital records, sensing and assaying can reduce uncertainty about cultivation, crop condition, quality and repayment. Yet they create new agents with different incentives. A vendor paid for Farmer IDs may privilege speed over correction; an advisory platform earning input commission may self-preference; a lender may use a cheap proxy that poorly represents rainfed risk; an insurer may rely on a model whose error is borne by the claimant. The farmer cannot easily observe provenance, confidence or ranking motives. Reform should link procurement to accuracy and outcomes, disclose conflicts, audit subgroup performance, preserve model versions and require accountable review and appeal. Digitisation changes intermediation; it does not abolish it.
+
+**Unique scoring rubric:** Award 3 marks for the dual information-asymmetry movement, 4 for at least three principal-agent conflicts, 5 for incentive-alignment and remedy controls and 3 for the changed-intermediation verdict (15 total).
+
+### Concept check
+
+**Question:** A lender's model uses more farm data, yet the farmer cannot know why the rate rose. Which asymmetry was reduced and which was created?
+
+**Model answer:** The lender's uncertainty about the farmer fell, while the farmer's uncertainty about variables, confidence, proxy effects and commercial objective increased. Reasons, audit, correction and accountable review are required.
+
+**Misconception to avoid:** More data does not necessarily distribute information or decision power more equally.
+
+## Lesson 17 - Fixed-cost, complementarity and rebound models
+
+Progress: 17 / 22 | Stage: Advanced | Subtopic: Fixed-cost, complementarity and rebound models
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner sections on fixed-cost service economics, complementarity and environmental rebound
+CA search: "ICAR precision farming IoT AI official India small farmers service model resource efficiency 2025 2026"
+CA found: ICAR technical and 2025-26 official material verifies precision-farming and AI/IoT application context; no verified causal claim that fixed-cost viability or aggregate resource savings were achieved.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Three economic gates
+
+```text
+FIXED COST GATE        COMPLEMENT GATE        REBOUND GATE
+real acres served?  -> weakest link works? -> total resource falls?
+weather/travel          credit · repair        area · intensity
+seasonal window         extension · market     crop response
+```
+
+A technology should pass all three gates: viable utilisation, an implementable complement bundle and an aggregate resource result consistent with the policy objective.
+
+#### 2.2 Fixed-cost and service-economy model
+
+```text
+High fixed cost + low use by one small farm
+                  -> poor individual ownership economics
+
+High fixed cost shared across many users
+                  -> custom hiring / FPO / SHG / platform service
+                  -> lower cost per acre or operation
+```
+
+⚠️ This explains why custom-hiring centres, drone services or FPO-based equipment can be
+superior to asset distribution. However, the service provider requires predictable demand,
+working capital, scheduling, trained staff and repair support.
+
+#### 2.3 Complementarity model
+
+The productivity of one input depends on others:
+
+```text
+Advisory without credit/input access = recommendation not acted upon
+Sensor without agronomy             = measurement without diagnosis
+e-NAM without assaying/logistics     = bid without executable trade
+Drone without calibration/training  = asset with safety and efficacy risk
+Registry without correction         = scalable exclusion
+```
+
+⚠️ Therefore, public evaluation should test the **weakest complementary institution**, not
+only the performance of the headline technology.
+
+#### 2.6 Rebound-effect model
+
+Precision technology can reduce input use per hectare while raising total use:
+
+```text
+Lower water/energy/input cost per unit
+       -> more irrigated area / water-intensive crop / more applications
+       -> total resource use may remain unchanged or rise
+```
+
+⚠️ Efficiency technology must be combined with resource governance, pricing/incentives and
+crop planning where the resource is scarce.
+
+### Viability reminders
+
+1. Use effective seasonal capacity, never rated capacity alone.
+2. Shared ownership lowers fixed cost but adds coordination cost.
+3. The weakest indispensable complement can erase the headline gain.
+4. Per-acre efficiency and total resource conservation are separate outcomes.
+5. Test private viability, farmer value and ecological effect independently.
+
+### Mains application, responsive model and unique rubric
+
+**Question (15 marks, maximum 250 words):** Explain how fixed costs, complementarity and rebound effects shape agritech policy for smallholders.
+
+**Responsive model:** Small farms cannot usually recover the fixed cost of drones, sensors, software, training and repair from limited acreage. FPO, SHG, cooperative and custom-hiring models spread cost, but rated capacity must be reduced for travel, fragmented plots, weather and narrow crop windows. Agritech is also complementary: a pest alert needs affordable treatment, e-NAM needs assaying and logistics, and a registry needs correction. Finally, precision can create rebound when lower water cost per acre induces acreage expansion or crop change. Policy should combine realistic demand and lifecycle-cost assessment, extension, finance and repair with basin-level resource governance. Private viability, farmer welfare and aggregate sustainability are separate tests.
+
+**Unique scoring rubric:** Award 4 marks for fixed-cost/effective-capacity logic, 4 for complementarity, 4 for rebound and aggregate-resource analysis and 3 for integrated smallholder policy (15 total).
+
+### Concept check
+
+**Question:** A sensor service is privately viable and saves water per acre. Which two further tests remain before calling it sound policy?
+
+**Model answer:** Test whether indispensable complements such as extension and repair work, and whether total basin extraction falls after acreage or crop-choice responses.
+
+**Misconception to avoid:** Positive unit economics and unit efficiency do not establish institutional completeness or aggregate sustainability.
+
+## Lesson 18 - Network effects, contestability and farmer autonomy
+
+Progress: 18 / 22 | Stage: Advanced | Subtopic: Network effects, contestability and farmer autonomy
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner sections on platform network effects, multi-homing, bundling, switching costs and autonomy
+CA search: "e-NAM official FPO assaying logistics payment platform status 3 October 2026"
+CA found: e-NAM official home, FPO and learning pages retrieved 3 October 2026 verify assaying, aggregation, payment and logistics functions; they do not establish elimination of intermediaries or effective farmer exit.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Network-effect fork
+
+```text
+more users -> more matches -> more transactions -> more data
+                         |
+              +----------+----------+
+              v                     v
+       lower search cost      ranking and tying power
+       wider discovery        switching barriers
+```
+
+The same participation flywheel can create public value and private gatekeeping; autonomy depends on feasible alternatives, not merely a formal exit button.
+
+#### 2.4 Platform and network-effect model
+
+- More buyers and sellers may improve matching and price discovery.
+- More transactions create data that can improve services.
+- But data, switching costs and network effects may entrench a platform.
+- A dominant platform may become a new intermediary capable of setting terms, ranking
+  participants or tying finance, inputs and markets.
+
+**Policy response:** interoperability, data portability, transparent ranking, competition,
+open standards and effective grievance systems.
+
+#### 2.7 Capability and autonomy model
+
+Agritech can:
+
+- expand farmer capability through better information, access and coordination; or
+- reduce autonomy through opaque recommendations, locked ecosystems and dependence on one
+  provider.
+
+The preferred model is **decision support with informed farmer agency**, not automated
+command without explanation or remedy.
+
+### Contestability reminders
+
+1. Network effects improve matching and raise entry barriers together.
+2. Ranking allocates attention and may transmit commercial power.
+3. Tying links advice, input, credit, insurance and sale risks.
+4. Portability needs usable semantics and affordable transition.
+5. Contestable scale combines common rails with credible entry and exit.
+
+### Mains application, responsive model and unique rubric
+
+**Question (15 marks, maximum 250 words):** Evaluate the claim that digital platforms disintermediate farmers.
+
+**Responsive model:** Platforms can bypass a local information broker by connecting farmers with advice, inputs, lenders or buyers. However, verification, grading, finance, logistics and enforcement remain; their performer changes. Network effects make a platform more useful as participation grows, but transaction data and ranking power can raise entry barriers and enable self-preferencing, tying and lock-in. A super-app may recommend an affiliated input, price credit and require sale through the same channel. Reform should preserve open interfaces, portable records, multi-homing, transparent ranking and commission disclosure, while strengthening FPO bargaining and physical-market competition. Digitalisation is pro-farmer only when the new intermediary remains contestable and accountable.
+
+**Unique scoring rubric:** Award 3 marks for useful intermediation, 5 for network, ranking and tying power, 4 for portability/multi-homing/FPO responses and 3 for a contestability verdict (15 total).
+
+### Concept check
+
+**Question:** Why is multi-homing an incomplete answer to platform power for a small farmer?
+
+**Model answer:** Using several platforms may preserve alternatives, but it adds learning, device, data-entry and coordination costs. Interoperability, transparent ranking and portable histories are also needed.
+
+**Misconception to avoid:** Formal availability of competing apps does not prove that switching or simultaneous use is economically feasible.
+
+## Lesson 19 - Data quality, provenance and contestability
+
+Progress: 19 / 22 | Stage: Advanced | Subtopic: Data quality, provenance and contestability
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner data-architecture sections on provenance, confidence, purpose limitation, correction and contestability
+CA search: "MeitY DPDP Rules 2025 official AgriStack Farmer Registry correction grievance status 3 October 2026"
+CA found: MeitY's DPDP Rules were notified 13 November 2025 with phased commencement, while the Agriculture Ministry page rechecked 3 October 2026 verifies federated AgriStack components; later-phase duties are not treated as fully enforceable.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Consequential-record passport
+
+```text
+SOURCE -> SEASON/TIME -> METHOD -> CONFIDENCE -> PURPOSE
+   -> DECISION -> NOTICE/REASON -> CORRECTION -> APPEAL/REVERSAL
+```
+
+Every high-stakes record needs a traceable journey. Accuracy is only one property; provenance and contestability determine whether error can be discovered and repaired.
+
+#### 3. Data architecture: from record to decision
+
+| Layer | Function | Failure risk |
+|---|---|---|
+| Identity/registry | Identifies farmer or service claimant | Stale record, ownership-cultivation mismatch |
+| Geospatial layer | Locates parcel, village and asset | Boundary error, map-record mismatch |
+| Crop/field observation | Records crop, condition or practice | Measurement error, seasonality |
+| Exchange/interface | Allows authorised systems to request/share data | Over-sharing, weak authentication |
+| Analytics | Generates prediction, eligibility or recommendation | Bias, drift, poor local validity |
+| Service/application | Delivers advisory, benefit, credit or trade | Exclusion, tying, dark patterns |
+| Audit/grievance | Corrects and contests error | Inaccessible or non-binding remedy |
+
+#### Data quality dimensions
+
+1. **Accuracy:** Is the record correct?
+2. **Completeness:** Are relevant farmers and fields represented?
+3. **Timeliness:** Is seasonal information current?
+4. **Consistency:** Do linked systems use compatible definitions?
+5. **Provenance:** Can the source and update be traced?
+6. **Contestability:** Can the affected farmer correct it?
+
+#### 4. Agritech adoption as a welfare calculation
+
+```text
+Expected adoption value
+= expected yield/quality gain
+ + expected cost/loss reduction
+ + expected price/finance benefit
+ - purchase or service fee
+ - learning and switching cost
+ - maintenance and downtime
+ - error/model risk
+ - privacy/autonomy cost
+```
+
+⚠️ A technology may be socially valuable but privately unaffordable, justifying shared
+infrastructure or temporary support. Conversely, subsidy cannot rescue a technology with no
+credible farm-level benefit or maintenance model.
+
+### Record-quality reminders
+
+1. Accuracy, completeness, timeliness and consistency answer different questions.
+2. Provenance separates declaration, field observation and model inference.
+3. Confidence must be judged against the consequence of error.
+4. Version and access logs make later audit possible.
+5. Appeal must reach an authority capable of reversal.
+
+### Mains application, responsive model and unique rubric
+
+**Question (15 marks, maximum 250 words):** What should a farmer-centred data-quality and contestability regime for AgriStack contain?
+
+**Responsive model:** A farmer-centred AgriStack regime should separate person, land interest, cultivator, parcel, crop and payment destination. Each consequential field needs its source, season, method, timestamp, confidence and version. Farmer declaration, enumerator observation and remote-sensing inference should not be silently merged. Quality must be tested for accuracy, completeness, timeliness and subgroup representation, especially tenants and women cultivators. Before denial of benefit, credit or claim, the farmer should receive the principal reason and an assisted route to inspect and correct the record. Appeals must reach an authority able to reverse the result. Trustworthy DPI is a traceable and contestable record system, not simply the largest registry.
+
+**Unique scoring rubric:** Award 4 marks for separating agricultural entities and evidence types, 4 for the record passport, 4 for correction and reversal and 3 for proportional high-stakes verification (15 total).
+
+### Concept check
+
+**Question:** A crop label is corrected after benefit denial, but the original source and model version were not stored. What governance capacity was lost?
+
+**Model answer:** The system lost provenance and reproducibility, so it cannot explain the error, audit similarly affected cases or repair the defective survey/model process systemically.
+
+**Misconception to avoid:** Correction of one final value is not a substitute for preserving the record's production history.
+
+## Lesson 20 - Distributional adoption and inclusion-by-design
+
+Progress: 20 / 22 | Stage: Advanced | Subtopic: Distributional adoption and inclusion-by-design
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner distributional analysis covering tenants, women cultivators, rainfed farms, language, devices and risk-bearing capacity
+CA search: "Agriculture Ministry Farmer Registry Digital Crop Survey inclusion tenant women cultivator official 3 October 2026"
+CA found: the Agriculture Ministry Digital Agriculture Division page rechecked 3 October 2026 reports registry and survey rollout status but provides no verified subgroup outcome proving tenant or women-cultivator inclusion.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Capability-bundle balance
+
+| Enabling factor | Exclusion when absent |
+|---|---|
+| title/cultivator recognition | tenant or women-cultivator invisibility |
+| language and assistance | nominal access without comprehension |
+| cash flow and risk buffer | inability to experiment or act |
+| repair, input and extension | advice/device without implementation |
+| bargaining and exit | dependence on a tied provider |
+
+Inclusion is effective capability across the bundle, not the mere availability of an app or voice channel.
+
+#### 5. Distributional analysis
+
+#### Likely early adopters
+
+- larger or commercially oriented farms;
+- irrigated and connected regions;
+- farmers linked to FPOs, processors or organised buyers;
+- users with credit, smartphones and extension access.
+
+#### Likely exclusion risks
+
+- tenants and sharecroppers;
+- women cultivators without recorded title;
+- rainfed, remote and linguistically underserved farmers;
+- farmers producing minor/local crops poorly represented in data;
+- elderly or low-literacy users;
+- farmers unable to bear experimentation or service fees.
+
+#### Inclusion-by-design
+
+- assisted and offline access;
+- voice/local-language interfaces;
+- shared services through trusted collectives;
+- tenant/cultivator-sensitive verification;
+- transparent prices and no forced bundling;
+- open standards and portability;
+- human appeal against automated outcomes.
+
+### Distribution reminders
+
+1. Early adopters can bias pilot averages upward.
+2. Title, language, cash flow and repair matter alongside connectivity.
+3. Minor crops and rainfed systems may be under-represented in data.
+4. Assisted access can strengthen rather than weaken autonomy.
+5. Audit outcomes by group, not only enrolment by group.
+
+### Mains application, responsive model and unique rubric
+
+**Question (15 marks, maximum 250 words):** Why can formally universal digital agriculture widen inequality, and how should inclusion-by-design respond?
+
+**Responsive model:** Formal availability does not equal effective capability. Larger, irrigated and connected farmers can pay, experiment and act on advice; they also dominate early transaction and training data. Tenants and women cultivators may lack title-linked recognition, rainfed farmers face greater model uncertainty, and remote users bear connectivity and repair costs. Inclusion-by-design should separate cultivator from owner, accept alternative evidence, retain assisted and offline access, provide voice/local-language delivery, support shared FPO or SHG services and prohibit forced bundling. Models and outcomes should be audited by tenure, gender, farm size, crop and region. Universal policy must be judged by usable choice, net benefit and remedy.
+
+**Unique scoring rubric:** Award 4 marks for multidimensional exclusion, 3 for early-adopter/data bias, 5 for concrete inclusion-by-design and 3 for a capability-based verdict (15 total).
+
+### Concept check
+
+**Question:** Why can a voice-first advisory still exclude a rainfed tenant farmer?
+
+**Model answer:** Voice reduces literacy and smartphone barriers, but title recognition, local model fit, connectivity, affordable inputs, risk-bearing capacity and remedy may still fail.
+
+**Misconception to avoid:** The digital divide is a capability bundle, not a single interface or connectivity variable.
+
+## Lesson 21 - Outcome metrics, causal evidence and persistence
+
+Progress: 21 / 22 | Stage: Advanced | Subtopic: Outcome metrics, causal evidence and persistence
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner evaluation sections on additionality, subgroup incidence, persistence and evidence-gated scaling
+CA search: "NABARD agricultural innovation agritech evaluation outcomes official annual report 2023-24 persistence"
+CA found: NABARD Annual Report 2023-24 verifies dated innovation and capacity-building activity; no permitted official source established a 2026 counterfactual or post-support persistence result for the pilots.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Evidence ladder to scale
+
+```text
+registration
+   -> repeated correct use
+   -> decision change
+   -> net welfare outcome
+   -> causal additionality
+   -> fair distribution
+   -> persistence after pilot support
+```
+
+Each higher rung answers a different question. National scale requires more than movement at the lower administrative rungs.
+
+#### 6. Evaluation framework: replace activity metrics with outcome metrics
+
+| Weak metric | Better question |
+|---|---|
+| App downloads | Did active use improve a farm decision? |
+| Farmer IDs created | Are records accurate, inclusive and correctable? |
+| Drones distributed | Are they safely utilised with viable recurring demand? |
+| Advisories sent | Were they timely, local, understood and acted upon? |
+| Sensors installed | Did they remain calibrated and reduce cost/risk? |
+| Mandis connected | Did assayed trade, competition, settlement and farmer realisation improve? |
+| Claims digitised | Did accuracy, timeliness and appeal improve? |
+
+#### Minimum evaluation design
+
+1. establish baseline and comparison;
+2. separate adoption from outcome;
+3. measure net income, not only yield;
+4. include maintenance and recurring cost;
+5. disaggregate by farm size, gender, tenancy, region and crop;
+6. measure ecological effects and rebound;
+7. record errors, complaints and reversals;
+8. test persistence after subsidy or pilot support ends.
+
+### Evaluation reminders
+
+1. Adoption selection can mimic programme impact.
+2. Net income must include recurring support, error and learning costs.
+3. Additionality compares the technology with a feasible simpler option.
+4. Complaints, reversals and downtime are outcome evidence.
+5. Durability asks whether benefit survives subsidy and exceptional staff.
+
+### Mains application, responsive model and unique rubric
+
+**Question (15 marks, maximum 250 words):** Construct an evaluation framework for deciding whether an agritech pilot should scale.
+
+**Responsive model:** A scaling decision should begin with the pilot's theory of change and a credible baseline and comparison because early adopters may be more capable and weather or prices may change simultaneously. Measure record accuracy, repeated correct use and timeliness before welfare. Primary outcomes are risk-adjusted net income, loss reduction and resilience after fees, maintenance, learning and model error. Disaggregate results and record ecological effects, complaints, reversals and downtime. Apply five gates: additionality over a simpler option; working complements; fair distribution; correction, appeal and exit; and persistence after subsidy or intensive support ends. Use phased, reversible expansion with published thresholds rather than national scale from registrations or model accuracy.
+
+**Unique scoring rubric:** Award 4 marks for counterfactual design, 4 for the metric hierarchy, 4 for additionality/distribution/contestability/durability gates and 3 for phased reversible scale (15 total).
+
+### Concept check
+
+**Question:** A pilot raises average yield but the gain disappears after free field support ends. Which scale gate failed?
+
+**Model answer:** Durability failed, and possibly service economics. The observed benefit depended on exceptional support that routine delivery could not finance or reproduce.
+
+**Misconception to avoid:** A positive subsidised pilot average does not prove persistent, scalable additionality.
+
+## Lesson 22 - Integrated AI, insurance, drone and registry scenarios
+
+Progress: 22 / 22 | Stage: Advanced | Subtopic: Integrated AI, insurance, drone and registry scenarios
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner scenario analysis integrating AI advice, insurance loss estimation, drone services and registry decisions
+CA search: "official India AI crop advisory satellite crop insurance drone agriculture AgriStack integrated evidence 2026"
+CA found: Agriculture Ministry, ICAR and ISRO sources retrieved or rechecked through 3 October 2026 verify the separate application contexts; no permitted official integrated causal study was found, so the lesson remains scenario analysis.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Four-scenario decision matrix
+
+| Use | Technical output | Consequential risk | Required control |
+|---|---|---|---|
+| AI advisory | classification | wrong treatment | confidence + expert escalation |
+| insurance | loss estimate | basis-risk denial | ground check + appeal |
+| drone service | timely operation | unsafe/idle asset | skill + demand + maintenance |
+| registry | verified record | cultivator exclusion | distinct fields + correction |
+
+The common rule is proportionality: evidence and remedy must rise with the consequence of error.
+
+#### 7. Scenario analysis
+
+#### Scenario A — AI pest advisory
+
+**Benefit chain:** image → classification → recommended response → early treatment → lower
+loss.
+
+**Failure points:** poor photograph, unfamiliar local disease, false confidence, unavailable
+input, unsafe recommendation or lack of liability.
+
+**Design:** confidence score, local-language explanation, expert escalation, approved-input
+guardrails and feedback from confirmed field outcomes.
+
+#### Scenario B — remote-sensing insurance assessment
+
+**Benefit chain:** scalable observation → faster loss estimation → lower verification delay.
+
+**Failure points:** basis risk, resolution limits, cloud cover, wrong crop/parcel record and
+farmer inability to contest.
+
+**Design:** combine remote sensing with ground samples, disclose method, provide parcel-level
+correction and independent appeal.
+
+#### Scenario C — drone service through an SHG/FPO
+
+**Benefit chain:** shared asset → lower per-acre service cost → precise/timely operation +
+rural enterprise income.
+
+**Failure points:** weak seasonal demand, transport, battery/repair cost, trained pilot
+shortage, unsafe chemical use and elite capture of bookings.
+
+**Design:** cluster demand study, transparent booking, maintenance reserve, operator
+certification, performance logs and multiple farm applications.
+
+#### Scenario D — land-linked farmer registry
+
+**Benefit chain:** verified record → faster eligibility and reduced duplication.
+
+**Failure points:** title-cultivator mismatch, mutation delay, gendered ownership and
+automated denial.
+
+**Design:** separate owner/cultivator fields where relevant, alternative evidence, local
+assisted correction and benefit-denial appeal.
+
+#### 8. Advanced Mains reasoning
+
+#### The four tests
+
+1. **Additionality:** Did technology solve a problem better than a simpler alternative?
+2. **Complementarity:** Were finance, extension, infrastructure and law present?
+3. **Distribution:** Were gains and risks fairly distributed?
+4. **Contestability:** Could users switch, correct data and appeal decisions?
+
+#### Thesis variants
+
+- **Balanced:** Digital agriculture can reduce information and transaction costs, but its
+  benefits depend on complementary physical infrastructure, accountable data governance and
+  inclusion of the actual cultivator.
+- **Critical:** An app-centric model can automate existing inequalities; farmer-centric DPI
+  must prioritise correction, interoperability and assisted access.
+- **Reform-oriented:** Shift support from individual gadget ownership toward interoperable
+  public rails, shared services, extension and outcome-based procurement.
+
+#### 250-word structure
+
+1. Define the problem and agritech mechanism.
+2. Organise applications across production, risk, post-harvest and markets.
+3. Explain welfare transmission through productivity, cost, risk and price.
+4. Analyse exclusion, data, platform and ecological risks.
+5. Recommend shared services, interoperability, extension, safeguards and outcome metrics.
+6. Conclude with farmer agency, net income and resilience.
+
+#### 9. Advanced traps
+
+- ❌ Public DPI means all data must be centralised.
+  → Shared standards and interoperability can coexist with federated ownership.
+- ❌ Open standards mean unrestricted public access to personal data.
+  → Technical interoperability must remain governed by lawful access controls.
+- ❌ A statistically accurate model is automatically fair.
+  → Aggregate accuracy can conceal systematic harm to a subgroup.
+- ❌ Removing human discretion removes bias.
+  → Bias may be embedded in records, labels, objectives or thresholds.
+- ❌ Digital disintermediation eliminates rents.
+  → Platform concentration can create new rents.
+- ❌ Higher yield proves farmer welfare improved.
+  → Net income, risk, debt and resource effects must also be measured.
+
+#### 10. Advanced synthesis
+
+```text
+GOOD AGRITECH POLICY
+= problem-first technology choice
++ farmer-centric and correctable data
++ shared-service economics
++ human extension and local validation
++ interoperable public rails
++ competitive physical markets
++ ecological/resource governance
++ measurable net-income and resilience outcomes
+```
+
+> **Final analytical line:** The goal is not to digitise agriculture for its own sake, but to
+> expand farmers’ effective capabilities while lowering information, coordination and risk
+> costs without converting data, platforms or algorithms into new sources of exclusion and
+> dependence.
+
+### Scenario reminders
+
+1. Trace a benefit chain and a failure chain for every use.
+2. Planning-grade evidence may be inadequate for automatic denial.
+3. AI needs escalation; insurance needs appeal; drones need service economics.
+4. Registries need owner-cultivator separation and alternative evidence.
+5. Prefer modular, reversible choices when uncertainty is high.
+
+### Mains application, responsive model and unique rubric
+
+**Question (15 marks, maximum 250 words):** "Agritech is a socio-technical production system." Discuss through AI advisory, insurance, drones and registries.
+
+**Responsive model:** Agritech joins technical possibility with costs, institutions, incentives and risk distribution. AI advisory needs local validation, confidence and expert escalation; remote-sensing insurance needs ground checks, transparent triggers and exceptional-loss appeal; drone services need viable acreage, certified operators, maintenance and fair booking; farmer registries need owner-cultivator separation, alternative evidence and correction before denial. Across cases, technology changes measurement and coordination, while institutions decide who bears error and bargaining power. Policy should combine interoperable public rails, contestable services, data minimisation, proportional human review and outcome-based procurement. Agritech succeeds when the complete system improves risk-adjusted income, resilience and agency without automated exclusion or new dependence.
+
+**Unique scoring rubric:** Award 3 marks for the socio-technical thesis, 6 for accurate comparison of all four scenarios, 3 for proportional evidence and remedy and 3 for the capability-centred conclusion (15 total).
+
+### Concept check
+
+**Question:** Why may the same remote-sensing estimate be suitable for inspection targeting but unsuitable for automatic claim rejection?
+
+**Model answer:** Inspection targeting is reversible and tolerates more uncertainty; rejection directly affects entitlement and therefore needs stronger parcel evidence, reasons, correction and appeal.
+
+**Misconception to avoid:** One technical output does not carry the same evidentiary weight across decisions with different harms.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
@@ -2492,136 +2852,40 @@ The verified ledger routes the question on nanotechnology advancements in agricu
 
 ### PYQ 6 - UPSC GS-III 2026, 10 marks, 150 words - cross-topic boundary
 
-The verified 2026 ledger asks how e-commerce can reduce inefficiency in agricultural-produce marketing. Topic 13 owns the full marketing architecture.
+**Question:** Explain the factors responsible for inefficiency of agri-produce marketing. How e-commerce helps to reduce inefficiency of agri-produce marketing? Explain.
+
+The verified 2026 ledger routes the complete question to Topic 13, which owns the full marketing architecture.
 
 **Demand and approach for Topic 27:** contribute the digital layer - search and price discovery, electronic records and settlement - and immediately add assaying, aggregation, storage, logistics, market depth and enforcement. Avoid claiming that e-commerce removes every intermediary.
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-## Whole-topic diagnostic set
+## Core-to-Advanced synthesis checks
 
-The authored answer sequence continues from the lesson practice. Attempt before reading the explanations.
+### Representation
+**Question:** Why can near-universal Farmer ID coverage coexist with tenant exclusion?
+**Model answer:** Identity coverage does not prove seasonal cultivation. Audit owner-cultivator separation, alternative evidence, correction and tenant-wise outcomes.
 
-**MCQ 31. Consider the following statements:**
+### Measurement
+**Question:** Can high statewide crop-classification accuracy justify automatic parcel-level claim denial?
+**Model answer:** No. Aggregate accuracy can conceal parcel and subgroup error; consequential denial needs provenance, local validation, reasons and appeal.
 
-1. A farmer registry can reduce repeated identity verification.
-2. A farmer registry by itself proves actual seasonal cultivation.
-3. A crop-sown registry may combine survey and remote-sensing evidence.
-4. A consequential inferred record should retain provenance and time.
+### Economics
+**Question:** Why can a subsidised drone remain economically idle?
+**Model answer:** Weather, travel, fragmented plots, narrow windows, operator, battery, repair, working capital and booking governance reduce effective capacity.
 
-Which of the statements given above are correct?
+### Market
+**Question:** Why can the highest digital bid produce a lower farmer realisation?
+**Model answer:** Assaying, aggregation, logistics, financing delay and expected rejection or dispute cost can exceed the displayed advantage.
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1, 3 and 4 only  
-D. 1, 2, 3 and 4
+### Governance
+**Question:** How can a federated system remain interoperable?
+**Model answer:** Distributed authoritative sources can exchange meaningful data through common definitions, interfaces, access controls and governance rules.
 
-**MCQ 32. A drone service has annual fixed cost Rs 3,00,000, variable cost Rs 200 per acre and charges Rs 500 per acre. Ignoring other overhead, how many acres are required to break even?**
+### Scale
+**Question:** What evidence should precede national scale?
+**Model answer:** Technical validity, representative repeated use, sustainable service economics, positive risk-adjusted benefit, inclusion, ecological control, grievance and persistence.
 
-A. 600  
-B. 750  
-C. 900  
-D. 1,000
-
-**MCQ 33. Which situation is the clearest example of basis risk?**
-
-A. A farmer suffers local hail loss but the area-yield index remains above the payout trigger.  
-B. A lender charges a processing fee.  
-C. An FPO aggregates produce.  
-D. A weather station records humidity.
-
-**MCQ 34. Which statement best distinguishes interoperability from centralisation?**
-
-A. Interoperability requires all data to be stored in one database.  
-B. Interoperability allows authorised systems to exchange meaningful data under common technical and governance rules without requiring one database.  
-C. Centralisation always gives farmers more control.  
-D. Federation prevents any data exchange.
-
-**MCQ 35. Which indicator is most useful for testing whether a digital advisory reduces information asymmetry?**
-
-A. Number of promotional notifications.  
-B. Size of the source-code repository.  
-C. Timely, context-appropriate advice understood and acted upon, with measured decision or welfare improvement.  
-D. Number of colours in the app.
-
-**MCQ 36. A platform provides advice, sells the recommended input and earns a larger commission on one brand. The priority governance response is to:**
-
-A. assume algorithms remove conflict.  
-B. prohibit all digital advice.  
-C. conceal commission to preserve trust.  
-D. disclose the conflict, label sponsorship, audit recommendations and preserve an independent choice.
-
-**MCQ 37. Which result most strongly supports scaling a pilot?**
-
-A. Positive risk-adjusted net benefits across representative farm types, sustainable service economics and workable grievance/maintenance at realistic scale.  
-B. A launch event with high attendance.  
-C. A high registration count during a subsidy campaign.  
-D. One unusually successful demonstration farm.
-
-**MCQ 38. Which policy best combines innovation with farmer autonomy?**
-
-A. Permanent exclusive contracts and non-portable data.  
-B. Open standards, informed choice, portable records, competing services and public safeguards for high-stakes decisions.  
-C. Mandatory bundling of credit, inputs and sale.  
-D. Unreviewable automated rejection.
-
-#### Answers and explanations
-
-**MCQ 31: C**
-
-- **A - Incorrect.** Statement 2 is false and statements 3-4 are valid.
-- **B - Incorrect.** Statement 2 is false while statement 1 is true.
-- **C - Correct.** Identity reuse, plural evidence and provenance are sound, but identity does not prove cultivation.
-- **D - Incorrect.** Statement 2 collapses distinct entities.
-
-**MCQ 32: D**
-
-- **A - Incorrect.** Contribution is `600 x 300 = Rs 1,80,000`.
-- **B - Incorrect.** Contribution is Rs 2,25,000.
-- **C - Incorrect.** Contribution is Rs 2,70,000.
-- **D - Correct.** `3,00,000/(500-200) = 1,000 acres`.
-
-**MCQ 33: A**
-
-- **A - Correct.** Actual loss and index payout diverge.
-- **B - Incorrect.** This is a credit-cost issue.
-- **C - Incorrect.** Aggregation addresses scale and transaction cost.
-- **D - Incorrect.** Measurement alone is not basis risk.
-
-**MCQ 34: B**
-
-- **A - Incorrect.** Common storage is not necessary.
-- **B - Correct.** Connection can coexist with distributed authoritative sources.
-- **C - Incorrect.** Control depends on rights and design, not topology alone.
-- **D - Incorrect.** A federated system can be interoperable.
-
-**MCQ 35: C**
-
-- **A - Incorrect.** Volume can increase noise.
-- **B - Incorrect.** Code size says little about user information quality.
-- **C - Correct.** It follows the information-to-action-to-outcome chain.
-- **D - Incorrect.** Interface aesthetics alone are not evidence.
-
-**MCQ 36: D**
-
-- **A - Incorrect.** Algorithms can operationalise the conflict.
-- **B - Incorrect.** Risk can be governed without rejecting useful advice.
-- **C - Incorrect.** Concealment undermines informed choice.
-- **D - Correct.** It addresses both transparency and conduct.
-
-**MCQ 37: A**
-
-- **A - Correct.** It tests welfare, distribution and operational sustainability.
-- **B - Incorrect.** Attendance is an activity metric.
-- **C - Incorrect.** Subsidised registration may not persist.
-- **D - Incorrect.** One case is not representative evidence.
-
-**MCQ 38: B**
-
-- **A - Incorrect.** It entrenches lock-in.
-- **B - Correct.** It enables entry and experimentation while preserving rights.
-- **C - Incorrect.** Tying weakens choice and can transmit market power.
-- **D - Incorrect.** High-stakes automation needs reasons and appeal.
 ## Cumulative applied calculations
 
 ### Case 1: shared drone service
@@ -2653,13 +2917,15 @@ Simple difference-in-differences estimate:
 
 ### Model answer
 
-AI advisory can combine weather, soil, crop images and scientific knowledge to provide timely, multilingual guidance. It can extend scarce experts, identify pest stress, prioritise field visits and support sowing, irrigation and input decisions. Voice delivery can reduce literacy barriers.
+AI advisory can combine weather, soil, crop images and knowledge to provide timely, multilingual guidance. It can extend scarce experts, identify pest stress, prioritise field visits and support sowing, irrigation and input decisions. Voice delivery can reduce literacy barriers.
 
 However, training data may under-represent rainfed, intercropped or region-specific farms. Poor images, stale profiles and distribution shift can create false confidence: false positives induce wasteful spraying, while false negatives cause crop loss. Commercial platforms may also recommend products that maximise commission. Shared phones, weak connectivity and inability to buy the advised input break the last mile.
 
 Policy should require local validation, confidence and version records, conflict disclosure, data minimisation and labelled sponsorship. Low-confidence or high-stakes cases should escalate to accountable experts. Farmers need explanations, feedback and remedy. Evaluation must test timely correct action, net income, environmental effect and subgroup performance, not queries answered.
 
 Thus AI should augment, not erase, agricultural extension.
+
+**Unique rubric and ceiling:** 2 marks for mechanism + 3 marks for benefits + 3 marks for risks + 2 marks for safeguards = 10 marks; keep the response within 150 words.
 
 ## Original 15-mark question - institutional reform
 
@@ -2675,9 +2941,11 @@ Third, digital platforms alter market power. Network effects can widen markets, 
 
 Thus the appropriate model is federated public digital infrastructure with contestable service layers, human-assisted inclusion and strong grievance. Success should be measured from correct representation and useful adoption to risk-adjusted net income, resilience and agency. Technology changes capability; institutions decide who benefits, who bears error and whether the system remains accountable.
 
+**Unique rubric and ceiling:** 3 marks for architecture + 5 marks for institutional dimensions + 4 marks for evidence and trade-offs + 3 marks for the verdict = 15 marks; maximum 250 words.
+
 ## Original 20-mark question - digital finance and insurance
 
-**Question:** Digital credit and technology-based crop insurance can reduce transaction costs while creating new forms of exclusion and basis risk. Analyse and suggest a farmer-centred regulatory architecture. (300 words)
+**Question:** Digital credit and technology-based crop insurance can reduce transaction costs while creating new forms of exclusion and basis risk. Analyse and suggest a farmer-centred regulatory architecture. (Maximum 250 words)
 
 ### Model answer
 
@@ -2690,6 +2958,8 @@ In insurance, area or model-based triggers can diverge from an individual farmer
 Reform should align repayment with crop cash flow, disclose total credit cost, provide principal reasons for rejection and permit data correction. Insurance requires validated models, representative ground checks, published triggers, exceptional-loss appeal and time-bound settlement. Assisted and offline channels must remain available.
 
 The policy objective is not maximum digital disbursement or enrolment, but suitable finance and reliable protection that improve risk-adjusted net income without sacrificing dignity, choice or remedy.
+
+**Unique rubric and ceiling:** 4 marks for transaction-cost channels + 6 marks for exclusion and basis-risk analysis + 6 marks for regulation + 4 marks for the conclusion = 20 marks; maximum 250 words.
 
 # REMEDIATION
 
@@ -2706,65 +2976,24 @@ The policy objective is not maximum digital disbursement or enrolment, but suita
 | treated a pilot as scalable | rebuild unit economics with routine support and representative users |
 | treated technology as causal | specify comparison/counterfactual and alternative explanations |
 
-## Remediation MCQs
+## Remediation concept drills
 
-**MCQ 39. A state reports 95% Farmer ID coverage but tenants rarely receive crop-loss relief. The first diagnostic question should be:**
+### Proxy error
+**Prompt:** Repair the statement: "A verified landowner is the verified cultivator."
+**Repair model:** Title and seasonal cultivation are separate; retain cultivator evidence, crop/time fields, correction and appeal.
 
-A. whether the portal uses enough colours.  
-B. whether satellite images exist anywhere in India.  
-C. whether identity/land records are being used as a proxy for actual cultivation without a tenant-recognition and correction process.  
-D. whether every farmer owns a drone.
+### Rebound
+**Prompt:** Explain why a 20% per-acre water saving may coexist with higher groundwater extraction.
+**Repair model:** Lower unit cost can expand irrigated area or change crops; monitor total basin use.
 
-**MCQ 40. A precision-irrigation service saves 20% water per acre, but total groundwater extraction rises after farmers expand irrigated acreage. This is:**
+### Lock-in
+**Prompt:** Name four procurement controls that make exit credible.
+**Repair model:** Usable export, transition assistance, continuity obligations and defined exit/deletion responsibility.
 
-A. proof that measurement is impossible.  
-B. basis risk.  
-C. adverse selection in insurance.  
-D. a rebound effect in which efficiency per unit does not reduce aggregate use.
+### Evaluation
+**Prompt:** Repair: "The project succeeded because registrations exceeded target."
+**Repair model:** Report repeated correct use, risk-adjusted welfare, subgroup distribution, grievance and remaining defects before scale.
 
-**MCQ 41. Which procurement clause most improves long-term contestability?**
-
-A. Open export formats, transition assistance, continuity obligations and a capped/defined exit cost.  
-B. Mandatory deletion of farmer records on exit.  
-C. Undocumented proprietary interfaces.  
-D. Automatic contract renewal without performance review.
-
-**MCQ 42. Which final evaluation statement is most defensible?**
-
-A. "The project succeeded because it used AI."  
-B. "The project improved risk-adjusted net income and service timeliness for most groups, but tenant exclusion and appeal delay require redesign before wider scale."  
-C. "The project succeeded because registrations exceeded target."  
-D. "The project failed because complaints increased."
-
-#### Answers and explanations
-
-**MCQ 39: C**
-
-- **A - Incorrect.** Visual design is not the primary entitlement issue.
-- **B - Incorrect.** General image availability does not resolve tenure mapping.
-- **C - Correct.** High identity coverage can coexist with cultivator exclusion.
-- **D - Incorrect.** Equipment ownership is irrelevant to relief identity.
-
-**MCQ 40: D**
-
-- **A - Incorrect.** Both per-acre and total use can be measured.
-- **B - Incorrect.** No insurance index-payout mismatch is described.
-- **C - Incorrect.** No risk-based selection into insurance is involved.
-- **D - Correct.** Behavioural expansion offsets efficiency.
-
-**MCQ 41: A**
-
-- **A - Correct.** It makes exit operationally credible.
-- **B - Incorrect.** Farmers should not lose legitimate history, though vendors should delete unauthorised copies.
-- **C - Incorrect.** Opacity raises switching cost.
-- **D - Incorrect.** Automatic renewal weakens discipline.
-
-**MCQ 42: B**
-
-- **A - Incorrect.** Technology type is not an outcome.
-- **B - Correct.** It combines impact, distribution, qualification and an actionable decision.
-- **C - Incorrect.** Target completion is an activity result.
-- **D - Incorrect.** Complaint increase may reflect harm or improved access to remedy.
 ## Four compact reteach diagrams
 
 ### Reteach 1 - Identity
@@ -2887,12 +3116,12 @@ Simple LTV approximation = annual contribution margin/(1 - retention rate)
 
 ## Governance checklist - PURPOSE
 
-> **P - Purpose:** exact service and lawful basis  
-> **U - User:** owner, cultivator, tenant, group and vulnerable user correctly represented  
-> **R - Record:** provenance, timestamp, confidence and correction  
-> **P - Portability:** interoperable format, multi-homing and exit  
-> **O - Oversight:** human authority for high-stakes exceptions  
-> **S - Security:** confidentiality, integrity, availability and recovery  
+> **P - Purpose:** exact service and lawful basis
+> **U - User:** owner, cultivator, tenant, group and vulnerable user correctly represented
+> **R - Record:** provenance, timestamp, confidence and correction
+> **P - Portability:** interoperable format, multi-homing and exit
+> **O - Oversight:** human authority for high-stakes exceptions
+> **S - Security:** confidentiality, integrity, availability and recovery
 > **E - Evaluation:** net value, distribution, resilience and grievance
 
 ## Prelims traps
@@ -3005,7 +3234,7 @@ net income -> resilience -> distribution -> environmental effect -> agency
 
 - Federation distributes authoritative responsibility; interoperability connects authorised functions.
 - The Data Fiduciary determines purpose and means; the Data Principal is the individual whose personal data are processed.
-- DPDP Rules were notified in 2025 with phased commencement; do not describe scheduled duties as already fully operational on 25 September 2026.
+- DPDP Rules were notified in 2025 with phased commencement; do not describe scheduled duties as already fully operational on 3 October 2026.
 - Meaningful consent is specific, informed, voluntary, granular, revocable, time-bound and auditable.
 - Consent cannot legitimise unlimited purpose creep, excessive retention or insecure processing.
 - Agricultural governance also covers household, parcel, inferred and community data that may not fit a simple personal-data checkbox.
@@ -3071,6 +3300,21 @@ net income -> resilience -> distribution -> environmental effect -> agency
 - Prefer modular, interoperable and reversible policy; maintain human escalation for high-stakes exceptions.
 - Scale only after technical validity, service economics, inclusion, grievance and outcome evidence.
 
+## 16. Optional Advanced analytical models
+
+- **Information asymmetry:** more farmer data can coexist with less farmer knowledge of model confidence, ranking and commercial motive.
+- **Principal-agent test:** ask what the government, vendor, platform, lender, insurer and human reviewer each optimise.
+- **Fixed-cost model:** realistic seasonal area, not rated capacity, determines service viability.
+- **Complementarity:** advisory needs finance/input access; sensing needs agronomy; markets need assaying/logistics; registries need correction.
+- **Network effects:** matching gains and concentration can rise together; test self-preferencing, tying, portability and multi-homing.
+- **Rebound:** lower resource use per acre does not prove lower aggregate extraction.
+- **Capability and autonomy:** prefer explainable decision support with effective choice over opaque command or forced bundling.
+- **Data quality:** accuracy, completeness, timeliness, consistency, provenance and contestability are distinct.
+- **Distribution:** early-adopter averages can conceal tenant, women-cultivator, rainfed, remote and minor-crop exclusion.
+- **Five scaling gates:** additionality, complementarity, distribution, contestability and durability.
+- **Scenario rule:** match confidence, human review and remedy to the consequence of error.
+- **Advanced verdict:** problem-first technology + viable service economics + accountable data + competitive complements + measurable farmer outcomes.
+
 ## Final twelve-point recall
 
 1. Begin with the farmer's decision problem, not the technology name.
@@ -3104,8 +3348,29 @@ net income -> resilience -> distribution -> environmental effect -> agency
 | cyber, manipulation, exclusion and grievance | 13 | Error clinic; PURPOSE checklist |
 | registration-to-income/resilience metrics | 14 | Applied Case 2; results ladder |
 | adoption and policy scenarios | 15 | final verdict and 12-point recall |
+| information and principal-agent analysis | 16 | advanced incentive matrix |
+| fixed cost, complementarity and rebound | 17 | advanced viability tests |
+| network effects and autonomy | 18 | platform-power analysis |
+| data quality and contestability | 19 | record-to-remedy architecture |
+| distribution and inclusion-by-design | 20 | capability analysis |
+| causal evidence and persistence | 21 | scaling gates |
+| integrated advanced scenarios | 22 | AI/insurance/drone/registry synthesis |
 
 # SOURCE LEDGER
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | `upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md` plus cross-owners 13, 14, 15 and 29 audited |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Layered/complete session | checked | Existing target live edition used only as the in-place repair baseline |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | `upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md` mapped to Lessons 16-22 |
+| OCR books | checked | `books/Indian economy ramesh singh.pdf`; older-edition concepts used without treating its statistics as current |
+| PYQs through 2026 | checked | 2018-2023 and 2024-2025 routing ledgers plus `_PYQ-GS1-2026.md` and `_PYQ-GS3-2026.md`; missing objective key never inferred |
+| Official live sources | checked | Agriculture Ministry Digital Agriculture Division directly rechecked 3 October 2026; PIB, ISRO, ICAR, MeitY, RBI, NABARD and e-NAM claims retained only within stated status boundaries |
+
 
 ## A. Canonical repository sources
 
@@ -3113,8 +3378,6 @@ net income -> resilience -> distribution -> environmental effect -> agency
 |---|---|---|
 | `upsc-ai-kit/knowledge/Economy/basic/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md` | Core definitions, farm-cycle architecture, AgriStack/Krishi-DSS, remote-sensing boundaries, e-NAM complements and PYQ routing | Stable owner audited before generation |
 | `upsc-ai-kit/knowledge/Economy/advanced/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md` | Information economics, shared-service economics, network effects, principal-agent problems, rebound, evaluation and scenarios | Analytical owner audited before generation |
-| `upsc-ai-kit/knowledge/Economy/27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers_Learner-V2-Complete-Topic-Package.md` | Coverage inventory and prior examples | Used as a gap source; repetitive shell not reused |
-| matching v2 and refreshed g3 Topic 27 session/workbooks | Prior coverage, practice and review controls | Audited; contaminated/repetitive practice excluded |
 | Economy PYQ routing ledgers 2018-2023, 2024-2025 and 2026 | Exact routing, marks and wording | Audited through 2026 |
 | `notes/Economy/PYQ_Prelims_Economy_2024.md` | 2024 Set A Q26 wording and official-key digest | Answer (a) used only for verified PYQ |
 | `notes/Economy/Ref_EconomicSurvey_2025-26.md` | Local digest of official Economic Survey references to Digital Agriculture Mission and e-NAM | Supporting current linkage |
@@ -3127,19 +3390,19 @@ net income -> resilience -> distribution -> environmental effect -> agency
 
 ## C. Official live sources
 
-All web sources below were retrieved on **25 September 2026**.
+Official live material was retrieved or rechecked through **3 October 2026**. The Agriculture Ministry page was directly fetched; inaccessible pages retain only previously verified stable claims and no new count.
 
 | Institution/source | Publication or status date | Claim used |
 |---|---:|---|
-| Ministry of Agriculture and Farmers Welfare, Digital Agriculture Division (`agriwelfare.gov.in/en/DigiAgriDiv`) | live page status retrieved 25 September 2026; Krishi-DSS launch stated as 16 August 2024 | federated AgriStack; registry components; current page-reported rollout counts; Krishi-DSS functions; Bharat-VISTAAR description; DCS/DCCES/MNCFC roles |
+| Ministry of Agriculture and Farmers Welfare, Digital Agriculture Division (`agriwelfare.gov.in/en/DigiAgriDiv`) | live page status retrieved 3 October 2026; Krishi-DSS launch stated as 16 August 2024 | federated AgriStack; registry components; current page-reported rollout counts; Krishi-DSS functions; Bharat-VISTAAR description; DCS/DCCES/MNCFC roles; 1:10,000 soil-resource mapping; AgriStack Gold Award at NCeG 2026 |
 | PIB, Digital Agriculture Mission explainer (`PRID=2051719`) | 4 September 2024, reporting Cabinet approval of 2 September 2024 | mission architecture and transformation objective |
-| ISRO, Agriculture and Soil; crop-area and soil-moisture updates | official pages retrieved 25 September 2026; specific updates dated on their pages | FASAL, acreage/condition/drought applications and soil-moisture products; used with explicit error boundaries |
+| ISRO, Agriculture and Soil; crop-area and soil-moisture updates | official pages retrieved 3 October 2026; specific updates dated on their pages | FASAL, acreage/condition/drought applications and soil-moisture products; used with explicit error boundaries |
 | ICAR technical-report and 2025-26 official material | technical report dated March 2024; 2025-26 highlights/2026 rollout material | IoT/AI/precision-farming and AI-advisory context; no unverified outcome claim |
 | RBI, NBFC-Account Aggregator Directions | issued 28 November 2025; effective on website placement | consent artefact and financial-information-sharing boundary |
 | RBI, Digital Lending Directions press release | 8 May 2025 | consolidated borrower-protection framework, multi-lender transparency and DLA directory |
-| MeitY, DPDP Act/Rules official material | Act 2023; Rules notified 13 November 2025 with phased commencement; status checked 25 September 2026 | data principal/fiduciary, notice, purpose, consent, withdrawal, security and grievance vocabulary; later-phase duties are not presented as already fully enforceable |
+| MeitY, DPDP Act/Rules official material | Act 2023; Rules notified 13 November 2025 with phased commencement; status checked 3 October 2026 | data principal/fiduciary, notice, purpose, consent, withdrawal, security and grievance vocabulary; later-phase duties are not presented as already fully enforceable |
 | NABARD Annual Report 2023-24, "Driving Growth through Agricultural Innovation" | FY 2023-24 | FSPF and capacity-building emphasis; dated project/beneficiary figures were reviewed but not used as current 2026 performance |
-| e-NAM official home, FPO and learning pages | live status retrieved 25 September 2026 | assaying, aggregation, payment and logistics as complements; current counts omitted where not needed |
+| e-NAM official home, FPO and learning pages | live status retrieved 3 October 2026 | assaying, aggregation, payment and logistics as complements; current counts omitted where not needed |
 
 ## D. Claim discipline
 
