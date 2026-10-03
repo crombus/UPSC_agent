@@ -251,6 +251,7 @@
 | Polity | Topic 48 - Ministries, Departments and Central Secretariat | 12 | 15,560 | `3a13556a63ba` | [Polity/48-Ministries-Departments-and-Central-Secretariat/Learning-Session-Live-Edition.md](Polity/48-Ministries-Departments-and-Central-Secretariat/Learning-Session-Live-Edition.md) |
 | Polity | Topic 49 - Regulatory State and Quasi-Judicial Institutions | 15 | 22,291 | `f84d23c631c9` | [Polity/49-Regulatory-State-and-Quasi-Judicial-Institutions/Learning-Session-Live-Edition.md](Polity/49-Regulatory-State-and-Quasi-Judicial-Institutions/Learning-Session-Live-Edition.md) |
 | Polity | Topic 50 - Concept of the Constitution | 10 | 11,780 | `e323b07ae0b4` | [Polity/50-Concept-of-the-Constitution/Learning-Session-Live-Edition.md](Polity/50-Concept-of-the-Constitution/Learning-Session-Live-Edition.md) |
+| Polity | Topic 51 - Rights and Liabilities of the Government | 9 | 14,692 | `aca05346a39e` | [Polity/51-Rights-and-Liabilities-of-the-Government/Learning-Session-Live-Edition.md](Polity/51-Rights-and-Liabilities-of-the-Government/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
