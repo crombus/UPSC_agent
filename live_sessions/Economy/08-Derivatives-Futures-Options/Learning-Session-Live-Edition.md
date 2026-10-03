@@ -1,2274 +1,1628 @@
-# Derivatives, Futures and Options - Live Session Edition
+# Economy 08: Securities, Bonds, Equity, Derivatives and Investment Funds — Live Session Edition
 
-> Source: completed guided session from the current Copilot conversation.
-> Substantive teaching, visuals, questions, explanations and remediation are preserved.
-> Navigation-only turns, tool logs, tracker operations and unrelated administrative chatter are excluded.
-
-# Derivatives, Futures and Options
+> Complete learner-first treatment of the canonical Core, followed by a distinct optional Advanced block.
 
 ## Roadmap
 
-| # | Subtopic |
-|---:|---|
-| 1 | Derivative foundations: underlying asset, long/short positions, hedging and speculation |
-| 2 | Forward contracts: price locking, settlement and counterparty risk |
-| 3 | Futures: standardisation, margins, leverage and daily mark-to-market |
-| 4 | Options: calls, puts, strike price, premium and expiry |
-| 5 | Four payoff positions: long call, short call, long put and short put |
-| 6 | Moneyness, intrinsic value, time value and break-even |
-| 7 | Practical hedging: farmers, importers, exporters and equity investors |
-| 8 | Basis risk, option-writing risk, swaps, PYQs and final synthesis |
+| # | Lesson | Stage |
+|---:|---|---|
+| 1 | Securities architecture and claim reading | Foundation |
+| 2 | Primary/secondary markets and the security life cycle | Foundation |
+| 3 | Equity, preference shares, corporate actions and valuation | Core |
+| 4 | Government and corporate bonds; price, yield and duration | Core |
+| 5 | Special bonds, credit risk and labelled debt | Core |
+| 6 | Forwards, futures, margins, MTM and basis | Core |
+| 7 | Options, payoffs, moneyness and premium | Core |
+| 8 | Swaps, credit derivatives and hedge design | Core |
+| 9 | Mutual funds: structure, NAV, costs and liquidity | Core |
+| 10 | ETFs, AIFs, REITs, InvITs and other pools | Core |
+| 11 | Regulators, intermediaries, settlement and protection | Core |
+| 12 | Official reform docket through 3 October 2026 and Core synthesis | Core |
+| 13 | Duration/convexity, option sensitivities and liquidity transformation | Advanced |
+| 14 | Tokenisation, portfolio suitability and systemic risk | Advanced |
 
-**Method:** numerical examples → payoff diagrams → adaptive MCQs.
-**Estimated effort:** 8 focused lessons.
+```text
+SAVINGS → LEGAL CLAIM → ISSUE/TRADE → CLEAR/SETTLE/CUSTODY → RETURN/RISK → OUTCOME
+```
 
-Type **Start** to begin derivative foundations.
+## Lesson 1 — Securities architecture and claim reading
 
----
+Progress: 1/14 | Stage: Foundation | Subtopic: Legal claim before advertised return
 
-━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
-📚 **Book context:** Economy 08 Basic and Advanced files queried
-🔍 **CA Search:** “Indian derivatives, hedging, leverage and retail risk, March–September 2026”
-📰 **CA Found:** SEBI continued tightening position-limit and risk controls in derivatives markets, reflecting concern over leverage, excessive speculation and retail losses
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — canonical securities-market foundations
+CA search: "Official India securities markets through 3 October 2026"
+CA found: reserved for the single consolidated current linkage in Lesson 12
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Progress: 1/8 | Stage: Foundation | Subtopic: What Is a Derivative?**
-
-## 🖼️ Basic idea
+### Claim-first diagnostic
 
 ```text
-             UNDERLYING
-     Share / index / wheat / gold
-      currency / bond / interest rate
-                  │
-                  │ determines value
-                  ▼
-             DERIVATIVE
-     Futures / option / forward / swap
+Savers ──funds──► financial claim ──finance──► issuer/project
+                        │
+        ┌───────────────┼───────────────┐
+      DEBT            EQUITY          POOL / DERIVATIVE
+   creditor claim   residual owner   units / linked payoff
 ```
 
-A **derivative is a financial contract whose value depends on—or is derived from—another asset, price, rate or index.**
+A **security** is a marketable financial claim. Read every product through seven questions: who creates it; what legal claim the holder receives; what cash flow follows; when it matures; how it trades; whether it embeds leverage; and which regulator and infrastructure apply. Debt creates a creditor claim, equity residual ownership, a fund unit a proportionate pooled claim, and a derivative contractual exposure without necessarily transferring the underlying.
 
-> 🔑 The underlying is the reference; the derivative is the contract built around it.
+Markets mobilise savings, allocate capital, discover prices, provide liquidity and transfer risk. They price and redistribute risk; they do not abolish it. Topic 07 supplies the broad money/capital-market map. This topic examines the inside mechanics of claims, valuation, pooling, leverage and protection.
 
-## 1. Underlying versus derivative
-
-| Underlying | Possible derivative |
-|---|---|
-| Reliance share | Reliance futures or options |
-| Nifty 50 index | Nifty futures or options |
-| Wheat | Wheat futures |
-| Gold | Gold futures/options |
-| US dollar–rupee rate | Currency forward/future/option |
-| Government bond | Interest-rate future |
-| Interest rate | Interest-rate swap |
-
-### Example
-
-```text
-Wheat                 = physical commodity
-Wheat futures         = contract linked to wheat price
-
-Company share         = ownership in company
-Share option          = contract linked to share price
-
-US dollar             = currency
-USD-INR forward       = contract linked to exchange rate
-```
-
-Buying a derivative does not necessarily mean owning the underlying asset.
-
-## 2. Why derivatives exist
-
-Businesses and investors face uncertain future prices.
-
-```text
-Farmer fears wheat price will fall
-Importer fears dollar will rise
-Airline fears fuel price will rise
-Investor fears share portfolio will fall
-Bank fears interest rates will change
-```
-
-A derivative allows this price risk to be transferred or reshaped.
-
-```text
-Party wanting less risk
-          ↓ transfers exposure
-Derivative market
-          ↓
-Party willing to accept exposure
-```
-
-Risk is not destroyed; it is transferred between parties.
-
-## 3. Essential contract elements
-
-Most derivatives specify:
-
-| Element | Meaning |
-|---|---|
-| Underlying | Asset/rate determining contract value |
-| Quantity | Amount covered |
-| Agreed price/strike | Relevant contractual price |
-| Expiry/maturity | Date on which contract ends |
-| Settlement | Physical delivery or cash payment |
-| Counterparties | Parties assuming opposite positions |
-
-## 4. Long and short positions
-
-For a simple linear contract such as a forward or future:
-
-### Long position
-
-The long party benefits when the underlying price rises.
-
-```text
-Agreed purchase price = ₹100
-Market price at expiry = ₹130
-                       ↓
-Long benefits by ₹30
-```
-
-### Short position
-
-The short party benefits when the underlying price falls.
-
-```text
-Agreed selling price = ₹100
-Market price at expiry = ₹70
-                       ↓
-Short benefits by ₹30
-```
-
-## 🖼️ Opposite payoff
-
-```text
-Underlying price rises
-     Long gains ←→ Short loses
-
-Underlying price falls
-     Long loses ←→ Short gains
-```
-
-This simple symmetry applies directly to forwards and futures. Options have asymmetrical rights and obligations, which we will study separately.
-
-## 5. Hedging
-
-A hedge uses a derivative to reduce an existing economic risk.
-
-### Farmer example
-
-A farmer expects to harvest wheat after three months and fears a price decline.
-
-```text
-Existing exposure:
-Farmer benefits if wheat price rises
-Farmer suffers if wheat price falls
-
-Hedge:
-Take a derivative position that benefits when wheat falls
-```
-
-If the wheat price falls:
-
-- farmer receives less in the physical market;
-- derivative position gains;
-- the gain offsets part of the physical-market loss.
-
-### Importer example
-
-An Indian importer must pay $1 million after three months.
-
-```text
-Risk: Rupee may depreciate
-      ₹83/$ → ₹88/$
-             ↓
-Dollar payment becomes costlier
-```
-
-The importer can lock or hedge the future exchange rate through a currency derivative.
-
-> 🔑 **Hedging begins with a pre-existing risk.**
-
-## 6. Speculation
-
-A speculator deliberately takes price risk to earn a profit.
-
-```text
-No wheat crop
-No dollar payment
-No existing portfolio exposure
-             ↓
-Trader takes derivative position
-because a price movement is expected
-```
-
-Example: A trader buys Nifty futures solely because they expect the index to rise.
-
-| Hedger | Speculator |
-|---|---|
-| Already faces underlying risk | Intentionally takes new risk |
-| Seeks greater certainty | Seeks profit from price movement |
-| Derivative offsets exposure | Derivative creates exposure |
-| Accepts reduced upside for protection | Accepts losses if prediction fails |
-
-The same futures contract can be used by one party for hedging and another for speculation.
-
-## 7. Arbitrage
-
-Arbitrage exploits inconsistent prices in related markets.
-
-Example:
-
-```text
-Fair value of asset: ₹100
-Same economic exposure available elsewhere: ₹105
-                  ↓
-Buy cheaper exposure
-Sell costlier exposure
-                  ↓
-Attempt near-riskless profit
-```
-
-Arbitrage activity helps bring related prices back into alignment.
-
-True risk-free arbitrage is difficult because of:
-
-- transaction costs;
-- taxes;
-- funding costs;
-- execution delays;
-- settlement risk;
-- market impact.
-
-## 8. Cash versus physical settlement
-
-### Physical settlement
-
-The underlying asset is delivered.
-
-```text
-Seller delivers commodity/shares
-Buyer makes payment
-```
-
-### Cash settlement
-
-No physical asset is delivered. The parties exchange the price difference.
-
-```text
-Agreed index level: 20,000
-Final index level: 21,000
-Difference settled in cash
-```
-
-An index itself cannot ordinarily be physically delivered, so index derivatives are commonly cash-settled.
-
-## 9. Derivatives do not require a price rise
-
-Investors can construct exposure to:
-
-- rising prices;
-- falling prices;
-- volatility;
-- interest-rate changes;
-- exchange-rate movements;
-- relative price differences.
-
-This differs from ordinary cash-market investment, where profit is often associated mainly with buying an asset and hoping its price rises.
-
-## 10. Leverage preview
-
-Derivatives often require only margin or premium rather than the full underlying value.
-
-```text
-Underlying exposure = ₹10 lakh
-Margin paid         = ₹1 lakh
-                     ↓
-₹1 lakh controls ₹10 lakh exposure
-```
-
-This is leverage.
-
-If the underlying moves 5%:
-
-\[
-5\%\times ₹10\text{ lakh}=₹50,000
-\]
-
-That ₹50,000 equals 50% of the ₹1 lakh margin.
-
-Leverage magnifies both gains and losses.
-
-## 11. Economic usefulness
-
-Derivatives can support:
-
-- risk management;
-- price discovery;
-- future-price planning;
-- market liquidity;
-- portfolio management;
-- lower uncertainty for businesses.
-
-But poorly controlled derivatives can create:
-
-- excessive leverage;
-- margin calls;
-- speculative losses;
-- counterparty exposure;
-- market manipulation;
-- systemic contagion.
-
-## 12. Current-affairs anchor
-
-✅ **Fact:** SEBI regulates exchange-traded securities and commodity derivatives, while RBI governs specified interest-rate, currency and OTC derivative activity within its jurisdiction.
-
-✅ **Fact:** Position limits and margins are used to contain excessive concentration and default risk.
-
-⚠️ **Inference:** High retail losses arise partly because leveraged derivatives are treated as simple directional bets rather than risk-management contracts.
-
-```text
-Small margin
-     ↓
-Large exposure
-     ↓
-Small price error
-     ↓
-Large percentage loss
-```
-
-## UPSC traps
-
-1. Every derivative holder owns the underlying asset — incorrect.
-2. Every derivative reduces risk — incorrect.
-3. Hedging and speculation use completely different contracts — incorrect.
-4. Risk disappears when hedged — incorrect; it is transferred or offset.
-5. Short positions always mean borrowing money — incorrect.
-6. Index derivatives must physically deliver the index — impossible.
-7. Margin is the total economic exposure — incorrect.
-8. Derivatives have no real-economy use — incorrect.
-
-## Revision notes
-
-1. A derivative derives value from an underlying.
-2. Underlyings include assets, indices, currencies and rates.
-3. A derivative is a contract, not necessarily ownership.
-4. Long linear positions benefit from rising prices.
-5. Short linear positions benefit from falling prices.
-6. Hedgers reduce pre-existing exposure.
-7. Speculators deliberately assume exposure.
-8. Arbitrage exploits price inconsistencies.
-9. Settlement may be physical or cash-based.
-10. Risk is transferred, not destroyed.
-11. Margin can create leverage.
-12. Leverage magnifies both gains and losses.
-
-### MCQ 1
-
-Consider the following statements:
-
-1. A person must own the underlying asset before entering every derivative contract.
-2. A hedger uses derivatives to reduce an already existing economic exposure.
-3. A speculator can use the same derivative contract that another participant uses for hedging.
-4. Cash-settled derivatives necessarily require physical delivery of the underlying.
-
-Which statements are correct?
-
-**A. 1 and 2 only**
-**B. 1, 3 and 4 only**
-**C. 2 and 3 only**
-**D. 2, 3 and 4 only**
-
----
-
-**Correct answer: C. 2 and 3 only**
-
-- **1 — Incorrect:** Derivatives can be entered without owning the underlying asset.
-- **2 — Correct:** Hedging reduces an existing price, interest-rate or currency risk.
-- **3 — Correct:** The same contract may hedge one participant’s risk while enabling another to speculate.
-- **4 — Incorrect:** Cash-settled derivatives settle through the price difference, not physical delivery.
-
----
-
-**Learner question / doubt**
-
-> shal we to next mcq
-
-### MCQ 2
-
-Consider the following statements:
-
-1. The value of a derivative is linked to an underlying asset or variable.
-2. Derivatives can be based on interest rates, currencies and market indices.
-3. Every derivative contract guarantees profits to one of its parties.
-4. Derivatives may facilitate both risk transfer and price discovery.
-
-Which statements are correct?
-
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1, 3 and 4 only
-D. 1, 2 and 4 only
-
----
-
-✅ **Correct: D — 1, 2 and 4 only**
-
-Statement 3 is incorrect because derivatives transfer risk; they do not guarantee profit.
-
-### MCQ 3
-
-Which situation best represents **hedging** through derivatives?
-
-A. An importer buys a currency future to protect against rupee depreciation.
-B. A trader buys an index future solely because they expect the market to rise.
-C. An investor purchases shares for long-term dividends.
-D. A company issues bonds to finance a factory.
-
----
-
-✅ **Correct: A**
-
-The importer already faces currency risk; buying currency futures offsets potential losses from rupee depreciation.
-
-**MCQ loop cleared: 2 consecutive correct.**
-
----
-
-━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
-📚 **Book context:** Queried—local Economy 08 Markdown and *Indian Economy* reference PDF
-🔍 **CA Search:** “India derivatives futures forwards RBI SEBI April–September 2026”
-📰 **CA Found:** RBI issued the **Credit Derivatives Directions, 2026** on **25 June 2026**, covering OTC and exchange-traded contracts
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Progress: 2/8 | Stage: Foundation | Subtopic: Forwards vs Futures**
-
-## 🖼️ Visual comparison
-
-| Feature | Forward | Future |
+| Claim | Return | Main risk |
 |---|---|---|
-| Trading venue | OTC/private agreement | Recognised exchange |
-| Contract terms | Customised | Standardised |
-| Quantity/date/quality | Negotiable | Exchange-defined |
-| Counterparty | Known contracting party | Clearing corporation intervenes |
-| Margin | Depends on agreement | Initial and maintenance margin |
-| Profit/loss settlement | Usually at maturity | Daily mark-to-market |
-| Liquidity | Generally lower | Generally higher |
-| Counterparty risk | Relatively high | Reduced through clearing |
-| Exit | Requires cancellation or opposite agreement | Offset through opposite exchange trade |
-| Obligation | Both parties | Both parties |
+| Debt | Coupon/discount and principal | Default, duration, liquidity |
+| Equity | Dividend and price change | Business and market loss |
+| Fund unit | NAV/market-price change, distribution | Portfolio, fee, liquidity |
+| Derivative | Contract payoff | Leverage, basis, volatility, counterparty |
 
-```text
-FORWARD
-Buyer ───── customised private contract ───── Seller
-              Direct counterparty risk
+**Objection:** Deep markets may encourage speculation. **Reply:** liquidity and hedging can lower financing costs. **Residual:** disclosure, margins and conduct controls remain essential.
 
-FUTURE
-Buyer ── Broker ── Clearing Corporation ── Broker ── Seller
-                      ↑
-              margin + daily MTM
-```
+### PYQ transfer before recap
 
-*A futures exchange converts a customised bilateral promise into a standardised, collateralised and regularly settled contract.*
+### Lesson-local verified PYQ — 2025 Prelims GS-I, Q7
 
-## Core concept
+**Provenance:** Exact stem/options from `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`; routed by `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`. The official local key exists but remains undisclosed.
 
-### 1. Forward contract
 
-A **forward** is a private agreement to buy or sell an underlying asset at a predetermined price on a future date.
+**Exact stem:** Consider the following statements:
 
-**Example:** An Indian importer must pay **$1 million after three months**. It enters a forward contract with a bank to lock the rupee–dollar exchange rate.
+Statement I: As regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.
 
-- If the rupee depreciates, the forward protects the importer.
-- If the rupee appreciates, the importer cannot ordinarily abandon the contract merely because the market rate is better.
+Statement II: Bondholders are lenders to a company whereas stockholders are its owners.
 
-### 2. Futures contract
+Statement III: For repayment purpose, bondholders are prioritized over stockholders by a company.
 
-A **future** creates the same basic two-sided obligation, but it is:
+Which one of the following is correct in respect of the above statements?
 
-- exchange-traded;
-- standardised;
-- backed by margins;
-- marked to market regularly; and
-- supported by a clearing corporation.
+(a) Both Statement II and Statement III are correct and both of them explain Statement I
+(b) Both Statement I and Statement II are correct and Statement I explains Statement II
+(c) Only one of the Statements II and III is correct and that explains Statement I
+(d) Neither Statement II nor Statement III is correct
 
-> 🔑 **Mnemonic:** **FUTURES = Fixed Units, Transparent Exchange, Regular Settlement**
+**Approach:** Parse Statements I–III independently, record the concept asserted by each, and only afterward test every explanation relationship printed in the options. No statement or option is pre-judged.
 
-## Margin and mark-to-market
+### Transition
 
-```text
-Open futures position
-        ↓
-Deposit initial margin
-        ↓
-Market price changes daily
-        ↓
-Profit credited / Loss debited
-        ↓
-Margin falls too low?
-        ↓
-Additional margin required
-```
+Claim classification now feeds the issuance and settlement life cycle.
 
-**Margin is not the purchase price** of the underlying. It is performance security against potential losses.
+### Revision notes
 
-### Example
+1. Security means a marketable financial claim.
+2. Bondholders are creditors; shareholders are owners.
+3. Fund units are not insured deposits.
+4. Derivatives need not transfer the underlying.
+5. Primary issuance raises finance.
+6. Secondary trading supplies liquidity and prices.
+7. Regulation reduces failures, not market loss.
+8. Always identify claim, cash flow, leverage and regulator.
 
-You agree through a futures contract to buy an index at **20,000**.
+### Concept check
 
-| Closing level | Buyer’s position |
-|---:|---|
-| 20,300 | Gain of 300 points |
-| 19,700 | Loss of 300 points |
+**Question:** Why is legal-claim classification better than calling an instrument “safe”?
 
-The gain or loss is adjusted through mark-to-market settlement.
+**Model answer:** It reveals payment priority, control, cash-flow entitlement and loss absorption. Safety still varies with credit, duration, liquidity and market price.
 
-## Why clearing matters
+**Misconception to avoid:** Listing or regulation guarantees profit.
 
-The clearing corporation effectively becomes:
+### Lesson-local Mains practice
 
-- buyer to every seller; and
-- seller to every buyer.
+**Question (10 marks, 150 words):** Explain how securities markets mobilise savings without eliminating risk.
 
-It reduces the risk that one original party’s failure directly prevents settlement. However, it cannot eliminate:
+**Model:** Securities markets convert savings into defined claims. Primary issues finance governments, companies and asset pools; secondary liquidity and price discovery can lower the return demanded at issue. Bonds allocate creditor and duration risk, equity absorbs residual business risk, funds pool portfolios, and derivatives redistribute specified price risks. In India, SEBI disclosure and conduct rules, exchange surveillance, clearing-corporation margins and depository custody reduce information, counterparty and operational failures. They cannot remove default, inflation, rate, volatility, liquidity or mis-selling losses. The 2025 bondholder-stockholder PYQ captures the central mechanism: legal priority changes relative exposure, not the possibility of loss. Markets support capital formation when risks are transparent, priced and borne by capable participants—not when regulation is mistaken for a guarantee.
 
-- market risk;
-- leverage-related losses;
-- liquidity risk; or
-- basis risk.
-
-## Forward versus futures hedging
-
-| Economic exposure | Possible hedge |
-|---|---|
-| Importer fears rupee depreciation | Buy USD forward/future |
-| Exporter fears rupee appreciation | Sell USD forward/future |
-| Farmer fears crop-price decline | Sell commodity futures |
-| Food processor fears input-price rise | Buy commodity futures |
-
-✅ **Fact:** Both forwards and futures impose obligations on both parties.
-✅ **Fact:** Neither requires prior ownership of the underlying asset.
-✅ **Fact:** Settlement may be physical or cash-based, depending on contract design.
-⚠️ **Inference:** Futures are generally safer operationally than bilateral forwards, but leverage can still produce substantial losses.
-
-## CA anchor
-
-✅ RBI’s **Credit Derivatives Directions, 2026** distinguish between OTC and exchange-traded derivatives.
-
-- OTC products retain contractual flexibility.
-- Exchange-traded products gain standardisation and clearing support.
-- The same institutional distinction applies to understanding forwards and futures.
-
-## UPSC traps
-
-1. **“A futures buyer has a right but no obligation.”**
-   ❌ That describes an option buyer.
-
-2. **“Margin is the price paid for purchasing the asset.”**
-   ❌ Margin is performance security.
-
-3. **“Futures eliminate all risk.”**
-   ❌ Clearing reduces counterparty risk, not market risk.
-
-4. **“Cash settlement means the derivative had no underlying.”**
-   ❌ Its value still derives from the underlying; only settlement occurs through money.
-
-## Revision notes
-
-- Forward = customised OTC obligation.
-- Future = standardised exchange-traded obligation.
-- Both buyer and seller are bound.
-- Futures require margin and mark-to-market settlement.
-- Clearing corporations reduce counterparty risk.
-- Margin is not an option premium or asset purchase price.
-- Futures positions can normally be closed through an opposite trade.
-- Contracts may permit physical or cash settlement.
-- Hedging does not guarantee profit; it reduces uncertainty.
-- Basis risk arises when the hedge and actual exposure do not move identically.
-
-### MCQ 1
-
-Consider the following statements:
-
-1. Forward contracts are necessarily traded on recognised stock exchanges.
-2. Futures contracts generally involve standardisation and margin requirements.
-3. Both forward and futures contracts create obligations for the contracting parties.
-4. Clearing corporations eliminate the market risk arising from futures positions.
-
-Which statements are correct?
-
-A. 1 and 4 only
-B. 2 and 3 only
-C. 1, 2 and 3 only
-D. 2, 3 and 4 only
+**Rubric (10): mobilisation chain 2; instrument-specific risk allocation 2; named Indian institutions 2; PYQ evidence 1; residual risks 2; qualified conclusion 1.
 
 ---
 
-✅ **Correct: B — Statements 2 and 3 only**
+## Lesson 2 — Primary/secondary markets and the security life cycle
 
-- **1 incorrect:** Forwards are generally private OTC contracts.
-- **4 incorrect:** Clearing reduces counterparty risk, but market losses remain.
+Progress: 2/14 | Stage: Foundation | Subtopic: From issue design to final settlement
 
-### MCQ 2
-
-Regarding futures margins, consider the following statements:
-
-1. Initial margin is a security deposit rather than the full purchase price.
-2. Mark-to-market settlement periodically recognises gains and losses.
-3. A margin requirement guarantees that a participant cannot suffer losses.
-4. Additional margin may be demanded when losses substantially reduce the available margin.
-
-Which statements are correct?
-
-A. 1 and 2 only
-B. 2, 3 and 4 only
-C. 1, 2 and 4 only
-D. 1, 3 and 4 only
-
----
-
-✅ **Correct: C — Statements 1, 2 and 4**
-
-Margin provides loss protection to the clearing system but **does not guarantee that traders cannot lose money**.
-
-**Subtopic 2 mastered: 2/2 correct.**
-
----
-
-━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
-📚 **Book context:** Queried—Economy 08 knowledge files and local economy PDF
-🔍 **CA Search:** “SEBI index options investor risk April–September 2026”
-📰 **CA Found:** SEBI published an **August 2026 consultation paper on settlement and risk management**, continuing its scrutiny of derivatives-market risk
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — issuance and market infrastructure
+CA search: "India primary secondary securities market official"
+CA found: no separate linkage; current status appears in Lesson 12
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Progress: 3/8 | Stage: Core | Subtopic: Options—Calls, Puts and Payoffs**
-
-## 🖼️ Basic structure
+### Two-stage transaction rail
 
 ```text
-OPTION BUYER                           OPTION WRITER
-Pays premium ───────────────────────► Receives premium
-Gets a RIGHT                          Accepts an OBLIGATION
-Maximum loss = premium                Loss may be substantial
-Chooses whether to exercise           Must perform if exercised
+Financing need → disclosure/issue → PRIMARY ALLOTMENT → issuer gets funds
+Existing security → SECONDARY TRADE → clearing → settlement → depository record
 ```
 
-> 🔑 **Mnemonic:** **Buyer has a Choice; Writer carries the Commitment.**
+### Stage A — Issue and allotment
 
-## 1. What is an option?
+The **primary market** creates a new security. The **secondary market** transfers an existing claim between investors; the company ordinarily receives none of that resale price.
 
-An **option** gives its buyer the **right, but not the obligation**, to buy or sell an underlying asset at a predetermined **strike price**, within or on a specified date.
-
-The buyer pays an upfront **premium** to the option writer.
-
-| Term | Meaning |
+| Route | Distinction |
 |---|---|
-| Underlying | Asset or variable determining option value |
-| Strike price | Predetermined transaction price |
-| Premium | Price paid to acquire the option |
-| Expiry | Last date of the option contract |
-| Exercise | Using the contractual right |
-| Writer | Person who sells the option and assumes the obligation |
+| IPO | First public equity offer |
+| FPO | Later public issue by a listed company |
+| Rights issue | Proportionate offer to existing holders |
+| Bonus issue | Capitalisation of reserves; no fresh subscriber cash |
+| Private placement | Offer to a selected set under law |
+| Offer for sale | Existing holder sells; proceeds go to seller |
+| Buyback | Company repurchases eligible shares |
 
-## 2. Call option
+### Stage B — Intermediaries and post-trade rail
 
-A **call option** gives the buyer the right to **buy** the underlying at the strike price.
+Book building aids issue-price discovery. Merchant bankers manage issues, registrars process applications and allotment, exchanges match trades, clearing corporations determine obligations, and depositories update dematerialised ownership. Secondary liquidity can lower the return demanded at issuance, but excessive churn can add volatility.
 
-> 🔑 **Mnemonic:** **CALL = Call the asset towards you.**
+**Trap:** Underwriting supports issue completion; it does not certify quality. Listing creates a venue and disclosure duties; it does not promise appreciation.
 
-### Example
+### Transition
 
-You buy a Reliance call with:
+With ownership recorded, the analysis moves from market plumbing to equity economics.
 
-- strike price: ₹3,000;
-- premium: ₹100.
+### Revision notes
 
-| Market price at expiry | Exercise? | Gross payoff | Net result after premium |
-|---:|---|---:|---:|
-| ₹3,400 | Yes | ₹400 | **₹300 profit** |
-| ₹3,050 | Yes | ₹50 | **₹50 loss** |
-| ₹2,800 | No | ₹0 | **₹100 loss** |
+1. Primary issues create new claims.
+2. Secondary trades reallocate existing claims.
+3. IPO and FPO differ.
+4. Rights and bonus issues have different cash effects.
+5. Offer-for-sale proceeds normally go to the seller.
+6. Book building aids price discovery.
+7. Clearing, settlement and custody are separate.
+8. Secondary liquidity supports primary finance indirectly.
 
-Notice that exercise does not automatically mean profit. The market price must exceed the strike by more than the premium.
+### Concept check
+
+**Question:** How can secondary liquidity help an issuer that receives no resale money?
+
+**Model answer:** Easier exit and better price discovery broaden initial demand and can reduce the return premium required in the primary issue.
+
+**Misconception to avoid:** Every listed-share purchase finances the company.
+
+### Lesson-local Mains practice
+
+**Question (10 marks, 150 words):** Distinguish primary and secondary markets and explain their interdependence.
+
+**Model:** The primary market creates securities through IPOs, FPOs, rights issues, private placements and bond offers; fresh proceeds finance the issuer. The secondary market transfers existing claims among investors, ordinarily without funding the issuer. Their interdependence is economic and institutional. Observable resale prices, exit capacity and settlement certainty can reduce the liquidity premium on a new issue; credible disclosure at issue sustains later trading. Merchant bankers and registrars support issuance, while exchanges, clearing corporations and depositories complete matching, obligations and ownership transfer. Manipulation, weak offer documents or settlement failure in either segment raises the cost of capital in both. India therefore needs truthful issuance and robust post-trade infrastructure as one continuous securities life cycle.
+
+**Rubric (10): primary definition/routes 2; secondary definition 2; two-way linkage 3; named intermediaries 2; policy conclusion 1.
+
+---
+
+## Lesson 3 — Equity, preference shares, corporate actions and valuation
+
+Progress: 3/14 | Stage: Core | Subtopic: Residual ownership and price interpretation
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — equity, beta and valuation basics
+CA search: "Equity shareholder valuation India official"
+CA found: no separate current linkage
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Ownership waterfall and return lens
 
 ```text
-Call buyer benefits when price rises
-
-Market price
-    ↑
-Above strike + premium ── Net profit
-Between strike and break-even ── Exercise, but net loss
-Below strike ── Do not exercise; lose premium
+Cash flow → costs/tax → debt → preference claims → ordinary equity residual
+Total return = (dividend + ending price − beginning price) / beginning price
 ```
 
-**Call buyer’s break-even:**
+### Claim and corporate-action layer
 
-\[
-\text{Strike price}+\text{Premium}
-\]
+Equity is ownership with residual earnings and last repayment claim after creditors. Dividend is not contractual like bond interest. Preference shares receive priority over ordinary equity according to terms but remain share capital. Rights issues can preserve proportionate ownership if exercised; bonus issues and stock splits increase share count without automatically creating firm value; buybacks alter outstanding equity. New issuance can dilute ownership or EPS.
 
-## 3. Put option
-
-A **put option** gives the buyer the right to **sell** the underlying at the strike price.
-
-> 🔑 **Mnemonic:** **PUT = Put the asset onto someone else.**
-
-### Example
-
-You own shares currently worth ₹1,000 and buy a put with:
-
-- strike price: ₹950;
-- premium: ₹30.
-
-| Market price at expiry | Put payoff | Net result from option |
-|---:|---:|---:|
-| ₹1,100 | ₹0 | −₹30 |
-| ₹900 | ₹50 | +₹20 |
-| ₹700 | ₹250 | +₹220 |
-
-The put works like **price insurance**: it establishes a floor against a severe decline.
-
-**Put buyer’s break-even:**
-
-\[
-\text{Strike price}-\text{Premium}
-\]
-
-## 4. Call versus put
-
-| Feature | Call buyer | Put buyer |
+| Measure | Meaning | Trap |
 |---|---|---|
-| Right | Buy | Sell |
-| Typical expectation | Price will rise | Price will fall |
-| Hedging use | Protect against rising purchase cost | Protect an owned asset against decline |
-| Maximum loss | Premium | Premium |
-| Benefit increases when | Underlying rises | Underlying falls |
+| Market cap | Price × outstanding shares | Not enterprise value |
+| EPS | Profit attributable to equity / weighted shares | Denominator changes |
+| P/E | Price / EPS | Weak with unusual/negative earnings |
+| P/B | Price / book value per share | Book value can omit intangibles |
+| Dividend yield | Dividend / price | Not total return |
+| Beta | Sensitivity to broad-market movement | Not total risk or forecast |
 
-## 5. Buyer versus writer risk
+### Price is observed; value is estimated
 
-| Participant | Maximum gain | Maximum loss |
+Intrinsic value is an estimate of future owner cash flows discounted for time and risk. Price is observable; value depends on assumptions. A low P/E may signal weak prospects, and a high P/E may embed growth that never arrives.
+
+### PYQ transfer before recap
+
+### Lesson-local verified PYQ — 2023 Prelims GS-I, Q73
+
+**Provenance:** Verbatim stem/options checked against the official paper `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, PDF page 29, printed Q73. `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` supplies ownership and a demand summary only; it is not the verbatim source. No official 2023 key is present in the checked local source set.
+
+
+**Exact stem:** In the context of finance, the term 'beta' refers to
+
+(a) the process of simultaneous buying and selling of an asset from different platforms
+(b) an investment strategy of a portfolio manager to balance risk versus reward
+(c) a type of systemic risk that arises where perfect hedging is not possible
+(d) a numeric value that measures the fluctuations of a stock to changes in the overall stock market
+
+**Approach:** Write a one-line definition for every option, identify the financial variable measured by each, and only then compare those definitions with the term in the stem. No option is privileged here.
+
+### Transition
+
+Equity establishes residual value; bonds next isolate contractual cash flows and discount rates.
+
+### Revision notes
+
+1. Equity is residual ownership and risk capital.
+2. Dividends are discretionary, not bond coupons.
+3. Preference equity ranks ahead of ordinary equity by terms.
+4. Face value differs from market price.
+5. Rights can limit dilution.
+6. Bonus/split do not automatically create enterprise value.
+7. Market cap values equity.
+8. Beta measures market sensitivity, not certainty.
+9. Total return includes price change and distribution.
+10. Valuation is assumption-dependent.
+
+### Concept check
+
+**Question:** Why does equity usually have more upside and downside than the same company’s bond?
+
+**Model answer:** Equity receives the residual after fixed claims, capturing growth but absorbing losses first; bond payoff is capped and has higher priority, subject to default.
+
+**Misconception to avoid:** Beta predicts tomorrow’s percentage change.
+
+### Lesson-local Mains practice
+
+**Question (10 marks, 150 words):** Why should P/E and beta not be used as self-sufficient investment rules?
+
+**Model:** P/E relates price to reported earnings, but a low multiple may reflect weak growth, cyclicality or governance, while a high multiple may embed expectations that fail. Accounting earnings can also diverge from free cash flow. Beta estimates sensitivity to a chosen market index over a chosen historical window; it can change and omits firm-specific, liquidity, balance-sheet and tail risk. The 2023 Prelims question usefully separates beta from arbitrage, portfolio strategy and imperfect-hedge risk. Investors should combine these indicators with leverage, cash-flow quality, industry structure, valuation assumptions, diversification, horizon and loss capacity. P/E and beta are diagnostic inputs, not self-executing investment rules; suitability and the price paid remain decisive.
+
+**Rubric (10): P/E meaning 1; P/E limitations 2; beta meaning/PYQ 2; beta limitations 2; alternative evidence 2; judgement 1.
+
+---
+
+## Lesson 4 — Government and corporate bonds; price, yield and duration
+
+Progress: 4/14 | Stage: Core | Subtopic: Fixed cash flows with changing market values
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — G-Secs, corporate bonds and yields
+CA search: "RBI government corporate bond market 2026"
+CA found: official status consolidated in Lesson 12
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Discounting laboratory
+
+```text
+Yield ↑ → old fixed coupon less attractive → price ↓
+Yield ↓ → old fixed coupon more attractive → price ↑
+Approx. % price change = − modified duration × yield change
+```
+
+A bond is a creditor claim. Face value is the principal reference, coupon the contractual rate on face value, maturity the redemption date, and yield a price-based return measure. T-Bills are short-term discount instruments; dated G-Secs and State Development Loans have specified maturities. Sovereign standing reduces credit risk but not duration, inflation or liquidity risk.
+
+### Numerical price-yield laboratory
+
+Example: a ₹1,000 bond paying ₹80 has an 8% coupon. At a market price of ₹800, current yield is 10%. Coupon and yield therefore differ. Bond price equals discounted coupons and redemption. A promised ₹1,100 in one year is worth ₹1,000 at 10% but about ₹982 at 12%.
+
+### Yield curve, duration and credit spread
+
+Duration summarises weighted timing and first-order rate sensitivity. Longer maturity, lower coupon and lower yield generally raise duration. A yield curve plots comparable yields across maturities; its shape reflects expectations, term premium, liquidity and demand-supply, not one certain forecast.
+
+Corporate bonds add credit spread over a benchmark. Spread reflects expected default loss, uncertainty, liquidity and risk appetite. Ratings are opinions, not guarantees.
+
+### Transition
+
+Plain-bond mechanics now support embedded options, inflation links and use-of-proceeds labels.
+
+### Revision notes
+
+1. Bondholders are creditors.
+2. Coupon uses face value; yield uses price and cash flow.
+3. T-Bills are discount instruments.
+4. G-Secs benchmark the system.
+5. Price and yield generally move inversely.
+6. Duration estimates sensitivity.
+7. Lower coupon usually raises duration.
+8. Credit spread is over a benchmark.
+9. High yield may signal high risk.
+10. YTM is not guaranteed realised return.
+
+### Concept check
+
+**Question:** Can a default-free G-Sec lose money before maturity?
+
+**Model answer:** Yes. Rising market yields can lower its sale price, especially with long duration; inflation can also reduce real return.
+
+**Misconception to avoid:** Coupon, current yield and YTM are always equal.
+
+### Lesson-local Mains practice
+
+**Question (10 marks, 150 words):** Explain how monetary conditions affect bond prices and corporate finance.
+
+**Model:** Monetary conditions reprice the benchmark discount curve. When required yields rise, fixed coupons become less attractive and existing bond prices fall; longer-duration G-Secs show a larger percentage response. Corporate issuers pay this benchmark plus a credit and liquidity spread. Tight conditions may weaken cash-flow expectations, reduce dealer depth and widen spreads, raising new-issue coupons and refinancing risk. Conversely, credible disinflation can lower long yields before a policy-rate cut. RBI monetary and G-Sec operations shape benchmarks, but issuer leverage, covenants and risk appetite determine the corporate spread. Transmission is therefore not mechanical: it works through expectations, duration, liquidity and credit quality. Firms should manage both rate exposure and maturity concentration.
+
+**Rubric (10): benchmark channel 2; inverse price-yield/duration 2; spread channel 2; named RBI link 1; qualification 2; corporate implication 1.
+
+---
+
+## Lesson 5 — Special bonds, credit risk and labelled debt
+
+Progress: 5/14 | Stage: Core | Subtopic: Embedded options, inflation links and use of proceeds
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — convertibles, IIBs and labelled bonds
+CA search: "India convertible inflation indexed green bond official"
+CA found: no separate linkage
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Bond-feature decision tree
+
+```text
+PLAIN BOND
+ ├─ conversion right → convertible bond
+ ├─ inflation link → IIB
+ ├─ environmental proceeds → green bond
+ ├─ social proceeds → social bond
+ └─ combined green/social proceeds → sustainability bond
+```
+
+Convertible bonds begin as debt and may convert to equity under specified terms. The option can justify a lower coupon and may dilute shareholders. Inflation-indexed bonds link specified principal or coupon mechanics to an inflation index, but tax, liquidity and index-basis risk remain. Green and social labels concern eligible use of proceeds; sustainability-linked bonds instead connect financial terms to issuer performance targets.
+
+Credit risk depends on issuer cash flow, leverage, covenants, security, seniority and recovery. Secured does not mean default-free. A rating can change and should not replace analysis.
+
+Participatory Notes are offshore derivative instruments issued by registered FPIs to overseas investors seeking Indian-market exposure without direct registration in their own name. They are not ordinary corporate notes.
+
+### PYQ transfer before recap
+
+### Lesson-local verified PYQ — 2019 Prelims GS-I, Q67
+
+**Provenance:** Verbatim stem/options checked against the official paper `books\more_previous_papers\csp-p1.pdf`, PDF page 31, printed Q67. `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` supplies ownership and a demand summary only; it is not the verbatim source. No official 2019 key is present in the checked local source set.
+
+
+**Exact stem:** Which of the following is issued by registered foreign portfolio investors to overseas investors who want to be part of the Indian stock market without registering themselves directly?
+
+(a) Certificate of Deposit
+(b) Commercial Paper
+(c) Promissory Note
+(d) Participatory Note
+
+**Approach:** Create columns for issuer, recipient, legal form and market function; classify each option independently against those columns before applying the stem. Do not infer an answer from familiarity with a label.
+
+### Lesson-local verified PYQ — 2022 Prelims GS-I, Q5
+
+**Provenance:** Verbatim stem/options checked against the official paper `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`, PDF page 5, printed Q5. `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` supplies ownership and a demand summary only; it is not the verbatim source. No official 2022 key is present in the checked local source set.
+
+
+**Exact stem:** With reference to the Indian economy, what are the advantages of “Inflation-Indexed Bonds (IIBs)”?
+
+1. Government can reduce the coupon rates on its borrowing by way of IIBs.
+2. IIBs provide protection to the investors from uncertainty regarding inflation.
+3. The interest received as well as capital gains on IIBs are not taxable.
+
+Which of the statements given above are correct?
+
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Approach:** Evaluate each numbered proposition under a separate source test—borrowing terms, index-linked payoff and tax treatment—then map the resulting pattern to the codes. No proposition is pre-judged here.
+
+### Lesson-local verified PYQ — 2022 Prelims GS-I, Q65
+
+**Provenance:** Verbatim stem/options checked against the official paper `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`, PDF page 29, printed Q65. `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` supplies ownership and a demand summary only; it is not the verbatim source. No official 2022 key is present in the checked local source set.
+
+
+**Exact stem:** With reference to Convertible Bonds, consider the following statements:
+
+1. As there is an option to exchange the bond for equity, Convertible Bonds pay a lower rate of interest.
+2. The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+**Approach:** Evaluate each numbered statement independently by identifying its claimed causal mechanism and the precise nature of the benefit asserted; then map the resulting truth pattern to the codes. No statement is pre-judged.
+
+### Lesson-local verified PYQ — 2026 Prelims GS-I, Q92 — cross-owned linkage
+
+**Provenance:** Exact stem/options from `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`; routed by `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`. The local key is provisional and undisclosed.
+
+
+**Exact stem:** A bond whose proceeds are used only to finance or refinance a combination of both environmental and social projects is called:
+
+(a) Green Bond
+(b) Social Bond
+(c) Sustainability Bond
+(d) Sovereign Bond
+
+**Approach:** Build a matrix using use of proceeds and issuer identity as separate axes; define every named bond category from its governing characteristic, then compare each definition with the stem. No option is identified.
+
+**Ownership and key provenance:** Canonical owner: `upsc-ai-kit\knowledge\Economy\basic\25_Climate-Economics-Green-Finance-and-Circular-Economy.md`. Routed as 2026 Prelims GS-I Q92. The local Set-A key at `books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf` is provisional and no answer is reproduced or inferred.
+
+### Transition
+
+After bond optionality and labels, the session turns to linear risk-transfer contracts.
+
+### Revision notes
+
+1. Convertibles combine debt and an equity option.
+2. Conversion may dilute existing equity.
+3. IIBs target purchasing-power protection.
+4. Tax status cannot be inferred from inflation linkage.
+5. Green bonds finance eligible environmental uses.
+6. Social bonds finance social uses.
+7. Sustainability bonds combine both.
+8. Ratings are opinions.
+9. Security/seniority affect recovery.
+10. P-Notes are offshore access instruments.
+
+### Concept check
+
+**Question:** Why may a convertible pay a lower coupon?
+
+**Model answer:** Its conversion option can capture equity upside and therefore has value for which the investor may accept less contractual interest.
+
+**Misconception to avoid:** A green label changes repayment priority.
+
+### Lesson-local Mains practice
+
+**Question (10 marks, 150 words):** Compare plain, convertible and green corporate bonds.
+
+**Model:** A plain corporate bond promises coupon and principal and is priced through the benchmark curve plus issuer spread. A convertible adds an equity-conversion option; option value can lower the coupon, while conversion introduces dilution and valuation uncertainty. A green, social or sustainability bond remains debt: its label concerns environmental, social or combined eligible proceeds and reporting, not creditor priority. The 2022 convertible PYQ tests embedded optionality, while cross-owned 2026 Q92 tests the use-of-proceeds taxonomy governed canonically in Economy Topic 25. Ratings, covenants, cash flow, recovery, duration and liquidity still determine risk. Analysis should therefore proceed from legal claim and payoff to credit quality, and only then to label integrity and impact reporting.
+
+**Rubric (10): plain baseline 2; convertible mechanism/dilution 2; labelled taxonomy 2; named PYQ ownership evidence 1; common risks 2; analytical sequence 1.
+
+---
+
+## Lesson 6 — Forwards, futures, margins, MTM and basis
+
+Progress: 6/14 | Stage: Core | Subtopic: Linear derivatives and cash-flow discipline
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — derivatives, hedging and clearing
+CA search: "India futures margin mark to market official"
+CA found: current derivatives evidence appears in Lesson 12
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Hedge-design workbench
+
+```text
+Existing risk → offsetting contract → combined outcome
+Forward: customised bilateral settlement
+Future: standardised exchange contract → CCP → margin → daily MTM
+```
+
+A derivative derives value from an underlying asset, rate, price, index or credit event. A forward is a customised bilateral future purchase/sale. For delivery price K and expiry spot S, long payoff is S−K; short payoff is K−S. Hedging offsets a pre-existing exposure, speculation creates or enlarges exposure, and arbitrage targets inconsistent related prices.
+
+### Clearing, margin and liquidity calls
+
+A future standardises quantity, quality, expiry and settlement. The clearing corporation interposes itself and collects margin. Margin is performance collateral, not the purchase price, so leverage is high. A ₹10 lakh notional with ₹1.5 lakh margin losing 4% creates about ₹40,000 loss—26.7% of margin. Daily mark-to-market prevents unpaid losses accumulating but creates cash calls before the physical exposure matures.
+
+### Hedge-fit and basis-risk test
+
+Basis is the spot-futures difference under a stated convention. Basis risk remains when grade, location, maturity or price behaviour does not match. A farmer, importer, exporter or bond investor must match amount, date and underlying; over-hedging creates risk.
+
+### Transition
+
+Linear futures establish leverage and cash calls; options add asymmetric rights and obligations.
+
+### Revision notes
+
+1. Forwards are customised and bilateral.
+2. Futures are standardised and exchange traded.
+3. Long linear exposure benefits from a rise.
+4. Short benefits from a fall.
+5. Hedging starts with existing risk.
+6. Margin is collateral, not price.
+7. MTM settles daily.
+8. Leverage magnifies gains and losses.
+9. Margin calls create liquidity risk.
+10. Basis risk reflects mismatch.
+
+### Concept check
+
+**Question:** Why may a sound hedger be forced out of a futures position?
+
+**Model answer:** Adverse interim moves cause daily MTM losses and immediate margin calls; insufficient cash can close the hedge before the underlying exposure is realised.
+
+**Misconception to avoid:** Maximum futures loss equals initial margin.
+
+### Lesson-local Mains practice
+
+**Question (10 marks, 150 words):** How do margins and MTM make futures safer while creating risks?
+
+**Model:** Futures reduce bilateral settlement risk through standardisation, a clearing corporation, initial/maintenance margin and daily mark-to-market. Losses are crystallised continuously rather than accumulating until expiry, and the default waterfall supports performance. The same design creates leverage because margin is only collateral against a larger notional. A ₹10 lakh position funded with ₹1.5 lakh margin suffers a ₹40,000 loss from a 4% adverse move—about 26.7% of margin. A commercial hedger may face a cash call before the physical exposure produces offsetting cash flow; stress-time margin increases can force closure and reinforce price moves. Sound design therefore requires basis matching, liquidity buffers, position limits and clearing stress tests. Futures make exposure more visible and funded, not harmless.
+
+**Rubric (10): standardisation/CCP 2; margin-MTM mechanism 2; numerical evidence 2; liquidity/procyclicality 2; hedge controls 1; conclusion 1.
+
+---
+
+## Lesson 7 — Options, payoffs, moneyness and premium
+
+Progress: 7/14 | Stage: Core | Subtopic: Asymmetric rights and obligations
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — calls, puts and options risk
+CA search: "India equity options investor protection official"
+CA found: consolidated official linkage in Lesson 12
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Expiry payoff laboratory
+
+```text
+Long call = max(S−K,0) − premium
+Long put  = max(K−S,0) − premium
+Buyer: right; loss generally limited to premium
+Writer: obligation; loss can greatly exceed premium
+```
+
+A call gives the buyer a right to buy; a put a right to sell. A call is in the money when spot exceeds strike, a put when spot is below strike. Intrinsic value is immediate exercise value; time value is premium beyond intrinsic value. A call with strike ₹100 and premium ₹8 breaks even at ₹108 at expiry: above strike is not automatically profitable.
+
+### Premium drivers and break-even
+
+Premium depends on spot, strike, remaining time, expected volatility, rates and relevant distributions. Higher expected volatility generally raises both call and put value because the buyer retains favourable movement with bounded contractual downside. A protective put can insure equity or crop value; a currency call can cap importer cost. Repeated premium loss, time decay, poor volatility pricing and uncovered writing can destroy capital.
+
+### Four-position obligation matrix
+
+| Position | Benefits from | Main limit |
 |---|---|---|
-| Call buyer | Theoretically unlimited | Premium |
-| Put buyer | Substantial but bounded as price cannot fall below zero | Premium |
-| Call writer without protection | Premium | Theoretically unlimited |
-| Put writer | Premium | Substantial if price collapses |
+| Long call | Strong rise | Premium loss/time decay |
+| Short call | Price below strike | Potentially very large loss |
+| Long put | Strong fall | Premium loss/time decay |
+| Short put | Price above strike | Large downside obligation |
 
-This asymmetry is why saying **“options have limited risk”** is incomplete.
+### PYQ transfer before recap
 
-- It is generally true for the **option buyer**.
-- It is not generally true for the **option writer**.
+### Lesson-local verified PYQ — 2025 Prelims GS-I, Q8
 
-## 6. Hedging versus speculation
+**Provenance:** Exact stem/options from `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`; routed by `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`. The official local key exists but remains undisclosed.
 
-### Protective put
 
-```text
-Investor owns shares
-        +
-Buys a put option
-        ↓
-Share rises → benefits from share appreciation
-Share falls → put limits downside
-```
+**Exact stem:** Consider the following statements:
 
-### Speculative call
+1. India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.
+2. India’s stock market has grown rapidly in the recent past even overtaking Hong Kong’s at some point of time.
+3. There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard.
 
-A trader who owns no underlying shares may buy a call simply because they expect the price to rise. This is speculation, not hedging.
+Which of the statements given above are correct?
 
-✅ **Fact:** Prior ownership of the underlying is not necessary for buying most exchange-traded options.
-✅ **Fact:** The same option can be used for hedging or speculation.
-⚠️ **Inference:** Limited buyer loss can encourage excessive speculation because the small premium controls a much larger notional exposure.
+(a) I and II only
+(b) II and III only
+(c) I and III only
+(d) I, II and III
 
-## 7. Option premium versus futures margin
+**Approach:** Assign each numbered statement its own evidence category and date, verify them independently, and only then compare the resulting pattern with the codes. No statement is pre-judged.
 
-| Option premium | Futures margin |
-|---|---|
-| Price paid for acquiring a right | Security deposited for contractual performance |
-| Generally paid by option buyer | Required from futures participants |
-| Buyer can lose the entire premium | Margin losses may require additional funds |
-| Not ordinarily refundable merely because option expires unused | Margin balance is adjusted for gains and losses |
+### Transition
 
-## Current-affairs anchor
+Option asymmetry leads naturally to swaps and multi-period cash-flow transformation.
 
-✅ SEBI’s continuing review of derivatives settlement and risk management reflects concerns about leverage, expiry-day activity and investor protection.
+### Revision notes
 
-⚠️ An option’s low premium should not be confused with low economic exposure. Trading apps such as Groww or Zerodha merely provide market access; they do not make an option position safe.
+1. Call is right to buy; put right to sell.
+2. Writers carry obligations.
+3. Buyer loss is generally premium.
+4. Writer loss may be much larger.
+5. Strike is exercise price.
+6. Moneyness compares spot and strike.
+7. Intrinsic and time value differ.
+8. Break-even includes premium.
+9. Volatility generally raises option value.
+10. Options create asymmetric payoffs.
 
-## UPSC traps
+### Concept check
 
-- A call buyer is **not obligated** to purchase.
-- A put buyer need not necessarily own the asset when entering the contract.
-- An unused option expires; the buyer still loses the premium.
-- Option buyers have limited loss, but writers may face very large losses.
-- Premium is not the same as futures margin.
-- Cash settlement does not mean the contract lacks an underlying reference.
+**Question:** If a call expires above strike, must its buyer profit?
 
-## Mini recap
+**Model answer:** No. Intrinsic value must exceed premium and costs; the option can be in the money but below break-even.
 
-```text
-CALL → Right to BUY → Benefits from price rise
-PUT  → Right to SELL → Benefits from price fall
+**Misconception to avoid:** The writer’s maximum loss is the premium received.
 
-BUYER  → Pays premium → Has choice
-WRITER → Receives premium → Bears obligation
-```
+### Lesson-local Mains practice
 
-### MCQ 1
+**Question (10 marks, 150 words):** Why can options be both insurance and leverage risk?
 
-Consider the following statements:
+**Model:** Options function as insurance because they create asymmetric protection. A protective put sets a floor under an equity or commodity exposure, while an importer’s currency call can cap purchase cost and preserve favourable movement; the buyer’s contractual loss is generally the premium. The same small premium controls a much larger notional, creating leverage. Time decay and volatility mispricing can repeatedly consume buyer capital, while an uncovered call writer can face very large loss and collateral calls. SEBI’s 20 August 2026 study reported 87.7% of individual equity-derivatives traders incurred losses in FY26 and about 92% of aggregate individual losses came from options. This evidence supports payoff literacy, suitability and risk controls, not the claim that every option hedge is harmful.
 
-1. A call-option buyer is obligated to buy the underlying asset at expiry.
-2. The maximum loss of an option buyer is generally limited to the premium paid.
-3. A put option can be used to protect an owned asset against a price decline.
-4. The option writer receives the premium and assumes a contingent obligation.
-
-Which statements are correct?
-
-A. 1 and 2 only
-B. 1, 3 and 4 only
-C. 2 and 3 only
-D. 2, 3 and 4 only
+**Rubric (10): insurance mechanisms 2; two named examples 2; leverage/writer risk 2; official SEBI data 2; qualification 1; conclusion 1.
 
 ---
 
-✅ **Correct: D — Statements 2, 3 and 4**
+## Lesson 8 — Swaps, credit derivatives and hedge design
 
-Statement 1 is incorrect: a call-option **buyer has a right, not an obligation**, to buy.
+Progress: 8/14 | Stage: Core | Subtopic: Exchanging cash-flow profiles without exchanging purposes
 
-### MCQ 2
-
-A share trades at ₹800. An investor buys a call option with a strike price of ₹850 for a premium of ₹20. At expiry, the share price is ₹900. Ignoring transaction costs, what is the buyer’s net result per share?
-
-A. Profit of ₹30
-B. Profit of ₹50
-C. Loss of ₹20
-D. Profit of ₹70
-
----
-
-✅ **Correct: A — Profit of ₹30**
-
-- Gross payoff: ₹900 − ₹850 = **₹50**
-- Less premium: ₹50 − ₹20 = **₹30 net profit**
-
-**Subtopic 3 mastered: 2/2 correct.**
-
----
-
-━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
-📚 **Book context:** Queried—Economy 08 Markdown and local economy reference
-🔍 **CA Search:** “RBI swaps India April–September 2026”
-📰 **CA Found:** RBI issued the **Credit Derivatives Directions, 2026** on **25 June 2026**, introducing a framework that includes **total return swaps on corporate bonds**
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — swaps and credit-risk transfer
+CA search: "RBI Credit Derivatives Directions 2026"
+CA found: RBI issued Credit Derivatives Directions on 25 June 2026, updated 22 September 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Progress: 4/8 | Stage: Core | Subtopic: Swaps and Cash-Flow Exchange**
-
-## 🖼️ What is a swap?
+### Swap transformation board
 
 ```text
-Party A                                      Party B
-Fixed-rate payment ─────────────────────────►
-                   ◄───────────────────────── Floating-rate payment
-
-              Calculated on a notional amount
+Interest-rate swap: fixed payments ⇄ floating payments
+Currency swap: currency-A cash flows ⇄ currency-B cash flows
+Credit derivative: premium ⇄ contingent credit-event payment
 ```
 
-A **swap** is a derivative agreement under which two parties exchange specified cash-flow streams according to predetermined rules.
+A swap exchanges defined cash-flow streams, usually on a notional amount. A firm with floating-rate debt can pay fixed and receive floating, converting economic exposure while the original loan remains. Currency swaps manage longer-dated currency funding, but imperfect tenor or reference rates leave basis risk. In a credit derivative, protection buyer pays premium and protection seller compensates upon a defined credit event; credit exposure moves, but operational, counterparty, legal and basis risks remain.
 
-The underlying asset need not change ownership.
+### Four-coordinate hedge design
 
-> 🔑 **Mnemonic:** **SWAP = Switch What A Party pays**
+The hedge must match **risk factor × amount × date × cash-flow direction**. Net exposure matters: a USD receivable and USD payable may offset. A derivative layered on an already offset position becomes speculation.
 
-## 1. Interest-rate swap
+✅ **Fact:** RBI’s 2026 Credit Derivatives Directions form an official current regulatory anchor. ⚠️ **Inference:** clearer transfer rules can aid risk distribution only if transparency and seller capacity prevent hidden concentration.
 
-An interest-rate swap commonly exchanges:
+### Transition
 
-- fixed-rate interest payments; for
-- floating-rate interest payments.
+Risk transfer is now complete; pooled investment vehicles introduce agency, valuation and redemption design.
 
-### Example
+### Revision notes
 
-Two companies calculate payments on a **₹10 crore notional principal**:
+1. Swaps exchange cash-flow profiles.
+2. Notional often is a calculation base.
+3. Rate swaps can transform fixed/floating exposure.
+4. Currency swaps differ from one-off forwards.
+5. Credit derivatives transfer defined credit risk.
+6. They do not erase underlying default.
+7. Counterparty risk remains.
+8. Hedge design needs amount/date/risk-factor matching.
+9. Net exposure should be measured first.
+10. Basis and legal-definition risk matter.
 
-| Company A pays | Company B pays |
-|---|---|
-| Fixed 7% | Floating benchmark + agreed spread |
+### Concept check
 
-If the floating rate becomes 8%, the net payment is normally based on the **1 percentage-point difference**.
+**Question:** Why can credit risk grow systemically even if each bank reports buying protection?
 
-```text
-₹10 crore × (8% − 7%) = ₹10 lakh net difference
-```
+**Model answer:** Protection may be concentrated in a few leveraged sellers whose failure makes many hedges ineffective simultaneously.
 
-The ₹10 crore is generally **not exchanged**; it is the notional amount used for calculation.
+**Misconception to avoid:** A swap cancels the original loan or bond.
 
-### Why enter this swap?
+### Lesson-local Mains practice
 
-- A borrower with floating-rate debt fears rising rates.
-- It pays fixed and receives floating under the swap.
-- The floating receipt offsets its floating loan payment.
-- Its effective exposure becomes more predictable.
+**Question (10 marks, 150 words):** Assess the role and limits of swaps in corporate risk management.
 
-## 2. Currency swap
+**Model:** Swaps transform cash-flow exposure without refinancing the original liability. An Indian firm with floating-rate debt can pay fixed and receive floating; an exporter with foreign-currency funding can use a currency swap to align payment and receipt currencies; credit protection can transfer a defined corporate-bond credit event. RBI’s Master Direction—Credit Derivatives Directions, 2026, issued 25 June and updated 22 September, expands the current regulatory anchor for the third use. Limits remain: counterparty failure, collateral calls, reference-rate or maturity mismatch, documentation disputes and concentration in protection sellers. Firms should first measure net exposure, then set hedge ratios, collateral liquidity and stress limits. Swaps improve planning when they match an existing risk; layering them on an offset position creates new speculation.
 
-A currency swap exchanges cash flows denominated in different currencies.
-
-```text
-Indian company                    Foreign counterparty
-Pays rupees ────────────────────►
-             ◄────────────────── Pays dollars
-```
-
-Unlike a typical interest-rate swap, principal amounts in different currencies may be:
-
-1. exchanged initially;
-2. used for periodic interest payments; and
-3. exchanged back at maturity.
-
-### Purpose
-
-- hedge exchange-rate risk;
-- obtain financing in a required currency;
-- manage foreign-currency liabilities.
-
-## 3. Total return swap
-
-A **total return swap (TRS)** transfers the complete economic performance of a reference asset without necessarily transferring its legal ownership.
-
-```text
-Total-return payer
-    │
-    ├── Interest/coupon
-    ├── Capital gain
-    └── Capital loss
-            ↓
-Total-return receiver
-            │
-            └── Pays fixed/floating financing return
-```
-
-✅ Under RBI’s 2026 Directions, a TRS can reference corporate bonds.
-
-The receiver gains synthetic economic exposure to the bond without necessarily purchasing it directly.
-
-## 4. Credit default swap
-
-A CDS specifically transfers **credit risk**.
-
-```text
-Protection buyer ── periodic premium ──► Protection seller
-Protection buyer ◄── payment after defined credit event ──
-```
-
-It resembles insurance economically, but it is a derivative governed by contractual and regulatory rules.
-
-## Swap versus forward
-
-| Forward | Swap |
-|---|---|
-| Usually one future transaction | Series of cash-flow exchanges |
-| Fixes a future price or rate | Exchanges defined payment streams |
-| Commonly settled at maturity | Payments may occur periodically |
-| Example: currency forward | Example: fixed–floating interest swap |
-
-A swap can therefore be understood as a **series of related forward-like commitments**.
-
-## Risks
-
-| Risk | Meaning |
-|---|---|
-| Counterparty risk | Other party may fail to pay |
-| Market risk | Rates, currencies or asset values may move adversely |
-| Basis risk | Swap payment may not perfectly match actual exposure |
-| Liquidity risk | Position may be difficult or costly to terminate |
-| Legal risk | Contract terms may be disputed or unenforceable |
-| Complexity risk | User may misunderstand valuation or embedded leverage |
-
-✅ **Fact:** Swaps exchange cash-flow streams rather than necessarily transferring assets.
-✅ **Fact:** Interest-rate swaps commonly use a notional principal without exchanging it.
-✅ **Fact:** Currency swaps may involve exchanging principal in different currencies.
-⚠️ **Inference:** A swap lowers risk only when its amount, maturity and reference rate adequately match the underlying exposure.
-
-## UPSC traps
-
-- “Swap” does not necessarily mean exchanging ownership of two assets.
-- Notional principal is not always physically transferred.
-- Interest-rate and currency swaps are not identical.
-- A TRS can transfer economic exposure without legal ownership.
-- A swap used without an existing exposure can become speculation.
-
-## Mini recap
-
-```text
-Interest-rate swap → fixed cash flow ↔ floating cash flow
-Currency swap      → currency A ↔ currency B
-Total return swap  → asset performance ↔ financing return
-Credit default swap→ premium ↔ credit-event protection
-```
-
-### MCQ 1
-
-Consider the following statements:
-
-1. In a conventional interest-rate swap, fixed and floating interest payments may be calculated on a notional principal.
-2. The notional principal must always be physically exchanged between the parties.
-3. Currency swaps may involve the exchange and later re-exchange of principal amounts in different currencies.
-4. Every swap necessarily transfers legal ownership of the underlying asset.
-
-Which statements are correct?
-
-A. 1 and 2 only
-B. 1 and 3 only
-C. 2, 3 and 4 only
-D. 1, 3 and 4 only
+**Rubric (10): transformation mechanism 2; three corporate uses 3; dated RBI evidence 1; four limits 2; governance sequence 1; judgement 1.
 
 ---
 
-✅ **Correct: B — Statements 1 and 3 only**
+## Lesson 9 — Mutual funds: structure, NAV, costs and liquidity
 
-- A notional amount may only provide the calculation base.
-- Swaps exchange economic cash flows, not necessarily legal ownership.
+Progress: 9/14 | Stage: Core | Subtopic: Pooling does not convert market risk into deposit safety
 
-### MCQ 2
-
-Consider the following statements:
-
-1. A total return swap necessarily transfers legal ownership of the reference bond.
-2. A credit default swap requires the protection buyer to make periodic premium payments.
-3. A total return swap can transfer coupon income and changes in the value of a reference asset.
-4. A swap can increase risk when used speculatively without a matching underlying exposure.
-
-Which statements are correct?
-
-A. 1 and 2 only
-B. 1, 3 and 4 only
-C. 2, 3 and 4 only
-D. 2 and 3 only
-
----
-
-❌ **Incorrect. Correct answer: C — Statements 2, 3 and 4**
-
-Statement 1 is false: a total return swap transfers the asset’s **economic performance**, not necessarily its legal ownership.
-
-### Remedial MCQ 3
-
-Which situation correctly describes a swap?
-
-A. An investor purchases shares and becomes their legal owner.
-B. An option buyer pays a premium for the right to buy an asset.
-C. A futures buyer deposits margin for an exchange-traded obligation.
-D. A floating-rate borrower exchanges floating payments for fixed payments to stabilise borrowing costs.
-
----
-
-✅ **Correct: D**
-
-The borrower uses an interest-rate swap to convert an uncertain floating-rate exposure into a more predictable fixed-rate exposure.
-
-**Consecutive correct: 1/2**
-
-### MCQ 4
-
-Which statement best distinguishes a **currency swap** from a conventional interest-rate swap?
-
-A. A currency swap may exchange principal and interest in different currencies.
-B. A currency swap cannot be used for hedging.
-C. An interest-rate swap always transfers ownership of the underlying loan.
-D. An interest-rate swap gives only one party a contractual obligation.
-
----
-
-❌ **Incorrect. Correct answer: A**
-
-A currency swap may exchange **principal and interest in two currencies**. An interest-rate swap normally exchanges fixed and floating interest streams, with obligations on both parties.
-
-**Consecutive correct reset: 0/2**
-
-### Remedial MCQ 5
-
-Match the derivative with its principal function:
-
-1. Interest-rate swap — exchange fixed and floating payment streams
-2. Currency swap — exchange cash flows denominated in different currencies
-3. Total return swap — necessarily transfer legal ownership of the reference asset
-4. Credit default swap — transfer credit-event risk
-
-Which pairs are correctly matched?
-
-A. 1 and 3 only
-B. 1, 2 and 4 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
----
-
-✅ **Correct: B — Pairs 1, 2 and 4**
-
-Pair 3 is incorrect: a total return swap transfers **economic performance**, not necessarily legal ownership.
-
-**Consecutive correct: 1/2**
-
-### MCQ 6
-
-A company has a floating-rate loan but expects interest rates to rise. Which arrangement most directly hedges this exposure?
-
-A. Receive fixed interest and pay floating interest
-B. Buy an equity put option
-C. Pay fixed interest and receive floating interest
-D. Sell a currency future without foreign-currency exposure
-
----
-
-✅ **Correct: C**
-
-The floating-rate receipt offsets the floating-rate loan payment, while the company pays a predictable fixed rate.
-
-**Subtopic 4 mastered after remediation: 2 consecutive correct.**
-
----
-
-━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
-📚 **Book context:** Queried—Economy 08 foundational and advanced files
-🔍 **CA Search:** “SEBI derivatives hedging speculation risk management April–September 2026”
-📰 **CA Found:** SEBI issued an **August 2026 consultation paper on settlement and risk management**, reflecting continuing concern over derivatives leverage and market stability
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — pooled vehicles and investor risk
+CA search: "SEBI Mutual Funds Regulations 2026"
+CA found: SEBI Mutual Funds Regulations, 2026; official text last amended 7 July 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Progress: 5/8 | Stage: Core | Subtopic: Hedging, Speculation and Arbitrage**
-
-## 🖼️ Purpose determines the classification
+### Governance-and-unit map
 
 ```text
-Does the participant already face economic risk?
-                  │
-           ┌──────┴──────┐
-          Yes            No
-           │              │
-Derivative offsets   Is a price discrepancy
-that exposure?       being exploited?
-     │                     │
-   HEDGE              ┌────┴────┐
-                     Yes        No
-                      │          │
-                 ARBITRAGE  SPECULATION
+Investors → scheme units → pooled portfolio
+             │              │
+         trustee oversight  AMC decisions
+NAV = (market value of assets − liabilities) / units outstanding
 ```
 
-The derivative itself does not reveal its purpose. The participant’s **existing exposure and objective** determine the classification.
+A mutual fund pools money under a scheme mandate. The sponsor initiates the structure, trustees oversee investor interest, the AMC manages, custodian safeguards assets, and registrar/transfer agent maintains records. Segregated roles reduce conflicts but do not insure returns.
 
-## 1. Hedging
+Open-ended schemes issue/redeem units under scheme rules; closed-ended schemes have fixed issue structure and may trade on an exchange. Equity, debt, hybrid, index, liquid and solution-oriented categories have different mandates. Direct and regular plans may hold the same portfolio but differ in distribution cost. Growth and distribution options differ in cash-flow treatment, not underlying asset quality.
 
-A hedger uses derivatives to reduce an already existing economic exposure.
+NAV is accounting value per unit, not “cheapness.” A ₹10 NAV fund can be more expensive economically than a ₹100 NAV fund. Expense ratio reduces investor return. Entry/exit rules, exit load, taxes and tracking matter. Debt funds face duration, credit and liquidity risk; redemption liquidity can conflict with less-liquid holdings, producing first-mover pressure in stress.
 
-### Short hedge
 
-Used when someone owns or will produce an asset and fears its price will fall.
+### Scheme design is an investor contract
+
+The scheme mandate controls eligible assets, concentration, duration, benchmark and liquidity. Equity schemes primarily transmit business and market risk; debt schemes add duration, credit-spread and liquidity risk; hybrid schemes combine asset classes; passive index funds seek benchmark replication rather than discretionary security selection; liquid and overnight schemes narrow maturity exposure but do not become bank deposits. Solution-oriented labels describe an objective or lock-in framework, not guaranteed achievement.
+
+Open-ended schemes create and redeem units under applicable NAV rules. Closed-ended schemes issue a finite structure and may rely on exchange trading for exit. An interval structure opens transactions only during specified windows. Direct and regular plans can hold the same portfolio but differ in distribution expense. Growth and Income Distribution cum Capital Withdrawal choices change cash-flow treatment; they do not create different underlying asset quality.
+
+### NAV, return and cost worksheet
 
 ```text
-Farmer expects to sell wheat later
-                 +
-         Sells wheat futures
-                 ↓
-Wheat price falls → cash-market loss
-                 ↔ futures-market gain
+Gross portfolio return
+ − expense ratio and transaction frictions
+ − tracking difference where relevant
+ ± realised/unrealised valuation changes
+ = investor return before investor-specific tax and exit effects
 ```
 
-### Long hedge
+NAV is net scheme assets divided by units outstanding. A lower numerical NAV is not cheaper because units are arbitrary slices. Fair valuation matters when bonds trade infrequently. Exit load discourages specified early redemption; it is distinct from recurring expense. Portfolio turnover, cash drag, securities-lending income and benchmark methodology can alter realised performance.
 
-Used when someone will purchase an asset and fears its price will rise.
+### Liquidity-management chain
 
 ```text
-Airline will purchase fuel later
-                 +
-          Buys fuel futures
-                 ↓
-Fuel price rises → higher physical cost
-                ↔ futures gain
+Redemption request → cash buffer → maturing assets → market sale → borrowing/other permitted tool
+If sale depth is weak: price impact → NAV loss → first-mover pressure → further redemption
 ```
 
-| Exposure | Appropriate hedge |
-|---|---|
-| Exporter fears rupee appreciation | Sell foreign-currency forward/future |
-| Importer fears rupee depreciation | Buy foreign-currency forward/future |
-| Shareholder fears price decline | Buy put option |
-| Borrower fears interest-rate rise | Pay-fixed, receive-floating swap |
+Side-pocketing or segregation, stress testing, swing/anti-dilution tools where permitted, and truthful liquidity classification address different problems. None guarantees immediate sale at last quoted price.
 
-> 🔑 **Mnemonic:** **Own or produce → short hedge; need to purchase → long hedge.**
+### Transition to specialised wrappers
 
-## 2. Hedging does not guarantee profit
+Mutual funds establish pooled ownership and NAV. Lesson 10 changes the wrapper, so legal form and exit mechanics must be relearned rather than assumed.
 
-Suppose a farmer expects to sell wheat at ₹2,500 but locks a futures price of ₹2,400.
+### Revision notes
 
-- If the market falls to ₹2,100, the futures hedge protects the farmer.
-- If the market rises to ₹2,800, the farmer loses the opportunity to receive the full higher price.
+1. A fund is a pooled market investment.
+2. NAV is net assets per unit.
+3. Low NAV does not imply undervaluation.
+4. AMC manages; custodian safeguards.
+5. Trustees oversee investor interest.
+6. Open-ended and closed-ended differ.
+7. Direct and regular plans differ in costs.
+8. Expense ratio lowers return.
+9. Debt funds can lose value.
+10. Liquidity mismatch can amplify stress.
 
-The objective is **certainty**, not maximum profit.
+### Concept check
 
-## 3. Basis risk
+**Question:** Why can an open-ended debt fund face a run-like dynamic?
 
-\[
-\text{Basis}=\text{Spot price}-\text{Futures price}
-\]
+**Model answer:** Investors may redeem quickly while underlying bonds sell slowly; early exiters obtain cash before fire-sale costs are fully reflected, inducing others to leave.
 
-An ideal hedge requires the derivative and actual exposure to move together. If they do not, some risk remains.
+**Misconception to avoid:** Mutual-fund diversification guarantees principal.
 
-Causes include:
+### Lesson-local Mains practice
 
-- different commodity quality;
-- different location;
-- different maturity;
-- imperfect contract size;
-- changing spot–futures relationship.
+**Question (10 marks, 150 words):** Explain how mutual funds deepen markets while creating protection challenges.
 
-```text
-Actual exposure ≠ Exact derivative match
-                       ↓
-                  Basis risk
-```
+**Model:** Mutual funds deepen markets by pooling household savings, diversifying security-specific risk and creating institutional demand for equity and debt. The sponsor-trustee-AMC-custodian-RTA separation and daily NAV framework improve governance and comparability; SEBI’s Mutual Funds Regulations, 2026, last amended 7 July 2026, provide the current institutional anchor. Protection challenges arise because investors may equate a familiar fund wrapper with deposit safety, overlook expense ratios and exit loads, or be sold unsuitable duration and credit risk. Open-ended debt schemes can offer quick redemption against less-liquid bonds, creating first-mover and fire-sale pressure. Fair valuation, portfolio disclosure, liquidity stress tests, segregation where required, conduct rules and SCORES-based redress address distinct failures. Market deepening is durable only when redemption promises, asset liquidity and investor horizon are aligned.
 
-### Over-hedging
-
-Exposure = ₹10 lakh, but derivative position = ₹15 lakh.
-
-- ₹10 lakh offsets the exposure.
-- The remaining ₹5 lakh effectively becomes speculation.
-
-## 4. Speculation
-
-A speculator creates or enlarges risk to profit from an expected price movement.
-
-### Example
-
-A trader who owns no Reliance shares buys Reliance futures because they expect the price to rise.
-
-- This is not hedging.
-- It is a leveraged directional position.
-- Losses may exceed the initial margin deposited.
-
-Speculators may contribute liquidity and absorb risk transferred by hedgers, but excessive leverage can amplify volatility and losses.
-
-## 5. Arbitrage
-
-An arbitrageur attempts to profit from inconsistent prices for the same or economically equivalent asset.
-
-### Example
-
-```text
-Spot-market price                    = ₹1,000
-Fair futures price                   = ₹1,030
-Actual futures price                 = ₹1,100
-                                       ↓
-Buy relatively cheap spot asset
-Sell relatively expensive future
-                                       ↓
-Prices converge toward expiry
-```
-
-The transactions must normally be coordinated so that one position offsets the other.
-
-> 🔑 **Mnemonic:** **Arbitrage = Buy cheap and sell expensive simultaneously.**
-
-Arbitrage is theoretically low-risk, but real-world risks include:
-
-- transaction costs;
-- execution delay;
-- funding costs;
-- liquidity constraints;
-- model error; and
-- settlement failure.
-
-## Comparison
-
-| Participant | Existing exposure? | Objective | Typical risk effect |
-|---|---:|---|---|
-| Hedger | Yes | Reduce uncertainty | Reduces existing risk |
-| Speculator | Usually no | Profit from direction | Creates or enlarges risk |
-| Arbitrageur | Not essential | Exploit price inconsistency | Helps align prices |
-
-## Economic role
-
-```text
-Hedgers transfer risk
-          ↓
-Speculators accept directional risk
-          ↓
-Arbitrageurs connect market prices
-          ↓
-Liquidity + price discovery
-```
-
-✅ **Fact:** The same futures contract may hedge one participant and enable another to speculate.
-✅ **Fact:** Hedging reduces exposure but may sacrifice favourable price movements.
-✅ **Fact:** Arbitrage encourages convergence between related prices.
-⚠️ **Inference:** Derivatives benefit the economy when risk transfer and price discovery dominate excessive leverage and unsuitable retail speculation.
-
-## UPSC traps
-
-- A hedger need not earn a derivative profit.
-- A profitable trade is not automatically arbitrage.
-- Arbitrage requires a price inconsistency, not merely a prediction.
-- Owning an asset does not make every derivative position a hedge.
-- A hedge larger than the exposure can create speculative risk.
-
-## Mini recap
-
-```text
-HEDGE      → Reduce existing exposure
-SPECULATE  → Take directional exposure
-ARBITRAGE  → Exploit inconsistent prices
-```
-
-### MCQ 1
-
-Consider the following statements:
-
-1. A hedging transaction must independently produce a profit to be successful.
-2. Speculation involves creating or enlarging exposure based on an expected price movement.
-3. Arbitrage seeks to exploit price inconsistencies between related markets or instruments.
-4. The same derivative contract may be used by one participant for hedging and another for speculation.
-
-Which statements are correct?
-
-A. 1 and 2 only
-B. 1, 3 and 4 only
-C. 2 and 3 only
-D. 2, 3 and 4 only
+**Rubric (10): mobilisation/market depth 2; governance chain 2; dated regulation 1; cost/mis-selling risks 2; liquidity mechanism 2; conclusion 1.
 
 ---
 
-✅ **Correct: D — Statements 2, 3 and 4**
+## Lesson 10 — ETFs, AIFs, REITs, InvITs and other pools
 
-Statement 1 is incorrect: a hedge succeeds by reducing the overall exposure’s uncertainty, even if the derivative leg itself incurs a loss.
+Progress: 10/14 | Stage: Core | Subtopic: Similar-looking units, different legal and liquidity engines
 
-### MCQ 2
-
-An Indian importer must pay US dollars after three months and fears rupee depreciation. Which transaction most directly represents hedging?
-
-A. Selling US-dollar futures
-B. Buying US-dollar futures
-C. Buying an unrelated equity call option
-D. Selling Indian equity-index futures without equity exposure
-
----
-
-✅ **Correct: B**
-
-The importer will need dollars later. Buying dollar futures protects against dollars becoming costlier due to rupee depreciation.
-
-**Subtopic 5 mastered: 2/2 correct.**
-
----
-
-━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
-📚 **Book context:** Queried—Economy 08 foundational and advanced files
-🔍 **CA Search:** “SEBI derivatives margins, clearing and default protection 2026”
-📰 **CA Found:** From **16 March 2026**, SEBI required commodity-derivative clearing corporations to stress-test their Settlement Guarantee Funds assuming simultaneous default of at least **three highest-exposure clearing members**, replacing the earlier two-member assumption
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — investment-fund structures
+CA search: "SEBI ETF AIF REIT InvIT 2026 circular"
+CA found: SEBI AIF Master Circular 2026; REIT classification circular effective 1 January 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Progress: 6/8 | Stage: Advanced | Subtopic: Margins, Clearing and Leverage**
+### Wrapper comparison before product names
 
-## 🖼️ Complete transaction structure
-
-```text
-Trader A                    CLEARING                    Trader B
-(Long)                   CORPORATION                   (Short)
-   │                           │                           │
-   ├── initial margin ────────►│◄────── initial margin ──┤
-   │                           │                           │
-   │◄── daily gain/loss ──────►│◄──── daily gain/loss ──►│
-   │                           │                           │
-   └──── must perform ────────►│◄────── must perform ────┘
-
-Clearing corporation becomes:
-• seller to every buyer
-• buyer to every seller
-```
-
-## 1. Margin
-
-**Margin** is collateral or performance security deposited to cover potential derivative losses.
-
-It is **not**:
-
-- a down payment on the underlying asset;
-- the option premium; or
-- the maximum possible loss.
-
-### Types of margin
-
-| Margin | Purpose |
-|---|---|
-| Initial margin | Collected when the position is opened |
-| Maintenance margin | Minimum balance that must remain available |
-| Variation/MTM margin | Covers losses arising from price changes |
-| Additional margin | Imposed during higher volatility or concentrated risk |
-
-> 🔑 **Mnemonic:** **Initial enters; maintenance sustains; variation settles.**
-
-## 2. Mark-to-market settlement
-
-Futures gains and losses are recognised regularly instead of being postponed entirely until expiry.
-
-### Example
-
-You buy a futures contract covering **100 shares at ₹1,000**.
-
-- Notional value = ₹1,00,000
-- Initial margin = ₹15,000
-
-| Closing price | Daily movement | Buyer’s MTM |
-|---:|---:|---:|
-| ₹1,020 | +₹20 × 100 | +₹2,000 |
-| ₹980 | −₹40 × 100 | −₹4,000 |
-| ₹950 | −₹30 × 100 | −₹3,000 |
-
-Losses are debited from the margin account. If available margin falls below the required level, the trader receives a **margin call**.
-
-```text
-Market moves adversely
-          ↓
-MTM loss debited
-          ↓
-Margin falls below requirement
-          ↓
-Deposit additional funds
-          ↓
-Failure to pay → position may be closed
-```
-
-## 3. Leverage
-
-Leverage means controlling a large notional exposure with comparatively little upfront capital.
-
-Using the previous example:
-
-\[
-\text{Leverage}=\frac{₹1,00,000}{₹15,000}\approx6.67
-\]
-
-A **5% fall** in the underlying causes:
-
-\[
-₹1,00,000\times5\%=₹5,000
-\]
-
-Relative to the ₹15,000 margin:
-
-\[
-\frac{₹5,000}{₹15,000}=33.3\%
-\]
-
-Thus, a 5% market movement produces a 33.3% loss relative to the initial capital deposited.
-
-```text
-Small capital
-     ↓
-Large market exposure
-     ↓
-Small price movement
-     ↓
-Large percentage gain OR loss
-```
-
-> 🔑 **Leverage magnifies direction; it does not create accuracy.**
-
-## 4. Clearing corporation
-
-Through **novation**, the clearing corporation interposes itself between the original parties:
-
-```text
-Original arrangement:
-Buyer ↔ Seller
-
-After novation:
-Buyer ↔ Clearing corporation ↔ Seller
-```
-
-If the seller defaults, the buyer does not ordinarily pursue that seller directly. The clearing corporation manages settlement according to its rules and resources.
-
-### Main functions
-
-- calculate and collect margins;
-- mark positions to market;
-- net obligations;
-- monitor member exposures;
-- manage settlement;
-- close defaulting positions; and
-- maintain default-management resources.
-
-## 5. Default waterfall
-
-If a clearing member defaults, losses are absorbed through a predetermined sequence.
-
-```text
-Defaulting member’s margin
-            ↓
-Defaulting member’s other contributions
-            ↓
-Clearing corporation’s designated resources
-            ↓
-Settlement Guarantee Fund/default fund
-            ↓
-Further assessments or recovery measures
-```
-
-The exact order depends on applicable regulations and clearing-corporation rules.
-
-A default waterfall **mutualises residual risk** only after resources linked to the defaulter are used.
-
-## 6. What margin and clearing can—and cannot—do
-
-| They reduce | They do not eliminate |
-|---|---|
-| Counterparty exposure | Market risk |
-| Settlement failure | Leverage-related loss |
-| Accumulation of unpaid losses | Basis risk |
-| Bilateral uncertainty | Liquidity risk |
-| Contagion from an isolated default | Extreme systemic stress |
-
-Daily settlement may identify losses early, but it can also generate sudden demands for cash during volatile markets.
-
-```text
-Sharp price movement
-        ↓
-Large variation-margin calls
-        ↓
-Participants sell assets to raise cash
-        ↓
-Market stress may intensify
-```
-
-## 7. Futures margin versus option premium
-
-| Futures margin | Option premium |
-|---|---|
-| Performance security | Price paid for the contractual right |
-| Adjusted for gains and losses | Normally paid upfront by buyer |
-| Additional funds may be required | Buyer’s maximum loss generally limited to premium |
-| Not the maximum possible loss | Writer may separately face margin requirements |
-
-## Current-affairs anchor
-
-✅ SEBI’s revised 2026 SGF stress test asks commodity-derivative clearing corporations to consider simultaneous failure of at least three members producing the highest credit exposures.
-
-⚠️ This does not predict that three members will fail. It is a **stress-testing assumption** designed to assess whether default resources are sufficiently robust.
-
-## UPSC traps
-
-1. **“Margin is the maximum amount a futures trader can lose.”**
-   ❌ Losses may exceed initial margin.
-
-2. **“Clearing corporations eliminate market risk.”**
-   ❌ They primarily manage settlement and counterparty risk.
-
-3. **“A smaller margin makes the position safer.”**
-   ❌ A smaller margin implies greater effective leverage.
-
-4. **“MTM loss exists only when the contract expires.”**
-   ❌ Futures losses are recognised periodically.
-
-5. **“Settlement Guarantee Fund is the first resource used.”**
-   ❌ Resources belonging to the defaulting member are generally used first.
-
-## Revision notes
-
-- Margin is performance security, not asset price.
-- Initial margin is collected when opening a position.
-- MTM recognises gains and losses regularly.
-- A margin call demands additional collateral or funds.
-- Leverage magnifies both gains and losses.
-- Notional exposure may greatly exceed deposited margin.
-- Novation places the clearing corporation between counterparties.
-- Clearing reduces counterparty and settlement risk.
-- Default waterfalls determine the sequence of loss absorption.
-- Clearing cannot remove market, basis or liquidity risk.
-- Margin calls can create liquidity pressure during volatility.
-- Option premium and futures margin are conceptually different.
-
-### MCQ 1
-
-Consider the following statements:
-
-1. Futures margin represents the maximum loss that a trader can suffer.
-2. Mark-to-market settlement periodically recognises gains and losses on open futures positions.
-3. A clearing corporation becomes the buyer to every seller and seller to every buyer.
-4. Lower upfront margin, for the same notional exposure, generally implies greater leverage.
-
-Which statements are correct?
-
-A. 1 and 2 only
-B. 1, 3 and 4 only
-C. 2 and 3 only
-D. 2, 3 and 4 only
-
----
-
-❌ **Incorrect. Correct answer: D — Statements 2, 3 and 4**
-
-Statement 4 is correct: for unchanged notional exposure, lower margin means that each rupee deposited controls more exposure—hence **greater leverage**.
-
-### Remedial MCQ 2
-
-A futures position has a notional value of ₹5 lakh and requires ₹50,000 as initial margin. Which statement is correct?
-
-A. The position provides approximately 10-times notional leverage.
-B. The trader cannot lose more than ₹50,000.
-C. The ₹50,000 represents full payment for the underlying asset.
-D. A 2% change in the contract’s value means only a 0.2% change relative to the margin.
-
----
-
-✅ **Correct: A**
-
-\[
-₹5,00,000 \div ₹50,000=10
-\]
-
-The position has approximately **10-times notional leverage**, and losses can exceed the initial margin.
-
-**Consecutive correct: 1/2**
-
-### MCQ 3
-
-Which statement correctly explains a clearing corporation’s role?
-
-A. It guarantees that derivatives traders will earn profits.
-B. It manages counterparty and settlement risk through novation, margins and default resources.
-C. It prevents the underlying asset’s market price from declining.
-D. It eliminates the need for participants to meet margin calls.
-
----
-
-✅ **Correct: B**
-
-A clearing corporation manages counterparty and settlement risk, but it cannot guarantee profits or prevent market losses.
-
-**Subtopic 6 mastered after remediation: 2 consecutive correct.**
-
----
-
-━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
-📚 **Book context:** Queried—Economy 08 files and local economy reference
-🔍 **CA Search:** “SEBI derivatives retail risk and investor protection 2026”
-📰 **CA Found:** SEBI’s **August 2026 Settlement and Risk Management consultation** continued regulatory examination of margining, settlement and market safeguards
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Progress: 7/8 | Stage: Advanced | Subtopic: Derivative Risks, Regulation and Suitability**
-
-## 🖼️ Risk map
-
-```text
-DERIVATIVE POSITION
-       │
-       ├── Price moves wrongly ─────────► Market risk
-       ├── Large notional/small margin ─► Leverage risk
-       ├── Hedge does not match asset ──► Basis risk
-       ├── Cannot exit cheaply ─────────► Liquidity risk
-       ├── Counterparty defaults ───────► Counterparty risk
-       ├── Option approaches expiry ────► Time-decay risk
-       └── System/process failure ──────► Operational risk
-```
-
-## 1. Direction alone is insufficient
-
-Suppose you correctly believe that Reliance will eventually rise. You can still lose through derivatives.
-
-| Instrument | How you may still lose |
-|---|---|
-| Futures | Price falls first, producing margin calls before recovery |
-| Call option | Rise occurs after the option expires |
-| Call option | Rise is smaller than the premium paid |
-| Short put | Price decline generates substantial writer losses |
-| Leveraged position | Temporary movement exhausts available capital |
-
-> 🔑 **Correct direction + wrong timing or leverage = loss.**
-
-## 2. Major risks
-
-### Market risk
-
-The underlying price, rate or index moves against the position.
-
-### Leverage risk
-
-A small amount of capital controls a much larger exposure, magnifying losses.
-
-### Basis risk
-
-The derivative does not move perfectly with the actual exposure being hedged.
-
-### Liquidity risk
-
-The trader cannot exit without accepting a significantly unfavourable price.
-
-### Counterparty risk
-
-A contracting party fails to perform. Clearing reduces this risk for exchange-traded contracts but cannot eliminate every extreme scenario.
-
-### Option time decay
-
-An option is a wasting asset because its remaining time decreases.
-
-```text
-More time until expiry ──► More opportunity for favourable movement
-Expiry approaches ───────► Time value generally declines
-At expiry ────────────────► Only intrinsic value remains
-```
-
-An option buyer can therefore lose even if the underlying remains unchanged.
-
-### Volatility risk
-
-Option premiums respond to expected volatility.
-
-- Higher expected volatility generally raises option premiums.
-- A decline in volatility may reduce an option’s value even when the underlying moves slightly in the anticipated direction.
-
-## 3. Why “the market has reached its bottom” is dangerous
-
-A market bottom can only be identified confidently **afterward**.
-
-Even if the long-term assessment is correct:
-
-- prices may decline further temporarily;
-- recovery may take longer than the derivative’s expiry;
-- margin calls may force an early exit;
-- option premiums may already reflect the expected recovery; and
-- company-specific performance may diverge from the Sensex.
-
-⚠️ **Inference:** Strong conviction is not a substitute for position sizing, liquidity and risk control.
-
-## 4. Shares versus derivatives
-
-| Feature | Cash share | Future | Purchased option |
+| Vehicle | Economic exposure | Liquidity/price logic | Principal issue |
 |---|---|---|---|
-| Ownership | Yes | No | No |
-| Expiry | Generally none | Yes | Yes |
-| Upfront amount | Full purchase value | Margin | Premium |
-| Leverage | Usually lower | High | High notional exposure |
-| Margin calls | Normally no | Yes | Usually no for buyer |
-| Time decay | No | No direct time decay | Yes |
-| Maximum buyer loss | Investment may fall substantially | Potentially large | Generally premium |
+| ETF | Index/asset basket | Exchange price, creation-redemption, NAV | Tracking/spread |
+| AIF | Privately pooled strategy | Committed capital/restricted exit | Complexity/leverage |
+| REIT | Income-producing real estate | Listed units and asset cash flow | Vacancy/rates/leverage |
+| InvIT | Infrastructure assets | Listed/private units and project cash flow | Traffic/regulatory/refinancing |
+| Pension/NPS pool | Retirement portfolio | Long horizon, regulated allocation/exit | Longevity/market risk |
 
-For someone seeking long-term company ownership, a derivative is not simply a “more confident” version of buying the share. It is a different contract with expiry and leverage.
+ETFs trade intraday, so market price may deviate from NAV; authorised creation/redemption tends to arbitrage gaps, but stressed or illiquid underlying assets can widen them. AIFs are privately pooled vehicles for sophisticated strategies under categories defined by regulation; category label does not guarantee return or liquidity.
 
-## 5. Role of trading applications
+REITs and InvITs pool cash-flow assets. Units are neither ordinary corporate shares nor fixed deposits. Distributions depend on structure and underlying cash flows. ✅ **Fact:** SEBI’s 28 November 2025 circular treated holdings by Mutual Funds and **Specialized Investment Funds (SIFs)**—a regulated investment product positioned between conventional mutual-fund strategies and Portfolio Management Services in portfolio flexibility and minimum-investment design—in REIT units as equity-related from 1 January 2026 while retaining InvITs as hybrid for that classification. ⚠️ **Inference:** the change may affect scheme allocation and benchmarks but does not make REIT economics identical to company equity.
 
-Groww, Zerodha and similar platforms generally act as **brokers or market-access intermediaries**.
+Pension funds, provident funds, sovereign funds and portfolio managers differ in beneficiary, mandate and governance. P-Notes are access instruments, not pooled domestic schemes.
 
-They may provide:
 
-- order execution;
-- charts and market data;
-- margin information;
-- contract details; and
-- account statements.
-
-They do not:
-
-- guarantee market direction;
-- guarantee settlement profit;
-- eliminate leverage;
-- establish that an asset has reached its bottom; or
-- convert speculation into hedging.
-
-## 6. Indian regulatory architecture
-
-| Segment | Principal regulatory architecture |
-|---|---|
-| Exchange-traded equity derivatives | SEBI, exchanges and clearing corporations |
-| Exchange-traded commodity derivatives | SEBI and recognised exchanges |
-| Specified currency, interest-rate and credit derivatives | RBI framework |
-| Derivatives within GIFT IFSC | IFSCA framework |
-| Clearing and default management | Recognised clearing corporations |
-
-Regulation can strengthen disclosure, margins and settlement, but it cannot prevent investors from making incorrect market forecasts.
-
-## 7. Systemic-risk channel
+### ETF creation-redemption engine
 
 ```text
-Market shock
-    ↓
-Large derivative losses
-    ↓
-Margin calls
-    ↓
-Forced sale of other assets
-    ↓
-Further price declines
-    ↓
-More margin calls
+Authorised participant delivers basket/cash → fund creates ETF units → units trade on exchange
+ETF discount/premium → arbitrage trade → basket/unit exchange → price-NAV gap may narrow
 ```
 
-This feedback loop is called **procyclicality**: risk-control mechanisms may require cash precisely when markets are under stress.
+The mechanism is strongest when the underlying basket is open, liquid and cheaply tradeable. Tracking difference is the realised return gap from expenses, cash, taxes, sampling and rebalancing; tracking error measures variability of that gap. Bid-ask spread and brokerage affect an investor even when the fund tracks well.
 
-## Mains angle
+### SIF and AIF are not synonyms
 
-Derivatives simultaneously provide:
+A **Specialized Investment Fund (SIF)** is a SEBI-regulated product within the mutual-fund regulatory architecture designed for more flexible strategies and an investor threshold distinct from ordinary retail schemes. An **Alternative Investment Fund (AIF)** is a privately pooled vehicle governed by the AIF framework. Category I generally channels capital to socially/economically desirable or early-stage areas; Category II includes private-equity and debt strategies without the Category III trading/leverage character; Category III may use complex or leveraged trading strategies. Category names classify regulatory structure, not safety or assured return.
 
-- risk transfer;
-- liquidity;
-- price discovery; and
-- lower-cost exposure.
+### Asset trusts and distribution mechanics
 
-But their benefits require:
+REITs hold income-producing real estate through permitted structures; value depends on occupancy, rents, asset quality, interest rates, leverage, manager decisions and distribution rules. InvITs hold infrastructure cash-flow assets; traffic, tariffs, concession terms, operating performance and refinancing matter. Unit distributions can contain components with different legal or tax treatment and are not fixed coupons. Exchange listing improves access but does not make the underlying property or road instantly liquid.
 
-- suitable users;
-- adequate margins;
-- central clearing where appropriate;
-- transparent reporting;
-- position limits;
-- risk disclosures; and
-- controls against excessive leverage.
+### Pension pools, portfolio management and offshore access
 
-## UPSC traps
+NPS and other pension/provident pools invest for retirement under contribution, allocation and withdrawal rules; they face market, inflation and longevity risk despite their long horizon. Portfolio Management Services manage client portfolios under a mandate rather than issuing a common mutual-fund unit. Sovereign wealth funds invest public financial wealth under a state mandate. Participatory Notes remain offshore derivative access instruments issued by registered FPIs, not pension pools, SIFs, AIFs or domestic mutual funds.
 
-- Correctly predicting long-term direction does not ensure derivative profit.
-- Exchange trading does not eliminate market risk.
-- Option buyers face limited monetary loss but can lose 100% of the premium.
-- Futures margin is not the maximum loss.
-- A broker’s platform is not a guarantor or clearing corporation.
-- Derivative regulation cannot eliminate speculative losses.
+### Decision sequence
 
-## Revision notes
+Identify the wrapper → identify the underlying assets → identify creation/redemption or exit → identify leverage and valuation → only then compare return.
 
-- Derivative risk depends on direction, timing, volatility and leverage.
-- Futures can trigger margin calls before an eventual recovery.
-- Options lose time value as expiry approaches.
-- Basis risk makes hedges imperfect.
-- Liquidity determines the cost of exiting.
-- Clearing principally reduces counterparty and settlement risk.
-- Position sizing is as important as market prediction.
-- Broker applications provide access, not guaranteed advice.
-- SEBI regulates exchange-traded securities derivatives.
-- RBI regulates specified interest-rate, currency and credit derivatives.
-- IFSCA regulates relevant IFSC-market activity.
-- Excessive leverage can transmit individual losses into systemic stress.
+### PYQ transfer before recap
 
-### MCQ 1
+### Lesson-local verified PYQ — 2023 Prelims GS-I, Q21
 
-Consider the following statements:
+**Provenance:** Verbatim stem/options checked against the official paper `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, PDF page 9, printed Q21. `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` supplies ownership and a demand summary only; it is not the verbatim source. No official 2023 key is present in the checked local source set.
 
-1. Correctly predicting the eventual direction of an underlying asset guarantees a profit from a derivative position.
-2. A futures trader may face margin calls before the underlying asset eventually moves in the predicted direction.
-3. Basis risk arises when the hedge and the actual exposure do not move identically.
-4. Using a regulated broker application does not eliminate market and leverage risks.
 
-Which statements are correct?
+**Exact stem:** Consider the following statements:
 
-A. 1 and 2 only
-B. 1, 3 and 4 only
-C. 2, 3 and 4 only
-D. 2 and 3 only
+Statement-I: Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable.
+
+Statement-II: InvITs are recognized as borrowers under the ‘Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002’.
+
+Which one of the following is correct in respect of the above statements?
+
+(a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+(b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+(c) Statement-I is correct but Statement-II is incorrect
+(d) Statement-I is incorrect but Statement-II is correct
+
+**Approach:** Verify Statement-I and Statement-II from their respective legal domains, record each result separately, and only then test the explanatory relationship required by the options. No result is supplied.
+
+### Lesson-local verified PYQ — 2025 Prelims GS-I, Q1
+
+**Provenance:** Exact stem/options from `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`; routed by `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`. The official local key exists but remains undisclosed.
+
+
+**Exact stem:** With reference to investments, consider the following:
+
+1. Bonds
+2. Hedge Funds
+3. Stocks
+4. Venture Capital
+
+How many of the above are treated as Alternative Investment Funds?
+
+(a) Only one
+(b) Only two
+(c) Only three
+(d) All the four
+
+**Approach:** For every numbered item, record whether it is an instrument, a pooled legal vehicle or a strategy under the applicable framework; count only after all four classifications are independently verified.
+
+### Transition
+
+Product wrappers now connect to the institutions that issue, trade, clear, custody and supervise them.
+
+### Revision notes
+
+1. ETF price and NAV can diverge.
+2. Creation-redemption supports arbitrage.
+3. Tracking difference includes costs and frictions.
+4. AIFs are privately pooled vehicles.
+5. Category is not a safety grade.
+6. REITs pool real-estate cash flows.
+7. InvITs pool infrastructure cash flows.
+8. Unit distributions are not guaranteed coupons.
+9. Pension pools have long-horizon mandates.
+10. P-Notes are offshore derivative access instruments.
+
+### Concept check
+
+**Question:** Why can an ETF trade away from NAV?
+
+**Model answer:** Market demand moves its price instantly while the underlying basket may be illiquid, closed or hard to value, weakening arbitrage.
+
+**Misconception to avoid:** Listed REIT and InvIT units are government-guaranteed bonds.
+
+### Lesson-local Mains practice
+
+**Question (10 marks, 150 words):** Compare ETFs, AIFs and REITs as channels of financial intermediation.
+
+**Model:** ETFs provide exchange-traded basket exposure and use creation-redemption to discipline price-NAV gaps, though spreads, tracking difference and illiquid underlying assets matter. AIFs privately pool capital under Category I, II or III strategies and can involve restricted exit or leverage. REITs pool income-producing real estate, exposing units to occupancy, rents, rates and leverage. Thus all intermediate savings, but their legal form, valuation and exit engines differ. SEBI’s 3 June 2026 AIF Master Circular and 28 November 2025 REIT reclassification circular illustrate framework-specific regulation. The 2025 AIF and 2023 InvIT PYQs reinforce that labels cannot substitute for classification. SIFs, pension pools and P-Notes are separate again. Investors should identify wrapper, underlying assets, leverage, valuation and redemption route before comparing returns.
+
+**Rubric (10): ETF mechanics 2; AIF categories/risk 2; REIT economics 2; two official anchors 1; PYQ and adjacent-vehicle distinction 2; decision rule 1.
 
 ---
 
-✅ **Correct: C — Statements 2, 3 and 4**
+## Lesson 11 — Regulators, intermediaries, settlement and protection
 
-Statement 1 is false because timing, expiry, premium, volatility and margin calls can cause losses despite predicting the eventual direction correctly.
+Progress: 11/14 | Stage: Core | Subtopic: A chain is only as strong as its incentives and failure controls
 
-### MCQ 2
-
-Which situation best illustrates **time-decay risk**?
-
-A. A futures trader receives a margin call after an adverse price movement.
-B. A hedging instrument moves differently from the actual exposure.
-C. A counterparty fails to make the contracted payment.
-D. A call option loses value as expiry approaches while the underlying price remains broadly unchanged.
-
----
-
-✅ **Correct: D**
-
-As expiry approaches, an option’s remaining opportunity for a favourable movement diminishes, reducing its time value.
-
-**Subtopic 7 mastered: 2/2 correct.**
-
----
-
-━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
-📚 **Book context:** Queried—complete Economy 08 derivatives material and local economy reference
-🔍 **CA Search:** “India derivatives regulation RBI and SEBI 2026”
-📰 **CA Found:** RBI’s **Credit Derivatives Directions, 2026**, effective **25 June 2026**, cover OTC and exchange-traded credit derivatives, including credit-index futures and total return swaps
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — SEBI/RBI perimeter and market infrastructure
+CA search: "SEBI investor protection clearing settlement India official"
+CA found: ongoing official disclosure, cyber-resilience and conduct framework; no single event used
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Progress: 8/8 | Stage: Final Synthesis | Topic: Derivatives**
-
-## 🖼️ Master derivative map
+### Failure-control architecture
 
 ```text
-DERIVATIVE
-Value derived from an underlying
-          │
-          ├── FORWARD
-          │     Customised OTC obligation
-          │
-          ├── FUTURE
-          │     Standardised exchange-traded obligation
-          │
-          ├── OPTION
-          │     Buyer has right; writer has obligation
-          │
-          └── SWAP
-                Exchange of cash-flow streams
-
-PURPOSE
-├── Hedge      → reduce existing exposure
-├── Speculate  → create directional exposure
-└── Arbitrage  → exploit inconsistent prices
+Policy/law: Parliament + MoF
+Market regulation: SEBI | RBI in its statutory domains | other sector regulators
+Gatekeepers: issuer, merchant banker, broker, adviser, rating agency, auditor
+Infrastructure: exchange → clearing corporation → depository/custodian
+Protection: disclosure → suitability/conduct → surveillance → grievance/redress
 ```
 
-## 1. Complete comparison
+SEBI regulates the securities market and registered intermediaries within its mandate. RBI regulates monetary/credit systems, banks and specified markets and payment/settlement domains. Boundaries follow law and instrument, not slogans; a listed bank can face both prudential and securities regulation for different functions.
 
-| Feature | Forward | Future | Option | Swap |
+### Failure-to-control matrix
+
+Market failure can arise from asymmetric information, manipulation, conflicts, unsuitable sale, operational/cyber failure, counterparty default and liquidity spirals. Prospectus disclosure addresses information; exchange surveillance addresses trading abuse; client-asset segregation and custody address misuse; clearing margins address counterparty exposure; suitability and risk communication address conduct. Credit-rating agencies assess credit opinion, not market price or guaranteed repayment.
+
+### Investor-side discipline and remedy
+
+Investor responsibility remains: verify registration, read documents, understand fees/leverage, avoid credential sharing, preserve records and use official grievance channels. Compensation mechanisms are rule-bound, not blanket insurance.
+
+### Transition
+
+Institutional controls make it possible to evaluate the dated reform record without confusing rules with guarantees.
+
+### Revision notes
+
+1. Regulation is function- and statute-specific.
+2. SEBI is central to securities markets.
+3. RBI has banking and specified market roles.
+4. Listed banks can face multiple regulators.
+5. Exchanges match; clearing corporations manage obligations.
+6. Depositories record demat ownership.
+7. Custody and management should be segregated.
+8. Ratings are not guarantees.
+9. Disclosure alone cannot cure mis-selling.
+10. Protection is layered, not absolute.
+
+### Concept check
+
+**Question:** Why can disclosure be complete yet a sale still be unsuitable?
+
+**Model answer:** Information may be accurate but the product’s leverage, liquidity or loss profile may conflict with the investor’s horizon, capacity and understanding.
+
+**Misconception to avoid:** A SEBI-registered intermediary makes every offered product suitable.
+
+### Lesson-local Mains practice
+
+**Question (10 marks, 150 words):** Examine the need for layered investor protection in securities markets.
+
+**Model:** Layered protection is necessary because securities markets contain different failures. Prospectus and continuous disclosure reduce issuer information asymmetry; audits and governance support accountability; exchange surveillance addresses manipulation; clearing margins and default waterfalls contain counterparty exposure; depositories, custodians and client-asset segregation protect ownership; adviser and broker conduct rules address conflicts and suitability; cyber resilience protects market infrastructure; SCORES and enforcement provide remedy and deterrence. SEBI leads securities regulation, while RBI governs banks and specified financial markets within its statutory perimeter—a listed bank can face both for different functions. Credit-rating registration does not convert ratings into guarantees. Investors still bear market loss. Protection is therefore a chain of institution-specific controls, not a single disclosure form or blanket compensation promise.
+
+**Rubric (10): failure taxonomy 2; disclosure/governance 2; infrastructure controls 2; conduct/redress 2; SEBI-RBI perimeter 1; market-risk qualification 1.
+
+---
+
+## Lesson 12 — Official reform docket through 3 October 2026 and Core synthesis
+
+Progress: 12/14 | Stage: Core | Subtopic: Current rules as applications of static mechanics
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — owners integrated
+CA search: "SEBI RBI securities derivatives mutual funds AIF REIT reforms through 3 October 2026"
+CA found: equity-derivatives loss study; MF Regulations 2026; AIF Master Circular; REIT classification; RBI credit-derivatives directions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Dated reform docket
+
+| ✅ Official anchor | Static mechanism | UPSC use |
+|---|---|---|
+| SEBI equity-derivatives study, 20 Aug 2026 | leverage/options/loss distribution | protection vs access |
+| MF Regulations 2026, amended 7 Jul 2026 | pooled governance | rule modernisation |
+| AIF Master Circular 2026 | private pools | perimeter/sophistication |
+| REIT classification effective 1 Jan 2026 | product classification | category ≠ economics |
+| RBI Credit Derivatives Directions, 25 Jun; updated 22 Sep 2026 | credit-risk transfer | transparency/concentration |
+
+### Evidence before policy inference
+
+✅ SEBI reported active individual equity-derivatives traders declining from **98.1 lakh in FY25 to 78.6 lakh in FY26**; **87.7%** incurred losses, and about **92% of aggregate individual losses arose from options**. These are study findings, not proof that every hedge or every option is harmful.
+
+### Calibration problem
+
+⚠️ **Inference:** Product restrictions can reduce unsuitable exposure but also reduce legitimate hedging or move activity elsewhere. The policy test is calibrated access: contract design, position limits, margining, disclosure, suitability, surveillance, literacy and enforcement.
+
+RBI’s secondary G-Sec directions encountered in the official source set remain **draft**; they must not be presented as operative final law.
+
+### Core synthesis visual
+
+```text
+CLAIM → PRICE → LIQUIDITY → LEVERAGE → INTERMEDIARY → REGULATION
+ debt/equity  yield/NAV   exit depth   margin/options  conflicts   layered control
+```
+
+### Transition
+
+The Core closes here; the optional block adds curvature, dynamic sensitivities and network feedback.
+
+### Revision notes
+
+1. Current affairs should illuminate mechanics.
+2. Loss incidence is not the same as illegality.
+3. Options dominated aggregate individual losses in the cited study.
+4. Regulation must distinguish hedge from unsuitable speculation.
+5. MF rules govern pooled structures.
+6. AIF rules address private pools.
+7. REIT classification does not erase asset economics.
+8. Credit derivatives transfer rather than destroy risk.
+9. Draft directions must remain labelled draft.
+10. Access, stability and protection require calibration.
+
+### Concept check
+
+**Question:** Why is a high retail loss rate insufficient by itself to justify a total derivatives ban?
+
+**Model answer:** It does not distinguish hedging from speculation, product types, informed choice or effects on liquidity; targeted controls may address suitability and leverage with fewer costs.
+
+**Misconception to avoid:** A regulatory classification automatically changes the underlying cash-flow risk.
+
+### Lesson-local Mains practice
+
+**Question (15 marks, 250 words):** In light of recent official evidence, discuss how India should balance derivatives-market access with investor protection.
+
+**Model:** Derivatives aid hedging, price discovery and liquidity, but notional leverage and nonlinear options payoffs create suitability and stability risks. SEBI’s 20 August 2026 study found 87.7% of individual equity-derivatives traders incurred losses in FY26; about 92% of aggregate individual losses arose from options, while active traders fell from 98.1 lakh in FY25 to 78.6 lakh in FY26. Policy should target mechanisms: contract and position limits, risk-based margins, payoff and break-even disclosure, broker-incentive controls, suitability for complex strategies, beneficial-owner surveillance, clearing stress tests and rapid grievance enforcement. A blanket ban can impair commercial hedging and move activity outside supervised venues; laissez-faire leaves households and clearing networks exposed. Calibrated access, differentiated by complexity, capacity and purpose, best reconciles market quality with protection.
+
+**Rubric (15): derivatives functions 2; exact official evidence 3; risk mechanisms 3; six-part regulatory package 4; ban/migration qualification 2; balanced conclusion 1.
+
+---
+
+# OPTIONAL ADVANCED BLOCK
+
+## Lesson 13 — Duration/convexity, option sensitivities and liquidity transformation
+
+Progress: 13/14 | Stage: Advanced | Subtopic: When first-order intuition breaks
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — optional Advanced owner only
+CA search: "market risk convexity Greeks liquidity transformation India"
+CA found: no separate dated linkage; static advanced application
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### First-order versus curvature dashboard
+
+| Measure | First reading | Limitation |
+|---|---|---|
+| Duration | Bond price sensitivity to yield | Linear approximation |
+| Convexity | Curvature correction | Model/parallel-shift assumptions |
+| Delta | Option-price sensitivity to underlying | Changes with market state |
+| Gamma | Change in delta | Can intensify rebalancing |
+| Theta | Time decay | Nonlinear near expiry |
+| Vega | Volatility sensitivity | Volatility surface matters |
+
+### Bond and option nonlinearity
+
+For moderate yield changes, duration gives the first-order bond-price estimate; convexity refines curvature. A portfolio matched on duration alone can still diverge if curve points move differently. Options are nonlinear: delta hedging requires rebalancing, and gamma can force buying into rises and selling into falls. Vega matters because implied volatility can change even when spot does not.
+
+### Liquidity transformation and feedback
+
+Open-ended funds transform less-liquid holdings into redeemable units. ETFs transform basket exposure into exchange-traded units. In calm conditions arbitrage and buffers work; in stress, valuation gaps, collateral calls and one-sided redemptions can produce fire sales. Liquidity is contingent, not an intrinsic constant.
+
+### Transition
+
+Nonlinearity and liquidity transformation prepare the final network-level technology and suitability analysis.
+
+### Revision notes
+
+1. Duration is first order.
+2. Convexity captures curvature.
+3. Yield curves need not shift in parallel.
+4. Delta is not constant.
+5. Gamma changes delta.
+6. Theta measures time decay.
+7. Vega captures volatility sensitivity.
+8. Dynamic hedging can amplify flows.
+9. Redeemability and asset liquidity can mismatch.
+10. Reported liquidity can vanish in stress.
+
+### Concept check
+
+**Question:** Why can two duration-matched bond portfolios react differently?
+
+**Model answer:** They may differ in convexity, cash-flow distribution, credit spread and exposure to non-parallel yield-curve changes.
+
+**Misconception to avoid:** Delta is a fixed probability or permanent hedge ratio.
+
+### Lesson-local Mains practice
+
+**Question (15 marks, 250 words):** Explain how nonlinear exposure and liquidity transformation can amplify market stress.
+
+**Model:** Nonlinear exposure changes as markets move. Option delta is not fixed: gamma can require repeated hedge adjustment, vega transmits volatility repricing and theta accelerates time loss near expiry. Bonds also depart from linear duration estimates through convexity, credit-spread changes and non-parallel yield-curve shifts. Funds overlay these sensitivities with liquidity transformation—investors may redeem daily while underlying corporate bonds sell slowly. A shock can therefore trigger margin calls, redemptions, ETF discounts, forced sales and further price declines. The mechanism is portfolio-wide, not confined to one instrument. Mitigation includes conservative liquidity buckets, cash and collateral plans, stress tests, anti-dilution or swing tools where authorised, transparent valuation and resilient clearing recovery. Regulation should test common holdings and network feedback, because individually prudent sales can collectively destabilise markets.
+
+**Rubric (15): option nonlinearities 3; bond refinements 2; liquidity transformation 3; amplification chain 3; named safeguards 3; network conclusion 1.
+
+---
+
+## Lesson 14 — Tokenisation, portfolio suitability and systemic risk
+
+Progress: 14/14 | Stage: Advanced | Subtopic: New rails do not repeal old economics
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — optional Advanced owner and cross-market synthesis
+CA search: "tokenised securities systemic risk suitability official India"
+CA found: no operative Indian retail claim assumed; analysis remains principle-based
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Asset-market-technology stress test
+
+```text
+ASSET LAYER: claim, cash flow, priority, collateral
+MARKET LAYER: valuation, liquidity, leverage, concentration
+TECH LAYER: ledger, custody, identity, code, cyber, finality
+```
+
+### New rail, old legal claim
+
+Tokenisation records rights through programmable digital units. It may improve fractional access, reconciliation and settlement, but cannot repair a weak underlying claim. Legal ownership, cash-flow enforceability, oracle quality, custody, interoperability, cyber security and settlement finality still matter. Fractionalisation may broaden access while worsening herding or illiquidity.
+
+### Portfolio-relative suitability
+
+Suitability is portfolio-relative. A volatile equity fund may suit a diversified long-horizon saver; a seemingly stable long-duration debt fund may not suit a near-term obligation. Evaluate objective, horizon, loss capacity, liquidity need, knowledge, costs, diversification and leverage.
+
+### Network and common-position risk
+
+Systemic risk emerges from common holdings, leverage, margin spirals, interconnected counterparties, concentrated protection sellers, crowded indices and procyclical risk controls. Indexing can lower costs yet concentrate flows in large constituents. Microprudentially safe entities can collectively sell the same asset in stress.
+
+### PYQ transfer before recap
+
+### Lesson-local verified PYQ — 2026 Prelims GS-I, Q90
+
+**Provenance:** Exact stem/options from `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`; routed by `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`. The local key is provisional and undisclosed.
+
+
+**Exact stem:** Which of the following statements about Real-World Assets (RWA) Tokenization are correct?
+
+1. Tokenization is the process of turning real world assets into digital tokens using blockchain technology.
+2. Tokenization of real world assets offers 24 x 7 access, promoting financial inclusion.
+3. Tokenization of real world assets will allow the access to high growth investment opportunities for individuals in India.
+
+Select the answer using the code given below:
+
+(a) 1, 2 and 3
+(b) 2 and 3 only
+(c) 1 and 2 only
+(d) 1 and 3 only
+
+**Approach:** Split the statements into definition, access and investment-effect claims; verify each against its appropriate source and date before using the code. The local Set-A key is provisional and no result is supplied.
+
+### Transition
+
+The final lesson joins old claim economics to new digital rails and systemic feedback.
+
+### Revision notes
+
+1. Tokenisation changes representation, not claim quality.
+2. Legal enforceability remains central.
+3. Fractional access can raise participation and risk.
+4. Suitability is investor- and portfolio-specific.
+5. Horizon and liquidity need are distinct.
+6. Common holdings create correlated exits.
+7. Margin spirals can be procyclical.
+8. Central clearing concentrates operational importance.
+9. Index concentration can distort flows.
+10. Systemic analysis studies networks and feedback.
+
+### Concept check
+
+**Question:** Why is tokenising an illiquid asset not equivalent to making the asset liquid?
+
+**Model answer:** Units may transfer faster, but underlying valuation, buyer depth, redemption capacity and legal enforceability can remain weak.
+
+**Misconception to avoid:** Digital settlement removes credit, market and legal risk.
+
+### Lesson-local Mains practice
+
+**Question (15 marks, 250 words):** “Financial innovation changes the form of risk more often than it removes risk.” Analyse.
+
+**Model:** ETFs, derivatives, funds and tokenisation alter the form and location of risk. Futures replace bilateral uncertainty with margin liquidity and clearing concentration; options transform symmetric exposure into nonlinear rights and obligations; open-ended funds combine redeemability with less-liquid assets; tokenised claims add code, custody, oracle and legal-finality risks. Innovation can lower transaction costs, fractionalise access and improve hedging, but cannot strengthen a weak underlying claim or guarantee buyers. The 2026 RWA-tokenisation PYQ brings access claims into exam focus without settling title, valuation or liquidity. Suitability must consider objective, horizon, loss capacity and leverage. A technology-neutral but function-sensitive framework should combine enforceable ownership, disclosure, capital/margin, custody, cyber resilience, interoperability and resolution. The policy aim is risk that is visible, funded and containable—not zero innovation or presumed risk removal.
+
+**Rubric (15): thesis 2; four risk migrations 5; benefit analysis 2; 2026 PYQ evidence 1; regulatory architecture 3; qualified conclusion 2.
+
+---
+
+# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
+
+The wording and options below are answer-neutral. No correct option or answer letter is disclosed or inferred.
+
+## 2019 Prelims GS-I, Q67
+
+**Question:** Which of the following is issued by registered foreign portfolio investors to overseas investors who want to be part of the Indian stock market without registering themselves directly?
+
+(a) Certificate of Deposit
+(b) Commercial Paper
+(c) Promissory Note
+(d) Participatory Note
+
+**Approach:** Create columns for issuer, recipient, legal form and market function; classify each option independently against those columns before applying the stem. Do not infer an answer from familiarity with a label.
+
+## 2022 Prelims GS-I, Q5
+
+**Question:** With reference to the Indian economy, what are the advantages of “Inflation-Indexed Bonds (IIBs)”?
+
+1. Government can reduce the coupon rates on its borrowing by way of IIBs.
+2. IIBs provide protection to the investors from uncertainty regarding inflation.
+3. The interest received as well as capital gains on IIBs are not taxable.
+
+Which of the statements given above are correct?
+
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Approach:** Evaluate each numbered proposition under a separate source test—borrowing terms, index-linked payoff and tax treatment—then map the resulting pattern to the codes. No proposition is pre-judged here.
+
+## 2022 Prelims GS-I, Q65
+
+**Question:** With reference to Convertible Bonds, consider the following statements:
+
+1. As there is an option to exchange the bond for equity, Convertible Bonds pay a lower rate of interest.
+2. The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+**Approach:** Evaluate each numbered statement independently by identifying its claimed causal mechanism and the precise nature of the benefit asserted; then map the resulting truth pattern to the codes. No statement is pre-judged.
+
+## 2023 Prelims GS-I, Q21
+
+**Question:** Consider the following statements:
+
+Statement-I: Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable.
+
+Statement-II: InvITs are recognized as borrowers under the ‘Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002’.
+
+Which one of the following is correct in respect of the above statements?
+
+(a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+(b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+(c) Statement-I is correct but Statement-II is incorrect
+(d) Statement-I is incorrect but Statement-II is correct
+
+**Approach:** Verify Statement-I and Statement-II from their respective legal domains, record each result separately, and only then test the explanatory relationship required by the options. No result is supplied.
+
+## 2023 Prelims GS-I, Q73
+
+**Question:** In the context of finance, the term 'beta' refers to
+
+(a) the process of simultaneous buying and selling of an asset from different platforms
+(b) an investment strategy of a portfolio manager to balance risk versus reward
+(c) a type of systemic risk that arises where perfect hedging is not possible
+(d) a numeric value that measures the fluctuations of a stock to changes in the overall stock market
+
+**Approach:** Write a one-line definition for every option, identify the financial variable measured by each, and only then compare those definitions with the term in the stem. No option is privileged here.
+
+## 2025 Prelims GS-I, Q1
+
+**Question:** With reference to investments, consider the following:
+
+1. Bonds
+2. Hedge Funds
+3. Stocks
+4. Venture Capital
+
+How many of the above are treated as Alternative Investment Funds?
+
+(a) Only one
+(b) Only two
+(c) Only three
+(d) All the four
+
+**Approach:** For every numbered item, record whether it is an instrument, a pooled legal vehicle or a strategy under the applicable framework; count only after all four classifications are independently verified.
+
+## 2025 Prelims GS-I, Q7
+
+**Question:** Consider the following statements:
+
+Statement I: As regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.
+
+Statement II: Bondholders are lenders to a company whereas stockholders are its owners.
+
+Statement III: For repayment purpose, bondholders are prioritized over stockholders by a company.
+
+Which one of the following is correct in respect of the above statements?
+
+(a) Both Statement II and Statement III are correct and both of them explain Statement I
+(b) Both Statement I and Statement II are correct and Statement I explains Statement II
+(c) Only one of the Statements II and III is correct and that explains Statement I
+(d) Neither Statement II nor Statement III is correct
+
+**Approach:** Parse Statements I–III independently, record the concept asserted by each, and only afterward test every explanation relationship printed in the options. No statement or option is pre-judged.
+
+## 2025 Prelims GS-I, Q8
+
+**Question:** Consider the following statements:
+
+1. India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.
+2. India’s stock market has grown rapidly in the recent past even overtaking Hong Kong’s at some point of time.
+3. There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard.
+
+Which of the statements given above are correct?
+
+(a) I and II only
+(b) II and III only
+(c) I and III only
+(d) I, II and III
+
+**Approach:** Assign each numbered statement its own evidence category and date, verify them independently, and only then compare the resulting pattern with the codes. No statement is pre-judged.
+
+## 2026 Prelims GS-I, Q90
+
+**Question:** Which of the following statements about Real-World Assets (RWA) Tokenization are correct?
+
+1. Tokenization is the process of turning real world assets into digital tokens using blockchain technology.
+2. Tokenization of real world assets offers 24 x 7 access, promoting financial inclusion.
+3. Tokenization of real world assets will allow the access to high growth investment opportunities for individuals in India.
+
+Select the answer using the code given below:
+
+(a) 1, 2 and 3
+(b) 2 and 3 only
+(c) 1 and 2 only
+(d) 1 and 3 only
+
+**Approach:** Split the statements into definition, access and investment-effect claims; verify each against its appropriate source and date before using the code. The local Set-A key is provisional and no result is supplied.
+
+## 2026 Prelims GS-I, Q92 — cross-owned linkage
+
+**Question:** A bond whose proceeds are used only to finance or refinance a combination of both environmental and social projects is called:
+
+(a) Green Bond
+(b) Social Bond
+(c) Sustainability Bond
+(d) Sovereign Bond
+
+**Approach:** Build a matrix using use of proceeds and issuer identity as separate axes; define every named bond category from its governing characteristic, then compare each definition with the stem. No option is identified.
+
+**Ownership and key provenance:** Canonical owner: `upsc-ai-kit\knowledge\Economy\basic\25_Climate-Economics-Green-Finance-and-Circular-Economy.md`. Routed as 2026 Prelims GS-I Q92. The local Set-A key at `books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf` is provisional and no answer is reproduced or inferred.
+
+**Printed/instruction provenance:** These are objective Prelims questions; no individual marks or Mains-style word limit is printed for them. Year/question routing and key status follow the audited ledgers. The 2019–2023 local ledger lacks official keys; the 2025 official key is present locally but remains undisclosed; the 2026 key is provisional and remains undisclosed.
+
+# CUMULATIVE CONCEPT CHECKS
+
+## Check 1 — Claim hierarchy
+
+A listed company’s bond yield rises sharply while its share price also falls. Explain why the two moves can coexist.
+
+**Model:** Weaker expected cash flow can raise default risk and the bond’s required credit spread, lowering bond price. The same deterioration reduces residual value for equity, whose claim ranks after creditors. Bond priority limits neither market-price loss nor default loss.
+
+## Check 2 — Futures hedge
+
+An importer owes USD 1 million in three months and buys a USD future for only USD 600,000 equivalent. Identify the remaining risk.
+
+**Model:** The importer has a partial hedge: USD 400,000 remains directionally unhedged. Contract-date, settlement and basis mismatch may add further residual exposure.
+
+## Check 3 — Option economics
+
+A call has strike ₹200 and premium ₹12. At expiry the underlying is ₹208. Distinguish exercise value from profit.
+
+**Model:** Intrinsic value is ₹8, so the call is in the money. Net payoff before other costs is ₹8−₹12 = −₹4; break-even is ₹212.
+
+## Check 4 — Pooled liquidity
+
+Why can diversification and daily redemption pull in opposite directions in a debt fund?
+
+**Model:** Diversification reduces issuer-specific risk, but daily redemption can force sale of many less-liquid bonds together. Early exits and fire-sale pricing can transmit liquidity stress across a diversified portfolio.
+
+## Check 5 — New technology
+
+Apply the asset-market-technology test to a tokenised real-estate unit.
+
+**Model:** Asset layer asks what property cash flow and legal interest back the unit; market layer asks valuation, leverage and exit depth; technology layer asks ledger integrity, custody, identity, oracle and settlement finality. Fast transfer alone proves none of the first two.
+
+# ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
+
+## 10 marks — 150 words
+
+**Question:** Distinguish coupon, current yield and yield to maturity. Why does the distinction matter for retail bond investors?
+
+**Model (124 words):** Coupon is the contractual annual interest expressed on face value. Current yield divides annual coupon by the bond’s present market price and ignores redemption gain/loss and timing. Yield to maturity is the discount rate that equates current price with promised coupons and principal, assuming contractual payment and specified reinvestment/holding conditions. Thus an 8% coupon bond bought below face value can have current yield above 8%, while its YTM additionally incorporates movement toward redemption value. The distinction matters because advertisements may highlight coupon while investors pay a different price. YTM is still not a guaranteed realised return: default, sale before maturity, reinvestment, tax, liquidity and transaction cost can alter outcome. Retail comparison must therefore use cash-flow timing, credit and duration—not coupon alone.
+
+**Unique rubric (10):** coupon 2; current yield 2; YTM 2; numerical/logical relation 1; retail risks 2; conclusion 1.
+
+## 15 marks — 250 words
+
+**Question:** “Investment funds democratise markets, but their wrapper can obscure the risk of underlying assets.” Discuss with reference to mutual funds, ETFs, AIFs, REITs and InvITs.
+
+**Model (181 words):** Funds aggregate savings, lower transaction costs, diversify holdings and give households access to professional management or assets that are difficult to buy directly. Mutual funds offer scheme-based portfolios and NAV-linked entry or redemption. ETFs add exchange trading and creation-redemption, allowing low-cost basket exposure. AIFs pool sophisticated private strategies. REITs and InvITs channel capital to income-producing real estate and infrastructure.
+
+The wrapper, however, does not repeal asset economics. Equity funds retain market risk; debt funds retain duration, credit and liquidity risk. ETF market prices can depart from NAV when the basket is illiquid or closed. AIF strategies may be leveraged, complex and difficult to exit. REIT distributions depend on occupancy, rents, rates and leverage; InvIT returns depend on project cash flows, regulation and refinancing. Open-ended redemption can create first-mover and fire-sale pressures. Fees, tracking difference, valuation and conflicts also affect returns.
+
+Policy should therefore combine truthful classification, role separation, custody, valuation standards, liquidity management, expense transparency, suitability, leverage disclosure and grievance redress. Democratisation is genuine when access is accompanied by comprehension; a familiar “fund” label must never be treated as deposit insurance.
+
+**Unique rubric (15):** democratisation 3; vehicle distinctions 4; underlying-risk analysis 4; wrapper/liquidity issues 2; policy and judgement 2.
+
+## 20 marks — 250 words
+
+**Question:** Analyse how securities-market development can support India’s investment needs while generating new channels of systemic risk. Suggest a balanced regulatory architecture.
+
+**Model (219 words):** Developed securities markets complement bank finance by issuing equity and long-term bonds, providing government yield benchmarks, recycling infrastructure and real-estate capital through InvITs/REITs, pooling household savings and enabling firms to hedge rates, currency, commodity and credit risk. Secondary liquidity and price discovery can lower primary financing costs and broaden risk-bearing capacity.
+
+The same architecture creates feedback. Leverage in futures and options converts small price moves into margin calls. Credit protection can concentrate in a few sellers. Open-ended funds may promise rapid redemption against illiquid bonds. Common index holdings and algorithmic hedging can synchronise trades. Clearing corporations reduce bilateral risk but become critical nodes. Ratings, complex AIFs, tokenisation and platform distribution can create opacity or unsuitable access. Cyber and settlement failures can transmit quickly.
+
+A balanced architecture should be function-based across the SEBI-RBI and allied perimeter: issuer disclosure and governance; risk-based capital, margins and position limits; robust clearing default waterfalls and recovery plans; segregated custody; fund liquidity stress tests and anti-dilution tools where authorised; transparency of beneficial ownership and leverage; suitability and incentive rules for complex products; interoperable cyber-resilient infrastructure; surveillance, grievance redress and coordinated crisis management. Draft rules must not be represented as final. The goal is not to suppress market depth but to ensure that risk is visible, funded, dispersed where possible and resolvable when concentration occurs.
+
+**Unique rubric (20):** development channels 5; systemic mechanisms 6; institutional architecture 6; balance/qualification 3.
+
+# REMEDIATION
+
+| If you confuse... | Rebuild with... | Minimum proof of mastery |
+|---|---|---|
+| Equity and debt | residual-owner/creditor waterfall | Explain repayment priority and market-price risk together |
+| Coupon and yield | price-discounted cash-flow timeline | Compute current yield at a non-par price |
+| Forward and future | custom bilateral vs standardised/cleared | Explain margin and daily MTM |
+| Margin and premium | collateral vs option price | State who has right and who has obligation |
+| Hedge and speculation | pre-existing net exposure | Match amount, date, direction and risk factor |
+| NAV and ETF price | portfolio value vs exchange price | Explain premium/discount and arbitrage limits |
+| AIF, REIT and InvIT | strategy pool vs asset cash-flow trust | Identify underlying and exit mechanism |
+| Regulation and guarantee | layered failure control | Name one residual risk after each safeguard |
+| Token and asset | representation vs enforceable claim | Apply asset-market-technology test |
+
+```text
+REMEDIATION LOOP
+Name the claim → draw cash flows → locate leverage → identify exit → add regulator → stress one assumption
+```
+
+# MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
+
+## Master comparison
+
+| Instrument | Claim/payoff | Price driver | Liquidity form | Key trap |
 |---|---|---|---|---|
-| Basic nature | Bilateral obligation | Standardised obligation | Asymmetric right and obligation | Cash-flow exchange |
-| Trading | Usually OTC | Exchange | Exchange or OTC | Commonly OTC |
-| Customisation | High | Low | Contract-dependent | High |
-| Buyer obligation | Yes | Yes | No | Yes |
-| Seller/writer obligation | Yes | Yes | Conditional upon exercise | Yes |
-| Upfront amount | Usually none | Margin | Premium | Contract-dependent |
-| Regular MTM | Not necessarily | Yes | Exchange rules apply | Contract-dependent |
-| Major risk | Counterparty | Leverage/market | Premium loss or writer loss | Counterparty/complexity |
+| Equity | Residual ownership | Expected cash flow/risk | Exchange/other market | Dividend is guaranteed |
+| Bond | Coupon/principal creditor claim | Curve + spread + duration | Dealer/exchange | Coupon equals return |
+| Future | Symmetric linear obligation | Underlying/basis | Exchange + margin | Margin caps loss |
+| Option | Asymmetric right/obligation | Spot, strike, time, volatility | Exchange/OTC | ITM means profit |
+| Mutual fund | Proportionate portfolio unit | NAV | Redemption/market by type | Diversified means safe |
+| ETF | Tradable basket unit | NAV + order flow | Exchange + creation/redemption | Price always equals NAV |
+| AIF | Private pooled strategy | Strategy/assets | Restricted/contractual | Category guarantees quality |
+| REIT/InvIT | Asset cash-flow unit | Distribution, growth, rates, leverage | Listed/private structure | Unit is a bond/deposit |
 
-## 2. Core payoff logic
-
-### Futures
+## Causal map: rate shock
 
 ```text
-Buyer gains when price rises
-Seller gains when price falls
-
-Both are obligated
+Expected rates/inflation ↑
+   ├─ discount rate ↑ → bond price ↓ (more if duration high)
+   ├─ financing cost ↑ → corporate spread/earnings pressure
+   ├─ property/infrastructure discount rates ↑ → REIT/InvIT pressure
+   └─ margin/volatility ↑ → leveraged deleveraging risk
 ```
 
-### Call option
+## Causal map: fund stress
 
 ```text
-Right to BUY
-Benefits from price rise
-Buyer’s maximum loss = premium
+Shock → redemption → cash exhausted → less-liquid sales → price impact
+      → NAV decline → more redemption → fire-sale externality
 ```
 
-### Put option
+## Argument map: derivatives access
 
 ```text
-Right to SELL
-Benefits from price fall
-Can protect an owned asset
+FOR: hedge + price discovery + liquidity
+AGAINST: leverage + complexity + retail loss + feedback
+BALANCE: suitability + margins + limits + disclosure + clearing + enforcement
 ```
 
-### Swap
-
-```text
-Fixed ↔ Floating interest
-Currency A ↔ Currency B
-Asset return ↔ Financing return
-Premium ↔ Credit protection
-```
-
-## 3. Contract versus purpose
-
-| Position | Existing exposure | Classification |
-|---|---:|---|
-| Importer buys dollar futures | Yes | Hedging |
-| Shareholder buys a put | Yes | Hedging |
-| Trader buys index futures expecting a rise | No | Speculation |
-| Trader exploits inconsistent spot/futures prices | Not necessary | Arbitrage |
-| Company exchanges floating payments for fixed | Yes | Hedging |
-
-The same instrument can serve different purposes.
-
-## 4. Market infrastructure
-
-```text
-Trade executed
-      ↓
-Clearing corporation interposes itself
-      ↓
-Initial margin collected
-      ↓
-Position marked to market
-      ↓
-Losses produce margin calls
-      ↓
-Default waterfall protects settlement
-```
-
-### Institutional effects
-
-| Mechanism | Principal function |
-|---|---|
-| Standardisation | Makes contracts comparable and tradable |
-| Margin | Provides performance security |
-| Mark-to-market | Recognises losses before expiry |
-| Clearing corporation | Reduces counterparty and settlement risk |
-| Position limits | Restrict excessive concentration |
-| Default fund/SGF | Absorbs residual member-default losses |
-
-None of these guarantees profits or eliminates market risk.
-
-## 5. Complete risk framework
-
-```text
-Wrong direction ─────────────► Market risk
-Large notional exposure ─────► Leverage risk
-Imperfect hedge ─────────────► Basis risk
-Approaching option expiry ───► Time-decay risk
-Changing expected volatility ► Volatility risk
-Inability to exit ───────────► Liquidity risk
-Contracting-party failure ───► Counterparty risk
-Process/model failure ───────► Operational/model risk
-```
-
-## 6. How to analyse a derivative question
-
-Ask these seven questions:
-
-1. What is the **underlying**?
-2. Is the contract a forward, future, option or swap?
-3. Does each party possess a right or an obligation?
-4. What are the strike, premium, expiry or notional amount?
-5. Is it exchange-traded or OTC?
-6. Is the participant hedging, speculating or arbitraging?
-7. Who bears market, counterparty, liquidity and leverage risk?
-
-> 🔑 **Mnemonic:** **Underlying–Contract–Rights–Price–Venue–Purpose–Risk**
-
-## 7. Share-market application
-
-Suppose an investor believes a share is near its bottom.
-
-| Action | Actual economic position |
-|---|---|
-| Buy cash share | Ownership without contractual expiry |
-| Buy future | Leveraged obligation with margin calls |
-| Buy call | Limited-loss directional position with expiry and premium |
-| Sell put | Receives premium but accepts potentially substantial downside |
-| Buy protective put after owning shares | Downside hedge |
-
-No derivative is automatically the “confident” choice.
-
-- Futures require sufficient liquidity to survive adverse interim movements.
-- Calls require the rise to occur before expiry and exceed the premium.
-- Put-writing can generate large losses if the share declines sharply.
-- Cash ownership avoids derivative expiry but retains company and market risk.
-
-## 8. Regulatory map
-
-| Market segment | Main Indian architecture |
-|---|---|
-| Listed equity and commodity derivatives | SEBI, exchanges and clearing corporations |
-| Interest-rate, currency and credit derivatives in specified markets | RBI |
-| IFSC derivative activity | IFSCA |
-| Settlement and default management | Recognised clearing corporations |
-
-✅ RBI’s 2026 Directions define a central counterparty as an entity becoming buyer to every seller and seller to every buyer.
-
-✅ They cover credit derivatives undertaken in OTC markets and recognised stock exchanges.
-
-## 9. UPSC relevance
-
-Derivatives are relevant primarily for:
-
-- financial-market architecture;
-- agricultural price-risk management;
-- exchange-rate and interest-rate risk;
-- investor protection;
-- systemic stability;
-- regulation by RBI and SEBI; and
-- market deepening versus excessive speculation.
-
-### Probable Prelims framing
-
-- futures versus options;
-- hedging versus speculation;
-- margin versus premium;
-- OTC versus exchange trading;
-- cash versus physical settlement;
-- role of clearing corporations; and
-- currency or interest-rate swaps.
-
-### Probable Mains framing
-
-> “Derivatives facilitate risk transfer and price discovery but may amplify financial instability when combined with leverage and unsuitable participation. Discuss.”
-
-### Mains answer spine
-
-```text
-Definition
-   ↓
-Economic benefits
-• hedging
-• liquidity
-• price discovery
-• risk allocation
-   ↓
-Risks
-• leverage
-• speculation
-• margin spirals
-• complexity
-• counterparty exposure
-   ↓
-Safeguards
-• margins
-• clearing
-• disclosure
-• suitability
-• position limits
-• regulatory coordination
-   ↓
-Balanced conclusion
-```
-
-## Consolidated revision notes
-
-1. Derivatives derive value from an underlying asset, rate or index.
-2. Forwards are customised OTC obligations.
-3. Futures are standardised exchange-traded obligations.
-4. Option buyers possess rights; writers bear contingent obligations.
-5. Calls provide the right to buy; puts provide the right to sell.
-6. Swaps exchange specified cash-flow streams.
-7. Hedging reduces pre-existing exposure.
-8. Speculation creates or enlarges exposure.
-9. Arbitrage exploits inconsistent prices.
-10. Margin is security, while premium purchases an option right.
-11. Clearing reduces counterparty risk but not market risk.
-12. Leverage magnifies gains and losses.
-13. Hedging remains exposed to basis risk.
-14. Options are affected by expiry and time decay.
-15. Correct long-term direction does not guarantee derivative profit.
-16. SEBI, RBI and IFSCA regulate different derivative-market segments.
-
-### Final Synthesis MCQ 1
-
-Consider the following statements:
-
-1. Futures generally create symmetric obligations for buyers and sellers.
-2. An option writer possesses a right without any corresponding obligation.
-3. Central clearing reduces counterparty risk but does not eliminate market risk.
-4. A derivative transaction qualifies as hedging only if it produces a profit.
-
-Which statements are correct?
-
-A. 1 and 3 only
-B. 1, 2 and 3 only
-C. 2 and 4 only
-D. 1, 3 and 4 only
-
----
-
-❌ **Incorrect. Correct answer: A — Statements 1 and 3 only**
-
-- **2 is incorrect:** The option **buyer** has the right; the writer bears the contingent obligation.
-- **4 is incorrect:** Hedging aims to reduce overall uncertainty, not necessarily earn a derivative profit.
-
-### Final Synthesis MCQ 2
-
-Consider the following pairs:
-
-1. Forward — customised OTC obligation
-2. Future — standardised exchange-traded obligation
-3. Call option — right to sell the underlying
-4. Interest-rate swap — exchange of fixed and floating payment streams
-
-Which pairs are correctly matched?
-
-A. 1 and 2 only
-B. 1, 2 and 4 only
-C. 2, 3 and 4 only
-D. 1, 2, 3 and 4
-
----
-
-❌ **Incorrect. Correct answer: B — Pairs 1, 2 and 4**
-
-Pair 3 is incorrect:
-
-- **Call option:** right to **buy**
-- **Put option:** right to **sell**
-
-**Consecutive correct: 0/2**
-
-### Remedial MCQ 3
-
-Which statements correctly describe options?
-
-1. A call gives its buyer the right to buy.
-2. A put gives its buyer the right to sell.
-3. An option buyer’s maximum loss is generally limited to the premium.
-4. An option writer has no obligation when the buyer exercises the option.
-
-A. 1 and 2 only
-B. 1, 3 and 4 only
-C. 1, 2 and 3 only
-D. 2, 3 and 4 only
-
----
-
-✅ **Correct: C — Statements 1, 2 and 3**
-
-The option writer bears the obligation if the buyer validly exercises the contractual right.
-
-**Consecutive correct: 1/2**
-
-### Remedial MCQ 4
-
-Which statements are correct?
-
-1. Futures margin is performance security rather than the full contract value.
-2. A hedger seeks to reduce an existing exposure.
-3. A speculator may use the same derivative contract as a hedger.
-4. Clearing corporations reduce settlement risk but cannot prevent market losses.
-
-A. 1 and 2 only
-B. 2, 3 and 4 only
-C. 1, 3 and 4 only
-D. 1, 2, 3 and 4
-
----
-
-❌ **Incorrect. Correct answer: D — All four statements**
-
-Statement 1 is also correct: futures margin is a **security deposit**, not payment of the full notional contract value.
-
-**Consecutive correct reset: 0/2**
-
-### Remedial MCQ 5
-
-Which statement is correct?
-
-A. Futures margin can be much smaller than the contract’s notional value, thereby creating leverage.
-B. An option writer has a right but no obligation.
-C. Hedging necessarily maximises profit.
-D. Central clearing eliminates changes in market prices.
-
----
-
-✅ **Correct: A**
-
-A smaller margin controls a larger notional exposure, creating leverage and magnifying both gains and losses.
-
-**Consecutive correct: 1/2**
-
-### Remedial MCQ 6
-
-An exporter expects to receive US dollars after three months and fears that the rupee may appreciate. Which transaction most directly hedges this exposure?
-
-A. Buy US-dollar futures
-B. Sell US-dollar futures
-C. Buy an unrelated equity call option
-D. Enter a pay-fixed interest-rate swap
-
----
-
-✅ **Correct: B**
-
-The exporter will receive dollars later, so selling dollar futures protects against those dollars losing rupee value.
-
-**Final synthesis mastered: 2 consecutive correct.**
-
-**Derivatives session completed: 8/8 subtopics**
-Score: **19/25 (76%)**. Strong fundamentals; revise option rights and integrated contract distinctions.
+# COMPLETE CONSOLIDATED REGISTER NOTES
+
+## A. Securities architecture
+
+- A security is a marketable financial claim; classify claim, issuer, cash flow, maturity, trading venue, leverage and regulator.
+- Debt is a creditor claim; ordinary equity is residual ownership; fund units are pooled claims; derivatives create linked contractual payoffs.
+- Primary markets create securities and finance issuers; secondary markets transfer existing claims and support liquidity and price discovery.
+- IPO, FPO, rights, bonus, private placement and offer for sale have distinct cash-flow and ownership effects.
+- Exchanges match trades; clearing corporations manage obligations; depositories record ownership; custodians safeguard assets.
+
+## B. Equity and valuation
+
+- Equity return combines dividend and price change; dividend is not contractual.
+- Preference shares rank ahead of ordinary shares according to terms but remain share capital.
+- Market cap = price × outstanding shares; it differs from enterprise value.
+- P/E, P/B, EPS, dividend yield and beta are partial measures. Beta is broad-market sensitivity, not total risk or forecast.
+- Rights can preserve proportionate ownership; new issues may dilute; splits and bonus issues do not mechanically create value.
+
+## C. Bonds
+
+- Price is discounted coupons plus redemption; price and yield generally move inversely.
+- Coupon uses face value; current yield uses market price; YTM uses the full promised cash-flow schedule.
+- Duration estimates first-order sensitivity; longer maturity/lower coupon generally increase it. Convexity refines curvature.
+- Corporate yield = benchmark curve plus a spread reflecting credit, liquidity and risk appetite.
+- G-Secs reduce credit risk but retain duration, inflation and liquidity risk. Ratings are opinions, not guarantees.
+- Convertibles embed an equity option; IIBs link specified cash flow/principal to inflation; green, social and sustainability bonds use environmental, social and combined proceeds respectively, without changing seniority.
+
+## D. Derivatives
+
+- Forward: customised bilateral obligation. Future: standardised, cleared, margined and marked to market.
+- Long linear payoff rises with underlying; short payoff falls with it. Basis risk arises from mismatch.
+- Margin is collateral, not purchase price or maximum loss. MTM reduces accumulated counterparty exposure but creates liquidity calls.
+- Call = right to buy; put = right to sell. Buyer pays premium; writer bears obligation.
+- Intrinsic value differs from profit; break-even includes premium and costs.
+- Swaps exchange cash-flow profiles; credit derivatives transfer defined credit risk without destroying underlying default risk.
+- Hedge begins with existing net exposure. Speculation creates/enlarges exposure; arbitrage targets inconsistent prices.
+
+## E. Funds
+
+- Mutual fund NAV = (assets − liabilities)/units; low NAV does not mean cheap.
+- AMC management, trustee oversight, custody and recordkeeping are separate functions.
+- Costs, tax, exit load, duration, credit and liquidity affect outcome.
+- ETFs trade on exchange and may deviate from NAV; creation-redemption supports but cannot guarantee alignment.
+- SIFs are Specialized Investment Funds within the mutual-fund regulatory architecture; AIFs are privately pooled vehicles under separate Category I, II and III regulation.
+- REITs pool real-estate cash flows; InvITs pool infrastructure cash flows; both carry asset, leverage, rate and liquidity risk.
+- Pension, provident and NPS pools invest for retirement under contribution/allocation/withdrawal rules; they retain market, inflation and longevity risk.
+- P-Notes are offshore derivative access instruments issued by registered FPIs; they are not mutual funds, SIFs, AIFs or direct domestic holdings.
+
+## F. Protection, current anchors and advanced cautions
+
+- SEBI’s 20 August 2026 study reported 87.7% individual trader loss incidence in FY26 and about 92% of aggregate individual losses from options; interpret as evidence for suitability/leverage controls, not automatic proof for prohibition.
+- SEBI Mutual Funds Regulations, 2026 were last amended 7 July 2026; the AIF Master Circular 2026 is a live official anchor.
+- From 1 January 2026, the cited SEBI classification treated relevant REIT holdings as equity-related while retaining InvIT holdings as hybrid; classification does not change cash-flow economics.
+- RBI Credit Derivatives Directions were issued 25 June and updated 22 September 2026. The secondary G-Sec directions encountered remain draft.
+- Liquidity transformation, margin spirals, common holdings, central clearing concentration and dynamic hedging create systemic feedback.
+- Tokenisation changes representation and transfer; it does not guarantee title, valuation, liquidity or return.
+
+# COVERAGE MATRIX
+
+| Canonical unit | Core lesson(s) | Advanced extension | Verified PYQ/current integration |
+|---|---:|---:|---|
+| Architecture and claim families | 1 | 14 | 2025 Q7 |
+| Primary/secondary and issue routes | 2 | — | Market-life-cycle foundation |
+| Equity, shares and valuation | 3 | 14 | 2023 Q73; 2025 Q7 |
+| Government/corporate bonds and labelled debt | 4–5 | 13 | 2022 Q5/Q65; cross-owned 2026 Q92 sustainability bond |
+| Forwards/futures/margin/MTM/basis | 6 | 13 | Mechanics integrated locally |
+| Options/payoffs/premium | 7 | 13 | 2025 Q8; 2026 SEBI study |
+| Swaps/credit derivatives | 8 | 13–14 | RBI 2026 directions |
+| Mutual funds | 9 | 13 | MF Regulations 2026 |
+| ETFs/SIFs/AIFs/REITs/InvITs | 10 | 13–14 | 2023 Q21; 2025 Q1; SIF and REIT circulars |
+| Pension, provident and NPS pools | 10 | 14 | Long-horizon mandate, withdrawal and longevity mapping |
+| Participatory Notes (P-Notes) | 5 and 10 | 14 | 2019 Q67; FPI-issued offshore access mapping |
+| Institutions/regulators/protection | 11 | 14 | Official framework synthesis |
+| Current reforms through 3 Oct 2026 | 12 | — | Five official anchors |
+| Tokenisation/systemic/suitability | — | 14 | 2026 Q90, answer-neutral |
+
+# SOURCE LEDGER
+
+## Exact Markdown ownership paths checked
+
+| Role | Exact repository path | Use and boundary |
+|---|---|---|
+| Basic owner | `upsc-ai-kit\knowledge\Economy\basic\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md` | Complete Core scope and verified routed demands; taught first. |
+| Advanced owner | `upsc-ai-kit\knowledge\Economy\advanced\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md` | Convexity, Greeks, liquidity transformation, tokenisation and systemic risk; used only in Lessons 13–14. |
+| Market boundary | `upsc-ai-kit\knowledge\Economy\basic\07_Money-Market-Capital-Market-and-Financial-Instruments.md` | Broad market/instrument architecture; not duplicated wholesale. |
+| RBI/monetary link | `upsc-ai-kit\knowledge\Economy\basic\04_RBI-Monetary-Policy-and-Liquidity-Management.md` | Yield-curve and monetary-transmission boundary. |
+| Banking perimeter | `upsc-ai-kit\knowledge\Economy\basic\05_Banking-Structure-NBFCs-and-Financial-Regulation.md` | SEBI–RBI functional perimeter and prudential distinction. |
+| Fiscal link | `upsc-ai-kit\knowledge\Economy\basic\09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` | Government borrowing/fiscal boundary only. |
+| External hedge link | `upsc-ai-kit\knowledge\Economy\basic\19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md` | Currency exposure and hedge examples. |
+| Digital/token link | `upsc-ai-kit\knowledge\Economy\basic\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md` | Tokenisation and digital-distribution boundary. |
+| Green-finance owner | `upsc-ai-kit\knowledge\Economy\basic\25_Climate-Economics-Green-Finance-and-Circular-Economy.md` | Canonical owner of 2026 Q92 and green/social/sustainability taxonomy. |
+| PYQ routes 2018–2023 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` | Q67/2019, Q5 and Q65/2022, Q21 and Q73/2023; key unavailable locally. |
+| PYQ routes 2024–2025 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md` | Q1/Q7/Q8 of 2025; official local key present but answers suppressed. |
+| PYQ routes 2026 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md` | Q90 and cross-owned Q92; local key is provisional and answers suppressed. |
+
+## OCR-searchable local evidence genuinely checked
+
+| Exact path | PDF pages checked | Use | Control |
+|---|---:|---|---|
+| `books\Indian economy ramesh singh.pdf` | 638 | securities-market and access context | Book framing only; no dated claim promoted as current. |
+| `books\Indian economy ramesh singh.pdf` | 666–669 | P-Notes, corporate-bond and market-institution context | Reconciled with canonical owners and current official rules. |
+| `books\Indian economy ramesh singh.pdf` | 678–693 | mutual funds, AIFs, derivatives and related market mechanics | Used for deeper explanation, not current legal status. |
+
+## Exact PYQ paper/key paths and status
+
+| Years/demands | Exact paper/key or control path | Status used here |
+|---|---|---|
+| 2019 Q67 | `books\more_previous_papers\csp-p1.pdf`, PDF page 31, printed Q67; routing control: `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` | Verbatim stem/options checked against the locally held official paper. The ledger supplies ownership/demand summary only. No official 2019 key is present locally; no answer inferred. |
+| 2022 Q5 and Q65 | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`, PDF page 5/printed Q5 and PDF page 29/printed Q65; routing control: `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` | Verbatim stems/options checked against the locally held official paper. No official 2022 key is present locally; no answer inferred. |
+| 2023 Q21 and Q73 | `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, PDF page 9/printed Q21 and PDF page 29/printed Q73; routing control: `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` | Verbatim stems/options checked against the locally held official paper. No official 2023 key is present locally; no answer inferred. |
+| Supplementary official archive | `https://upsc.gov.in/examinations/previous-question-papers` | Archive landing is supplementary discovery evidence, not the sole or verbatim source for the five blocks above. |
+| 2025 Q1/Q7/Q8 | `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`; `books\prelima_question_paper_answers\Ans-2025-GS1.pdf` | Local question paper and official Set-A key checked; key not reproduced or used to cue approaches. |
+| 2026 Q90/Q92 | `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`; `books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf` | Local paper checked; key explicitly provisional, so no answer reproduced or inferred. |
+
+## Official live-source ledger — status cutoff 3 October 2026
+
+| Publisher and exact URL | Date/status | Claim controlled |
+|---|---|---|
+| SEBI, `https://www.sebi.gov.in/media-and-notifications/press-releases/aug-2026/sebi-studies-indicate-key-trends-in-retail-participation-trading-behaviour-and-profitability-in-the-equity-derivatives_103838.html` | 20 August 2026, press release | FY25/FY26 active-trader counts, 87.7% loss incidence and options share of aggregate individual losses. |
+| SEBI, `https://www.sebi.gov.in/legal/regulations/jul-2026/securities-and-exchange-board-of-india-mutual-funds-regulations-2026-last-amended-on-july-7-2026-_102780.html` | Regulations, last amended 7 July 2026 | Current mutual-fund regulatory anchor. |
+| SEBI, `https://www.sebi.gov.in/legal/master-circulars/jun-2026/master-circular-for-alternative-investment-funds-aifs-_101817.html` | Master Circular, 3 June 2026 | Current AIF consolidation used for vehicle structure. |
+| SEBI, `https://www.sebi.gov.in/sebi_data/attachdocs/feb-2025/1740659043547.pdf` | Circular, 27 February 2025 | SIF definition and regulatory placement. |
+| SEBI, `https://www.sebi.gov.in/sebi_data/attachdocs/nov-2025/1764328394148.pdf` | Circular, 28 November 2025; operative classification from 1 January 2026 | REIT equity-related and InvIT hybrid treatment for MF/SIF investment classification. |
+| RBI, `https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13552` | Master Direction issued 25 June 2026; updated 22 September 2026 | OTC/exchange credit derivatives and current status. |
+| RBI, `https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=5094` | Draft secondary-market G-Sec directions; checked as draft | Draft status only; never presented as operative final law. |
+| Ministry of Finance, DEA, `https://dea.gov.in/framework-sovereign-green-bonds` | India Sovereign Green Bond Framework, November 2022 | Sovereign-green use-of-proceeds context; not used to collapse green, social and sustainability labels. |
+
+## Exact benchmark live sessions actually consulted
+
+| Benchmark role | Exact path | Status |
+|---|---|---|
+| Economy boundary and released style benchmark | `live_sessions\Economy\07-Money-Capital-Markets-Financial-Instruments\Learning-Session-Live-Edition.md` | Checked. |
+| Required opening/lesson benchmark — Nyaya-Vaisesika | `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md` | Checked. |
+| Required opening/lesson benchmark — Yoga | `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md` | Checked. |
+| Required opening/lesson benchmark — Mimamsa | `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md` | Checked. |
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence / reason |
+|---|---|---|
+| canonical markdown | checked | Exact Basic Topic 08 owner plus exact Topic 07, 04, 05, 09, 19, 24 and 25 cross-owner paths are listed above and were used within their boundaries. |
+| final learner package | not relevant | This repair expressly excluded final-package artifacts; none was used as evidence. |
+| layered/complete session | checked | The four exact live-session paths listed immediately above were actually consulted for Economy boundary/style and required structural pedagogy; no unnamed benchmark is claimed. |
+| solved workbook | not relevant | No solved workbook or compiled MCQ corpus was used; only exact routed PYQs and concept checks remain. |
+| advanced dossier | checked | The exact Advanced Topic 08 owner path above supplied only the optional Lessons 13–14. |
+| ocr books | checked | `books\Indian economy ramesh singh.pdf` pages 638, 666–669 and 678–693 were genuinely checked; dated book claims were not treated as current law. |
+| pyqs through 2026 | checked | Exact official local paper paths/pages for 2019, 2022, 2023, 2025 and 2026 plus routing-control paths are listed above; key absence/official/provisional status is explicit and all approaches remain answer-neutral. |
+| official live sources | checked | Exact SEBI, RBI and MoF URLs and document dates/statuses are listed above with a 3 October 2026 cutoff; the RBI G-Sec item remains labelled draft. |

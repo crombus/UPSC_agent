@@ -24,7 +24,7 @@
 | Western-Philosophy | Empiricism — Locke, Berkeley and Hume | 10 | 35,290 | `71d81d144f78` | [Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md](Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Kant | 12 | 34,110 | `0cfcba22010c` | [Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md](Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md) |
 | Economy | Economy 07 - Money Market, Capital Market and Financial Instruments | 12 | 18,514 | `4dca50905089` | [Economy/07-Money-Capital-Markets-Financial-Instruments/Learning-Session-Live-Edition.md](Economy/07-Money-Capital-Markets-Financial-Instruments/Learning-Session-Live-Edition.md) |
-| Economy | Derivatives, Futures and Options | 8 | 9,155 | `702314bbfa0c` | [Economy/08-Derivatives-Futures-Options/Learning-Session-Live-Edition.md](Economy/08-Derivatives-Futures-Options/Learning-Session-Live-Edition.md) |
+| Economy | Economy 08 - Securities, Bonds, Equity, Derivatives and Investment Funds | 14 | 14,557 | `6709f7708a84` | [Economy/08-Derivatives-Futures-Options/Learning-Session-Live-Edition.md](Economy/08-Derivatives-Futures-Options/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Hegel | 11 | 34,035 | `8b848bcbec4b` | [Western-Philosophy/05-Hegel/Learning-Session-Live-Edition.md](Western-Philosophy/05-Hegel/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Moore, Russell & Early Wittgenstein | 12 | 32,972 | `6b6e7093f7d5` | [Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md](Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Logical Positivism | 12 | 16,292 | `e7e237e00058` | [Western-Philosophy/07-Logical-Positivism/Learning-Session-Live-Edition.md](Western-Philosophy/07-Logical-Positivism/Learning-Session-Live-Edition.md) |
@@ -261,4 +261,3 @@
 
 - The earlier Mimamsa cycle was superseded by the complete restarted session.
 - Yoga Day-1 revision is a revision cycle, not a separate full learning session.
-- Economy 08 is represented only by the completed dedicated derivatives module, not as a complete securities-and-funds topic.
