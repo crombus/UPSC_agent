@@ -1,9 +1,9 @@
 # Economy 14 - Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture - Live Session Edition
 
-> **Scope:** UPSC Prelims and GS-III. Current-source cutoff: **23 September 2026**.
+> **Scope:** UPSC Prelims and GS-III. Current-source cutoff: **3 October 2026**.
 > **Evidence rule:** Statements labelled **Fact** are tied to the source ledger; **Inference** marks analysis. PYQs are treated only as verified links, demands and answer approaches. No solved PYQ answer or unverified answer key is reproduced.
 
-## Frozen learner-facing roadmap
+## Learner-facing roadmap
 
 | Lesson | Stage | Subtopic | Why it comes here |
 |---:|---|---|---|
@@ -17,12 +17,14 @@
 | 8 | Core | Soil health, nutrients and fertiliser policy | Explain productivity, imbalance, subsidy and evidence |
 | 9 | Core | Plant protection, mechanisation and input-service access | Complete the input package without treating adoption as automatic |
 | 10 | Core | Agricultural credit architecture and NABARD | Move from physical inputs to pre-harvest liquidity |
-| 11 | Advanced | KCC, interest support, tenancy and credit rationing | Examine inclusion, price and documentation failures |
+| 11 | Core | Institutional and non-institutional credit, KCC, interest support and tenancy | Compare access, price, documentation and bargaining failures |
 | 12 | Core | Crop-insurance design and PMFBY architecture | Separate risk transfer from credit and relief |
-| 13 | Advanced | Basis risk, claims, technology and risk layering | Diagnose why insurance can disappoint despite enrolment |
+| 13 | Core | Basis risk, claims, technology and risk layering | Diagnose why insurance can disappoint despite enrolment |
 | 14 | Core | Conservation, organic, natural and permaculture systems | Compare sustainability approaches without merging labels |
-| 15 | Advanced | Integrated farming and climate-resilient agriculture | Build a diversified adaptation portfolio for rainfed India |
-| 16 | Mastery | Integrated reform: productivity, equity and sustainability | Reassemble water, inputs, finance, insurance and ecology |
+| 15 | Core | Integrated farming and climate-resilient agriculture | Build a diversified adaptation portfolio for rainfed India |
+| 16 | Core mastery | Integrated reform: productivity, equity and sustainability | Reassemble the complete Core |
+| 17 | Optional Advanced | Rebound, return flows, information failures and risk layers | Add scale and information economics after Core mastery |
+| 18 | Optional Advanced | Incentive-compatible water-input-finance reform | Add political-economy depth without making it a Core prerequisite |
 
 ```text
 WATER CONSTRAINT
@@ -38,13 +40,13 @@ INSURANCE + BASIS RISK
 SUSTAINABLE AND CLIMATE-RESILIENT AGRICULTURE
 ```
 
-The roadmap is dependency-led: each lesson solves a problem created by the previous one. Practice volume and visual form vary with the conceptual burden.
+The roadmap is dependency-led. Lessons 1-16 complete the Core; Lessons 17-18 are distinct optional enrichment.
 
 ---
 
 ## Lesson 1 - The farm-resilience system and the water constraint
 
-**Progress: 1/16 | Stage: Foundation | Subtopic: The farm-resilience system and the water constraint**
+Progress: 1/18 | Stage: Foundation | Subtopic: The farm-resilience system and the water constraint
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - Ramesh Singh OCR pages on irrigation, Green Revolution inputs and sustainable agriculture; Economic Survey 2025-26 OCR searched
@@ -131,41 +133,21 @@ This is not an additive shopping list. If water arrives after the critical crop 
 8. Technology adoption depends on farm size, tenancy, finance, maintenance and markets.
 9. Convergence requires a clear causal chain and clear accountability.
 
-### Embedded practice
+### Concept check
 
-**MCQ 1.** A farmer has improved seed and subsidised fertiliser but receives irrigation after the critical growth stage. Which principle best explains the low yield?
+**Question:** Why can late irrigation nullify part of the benefit from improved seed and subsidised fertiliser?
 
-A. Agricultural inputs are complementary and timing-sensitive.  
-B. Crop insurance determines biological yield.  
-C. Formal credit always substitutes for irrigation.  
-D. Fertiliser quantity alone determines attainable output.
+**Model answer:** Agricultural inputs are complementary and timing-sensitive: a missed irrigation window can become the binding constraint, reducing the return to seed and nutrients.
 
-**Answer: A**
+**Misconception to avoid:** Do not assume a subsidy to one input can compensate for a late or missing biological complement.
 
-- **A - Correct:** A missing or late complementary input can bind the production system.
-- **B - Incorrect:** Insurance transfers covered loss after a trigger; it does not grow the crop.
-- **C - Incorrect:** Credit can finance irrigation but cannot physically substitute for water.
-- **D - Incorrect:** Nutrients work within soil, water, crop and timing constraints.
+### Responsive Mains practice
 
-**MCQ 2.** Which intervention principally addresses a seasonal liquidity constraint?
+**Question (10 marks; 150-word ceiling):** Why should agricultural productivity policy be designed as a water-input-credit-insurance nexus?
 
-A. Watershed ridge treatment  
-B. Kisan Credit Card working-capital access  
-C. Crop Cutting Experiments  
-D. Organic certification
+**Mains model:** Define complementarity; show water and soil as physical constraints; explain that credit finances seed, nutrients and operations before harvest; show insurance as risk transfer rather than productivity creation; add the externality problem of cheap power or distorted fertiliser prices; conclude that convergence must preserve instrument-specific accountability. Use PMKSY access and efficiency components, KCC and PMFBY as named evidence for distinct constraints. Show that cheap power or nitrogen can lower private cost while raising aquifer or soil externalities. Conclude with separate service, access and claim metrics.
 
-**Answer: B**
-
-- **A - Incorrect:** Watershed treatment addresses soil-water management.
-- **B - Correct:** KCC is designed around crop and eligible allied working-capital needs.
-- **C - Incorrect:** CCEs support yield assessment for insurance.
-- **D - Incorrect:** Certification verifies a production standard and market claim.
-
-**Original Mains micro-model - 10 marks**
-
-**Question:** Why should agricultural productivity policy be designed as a water-input-credit-insurance nexus?
-
-**Model:** Define complementarity; show water and soil as physical constraints; explain that credit finances seed, nutrients and operations before harvest; show insurance as risk transfer rather than productivity creation; add the externality problem of cheap power or distorted fertiliser prices; conclude that convergence must preserve instrument-specific accountability.
+**Lesson-specific scoring rubric:** Award for complementarity, three distinct named instruments, one externality and separate accountability metrics.
 
 **Transition:** Once agriculture is treated as a system, the first task is to measure water correctly. "Irrigated" can mean created capacity, land served, repeated crop use, useful delivery or output per unit water.
 
@@ -173,7 +155,7 @@ D. Organic certification
 
 ## Lesson 2 - Irrigation accounting, types and efficiency calculations
 
-**Progress: 2/16 | Stage: Foundation | Subtopic: Irrigation accounting, types and efficiency calculations**
+Progress: 2/18 | Stage: Foundation | Subtopic: Irrigation accounting, types and efficiency calculations
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - local Economy book distinguishes irrigation potential, use, efficiency and water productivity
@@ -245,6 +227,22 @@ The 30% gap may reflect incomplete field channels, unreliable releases, land dev
 | Drip | Controlled root-zone application | Capital, clogging and rebound |
 | Sprinkler | Flexible pressurised application | Wind loss, energy and suitability limits |
 
+### Project classes and multipurpose logic
+
+Official planning also distinguishes irrigation projects by culturable command area: **major** projects exceed 10,000 hectares, **medium** projects cover more than 2,000 and up to 10,000 hectares, and **minor irrigation** projects cover up to 2,000 hectares. These are scale labels, not rankings of efficiency or sustainability.
+
+```text
+MULTIPURPOSE PROJECT
+storage
+  -> irrigation
+  -> hydropower
+  -> flood moderation
+  -> drinking or industrial supply
+  -> navigation or fisheries where feasible
+```
+
+One reservoir can therefore create competing seasonal demands. Irrigation releases, power generation, flood cushion, displacement, ecosystems and downstream flows must be reconciled through operating rules rather than a simple benefit list.
+
 ### Criticism, reply and residual
 
 **Objection:** "Efficiency means water not delivered to the root zone is wasted."
@@ -272,55 +270,21 @@ The 30% gap may reflect incomplete field channels, unreliable releases, land dev
 8. Reliable and equitable delivery is distinct from project completion.
 9. Compare like measures and like periods.
 
-### Embedded practice
+### Concept check
 
-**MCQ 3.** Net irrigated area is 80 hectares and gross irrigated area is 120 hectares. Irrigation intensity is:
+**Question:** Calculate irrigation intensity when net irrigated area is 80 hectares and gross irrigated area is 120 hectares. What does the result not prove?
 
-A. 66.7%  
-B. 100%  
-C. 150%  
-D. 200%
+**Model answer:** Irrigation intensity is `120 / 80 x 100 = 150%`; it shows repeated irrigated cropping, not application efficiency or water saved.
 
-**Answer: C**
+**Misconception to avoid:** Do not reverse the gross/net ratio or interpret area intensity as a water-flow efficiency.
 
-- **A - Incorrect:** That reverses the ratio.
-- **B - Incorrect:** It would apply if gross and net areas were equal.
-- **C - Correct:** `120 / 80 x 100 = 150%`.
-- **D - Incorrect:** Gross area would need to be 160 hectares.
+### Responsive Mains practice
 
-**MCQ 4.** Which statement is most accurate?
+**Question (10 marks; 150-word ceiling):** Distinguish irrigation potential, utilisation, intensity and water productivity.
 
-A. Potential created proves water productivity.  
-B. Gross irrigated area can never exceed net irrigated area.  
-C. All canal seepage is irrecoverably lost.  
-D. Application efficiency and basin-level water saving are different propositions.
+**Mains model:** Irrigation potential is the area a project is designed or created to serve; utilisation is the portion actually used. Irrigation intensity is gross irrigated area divided by net irrigated area, showing repeated seasonal cropping. Efficiency is a stage-specific water ratio, while water productivity measures physical or economic output per unit water. Thus 52,000 hectares used from 80,000 hectares created gives 65% utilisation, but says nothing about root-zone storage or crop output. A project can therefore create capacity without reliable delivery, and high intensity can coexist with depletion. Policy should report each denominator and follow the chain from asset to service to crop and resource outcome.
 
-**Answer: D**
-
-- **A - Incorrect:** Created capacity is several causal steps away from output.
-- **B - Incorrect:** Repeated irrigated seasons make gross area exceed net area.
-- **C - Incorrect:** Some seepage may recharge an aquifer or support downstream use.
-- **D - Correct:** Field application and basin consumption use different boundaries.
-
-**MCQ 5.** Which measure directly captures repeated irrigated cropping on the same physical land?
-
-A. Irrigation intensity  
-B. Potential created  
-C. Aquifer recharge rate  
-D. Farmer premium rate
-
-**Answer: A**
-
-- **A - Correct:** Its numerator counts all irrigated crop instances.
-- **B - Incorrect:** This is designed irrigation capacity.
-- **C - Incorrect:** This is a hydrological flow.
-- **D - Incorrect:** This belongs to insurance pricing.
-
-**Original Mains micro-model - 10 marks**
-
-**Question:** Distinguish irrigation potential, utilisation, intensity and water productivity.
-
-**Model:** Use four one-line definitions; add the two ratios; give a numerical illustration; explain why project creation is not delivery and why intensity is not efficiency; conclude that policy evaluation must follow the ladder from asset to crop outcome.
+**Lesson-specific scoring rubric:** Award for four correct measures, one calculation, explicit numerator/denominator and a scale warning.
 
 **Transition:** Measurement reveals the gap, but it does not explain its institutional source. The next lesson follows water from a reservoir, tank or pump to the head, middle and tail of a command.
 
@@ -328,12 +292,12 @@ D. Farmer premium rate
 
 ## Lesson 3 - Canal, tank, lift and command-area governance
 
-**Progress: 3/16 | Stage: Core | Subtopic: Canal, tank, lift and command-area governance**
+Progress: 3/18 | Stage: Core | Subtopic: Canal, tank, lift and command-area governance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - irrigation chapters and local final package on canals, tanks, lift systems and CADWM
 CA search: `"M-CADWM pressurised piped irrigation SCADA IoT India 2026 official"`
-CA found: **Ministry of Jal Shakti/PIB material on Modernisation of Command Area Development and Water Management, retrieved 23 September 2026**
+CA found: **Ministry of Jal Shakti/PIB material on Modernisation of Command Area Development and Water Management, retrieved 3 October 2026**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: where a canal system can fail
@@ -365,6 +329,8 @@ A canal is a network service, not merely a storage structure. Its high fixed cos
 
 **Seepage qualification:** Lining can improve conveyance where leakage is harmful, but seepage may recharge groundwater in some hydrogeological settings. The correct test is net system effect, not a slogan.
 
+Major and medium systems usually require basin-scale storage, inter-departmental operation and a complete command network. Minor systems such as tanks, wells, tube wells and small surface schemes can provide closer local control, but may fragment groundwater extraction or maintenance. Neither scale is inherently superior; hydrology, reliability, equity, energy use and life-cycle maintenance decide.
+
 ### Tank and lift systems
 
 ```text
@@ -383,7 +349,7 @@ Tanks are decentralised but depend on catchment treatment, desiltation and prote
 
 **Command Area Development and Water Management:** the last-mile family of field channels, drains, land shaping, measurement, scheduling and farmer coordination that converts potential into use.
 
-**Current anchor:** Ministry of Jal Shakti/PIB M-CADWM material, retrieved 23 September 2026, describes pilots using pressurised piped networks, SCADA and IoT. These technologies can improve measurement and control, but a pilot or sanctioned cluster is not proof of nationwide outcome.
+**Current anchor:** Ministry of Jal Shakti/PIB M-CADWM material, retrieved 3 October 2026, describes pilots using pressurised piped networks, SCADA and IoT. These technologies can improve measurement and control, but a pilot or sanctioned cluster is not proof of nationwide outcome.
 
 ### Water Users Associations and pricing
 
@@ -423,41 +389,21 @@ Tanks are decentralised but depend on catchment treatment, desiltation and prote
 9. Pricing works only with reliable and measurable service.
 10. M-CADWM technology is an instrument, not an outcome.
 
-### Embedded practice
+### Concept check
 
-**MCQ 6.** Which intervention most directly closes the gap between a completed canal project and farm-level delivery?
+**Question:** Which command-area intervention converts completed canal potential into reliable farm-level delivery, and how?
 
-A. Crop insurance enrolment  
-B. Command-area field channels, drainage and scheduling  
-C. Fertiliser nutrient subsidy  
-D. Organic certification
+**Model answer:** CADWM/M-CADWM closes the last-mile gap through field channels or pressurised delivery, measurement, scheduling, drainage and user coordination.
 
-**Answer: B**
+**Misconception to avoid:** Do not credit reservoir or canal construction alone when field delivery and drainage remain incomplete.
 
-- **A - Incorrect:** Insurance addresses covered risk.
-- **B - Correct:** CADWM converts project potential into last-mile service.
-- **C - Incorrect:** Fertiliser policy concerns nutrient access and prices.
-- **D - Incorrect:** Certification concerns production standards.
+### Responsive Mains practice
 
-**MCQ 7.** Which statement about canal seepage is best?
+**Question (15 marks; 250-word ceiling):** Why does creation of irrigation infrastructure often fail to ensure equitable and efficient water delivery?
 
-A. It is always a beneficial recharge flow.  
-B. It is always an irrecoverable economic loss.  
-C. Its net effect depends on geology, drainage, waterlogging and downstream use.  
-D. It is unrelated to command-area performance.
+**Mains model:** Irrigation potential is only designed or created capacity; equitable use depends on the entire service chain. In canal commands, incomplete distributaries and field channels, poor maintenance, unmeasured releases and head-end capture make supply unreliable at the tail. Inadequate drainage can convert excess delivery into waterlogging and salinity. Tanks face siltation and encroachment, while lift schemes add recurring energy and repair costs. **CADWM/M-CADWM** addresses last-mile channels, pressurised delivery, measurement, drainage and Water Users Associations; its value lies in reliable farm-gate service, not technology installation alone. Canal lining should be selective because seepage may be harmful loss in one setting but recoverable groundwater recharge in another. Thus project completion must be judged by utilisation, timing, tail-end adequacy and drainage outcomes.
 
-**Answer: C**
-
-- **A - Incorrect:** Seepage can cause waterlogging or structural loss.
-- **B - Incorrect:** Some seepage may recharge usable groundwater.
-- **C - Correct:** The system boundary and hydrogeology determine the verdict.
-- **D - Incorrect:** It directly affects conveyance, land and groundwater.
-
-**Original Mains micro-model - 15 marks**
-
-**Question:** Why does creation of irrigation infrastructure often fail to ensure equitable and efficient water delivery?
-
-**Model:** Begin with the potential-utilisation distinction; diagnose incomplete field channels, maintenance, timing, head-tail capture, weak measurement and drainage; compare canal, tank and lift constraints; evaluate WUAs and pricing; add M-CADWM as a modernisation tool with pilot-status caution; conclude with reliable service and tail-end outcome indicators.
+**Lesson-specific scoring rubric:** Award for potential-versus-service distinction (2), project-to-field failures (4), CADWM/M-CADWM/WUA evidence (2), and seepage/drainage qualification with outcome conclusion (2).
 
 **Transition:** Surface systems reveal a coordination problem within a command. Groundwater creates a harder problem: each farmer can pump privately from a stock shared with neighbours.
 
@@ -465,12 +411,12 @@ D. It is unrelated to command-area performance.
 
 ## Lesson 4 - Groundwater as a common pool and the water-energy-crop nexus
 
-**Progress: 4/16 | Stage: Core | Subtopic: Groundwater as a common pool and the water-energy-crop nexus**
+Progress: 4/18 | Stage: Core | Subtopic: Groundwater as a common pool and the water-energy-crop nexus
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - canonical common-pool, power-pricing and aquifer-governance analysis
 CA search: `"India groundwater depletion Atal Bhujal water budgeting 2026 official"`
-CA found: **Atal Bhujal Yojana and official groundwater-management material, rechecked 23 September 2026, continue aquifer planning and community water-budget emphasis**
+CA found: **Atal Bhujal Yojana and official groundwater-management material, rechecked 3 October 2026, continue aquifer planning and community water-budget emphasis**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the common-pool pumping game
@@ -566,69 +512,21 @@ Each farmer may rationally continue because reducing alone sacrifices output wit
 9. Reform must combine equity, energy and crop transitions.
 10. Aquifer is the correct hydrological management scale.
 
-### Embedded practice
+### Concept check
 
-**MCQ 8.** Groundwater is called a common-pool resource mainly because:
+**Question:** Why is groundwater a common-pool resource even when wells are privately owned?
 
-A. every aquifer is owned by the Union government.  
-B. pumping is non-subtractable.  
-C. all farmers face identical pumping costs.  
-D. exclusion is difficult while one user's extraction reduces water available to others.
+**Model answer:** Private wells draw from a shared, subtractable aquifer from which exclusion is difficult; individual gains can therefore impose collective depletion costs.
 
-**Answer: D**
+**Misconception to avoid:** Do not define the problem merely as private ownership; shared subtractability is the decisive economic feature.
 
-- **A - Incorrect:** Ownership and operational access vary; that is not the defining economic property.
-- **B - Incorrect:** Groundwater use is subtractable.
-- **C - Incorrect:** Depth, pump, energy and finance create unequal costs.
-- **D - Correct:** Difficult exclusion plus subtractability defines the common-pool problem.
+### Responsive Mains practice
 
-**MCQ 9.** Which reform most directly addresses the divergence between private and social pumping cost?
+**Question (15 marks; 250-word ceiling):** Examine the groundwater-energy-crop nexus in Indian agriculture.
 
-A. Aquifer-level water budgeting with enforceable collective extraction rules  
-B. A larger crop-insurance premium subsidy alone  
-C. Universal expansion of borewell credit  
-D. Elimination of all extension services
+**Mains model:** Groundwater is a common-pool resource: each farmer captures the crop return from pumping, while depletion is shared across aquifer users. Flat or subsidised power lowers marginal extraction cost, and procurement-linked profitability can sustain paddy or sugarcane in stressed regions. Falling water tables then require deeper wells and more energy, excluding small farmers before wealthier pump owners. **Atal Bhujal Yojana**, aquifer mapping and community water budgets support collective demand management; micro-irrigation and recharge improve efficiency and supply. However, recharge can be absorbed by additional pumping, and metering alone can be regressive without reliable power, crop markets and transition support. The durable solution aligns power, procurement, water measurement and viable crop alternatives while protecting basic irrigation access.
 
-**Answer: A**
-
-- **A - Correct:** It makes the shared stock and collective constraint visible.
-- **B - Incorrect:** Insurance does not price aquifer depletion.
-- **C - Incorrect:** More borewell finance can intensify extraction.
-- **D - Incorrect:** Extension is needed for crop and water transitions.
-
-**MCQ 10.** Which chain best represents the water-energy-crop nexus?
-
-A. Higher canal tariff -> automatic rainfall increase  
-B. Cheap pumping power -> water-intensive cropping -> aquifer stress  
-C. Crop insurance -> fertiliser manufacture -> reservoir siltation  
-D. Organic certification -> free electricity -> assured recharge
-
-**Answer: B**
-
-- **A - Incorrect:** Tariffs do not change rainfall.
-- **B - Correct:** Power price changes pumping cost and crop incentives affect water demand.
-- **C - Incorrect:** These mechanisms are not causally connected in that order.
-- **D - Incorrect:** Certification does not assure hydrological recharge.
-
-**MCQ 11.** A recharge programme raises annual recharge by 10 units, but extraction rises by 20 units. The most defensible conclusion is:
-
-A. The aquifer has recovered because recharge increased.  
-B. Recharge structures always fail.  
-C. Net depletion worsened by 10 units; demand governance remains necessary.  
-D. Electricity prices have no relevance.
-
-**Answer: C**
-
-- **A - Incorrect:** Net balance, not recharge alone, determines stock pressure.
-- **B - Incorrect:** Recharge still offset part of the extraction increase.
-- **C - Correct:** Extraction increased more than recharge.
-- **D - Incorrect:** Pumping incentives remain central.
-
-**Original Mains micro-model - 15 marks**
-
-**Question:** Examine the groundwater-energy-crop nexus in Indian agriculture.
-
-**Model:** Define groundwater as common pool; explain cheap or unmetered power and procurement-linked crop choice; show depletion, deeper wells and unequal exclusion; evaluate recharge, micro-irrigation and Atal Jal; add measurement, crop transition and small-farmer protection; conclude that electricity reform without viable crop and income alternatives is incomplete.
+**Lesson-specific scoring rubric:** Award for common-pool mechanism (2), power-procurement-crop chain (3), unequal deepening effect (2), named Atal Jal/aquifer response (2), and qualified transition conclusion (1).
 
 **Transition:** Groundwater governance begins below the farm. Watershed policy begins above it, treating the ridge, slope, drainage line and valley as one hydrological unit.
 
@@ -636,12 +534,12 @@ D. Electricity prices have no relevance.
 
 ## Lesson 5 - Watersheds, PMKSY, Jal Shakti and local water governance
 
-**Progress: 5/16 | Stage: Core | Subtopic: Watersheds, PMKSY, Jal Shakti and local water governance**
+Progress: 5/18 | Stage: Core | Subtopic: Watersheds, PMKSY, Jal Shakti and local water governance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - watershed, PMKSY, Jal Shakti and rainfed-development material
 CA search: `"PMKSY watershed development Catch the Rain India 2026 official"`
-CA found: **PIB, 30 June 2026 - PMKSY backgrounder; PMKSY portal rechecked 23 September 2026 confirms PDMC under RKVY**
+CA found: **PIB, 30 June 2026 - PMKSY backgrounder; PMKSY portal rechecked 3 October 2026 confirms PDMC under RKVY**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: ridge-to-valley treatment
@@ -722,61 +620,27 @@ Then test tenure, equity, downstream impact, maintenance and counterfactual rain
 3. Soil and moisture conservation precedes downstream structures.
 4. Watershed development is especially relevant to rainfed areas.
 5. PMKSY is a convergence framework with component-specific functions.
-6. PDMC's administrative placement, rechecked 23 September 2026, must be dated.
+6. PDMC's administrative placement, rechecked 3 October 2026, must be dated.
 7. Jal Shakti is campaign mode; WDC is a standing programme architecture.
 8. Structures are intermediate outputs.
 9. Participation must include landless and downstream interests.
 10. Hydrological impact needs a rainfall-aware counterfactual.
 
-### Embedded practice
+### Concept check
 
-**MCQ 12.** The defining spatial unit of watershed development is:
+**Question:** What makes a watershed a distinct planning unit, and why is ridge-to-valley treatment used?
 
-A. a bank's service area.  
-B. the command of one canal outlet only.  
-C. a district boundary.  
-D. a catchment draining to a common outlet.
+**Model answer:** A watershed is the land area draining to a common outlet; ridge-to-valley treatment slows runoff and erosion upstream before water concentrates downstream.
 
-**Answer: D**
+**Misconception to avoid:** Do not confuse a natural drainage catchment with a command area receiving project water.
 
-- **A - Incorrect:** Credit geography is unrelated.
-- **B - Incorrect:** Command area and watershed are not synonyms.
-- **C - Incorrect:** Administrative and hydrological boundaries may differ.
-- **D - Correct:** Drainage to a common outlet defines the watershed.
+### Responsive Mains practice
 
-**MCQ 13.** Why does ridge-to-valley sequencing matter?
+**Question (10 marks; 150-word ceiling):** How does watershed development improve water-stressed agriculture?
 
-A. It controls runoff and erosion upstream before protecting downstream works.  
-B. It requires every farm to use a tubewell.  
-C. It replaces community institutions with insurers.  
-D. It measures crop-insurance basis risk.
+**Mains model:** A watershed is a catchment draining to a common outlet. Ridge-to-valley treatment first slows runoff and erosion on upper slopes, then improves infiltration, soil moisture, recharge and protective irrigation downstream. **WDC-PMKSY** supplies the programme anchor, while Jal Shakti Abhiyan/Catch the Rain supports convergence and participation. Better moisture can raise cropping intensity and livelihoods, but rainfall, tenure, maintenance, elite capture and downstream effects condition results. Hence watershed success should be measured through erosion, moisture, groundwater, crop stability and livelihood change—not the number of check dams or ponds constructed.
 
-**Answer: A**
-
-- **A - Correct:** Upper-catchment treatment reduces runoff speed and sediment.
-- **B - Incorrect:** Watershed work does not require universal groundwater pumping.
-- **C - Incorrect:** Local institutions are central to shared-asset maintenance.
-- **D - Incorrect:** Basis risk belongs to index insurance.
-
-**MCQ 14.** Which statement reflects the official PMKSY portal rechecked 23 September 2026?
-
-A. PDMC was abolished in 2022-23.  
-B. PDMC supports micro-irrigation and is implemented under RKVY.  
-C. WDC-PMKSY is a crop-insurance component.  
-D. AIBP is an organic-certification programme.
-
-**Answer: B**
-
-- **A - Incorrect:** The policy continues under a changed administrative umbrella.
-- **B - Correct:** The portal expressly records PDMC under RKVY.
-- **C - Incorrect:** WDC concerns watershed treatment.
-- **D - Incorrect:** AIBP concerns irrigation-project completion.
-
-**Original Mains micro-model - 10 marks**
-
-**Question:** How does watershed development improve water-stressed agriculture?
-
-**Model:** Define the catchment; draw ridge-to-valley sequence; explain soil conservation, infiltration, moisture and protective irrigation; add participation and livelihood effects; qualify with rainfall, tenure, maintenance and downstream impacts; end with outcome metrics rather than structure counts.
+**Lesson-specific scoring rubric:** Award for watershed definition, ridge-to-valley causality, one named programme, participation and outcome metrics.
 
 **Transition:** Watershed policy changes the catchment. Micro-irrigation changes application at the plot. The central question is whether saving at one scale survives at the next.
 
@@ -784,7 +648,7 @@ D. AIBP is an organic-certification programme.
 
 ## Lesson 6 - Micro-irrigation, scheduling, fertigation and rebound
 
-**Progress: 6/16 | Stage: Core | Subtopic: Micro-irrigation, scheduling, fertigation and rebound**
+Progress: 6/18 | Stage: Core | Subtopic: Micro-irrigation, scheduling, fertigation and rebound
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - drip, sprinkler, fertigation, tensiometer and rebound evidence
@@ -889,69 +753,21 @@ Per-hectare use fell 30%, but total withdrawal rose 12%. This is the rebound pro
 9. Coverage hectares do not prove water saved.
 10. Micro-irrigation should be paired with aquifer and crop governance.
 
-### Embedded practice
+### Concept check
 
-**MCQ 15.** A tensiometer is primarily used to:
+**Question:** What does a tensiometer measure, and how does that information improve irrigation scheduling?
 
-A. measure canal discharge at a barrage.  
-B. assess insurance-unit yield.  
-C. guide irrigation timing through soil-water tension.  
-D. certify organic farms.
+**Model answer:** A tensiometer measures soil-water tension, helping apply irrigation when the root zone needs it rather than by a fixed calendar.
 
-**Answer: C**
+**Misconception to avoid:** Do not treat a tensiometer as a canal-discharge or rainfall-measuring instrument.
 
-- **A - Incorrect:** Canal discharge uses other hydraulic measurements.
-- **B - Incorrect:** Yield assessment uses CCEs or technology.
-- **C - Correct:** Soil-water tension helps schedule irrigation.
-- **D - Incorrect:** Organic certification follows production standards and audit.
+### Responsive Mains practice
 
-**MCQ 16.** A farm reduces water applied per hectare by 25% but doubles irrigated area. Total withdrawal will:
+**Question (10 marks; 150-word ceiling):** Why can micro-irrigation improve field efficiency without solving groundwater depletion?
 
-A. necessarily fall by 25%.  
-B. necessarily remain unchanged.  
-C. become zero.  
-D. rise by 50% relative to the original total.
+**Mains model:** Drip targets the root zone and sprinkler applies pressurised spray; both can improve field application and support fertigation or tensiometer-based scheduling. **Per Drop More Crop** promotes this precision. Yet field saving is not automatically aquifer saving: if water use falls from 100 to 70 units per hectare but irrigated area rises from 10 to 16 hectares, total withdrawal rises from 1,000 to 1,120 units. Capital, clogging, energy and crop suitability also matter. Micro-irrigation can therefore ease water stress only when paired with extraction measurement, aquifer budgets, suitable crops and limits on rebound.
 
-**Answer: D**
-
-- **A - Incorrect:** Area expansion offsets the unit saving.
-- **B - Incorrect:** `0.75 x 2 = 1.5`, not 1.
-- **C - Incorrect:** Irrigation continues.
-- **D - Correct:** New total is 150% of the original.
-
-**MCQ 17.** Which is the most defensible description of fertigation?
-
-A. Applying soluble nutrients through irrigation water under controlled conditions  
-B. Replacing all soil testing with a fixed fertiliser dose  
-C. Insuring fertiliser against price change  
-D. Measuring rainfall with a sprinkler
-
-**Answer: A**
-
-- **A - Correct:** That is the technical meaning.
-- **B - Incorrect:** Fertigation still needs crop and soil diagnosis.
-- **C - Incorrect:** It is an application method, not an insurance contract.
-- **D - Incorrect:** Sprinklers apply water; they are not rain gauges.
-
-**MCQ 18.** Which evidence would best test whether a drip programme conserved groundwater?
-
-A. Number of subsidy applications alone  
-B. Change in total extraction and aquifer level, controlling for rainfall and crop area  
-C. Number of emitters purchased alone  
-D. Farmer premium paid under PMFBY
-
-**Answer: B**
-
-- **A - Incorrect:** Applications are an administrative output.
-- **B - Correct:** It tests the basin outcome and key confounders.
-- **C - Incorrect:** Purchase does not prove use or saving.
-- **D - Incorrect:** Insurance premium is unrelated to groundwater accounting.
-
-**Original Mains micro-model - 10 marks**
-
-**Question:** Why can micro-irrigation improve field efficiency without solving groundwater depletion?
-
-**Model:** Define drip/sprinkler and application efficiency; give a numerical rebound example; distinguish water applied from consumptive use and basin withdrawal; add capital, clogging and crop suitability; use PDMC's dated administrative position; conclude with aquifer budgets, crop incentives and measurement.
+**Lesson-specific scoring rubric:** Award for drip/sprinkler distinction, scheduling or fertigation, numerical rebound logic and basin governance.
 
 **Transition:** Water determines whether a crop survives. Seed determines what biological potential the crop carries, while extension determines whether the farmer can use that potential.
 
@@ -959,12 +775,12 @@ D. Farmer premium paid under PMFBY
 
 ## Lesson 7 - Seed systems, planting material and agricultural extension
 
-**Progress: 7/16 | Stage: Core | Subtopic: Seed systems, planting material and agricultural extension**
+Progress: 7/18 | Stage: Core | Subtopic: Seed systems, planting material and agricultural extension
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - local package on seed classes, formal/informal systems, propagation and ICAR/KVK extension
 CA search: `"Seeds Bill 2025 status India September 2026 official agriculture ministry"`
-CA found: **Draft Seeds Bill, 2025 status rechecked 23 September 2026: it remained a consultation draft; Seeds Act, 1966 remained the legal anchor**
+CA found: **Draft Seeds Bill, 2025 status rechecked 3 October 2026: it remained a consultation draft; Seeds Act, 1966 remained the legal anchor**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: from genetic material to farm decision
@@ -1044,41 +860,21 @@ Extension reduces information failure about variety, sowing window, nutrient dos
 9. ICAR, SAUs and KVKs form the research-extension bridge.
 10. Extension must be location-specific and two-way.
 
-### Embedded practice
+### Concept check
 
-**MCQ 19.** Which sequence is correct?
+**Question:** State the nucleus-to-certified seed multiplication sequence and explain what certification does not guarantee.
 
-A. Certified -> nucleus -> foundation -> breeder  
-B. Breeder -> certified -> nucleus -> foundation  
-C. Nucleus -> breeder -> foundation -> certified  
-D. Foundation -> breeder -> certified -> nucleus
+**Model answer:** The sequence is nucleus, breeder, foundation and certified seed; certification assures specified identity and quality, not universal local suitability.
 
-**Answer: C**
+**Misconception to avoid:** Do not infer that certified seed is automatically affordable, stress-tolerant or optimal for every agro-climatic zone.
 
-- **A - Incorrect:** It reverses the multiplication chain.
-- **B - Incorrect:** Certified seed does not precede nucleus or foundation.
-- **C - Correct:** This is the standard pedigree sequence.
-- **D - Incorrect:** Foundation follows breeder and cannot begin the chain.
+### Responsive Mains practice
 
-**MCQ 20.** Which statement best distinguishes formal and informal seed systems?
+**Question (10 marks; 150-word ceiling):** Why should seed policy balance formal quality assurance with farmer access and diversity?
 
-A. Certified seed is always best for every local condition.  
-B. Informal seed is always illegal.  
-C. Farm-saved seed automatically carries a certification label.  
-D. Formal systems use organised quality assurance; informal systems include farm saving and exchange.
+**Mains model:** Formal seed multiplication—nucleus, breeder, foundation and certified seed—supports identity, germination and traceability, but certification does not guarantee local suitability or affordability. Farm-saved and locally exchanged seed preserve access and adaptation, though quality can vary. Public breeding, private innovation and credible regulation should therefore coexist. **ICAR**, State Agricultural Universities and KVKs must translate varietal traits into local sowing, water, nutrient and protection decisions while returning farmer feedback to research. Seed policy should protect quality and choice, maintain diversity and judge adoption through stable yield, stress fit and farmer net return rather than replacement rate alone.
 
-**Answer: D**
-
-- **A - Incorrect:** Suitability remains crop- and location-specific.
-- **B - Incorrect:** Informality is not itself illegality.
-- **C - Incorrect:** Certification requires prescribed controls.
-- **D - Correct:** It distinguishes channels and assurance without a blanket quality verdict.
-
-**Original Mains micro-model - 10 marks**
-
-**Question:** Why should seed policy balance formal quality assurance with farmer access and diversity?
-
-**Model:** Define formal and informal systems; explain purity, germination and traceability benefits; add affordability, local adaptation and diversity; discuss public breeding, private innovation and extension; state the legal-status position rechecked 23 September 2026; conclude with plural channels under credible quality regulation.
+**Lesson-specific scoring rubric:** Award for seed-class sequence, formal-informal plurality, KVK feedback and agro-climatic suitability.
 
 **Transition:** Seed carries potential, but the soil must supply water and nutrients. The next lesson asks why more fertiliser can produce less response when nutrient balance and soil biology deteriorate.
 
@@ -1086,7 +882,7 @@ D. Formal systems use organised quality assurance; informal systems include farm
 
 ## Lesson 8 - Soil health, nutrients and fertiliser policy
 
-**Progress: 8/16 | Stage: Core | Subtopic: Soil health, nutrients and fertiliser policy**
+Progress: 8/18 | Stage: Core | Subtopic: Soil health, nutrients and fertiliser policy
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - Ramesh Singh OCR on N-P-K, Green Revolution inputs and environmental cost; Survey 2025-26 searched
@@ -1181,55 +977,21 @@ Biochar is carbon-rich material produced through controlled heating of biomass u
 10. Biochar outcomes are context-specific.
 11. Balanced reform needs farmer protection and extension.
 
-### Embedded practice
+### Concept check
 
-**MCQ 21.** Which statement correctly describes India's fertiliser-price architecture?
+**Question:** How do the urea and Nutrient Based Subsidy architectures differ, and why can the difference affect nutrient balance?
 
-A. Urea has controlled MRP under a separate subsidy regime, while eligible P&K fertilisers receive NBS.  
-B. Urea and every P&K product have identical pricing rules.  
-C. NBS fixes one permanent rate for all years.  
-D. Fertiliser DBT deposits the entire subsidy into every farmer's bank account before purchase.
+**Model answer:** Urea follows an administered price/subsidy architecture, while covered P-and-K fertilisers receive nutrient-based support; the relative price wedge can bias nutrient use.
 
-**Answer: A**
+**Misconception to avoid:** Do not describe fertiliser DBT as an unconditional cash transfer to cultivators or assume all nutrients share one price regime.
 
-- **A - Correct:** The two product families follow different regimes.
-- **B - Incorrect:** Their price and subsidy architectures differ.
-- **C - Incorrect:** Rates are periodically notified.
-- **D - Incorrect:** Companies are reimbursed after authenticated retail sale.
+### Responsive Mains practice
 
-**MCQ 22.** A Soil Health Card is best understood as:
+**Question (15 marks; 250-word ceiling):** Analyse how fertiliser subsidy can support productivity while worsening nutrient imbalance.
 
-A. a land-title document.  
-B. a dated soil-test report supporting crop- and site-specific nutrient decisions.  
-C. a crop-insurance claim order.  
-D. a permanent guarantee of soil fertility.
+**Mains model:** Fertiliser subsidy supports affordable plant nutrition and food production, but its relative-price structure can distort application. Urea follows an administered price/subsidy regime, whereas covered phosphatic and potassic fertilisers receive **Nutrient Based Subsidy**. Cheap nitrogen relative to complementary nutrients can encourage excess urea, declining marginal response, soil imbalance and water pollution. **Soil Health Cards**, Integrated Nutrient Management, split application and fertigation improve diagnosis and nutrient-use efficiency; fertiliser DBT authenticates retail sale before firm reimbursement but does not itself correct agronomy. Nano-fertiliser and biochar claims require crop-, soil-, dose- and season-specific evidence. Reform should gradually rebalance incentives, strengthen soil testing and extension, and protect small farmers during transition. Productivity support becomes sustainable only when measured as yield and income per balanced nutrient, not fertiliser volume alone.
 
-**Answer: B**
-
-- **A - Incorrect:** Land records establish title.
-- **B - Correct:** Sampling and testing guide nutrient recommendations.
-- **C - Incorrect:** Insurance uses separate triggers and evidence.
-- **D - Incorrect:** Soil condition changes and sampling has limits.
-
-**MCQ 23.** Which is the most evidence-disciplined claim about nano urea?
-
-A. It supplies phosphorus and potassium automatically.  
-B. Regulatory notification proves identical results in every crop.  
-C. It should be used according to crop-soil protocols; universal replacement claims require evidence.  
-D. It eliminates the need for extension.
-
-**Answer: C**
-
-- **A - Incorrect:** It is a nitrogen formulation.
-- **B - Incorrect:** Approval is not universal agronomic proof.
-- **C - Correct:** Context and protocol determine performance.
-- **D - Incorrect:** Correct use increases the need for reliable advice.
-
-**Original Mains micro-model - 15 marks**
-
-**Question:** Analyse how fertiliser subsidy can support productivity while worsening nutrient imbalance.
-
-**Model:** Explain affordability and food-security rationale; distinguish urea and NBS; trace relative-price distortion to excess nitrogen and lower marginal response; add soil, water and fiscal externalities; evaluate SHC, INM, split application, fertigation and gradual price reform; protect small farmers during transition.
+**Lesson-specific scoring rubric:** Award for affordability rationale (1), urea-NBS relative-price mechanism (3), soil/water/fiscal analysis (2), named SHC-INM-DBT response (2), and evidence/transition qualification (2).
 
 **Transition:** Nutrients support plant growth, but pests, machinery access and service timing determine whether the input package survives and reaches small farms.
 
@@ -1237,12 +999,12 @@ D. It eliminates the need for extension.
 
 ## Lesson 9 - Plant protection, mechanisation and input-service access
 
-**Progress: 9/16 | Stage: Core | Subtopic: Plant protection, mechanisation and input-service access**
+Progress: 9/18 | Stage: Core | Subtopic: Plant protection, mechanisation and input-service access
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - pesticide, IPM, machinery and custom-hiring material in local books and final package
 CA search: `"Integrated Pest Management custom hiring centres farm mechanisation India 2026 official"`
-CA found: **Official IPM and Sub-Mission on Agricultural Mechanization portals, rechecked 23 September 2026, continued surveillance and mechanisation-support information**
+CA found: **Official IPM and Sub-Mission on Agricultural Mechanization portals, rechecked 3 October 2026, continued surveillance and mechanisation-support information**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the IPM decision ladder
@@ -1338,41 +1100,21 @@ Tenant security, plot shape, repair network, spare parts, digital literacy and e
 9. Drones are tools, not self-validating outcomes.
 10. Distributional and gender effects require design attention.
 
-### Embedded practice
+### Concept check
 
-**MCQ 24.** Which sequence best represents Integrated Pest Management?
+**Question:** State the Integrated Pest Management decision sequence and explain why selective chemical use can remain part of it.
 
-A. Blanket spraying -> no monitoring -> repeat dose  
-B. Insurance claim -> pest identification -> fertiliser subsidy  
-C. Mechanisation -> crop failure -> certification  
-D. Prevention -> monitoring -> threshold-based integrated response
+**Model answer:** IPM proceeds from prevention and surveillance to threshold-based biological, mechanical and selective chemical response; pesticide is a last calibrated tool, not an automatic ban.
 
-**Answer: D**
+**Misconception to avoid:** Do not equate IPM with routine calendar spraying or with an absolute prohibition on every pesticide.
 
-- **A - Incorrect:** This promotes overuse and resistance.
-- **B - Incorrect:** Insurance and fertiliser are not an IPM sequence.
-- **C - Incorrect:** Certification does not diagnose pests.
-- **D - Correct:** IPM is preventive, evidence-led and integrated.
+### Responsive Mains practice
 
-**MCQ 25.** Why can a Custom Hiring Centre be more inclusive than an ownership subsidy?
+**Question (10 marks; 150-word ceiling):** How can India promote farm mechanisation without excluding smallholders?
 
-A. It can provide time-bound machine services without requiring each farmer to bear the fixed cost.  
-B. It guarantees that every machine is appropriate for every plot.  
-C. It eliminates repair and scheduling problems.  
-D. It converts pesticides into biological controls.
+**Mains model:** Farm mechanisation improves timeliness, precision, drudgery reduction and peak-season productivity, but machine ownership is often uneconomic on small, fragmented holdings. **Custom Hiring Centres**, FPO-run services and local machinery banks can spread fixed cost across users and convert ownership support into pay-per-use access. Transparent booking, village-level scheduling, trained operators, repair and spare-parts networks, and women-friendly equipment determine whether the service reaches the correct agronomic window. Mechanisation can displace particular tasks, yet it can also address labour scarcity, enable multiple cropping and create operation and repair work. Therefore, success should be measured by affordable, timely use across small and marginal farms—not by machines distributed or subsidy sanctioned.
 
-**Answer: A**
-
-- **A - Correct:** Shared use lowers the indivisible-capital barrier.
-- **B - Incorrect:** Suitability still depends on plot and operation.
-- **C - Incorrect:** Maintenance and timely booking remain crucial.
-- **D - Incorrect:** Machinery access does not change pesticide chemistry.
-
-**Original Mains micro-model - 10 marks**
-
-**Question:** How can India promote farm mechanisation without excluding smallholders?
-
-**Model:** Establish timeliness, drudgery and productivity benefits; explain indivisibility and fragmented holdings; propose CHCs, FPO-based services, transparent booking, repair networks and women-friendly equipment; qualify employment effects; conclude that service reliability is a better metric than machines distributed.
+**Lesson-specific scoring rubric:** Award for mechanisation benefits (2), small-farm indivisibility/fragmentation (2), named CHC/FPO service evidence (2), timing-repair-gender access conditions (2), and a qualified employment/outcome conclusion (2).
 
 **Transition:** Every input in Lessons 7-9 must be purchased or accessed before the crop generates revenue. That inter-temporal gap creates the demand for agricultural credit.
 
@@ -1380,7 +1122,7 @@ D. It converts pesticides into biological controls.
 
 ## Lesson 10 - Agricultural credit architecture and NABARD
 
-**Progress: 10/16 | Stage: Core | Subtopic: Agricultural credit architecture and NABARD**
+Progress: 10/18 | Stage: Core | Subtopic: Agricultural credit architecture and NABARD
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - local agricultural-credit chapters, cooperative structure and NABARD functions
@@ -1488,77 +1230,29 @@ The structure offers local information and reach but can suffer governance, capi
 9. NCF and SMF targets are nested within agriculture.
 10. Credit quantity does not prove access quality.
 
-### Embedded practice
+### Concept check
 
-**MCQ 26.** Under the cited RBI PSL Directions, the agricultural, NCF and SMF targets are best read as:
+**Question:** How should the agriculture, non-corporate-farmer and small/marginal-farmer PSL targets be read?
 
-A. three additive targets totalling 42%.  
-B. nested targets within the agricultural category.  
-C. optional recommendations for foreign banks only.  
-D. crop-insurance premium rates.
+**Model answer:** They are nested targets: the non-corporate-farmer and small/marginal-farmer requirements sit within the agricultural portfolio structure and must not be added to it.
 
-**Answer: B**
+**Misconception to avoid:** Do not add 18%, 14% and 10%; that double-counts nested portfolio obligations.
 
-- **A - Incorrect:** Adding nested sub-targets double-counts.
-- **B - Correct:** NCF sits within agriculture and SMF within the prescribed structure.
-- **C - Incorrect:** The cited table applies to specified domestic institutions.
-- **D - Incorrect:** PSL is lending classification, not insurance pricing.
+### Responsive Mains practice
 
-**MCQ 27.** Which institution is the local base tier of the short-term cooperative credit structure?
+**Question (15 marks; 250-word ceiling):** Evaluate the role of institutional credit in transforming Indian agriculture.
 
-A. State Cooperative Bank  
-B. NABARD  
-C. Primary Agricultural Credit Society  
-D. IRDAI
+**Mains model:** Institutional credit bridges the period between input expenditure and harvest, finances irrigation and machinery, and can reduce dependence on usurious or tied finance. Delivery runs through commercial banks, RRBs and the **StCB-DCCB-PACS** cooperative chain; **NABARD** supplies refinance, development support, specified supervision and RIDF-linked rural infrastructure. RBI's agricultural priority-sector architecture directs bank portfolios, but target achievement does not prove timely, regionally balanced or tenant-inclusive lending. Seasonal risk, small transactions and weak cultivation records can produce delay, inadequate limits or exclusion. Cash-flow appraisal, credible lease or cultivator records, JLGs, stronger cooperative governance and maturity matched to farm income can improve access. **Thus,** institutional credit transforms agriculture only when productive use, repayment capacity and borrower protection accompany aggregate expansion.
 
-**Answer: C**
-
-- **A - Incorrect:** StCB is the State-level apex tier.
-- **B - Incorrect:** NABARD is the national apex development institution.
-- **C - Correct:** PACS serves members at village/local level.
-- **D - Incorrect:** IRDAI regulates insurance.
-
-**MCQ 28.** Which NABARD role is correctly matched?
-
-A. Issuing every individual KCC directly  
-B. Fixing PMFBY actuarial bids  
-C. Certifying all organic produce  
-D. Refinance and rural-development support to eligible institutions
-
-**Answer: D**
-
-- **A - Incorrect:** Retail KCCs are issued through lending institutions.
-- **B - Incorrect:** Insurance bidding is not NABARD's general role.
-- **C - Incorrect:** Organic certification uses separate systems.
-- **D - Correct:** Refinance and development are core NABARD functions.
-
-**MCQ 29.** A farmer finances a seven-year orchard with a loan repayable after one crop season. The principal design failure is:
-
-A. maturity mismatch between credit and income generation.  
-B. crop-insurance basis risk.  
-C. canal head-tail inequity.  
-D. nutrient subsidy imbalance.
-
-**Answer: A**
-
-- **A - Correct:** Repayment arrives before the asset generates matching cash flow.
-- **B - Incorrect:** Basis risk concerns an index and individual loss.
-- **C - Incorrect:** This is an irrigation-distribution issue.
-- **D - Incorrect:** This concerns fertiliser relative prices.
-
-**Original Mains micro-model - 15 marks**
-
-**Question:** Evaluate the role of institutional credit in transforming Indian agriculture.
-
-**Model:** Cover seasonal liquidity, technology adoption, capital formation and protection from usury; map banks, RRBs, cooperatives and NABARD; state the PSL architecture under RBI Directions updated 7 August 2026; diagnose tenant exclusion, regional inequality, timeliness and debt stress; propose cash-flow lending, JLGs, digital records with safeguards and extension-insurance linkage.
+**Lesson-specific scoring rubric:** Award for transformation channels (2), bank/RRB/cooperative map (2), exact NABARD roles (2), PSL-versus-access critique (2), and inclusion/repayment reforms (2).
 
 **Transition:** The architecture can supply funds, yet the farmer may still be excluded by land title, collateral, delayed sanction or fear of repayment. KCC and interest support attempt to reduce these transaction and price barriers.
 
 ---
 
-## Lesson 11 - KCC, interest support, tenancy and credit rationing
+## Lesson 11 - Institutional and non-institutional credit, KCC and tenant inclusion
 
-**Progress: 11/16 | Stage: Advanced | Subtopic: KCC, interest support, tenancy and credit rationing**
+Progress: 11/18 | Stage: Core | Subtopic: Institutional and non-institutional credit, KCC and tenant inclusion
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - KCC, MISS, JLG/SHG, tenant exclusion and farmer-suicide cautions
@@ -1617,6 +1311,19 @@ input dealer / moneylender credit
 
 JLGs and SHGs can use social collateral and group discipline. FPOs can aggregate services and transactions. These mechanisms reduce some information cost but cannot erase crop, market or governance risk.
 
+### Institutional and non-institutional credit
+
+| Source | Information and speed | Typical strength | Principal risk |
+|---|---|---|---|
+| Banks, RRBs and cooperatives | Formal appraisal and records | Regulated terms, scale and longer maturities | Delay, documentation and collateral barriers |
+| Moneylender | Local and rapid | Flexible emergency liquidity | High explicit interest and weak protection |
+| Trader or commission agent | Knows crop and expected sale | Input or harvest-linked finance | Tied sale, price discount and bargaining dependence |
+| Landlord | Linked to tenancy | May finance cultivation or consumption | Labour, rent and credit dependence can combine |
+| Input dealer | Immediate input access | Solves timing failure | Hidden finance cost and tied product choice |
+| Relatives or friends | Relationship-based | Low formal transaction cost | Limited scale and social obligation |
+
+The relevant cost is not only the stated interest rate. A tied output sale below the open-market price, compulsory input purchase or delayed formal sanction can dominate the effective cost. Non-institutional credit persists because it supplies speed, consumption smoothing and local information that a standard crop loan may not provide.
+
 ### Credit rationing
 
 A bank may ration rather than simply raise the interest rate because a very high rate can attract riskier projects or induce riskier behaviour. This is the adverse-selection/moral-hazard logic behind screening, collateral and limits.
@@ -1653,55 +1360,21 @@ Indebtedness can interact with crop loss, price shock, health expenditure, socia
 9. Cheap credit cannot help someone excluded from the channel.
 10. Debt distress is multi-causal.
 
-### Embedded practice
+### Concept check
 
-**MCQ 30.** Which distinction is correct?
+**Question:** Distinguish KCC from interest support, and explain why either may still fail an undocumented tenant.
 
-A. KCC is crop insurance; MISS is organic certification.  
-B. KCC provides a credit mechanism; MISS provides eligible interest support.  
-C. KCC establishes land title; MISS measures rainfall.  
-D. KCC is available only after crop loss.
+**Model answer:** KCC supplies a revolving credit channel, while MISS supports eligible interest cost; neither automatically resolves missing tenant records or delayed sanction.
 
-**Answer: B**
+**Misconception to avoid:** Do not treat a cheaper rate as proof that the actual tenant obtained timely and adequate credit.
 
-- **A - Incorrect:** Neither description is correct.
-- **B - Correct:** Access and interest support are distinct functions.
-- **C - Incorrect:** Land records and weather data are separate systems.
-- **D - Incorrect:** KCC finances cultivation before harvest.
+### Responsive Mains practice
 
-**MCQ 31.** Why might an actual tenant cultivator remain outside formal farm credit?
+**Question (15 marks; 250-word ceiling):** Why does cheaper institutional credit not automatically ensure inclusive agricultural finance?
 
-A. Irrigated farms are legally ineligible.  
-B. Every tenant receives automatic collateral-free finance.  
-C. Operational cultivation may not be reflected in title or acceptable lease records.  
-D. KCC can be issued only by insurers.
+**Mains model:** A low formal interest rate benefits only a farmer who can enter the channel on time. Tenants and sharecroppers may lack acceptable cultivation records or collateral; banks also face high appraisal costs for small, weather-correlated loans. Consequently, moneylenders, traders and input dealers remain attractive because they provide rapid, flexible finance using local information, though the effective cost may include high interest, tied inputs or discounted output sales. **KCC** provides revolving credit and **MISS** supports eligible interest cost, while JLGs, SHGs and FPO intermediation can reduce information and collateral barriers. Reform must recognise actual cultivators, use cash-flow and transaction evidence, match maturity to farm income and disclose unique borrowers rather than account counts. Cheaper credit becomes inclusive only when eligibility, timeliness and bargaining protection improve together.
 
-**Answer: C**
-
-- **A - Incorrect:** Irrigation status is not a blanket exclusion.
-- **B - Incorrect:** Documentation and lender assessment still matter.
-- **C - Correct:** The cultivator-title mismatch is a central exclusion channel.
-- **D - Incorrect:** Banks and eligible credit institutions issue KCCs.
-
-**MCQ 32.** Which conclusion can safely be drawn from 7.72 crore active KCC accounts?
-
-A. Exactly 7.72 crore unique households received new loans that year.  
-B. Every account carried the same outstanding amount.  
-C. Informal credit was eliminated.  
-D. The KCC system operated at large scale, but account and unique-beneficiary denominators must be distinguished.
-
-**Answer: D**
-
-- **A - Incorrect:** Account stock is not unique annual beneficiary flow.
-- **B - Incorrect:** Limits and outstanding balances vary.
-- **C - Incorrect:** The figure says nothing of complete displacement.
-- **D - Correct:** It is the properly qualified inference.
-
-**Original Mains micro-model - 15 marks**
-
-**Question:** Why does cheaper institutional credit not automatically ensure inclusive agricultural finance?
-
-**Model:** Distinguish interest rate from eligibility and access; explain tenancy, records, collateral, bank transaction cost and timing; evaluate KCC, MISS, JLG/SHG and FPO channels; add borrower protection and debt-distress caution; conclude with cultivator-sensitive cash-flow lending and transparent denominator reporting.
+**Lesson-specific scoring rubric:** Award for rate-versus-access distinction (2), tenant/bank-cost mechanism (2), formal-informal comparison with hidden cost (2), KCC-MISS/JLG evidence (2), and cultivator-sensitive conclusion (2).
 
 **Transition:** Credit helps the farmer take a productive risk. Insurance determines how a specified part of that risk is shared when the season goes wrong.
 
@@ -1709,7 +1382,7 @@ D. The KCC system operated at large scale, but account and unique-beneficiary de
 
 ## Lesson 12 - Crop-insurance design and PMFBY architecture
 
-**Progress: 12/16 | Stage: Core | Subtopic: Crop-insurance design and PMFBY architecture**
+Progress: 12/18 | Stage: Core | Subtopic: Crop-insurance design and PMFBY architecture
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - indemnity, area-yield, weather-index and PMFBY material
@@ -1720,7 +1393,7 @@ CA found: **PIB, 29 August 2026 - PMFBY backgrounder with dated enrolment, appli
 ### Visual: risk transfer, not guaranteed income
 
 ```text
-Farmer pays capped share of premium
+Farmer pays capped rate on sum insured
        + government premium support
        + insurer prices pooled risk
                       |
@@ -1746,15 +1419,21 @@ Farmer pays capped share of premium
 
 PMFBY, launched in Kharif 2016, is an area-yield-based public-private crop-insurance architecture with additional specified localised/post-harvest provisions under guidelines.
 
-Farmer premium shares commonly cited in official scheme material:
+The farmer's maximum payable premium is expressed as a percentage of the **sum insured**, not as a percentage share of the actuarial premium:
 
-| Crop/season | Farmer share of actuarial premium |
+| Crop/season | Maximum farmer premium rate |
 |---|---:|
-| Kharif food and oilseed crops | 2% |
-| Rabi food and oilseed crops | 1.5% |
-| Annual commercial/horticultural crops | 5% |
+| Kharif food and oilseed crops | 2% of sum insured |
+| Rabi food and oilseed crops | 1.5% of sum insured |
+| Annual commercial and horticultural crops | 5% of sum insured |
 
-Government supports the balance subject to applicable sharing and scheme rules. These are farmer premium shares, not guaranteed claim percentages.
+If the actuarial premium rate is lower than the applicable farmer cap, the farmer pays the lower rate. The difference between the actuarial premium and the farmer-paid premium is premium subsidy. Under the revamped rules, the Centre and State share the supported subsidy under the applicable pattern—generally 50:50 and 90:10 for North-Eastern States—while Central support is limited to premium rates up to 30% in unirrigated areas/crops and 25% in irrigated areas/crops; a State choosing costlier cover bears the additional subsidy under the guidelines. None of these rates is a claim percentage.
+
+### Voluntary enrolment and eligibility
+
+From **Kharif 2020**, PMFBY enrolment is **voluntary for all farmers**, including loanee farmers. A crop loan or KCC does not by itself make enrolment compulsory.
+
+Eligible cultivators include loanee and non-loanee farmers, including sharecroppers and tenant farmers, who grow a **notified crop in a notified area during the notified season** and can establish the required insurable interest or cultivation evidence. Legal eligibility does not guarantee practical access: tenants can still face record, enrolment-window or documentation barriers.
 
 ### Insurance unit and threshold yield
 
@@ -1812,76 +1491,29 @@ Exact notice periods, crops, districts and operational conditions must be checke
 3. Indemnity insurance assesses individual loss.
 4. Area-yield insurance uses a notified unit.
 5. Weather index uses measured parameters.
-6. PMFBY farmer premium shares differ by crop category.
-7. Government supports the actuarial premium balance under rules.
-8. Threshold and actual yield determine area-yield claims.
-9. Notified crop, season, unit and notice conditions matter.
-10. YES-TECH supports yield estimation.
-11. WINDS supports weather-data infrastructure.
+6. PMFBY farmer premium caps are rates on sum insured: 2%, 1.5% and 5%.
+7. The actuarial-premium difference is subsidised under applicable Centre-State rules and Central-support limits.
+8. Enrolment has been voluntary for all farmers, including loanee farmers, since Kharif 2020.
+9. Sharecroppers and tenants are eligible when they cultivate a notified crop in a notified area and meet evidence rules.
+10. Threshold and actual yield determine area-yield claims.
+11. Notified crop, season, unit and notice conditions matter.
+12. YES-TECH supports yield estimation; WINDS supports weather-data infrastructure.
 
-### Embedded practice
+### Concept check
 
-**MCQ 33.** Which design generally has the closest trigger to an individual farmer's assessed loss?
+**Question:** Which crop-insurance design most closely follows assessed individual loss, and what transaction-cost problem does it create?
 
-A. Individual indemnity insurance  
-B. Area-yield index only  
-C. Rainfall index only  
-D. Fertiliser DBT
+**Model answer:** Individual indemnity follows assessed farm loss most closely, but farm-by-farm verification raises administrative cost, delay and moral-hazard concerns.
 
-**Answer: A**
+**Misconception to avoid:** Do not assume the most individualised design is automatically cheapest, fastest or easiest to verify.
 
-- **A - Correct:** Its trigger is the assessed individual loss.
-- **B - Incorrect:** It uses the notified area's yield.
-- **C - Incorrect:** It uses measured weather.
-- **D - Incorrect:** This is a subsidy-payment system.
+### Responsive Mains practice
 
-**MCQ 34.** Under the standard PMFBY premium-share statement, the farmer share for notified Rabi food/oilseed crops is:
+**Question (15 marks; 250-word ceiling):** Explain the design logic and operational limitations of crop insurance in India.
 
-A. 1%  
-B. 1.5%  
-C. 2%  
-D. 5%
+**Mains model:** Crop insurance pools covariate production risk that individual farmers cannot efficiently bear. Individual indemnity follows farm loss but is costly to verify; area-yield insurance reduces verification cost but creates basis risk; weather indices offer objective triggers yet can diverge from crop damage. Under **PMFBY**, the farmer's maximum premium is 2%, 1.5% or 5% **of sum insured** for the specified crop categories; government subsidises the actuarial-premium difference under applicable sharing and Central-support limits. Enrolment is voluntary for all farmers from Kharif 2020, while eligibility requires a notified crop, area and season plus cultivation evidence. Threshold yield, Crop Cutting Experiments and specified localised/post-harvest rules determine claims. YES-TECH and WINDS can improve evidence, but data errors, delayed subsidy, basis risk and weak grievance redress remain. Insurance must complement prevention and adaptation, not promise income certainty.
 
-**Answer: B**
-
-- **A - Incorrect:** That is not the standard cited share.
-- **B - Correct:** Official scheme material cites 1.5%.
-- **C - Incorrect:** 2% is cited for Kharif food/oilseed crops.
-- **D - Incorrect:** 5% is cited for annual commercial/horticultural crops.
-
-**MCQ 35.** WINDS is intended primarily to strengthen:
-
-A. land-title adjudication.  
-B. fertiliser manufacture.  
-C. weather-data infrastructure for crop-insurance operations.  
-D. canal water pricing.
-
-**Answer: C**
-
-- **A - Incorrect:** It is not a land-record court.
-- **B - Incorrect:** It does not manufacture inputs.
-- **C - Correct:** Its purpose is weather information and network data.
-- **D - Incorrect:** Canal tariffs use irrigation administration.
-
-**MCQ 36.** Which statement is most accurate?
-
-A. A covered farmer receives a claim after every yield decline.  
-B. Farmer premium percentage equals indemnity percentage.  
-C. PMFBY eliminates every agricultural risk.  
-D. Claim eligibility depends on the notified design, trigger, evidence and conditions.
-
-**Answer: D**
-
-- **A - Incorrect:** The trigger and threshold must be met.
-- **B - Incorrect:** Premium and indemnity are different concepts.
-- **C - Incorrect:** Price and many idiosyncratic risks remain.
-- **D - Correct:** Insurance is contract- and trigger-specific.
-
-**Original Mains micro-model - 15 marks**
-
-**Question:** Explain the design logic and operational limitations of crop insurance in India.
-
-**Model:** Start with covariate risk and pooling; compare individual, area-yield and weather designs; describe PMFBY premium support and coverage stages; evaluate affordability, adverse selection, data, delay, basis risk and grievance; use YES-TECH/WINDS cautiously; conclude with transparent data and layered risk management.
+**Lesson-specific scoring rubric:** Award for three-design comparison (2), correct sum-insured rates/subsidy doctrine (3), voluntary eligibility and claim mechanics (2), YES-TECH/WINDS evidence (1), and basis-risk/grievance qualification (2).
 
 **Transition:** The scheme can operate exactly as designed and still disappoint a farmer. The next lesson explains the gap between the index trigger and the loss experienced on one plot.
 
@@ -1889,12 +1521,12 @@ D. Claim eligibility depends on the notified design, trigger, evidence and condi
 
 ## Lesson 13 - Basis risk, claims, technology and risk layering
 
-**Progress: 13/16 | Stage: Advanced | Subtopic: Basis risk, claims, technology and risk layering**
+Progress: 13/18 | Stage: Core | Subtopic: Basis risk, claims, technology and risk layering
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - canonical basis-risk and technology boundary analysis
 CA search: `"PMFBY basis risk CCE satellite yield estimation 2026 India official"`
-CA found: **PIB PMFBY backgrounder dated 29 August 2026 and official PMFBY technology pages rechecked 23 September 2026 cover YES-TECH, CROPIC and WINDS**
+CA found: **PIB PMFBY backgrounder dated 29 August 2026 and official PMFBY technology pages rechecked 3 October 2026 cover YES-TECH, CROPIC and WINDS**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: four farms, one area index
@@ -1985,41 +1617,21 @@ Insurance is inefficient for every small predictable loss and inadequate for eve
 9. Adaptation addresses changing expected loss, not only one shock.
 10. Hybrid design trades precision against cost and delay.
 
-### Embedded practice
+### Concept check
 
-**MCQ 37.** An individual farm suffers severe loss, but the notified area's average yield remains above threshold. This is:
+**Question:** An individual farm loses its crop while the notified area yield remains above threshold. Identify and explain the insurance problem.
 
-A. basis risk.  
-B. irrigation intensity.  
-C. prompt repayment incentive.  
-D. nutrient imbalance.
+**Model answer:** This is basis risk: the area index does not trigger even though the individual plot suffers loss.
 
-**Answer: A**
+**Misconception to avoid:** Do not confuse basis risk with claim delay, non-notification or an uncovered peril.
 
-- **A - Correct:** The index fails to match the individual loss.
-- **B - Incorrect:** Irrigation intensity compares gross and net irrigated area.
-- **C - Incorrect:** This belongs to credit incentives.
-- **D - Incorrect:** This concerns nutrient proportions.
+### Responsive Mains practice
 
-**MCQ 38.** Which statement about technology in crop insurance is most accurate?
+**Question (10 marks; 150-word ceiling):** What is basis risk, and how can India reduce it without making crop insurance prohibitively costly?
 
-A. Direct transfer makes yield data automatically correct.  
-B. Technology can improve timeliness and auditability but leaves calibration, sampling and access risks.  
-C. Satellite imagery eliminates every localised-loss dispute.  
-D. More weather stations convert area-yield insurance into land title.
+**Mains model:** Define basis risk as mismatch between indexed payout and an individual's loss. Use the four-farm example to show how a large insurance unit can average away a local shock. Identify unit size, weather-station density, Crop Cutting Experiment error, crop-record error and localised-peril rules as causes. Reduce the gap through smaller units where feasible, auditable sampling, calibrated remote sensing, localised protocols and accessible grievance redress. Individual assessment for every plot would raise cost and delay, so the qualified solution is a transparent hybrid design within a wider risk-layering system.
 
-**Answer: B**
-
-- **A - Incorrect:** Payment rails cannot repair bad input data.
-- **B - Correct:** Technology changes error and cost; it does not erase them.
-- **C - Incorrect:** Models and local variation remain.
-- **D - Incorrect:** Insurance and title are different institutions.
-
-**Original Mains micro-model - 10 marks**
-
-**Question:** What is basis risk, and how can India reduce it without making crop insurance prohibitively costly?
-
-**Model:** Define and give the four-farm example; identify unit size, station density, CCE and local-peril causes; propose smaller units where feasible, auditable sampling, remote-sensing calibration, localised protocols and grievance redress; conclude with hybrid design and risk layering.
+**Lesson-specific scoring rubric:** Award for an exact basis-risk definition, a clear area-versus-plot example, two causes, cost-conscious remedies and a hybrid-design qualification.
 
 **Transition:** Insurance compensates some realised loss. Sustainable agriculture attempts to lower the probability or severity of loss while preserving soil, water and farm viability.
 
@@ -2027,12 +1639,12 @@ D. More weather stations convert area-yield insurance into land title.
 
 ## Lesson 14 - Conservation, organic, natural and permaculture systems
 
-**Progress: 14/16 | Stage: Core | Subtopic: Conservation, organic, natural and permaculture systems**
+Progress: 14/18 | Stage: Core | Subtopic: Conservation, organic, natural and permaculture systems
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - conservation agriculture, organic, natural farming and permaculture evidence
 CA search: `"National Mission on Natural Farming implementation India 2026 official"`
-CA found: **Official National Mission on Natural Farming material, rechecked 23 September 2026, continued implementation and cluster-based training; outcomes require crop- and transition-specific evidence**
+CA found: **Official National Mission on Natural Farming material, rechecked 3 October 2026, continued implementation and cluster-based training; outcomes require crop- and transition-specific evidence**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: four approaches, four organising ideas
@@ -2064,7 +1676,20 @@ Organic agriculture is a standards-and-certification category. Natural farming i
 
 **Verified link:** **2018 GS-III Q8**, 10 marks/150 words - benefits of declaring Sikkim an organic State.
 
-The answer demand is "benefits," but a mature response can qualify transition, certification, logistics, yield, market premium and nutrient availability rather than turning the answer into promotion.
+```text
+24 February 2003  -> Assembly resolution for a total organic State
+16 September 2003 -> Sikkim State Organic Board constituted
+2004 onward       -> State procurement of chemical fertilisers/pesticides
+                      and chemical-pesticide subsidy withdrawn
+2010              -> Sikkim Organic Mission launched
+2015              -> Entire agricultural area converted to certified organic
+January 2016      -> Formally declared India's first 100% organic State
+2018              -> FAO Future Policy Gold Award
+```
+
+Official accounts use different area bases: the Sikkim mission portal refers to **58,168 hectares of cultivable land**, while Union-government communication often rounds the converted agricultural area to about **75,000 hectares**. Use the chronology confidently, but date and identify the denominator before quoting area.
+
+The model's strengths include reduced dependence on prohibited synthetic inputs, soil-water and biodiversity benefits, certification-led branding and tourism/market visibility. Its limits are equally substantive: a small mountainous State, long administrative mobilisation, certification and logistics costs, possible transition yield or nutrient-management difficulties, and uncertain price realisation. It is evidence for a phased transition, not proof that an abrupt ban is replicable in large, intensively cropped plains States.
 
 ### Permaculture
 
@@ -2111,56 +1736,24 @@ knowledge, certification and price realisation
 9. Market premium is not guaranteed.
 10. Certification and traceability have costs.
 11. Evaluate nutrient balance and labour, not labels alone.
+12. Sikkim's sequence ran from the 2003 resolution to certified conversion in 2015 and formal declaration in January 2016.
+13. Sikkim is a phased model with scale and agro-ecological limits, not an instant national template.
 
-### Embedded practice
+### Concept check
 
-**MCQ 39.** Which set most closely represents conservation agriculture?
+**Question:** What three principles define conservation agriculture, and why is zero tillage alone insufficient?
 
-A. Deep annual tillage, bare soil and monoculture  
-B. Certified organic inputs only, regardless of tillage  
-C. Minimum disturbance, soil cover and crop diversification  
-D. Compulsory tubewell irrigation and residue burning
+**Model answer:** Conservation agriculture combines minimum soil disturbance, continuous soil cover and crop diversification; zero tillage supplies only the first element.
 
-**Answer: C**
+**Misconception to avoid:** Do not use organic, natural, conservation and permaculture as interchangeable labels.
 
-- **A - Incorrect:** It contradicts all three principles.
-- **B - Incorrect:** Organic input status does not define conservation agriculture.
-- **C - Correct:** These are its core tenets.
-- **D - Incorrect:** Neither is required and residue burning removes cover.
+### Responsive Mains practice
 
-**MCQ 40.** Which distinction is most accurate?
+**Question (15 marks; 250-word ceiling):** Compare conservation agriculture, organic farming, natural farming and permaculture.
 
-A. Every natural-farming farm is automatically certified organic.  
-B. Permaculture is only a fertiliser subsidy.  
-C. Zero tillage is the same as crop insurance.  
-D. Organic, natural, conservation and permaculture approaches overlap but have different organising rules.
+**Mains model:** Conservation agriculture combines minimum disturbance, permanent soil cover and crop diversification; organic farming follows approved production and certification standards; natural farming emphasises on-farm ecological processes and lower purchased-input dependence; permaculture designs diverse, recycled whole-farm relationships. Sikkim shows the importance of sequencing: its 2003 Assembly resolution and Organic Board were followed by chemical-input policy withdrawal from 2004, the Organic Mission in 2010, certified conversion in 2015 and formal 100% organic declaration in January 2016. Yet its small mountainous setting, long mobilisation, certification/logistics costs and uncertain transition yields or premiums limit mechanical replication. Policy should compare nutrient balance, labour, multi-year net income, soil-water outcomes and market access. Sustainability requires evidence-based, agro-ecologically suitable transitions rather than interchangeable labels or abrupt bans.
 
-**Answer: D**
-
-- **A - Incorrect:** Certification requires prescribed compliance and verification.
-- **B - Incorrect:** Permaculture is an ecological design approach.
-- **C - Incorrect:** One is agronomy; the other risk transfer.
-- **D - Correct:** Shared practices do not erase conceptual differences.
-
-**MCQ 41.** Which evidence would best evaluate a natural-farming programme?
-
-A. Crop- and location-specific yields, costs, labour, soil indicators and net income over transition years  
-B. Number of launch events alone  
-C. Number of slogans printed  
-D. Aggregate rainfall without a comparison group
-
-**Answer: A**
-
-- **A - Correct:** It measures agronomic, ecological and economic outcomes over time.
-- **B - Incorrect:** Events are outputs, not farm outcomes.
-- **C - Incorrect:** Communication volume proves no effect.
-- **D - Incorrect:** Rainfall alone cannot identify programme impact.
-
-**Original Mains micro-model - 15 marks**
-
-**Question:** Compare conservation agriculture, organic farming, natural farming and permaculture.
-
-**Model:** Use a four-column matrix of organising principle, practice, verification and constraint; add Sikkim as a verified link; discuss transition yield, labour, residue trade-off, certification and markets; conclude that agro-ecological suitability and farmer net income should guide adoption.
+**Lesson-specific scoring rubric:** Award for four distinct systems (3), accurate Sikkim chronology (2), two transition/replication limits (2), comparative outcome criteria (2), and qualified verdict (1).
 
 **Transition:** These systems modify crop practice. Integrated farming goes further by linking crops, livestock, trees, water and waste so that one enterprise buffers another.
 
@@ -2168,7 +1761,7 @@ D. Aggregate rainfall without a comparison group
 
 ## Lesson 15 - Integrated farming and climate-resilient agriculture
 
-**Progress: 15/16 | Stage: Advanced | Subtopic: Integrated farming and climate-resilient agriculture**
+Progress: 15/18 | Stage: Core | Subtopic: Integrated farming and climate-resilient agriculture
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - IFS, agroforestry, rainfed farming, millets, CSA and NMSA evidence
@@ -2263,41 +1856,21 @@ The official NMSA strategy emphasises location-specific rainfed planning, conver
 10. NMSA is location-specific and convergence-based.
 11. Smallholder adoption needs knowledge and services.
 
-### Embedded practice
+### Concept check
 
-**MCQ 42.** Which feature makes a farm system "integrated" rather than merely diversified?
+**Question:** What makes an Integrated Farming System integrated rather than merely a list of enterprises?
 
-A. It grows more than one crop name.  
-B. Enterprises exchange inputs, outputs, labour or cash-flow benefits.  
-C. Every enterprise receives the same subsidy.  
-D. The farm eliminates all market sales.
+**Model answer:** IFS requires functional material, labour or cash-flow links among enterprises, such as residue-to-feed and manure-to-soil cycles.
 
-**Answer: B**
+**Misconception to avoid:** Do not call a farm integrated merely because it has several unconnected enterprises.
 
-- **A - Incorrect:** Multiple crops alone can be diversification without integration.
-- **B - Correct:** Functional linkages define integration.
-- **C - Incorrect:** Subsidy equality is irrelevant.
-- **D - Incorrect:** IFS can produce for household and market.
+### Responsive Mains practice
 
-**MCQ 43.** Climate-Smart Agriculture seeks to combine:
+**Question (15 marks; 250-word ceiling):** How can Integrated Farming Systems improve the resilience of small and marginal farmers?
 
-A. only emission reduction.  
-B. only higher irrigation subsidies.  
-C. productivity, adaptation/resilience and mitigation where possible.  
-D. compulsory organic certification.
+**Mains model:** An Integrated Farming System links enterprises rather than merely adding them. Crop residues feed livestock, manure restores soil nutrients, ponds can support irrigation and fish, and staggered crop-animal-tree outputs smooth food, work and cash flow. These linkages can raise resource-use efficiency and reduce dependence on one harvest—especially for smallholders in rainfed regions. **Rainfed Area Development under NMSA**, KVK extension, agroforestry and producer aggregation provide relevant support. However, diversification lowers risk only when shocks are not highly correlated and when feed, animal health, labour, finance and markets are available; otherwise complexity can increase loss. Climate-smart evaluation should test productivity, adaptation and mitigation trade-offs across local agro-climatic conditions. Therefore, viable IFS models must be location-specific and measured through multi-year net income, nutrition, soil-water outcomes and resilience.
 
-**Answer: C**
-
-- **A - Incorrect:** CSA is broader than mitigation.
-- **B - Incorrect:** A subsidy is one possible instrument, not the definition.
-- **C - Correct:** These are the three recognised objective families.
-- **D - Incorrect:** CSA does not mandate one certification system.
-
-**Original Mains micro-model - 15 marks**
-
-**Question:** How can Integrated Farming Systems improve the resilience of small and marginal farmers?
-
-**Model:** Define functional integration; draw crop-livestock-tree-water flows; explain recycling, nutrition, employment, staggered income and imperfectly correlated risk; add labour, skill, disease, finance and market constraints; conclude with location-specific models, KVK support and producer aggregation.
+**Lesson-specific scoring rubric:** Award for functional-link definition (2), three named resource/cash-flow links (3), RAD/NMSA/KVK evidence (2), correlated-risk and feasibility limits (2), and location-specific conclusion (1).
 
 **Transition:** The final lesson combines the farm and the policy system. The test is not whether each scheme works in isolation, but whether incentives produce productivity, equity and ecological resilience together.
 
@@ -2305,12 +1878,12 @@ D. compulsory organic certification.
 
 ## Lesson 16 - Integrated reform: productivity, equity and sustainability
 
-**Progress: 16/16 | Stage: Mastery | Subtopic: Integrated reform: productivity, equity and sustainability**
+Progress: 16/18 | Stage: Core mastery | Subtopic: Integrated reform: productivity, equity and sustainability
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried - Basic, Advanced and final-package synthesis; local book and Survey evidence reviewed
 CA search: `"India agriculture water fertiliser credit insurance climate resilient reform 2026 official"`
-CA found: **PIB anchors dated 11 March, 30 June, 24 July, 25 July and 29 August 2026, RBI Directions updated 7 August 2026, and official portal pages rechecked 23 September 2026 jointly show programme scale while outcome attribution remains programme-specific**
+CA found: **PIB anchors dated 11 March, 30 June, 24 July, 25 July and 29 August 2026, RBI Directions updated 7 August 2026, and official portal pages rechecked 3 October 2026 jointly show programme scale while outcome attribution remains programme-specific**
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the policy-coherence test
@@ -2412,79 +1985,225 @@ The audited 2026 GS-III paper contains no direct Topic 14 question. Its agricult
 11. Transition policy is part of technically sound reform.
 12. 2026 status must distinguish verified question from provisional key.
 
-### Embedded practice
+### Concept check
 
-**MCQ 44.** Which reform package is most internally coherent?
+**Question:** What elements make a water-input-finance reform package internally coherent?
 
-A. Free pumping power, unrestricted borewell finance and no aquifer data  
-B. Drip subsidy with incentives for expansion of water-intensive crop area  
-C. Soil cards without input availability or extension  
-D. Aquifer budgets, viable crop alternatives, targeted support and extraction incentives
+**Model answer:** A coherent package combines resource measurement, viable alternatives, protected basic access, aligned water-energy-crop incentives, inclusive finance, risk layering and outcome audit.
 
-**Answer: D**
+**Misconception to avoid:** Do not equate programme expenditure or equipment distribution with coherent causal outcomes.
 
-- **A - Incorrect:** It reinforces depletion.
-- **B - Incorrect:** Rebound may erase the saving.
-- **C - Incorrect:** Diagnosis without implementation is incomplete.
-- **D - Correct:** It aligns information, alternatives, equity and demand management.
+### Responsive Mains practice
 
-**MCQ 45.** Subsidy incidence asks:
+**Question (20 marks; 250-word ceiling):** "India's farm-support architecture must move from input maximisation to resilience maximisation." Discuss.
 
-A. who ultimately receives the economic benefit and bears the cost, not only who receives the legal payment.  
-B. which crop-insurance unit experienced basis risk.  
-C. whether gross irrigated area exceeds net area.  
-D. how seed classes are multiplied.
+**Mains model:** Resilience means sustaining productive capacity and farm income through resource, climate and household shocks—not maximising input volume. India's architecture has expanded irrigation, fertiliser access, KCC credit and PMFBY risk pooling, but distorted marginal incentives can deepen groundwater depletion, nitrogen imbalance, unsuitable borrowing and fiscal exposure. Tail-end users and tenants may remain excluded even when aggregate coverage rises. Reform should complete canal commands and drainage, budget aquifers, pair micro-irrigation with crop incentives, rebalance nutrients through soil-based extension, recognise actual cultivators in KCC/JLG lending, and reduce PMFBY basis risk through better units, data and appeals. IFS, agroforestry and locally tested sustainable practices can diversify rainfed livelihoods. Abrupt subsidy withdrawal would be regressive; a protected basic-access floor, viable alternatives and transition support must precede correction of harmful margins. The final scorecard should combine stable productivity, multi-year net income, tenant/tail-end inclusion, claim quality, soil-aquifer trends and fiscal durability.
 
-**Answer: A**
+**Lesson-specific scoring rubric:** Award for resilience thesis (2), present-architecture balance (2), water-input-finance-insurance reform chain (4), equity/transition qualification (1), and measurable concluding scorecard (1).
 
-- **A - Correct:** Economic incidence can differ from statutory payment.
-- **B - Incorrect:** That is insurance-index analysis.
-- **C - Incorrect:** That is irrigation accounting.
-- **D - Incorrect:** That is seed-system pedigree.
+---
 
-**MCQ 46.** Which indicator best tests an irrigation programme's equity?
+## Lesson 17 - Optional Advanced: rebound, return flows, information failures and risk layers
 
-A. Total sanctioned expenditure only  
-B. Reliability and adequacy of delivery to tail-end and smallholder users  
-C. Number of press releases  
-D. Average national rainfall only
+Progress: 17/18 | Stage: Advanced | Subtopic: Scale effects and residual risk
 
-**Answer: B**
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: Queried - Advanced owner and OCR passages on irrigation economics, agricultural credit and insurance
+CA search: `"India irrigation rebound crop insurance basis risk technology 2026 official"`
+CA found: **Official 2026 PMKSY and PMFBY material records efficiency and technology expansion; it does not prove basin saving or elimination of basis risk**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- **A - Incorrect:** Spending does not reveal distribution.
-- **B - Correct:** It directly measures who receives usable service.
-- **C - Incorrect:** Communication is not an outcome.
-- **D - Incorrect:** Rainfall alone does not measure programme equity.
+### Visual: a good instrument can disappoint at another scale
 
-**MCQ 47.** Which statement reflects the verified 2026 PYQ boundary?
+```text
+PLOT EFFICIENCY GAIN
+   -> less water applied per hectare
+   -> area or crop response?
+      -> no expansion: withdrawal may fall
+      -> expansion: withdrawal may stay level or rise
 
-A. A final official key for Q28 is reproduced here.  
-B. GS-III 2026 directly asked PMFBY basis risk.  
-C. Prelims Q28 on RAD is verified, but its locally held key is provisional and no answer letter is asserted.  
-D. No 2026 agriculture question has been verified.
+AREA-YIELD INSURANCE
+   -> lower-cost common index
+   -> individual loss matches index?
+      -> yes: payout broadly aligns
+      -> no: basis risk remains
+```
 
-**Answer: C**
+The advanced question is not simply whether drip or insurance works. It is: **at what scale, for whom and against which counterfactual?**
 
-- **A - Incorrect:** The final key is not locally verified.
-- **B - Incorrect:** The audited GS-III paper has no direct Topic 14 question.
-- **C - Correct:** It states the exact evidence boundary.
-- **D - Incorrect:** Q28 is verified and GS-III agriculture questions are audited.
+### Rebound and return flows
 
-**Original Mains micro-model - 20 marks**
+A technology that lowers water per hectare reduces the effective cost of an irrigated crop. The farmer may expand area, add a season or retain a water-intensive crop. Total withdrawal can therefore rise despite higher application efficiency.
 
-**Question:** "India's farm-support architecture must move from input maximisation to resilience maximisation." Discuss.
+Gross diversion is also not identical to consumptive use. Canal seepage may recharge recoverable groundwater or support downstream flows; elsewhere it may cause waterlogging and salinity. A basin assessment must trace the destination of the apparent loss.
 
-**Model answer spine:**
+### Credit rationing and information
 
-1. Define resilience as stable productive capacity under resource, climate, price and household shocks.
-2. Credit the existing architecture with irrigation access, input affordability, credit and insurance scale.
-3. Diagnose distorted marginal incentives in power, nitrogen and water.
-4. Explain tenant, tail-end and smallholder exclusion.
-5. Propose resource accounting, balanced nutrients, extension, KCC/JLG inclusion, basis-risk reduction, IFS and climate adaptation.
-6. Protect basic access while reforming harmful margins.
-7. End with a four-part scorecard: productivity, net income, equity and ecological stock.
+A lender may ration credit rather than charge a very high rate. Higher rates can attract riskier borrowers or induce riskier projects. Screening, collateral, group lending and limits respond to **adverse selection** before contracting and **moral hazard** after incentives change.
 
-**Course transition:** The lesson sequence is complete. The following eight H1 sections are the canonical consolidation, practice and verification blocks.
+The residual is exclusion: a capable tenant may cultivate successfully but lack the records that make the activity visible to a formal lender.
+
+### Basis risk in both directions
+
+| Individual outcome | Index outcome | Consequence |
+|---|---|---|
+| Loss | No trigger | No indexed payout despite loss |
+| Little loss | Trigger | Payout weakly matched to individual loss |
+
+Smaller insurance units, denser weather data, calibrated remote sensing, localised-peril protocols and appeals can reduce basis risk. They cannot abolish spatial heterogeneity, crop-record error or model uncertainty.
+
+### Risk layering
+
+| Loss layer | Suitable first response |
+|---|---|
+| Frequent, small and manageable | Agronomy, savings and diversification |
+| Moderate covariate production shock | Crop or weather insurance |
+| Rare catastrophe | Public relief and social protection |
+| Structural climate shift | Adaptation and farm-system change |
+
+Insurance should not absorb every layer. Otherwise premium and fiscal pressure rise while prevention weakens.
+
+### UPSC integration
+
+- Qualify the 2021 micro-irrigation demand through rebound, return flow and scale.
+- Distinguish lawful basis risk from delay, exclusion or wrongful denial.
+- Use information asymmetry to deepen tenant-credit analysis.
+- **Trap:** a faster digital payment cannot correct an erroneous crop record, yield estimate or model.
+
+### Revision notes
+
+1. Efficiency is scale-specific.
+2. Rebound is a behavioural response to lower effective resource cost.
+3. Consumptive use differs from gross diversion or application.
+4. Return flows can remain available elsewhere in a basin.
+5. Credit rationing may persist even when a borrower accepts a higher rate.
+6. Adverse selection precedes contracting.
+7. Moral hazard follows changed incentives.
+8. Basis risk is mismatch between indexed payout and individual loss.
+9. Basis risk can operate in both directions.
+10. Technology reduces measurement cost but introduces data and model risk.
+11. Risk layering assigns different losses to different instruments.
+12. Prevention and adaptation remain necessary with insurance.
+
+### Concept check
+
+**Question:** Why can smaller insurance units and remote sensing improve PMFBY without making indemnity perfectly individual?
+
+**Model answer:** Smaller units reduce within-area heterogeneity and remote sensing can improve yield evidence, but an index still represents an area or model rather than every plot. Crop-record errors, spatial variation, calibration limits and localised damage can therefore preserve basis risk.
+
+**Misconception to avoid:** Do not call every no-payout event basis risk; non-notification, uncovered peril, delay and administrative error are different diagnoses.
+
+### Responsive Mains practice
+
+**Question (15 marks; 250-word ceiling):** "Precision and digitisation reduce transaction costs but do not eliminate scale and information failures in agriculture." Analyse.
+
+**Mains model:** Precision tools reduce transaction and measurement costs: drip improves root-zone application, sensors support scheduling, and remote sensing can strengthen yield estimation. But scale changes the result. Lower water per hectare can induce area or crop rebound; reduced canal seepage may remove recoverable return flow; area-yield insurance still exposes individual plots to basis risk. Digital records can speed KCC or claims while excluding tenants whose cultivation is absent or wrong. Thus technology does not dissolve common-pool incentives, information asymmetry or unequal correction capacity. Pair it with aquifer budgets, transparent and independently testable models, assisted record correction, local verification and accessible appeals. Evaluate total extraction, claim accuracy and inclusion—not devices, applications or transfer speed. Precision becomes reform only when institutions govern the residual risk it cannot measure away.
+
+**Lesson-specific scoring rubric:** Award for two genuine technology gains (2), rebound/return-flow analysis (2), insurance or credit information failure (2), governance safeguards (3), and outcome-based verdict (1).
+
+---
+
+## Lesson 18 - Optional Advanced: incentive-compatible integrated reform
+
+Progress: 18/18 | Stage: Advanced | Subtopic: Political economy and reform sequencing
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: Queried - Advanced owner and cross-owner material on crop incentives, subsidies, digital agriculture and mission-mode policy
+CA search: `"India water energy crop fertiliser credit insurance reform official 2026"`
+CA found: **Official 2026 material records programme architecture and scale; it does not by itself establish incentive compatibility or distributional success**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: protect the floor, reform the harmful margin
+
+```text
+BASIC ACCESS FLOOR
+water + nutrients + credit + risk protection
+             |
+             v
+PROBLEM MARGIN
+extra pumping / excess nitrogen / unsuitable crop /
+credit rollover / weak insurance index
+             |
+             v
+MEASURE -> INCENTIVE -> ALTERNATIVE -> TRANSITION SUPPORT -> APPEAL
+             |
+             v
+PRODUCTIVITY + NET INCOME + EQUITY + RESOURCE STOCKS
+```
+
+The political-economy difficulty is that the same support can protect a vulnerable farmer and encourage a harmful extra unit of resource use.
+
+### Five coupled incentive systems
+
+| Support | Immediate benefit | Distortion risk | Reform condition |
+|---|---|---|---|
+| Cheap power | Affordable pumping | Aquifer over-extraction | Reliable supply, measurement, lifeline protection and crop alternatives |
+| Fertiliser subsidy | Affordable nutrients | Nitrogen bias | Soil diagnosis, price rebalancing and transition support |
+| Irrigation subsidy | Capital access | Rebound or unequal capture | Service, maintenance and resource accounting |
+| Interest support | Cheaper formal credit | Rollover or diversion | Cultivator inclusion, appraisal and cash-flow fit |
+| Premium subsidy | Purchasable insurance | Weak data or contracting incentives | Audited triggers, tenders, claims and grievance systems |
+
+### Why abrupt withdrawal fails
+
+Farmers have sunk investments, crop knowledge, machinery, market ties and food-security obligations. Removing support before viable alternatives can reduce income, raise default and force a return to informal finance. Sequencing is therefore part of the economics, not an administrative afterthought.
+
+### Reform sequence
+
+1. Measure resource use, incidence and actual cultivator status.
+2. Protect a transparent basic-access floor.
+3. Correct the environmentally harmful or regressive margin.
+4. Build alternatives first: markets, extension, feeder reliability and service providers.
+5. Compensate credible transition loss for a defined period.
+6. Publish distributional, ecological and fiscal outcomes.
+7. Provide correction and appeal before automated exclusion.
+
+### Final decision rule
+
+```text
+Do not ask only: Did output rise?
+Ask together:
+- Did stable net income rise?
+- Who gained: tenant, owner, head or tail farmer?
+- What happened to soil and aquifer stocks?
+- Was risk shifted to the farmer, bank, insurer, State or future user?
+- Is the fiscal path durable?
+```
+
+### UPSC integration
+
+- Use this lesson for evaluation depth only after presenting the complete Core.
+- It strengthens irrigation, groundwater, subsidy and sustainable-intensification answers.
+- **Trap:** incentive-compatible does not mean market-only; public goods, redistribution and transition support remain central.
+
+### Revision notes
+
+1. Subsidies have welfare, production, incidence and ecological effects.
+2. Legal recipient and economic beneficiary can differ.
+3. Average support and marginal incentive must be separated.
+4. Abrupt withdrawal can destroy a viable transition path.
+5. Alternatives must precede coercive crop or input shifts.
+6. Tenant and tail-end inclusion are distributional tests.
+7. Measurement must not become exclusion without correction.
+8. Extension and markets complement price reform.
+9. Fiscal durability is part of sustainability.
+10. Risk can be shifted across farmer, bank, insurer, State and future users.
+11. A qualified reform protects the floor and corrects the harmful margin.
+
+### Concept check
+
+**Question:** Why can replacing free power with metered supply fail even if its resource logic is sound?
+
+**Model answer:** Without reliable supply, a protected basic entitlement, affordable metering, viable crop and market alternatives, and transition support, the reform raises costs before farmers can adjust. It may also exclude tenants or small users while leaving procurement incentives unchanged.
+
+**Misconception to avoid:** Do not equate incentive reform with abrupt subsidy abolition or assume price alone can supply public goods and missing markets.
+
+### Responsive Mains practice
+
+**Question (20 marks; 250-word ceiling):** Design an incentive-compatible reform of the water-energy-input-credit-insurance nexus in Indian agriculture.
+
+**Mains model:** Establish a protected access floor for small cultivators, then measure and correct harmful marginal use. Pair reliable metered power with aquifer budgets and remunerative low-water crop alternatives; rebalance fertiliser support through soil-based advice and transition assistance; condition irrigation aid on maintenance and resource accounting; retain KCC affordability while recognising actual cultivators and matching repayment to cash flow; and retain PMFBY premium support while auditing data, tenders, claims and appeals. Sequence alternatives before restrictions and publish effects on net income, tenants, tail users, soil, aquifers and fiscal cost. **Therefore,** the strategy remains public and redistributive, but makes each subsidy accountable for behaviour and long-run productive stocks.
+
+**Lesson-specific scoring rubric:** Award for protected access floor (1), linked reform across water-energy-input-credit-insurance (5), sequencing/transition support (2), distributional safeguard (1), and ecological-fiscal scorecard (1).
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
@@ -2539,196 +2258,24 @@ It deliberately does **not** provide:
 - a final 2026 Prelims key inferred from a provisional ledger;
 - a fabricated 2026 Topic 14 Mains question.
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-The embedded sequence ended at Question 47 with option **C**. The cumulative sequence therefore begins with **D** and continues the same global rotation.
-
-**MCQ 48.** A canal project has created potential for 40,000 hectares but reliable delivery reaches 28,000 hectares. Which measure is 70%?
-
-A. Irrigation intensity  
-B. Application efficiency  
-C. Farmer premium share  
-D. Potential-utilisation ratio
-
-**Answer: D**
-
-- **A - Incorrect:** Irrigation intensity needs gross and net irrigated area.
-- **B - Incorrect:** Application efficiency compares root-zone storage with field delivery.
-- **C - Incorrect:** Premium share belongs to insurance.
-- **D - Correct:** `28,000 / 40,000 x 100 = 70%`.
-
-**MCQ 49.** A policy subsidises drip equipment but does not monitor crop area, groundwater extraction or electricity use. The principal analytical risk is:
-
-A. field efficiency may improve while total extraction rises through rebound.  
-B. certified seed may become nucleus seed.  
-C. DCCBs may become insurers.  
-D. organic certification may establish land title.
-
-**Answer: A**
-
-- **A - Correct:** Area or crop response can offset unit water saving.
-- **B - Incorrect:** Seed-class pedigree is unrelated.
-- **C - Incorrect:** Institutional roles do not change automatically.
-- **D - Incorrect:** Certification is not a title system.
-
-**MCQ 50.** Which pair is correctly matched?
-
-A. WINDS - fertiliser reimbursement  
-B. YES-TECH - technology-assisted yield estimation  
-C. RIDF - organic certification  
-D. Tensiometer - canal project appraisal
-
-**Answer: B**
-
-- **A - Incorrect:** WINDS concerns weather data.
-- **B - Correct:** YES-TECH supports yield estimation.
-- **C - Incorrect:** RIDF finances rural infrastructure.
-- **D - Incorrect:** A tensiometer measures soil-water tension.
-
-**MCQ 51.** Which reform most directly improves formal credit access for a tenant without recorded land title?
-
-A. Raising canal waterlogging  
-B. Replacing KCC with crop insurance  
-C. Cash-flow assessment and credible JLG/lease-cultivator recognition  
-D. Requiring ownership of a combine harvester
-
-**Answer: C**
-
-- **A - Incorrect:** Waterlogging harms land and says nothing of credit eligibility.
-- **B - Incorrect:** Insurance and credit have different functions.
-- **C - Correct:** It addresses the cultivator-title and collateral gap.
-- **D - Incorrect:** This raises the access barrier.
-
-**MCQ 52.** Which statement about fertiliser DBT is correct?
-
-A. It is an unconditional income transfer to every cultivator.  
-B. It fixes identical MRPs for all nutrients.  
-C. It removes the need for PoS sale records.  
-D. Eligible firms are reimbursed after authenticated retail sale at subsidised price.
-
-**Answer: D**
-
-- **A - Incorrect:** That resembles an income-support description, not fertiliser DBT.
-- **B - Incorrect:** Urea and P&K architecture differs.
-- **C - Incorrect:** Authentication is central to the payment trail.
-- **D - Correct:** The subsidy route follows verified sale to firm reimbursement.
-
-**MCQ 53.** Which outcome most strongly indicates successful watershed development?
-
-A. Lower runoff/erosion and improved moisture or livelihood outcomes relative to a credible baseline  
-B. Number of structures constructed, regardless of condition  
-C. Higher pesticide dose on every field  
-D. Elimination of all dry years
-
-**Answer: A**
-
-- **A - Correct:** It tests hydrological and livelihood outcomes.
-- **B - Incorrect:** Structures are intermediate outputs.
-- **C - Incorrect:** Pesticide use is not a watershed success measure.
-- **D - Incorrect:** A programme cannot eliminate climatic drought.
-
-**MCQ 54.** Which statement correctly distinguishes risk instruments?
-
-A. Credit compensates every insured loss.  
-B. Credit finances activity; insurance transfers specified covered risk.  
-C. Insurance creates groundwater recharge.  
-D. Relief is identical to an actuarial contract.
-
-**Answer: B**
-
-- **A - Incorrect:** A loan must be repaid and is not an indemnity.
-- **B - Correct:** Their timing and contractual functions differ.
-- **C - Incorrect:** Insurance changes financial loss distribution.
-- **D - Incorrect:** Public relief and insurance use different rules.
-
-**MCQ 55.** A scheme reports one crore applications and fifty lakh participating farmer accounts. Which conclusion is safest?
-
-A. Exactly one crore unique households participated.  
-B. Every account submitted two applications.  
-C. Applications and accounts are different units and cannot be treated as unique farmers without deduplication.  
-D. The scheme necessarily paid one crore claims.
-
-**Answer: C**
-
-- **A - Incorrect:** Applications can repeat across season/crop.
-- **B - Incorrect:** The aggregate figures do not establish equal distribution.
-- **C - Correct:** Denominator discipline prevents false beneficiary claims.
-- **D - Incorrect:** Enrolment is not claim payment.
-
-**MCQ 56.** Which package best reflects Integrated Nutrient Management?
-
-A. Urea alone at a fixed national dose  
-B. No diagnosis and no crop-specific timing  
-C. Insurance plus land-title digitisation  
-D. Soil-based combination of mineral, organic and biological nutrient sources
-
-**Answer: D**
-
-- **A - Incorrect:** It ignores balance and diagnosis.
-- **B - Incorrect:** INM is knowledge-intensive.
-- **C - Incorrect:** These are not nutrient sources.
-- **D - Correct:** INM integrates sources according to crop-soil need.
-
-**MCQ 57.** The strongest reason to regulate aquifer extraction at a collective scale is:
-
-A. individual wells draw from a shared, subtractable stock.  
-B. rainfall is determined by bank credit.  
-C. crop insurance sets electricity tariffs.  
-D. canal commands and aquifers are always identical.
-
-**Answer: A**
-
-- **A - Correct:** Individual decisions accumulate into shared depletion.
-- **B - Incorrect:** Credit does not determine rainfall.
-- **C - Incorrect:** Insurance does not set power prices.
-- **D - Incorrect:** Surface commands and aquifers can overlap differently.
-
-**MCQ 58.** Which statement about conservation agriculture is correct?
-
-A. It requires annual deep inversion tillage.  
-B. It combines reduced disturbance, soil cover and crop diversification.  
-C. It is defined solely by organic certification.  
-D. It prohibits every form of plant protection.
-
-**Answer: B**
-
-- **A - Incorrect:** Minimum disturbance is a core principle.
-- **B - Correct:** The three principles work as a system.
-- **C - Incorrect:** Certification status is separate.
-- **D - Incorrect:** Pest management remains necessary.
-
-**MCQ 59.** A farmer's plot is damaged by hail, but the relevant area-yield index does not trigger and no localised-peril claim is admitted. This illustrates:
-
-A. positive subsidy incidence.  
-B. higher irrigation intensity.  
-C. basis risk.  
-D. successful risk layering.
-
-**Answer: C**
-
-- **A - Incorrect:** The issue is index mismatch.
-- **B - Incorrect:** Irrigation area is unrelated.
-- **C - Correct:** Actual loss and payout diverge.
-- **D - Incorrect:** The farmer is left with an uncovered layer.
-
-**MCQ 60.** Which final evaluation rule is most defensible?
-
-A. Expenditure equals outcome.  
-B. Technology distribution equals adoption.  
-C. Claim speed alone equals insurance quality.  
-D. Judge programmes by causal outcomes, distribution, resource effects and honest denominators.
-
-**Answer: D**
-
-- **A - Incorrect:** Spending is an input.
-- **B - Incorrect:** Use, maintenance and suitability remain.
-- **C - Incorrect:** Accuracy and coverage also matter.
-- **D - Correct:** It integrates effectiveness, equity and integrity.
-
-**Global correct-answer sequence:**  
-`A B C D | A B C D | A B C D | A B C D | A B C D | A B C D | A B C D | A B C D | A B C D | A B C D | A B C D | A B C D | A B C D | A B C D | A B C D`
-
-Total original MCQs: **60**. Option-specific explanations: **240**.
+1. **Water accounting:** Why are potential created, potential utilised, irrigation intensity, application efficiency and water productivity non-interchangeable?
+   **Model:** They use different numerators, denominators and spatial stages; report each before claiming success.
+2. **Project delivery:** Why can storage coexist with tail-end scarcity?
+   **Model:** Incomplete channels, poor scheduling, head-tail power, maintenance and drainage can break the project-to-field chain.
+3. **Groundwater:** Why is recharge alone insufficient?
+   **Model:** Additional recharge may be absorbed by pumping unless energy, crops and collective extraction rules change.
+4. **Inputs:** Why is subsidised urea not balanced nutrition?
+   **Model:** Crop response depends on soil-based balance across nutrients, organic matter, moisture, dose and timing.
+5. **Credit:** Why is a low formal rate not the same as inclusive finance?
+   **Model:** The actual cultivator also needs eligibility, timely sanction, adequate limit, suitable maturity and accessible grievance redress.
+6. **Insurance:** Distinguish basis risk from delay.
+   **Model:** Basis risk is lawful index-individual mismatch; delay is late assessment or payment in an otherwise valid claim path.
+7. **Sustainability:** Why is low purchased-input use not sufficient proof?
+   **Model:** Sustainability requires viable productivity and income with protected soil, water, biodiversity and adaptive capacity over time.
+8. **Integrated verdict:** Which outcomes should close a Topic 14 answer?
+   **Model:** Stable productivity, net income, inclusion, risk resilience, soil/aquifer condition and fiscal durability.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -2740,11 +2287,15 @@ Total original MCQs: **60**. Option-specific explanations: **240**.
 
 **Model answer:** Irrigation efficiency relates useful water at a defined stage to water supplied at that stage; examples include conveyance and application efficiency. Water productivity relates crop output or value to water applied or consumed. The first focuses on a physical flow ratio; the second on output per unit water. A lining or drip project may improve local efficiency, but basin saving may be smaller if seepage was recoverable or cropped area expands. Conversely, a crop shift can raise economic water productivity without changing field hardware. Policy should therefore report the scale, denominator, return flow, crop area and whether output is physical or monetary. The distinction prevents a plot-level efficiency gain from being advertised automatically as aquifer recovery.
 
+**Unique scoring note:** Reward precise efficiency/productivity denominators, one scale qualification and a policy consequence.
+
 ### Question 2
 
 **Explain why extension is a productive agricultural input.**
 
 **Model answer:** Extension converts research and data into location-specific decisions on variety, sowing time, nutrient dose, pest threshold, irrigation schedule and risk. Its mechanism is not one-way messaging: ICAR/SAU knowledge is demonstrated through KVKs and adapted through farmer feedback. It raises the return to seed, fertiliser, water and machinery by improving timing and combination. It also reduces information asymmetry in new technologies and insurance. Its limits are generic advisories, weak local staffing, unequal digital access and conflict of interest in input-linked advice. Extension should be measured by changed practice and farm outcome, not messages sent.
+
+**Unique scoring note:** Reward the research-extension-feedback chain, two farm decisions, one access limit and outcome-based evaluation.
 
 ## 15 marks / 250 words
 
@@ -2756,6 +2307,8 @@ Total original MCQs: **60**. Option-specific explanations: **240**.
 
 Government responses include AIBP, CADWM/M-CADWM, WDC-PMKSY, PDMC under RKVY, Jal Shakti/Catch the Rain and Atal Bhujal. Their effectiveness depends on aquifer and basin data, reliable delivery, WUAs, tail-end representation, operation-and-maintenance finance, crop alternatives and accountable measurement. Thus infrastructure remains necessary, but governance determines who receives water, at what reliability, with what resource consequence.
 
+**Unique scoring note:** Reward infrastructure and governance balance, canal-groundwater-tank coverage, named measures and a qualified verdict.
+
 ### Question 4
 
 **Assess the strengths and limitations of KCC and crop insurance as instruments of farm resilience.**
@@ -2766,7 +2319,9 @@ Their limits differ. KCC may exclude tenants because operational cultivation is 
 
 Reform requires cultivator-sensitive records, JLGs, cash-flow lending, appropriate loan maturity, transparent premium/claim data, smaller or hybrid insurance units, auditable technology and grievance redress. Neither instrument substitutes for price policy, extension or climate adaptation.
 
-## 20 marks / 250-300 words
+**Unique scoring note:** Reward separate KCC and insurance functions, tenant and basis-risk limits, denominator discipline and integrated reform.
+
+## 20 marks / 250 words
 
 ### Question 5
 
@@ -2786,6 +2341,8 @@ Fifth, diversify through IFS, agroforestry, millets and locally suitable conserv
 
 Finally, measure reliable access, water productivity, net income, tenant/tail-end inclusion, soil/aquifer trend and fiscal cost. This shifts policy from input maximisation to resilience maximisation.
 
+**Unique scoring note:** Reward all five strategy pillars, named Indian institutions, equity/ecology metrics and sequenced implementation.
+
 ### Question 6
 
 **Agricultural subsidies are simultaneously instruments of welfare, production and environmental change. Discuss with reference to irrigation, power, fertiliser, credit and insurance.**
@@ -2795,6 +2352,10 @@ Finally, measure reliable access, water productivity, net income, tenant/tail-en
 Yet each changes marginal incentives. Cheap or unmetered power can intensify common-pool groundwater extraction. Urea's relative price can bias nutrient use. Irrigation equipment subsidy may be captured by larger farmers or cause rebound. Cheap credit may encourage rollover or unsuitable assets. Insurance subsidy can expand enrolment while data, basis risk and claim experience remain weak. Economic incidence may differ from the legal payment route: a manufacturer, landlord, pump owner or input dealer may capture part of the benefit.
 
 Reform should not equate rationalisation with abrupt withdrawal. Protect basic smallholder access, but meter or price harmful margins; use direct/transparent benefit routes where appropriate; build crop and energy alternatives; target tenants and tail users; strengthen soil, aquifer and claims data; and publish outcome-based fiscal metrics. A subsidy is justified when its distributional and social benefits exceed fiscal and ecological cost.
+
+
+
+**Unique scoring note:** Reward welfare-production-environment incidence, one distortion per instrument, protected access and gradual reform.
 
 # REMEDIATION
 
@@ -2811,7 +2372,8 @@ Reform should not equate rationalisation with abrupt withdrawal. Protect basic s
 | "PSL 18+14+10=42%." | Nested targets added | Read NCF and SMF inside agriculture |
 | "KCC is a grant." | Credit and transfer confused | It is a repayable revolving credit mechanism |
 | "Cheap credit solves tenant exclusion." | Eligibility/documentation ignored | Recognise cultivator and use cash-flow/JLG channels |
-| "Premium rate is claim rate." | Price and indemnity confused | Claims follow trigger, threshold and evidence |
+| "2%/1.5%/5% are shares of actuarial premium." | Wrong base: these are maximum farmer rates on sum insured | Subsidy covers the actuarial-premium difference under applicable sharing and Central-support limits |
+| "PMFBY remains compulsory for loanee farmers." | This ignores the Kharif 2020 revamp | Enrolment is voluntary for all; eligibility still depends on notified crop, area, season and cultivation evidence |
 | "Digital transfer solves insurance." | Upstream data can remain wrong | Audit yield/weather/crop data and grievance |
 | "No claim despite loss means fraud." | Basis risk may explain lawful mismatch | Compare individual loss with notified index |
 | "Organic, natural and conservation are synonyms." | Organising rules differ | Define each before comparing |
@@ -2959,7 +2521,7 @@ The chain fails at its weakest complementary input. Public support must therefor
 - Recharge without demand management can be absorbed by extra pumping.
 - Watershed = catchment draining to a common outlet; treat ridge to valley.
 - PMKSY combines project completion, access, watershed and efficiency families; date component status.
-- PDMC is implemented under RKVY according to the official PMKSY portal rechecked 23 September 2026.
+- PDMC is implemented under RKVY according to the official PMKSY portal rechecked 3 October 2026.
 - Jal Shakti/Catch the Rain is campaign and convergence mode.
 - Atal Jal emphasises community groundwater plans and behaviour.
 - Drip targets root zones; sprinkler distributes pressurised spray.
@@ -3011,8 +2573,10 @@ The chain fails at its weakest complementary input. Public support must therefor
 - Individual indemnity is closest to farm loss but costly to assess.
 - Area-yield index pools covariate crop risk but creates basis risk.
 - Weather index is objective and fast but may mismatch actual loss.
-- Standard PMFBY farmer shares: 2% Kharif food/oilseed; 1.5% Rabi food/oilseed; 5% annual commercial/horticultural.
-- Premium share is not claim share.
+- PMFBY's maximum farmer premium rates are 2% of sum insured for Kharif food/oilseed crops, 1.5% for Rabi food/oilseed crops and 5% for annual commercial/horticultural crops.
+- The actuarial-premium difference is subsidised under applicable Centre-State sharing and revised Central-support limits; a farmer premium rate is not a claim rate.
+- Enrolment has been voluntary for all farmers, including loanee farmers, since Kharif 2020.
+- Sharecroppers and tenant farmers are eligible for notified crops/areas/seasons when required cultivation or insurable-interest evidence is established.
 - Threshold yield and actual area yield drive the index.
 - Covered stages and notice conditions are season-specific.
 - YES-TECH assists yield estimation; WINDS strengthens weather data.
@@ -3026,6 +2590,8 @@ The chain fails at its weakest complementary input. Public support must therefor
 - Conservation agriculture: minimum disturbance, soil cover and diversification.
 - Zero tillage is one practice, not the full system.
 - Organic farming is standards/certification linked.
+- Sikkim chronology: 24 February 2003 Assembly resolution; 16 September 2003 Organic Board; chemical-input procurement/subsidy withdrawal from 2004; Organic Mission in 2010; certified conversion in 2015; first 100% organic State declaration in January 2016; FAO Future Policy Gold Award in 2018.
+- Official area references differ by denominator—58,168 hectares in the mission portal and about 75,000 hectares in rounded Union communication—so identify the source before quoting area.
 - Natural farming emphasises on-farm ecological processes and reduced purchased inputs.
 - Permaculture is integrated ecological design.
 - IFS creates material, labour or cash-flow linkages across enterprises.
@@ -3074,101 +2640,124 @@ Offer sequenced reform
 State the residual limitation
 ```
 
+## I. Optional Advanced recall
+
+- Rebound: lower water per hectare can induce greater area, intensity or water-intensive cropping.
+- Return flow: gross conveyance or field loss is not identical to net basin loss.
+- Credit rationing can arise from adverse selection and moral hazard, not only lack of funds.
+- Basis risk can create loss without payout or payout without matching individual loss.
+- Risk layering assigns frequent, moderate, catastrophic and structural losses to different responses.
+- Subsidy incidence may differ from the legal payment route.
+- Incentive-compatible reform protects a basic access floor while correcting the harmful margin.
+- Alternatives, transition support, transparent measurement and appeal are part of reform design.
+- These points enrich evaluation; they are not prerequisites for a competent Core answer.
+
 # COVERAGE MATRIX
 
-| Required coverage | Lessons/section | Status |
-|---|---|---|
-| Water constraint and farm nexus | 1 | Complete |
-| Irrigation types, potential, area, intensity, efficiency | 2 | Complete with calculations |
-| Canal/tank/lift/command/drainage/WUA/pricing | 3 | Complete |
-| Groundwater common pool, power and crop incentives | 4 | Complete |
-| Watershed, PMKSY, Jal Shakti, Atal Jal | 5 | Complete and date-status qualified |
-| Drip, sprinkler, scheduling, fertigation, rebound | 6 | Complete with calculation |
-| Seed classes, systems, propagation, law and extension | 7 | Complete |
-| Soil health, N-P-K, NBS, DBT, INM, nano, biochar | 8 | Complete |
-| IPM, hazardous chemicals, mechanisation and CHCs | 9 | Complete |
-| Credit horizons, channels, cooperatives, NABARD, PSL | 10 | Complete with 2026 RBI update |
-| KCC, MISS, tenants, JLG/SHG and rationing | 11 | Complete with dated KCC anchor |
-| Insurance types, PMFBY, stages, premium and technology | 12 | Complete |
-| Basis risk, data, claims and risk layering | 13 | Complete with scenario |
-| Conservation, zero till, organic, natural, permaculture | 14 | Complete |
-| IFS, agroforestry, millets, CSA and NMSA | 15 | Complete |
-| Subsidy incidence, technology boundaries and reform | 16 | Complete |
-| Criticism -> reply -> residual | Every lesson; Section 5 | 16/16 |
-| Meaningful visual/table | Every lesson | 16/16 |
-| Pre-teach checklist and current anchor | Every lesson | 16/16 |
-| Revision notes | Every lesson | 16/16 |
-| Embedded practice | Every lesson | 47 MCQs |
-| Global A->B->C->D rotation | Sections 2 and lessons | 60/60 |
-| Option-specific MCQ explanations | All MCQs | 240/240 |
-| Original Mains micro-model | Every lesson | 16/16 |
-| Additional full original Mains models | Section 3 | 6 |
-| Verified routed Mains PYQs | Section 1 | 9/9 |
-| Verified routed objective PYQs | Section 1 | 13/13 |
-| 2026 honesty | Sections 1 and 16 | Q28 verified; key withheld; no direct GS-III route |
-| Consolidated register notes last after teaching/practice | Section 6 after Sections 1-5 | Complete |
+| Required coverage unit | Lesson/section | Core/Advanced | Result |
+|---|---|---|---|
+| Farm water-input-credit-insurance-resilience nexus | 1 | Core | Complementarity and instrument accountability taught |
+| Irrigation sources, flow/lift/application types, project classes and measurements | 2 | Core | Definitions, calculations and multipurpose trade-offs present |
+| Major/medium/minor systems; canal/tank/lift commands, drainage and WUAs | 3 | Core | Potential-to-service chain and equity present |
+| Groundwater common pool and water-energy-crop nexus | 4 | Core | Incentives, aquifer limits and distribution present |
+| Watershed, WDC-PMKSY, PMKSY, Jal Shakti and Atal Jal | 5 | Core | Ridge-to-valley mechanism and governance present |
+| Drip, sprinkler, scheduling, tensiometer, fertigation and water productivity | 6 | Core | Plot/basin distinction and calculation present |
+| Seed classes, formal/informal systems, propagation, law and extension | 7 | Core | Quality, suitability, knowledge and adoption present |
+| Soil health, N-P-K, secondary/micronutrients, urea/NBS, DBT, INM and biochar | 8 | Core | Agronomy-policy link and evidence cautions present |
+| IPM, crop-protection chemicals, mechanisation and CHCs | 9 | Core | Threshold response, safety and service access present |
+| Formal credit channels, horizons, cooperatives, NABARD, RIDF and PSL | 10 | Core | Institutional architecture and dated RBI anchor present |
+| Moneylenders, traders, landlords, relatives and input dealers; KCC, MISS and tenants | 11 | Core | Institutional/non-institutional comparison and inclusion present |
+| Insurance designs, PMFBY sum-insured premium caps, subsidy difference/limits, voluntary enrolment, eligibility, notification, threshold yield, CCE and technology | 12 | Core | Restored mechanics, current eligibility and trust diagnosis present |
+| Basis risk, claims, data and risk layering | 13 | Core | Insurance-design depth retained in Core |
+| Conservation agriculture, zero till, organic, natural, Sikkim 2003-2018 chronology/area caveat and permaculture | 14 | Core | Distinct systems, official transition chronology and replication limits present |
+| IFS, agroforestry, millets, CSA, CCAFS/ICRISAT and NMSA/RAD | 15 | Core | Diversification and climate portfolio present |
+| Integrated productivity-equity-sustainability reform | 16 | Core | Complete Core synthesis and outcome scorecard present |
+| Rebound, return flows, credit rationing and residual basis risk | 17 | Optional Advanced | Distinct post-Core enrichment present |
+| Subsidy incidence and incentive-compatible political-economy reform | 18 | Optional Advanced | Distinct post-Core enrichment present |
+| Visual-first teaching and pre-teach checklist | Every lesson | Both | 18/18 |
+| Revision notes | Every lesson | Both | 18/18, each within 8-15 points |
+| Concept trio | Every lesson | Both | Exactly one concept check, model answer and misconception note |
+| Responsive Mains practice | Every lesson | Both | Question, model and lesson-specific rubric present |
+| Neutral verified Mains PYQs | PYQ index and local links | Core | 9 routed demands; no solved PYQ models |
+| Neutral verified objective PYQs | PYQ index and local links | Core | 13 demands; unavailable/provisional keys withheld |
+| Cumulative retrieval and final models | Final arc | Both | Concept checks plus 10-, 15- and 20-mark original models |
+| Remediation, maps and register notes | Final arc | Both | Present in required order |
+| Provenance, ownership and source manifest | Source ledger | Both | Dated, exclusion-compliant and denominator-qualified |
 
 # SOURCE LEDGER
 
-## Governing authorities read before drafting
+## SOURCE-MANIFEST GATE
 
-1. `instructions/README.md`
-2. `instructions/GENERATION-OPTIMIZATION-AND-INTEGRITY.md`
-3. `live_sessions/LIVE-SESSION-GENERATION-RULES.md`
-
-## Canonical owners
-
-1. `upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`
-2. `upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md`
-3. `upsc-ai-kit/knowledge/Economy/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture_Learner-V2-Complete-Topic-Package.md`
-4. `learning_package_final/Economy/Subject-wide-Syllabus/14-Irrigation,-Inputs,-Credit,-Insurance-and-Sustainable-Agriculture/Learning-Session.md`
-5. `learning_package_final/Economy/Subject-wide-Syllabus/14-Irrigation,-Inputs,-Credit,-Insurance-and-Sustainable-Agriculture/Solved-Practice-Workbook.md`
-
-The large package was used as a concept and error inventory, not as a lesson shell. Its mechanical session repetition and practice quota were not reproduced.
-
-## Syllabus and PYQ ledgers
-
-1. `upsc-ai-kit/knowledge/Economy/OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-2. `upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`
-3. `upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`
-4. `upsc-ai-kit/knowledge/_PYQ-GS3-2026.md`
-5. `upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md`
-6. `upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2026.md`
-
-## Local OCR-searchable books
-
-1. `books/Indian economy ramesh singh.pdf`
-   - OCR evidence reviewed for irrigation potential/use, irrigation efficiency, seed, fertiliser, pesticide, farm credit, extension, PMFBY and sustainable-agriculture chapters.
-   - Historical numbers from older editions were not presented as current.
-2. `books/economic-survey-2025-26.pdf`
-   - OCR searched for KCC, irrigation, fertiliser, soil health, crop insurance, natural farming, agricultural credit and climate resilience.
-   - Survey statements were used only where consistent with the dated official policy architecture; no unsupported search-summary number was imported.
-
-## Authoritative current sources
-
-| Date/status | Authority/source | Used for |
+| Category | Status | Evidence or reason |
 |---|---|---|
-| 30 Jun 2026 | PIB, **PMKSY: Transforming India's Irrigation Landscape** | PMKSY architecture and 110.92 lakh ha micro-irrigation coverage |
-| Rechecked 23 September 2026 | Department of Agriculture and Farmers Welfare, PMKSY portal | Objectives and statement that PDMC is implemented under RKVY |
-| Retrieved 23 September 2026 | Ministry of Jal Shakti/PIB material on M-CADWM | Pressurised networks, SCADA/IoT pilot direction |
-| Rechecked 23 September 2026 | Department of Land Resources/WDC-PMKSY material | Watershed and ridge-to-valley programme logic |
-| Rechecked 23 September 2026 | Atal Bhujal Yojana official material | Community groundwater plans and demand management |
-| 24 Mar 2025, updated 7 Aug 2026 | RBI, Priority Sector Lending - Targets and Classification Directions, 2025 | 40% overall; 18% agriculture; 14% NCF; 10% SMF nested targets |
-| 11 Mar 2026 | PIB, **Kisan Credit Card: Empowering Farmers Through Timely and Affordable Credit** | More than 7.72 crore operational KCCs and about Rs 10.20 lakh crore outstanding |
-| FY 2025-26 guidelines | Department of Agriculture and Farmers Welfare, MISS Guidelines | Interest-support architecture and date-sensitive treatment |
-| 29 Aug 2026 | PIB, **Pradhan Mantri Fasal Bima Yojana** backgrounder | Farmer premium shares, cumulative scale and technology tools |
-| 24 Jul 2026 | PIB, **Saving Soil, Securing Farms** | Soil Health Card programme context |
-| 25 Jul 2026 | PIB, **National Mission for Sustainable Agriculture** update | Rainfed, soil-water and climate-resilience programme context |
-| Rechecked 23 September 2026 | NMSA official strategy | Location-specific planning and ICAR/SAU/KVK knowledge convergence |
-| Draft status rechecked 23 September 2026 | Department of Agriculture and Farmers Welfare, Draft Seeds Bill 2025 | Draft-not-law qualification |
+| Canonical Markdown | checked | `upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` read completely |
+| Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
+| Layered/complete session | checked | Existing Topic 14 live edition and completed Economy Topic 13 used only for learner-facing continuity and repair comparison |
+| Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | `upsc-ai-kit/knowledge/Economy/advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` read completely; enrichment isolated after Core |
+| OCR books | checked | `books/Indian economy ramesh singh.pdf` and `books/economic-survey-2025-26.pdf` OCR-searched; stale historical numbers excluded |
+| PYQs through 2026 | checked | Audited Mains and Prelims routing ledgers through 2026; unavailable and provisional keys remain answer-neutral |
+| Official live sources | checked | RBI and official agriculture, water, PMKSY, PMFBY, NMSA and PIB material checked through 3 October 2026 |
 
-## Integrity qualifications
+## Ownership and cross-owner provenance
 
-- Current figures are dated and tied to named official sources.
-- A programme count is not presented as causal impact.
-- Application, account, hectare, farmer, claim and outstanding-credit denominators are not merged.
-- No final 2026 Prelims answer key is asserted from the provisional local ledger.
-- No direct Topic 14 question is fabricated for 2026 GS-III.
-- No solved model answer is attached to a verified PYQ.
-- Original Mains questions are explicitly labelled original and may carry model answers.
-- Advanced concepts are used only where they clarify a canonical mechanism: common-pool depletion, rebound, tenant exclusion, basis risk, extension and adoption conditions.
+| Material | Use in this session |
+|---|---|
+| Topic 14 Basic owner | Complete Core spine: irrigation, inputs, credit, insurance and sustainable agriculture |
+| Topic 14 Advanced owner | Optional scale, information, political-economy and risk depth in Lessons 17-18 |
+| Economy 11 | Green-Revolution complementarity and crop/regional path dependence |
+| Economy 12 | Procurement and crop incentives affecting water use |
+| Economy 25 | Climate adaptation and resource-stock framing |
+| Economy 27 | Sensors, remote assessment, digital exclusion and assisted correction |
+| Economy 28 | Fertiliser, power, irrigation, interest and premium subsidy incidence |
+| Economy 29 | Seed, extension, mechanisation, plant protection and mission convergence |
+| Economy 30 | IFS enterprise links and livestock-risk boundary |
+
+Cross-owner evidence supports analysis but remains owned by its canonical topic. Detailed MSP, WTO, agritech-platform, mission and livestock treatment is not duplicated here.
+
+## Verified PYQ provenance
+
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`
+- `upsc-ai-kit/knowledge/_PYQ-GS3-2026.md`
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md`
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2026.md`
+
+The 2018-2025 demands are rendered neutrally with answer approaches. The 2026 Rainfed Area Development objective demand carries no answer letter because the held key is provisional. The audited 2026 GS-III ledger contains no direct Topic 14 Mains demand.
+
+## OCR evidence boundary
+
+- Ramesh Singh OCR supplied standard distinctions on irrigation potential/use, efficiency, input complementarity, extension, farm credit, insurance and sustainable agriculture.
+- Economic Survey 2025-26 OCR supplied policy context and terminology, not authority for undated portal counts.
+- Older-edition numerical claims were excluded unless independently supported by a dated official source.
+
+## Official live-source ledger through 3 October 2026
+
+| Date/status | Official authority | Use and evidence boundary |
+|---|---|---|
+| 30 June 2026 | PIB PMKSY backgrounder | PMKSY architecture and dated irrigation/micro-irrigation scale; programme count, not causal proof |
+| 29 August 2026 | PIB water-smart farming/PDMC backgrounder | Dated micro-irrigation expansion and assistance; no automatic basin-saving claim |
+| Current in 2026 | PIB/Ministry material on M-CADWM | Modernised command-area pilots, pressurised delivery, SCADA/IoT and user-society orientation |
+| Rechecked by cutoff | PMKSY and Department of Land Resources material | Scheme objectives, WDC-PMKSY and ridge-to-valley architecture |
+| Rechecked by cutoff | Atal Bhujal official material | Community groundwater planning and demand management |
+| Updated 7 August 2026 | RBI Priority Sector Lending Directions, 2025 | Dated bank targets and nested sub-target caution |
+| 11 March 2026 | PIB KCC backgrounder | More than 7.72 crore operational KCC accounts and about Rs 10.20 lakh crore outstanding; accounts are not unique households |
+| FY 2025-26 | Department of Agriculture and Farmers Welfare MISS guidelines | Dated interest-support architecture; mutable limits are not undated |
+| 29 August 2026 | PIB PMFBY backgrounder | Scheme scale and YES-TECH/WINDS context; applications are not unique farmers and technology does not eliminate basis risk |
+| Rechecked by cutoff | PMFBY revised guidelines and PIB revamp releases | Rates on sum insured, Kharif 2020 voluntary enrolment, tenant/sharecropper eligibility, subsidy sharing and Central-support limits |
+| Rechecked by cutoff | Sikkim Government Organic Mission portal and PIB Statehood/organic chronology | 2003 resolution and Board, 2004 input-policy shift, 2010 Mission, 2015 certification, January 2016 declaration, 2018 award and area-denominator caution |
+| May-July 2026 | PIB/Department of Agriculture NMSA and soil-health material | Mission architecture and dated context; agronomic outcomes remain crop- and location-specific |
+| Search completed through cutoff | Official-domain search | No later official item found that materially changes the mechanics taught; every figure retains its publication date |
+
+## Fact, uncertainty and exclusion controls
+
+1. Outlay, applications, accounts, area, claims and beneficiaries are not merged.
+2. Plot water saving is not represented as basin recovery without extraction and return-flow evidence.
+3. Organic, natural, conservation, climate-smart and permaculture approaches remain distinct.
+4. PMFBY's 2%/1.5%/5% figures are maximum farmer premium rates on sum insured, not actuarial-premium shares or claim rates.
+5. PMFBY has been voluntary for all farmers since Kharif 2020; legal eligibility of tenants/sharecroppers does not remove evidence barriers.
+6. The Seeds Act, 1966 is the enacted anchor; draft proposals are not presented as law.
+7. CCAFS is treated as a CGIAR research programme and ICRISAT as a separate dryland-research institution.
+8. No unavailable Prelims key is inferred and no 2026 Topic 14 Mains PYQ is fabricated.
+9. No artifact from the permanently excluded final-package path and no learner-v2 artifact was read, searched, cited or used.
+10. No index, staging, release or other repository file was edited.
