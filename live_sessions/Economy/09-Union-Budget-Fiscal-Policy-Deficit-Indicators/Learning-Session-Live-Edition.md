@@ -1,2415 +1,1796 @@
 # Economy 09 - Union Budget, Fiscal Policy and Deficit Indicators - Live Session Edition
 
-**GS III + Prelims | Current-data cutoff: 24 September 2026**
+**GS III + Prelims | Official-data cutoff: 3 October 2026**
 
-## Roadmap (frozen)
+## Roadmap
 
-| # | Stage | Learner-facing subtopic |
+| Lesson | Stage | Subtopic |
 |---:|---|---|
-| 1 | Foundation | Why government budgets: constitutional architecture and the three funds |
-| 2 | Foundation | From proposal to permission: budget documents, Parliament, execution and audit |
-| 3 | Foundation | Reading the receipts side: revenue, capital, debt and non-debt receipts |
-| 4 | Core | Reading the expenditure side: revenue, capital, effective capex and expenditure quality |
-| 5 | Core | Deficit indicators and calculations: RD, ERD, FD and PD |
-| 6 | Core | Financing the gap: borrowing, monetisation, interest burden and debt |
-| 7 | Core | Fiscal policy stance: objectives, instruments, stabilisers and discretion |
-| 8 | Advanced | Multipliers, recession response, inflation, crowding out and crowding in |
-| 9 | Advanced | Debt sustainability: primary balance, interest-growth dynamics and intergenerational equity |
-| 10 | Advanced | FRBM: rules, targets, statements, escape clause and policy credibility |
-| 11 | Advanced | Fiscal transparency: off-budget borrowing, guarantees, fiscal perimeter and Centre-State dimensions |
-| 12 | Mastery | How to judge an Indian Budget: current fiscal path, consolidation and integrated answer craft |
+| 1 | Basic | Constitutional architecture and the three funds |
+| 2 | Basic | Budget process, documents, execution and audit |
+| 3 | Basic | Revenue, capital, debt and non-debt receipts |
+| 4 | Basic | Revenue expenditure, capital expenditure and effective capex |
+| 5 | Core | Revenue, effective revenue, fiscal and primary deficits |
+| 6 | Core | Deficit financing, interest burden and debt |
+| 7 | Core | Fiscal stance, stabilisers, recession and inflation |
+| 8 | Core | Expenditure quality, opportunity cost and outcomes |
+| 9 | Optional Advanced | Multipliers, cyclicality and crowding |
+| 10 | Optional Advanced | Debt dynamics and intergenerational incidence |
+| 11 | Optional Advanced | FRBM, debt anchors and escape clauses |
+| 12 | Optional Advanced | Off-budget risk and integrated Budget judgement |
 
 ```text
-Constitutional authority
+CONSTITUTIONAL AUTHORITY
         ↓
-Receipts and expenditure classification
+DOCUMENTS + PARLIAMENTARY CONTROL
         ↓
-Deficit and financing identities
+RECEIPTS + EXPENDITURE CLASSIFICATION
         ↓
-Demand, supply, inflation and private investment
+DEFICIT IDENTITIES + FINANCING
         ↓
-Debt, rules, transparency and federal incidence
+DEMAND + SUPPLY + DISTRIBUTION + INVESTMENT
         ↓
-Balanced judgement of the Budget
+DEBT + RULES + TRANSPARENCY
+        ↓
+VERDICT = SIZE + COMPOSITION + TIMING + DISCLOSURE
 ```
 
-The topic is not a hunt for one “good” deficit number. It is a method for asking five questions:
-**Who authorised the money? Where did it come from? What was it used for? What macroeconomic
-effect followed? Who carries the future liability?**
+A fiscal deficit is neither automatically virtuous nor automatically harmful. Judge a Budget through **legal authority, accounting classification, macroeconomic timing, expenditure quality, financing conditions and future liability**.
 
 ---
 
-**Progress: 1 / 12 | Stage: Foundation | Subtopic: Why government budgets - constitutional architecture and the three funds**
+## Lesson 1 - Constitutional architecture: statement, funds and legislative control
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - Ramesh Singh, public-finance chapter; Constitution and Polity budget map
-CA search: "Union Budget 2026-27 Annual Financial Statement Article 112 official"
-CA found: Union Budget 2026-27 document set, presented 1 February 2026; figures are used only with BE/RE/Actual labels
+
+**Book context:** The constitutional chain from fiscal statement to audit is established.
+
+**Current link:** Union Budget 2026-27 document set; constitutional rules remain distinct from annual policy choices.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: one Budget, three constitutional questions
+Progress: 1 / 12 | Stage: Basic | Subtopic: Constitutional Budget architecture
+
+### Visual - constitutional lock-and-key
 
 ```text
-WHAT WILL GOVERNMENT RECEIVE AND SPEND?
-        Annual Financial Statement, Article 112
-                         ↓
-WHO MAY VOTE OR DISCUSS THE SPENDING?
-        Charged items discussed, other items voted
-                         ↓
-FROM WHICH ACCOUNT MAY MONEY MOVE?
-   Consolidated Fund | Public Account | Contingency Fund
+POLICY ANNOUNCEMENT
+        ↓ not withdrawal authority
+ANNUAL FINANCIAL STATEMENT — Article 112
+        ↓ charged versus voted
+DEMANDS FOR GRANTS — Article 113 — Lok Sabha
+        ↓
+APPROPRIATION LAW — Article 114
+        ↓
+ACCOUNTS → CAG AUDIT → PARLIAMENTARY SCRUTINY
 ```
 
-The learner's first problem is simple: if the Finance Minister announces a road, has money legally
-been spent? **No.** A speech communicates policy. The Constitution creates the authority chain.
+### Core teaching
 
-### 1. Annual Financial Statement, not merely a speech
+✅ **Fact:** Article 112 requires the President to cause the Annual Financial Statement to be laid before both Houses. It estimates receipts and expenditure and separately identifies expenditure charged on the Consolidated Fund and other expenditure proposed from it.
 
-Article 112 requires the President to cause the **Annual Financial Statement (AFS)** to be laid
-before both Houses of Parliament. The Finance Minister presents it in practice, but the
-constitutional act is on behalf of the President.
+The Finance Minister presents the Budget in practice, but a speech is not the constitutional statement and does not authorise withdrawal. Under Article 113, charged expenditure may be discussed but is not voted; other expenditure is submitted as Demands for Grants to the Lok Sabha on the President's recommendation. Article 114 supplies appropriation authority.
 
-The AFS estimates receipts and expenditure for the coming financial year and distinguishes:
-
-- expenditure charged on the Consolidated Fund of India; and
-- other expenditure that is submitted to the Lok Sabha as Demands for Grants.
-
-**Charged** means “not submitted to vote.” It does not mean secret, unaudited or outside
-appropriation. Parliament may discuss it.
-
-### 2. The three funds
-
-| Fund | What enters it | Withdrawal rule |
+| Fund | Broad content | Withdrawal rule |
 |---|---|---|
-| **Consolidated Fund of India, Article 266(1)** | revenues, loans raised, repayment of loans made by government | appropriation by law is required |
-| **Public Account, Article 266(2)** | money held in a banker or trustee capacity, such as specified deposits and savings | repayment does not require ordinary appropriation |
-| **Contingency Fund, Article 267** | an imprest for urgent unforeseen expenditure | advance is later recouped after legislative authorisation |
+| Consolidated Fund, Article 266(1) | revenues, loans raised, loan repayments received | appropriation by law |
+| Public Account, Article 266(2) | money held in trustee/banker capacity | ordinary appropriation not required for repayment |
+| Contingency Fund, Article 267 | imprest for urgent unforeseen expenditure | advance later recouped after authorisation |
 
-Think of the Consolidated Fund as the government's main wallet, the Public Account as money it
-holds for others, and the Contingency Fund as an emergency advance drawer. The analogy stops here:
-each is a constitutional account, not a personal bank product.
+The account and economic classification answer different questions. Borrowing enters the Consolidated Fund but remains a capital receipt because it creates liability.
 
-### 3. Why this architecture exists
-
-1. The executive estimates a need.
-2. Parliament receives the fiscal statement.
-3. The Lok Sabha votes the grant where voting is required.
-4. An Appropriation Act permits withdrawal.
-5. Accounts and audit test whether the authority was respected.
-
-This separates **announcement, approval, withdrawal and audit**. Without that separation,
-executive intention could be mistaken for legal spending authority.
-
-### Likely doubt: “If borrowing enters the Consolidated Fund, is it government income?”
-
-No. It is a receipt, but it creates a liability. The fund tells us **where money is credited**;
-the revenue-capital classification tells us **what economic effect the receipt has**.
+- ✅ **Fact:** “Charged” means not submitted to vote, not beyond discussion, accounts or audit.
+- ⚠️ **Inference:** Fiscal accountability depends on the full chain of statement, vote, appropriation, execution and audit.
+- **Trap:** Presentation is not legal withdrawal authority.
 
 ### Objection and reply
 
-**Objection:** The ruling majority usually passes the Budget, so parliamentary control is only
-formal.
+**Objection:** If the government normally commands a Lok Sabha majority, the grant process is only ceremonial.
 
-**Reply:** Party discipline does reduce the probability of defeat, but constitutional
-classification, committee scrutiny, appropriation limits, accounts, CAG audit and later
-parliamentary examination still create information, legality and accountability constraints.
-The balanced conclusion is that control is real but uneven in depth.
+**Reply:** A majority makes defeat unlikely, but it does not erase the legal distinctions among charged and voted expenditure, purpose-specific grants, appropriation, excess regularisation, accounts and audit. These distinctions determine whether expenditure is lawful and later examinable.
 
-### UPSC integration
+### Exact verified PYQ — answer-neutral
 
-- **2024 Prelims GS-I, Q85:** tested who constitutionally lays the AFS and the President's
-  recommendation for a Demand for Grant.
-- **Probable framing:** distinguish the three funds; charged versus voted expenditure; speech
-  versus appropriation.
-- **Answer use:** begin a Government Budgeting answer with the authority chain, not a deficit
-  ratio.
+**UPSC Prelims 2024, GS Paper I, Question 85**
 
-### Revision notes
+> With reference to Union Budget, consider the following statements:
+>
+> 1. The Union Finance Minister, on behalf of the Prime Minister, lays the Annual Financial Statement before both the Houses of Parliament.
+> 2. At the Union level, no demand for a grant can be made except on the recommendation of the President of India.
+>
+> Which of the statements given above is/are correct?
+>
+> (a) 1 only
+> (b) 2 only
+> (c) Both 1 and 2
+> (d) Neither 1 nor 2
 
-1. Article 112 concerns the Annual Financial Statement.
-2. The President causes it to be laid before both Houses.
-3. Charged expenditure may be discussed but is not voted.
-4. Voted expenditure is placed in Demands for Grants before the Lok Sabha.
-5. Taxes and borrowing enter the Consolidated Fund.
-6. Consolidated Fund withdrawal requires appropriation by law.
-7. Public Account money is held in a trustee or banker capacity.
-8. Contingency Fund spending is an advance, later recouped.
-9. Budget announcement is not expenditure authority.
-10. Fund classification and receipt classification answer different questions.
-
-### Practice
-
-**Q1. Under Article 112, which statement is correct?**
-
-A. The President causes the Annual Financial Statement to be laid before both Houses.
-B. The Finance Minister constitutionally lays it before the Lok Sabha, while the Rajya Sabha receives a summary instead.
-C. It records expenditure charged on the Consolidated Fund but excludes expenditure submitted for voting.
-D. Its presentation itself authorises withdrawal from the Consolidated Fund.
-
-**Q2. Which account-rule pairing is correct?**
-
-A. Consolidated Fund - charged withdrawals follow parliamentary discussion but remain outside the Appropriation Act.
-B. Public Account - government commonly holds repayable balances in a banker-like capacity.
-C. Contingency Fund - ordinary annual departmental expenditure.
-D. Public Account - tax revenue is held there as a repayable balance.
-
-**Answers:** Q1-A; Q2-B.
-
-**Option explanations**
-
-- **Q1-A:** Correct. Article 112 requires the President to cause the Annual Financial Statement
-  to be laid before both Houses.
-- **Q1-B:** Incorrect. The Finance Minister presents the Budget in practice, but Article 112
-  places the laying obligation on the President and requires presentation before both Houses.
-- **Q1-C:** Incorrect. The statement separates charged expenditure from other expenditure; it
-  does not contain charged items alone.
-- **Q1-D:** Incorrect. Withdrawal from the Consolidated Fund requires appropriation under
-  Article 114 after the relevant parliamentary process.
-- **Q2-A:** Incorrect. Charged expenditure is not voted, but its withdrawal from the
-  Consolidated Fund is still included in appropriation.
-- **Q2-B:** Correct. Public Account balances commonly involve money held by government in a
-  banker or trustee capacity and repayable to its owners.
-- **Q2-C:** Incorrect. The Contingency Fund provides urgent unforeseen advances, not financing
-  for ordinary annual departmental expenditure.
-- **Q2-D:** Incorrect. Tax revenue is credited to the Consolidated Fund; it is not a repayable
-  Public Account balance.
-
-**Mains drill - 10 marks:** Distinguish the Consolidated Fund, Public Account and Contingency
-Fund of India.
-
-**Model answer:** India's constitutional accounts separate government resources by ownership and
-withdrawal rule. Under Article 266(1), revenues, loans raised and loan recoveries enter the
-Consolidated Fund; no money may be withdrawn without appropriation by law. Under Article 266(2),
-the Public Account contains money held in a banker or trustee capacity, so repayment does not
-follow the ordinary grant route. Article 267 permits a Contingency Fund as an imprest for urgent,
-unforeseen needs; the advance is later recouped through legislative authorisation. Thus, the
-Consolidated Fund is the main fiscal account, the Public Account holds repayable balances, and
-the Contingency Fund bridges emergencies. The distinction protects legality without preventing
-timely administration.
-
----
-
-**Progress: 2 / 12 | Stage: Foundation | Subtopic: From proposal to permission - budget documents, Parliament, execution and audit**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - Union Budget document architecture; Parliament and financial control
-CA search: "Key to Budget Documents 2026-27 Finance Bill Demands for Grants official"
-CA found: Union Budget 2026-27 official document guide, presented 1 February 2026, lists the AFS, Demands for Grants, Finance Bill, Receipt Budget, Expenditure documents and FRBM statements
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Visual: the full budget cycle
-
-```text
-Ministries submit needs
-        ↓
-Finance Ministry prepares estimates
-        ↓
-AFS + Budget documents presented
-        ↓
-General discussion → committee scrutiny
-        ↓
-Lok Sabha votes Demands for Grants
-        ↓
-Appropriation Act + Finance Act
-        ↓
-Execution → CGA accounts → CAG audit → PAC scrutiny
-```
-
-A Budget is a cycle, not a single day. The economic promise matters only when it survives
-classification, authorisation, cash release, procurement, execution, accounting and audit.
-
-### 1. Documents answer different questions
-
-| Document | Main question answered |
-|---|---|
-| Annual Financial Statement | What are estimated receipts and expenditure? |
-| Demands for Grants | What voted expenditure does each ministry seek? |
-| Finance Bill | What tax proposals and connected legal changes are proposed? |
-| Appropriation Bill | What withdrawal from the Consolidated Fund is authorised? |
-| Receipt Budget | What is the detailed composition of receipts and liabilities? |
-| Expenditure Budget/Profile | Where and for what is expenditure proposed? |
-| Budget at a Glance | What are the major aggregates? |
-| FRBM statements | What assumptions, strategy, targets and risks frame the Budget? |
-| Output Outcome Monitoring Framework | What outputs and outcomes are expected from outlays? |
-
-No single document is sufficient. A headline may show the allocation, while an expenditure
-profile shows composition and later accounts show actual use.
-
-### 2. Demands, cut motions and guillotine
-
-The Lok Sabha votes Demands for Grants. It may use:
-
-- **policy cut:** reduce the demand to Re 1 to express policy disapproval;
-- **economy cut:** reduce it by a specified amount;
-- **token cut:** reduce it by Rs 100 to ventilate a grievance.
-
-When the allotted time ends, remaining demands may be put to vote together through the
-**guillotine**. This ensures passage but can compress discussion.
-
-### 3. Finance Bill is not Appropriation Bill
-
-```text
-Finance Bill       → authority for tax proposals
-Appropriation Bill → authority to withdraw for grants and charged sums
-```
-
-The distinction is foundational: raising resources and spending resources are separate legal
-acts.
-
-### 4. Flexibility during the year
-
-Article 115 covers:
-
-- **supplementary grant:** original amount is insufficient;
-- **additional grant:** a new service arose;
-- **excess grant:** spending already exceeded authority and needs ex-post regularisation.
-
-Article 116 covers Vote on Account, Vote of Credit and Exceptional Grant. A **Vote on Account**
-is temporary spending authority pending the full process. An **interim budget** is a broader
-political-practice label; the two are not constitutional synonyms.
-
-### 5. Who does what after authorisation?
-
-- **CGA:** compiles Union government accounts and monthly fiscal information.
-- **CAG:** independently audits legality, classification and performance.
-- **PAC and other committees:** examine audit findings and executive accountability.
-
-The strongest public-expenditure question therefore asks: **allocation → release → utilisation
-→ output → outcome**, not merely “How much was announced?”
-
-### Criticism and reply
-
-**Criticism:** Detailed documents create transparency only for specialists; ordinary legislative
-scrutiny remains weak.
-
-**Reply:** That is a genuine limitation. Better machine-readable data, stronger committee time,
-realistic outcome indicators and timely action-taken reports are needed. But the remedy is deeper
-use of the architecture, not replacement of constitutional authorisation with executive speed.
-
-### UPSC integration
-
-- **2019 GS-III, Q12, Clarify, 15 marks:** why public-expenditure management remains a
-  challenge in post-liberalisation budget making. Demand: move from allocation to efficiency,
-  outcomes, federal execution and transparency. Approach: cycle map → challenges → reforms.
-- **Probable Prelims:** Finance Bill versus Appropriation Bill; supplementary versus excess;
-  Vote on Account versus interim budget.
+The complete response set is shown without a key. The lesson supplies the constitutional distinctions needed to evaluate it.
 
 ### Revision notes
 
-1. The AFS discloses; the Appropriation Act authorises withdrawal.
-2. Finance Bill gives effect to tax proposals.
-3. Only the Lok Sabha votes Demands for Grants.
-4. Policy cut reduces a demand to Re 1.
-5. Economy cut specifies a reduction.
-6. Token cut uses Rs 100 to raise a grievance.
-7. Guillotine can reduce discussion time.
-8. Supplementary means insufficient original provision.
-9. Additional means a new service.
-10. Excess grant regularises an overrun after expenditure.
-11. Vote on Account is temporary authority.
-12. CGA compiles accounts; CAG audits them.
+1. Article 112: AFS.
+2. President causes it to be laid before both Houses.
+3. Article 113: Demands for Grants and charged-voted distinction.
+4. Lok Sabha votes grants.
+5. Charged expenditure is discussable but not voted.
+6. Article 114: appropriation.
+7. Consolidated Fund withdrawal needs authority by law.
+8. Public Account holds repayable balances.
+9. Contingency Fund is an advance mechanism.
+10. Fund location differs from receipt classification.
+11. Parliamentary majority does not remove legal purpose and audit controls.
 
-### Practice
+### Concept check
 
-**Q3. Which statements about charged expenditure are correct?**
+**Question:** Why is charged expenditure not expenditure outside parliamentary control?
 
-1. It may be discussed.
-2. It is not submitted to vote.
-3. It needs no appropriation.
+**Model answer:** It is exempt from the grant vote but remains presented, discussable, appropriated, accounted for and auditable.
 
-A. 1 only
-B. 2 and 3 only
-C. 1 and 2 only
-D. 1, 2 and 3
+**Misconception to avoid:** “Not voted” does not mean “secret or unauthorised.”
 
-**Q4. Which sequence best describes ordinary Union expenditure authorisation?**
+### Lesson-local Mains practice
 
-A. Finance Bill → CAG audit → Demand for Grant → withdrawal
-B. Vote on Account → Finance Commission → Public Account → withdrawal
-C. Budget speech → immediate withdrawal → later AFS
-D. AFS → Demands for Grants → Appropriation Bill → withdrawal
+**Question (10 marks, 150 words):** Explain how the Constitution separates Budget announcement from lawful withdrawal.
 
-**Answers:** Q3-C; Q4-D.
+**Lesson-local model (145 words):** The Constitution converts fiscal intention into lawful expenditure through sequential controls. Under Article 112, the President causes the Annual Financial Statement to be laid before Parliament. Estimates distinguish charged expenditure from expenditure submitted as Demands for Grants. Under Article 113, the Lok Sabha votes the latter on presidential recommendation; charged items remain discussable but are not voted. The Appropriation Bill then authorises withdrawal from the Consolidated Fund under Article 114. Article 115 supplies supplementary authority when an existing provision is insufficient, additional authority for a new service, and ex-post regularisation through an excess grant. Article 116 permits a Vote on Account, Vote of Credit or Exceptional Grant for their distinct situations. Accounts and CAG audit then test purpose and amount. Thus, announcement creates political commitment, not spending authority, although party majorities may reduce the depth of scrutiny.
 
-**Option explanations**
+**Unique quantified rubric (10):** constitutional sequence 4; charged-voted distinction 2; audit 2; qualification 1; conclusion 1.
 
-- **Q3-A:** Incorrect. Statement 1 is true, but statement 2 is also true because charged
-  expenditure is not submitted to vote.
-- **Q3-B:** Incorrect. Statement 2 is true, but statement 3 is false because charged sums remain
-  part of the appropriation process.
-- **Q3-C:** Correct. Charged expenditure may be discussed, while Article 113 excludes it from
-  voting.
-- **Q3-D:** Incorrect. Statement 3 is false because charged sums remain subject to appropriation
-  even though they are not submitted to vote.
-- **Q4-A:** Incorrect. The Finance Bill concerns taxation, and CAG audit occurs after execution;
-  neither can replace the grant and appropriation sequence.
-- **Q4-B:** Incorrect. A Vote on Account is temporary authority, while the Finance Commission and
-  Public Account are not stages in ordinary annual expenditure authorisation.
-- **Q4-C:** Incorrect. A Budget speech does not permit immediate withdrawal, and the AFS must
-  precede legislative authorisation.
-- **Q4-D:** Correct. Estimates are presented through the AFS, voted expenditure passes through
-  Demands for Grants, and appropriation legally authorises withdrawal.
-
-**Mains drill - 15 marks:** Why does public-expenditure management remain difficult even after
-Parliament passes the Budget?
-
-**Model answer:** Passage establishes authority, not delivery. Difficulties arise from optimistic
-estimates, fragmented schemes, release delays, weak procurement, unspent balances, cost overruns,
-poor Centre-State coordination and a focus on outlay rather than outcome. The BE may change at RE
-stage and actual expenditure may differ further. Guillotine and limited committee time weaken
-ex-ante scrutiny, while audit is necessarily retrospective. Reform requires realistic costing,
-medium-term expenditure planning, treasury and single-nodal cash systems, outcome indicators,
-independent evaluation, timely CGA reporting, CAG follow-up and protection of maintenance
-spending. Public expenditure is well managed only when legal authority becomes efficient,
-equitable and measurable public value.
+**Bridge:** Legal authority tells us who may spend; the next step is to follow how estimates become execution, accounts and audit.
 
 ---
 
-**Progress: 3 / 12 | Stage: Foundation | Subtopic: Reading the receipts side - revenue, capital, debt and non-debt receipts**
+## Lesson 2 - Budget process, documents, execution and audit
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - Ramesh Singh receipts taxonomy and Budget at a Glance definitions
-CA search: "Union Budget 2026-27 revenue receipts non-debt capital receipts official"
-CA found: Union Budget 2026-27 Receipt Budget and Budget at a Glance, presented 1 February 2026, retain separate revenue, debt-capital and non-debt-capital classifications
+
+**Book context:** Budget documents, legislative devices and account stages are established.
+
+**Current link:** 2026-27 figures are BE; August 2026 CGA figures are unaudited provisional actuals.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: classify by balance-sheet effect
+Progress: 2 / 12 | Stage: Basic | Subtopic: Budget cycle and document literacy
+
+### Visual - document-to-delivery relay
 
 ```text
-MONEY RECEIVED
-   |
-   +-- no liability created, no financial asset reduced
-   |       → REVENUE RECEIPT
-   |
-   `-- liability created or financial asset reduced
-           → CAPITAL RECEIPT
-              |-- debt: borrowing
-              `-- non-debt: loan recovery, disinvestment
+MINISTRY ESTIMATES → FINANCE MINISTRY CONSOLIDATION → CABINET
+        ↓
+AFS + FINANCE BILL + FRBM STATEMENTS + SUPPORTING DOCUMENTS
+        ↓
+DISCUSSION → COMMITTEES → DEMANDS → GUILLOTINE
+        ↓
+APPROPRIATION BILL + FINANCE BILL
+        ↓
+RELEASE → EXPENDITURE → ACCOUNTS → CAG → PAC
 ```
 
-Do not classify a receipt by its name, size or frequency. Ask what it does to the government's
-balance sheet.
+### Three stages of numbers
 
-### 1. Revenue receipts
-
-A revenue receipt neither creates a liability nor reduces a financial asset.
-
-- **Tax revenue:** direct and indirect taxes.
-- **Non-tax revenue:** dividends, interest received, fees, penalties and specified service
-  receipts.
-
-Interest **received** on a loan is revenue. Recovery of the loan's **principal** is capital.
-That one distinction solves many close options.
-
-### 2. Capital receipts
-
-A capital receipt:
-
-- creates a liability, as borrowing does; or
-- reduces a financial asset, as loan recovery or disinvestment does.
-
-| Receipt | Classification | Reason |
+| Label | Meaning | Analytical use |
 |---|---|---|
-| market borrowing | debt capital receipt | future repayment liability |
-| Treasury Bill proceeds | debt capital receipt | short-term sovereign liability |
-| recovery of loans | non-debt capital receipt | government's financial asset falls |
-| disinvestment proceeds | non-debt capital receipt | ownership asset is exchanged for cash |
-| dividend from PSU | non-tax revenue | income, not asset sale |
+| Actuals | recorded outcome, with stated audit status | realised performance |
+| BE | forthcoming-year projection and authority framework | intended stance |
+| RE | in-year revision | expected execution |
 
-### 3. Why non-debt receipts matter to fiscal deficit
+Never compare Actuals and BE as though they were equivalent observations.
 
-Fiscal deficit subtracts **non-debt receipts** from total expenditure. Borrowing cannot be
-subtracted because the deficit is intended to reveal how much borrowing is needed.
+### Document map
 
-```text
-Fiscal deficit
-= Total expenditure
-− Revenue receipts
-− Non-debt capital receipts
-```
+- **AFS:** constitutional estimates.
+- **Demands for Grants:** ministry-wise voted proposals.
+- **Finance Bill:** gives effect to taxation proposals.
+- **Appropriation Bill:** authorises withdrawal.
+- **Budget at a Glance:** aggregates and deficit indicators.
+- **Receipt Budget / Expenditure Profile:** detailed composition.
+- **FRBM statements:** macro assumptions, medium-term policy and strategy.
+- **Outcome documents:** connect outlay with intended outputs and outcomes.
 
-### 4. Revenue quality
+Cut motions signal disagreement; the guillotine brings remaining demands to vote at the appointed time. Supplementary, additional and excess grants preserve legislative authority when requirements change. Reappropriation permits limited movement under rules; it does not authorise evasion of the approved purpose.
 
-Two Budgets may raise the same amount but differ in durability:
+### When the original grant is not enough — Article 115
 
-- recurring, broad-based tax revenue can finance continuing services;
-- a one-off disinvestment receipt cannot permanently close a recurring gap;
-- aggressive dividends from public enterprises may reduce their investment capacity;
-- black money and weak compliance narrow the declared tax base.
+| Device | Trigger | Timing and meaning |
+|---|---|---|
+| **Supplementary grant** | the amount authorised for an existing service proves insufficient | additional authority for that service during the year |
+| **Additional grant** | a need arises for a new service not contemplated in the AFS | authority for a new service |
+| **Excess grant** | money has already been spent beyond the amount granted for a service | ex-post regularisation; the excess is scrutinised before parliamentary approval |
 
-The point is not that one-off receipts are always bad. It is that temporary financing should
-not be mistaken for structural fiscal capacity.
+These are not interchangeable. “Supplementary” concerns inadequacy of an existing provision; “additional” concerns a new service; “excess” concerns an overrun already incurred.
 
-### Historical application
+### Temporary and exceptional authority — Article 116
 
-The 2018 Mains question on LTCG and DDT shows that a Budget can change resource mobilisation
-through tax design. Rates and legal status are time-sensitive; the exam answer must anchor them
-to the relevant Budget year rather than quote an old rate as current law.
+| Device | Exact constitutional purpose | Distinction |
+|---|---|---|
+| **Vote on Account** | grant in advance for estimated expenditure for part of a financial year pending completion of the Article 113-114 procedure | temporary spending authority; not the constitutional name for an interim budget |
+| **Vote of Credit** | meets an unexpected demand when magnitude or indefinite character prevents the details ordinarily given in an AFS | emergency-like lump-sum authority for an indeterminate demand |
+| **Exceptional Grant** | grant forming no part of the current service of any financial year | one-off exceptional purpose, outside ordinary current service |
 
-### UPSC integration
+An **interim budget** is a political-practice expression for a broader Budget presented before an election or transition. A Vote on Account is a specific constitutional grant in advance. A vote of credit is not a routine bridge for ordinary annual services, and an exceptional grant is not simply another supplementary grant.
 
-- **2025 Prelims Q10:** capital receipts, borrowings, disinvestment and interest received.
-- **2018 GS-III Q2, Comment, 10 marks:** changes in LTCG and DDT. Demand: explain the
-  Budget-year reform, rationale, incidence and qualification; do not transplant old rates into
-  the present.
+### Worked distinctions
 
-### Revision notes
+- A ministry's authorised scholarship provision becomes insufficient: **supplementary grant**.
+- A new evacuation service not contemplated in the Budget becomes necessary: **additional grant**, unless its uncertainty and scale call for a vote of credit.
+- A department has already exceeded the authorised amount: **excess grant**, not reappropriation after the fact.
+- Full voting cannot finish before 1 April: **Vote on Account** for a limited period.
 
-1. Revenue receipt creates no liability.
-2. Revenue receipt does not reduce a financial asset.
-3. Tax and non-tax are both revenue receipts.
-4. Interest received is non-tax revenue.
-5. Borrowing is a debt capital receipt.
-6. Loan recovery is a non-debt capital receipt.
-7. Disinvestment is a non-debt capital receipt.
-8. “Capital” does not mean costless.
-9. Fiscal deficit excludes debt receipts from the subtraction.
-10. One-off receipts cannot permanently repair a structural gap.
+CGA compiles Union accounts. CAG audits and reports; parliamentary committees examine legality, regularity, economy and performance. Ask: allocation, release, spending, classification, output and outcome—which stage is being claimed?
 
-### Practice
+✅ **Current fact:** CGA's end-August 2026 page labels figures unaudited provisional and warns that timing mismatches make an in-year deficit percentage an unreliable full-year predictor.
 
-**Q5. Which is a revenue receipt?**
+### Exact verified PYQ — answer-neutral
 
-A. Interest received by government on loans it extended
-B. Fresh market borrowing that creates a contractual repayment obligation for the Union
-C. Recovery of principal on a loan previously extended by government
-D. Proceeds from sale of a government equity stake
+**UPSC Prelims 2020, GS Paper I, Question 6**
 
-**Q6. Which is a non-debt capital receipt?**
+> Along with the Budget, the Finance Minister also places other documents before the Parliament which include “The Macro Economic Framework Statement”. The aforesaid document is presented because this is mandated by
+>
+> (a) Long-standing parliamentary convention
+> (b) Article 112 and Article 110(1) of the Constitution of India
+> (c) Article 113 of the Constitution of India
+> (d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
 
-A. GST collected under the applicable tax law
-B. Recovery of loans granted by government
-C. Proceeds from newly issued Treasury Bills
-D. Dividend received on a government equity holding
-
-**Answers:** Q5-A; Q6-B.
-
-**Option explanations**
-
-- **Q5-A:** Correct. Interest received is non-tax revenue because it is income and neither
-  creates a liability nor reduces the loan principal asset.
-- **Q5-B:** Incorrect. Fresh market borrowing creates a repayment liability and is a debt
-  capital receipt.
-- **Q5-C:** Incorrect. Recovery of principal reduces a government financial asset and is a
-  non-debt capital receipt.
-- **Q5-D:** Incorrect. Disinvestment exchanges an ownership asset for cash and is therefore a
-  non-debt capital receipt.
-- **Q6-A:** Incorrect. GST collection is compulsory tax revenue and does not reduce a government
-  financial asset.
-- **Q6-B:** Correct. Loan recovery reduces an existing financial asset without creating fresh
-  debt.
-- **Q6-C:** Incorrect. Treasury-Bill proceeds create a short-term sovereign liability and are
-  debt capital receipts.
-- **Q6-D:** Incorrect. A dividend is income from ownership and is classified as non-tax revenue,
-  not recovery or sale of the ownership asset.
-
-**Mains drill - 10 marks:** Distinguish revenue receipts, debt capital receipts and non-debt
-capital receipts.
-
-**Model answer:** Revenue receipts neither create liabilities nor reduce government financial
-assets; they include tax revenue and non-tax income such as dividends, fees and interest
-received. Debt capital receipts create a repayment obligation, as with market loans, Treasury
-Bills and small-savings liabilities. Non-debt capital receipts do not create fresh debt but
-reduce an existing financial or ownership asset, as with recovery of loans and disinvestment.
-The distinction matters because fiscal deficit subtracts revenue and non-debt capital receipts
-from total expenditure but excludes borrowing. Analytically, recurring revenue strengthens
-durable fiscal capacity, while borrowing raises future servicing obligations and one-off asset
-sales cannot substitute indefinitely for structural revenue reform.
-
----
-
-**Progress: 4 / 12 | Stage: Core | Subtopic: Reading the expenditure side - revenue, capital, effective capex and expenditure quality**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - Ramesh Singh expenditure classification; Economic Survey 2025-26 fiscal chapter
-CA search: "Economic Survey 2025-26 effective capital expenditure 4 per cent GDP official"
-CA found: Economic Survey 2025-26, tabled 29 January 2026, reports the post-pandemic capex emphasis and effective capital expenditure around 4% of GDP in FY2024-25
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Visual: accounting class and economic quality are two different tests
-
-```text
-SPENDING
-  |
-  +-- Revenue expenditure: current operation / transfer / interest
-  |
-  `-- Capital expenditure: asset acquisition / loan / liability reduction
-
-THEN ASK A SECOND QUESTION:
-Did the spending create useful, completed and equitably distributed outcomes?
-```
-
-The common beginner error is moral classification: revenue equals waste and capital equals good.
-Accounting does not permit that shortcut.
-
-### 1. Revenue expenditure
-
-Revenue expenditure generally does not create an asset or reduce a liability in the Union
-government's own accounts. It includes salaries, pensions, interest, subsidies, grants,
-maintenance and many social services.
-
-A teacher's salary is revenue expenditure, but education can build human capability. Maintenance
-of a dam is revenue expenditure, but neglecting it can destroy a capital asset. Classification
-does not settle productivity.
-
-### 2. Capital expenditure
-
-Capital expenditure creates or acquires an asset, makes a loan, or reduces a liability. Roads,
-rail assets, defence equipment and loans to states can enter the capital account.
-
-Capex may:
-
-- raise current demand during construction;
-- remove infrastructure bottlenecks;
-- improve future productivity;
-- crowd in private investment.
-
-But a delayed, low-use or poorly selected project can lock resources into an unproductive asset.
-
-### 3. The grant puzzle
-
-A Union grant to a state for building an asset is booked as Union **revenue expenditure** because
-the Union does not own the asset. Yet the receiving government creates capital.
-
-This produces two useful indicators:
-
-```text
-Effective revenue deficit
-= Revenue deficit − grants for creation of capital assets
-
-Effective capital expenditure
-= Union capital expenditure + those capital-asset grants
-```
-
-Neither indicator proves the asset was completed or well used. They correct the accounting
-location, not the implementation result.
-
-### 4. Expenditure quality ladder
-
-```text
-OUTLAY → RELEASE → UTILISATION → OUTPUT → OUTCOME → IMPACT
-```
-
-A health-centre allocation is an outlay. A constructed building is an output. Reduced travel
-time to care or improved health is an outcome. Long-run productivity is an impact.
-
-Quality therefore requires:
-
-- allocative efficiency: was the right priority chosen?
-- technical efficiency: was output produced at reasonable cost?
-- effectiveness: did the intended outcome occur?
-- equity: who benefited and who bore the cost?
-- maintenance: will the asset continue to work?
-
-### Criticism and reply
-
-**Criticism:** The capex emphasis undervalues welfare and human development.
-
-**Reply:** That criticism is valid when accounting labels become a policy hierarchy. A balanced
-fiscal strategy protects productive physical capex, human-capital revenue spending, maintenance
-and targeted social protection. The correct contrast is high-value versus low-value expenditure,
-not capital versus revenue in moral terms.
-
-### UPSC integration
-
-- **2021 GS-III Q2, Distinguish, 10 marks:** Capital Budget and Revenue Budget and their
-  components. Approach: receipt and expenditure sides → significance → qualification.
-- **2022 Prelims Q9:** capital versus revenue expenditure classification.
-- **2018 Prelims Q47:** opportunity cost when government supplies a commodity free.
+No response is marked or evaluated. For statutory-source questions generally, identify the document, the claimed authority and the cited legal instrument separately before assessing the alternatives.
 
 ### Revision notes
 
-1. Revenue expenditure is an accounting category, not a synonym for waste.
-2. Capital expenditure creates assets or reduces liabilities.
-3. Interest payment is revenue expenditure.
-4. A loan made by government is capital expenditure.
-5. Asset grants can be Union revenue expenditure.
-6. Effective capex adds qualifying grants to direct capex.
-7. ERD removes those grants from revenue deficit.
-8. Outlay is not output.
-9. Output is not outcome.
-10. Maintenance spending can protect capital productivity.
-11. Free provision has an opportunity cost even when socially justified.
-12. Project execution determines realised multiplier and crowding-in.
+1. Formulation precedes presentation.
+2. General discussion does not vote individual demands.
+3. Committees examine demands.
+4. Appropriation and Finance legislation serve different functions.
+5. BE is intent; RE revised expectation; Actual realised account.
+6. Budget documents answer different questions.
+7. Guillotine is a time device.
+8. Article 115 distinguishes supplementary, additional and excess grants.
+9. Article 116 distinguishes Vote on Account, Vote of Credit and Exceptional Grant.
+10. Vote on Account and interim budget are not synonyms.
+11. CGA compiles; CAG audits.
+12. Outlay, output and outcome differ.
 
-### Practice
+### Concept check
 
-**Q7. Which item is most directly capital expenditure in government accounts?**
+**Question:** Why can a large allocation produce a weak developmental result?
 
-A. Interest payment on past debt incurred to construct a durable national infrastructure asset
-B. Salary of an existing department
-C. Acquisition of a durable asset by the Union Government
-D. A routine operating subsidy
+**Model answer:** Allocation is planned authority; delayed release, procurement failure, weak capacity, poor design or misclassification can prevent spending or outcomes.
 
-**Q8. Effective capital expenditure equals:**
+**Misconception to avoid:** Treating BE as money already spent.
 
-A. revenue expenditure minus revenue receipts after adjusting for capital receipts
-B. capital receipts minus borrowings
-C. fiscal deficit minus interest payments
-D. capital expenditure plus grants for creation of capital assets
+### Lesson-local Mains practice
 
-**Answers:** Q7-C; Q8-D.
+**Question (10 marks, 150 words):** Distinguish BE, RE and Actuals and explain their analytical importance.
 
-**Option explanations**
+**Lesson-local model (126 words):** Budget Estimates are the government's projection and proposed authority for the coming year. Revised Estimates update that projection during the year as receipts and spending become clearer. Actuals record realised accounts for a completed period, with the relevant provisional or audited status. BE reflects intent, RE expected execution and Actuals delivery. Union Budget 2026-27 capital expenditure of ₹12.22 lakh crore is therefore a BE, not proof that assets of that value were created. Likewise, an in-year CGA deficit can be distorted by timing of tax receipts and expenditure. Sound analysis compares like stages, identifies deviations and states year, denominator and coverage. The distinction prevents announcements from being confused with fiscal outcomes.
 
-- **Q7-A:** Incorrect. Interest services an existing liability and is recorded as revenue
-  expenditure even if the original borrowing financed an asset.
-- **Q7-B:** Incorrect. Salary supports the current operation of a department and does not itself
-  create a government-owned capital asset.
-- **Q7-C:** Correct. Direct acquisition of a durable asset increases the Union Government's
-  recorded asset position.
-- **Q7-D:** Incorrect. A routine operating subsidy is ordinarily a current transfer on the
-  revenue account.
-- **Q8-A:** Incorrect. Revenue expenditure minus revenue receipts is the revenue-deficit
-  identity, not effective capital expenditure.
-- **Q8-B:** Incorrect. Capital receipts minus borrowing concerns the non-debt portion of receipts,
-  not an expenditure aggregate.
-- **Q8-C:** Incorrect. Fiscal deficit minus interest payments gives primary deficit.
-- **Q8-D:** Correct. Effective capital expenditure adds grants for capital-asset creation to the
-  Union's direct capital expenditure.
+**Unique quantified rubric (10):** definitions 3; significance 3; example 2; caution 1; conclusion 1.
 
-**Mains drill - 15 marks:** “The quality of expenditure cannot be inferred from the
-revenue-capital classification alone.” Discuss.
-
-**Model answer:** The revenue-capital split is indispensable for accounting and deficit
-measurement, but it is not a complete welfare ranking. Capital expenditure can create
-infrastructure, reduce bottlenecks and crowd in private investment; yet poor selection, delay and
-low utilisation can produce stranded assets. Revenue expenditure includes interest and
-consumption subsidies, but also teachers, doctors, maintenance and targeted transfers that build
-human capability or protect demand. Grants for asset creation further show that an item may be
-revenue expenditure in Union accounts while producing capital in state accounts. Expenditure
-quality should therefore be tested through priority, cost, completion, maintenance, distribution
-and measurable outcomes. India should protect productive capex without mechanically cutting
-high-return human-development and maintenance expenditure.
+**Bridge:** Once the spending cycle is clear, the Budget can be opened into its first accounting side: receipts.
 
 ---
 
-**Progress: 5 / 12 | Stage: Core | Subtopic: Deficit indicators and calculations - RD, ERD, FD and PD**
+## Lesson 3 - Receipts: revenue, capital, debt and non-debt
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - Basic and Advanced Economy 09 deficit identities; Ramesh Singh deficit chapter
-CA search: "Budget at a Glance 2026-27 revenue fiscal primary deficit definitions official"
-CA found: Union Budget 2026-27 Budget at a Glance, presented 1 February 2026, defines RD, ERD, FD and PD and labels FY2024-25 Actuals, FY2025-26 RE and FY2026-27 BE separately
+
+**Book context:** Receipt classification follows liability creation and financial-asset reduction.
+
+**Current link:** Receipt Budget 2026-27 and August CGA account used with exact stage labels.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: four indicators, four questions
+Progress: 3 / 12 | Stage: Basic | Subtopic: Receipt classification
+
+### Visual - receipt sorting tree
 
 ```text
-RD  = Revenue Expenditure − Revenue Receipts
-      "Is the revenue account in deficit?"
-
-ERD = RD − Grants for Capital-Asset Creation
-      "How much RD remains after recognising asset grants?"
-
-FD  = Total Expenditure − Revenue Receipts − Non-Debt Capital Receipts
-      "How much borrowing is required?"
-
-PD  = FD − Interest Payments
-      "What is the current non-interest gap?"
+TOTAL RECEIPTS
+├── REVENUE RECEIPTS
+│   ├── tax
+│   └── non-tax
+└── CAPITAL RECEIPTS
+    ├── debt → liability created
+    └── non-debt
+        ├── loan recovery → financial asset reduced
+        └── disinvestment → ownership asset reduced
 ```
 
-The indicators are not rival definitions of the same thing. They remove different components to
-answer different questions.
+A revenue receipt neither creates liability nor reduces a financial asset. A capital receipt does either. Therefore, capital receipt does not mean money reserved for capital expenditure.
 
-### 1. Revenue deficit
+| Transaction | Classification | Reason |
+|---|---|---|
+| income tax | revenue receipt | no liability or asset sale |
+| PSU dividend | non-tax revenue | income without sale of stake |
+| market borrowing | debt capital receipt | liability created |
+| loan recovery | non-debt capital receipt | loan asset reduced |
+| disinvestment | non-debt capital receipt | equity asset reduced |
+| government interest payment | revenue expenditure | debt-servicing payment |
 
-Revenue deficit implies government revenue receipts are insufficient for revenue expenditure.
-It can indicate public dissaving because part of borrowing may finance current expenditure.
+Fiscal deficit deducts revenue receipts and non-debt capital receipts. Borrowing is excluded from the deduction because the indicator is meant to show the gap financed by debt-creating flows.
 
-Qualification: not all revenue expenditure is consumption or waste. A high RD is a warning about
-current-account financing, not a direct measure of social productivity.
+✅ **Official illustration:** 2026-27 BE revenue receipts are **₹35,33,150 crore** and non-debt capital receipts **₹1,18,397 crore**. At end-August, provisional amounts were **₹12,92,470 crore** and **₹75,239 crore** respectively.
 
-### 2. Effective revenue deficit
+⚠️ **Inference:** Durable tax compliance creates more reliable space than one-off asset sales. Disinvestment may improve allocation, but finite assets cannot permanently finance recurring expenditure.
 
-ERD recognises that some grants booked as Union revenue expenditure create assets outside Union
-ownership. If qualifying grants are positive, ERD is lower than RD.
+### Budget tax design case — LTCG and DDT
 
-Qualification: it does not certify asset quality, completion or maintenance.
+The receipts side is shaped not only by tax rates but also by the tax base, neutrality among instruments and transition design.
 
-### 3. Fiscal deficit
+✅ **Budget 2018-19 fact:** Long-term capital gains on listed equity shares and equity-oriented mutual funds were brought to tax at **10% on annual gains exceeding ₹1 lakh**, without indexation. Gains accrued up to **31 January 2018** received grandfathering protection. The reform sought to tax a previously exempt stream while avoiding retrospective taxation of earlier appreciation.
 
-FD is the broad annual borrowing requirement. Debt receipts are deliberately excluded from
-non-debt receipts; otherwise borrowing would be used to hide the borrowing gap.
+✅ **Budget 2018-19 fact:** A **10% Dividend Distribution Tax on equity-oriented mutual-fund dividends** was introduced to create parity between growth and dividend options and reduce dividend-stripping arbitrage. The tax operated at the distributing-fund level under that Budget's design.
 
-FD is a **flow** for a period. Public debt is a **stock** accumulated over time.
+### Incidence and limits
 
-### 4. Primary deficit
+| Design question | Analytical answer |
+|---|---|
+| Why tax LTCG? | broaden the base and improve neutrality between asset classes |
+| Why a threshold? | protect smaller annual gains and reduce compliance burden |
+| Why grandfathering? | prevent retrospective taxation of gains accrued before the reform date |
+| Why DDT on equity funds? | reduce arbitrage between growth and dividend options |
+| Main qualification | tax design can affect portfolio choice, market behaviour and compliance; dated law must not be quoted as current law |
 
-PD removes interest payments from FD. It separates the current non-interest imbalance from the
-cost of inherited debt.
+✅ **Current-law caution:** DDT on companies and mutual funds was abolished from FY2020-21 by the Finance Act, 2020; dividends moved to taxation in the shareholder's or unit-holder's hands at applicable rates. From transactions on or after **23 July 2024**, listed-equity/equity-fund LTCG was revised to **12.5%**, with the exemption threshold raised to **₹1.25 lakh**. The 2018 figures answer the 2018 Budget question; they are not current rates.
 
-A country can have a low PD and high FD when interest payments are large. A zero PD does not
-automatically stabilise debt because growth, interest rates and stock-flow adjustments also
-matter.
+### Objection and reply
 
-### Worked example
+**Objection:** Any tax on capital gains necessarily reduces productive investment.
 
-Suppose, in Rs lakh crore:
+**Reply:** Tax can lower post-tax returns at the margin, but the effect depends on the rate, threshold, grandfathering, loss set-off, alternative assets and use of revenue. Neutrality and certainty can improve allocation even while excessive or unstable taxation can distort it.
+
+### Exact verified PYQs — answer-neutral
+
+**UPSC Prelims 2025, GS Paper I, Question 10**
+
+> Consider the following statements:
+>
+> I. Capital receipts create a liability or cause a reduction in the assets of the Government.
+> II. Borrowings and disinvestment are capital receipts.
+> III. Interest received on loans creates a liability of the Government.
+>
+> Which of the statements given above are correct?
+>
+> (a) I and II only
+> (b) II and III only
+> (c) I and III only
+> (d) I, II and III
+
+**UPSC Mains 2018, GS Paper III, Question 2 — 10 marks, 150 words**
+
+> Comment on the important changes introduced in respect of the Long-term Capital Gains Tax (LCGT) and Dividend Distribution Tax (DDT) in the Union Budget for 2018-2019.
+
+The official paper prints “LCGT”; the standard term used in teaching is LTCG tax. The question is reproduced without a model answer at this point.
+
+### Revision notes
+
+1. Revenue receipts create no liability and reduce no financial asset.
+2. Tax and non-tax receipts are revenue receipts.
+3. Borrowing creates liability.
+4. Loan recovery reduces a financial asset.
+5. Disinvestment reduces ownership assets.
+6. Separate debt and non-debt capital receipts.
+7. FD deducts non-debt receipts, not borrowing.
+8. Dividend differs from disinvestment.
+9. Capital receipt need not fund capex.
+10. One-off receipts cannot cure structural gaps.
+11. Budget 2018 LTCG used a threshold and grandfathering.
+12. Budget 2018 equity-fund DDT sought growth-dividend neutrality.
+13. DDT abolition and the 2024 LTCG revision make year-labels compulsory.
+
+### Concept check
+
+**Question:** Why is loan recovery a capital receipt without creating a new liability?
+
+**Model answer:** Capital receipts also include reductions in financial assets; recovery reduces the government's outstanding loan asset.
+
+**Misconception to avoid:** Every capital receipt must create debt.
+
+### Lesson-local Mains practice
+
+**Question (10 marks, 150 words):** Why cannot capital receipts be treated as a uniform source of fiscal strength?
+
+**Lesson-local model (136 words):** Capital receipts have different balance-sheet implications. Market borrowing creates a liability and future interest cost. Loan recovery converts an existing financial asset into cash, while disinvestment reduces public ownership. Borrowing expands gross financing but not durable fiscal space in the same manner as a recurring revenue gain. Non-debt capital receipts reduce the fiscal-deficit identity, yet they may be one-off and cannot sustainably finance salaries, subsidies or interest. Disinvestment can improve governance where ownership transfer is purposeful, but a distress sale may sacrifice future dividends. Loan recovery may signal better asset quality, but cannot grow indefinitely. Receipts should therefore be judged by liability creation, asset reduction, recurrence and purpose. A strong Budget relies on durable revenue while using capital receipts transparently.
+
+**Unique quantified rubric (10):** taxonomy 3; differentiated effects 3; examples 2; qualification 1; verdict 1.
+
+**Bridge:** Receipt quality determines fiscal space; expenditure classification shows what that space finances.
+
+---
+
+## Lesson 4 - Expenditure: revenue, capital and effective capital expenditure
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+
+**Book context:** Expenditure classification is separated from expenditure quality.
+
+**Current link:** Union Budget 2026-27 capital and effective-capital-expenditure estimates used.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Progress: 4 / 12 | Stage: Basic | Subtopic: Expenditure classification
+
+### Visual - two ledgers, one economic effect
+
+```text
+TOTAL EXPENDITURE
+├── REVENUE: services, maintenance, transfers, interest
+│      └── grant may create asset at recipient level
+└── CAPITAL: assets, loans, liability reduction
+
+EFFECTIVE CAPITAL EXPENDITURE
+= direct Union capital expenditure
++ grants for creation of capital assets
+```
+
+Revenue expenditure generally supports normal services and transfers and does not directly create a Union asset or reduce its liability. It is not synonymous with waste: teachers, vaccination, nutrition and maintenance can have high returns.
+
+Capital expenditure creates/acquires assets, extends loans or reduces liabilities. Its label also does not guarantee quality; incomplete or poorly selected projects can yield little.
+
+A Union grant for a state-created asset is revenue expenditure in Union accounts because the Union does not own the asset. Effective capital expenditure adds it to direct capex to capture the economy-facing asset support.
+
+✅ **Fact:** 2026-27 BE capital expenditure is **₹12,21,821 crore** and effective capital expenditure **₹17,14,523 crore**.
+
+| Revenue Budget | Capital Budget |
+|---|---|
+| revenue receipts + revenue expenditure | capital receipts + capital expenditure |
+| current-account position | financing, asset and liability transactions |
+
+This distinction was directly demanded in 2021 GS-III. The safe judgement is not “revenue bad, capital good,” but whether spending corrects a failure, reaches beneficiaries, creates or maintains useful capacity, and produces outcomes.
+
+### Example with a limit
+
+A grant to a state for a rural bridge is revenue expenditure in Union accounts and part of effective capital expenditure. If the bridge remains incomplete, the accounting classification remains correct but the development claim fails. Conversely, routine maintenance of an existing bridge is revenue expenditure but can prevent a much larger capital loss.
+
+### Objection and reply
+
+**Objection:** Fiscal consolidation should simply cut revenue expenditure and protect capital expenditure.
+
+**Reply:** Interest, salaries and subsidies contain very different obligations, while health, education and maintenance can raise capacity. Consolidation should remove low-return recurring expenditure without starving the operating inputs that make assets useful.
+
+### Exact verified PYQs — answer-neutral
+
+**UPSC Mains 2021, GS Paper III, Question 2 — 10 marks, 150 words**
+
+> Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets.
+
+**UPSC Prelims 2022, GS Paper I, Question 9**
+
+> With reference to the expenditure made by an organisation or a company, which of the following statements is/are correct?
+>
+> 1. Acquiring new technology is capital expenditure.
+> 2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure.
+>
+> Select the correct answer using the code given below:
+>
+> (a) 1 only
+> (b) 2 only
+> (c) Both 1 and 2
+> (d) Neither 1 nor 2
+
+No response is marked or evaluated. For classification questions generally, first identify the accounting entity, then distinguish a financing transaction from the use of the funds raised.
+
+### Revision notes
+
+1. Revenue spending generally creates no Union asset.
+2. Capital spending creates/acquires assets, gives loans or reduces liabilities.
+3. Revenue spending can be productive.
+4. Capital spending can fail.
+5. Asset-creation grants remain Union revenue expenditure.
+6. Effective capex adds those grants to direct capex.
+7. Capital and Revenue Budgets have distinct components.
+8. Maintenance protects earlier investment.
+9. Classification starts analysis; outcomes complete it.
+10. Effective capex is not an execution certificate.
+
+### Concept check
+
+**Question:** Can one transaction be Union revenue expenditure and economy-wide capital support?
+
+**Model answer:** Yes. A Union grant for a state-created asset is revenue expenditure for the Union but enters effective capital expenditure because it supports asset creation.
+
+**Misconception to avoid:** Accounting ownership and economic effect are identical.
+
+### Lesson-local Mains practice
+
+**Question (10 marks, 150 words):** Distinguish Revenue Budget and Capital Budget and explain their significance.
+
+**Lesson-local model (146 words):** The Revenue Budget contains revenue receipts—tax and non-tax income that neither create liabilities nor reduce financial assets—and revenue expenditure, which generally finances current services, transfers, subsidies and interest without directly creating a Union asset. The Capital Budget contains capital receipts, such as borrowing, loan recovery and disinvestment, and capital expenditure, such as infrastructure, loans and liability reduction. The distinction reveals current-account health and balance-sheet change. Revenue deficit shows whether current receipts cover current expenditure, while the Capital Budget shows investment and residual financing. However, classification is not a quality verdict. Health expenditure or maintenance may be revenue spending with high returns, while an incomplete capital project may waste resources. Effective capital expenditure further recognises Union grants that create assets in states. Analysis must combine classification with purpose, implementation and outcomes.
+
+**Unique quantified rubric (10):** distinction 4; significance 2; effective-capex refinement 1; qualification 2; conclusion 1.
+
+**Bridge:** Combining receipts and expenditure produces the deficit indicators used to summarise the fiscal position.
+
+---
+
+## Lesson 5 - Deficit indicators: calculation and interpretation
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+
+**Book context:** The four deficit identities are treated as distinct diagnostics.
+
+**Current link:** Budget 2026-27 ratios and August CGA amounts remain separately labelled.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Progress: 5 / 12 | Stage: Core | Subtopic: RD, ERD, FD and PD
+
+### Visual - deficit calculator bench
+
+```text
+RD  = Revenue expenditure − Revenue receipts
+ERD = RD − Grants for creation of capital assets
+FD  = Total expenditure − Revenue receipts − Non-debt capital receipts
+PD  = FD − Interest payments
+```
+
+Revenue deficit shows whether current receipts cover current expenditure. Persistent RD suggests government dissaving, but productive health or education can still be booked as revenue spending.
+
+Effective revenue deficit removes asset-creation grants from RD. It refines accounting but does not prove that the receiving government completed a useful asset.
+
+Fiscal deficit broadly shows the period's debt-creating financing requirement. It is a **flow**, not accumulated debt. Primary deficit removes interest, isolating the current fiscal gap from the servicing of past debt. Zero PD means borrowing equals interest payments; it does not mean zero FD or debt.
 
 | Item | Amount |
 |---|---:|
-| Revenue receipts | 28 |
-| Revenue expenditure | 33 |
-| Grants for capital-asset creation | 2 |
-| Capital expenditure | 10 |
-| Non-debt capital receipts | 1 |
-| Interest payments | 4 |
-
-Then:
+| Revenue receipts | 700 |
+| Revenue expenditure | 850 |
+| Grants for capital assets | 40 |
+| Capital expenditure | 250 |
+| Non-debt capital receipts | 50 |
+| Interest payments | 120 |
 
 ```text
-RD  = 33 − 28 = 5
-ERD = 5 − 2 = 3
-FD  = (33 + 10) − 28 − 1 = 14
-PD  = 14 − 4 = 10
+RD = 150 | ERD = 110 | FD = 350 | PD = 230
 ```
 
-The trap is to subtract non-debt capital receipts again while computing PD. They are already
-embedded in FD.
+| Indicator | 2026-27 BE |
+|---|---:|
+| Fiscal deficit | 4.3% of GDP; ₹16,95,768 crore |
+| Revenue deficit | 1.5% of GDP; ₹5,92,344 crore |
+| Effective revenue deficit | 0.3% of GDP |
+| Central Government debt | 55.6% of GDP |
 
-### Vintage discipline
+✅ **Fact:** End-August CGA provisional fiscal deficit was **₹7,10,249 crore (41.9% of BE)**; RD was **₹2,75,539 crore** and PD **₹1,95,439 crore**. CGA cautions against treating an in-year percentage as a full-year forecast.
 
-| Label | Meaning |
-|---|---|
-| **BE** | Budget Estimate for a future/current budget year |
-| **RE** | revised expectation for the ongoing year |
-| **Actuals** | realised audited/accounted transaction for a completed year |
-| **PA/QE** | provisional or quick estimate, where explicitly used |
+### Exact verified PYQs — answer-neutral
 
-Never write that an FY2026-27 BE “was achieved.” It is an estimate.
+**UPSC Prelims 2025, GS Paper I, Question 61**
 
-### UPSC integration
+> Suppose the revenue expenditure is ₹80,000 crores and the revenue receipts of the Government are ₹60,000 crores. The Government budget also shows borrowings of ₹10,000 crores and interest payments of ₹6,000 crores. Which of the following statements are correct?
+>
+> I. Revenue deficit is ₹20,000 crores.
+> II. Fiscal deficit is ₹10,000 crores.
+> III. Primary deficit is ₹4,000 crores.
+>
+> Select the correct answer using the code given below.
+>
+> (a) I and II only
+> (b) II and III only
+> (c) I and III only
+> (d) I, II and III
 
-- **2025 Prelims Q61:** calculation using revenue expenditure, revenue receipts, capital
-  expenditure and non-debt capital receipts.
-- **2025 Prelims Q65:** gross primary deficit from fiscal deficit and interest liabilities.
-- **2022 Prelims Q10:** household financial savings and internal debt.
+**UPSC Prelims 2025, GS Paper I, Question 65**
+
+> A country's fiscal deficit stands at ₹50,000 crores. It is receiving ₹10,000 crores through non-debt creating capital receipts. The country's interest liabilities are ₹1,500 crores. What is the gross primary deficit?
+>
+> (a) ₹48,500 crores
+> (b) ₹51,500 crores
+> (c) ₹58,500 crores
+> (d) None of the above
+
+No response is marked or evaluated. For numerical deficit questions generally, write the requested identity first, label every given quantity and use only the variables required by that identity.
+
+### Objection and reply
+
+**Objection:** Primary deficit is redundant because fiscal deficit already measures borrowing.
+
+**Reply:** Fiscal deficit gives the overall financing gap; primary deficit reveals how much remains after removing interest on past debt. The two answer different intertemporal questions.
 
 ### Revision notes
 
-1. RD measures the revenue-account gap.
-2. ERD equals RD minus capital-asset grants.
-3. FD measures the annual borrowing requirement.
-4. FD subtracts non-debt, not debt, receipts.
-5. PD equals FD minus interest.
-6. Interest payment is revenue expenditure.
-7. FD is a flow; debt is a stock.
-8. Zero RD can coexist with FD.
-9. Low PD can coexist with high FD.
-10. BE, RE and Actuals are not interchangeable.
-11. Deficit ratios need both numerator and GDP-estimate discipline.
-12. No one deficit indicator proves sustainability or expenditure quality.
+1. RD tests the current-account gap.
+2. ERD removes capital-asset grants.
+3. FD deducts non-debt receipts.
+4. PD removes interest.
+5. FD is a flow; debt a stock.
+6. Borrowing is not deducted in FD.
+7. Zero RD does not imply zero FD.
+8. Zero PD does not imply zero debt.
+9. ERD is not an outcome certificate.
+10. Label year, stage, denominator and coverage.
+11. Union is not general government.
 
-### Practice
+### Concept check
 
-**Q9. Revenue deficit is:**
+**Question:** If FD and interest payments are both 300, what follows?
 
-A. revenue expenditure minus revenue receipts
-B. total expenditure minus receipts including borrowing
-C. fiscal deficit minus interest payments
-D. revenue deficit minus asset-creating grants
+**Model answer:** PD is zero; the current gap excluding interest is zero under the identity. FD and debt remain positive.
 
-**Q10. If FD is Rs 12 lakh crore and interest payments are Rs 4 lakh crore, PD is:**
+**Misconception to avoid:** Zero primary deficit means no borrowing.
 
-A. Rs 4 lakh crore
-B. Rs 8 lakh crore
-C. Rs 12 lakh crore because fiscal deficit has already removed the interest liabilities
-D. Rs 16 lakh crore
+### Lesson-local Mains practice
 
-**Answers:** Q9-A; Q10-B.
+**Question (10 marks, 150 words):** Why must fiscal deficit be read with revenue and primary deficits?
 
-**Option explanations**
+**Lesson-local model (139 words):** Fiscal deficit measures the expenditure gap after revenue and non-debt capital receipts and approximates the debt-creating requirement. Alone, it does not explain the gap. Revenue deficit shows whether current receipts cover current expenditure; primary deficit subtracts interest and separates the present stance from inherited debt service. Effective revenue deficit further removes grants used for capital-asset creation. Two Budgets with the same fiscal deficit may therefore differ sharply: one may finance infrastructure with a low primary gap, while another finances recurring expenditure and high interest. Union Budget analysis should combine these indicators with expenditure composition, off-budget liabilities and BE-RE-Actual status. Deficit size is the headline; deficit anatomy reveals fiscal quality and sustainability.
 
-- **Q9-A:** Correct. Revenue deficit is the excess of revenue expenditure over revenue receipts.
-- **Q9-B:** Incorrect. Netting borrowing against expenditure would conceal the financing gap and
-  does not define revenue deficit.
-- **Q9-C:** Incorrect. Fiscal deficit minus interest payments is primary deficit.
-- **Q9-D:** Incorrect. Revenue deficit minus grants for capital-asset creation is effective
-  revenue deficit.
-- **Q10-A:** Incorrect. Rs 4 lakh crore is the stated interest bill, not the non-interest
-  borrowing gap.
-- **Q10-B:** Correct. Primary deficit equals Rs 12 lakh crore minus Rs 4 lakh crore, or Rs 8
-  lakh crore.
-- **Q10-C:** Incorrect. Retaining Rs 12 lakh crore fails to remove interest payments from fiscal
-  deficit.
-- **Q10-D:** Incorrect. Adding interest reverses the primary-deficit formula.
+**Unique quantified rubric (10):** meanings 4; comparison 3; qualification 2; judgement 1.
 
-**Mains drill - 10 marks:** Explain why revenue, fiscal and primary deficits must be read
-together.
-
-**Model answer:** Revenue deficit identifies the shortfall of revenue receipts against revenue
-expenditure and therefore signals pressure on current-account financing. Fiscal deficit subtracts
-all non-debt receipts from total expenditure and reveals the broad annual borrowing requirement.
-Primary deficit removes interest payments from fiscal deficit and isolates the current
-non-interest gap. Read together, they distinguish expenditure composition, borrowing need and
-the inherited interest burden. Yet none alone proves sustainability: financing mix, debt
-maturity, growth, interest rates, expenditure outcomes and hidden liabilities also matter. A
-sound diagnosis therefore begins with the three identities and then moves to debt dynamics and
-expenditure quality.
+**Bridge:** A calculated deficit still leaves a financing question: who supplies the funds and through which balance-sheet channel?
 
 ---
 
-**Progress: 6 / 12 | Stage: Core | Subtopic: Financing the gap - borrowing, monetisation, interest burden and debt**
+## Lesson 6 - Financing the deficit: borrowing, interest and debt
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - Ramesh Singh deficit financing; RBI history of ad hoc Treasury Bills and WMA
-CA search: "Union Budget 2026-27 fiscal deficit financing dated securities NSSF official"
-CA found: Union Budget 2026-27 financing statements, presented 1 February 2026, identify market borrowing, small-savings and other liabilities for FY2026-27 BE; BE is not an outcome
+
+**Book context:** Financing channels connect public borrowing with savings, rates and debt service.
+
+**Current link:** 2026-27 debt receipts and interest burden read with the debt glide path.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: the deficit is the gap; financing is how the gap is filled
+Progress: 6 / 12 | Stage: Core | Subtopic: Financing mix and debt accumulation
+
+### Visual - financing fork
 
 ```text
 FISCAL DEFICIT
-      ↓
-market loans | Treasury Bills | small savings | other liabilities
-      ↓
-debt stock, maturity profile, interest cost and refinancing need
+├── market loans → bond supply/yields
+├── small savings → household savings absorbed
+├── external loans → currency risk
+└── monetisation channel → liquidity/inflation risk
+        ↓
+DEBT STOCK → INTEREST → FUTURE FISCAL SPACE
 ```
 
-The same fiscal deficit can have different macroeconomic consequences depending on who lends,
-the currency, maturity, interest rate, use of funds and state of the economy.
+Deficit financing is not one instrument. Market loans, small savings, provident channels, external debt and cash/monetary arrangements have different implications for maturity, yields, rollover, liquidity and currency exposure. “Printing money” is neither the definition nor the sole financing method.
 
-### 1. Domestic financing and household savings
+Household deposits, insurance, pensions and small savings form part of the pool that can absorb government debt. If borrowing rises while financial savings and liquidity are tight, yields can rise or private credit can be displaced. During a slowdown with weak private demand and surplus liquidity, this effect may be limited.
 
-Household financial savings can flow into government securities, banks, insurance, provident
-funds and small-savings instruments. Public borrowing therefore competes for or intermediates
-financial resources.
-
-This does not mean each rupee borrowed displaces one rupee of private investment. If the economy
-has slack or public infrastructure removes bottlenecks, borrowing-financed capex can crowd in
-private activity. In a savings-constrained, high-capacity economy, heavy borrowing may raise
-yields and crowd out private credit.
-
-### 2. Deficit versus debt
+Debt is a stock accumulated over time; deficit is a flow. Valuation, cash balances, recognised arrears and contingent liabilities can make debt change differ from a simple addition of the deficit ratio.
 
 ```text
-Debt at end of year
-≈ previous debt + current borrowing requirement
-  + recognition/valuation and other stock-flow adjustments
+Past deficits → debt → interest payments
+      ↑                    ↓
+      └──── reduced future flexibility
 ```
 
-Debt includes accumulated liabilities; deficit is a period flow. Debt can change by more than
-the headline deficit due to cash balances, exchange valuation, assumption of liabilities or
-other stock-flow adjustments.
+Interest is charged revenue expenditure. Black money also matters fiscally: undisclosed income narrows the declared tax base. The Black Money Act, 2015 is a named compliance measure, but administration and information systems remain essential.
 
-### 3. Interest burden
+### Exact verified PYQs — answer-neutral
 
-Interest is the contractual cost of past borrowing. It is revenue expenditure and can compress
-future fiscal space. Useful indicators include:
+**UPSC Prelims 2022, GS Paper I, Question 10**
 
-- interest payments as a share of revenue receipts;
-- average effective interest rate;
-- maturity and rollover profile;
-- share of foreign-currency debt;
-- primary balance.
+> With reference to the Indian economy, consider the following statements:
+>
+> 1. A share of the household financial savings goes towards government borrowings.
+> 2. Dated securities issued at market-related rates in auctions form a large component of internal debt.
+>
+> Which of the above statements is/are correct?
+>
+> (a) 1 only
+> (b) 2 only
+> (c) Both 1 and 2
+> (d) Neither 1 nor 2
 
-High interest payments can make FD high even when PD is modest.
+**UPSC Prelims 2021, GS Paper I, Question 9**
 
-### 4. Monetised deficit: the historical break
+> Which one of the following effects of creation of black money in India has been the main cause of worry to the Government of India?
+>
+> (a) Diversion of resources to the purchase of real estate and investment in luxury housing
+> (b) Investment in unproductive activities and purchase of precious stones, jewellery, gold, etc.
+> (c) Large donations to political parties and growth of regionalism
+> (d) Loss of revenue to the State Exchequer due to tax evasion
 
-Before 1 April 1997, automatic creation of ad hoc Treasury Bills supported Central cash needs.
-The reform replaced that system with **Ways and Means Advances (WMA)** for temporary mismatches.
+No response is marked or evaluated. For such questions generally, separate a financing channel from its intermediaries and distinguish the fiscal effect of undeclared income from its other economic effects.
 
-FRBM section 5 restricts routine direct Central borrowing from the RBI, subject to temporary
-advances and specified exceptional provisions. RBI secondary-market purchases of government
-securities are monetary/liquidity operations; they are not automatically the same as direct
-primary deficit financing.
+### Example with a limit
 
-```text
-Direct primary financing ≠ WMA ≠ secondary-market purchase
-```
-
-### 5. Financing-quality questions
-
-For a complete answer ask:
-
-1. Is debt predominantly domestic-currency or foreign-currency?
-2. Is maturity long enough to reduce rollover risk?
-3. Is the interest bill affordable?
-4. Does borrowing create productive assets or fund a recurring structural gap?
-5. Are off-budget and guaranteed liabilities disclosed?
-
-### UPSC integration
-
-- **2022 Prelims Q10:** household financial savings and the government's internal debt.
-- **2026 Prelims Q94:** provisional-key route on borrowing, interest rates and crowding out.
-  Demand: trace the mechanism conditionally; do not treat it as an accounting identity.
+If households shift from financial saving into gold or real estate, the pool intermediated through banks, insurance, pensions and securities can weaken. This does not mean each rupee of financial saving directly buys a government bond; intermediation and portfolio choice lie between the household and the sovereign.
 
 ### Revision notes
 
-1. Fiscal deficit is the gap; borrowing instruments finance it.
-2. Market loans are not the only financing source.
-3. Domestic debt reduces exchange risk but not interest or rollover risk.
-4. Household savings can finance government liabilities.
-5. Crowding out depends on slack, savings, monetary conditions and use.
-6. Debt is a stock; deficit is a flow.
-7. Interest payments are revenue expenditure.
-8. Primary deficit removes the inherited interest bill.
-9. Automatic ad hoc Treasury Bills ended in 1997.
-10. WMA addresses temporary cash mismatches.
-11. Direct RBI financing differs from secondary-market operations.
-12. Financing quality matters alongside deficit size.
+1. Several instruments finance FD.
+2. Market debt affects bond supply.
+3. Household financial savings affect absorption.
+4. Monetisation is not every deficit.
+5. Debt is stock; deficit flow.
+6. Interest links past borrowing to current Budgets.
+7. External debt adds currency risk.
+8. Maturity affects rollover risk.
+9. Black money weakens fiscal capacity.
+10. Crowding depends on conditions.
 
-### Practice
+### Concept check
 
-**Q11. Which statement best distinguishes fiscal deficit and public debt?**
+**Question:** Why can equal deficits financed differently have different effects?
 
-A. Fiscal deficit and public debt are both measured as annual flows.
-B. Fiscal deficit and public debt are both outstanding stocks at year-end.
-C. Fiscal deficit is a period borrowing gap; debt is an accumulated liability stock.
-D. Fiscal deficit records foreign-currency borrowing but excludes domestic borrowing.
+**Model answer:** Market, savings, external and monetised financing affect yields, liquidity, portfolios, currency exposure and inflation differently.
 
-**Q12. Which statement about the post-1997 framework is most accurate?**
+**Misconception to avoid:** Financing composition is irrelevant.
 
-A. RBI transactions in government securities, including secondary-market liquidity operations, became impermissible.
-B. WMA permanently finances the fiscal deficit.
-C. A secondary-market purchase is treated as direct deficit monetisation.
-D. Automatic ad hoc financing ended; WMA bridges temporary mismatches within a rule-bounded framework.
+### Lesson-local Mains practice
 
-**Answers:** Q11-C; Q12-D.
+**Question (10 marks, 150 words):** Explain the household-savings, borrowing and crowding-out link.
 
-**Option explanations**
+**Lesson-local model (138 words):** Household financial savings supply banks, insurance, pensions, small-savings schemes and markets. Government borrowing absorbs part of this pool. When borrowing rises amid limited savings and tight liquidity, bond yields may increase, banks may prefer sovereign assets and private borrowers may face costlier or scarcer credit: the crowding-out channel. It is not automatic. During a slowdown, private credit demand may be weak, liquidity may be abundant and public infrastructure may raise expected demand and productivity, crowding in private investment. India's National Small Savings Fund illustrates the financing connection, while the 2026 Prelims demand highlights the interest-rate route. Crowding should therefore be judged through savings, liquidity, cycle, monetary response and expenditure quality.
 
-- **Q11-A:** Incorrect. Fiscal deficit is measured over a period, but public debt is an
-  outstanding stock at a point in time.
-- **Q11-B:** Incorrect. Public debt is a stock, whereas fiscal deficit records a one-year flow
-  gap.
-- **Q11-C:** Correct. The deficit is the period's borrowing requirement, while debt accumulates
-  liabilities from past periods and other adjustments.
-- **Q11-D:** Incorrect. Fiscal deficit is an accounting gap independent of whether financing is
-  domestic or foreign.
-- **Q12-A:** Incorrect. RBI may conduct permitted secondary-market operations in government
-  securities; the reform did not outlaw every transaction.
-- **Q12-B:** Incorrect. WMA is designed to bridge temporary cash mismatches and is not permanent
-  deficit finance.
-- **Q12-C:** Incorrect. A secondary-market liquidity operation does not directly subscribe to a
-  new government issue and is not automatically monetisation.
-- **Q12-D:** Correct. Automatic ad hoc Treasury-Bill financing ended in 1997 and WMA replaced it
-  as a bounded temporary facility.
+**Unique quantified rubric (10):** savings channel 3; mechanism 3; counter-case 2; India link 1; conclusion 1.
 
-**Mains drill - 15 marks:** “The macroeconomic effect of a fiscal deficit depends as much on
-its financing and use as on its size.” Analyse.
-
-**Model answer:** Fiscal deficit measures the borrowing requirement, but not its complete
-economic effect. Domestic-currency, long-maturity borrowing can reduce exchange and rollover
-risk compared with short or foreign-currency debt, though interest costs remain. In a
-savings-constrained economy, large borrowing may raise yields and displace private credit; under
-slack conditions, it may support demand. Productive infrastructure can expand supply and crowd
-in private investment, while borrowing for a persistent current gap may add debt without future
-capacity. Direct central-bank financing carries different inflation and institutional risks from
-market borrowing or temporary WMA. A sound assessment must therefore combine size with maturity,
-currency, lender base, interest burden, transparency and expenditure quality.
+**Bridge:** Financing conditions shape the cost of action, but the appropriate fiscal stance first depends on the macroeconomic shock.
 
 ---
 
-**Progress: 7 / 12 | Stage: Core | Subtopic: Fiscal policy stance - objectives, instruments, stabilisers and discretion**
+## Lesson 7 - Fiscal stance: objectives, stabilisers and discretion
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - Advanced Economy 09 fiscal stance; Economic Survey 2025-26 fiscal response discussion
-CA search: "Economic Survey 2025-26 automatic stabilisers counter cyclical fiscal policy India"
-CA found: Economic Survey 2025-26, tabled 29 January 2026, discusses primary-balance response, counter-cyclicality and the case for stronger automatic stabilisers
+
+**Book context:** Fiscal policy is read through allocation, distribution, stabilisation and growth.
+
+**Current link:** The 4.3% BE is analysed as a dated path, not a universal optimum.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: fiscal policy has four jobs
+Progress: 7 / 12 | Stage: Core | Subtopic: Stabilisation, growth and equity
+
+### Visual - shock-response control room
 
 ```text
 TAXES + SPENDING + TRANSFERS + BORROWING
-                 ↓
-Allocation | Distribution | Stabilisation | Capacity
-                 ↓
-growth, jobs, inflation, equity and debt sustainability
+├── allocation: public/merit goods
+├── distribution: taxes and transfers
+├── stabilisation: support or restraint
+├── growth: infrastructure and capabilities
+└── sustainability: debt and future space
 ```
 
-Fiscal policy is not simply “increase or reduce the deficit.” It changes demand, distribution,
-public goods, incentives and future capacity through several instruments.
+Expansionary policy raises demand through spending, transfers or tax relief; contractionary policy restrains it. The correct stance depends on output gap, inflation source, supply capacity and monetary response.
 
-### 1. Expansionary and contractionary stance
+Automatic stabilisers work without a new decision: receipts weaken and eligible transfers may rise during downturns. Discretionary action requires a fresh measure. Stabilisers are quicker but depend on system design; discretion is targetable but faces recognition, decision and implementation lags.
 
-An expansionary move can involve higher spending, lower taxes or larger transfers. A
-contractionary move can involve the reverse. But the observed deficit may change for two reasons:
+In recession, temporary support can protect demand and capacity. High domestic linkage, quick execution and support to liquidity-constrained households strengthen effects. Permanent untargeted commitments may survive the recovery.
 
-- **policy action**, such as a new programme; and
-- **the economic cycle**, such as falling tax receipts in a recession.
+Demand restraint can help demand-led inflation. Food, energy or logistics shocks may instead require supply action and targeted relief; indiscriminate contraction can lower output without fixing the bottleneck.
 
-The headline balance therefore mixes discretionary policy with automatic cyclical effects.
+“Free” provision remains scarce-resource use. Its opportunity cost is the best alternative forgone. Equity and merit-good arguments may justify subsidies, but do not remove trade-offs.
 
-### 2. Automatic stabilisers
+### Objection and reply
 
-Without a new law or announcement:
+**Objection:** A recession always requires the largest possible fiscal stimulus.
 
-- tax collections can fall when incomes and profits fall;
-- eligibility-based transfers can rise when distress increases.
+**Reply:** Support should match the demand gap, inflation conditions, financing space and delivery capacity. An oversized or import-intensive package can raise prices or external leakage, while an undersized response can deepen hysteresis and unemployment.
 
-This cushions disposable income and demand. Its strength depends on the breadth and progressivity
-of the tax system and the design of social protection.
+### Exact verified PYQs — answer-neutral
 
-### 3. Discretionary policy
+**UPSC Prelims 2021, GS Paper I, Question 3**
 
-Discretionary policy requires a fresh decision: a capex package, tax relief, credit support or
-targeted transfer. It can fit the shock more closely but faces:
+> Which among the following steps is most likely to be taken at the time of an economic recession?
+>
+> (a) Cut in tax rates accompanied by increase in interest rate
+> (b) Increase in expenditure on public projects
+> (c) Increase in tax rates accompanied by reduction of interest rate
+> (d) Reduction of expenditure on public projects
 
-- recognition lag;
-- decision and legislative lag;
-- implementation lag;
-- impact lag;
-- political difficulty of withdrawal.
+**UPSC Prelims 2018, GS Paper I, Question 47**
 
-### 4. Counter-cyclical versus pro-cyclical
+> If a commodity is provided free to the public by the Government, then
+>
+> (a) the opportunity cost is zero.
+> (b) the opportunity cost is ignored.
+> (c) the opportunity cost is transferred from the consumers of the product to the tax-paying public.
+> (d) the opportunity cost is transferred from the consumers of the product to the Government.
 
-```text
-Downturn: temporary support and protection of high-value capex
-Boom: rebuild buffers and reduce overheating
-                  = counter-cyclical
-
-Cut in downturn + spend excessively in boom
-                  = pro-cyclical
-```
-
-A rigid annual target can become pro-cyclical during a severe shock. Yet “counter-cyclical”
-cannot justify every expenditure item. Measures still need targeting, implementation capacity
-and an exit path.
-
-### 5. Fiscal space
-
-Fiscal space is the government's capacity to use fiscal policy without jeopardising financing
-and sustainability. It depends on debt, interest burden, revenue capacity, credibility, market
-conditions, growth and liability disclosure. Space is built in normal times and used in bad
-times.
-
-### UPSC integration
-
-- **2021 Prelims Q3:** policy measures during a recession.
-- **2021 Prelims Q9:** economic effects of black money; link to tax base, inequality and
-  policy effectiveness.
+No response is marked or evaluated. For public-provision questions generally, distinguish user price, resource cost, financing incidence and opportunity cost before assessing the alternatives.
 
 ### Revision notes
 
-1. Fiscal policy uses taxes, spending, transfers and borrowing.
-2. Allocation, distribution and stabilisation are distinct objectives.
-3. The headline deficit mixes policy and cyclical effects.
-4. Automatic stabilisers use existing rules.
-5. Discretionary measures require a new decision.
-6. Automatic response is quick but less tailored.
-7. Discretionary response is targeted but lag-prone.
-8. Counter-cyclical policy leans against the cycle.
-9. Pro-cyclical policy amplifies it.
-10. Temporary shocks need credible exits.
-11. Supply shocks complicate demand support.
-12. Fiscal space depends on both numbers and credibility.
+1. Objectives: allocation, distribution, stabilisation, growth.
+2. Expansion raises demand; contraction restrains it.
+3. Automatic stabilisers need no new decision.
+4. Discretion faces lags.
+5. Recession support should be timely and targeted.
+6. Inflation diagnosis matters.
+7. Transfers and capex have different effects.
+8. Free provision has opportunity cost.
+9. Equity does not eliminate design questions.
+10. Stance is not identical to FD level.
 
-### Practice
+### Concept check
 
-**Q13. Which is an automatic stabiliser?**
+**Question:** Why may a larger FD fail to represent discretionary stimulus?
 
-A. Income-tax collection falls as taxable income falls under unchanged law.
-B. Parliament enacts a new one-time transfer for households affected by the downturn.
-C. Government announces a new highway package.
-D. A tax rate is cut after a Cabinet decision.
+**Model answer:** Receipts may fall automatically, transfers or interest may rise, or discretionary spending may even be cut.
 
-**Q14. During a broad demand recession with contained inflation, which response is most counter-cyclical?**
+**Misconception to avoid:** Every increase in FD is an equal expansion.
 
-A. Reduce maintenance expenditure sharply during the recession.
-B. Use timely targeted support and executable capex while publishing a medium-term exit path.
-C. Raise distortionary taxes immediately to force annual balance.
-D. Postpone scheduled payments so the headline deficit appears lower.
+### Lesson-local Mains practice
 
-**Answers:** Q13-A; Q14-B.
+**Question (10 marks, 150 words):** How should fiscal policy respond to recession?
 
-**Option explanations**
+**Lesson-local model (143 words):** Fiscal policy should close part of the demand gap without creating an irreversible structural burden. Automatic stabilisers should operate: weaker taxes and eligible transfers cushion incomes. Discretionary support should prioritise ready maintenance and infrastructure, targeted transfers to liquidity-constrained households, temporary credit support and protection of health and education. Such measures prevent temporary weakness from destroying productive capacity. The shock must still be diagnosed: supply disruption may need logistics and input measures rather than broad stimulus. Financing conditions, state capacity and monetary policy shape the multiplier. A medium-term statement should explain sunset clauses and how debt stabilises after recovery. Countercyclical support and responsibility are complements when intervention is timely, targeted, transparent and reversible.
 
-- **Q13-A:** Correct. With the tax law unchanged, lower taxable income automatically reduces the
-  tax collected and cushions disposable income.
-- **Q13-B:** Incorrect. A newly enacted one-time transfer requires a fresh legislative or
-  executive policy decision and is therefore discretionary.
-- **Q13-C:** Incorrect. Announcing a new highway package changes the expenditure programme through
-  a deliberate policy choice rather than an existing automatic rule.
-- **Q13-D:** Incorrect. A tax-rate cut follows a new Cabinet and legislative decision; it is not
-  the automatic revenue response to falling income.
-- **Q14-A:** Incorrect. Cancelling maintenance can deepen the downturn and impair existing public
-  assets rather than stabilise demand.
-- **Q14-B:** Correct. Timely targeted support cushions demand, executable capex can protect
-  capacity, and the published exit path preserves medium-term credibility.
-- **Q14-C:** Incorrect. Immediate distortionary tax increases during a demand recession withdraw
-  purchasing power and are likely to amplify the contraction.
-- **Q14-D:** Incorrect. Delayed payments create arrears and conceal obligations; they do not
-  constitute a genuine counter-cyclical response.
+**Unique quantified rubric (10):** diagnosis 2; instruments 3; transmission 2; safeguards 2; conclusion 1.
 
-**Mains drill - 15 marks:** Compare automatic stabilisers with discretionary fiscal policy in
-the Indian context.
-
-**Model answer:** Automatic stabilisers operate through existing tax and transfer rules:
-collections fall with income in a downturn and some entitlements rise with distress. They are
-timely and avoid repeated decision-making, but India's tax coverage and social-protection design
-limit their strength. Discretionary policy can target a specific shock through transfers, tax
-relief or public investment, yet faces recognition, approval, execution and withdrawal lags.
-The two should complement each other. Stronger rule-based safety nets can cushion ordinary
-cycles, while temporary discretionary measures address exceptional shocks. Both require fiscal
-space, transparent costing, implementation capacity and a credible medium-term exit.
+**Bridge:** Choosing expansion or restraint is only half the task; expenditure quality decides whether the chosen stance creates public value.
 
 ---
 
-**Progress: 8 / 12 | Stage: Advanced | Subtopic: Multipliers, recession response, inflation, crowding out and crowding in**
+## Lesson 8 - Expenditure quality and public-expenditure management
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - fiscal multiplier, crowding and policy-mix evidence in Advanced Economy 09
-CA search: "Economic Survey 2025-26 public capex private investment crowding in fiscal"
-CA found: Economic Survey 2025-26, tabled 29 January 2026, links credible fiscal consolidation with continued capital expenditure and supply-capacity support
+
+**Book context:** Expenditure is followed from allocation through output, outcome and public value.
+
+**Current link:** 2026-27 capex intent is separated from execution and asset outcomes.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: one rupee does not have one fixed multiplier
+Progress: 8 / 12 | Stage: Core | Subtopic: Outlay-to-outcome conversion
+
+### Visual - outlay-to-public-value relay
 
 ```text
-Fiscal impulse
-     ↓
-income of household or firm
-     ↓
-consumption / investment
-     ↓
-further rounds of income
-
-Leakages: saving + imports + taxes + inflation + delay
-Modifiers: slack + monetary response + financing + project quality
+FISCAL SPACE → OUTLAY → RELEASE → EXPENDITURE
+        → OUTPUT → OUTCOME → DURABLE PUBLIC VALUE
 ```
 
-The fiscal multiplier is a behavioural estimate: the change in output associated with a unit
-change in a fiscal instrument under particular conditions. It is not an accounting formula.
+Quality combines allocative efficiency, operational efficiency, equity, timeliness, transparency and sustainability. It asks whether government chose the right problem and converted money into useful results.
 
-### 1. Why multipliers vary
+Public roads, railways, power, logistics and digital networks can reduce private costs and crowd in investment. Project selection, clearances, completion, integration and access determine success.
 
-Multipliers tend to be stronger when:
+Human-capital and maintenance spending is often revenue expenditure but can raise long-run productivity. A golden-rule preference for borrowing to invest is useful only if programme evaluation verifies return.
 
-- the economy has idle capacity;
-- recipients have a high marginal propensity to consume;
-- spending is timely and domestically sourced;
-- monetary policy does not offset the impulse;
-- infrastructure removes a binding bottleneck.
+The 2019 GS-III demand reflects post-liberalisation challenges: incremental budgeting, committed expenditure, fragmented schemes, procurement, subsidy design, federal delivery, outcome measurement and multi-year planning.
 
-They weaken with import leakage, high saving, delay, capacity constraints, inflation or strong
-monetary tightening.
+NITI Aayog's Fiscal Health Index compares states through dimensions including revenue mobilisation, expenditure quality, fiscal prudence and debt sustainability. It is diagnostic; context-free rank snippets can mislead because capacity, demography and inherited debt differ.
 
-### 2. Transfers, revenue spending and capex
+### Economic Survey 2025-26 fiscal-trend interpretation
 
-Targeted transfers may support demand quickly when liquidity-constrained households spend them.
-Public consumption can operate faster where administrative capacity exists. Capex can have a
-slower start but a dual effect: current construction demand plus future supply capacity.
+✅ **Exact dated evidence:** The Economic Survey 2025-26, Chapter 2, printed page 37 (PDF page 88), reports that:
 
-No instrument is always superior. The question is **shock, timing, beneficiary, execution and
-exit**.
+- Centre's revenue receipts rose from an average of **about 8.5% of GDP in FY16-FY20** to **around 9.1% in FY22-FY25**;
+- Centre's capital expenditure rose from an average of **1.7% of GDP before the pandemic** to **approximately 3% in the years following the pandemic**;
+- effective capital expenditure reached **4% of GDP in FY25**; and
+- revenue expenditure moderated from **13.6% of GDP in FY22** to **10.9% in FY25**.
 
-### 3. Crowding out
+⚠️ **Interpretation:** This supports a composition story—stronger receipts and moderated revenue expenditure created room for capital outlays. It does not by itself prove that each project produced a high multiplier, that the shift was permanent, or that Centre-only ratios describe general government.
 
-In a high-capacity, savings-constrained setting:
+### Objection and reply
 
-```text
-government borrowing ↑ → demand for funds ↑ → yields/credit cost ↑
-→ some private investment becomes unviable
-```
+**Objection:** A rising capex-to-GDP ratio is sufficient evidence of improved expenditure quality.
 
-There can also be real-resource crowding out if government and firms compete for scarce labour,
-materials or foreign exchange.
+**Reply:** It is evidence of changed composition. Quality still requires completion, maintenance, distribution, cost control, network effects and measured outcomes.
 
-### 4. Crowding in
+### Exact verified Mains PYQs
 
-Under slack or where infrastructure is complementary:
+**UPSC Mains 2019, GS Paper III, Question 12 — 15 marks, 250 words**
 
-```text
-public capex → demand + roads/power/logistics
-→ lower private cost and higher expected return
-→ private investment ↑
-```
+> The public expenditure management is a challenge to the Government of India in the context of budget making during the post-liberalization period. Clarify it.
 
-The correct conclusion is conditional, not ideological.
+**UPSC Mains 2025, GS Paper III, Question 11 — 15 marks, 250 words**
 
-### 5. Inflation and monetary interaction
+> Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies?
 
-Fiscal expansion raises inflation risk when demand outruns supply. But expenditure that expands
-capacity can ease bottlenecks later. The RBI's response affects interest rates and transmission.
-Direct monetisation, WMA and secondary-market liquidity operations must not be conflated.
-
-### Opportunity cost
-
-Even when a service is provided free at the point of use, resources have alternative uses.
-Opportunity cost does not prove the policy is undesirable. It requires comparison with the
-social benefit and the next-best use.
-
-### UPSC integration
-
-- **2018 Prelims Q47:** opportunity cost of free public provision.
-- **2021 Prelims Q3:** recession response.
-- **2026 Prelims Q94:** borrowing-interest-crowding mechanism, provisional key.
+The directive, marks and word ceiling are part of the demand; neither question is reduced to a topic label.
 
 ### Revision notes
 
-1. Multiplier is conditional, not fixed.
-2. Slack generally permits a larger real-output response.
-3. Imports and saving are leakages from domestic demand rounds.
-4. Transfers act through recipient behaviour.
-5. Capex can affect both demand and supply.
-6. Delay reduces timely stimulus.
-7. Crowding out can occur through finance or real resources.
-8. Crowding in requires complementarity or slack.
-9. Monetary response changes the net impact.
-10. Demand stimulus under a supply shock may worsen inflation.
-11. Free provision still has an opportunity cost.
-12. Project quality decides whether a promised supply effect materialises.
+1. Allocation is not outcome.
+2. Quality includes selection, execution and equity.
+3. Capex can crowd in investment.
+4. Delays weaken multipliers.
+5. Revenue spending can build human capital.
+6. Maintenance preserves assets.
+7. Outcome budgeting links money to results.
+8. Procurement and cash management matter.
+9. Fiscal Health Index is multidimensional.
+10. State rankings require context.
+11. Consolidation should protect high-return spending.
+12. Survey trends show composition, not automatic project success.
+13. Centre-only ratios do not describe the full general-government position.
 
-### Practice
+### Concept check
 
-**Q15. Which condition most strongly supports a larger real fiscal multiplier?**
+**Question:** Why is shifting spending from revenue to capital heads insufficient?
 
-A. full capacity, high import leakage and a monetary tightening that offsets the fiscal impulse
-B. delayed implementation during rapid inflation
-C. idle capacity, targeted recipients and limited monetary offset
-D. complete displacement of private credit
+**Model answer:** Classification cannot guarantee selection, completion, maintenance or outcomes; productive revenue spending and low-return capex both exist.
 
-**Q16. Which statement best captures crowding in?**
+**Misconception to avoid:** Capital label equals efficiency.
 
-A. Public borrowing lowers private investment rupee for rupee under prevailing conditions.
-B. Tax cuts are the required route for stimulating private investment.
-C. Capital classification is sufficient to establish that an allocation raises productivity.
-D. Well-executed public infrastructure can lower private costs and raise expected returns.
+### Lesson-local Mains practice
 
-**Answers:** Q15-C; Q16-D.
+**Question (15 marks, 250 words):** Clarify public-expenditure management challenges in post-liberalisation India.
 
-**Option explanations**
+**Lesson-local model (216 words):** Post-liberalisation expenditure management is not simply reduction of the state. It is redirection of scarce resources toward public goods, capabilities, infrastructure and credible regulation while preserving macro stability.
 
-- **Q15-A:** Incorrect. Full capacity increases inflation pressure and high import leakage sends
-  part of the demand impulse abroad.
-- **Q15-B:** Incorrect. Delayed execution misses the weak phase, while rapid inflation reduces
-  the real-output response and may trigger monetary offset.
-- **Q15-C:** Correct. Idle capacity, recipients likely to spend and limited monetary offset allow
-  more of the impulse to become domestic real output.
-- **Q15-D:** Incorrect. Complete displacement of private credit would neutralise rather than
-  strengthen the net multiplier.
-- **Q16-A:** Incorrect. Crowding out is conditional on savings, capacity, financing and monetary
-  conditions; it is not a rupee-for-rupee law.
-- **Q16-B:** Incorrect. Private returns may rise through demand, infrastructure or reduced
-  transaction costs even without a tax cut.
-- **Q16-C:** Incorrect. Capital classification does not guarantee completion, utilisation or
-  productivity.
-- **Q16-D:** Correct. Complementary infrastructure can reduce private costs and raise expected
-  returns, inducing additional private investment.
+Allocation remains constrained by incremental budgeting, committed expenditure and overlapping schemes. The outlay-to-outcome chain is weakened by delayed releases, procurement bottlenecks, uneven capacity and incomplete projects. Subsidies may serve equity or correct externalities, but poor targeting crowds out health, maintenance and infrastructure. Federal delivery complicates accountability because the Union may finance while states or local bodies implement. Off-budget financing and guarantees can obscure costs. Annual controls also conflict with multi-year infrastructure and human-capital programmes.
 
-**Mains drill - 20 marks:** Examine the conditions under which fiscal expansion can crowd in
-rather than crowd out private investment.
+Reform requires medium-term expenditure frameworks, realistic costing, transparent procurement, timely fund flow, outcome indicators and independent evaluation. Effective capital expenditure should be tracked with actual asset completion; maintenance and frontline staff should not be sacrificed because they are revenue expenditure. The Fiscal Health Index usefully combines expenditure quality with revenue mobilisation, prudence and debt sustainability, but state comparisons need context.
 
-**Model answer:** Fiscal expansion may crowd out investment when government borrowing competes
-for limited savings, raises yields, draws bank credit away from firms or intensifies competition
-for labour and materials near full capacity. Inflation can invite monetary tightening and
-reinforce the effect. Crowding in is more likely when the economy has slack and public
-expenditure creates complementary assets: reliable power, logistics, digital networks, skills
-or health. Such spending raises demand in the short run and lowers private costs or uncertainty
-over time. Financing, project maturity, import content and institutional execution matter.
-Targeted transfers may sustain consumption but do not automatically expand capacity; poorly
-chosen capex may not either. India should therefore protect high-return, shovel-ready
-infrastructure and human capability, improve project appraisal and maintenance, and align the
-fiscal-monetary mix with the output and inflation situation. The outcome is conditional, not a
-fixed property of public borrowing.
+The objective is to move from spending control to public-value management without weakening legislative authority or fiscal discipline.
 
----
+**Unique quantified rubric (15):** framing 2; challenges 6; reforms 4; evidence 1; balance 1; conclusion 1.
 
-**Progress: 9 / 12 | Stage: Advanced | Subtopic: Debt sustainability - primary balance, interest-growth dynamics and intergenerational equity**
+**Bridge:** Better project and programme quality strengthens the channels through which fiscal impulses multiply across the economy.
+
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+Lessons 1-8 supply the complete core. Lessons 9-12 add evaluative depth and qualifications.
+
+## Lesson 9 - Multipliers, cyclicality and crowding
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - Advanced Economy 09 debt dynamics; Economic Survey 2025-26 debt-sustainability analysis
-CA search: "Economic Survey 2025-26 debt sustainability primary balance interest growth differential"
-CA found: Economic Survey 2025-26, tabled 29 January 2026, analyses debt through the primary balance, interest-growth conditions, fiscal response and shock resilience
+
+**Book context:** Fiscal transmission depends on the cycle, leakages, monetary response and lags.
+
+**Current link:** Post-pandemic capex emphasis is an analytical example, not proof of a fixed multiplier.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: the debt-ratio engine
+Progress: 9 / 12 | Stage: Optional Advanced | Subtopic: Fiscal transmission
+
+### Visual - multiplier transmission laboratory
 
 ```text
-Debt ratio next period
-        ↑ when effective interest rate exceeds nominal growth
-        ↑ with primary deficit
-        ↓ with primary surplus
-        ± valuation, cash and recognised-liability adjustments
+FISCAL ACTION → DIRECT DEMAND
+        ↓ affected by
+MPC | TAX | IMPORTS | CAPACITY | MONETARY RESPONSE
+        ↓
+SECOND-ROUND CONSUMPTION/INVESTMENT
+        ↓ affected by
+BOTTLENECKS | LAGS | EXPECTATIONS | FINANCING COST
+        ↓
+OUTPUT + PRICES + PRIVATE INVESTMENT
 ```
 
-A useful simplified relationship is:
+The fiscal multiplier is output change associated with fiscal action. It is generally stronger with idle capacity, accommodative monetary policy, high marginal propensity to consume, low import leakage and quick execution. It weakens when capacity is tight, households save temporary gains, imports absorb demand or monetary tightening offsets stimulus.
 
-```text
-Change in debt/GDP ≈ [(r − g)/(1 + g)] × previous debt/GDP − primary balance
-```
+Targeted transfers can support immediate consumption; maintenance is quick and protects assets; large infrastructure may have slower initial spend but stronger supply effects. Tax relief works only to the extent that recipients spend or invest it.
 
-Here, `r` is the effective interest rate, `g` nominal GDP growth, and a positive primary balance
-means surplus. The expression is a framework, not a forecast.
+- **Cyclical deficit:** arises from the economy's effect on receipts and stabilising spending.
+- **Structural deficit:** estimated gap after abstracting from the cycle.
+- **Fiscal impulse:** change in the demand-relevant stance, not the FD level alone.
+- **Pro-cyclicality:** expansion in booms and contraction in downturns, amplifying fluctuations.
 
-### Three tests
+Government borrowing can raise yields while infrastructure raises expected private returns. Crowding out and crowding in can therefore coexist across channels and horizons.
 
-| Test | Question |
-|---|---|
-| Solvency | Can future primary balances service obligations over time? |
-| Liquidity | Can maturing debt be refinanced without disruption? |
-| Resilience | Can the path survive growth, rate, exchange or contingent-liability shocks? |
+### Exact verified PYQ — answer-neutral
 
-An `r < g` environment helps arithmetic because the denominator grows faster than debt service,
-but it does not guarantee sustainability. Persistent primary deficits, short maturities,
-foreign-currency exposure or hidden liabilities can still create risk.
+**UPSC Prelims 2026, GS Paper I, Question 94**
 
-### Debt structure matters
+> Which one of the following best describes the 'Crowding Out Effect' in the context of fiscal policy?
+>
+> (a) A situation where private investment increases due to increased Government spending
+> (b) A situation where Government borrowing leads to higher interest rates, which reduces private investment
+> (c) A situation where an increase in taxes leads to increased private sector investment
+> (d) A situation where Government spending has no impact on aggregate demand
 
-India's predominantly domestic-currency sovereign debt reduces currency mismatch relative to
-large foreign-currency borrowing. However, domestic debt still carries interest, rollover and
-financial-allocation costs.
+The 2026 Set-A key was provisional as of the cutoff; no option is marked or inferred here.
 
-### Intergenerational equity
+### Objection and reply
 
-Borrowing shifts payment obligations forward, but it may also shift assets and capabilities
-forward.
+**Objection:** Because the textbook interest-rate channel exists, public expenditure necessarily crowds out private investment.
 
-```text
-Borrow for a productive, maintained asset
-→ future users inherit benefit and liability
-
-Borrow for a recurring gap without reform
-→ future taxpayers inherit liability with little matching capacity
-```
-
-This is the intuition behind a “golden rule,” but the label capital expenditure does not prove
-social return. Appraisal, distribution and maintenance remain essential.
-
-### Debt management versus deficit reduction
-
-Debt management can lengthen maturity, smooth redemptions and reduce risk. It cannot permanently
-solve a structural primary imbalance. Conversely, abrupt deficit reduction may damage growth and
-worsen the denominator. Sustainable adjustment is a composition-and-timing problem.
+**Reply:** The PYQ asks for the definition of the effect, not a claim that it dominates every episode. Spare capacity, monetary accommodation and productivity-enhancing infrastructure can weaken or reverse the net private-investment effect.
 
 ### Revision notes
 
-1. Sustainability is not one debt threshold.
-2. Primary balance excludes interest.
-3. `r − g` influences debt-ratio dynamics.
-4. `r < g` helps but is not sufficient.
-5. Liquidity and solvency are different.
-6. Maturity affects rollover risk.
-7. Currency composition affects exchange risk.
-8. Contingent liabilities can migrate onto the debt path.
-9. Growth-friendly expenditure can improve the denominator.
-10. Productive assets can justify intertemporal financing.
-11. Capital classification alone does not prove productivity.
-12. Stock-flow adjustments can break a one-to-one deficit-debt link.
+1. Multipliers are conditional.
+2. Idle capacity strengthens output effects.
+3. Monetary offset weakens transmission.
+4. Imports leak demand.
+5. Transfers and capex differ in timing.
+6. Structural balances require estimates.
+7. Fiscal impulse is a change concept.
+8. Pro-cyclicality amplifies the cycle.
+9. Good-time buffers support bad-time action.
+10. Crowding in and out can coexist.
 
-### Practice
+### Concept check
 
-**Q17. Which factor, other things equal, improves debt-ratio dynamics?**
+**Question:** Why can capex have a modest first-year effect but a larger medium-term effect?
 
-A. Faster nominal GDP growth relative to the effective interest rate
-B. A larger persistent primary deficit financed through short-maturity debt at rising interest rates
-C. Shorter maturity with concentrated redemptions
-D. Recognition of previously hidden liabilities
+**Model answer:** Planning and construction lags slow initial demand, while completed networks later reduce costs and raise private returns.
 
-**Q18. A zero primary deficit means:**
+**Misconception to avoid:** All instruments should be judged at one horizon.
 
-A. public debt falls in nominal terms despite interest payments and stock-flow adjustments
-B. non-interest expenditure equals non-debt receipts within the fiscal-deficit identity
-C. the government makes no interest payment on its outstanding debt
-D. the government's overall fiscal deficit is also zero
+### Lesson-local Mains practice
 
-**Answers:** Q17-A; Q18-B.
+**Question (15 marks, 250 words):** Analyse when public capex crowds in private investment.
 
-**Option explanations**
+**Lesson-local model (218 words):** Public capital expenditure crowds in private investment when it raises expected private returns more than its financing raises cost. Transport, power, logistics and digital infrastructure can reduce transaction costs, connect markets and increase demand certainty. Union Budget 2026-27 BE of ₹12.22 lakh crore for capital expenditure, and ₹17.15 lakh crore of effective capital expenditure, illustrates the policy emphasis.
 
-- **Q17-A:** Correct. Faster nominal GDP growth relative to the effective interest rate reduces
-  the inherited debt ratio's arithmetic pressure, other things equal.
-- **Q17-B:** Incorrect. A persistent primary deficit adds non-interest borrowing and worsens debt
-  accumulation.
-- **Q17-C:** Incorrect. Concentrated short-term redemptions increase refinancing and liquidity
-  risk.
-- **Q17-D:** Incorrect. Bringing previously hidden obligations onto the balance sheet can raise
-  measured debt even though transparency improves.
-- **Q18-A:** Incorrect. Debt can remain unchanged or rise because interest and stock-flow
-  adjustments continue even when primary deficit is zero.
-- **Q18-B:** Correct. Zero primary deficit means non-interest expenditure equals non-debt
-  receipts within the fiscal-deficit identity.
-- **Q18-C:** Incorrect. Interest payments may be substantial; they are precisely the component
-  removed from fiscal deficit.
-- **Q18-D:** Incorrect. Fiscal deficit can equal the interest bill when primary deficit is zero.
+The mechanism runs from direct construction demand to completed networks, lower operating costs and viable complementary private projects. Productivity and a broader future tax base can then improve debt dynamics.
 
-**Mains drill - 15 marks:** Why is the debt-GDP ratio alone an incomplete test of fiscal
-sustainability?
+Crowding in is not automatic. Land delays, fragmented networks, cost overruns and weak maintenance reduce returns. If government borrowing absorbs scarce financial savings under tight liquidity, yields and private financing costs may rise. Import-intensive projects leak demand, and public activity may displace private provision where no market failure exists.
 
-**Model answer:** The debt-GDP ratio is an important stock indicator but omits the mechanisms
-that determine servicing capacity. Sustainability also depends on the primary balance, effective
-interest rate, nominal growth, maturity and redemption concentration, currency composition,
-investor base, revenue capacity and contingent liabilities. A high ratio with long-maturity
-domestic-currency debt and credible revenue may be more manageable than a lower ratio with
-foreign-currency and short-term exposure. Expenditure use matters because productive assets can
-raise future growth, while recurring gaps may not. Analysis should therefore combine solvency,
-liquidity and stress resilience rather than apply a universal threshold.
+Policy should prioritise appraised network projects, transparent procurement, state-local coordination, maintenance funding and outcome disclosure. Financing should preserve macro stability and manage maturity. Capex is catalytic when it supplies genuine public complements and is executed well; the accounting label alone does not establish crowding in.
+
+**Unique quantified rubric (15):** mechanism 5; official evidence 2; enabling conditions 3; counter-channel 3; verdict 2.
+
+**Bridge:** Multiplier effects alter growth and revenue; debt sustainability tests whether these gains outrun financing costs and new borrowing.
 
 ---
 
-**Progress: 10 / 12 | Stage: Advanced | Subtopic: FRBM - rules, targets, statements, escape clause and policy credibility**
+## Lesson 10 - Debt sustainability and intergenerational incidence
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - FRBM Act sections 3-7; Ramesh Singh FRBM overview; official fiscal-policy statements
-CA search: "FRBM Statement 2026-27 debt glide path 50 plus minus 1 official"
-CA found: Union Budget 2026-27 FRBM strategy statement, presented 1 February 2026, uses a medium-term Central debt goal of 50±1% of GDP by 31 March 2031
+
+**Book context:** Debt sustainability is analysed through exact stock-flow arithmetic.
+
+**Current link:** 55.6% debt/GDP BE and official 2030-31 path used.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: disciplined flexibility
+Progress: 10 / 12 | Stage: Optional Advanced | Subtopic: Debt dynamics
+
+### Visual - exact debt-ratio engine
 
 ```text
-ANCHOR → operational path → annual Budget statements → monitoring
-   ↑                                               ↓
-correction path ← transparent escape clause ← exceptional shock
+Let:
+d(t)   = debt/GDP at end of period t
+r      = effective nominal interest rate on debt
+g      = nominal GDP growth rate
+p(t)   = primary deficit/GDP; positive for deficit, negative for surplus
+sfa(t) = stock-flow adjustment/GDP; positive when it raises debt
+
+LEVEL IDENTITY:
+d(t) = [(1 + r)/(1 + g)] d(t−1) + p(t) + sfa(t)
+
+CHANGE FORM:
+Δd(t) = [(r − g)/(1 + g)] d(t−1) + p(t) + sfa(t)
+          └──── snowball term ────┘
 ```
 
-The FRBM framework is not a command to balance the Budget every year. It is a statutory system
-for targets, disclosures, transparency and correction.
+### Definitions and sign intuition
 
-### 1. What the Act tries to solve
+- **Effective nominal interest rate, r:** broadly, interest paid relative to the relevant debt stock; it differs from the current market yield because old debt carries earlier coupons.
+- **Nominal growth, g:** real growth plus the price effect embedded in nominal GDP; debt/GDP uses a nominal denominator.
+- **Primary deficit, p:** non-interest expenditure minus non-debt receipts, expressed as a GDP ratio. A primary surplus is negative in this sign convention.
+- **Stock-flow adjustment, sfa:** debt changes not captured by the measured primary flow and snowball term—for example valuation changes, cash-balance movements, recognition or assumption of liabilities, and some recapitalisation operations.
 
-- deficit bias and shifting costs to future taxpayers;
-- weak medium-term planning;
-- hidden assumptions and liabilities;
-- fiscal dominance and routine central-bank financing;
-- pro-cyclical loss of credibility.
+If **r > g**, the snowball term is positive: inherited debt tends to raise the ratio unless offset by a primary surplus. If **g > r**, the term is negative: denominator growth helps, but a large primary deficit or positive stock-flow adjustment can still raise debt.
 
-### 2. Sections worth remembering
+### Two numerical examples
 
-| Provision | Core purpose |
-|---|---|
-| Section 3 | fiscal-policy statements with the Budget |
-| Section 4 | fiscal targets, debt/deficit framework and escape grounds |
-| Section 5 | limits routine direct Central borrowing from RBI, with specified exceptions |
-| Section 6 | fiscal transparency |
-| Section 7 | compliance and explanation of deviations |
+```text
+Example A — favourable differential
+d(t−1)=60%, r=7%, g=10%, p=1%, sfa=0
+snowball = [(7−10)/110] × 60 = −1.64 percentage points
+Δd ≈ −1.64 + 1.00 = −0.64 point
+Debt ratio falls to about 59.36%.
 
-The Budget architecture includes a Medium-term Fiscal Policy-cum-Fiscal Policy Strategy
-Statement and a Macro-Economic Framework Statement under the current presentation.
+Example B — adverse differential
+d(t−1)=60%, r=8%, g=6%, p=1%, sfa=0
+snowball = [(8−6)/106] × 60 = +1.13 points
+Δd ≈ +1.13 + 1.00 = +2.13 points
+Debt ratio rises to about 62.13%.
+```
 
-### 3. Do not merge four different numbers
+These are stylised examples. Actual measurement depends on coverage, average debt during the year, nominal-GDP revisions, cash accounting, exchange valuation and the construction of the effective interest rate.
 
-1. **Statutory Central Government debt reference target:** 40% of GDP.
-2. **FRBM Review Committee recommendation:** a broader debt-anchor and glide-path framework.
-3. **FY2026-27 BE Central debt estimate:** about 55.6% of GDP.
-4. **Current operational goal:** Central debt at 50±1% of GDP by 31 March 2031.
+Long-maturity rupee debt with a broad investor base reduces currency and rollover exposure compared with short-term foreign-currency debt, but domestic debt still carries interest and allocation costs.
 
-They differ by legal status, date and purpose.
+Guarantee invocation, bank recapitalisation, valuation changes, arrears recognition and off-budget debt can raise debt outside a one-to-one current-FD relation.
 
-### 4. Escape clause
+✅ **Fact:** 2026-27 FRBM estimates Central Government debt at **55.6% of GDP**, from **56.1% in 2025-26 RE**. The strategy seeks a declining path toward **about 50 ± 1% by 31 March 2031**.
 
-Specified exceptional grounds include major national-security or war conditions, national
-calamity, severe agricultural collapse, structural reform with unanticipated fiscal implications
-and a sharp output decline. Deviation is bounded at up to **0.5 percentage point of GDP in a
-year**, with reasons and a return path to be disclosed.
+Borrowing for durable infrastructure or capabilities may benefit future taxpayers; low-return recurring borrowing shifts cost without matching capacity. Incidence depends on use, distribution and ownership of resulting assets.
 
-Do not confuse this with the separate **0.5% of GDP ceiling on additional guarantees** in a
-financial year.
+### Objection and reply
 
-### 5. Why rules can fail
+**Objection:** If nominal growth exceeds the effective interest rate, debt sustainability is automatic.
 
-- targets may be repeatedly reset;
-- narrow coverage can encourage off-budget shifting;
-- optimistic nominal GDP can flatter ratios;
-- rigid annual adjustment can cut productive spending in a downturn;
-- escape clauses can become routine if triggers and return paths are weak.
+**Reply:** The favourable snowball term can be overwhelmed by persistent primary deficits, contingent-liability recognition or growth reversals. It also says nothing about liquidity, maturity bunching, distribution or the quality of expenditure.
 
-A credible rule needs broad coverage, realistic assumptions, independent scrutiny, temporary
-escape, correction and protection of high-value expenditure.
+### Exact verified PYQ — answer-neutral
 
-### UPSC integration
+**UPSC Prelims 2018, GS Paper I, Question 9**
 
-- **2018 Prelims Q9:** FRBM Review Committee debt-GDP recommendations.
-- **2020 Prelims Q6:** Macro-Economic Framework Statement and the FRBM framework.
+> Consider the following statements:
+>
+> 1. The Fiscal Responsibility and Budget Management (FRBM) Review Committee Report has recommended a debt to GDP ratio of 60% for the general (combined) government by 2023, comprising 40% for the Central Government and 20% for the State Governments.
+> 2. The Central Government has domestic liabilities of 21% of GDP as compared to that of 49% of GDP of the State Governments.
+> 3. As per the Constitution of India, it is mandatory for a State to take the Central Government's consent for raising any loan if the former owes any outstanding liabilities to the latter.
+>
+> Which of the statements given above is/are correct?
+>
+> (a) 1 only
+> (b) 2 and 3 only
+> (c) 1 and 3 only
+> (d) 1, 2 and 3
+
+No response is marked or evaluated. For multi-statement fiscal questions generally, verify the reference year, institutional source, government coverage and legal condition of each claim separately.
 
 ### Revision notes
 
-1. FRBM is a rule-and-disclosure architecture.
-2. Section 3 concerns fiscal-policy statements.
-3. Section 4 contains targets and escape.
-4. Section 5 limits routine direct RBI borrowing.
-5. Sections 6-7 address transparency and compliance.
-6. The statutory 40% reference is not the current debt estimate.
-7. The current 50±1 goal is for 31 March 2031.
-8. Escape deviation can be up to 0.5 percentage point in a year.
-9. Guarantee ceiling and escape limit are separate.
-10. A good escape clause is temporary and reviewable.
-11. Narrow rules invite accounting shifts.
-12. Fiscal rules should not force pro-cyclical destruction of productive spending.
+1. Sustainability is dynamic.
+2. `Δd = [(r−g)/(1+g)]d(t−1) + p + sfa`.
+3. Positive p means primary deficit; primary surplus is negative.
+4. `r−g` determines the inherited-debt snowball direction.
+5. Favourable `g>r` does not excuse unlimited primary deficits.
+6. Stock-flow adjustment covers valuation, cash and liability-recognition effects.
+7. Maturity and currency affect risk.
+8. Domestic debt is not costless.
+9. Guarantees can migrate to debt.
+10. Use of borrowing shapes fairness.
+11. 2030-31 policy anchor is about 50 ± 1%.
+12. Exact dynamics depend on data coverage and measurement.
 
-### Practice
+### Concept check
 
-**Q19. Which is correctly matched?**
+**Question:** Can debt/GDP fall while FD remains positive?
 
-A. Section 3 - restrictions on routine direct Central borrowing from the RBI
-B. Section 4 - preparation of the Macro-Economic Framework Statement
-C. Section 3 - fiscal-policy statements
-D. Section 6 - creation of the Contingency Fund
+**Model answer:** Yes. In the change equation, a negative snowball term when nominal growth exceeds the effective interest rate can outweigh a contained primary deficit. Positive stock-flow adjustments can reverse that result.
 
-**Q20. Which statement is correct?**
+**Misconception to avoid:** FD adds mechanically and identically to debt/GDP.
 
-A. The 40% statutory reference is the FY2026-27 BE debt ratio.
-B. FRBM prohibits RBI secondary-market transactions in government securities, including routine liquidity management.
-C. The escape clause and guarantee ceiling form a single legal rule.
-D. The current medium-term Central debt goal is 50±1% of GDP by 31 March 2031.
+### Lesson-local Mains practice
 
-**Answers:** Q19-C; Q20-D.
+**Question (15 marks, 250 words):** Examine determinants of public-debt sustainability in India.
 
-**Option explanations**
+**Lesson-local model (224 words):** Public debt is sustainable when it can be serviced without disruptive inflation, default, excessive taxation or compression of essential spending. Debt/GDP is a starting point, not the complete test.
 
-- **Q19-A:** Incorrect. Restrictions on routine direct Central borrowing from the RBI are placed
-  in section 5, not section 3.
-- **Q19-B:** Incorrect. Section 4 contains fiscal targets and escape provisions; the
-  Macro-Economic Framework Statement belongs to the section 3 statement architecture.
-- **Q19-C:** Correct. Section 3 provides for fiscal-policy statements accompanying the Budget.
-- **Q19-D:** Incorrect. The Contingency Fund originates in Article 267, while FRBM section 6
-  concerns fiscal transparency.
-- **Q20-A:** Incorrect. The 40% figure is a statutory Central Government debt reference, not the
-  FY2026-27 Budget Estimate.
-- **Q20-B:** Incorrect. FRBM limits routine direct primary financing but does not prohibit every
-  RBI secondary-market liquidity operation.
-- **Q20-C:** Incorrect. The escape deviation limit and annual additional-guarantee ceiling are
-  separate legal rules despite using the same numerical figure.
-- **Q20-D:** Correct. The dated medium-term strategy aims for Central debt of 50±1% of GDP by
-  31 March 2031.
+The core arithmetic links the primary balance with the effective interest-growth differential. A contained primary deficit and nominal growth above the effective interest rate can put the ratio on a declining path. Union Budget 2026-27 estimates Central Government debt at 55.6% of GDP and targets about 50 ± 1% by March 2031, but realised growth and rates determine delivery.
 
-**Mains drill - 20 marks:** Evaluate the case for fiscal rules with escape clauses in a
-developing economy.
+Composition matters. Longer-maturity rupee debt and a domestic investor base reduce currency and rollover exposure, while interest still constrains fiscal space. Productive infrastructure and human capital can raise repayment capacity; unreformed recurring gaps do not. Guarantees, extra-budgetary borrowing, recapitalisation and arrears create stock-flow adjustments. Revenue buoyancy, compliance and state liabilities complete the picture.
 
-**Model answer:** Fiscal rules can anchor expectations, restrain deficit bias, improve
-medium-term planning and protect future fiscal space. They are especially valuable where annual
-political incentives encourage optimistic revenue and deferred liabilities. Yet a rigid ceiling
-can become pro-cyclical during war, calamity, severe recession or a costly structural reform,
-and can induce cuts in productive capex. Escape clauses therefore provide disciplined
-flexibility. Their credibility depends on objective triggers, a bounded deviation, transparent
-costing, legislative explanation, a time limit and a correction path. Coverage must include
-off-budget and contingent risks, while assumptions and outcomes should face independent
-scrutiny. India's FRBM framework embodies this balance, but repeated resets and narrow headline
-focus remain concerns. The aim should be a credible debt anchor with realistic operational
-targets, not either unbounded discretion or mechanically balanced annual budgets.
+India should combine realistic primary paths, fiscal-risk reporting, maturity management and protection of high-return spending. Abrupt consolidation during weakness may damage the GDP denominator. Sustainability requires credible gradual adjustment, productive borrowing and disclosure of the full risk perimeter.
+
+**Unique quantified rubric (15):** arithmetic 4; composition 3; expenditure-growth link 3; hidden risks 2; official anchor 1; conclusion 2.
+
+**Bridge:** Because debt arithmetic can deteriorate through both policy and shocks, fiscal rules must combine anchors with credible flexibility.
 
 ---
 
-**Progress: 11 / 12 | Stage: Advanced | Subtopic: Fiscal transparency - off-budget borrowing, guarantees, fiscal perimeter and Centre-State dimensions**
+## Lesson 11 - FRBM and fiscal rules
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - CAG reports, official Budget EBR disclosures and Economic Survey 2025-26 State-fiscal-risk discussion
-CA search: "CAG off budget borrowing guarantees fiscal transparency India official"
-CA found: Union Budget 2026-27 EBR and guarantee disclosures, presented 1 February 2026, identify fiscal risks; official CAG audit material is used only for each report's stated accounting period
+
+**Book context:** Fiscal rules combine a stock anchor, operational path, flexibility and accountability.
+
+**Current link:** 2026-27 strategy gives operational attention to a declining debt path.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: follow the person who will ultimately service the liability
+Progress: 11 / 12 | Stage: Optional Advanced | Subtopic: Discipline with flexibility
+
+### Visual - fiscal-rule design hearing
 
 ```text
-Policy obligation
-   |
-   +-- paid directly in Budget → visible expenditure/deficit
-   |
-   `-- PSU/SPV borrows → future Budget services loan
-                         → off-budget or EBR risk
-
-Guarantee: no immediate cash outgo unless invoked,
-but sovereign exposure exists from the day it is issued.
+DEBT ANCHOR
+    ↓
+OPERATIONAL DEFICIT PATH
+    ↓
+NARROW ESCAPE CONDITIONS
+    ↓
+DISCLOSED DEVIATION + RETURN PATH
+    ↓
+EX-POST ACCOUNTABILITY
 ```
 
-### 1. Off-budget borrowing and EBR
+The FRBM Act, 2003 seeks intergenerational equity, macro stability, prudent debt management and transparency. Rules reduce short-term deficit bias but cannot replace judgement.
 
-Off-budget borrowing occurs when an entity raises finance outside direct government books but
-future public resources effectively service it. Extra-Budgetary Resources can support investment,
-yet they may postpone recognition of the borrowing requirement.
+Fiscal-policy statements accompanying the Budget supply assumptions, projections and strategy. The Macro-Economic Framework Statement is legally linked to FRBM—an explicit 2020 Prelims demand.
 
-The historical FCI-small-savings financing example illustrates why delayed subsidy recognition
-can understate the current headline burden. Bringing obligations on-budget improves comparability,
-though it may initially raise the reported deficit.
+The N. K. Singh Review Committee strengthened debt-anchor, operational path, escape-clause and institutional-oversight logic. Distinguish a stock anchor from a flow target.
 
-Not every PSU liability is sovereign debt. Ask:
+### Exact statutory escape architecture
 
-- who borrowed?
-- is there a government guarantee?
-- who services principal and interest?
-- is repayment backed by commercial cash flow or the Budget?
-- what is the maturity and purpose?
+Under the amended FRBM framework, deviation from the annual fiscal-deficit target may be permitted on these grounds:
 
-### 2. Guarantees
+1. national security;
+2. act of war;
+3. national calamity;
+4. collapse of agriculture severely affecting farm output and incomes;
+5. structural reforms in the economy with unanticipated fiscal implications; and
+6. decline in real output growth of a quarter by at least **3 percentage points below the average of the previous four quarters**.
 
-A guarantee is a contingent liability. Distinguish:
+The permitted annual deviation is bounded at **not more than 0.5 percentage point of GDP**. The reasons and extent of deviation must be stated through the fiscal-policy reporting architecture.
 
-- outstanding stock;
-- new guarantees issued during the year;
-- invocation;
-- recovery after invocation;
-- probability and concentration of risk.
+The framework also contains a good-times correction: where real output growth of a quarter rises by at least **3 percentage points above the average of the previous four quarters**, the Central Government is to reduce the fiscal deficit by at least **0.25 percentage point of GDP** in that year. This asymmetry is intended to prevent flexibility from operating only in bad times.
 
-The FRBM ceiling on additional guarantees is not a ceiling on total outstanding guarantees.
-
-### 3. Transparency chain
+### RBI primary-market financing boundary
 
 ```text
-classify → disclose → reconcile → account → audit → legislative follow-up
+GENERAL RULE
+Central Government does not borrow directly from RBI
+        ↓ exceptions/boundaries
+Ways and Means Advances for temporary cash mismatch
+        +
+RBI primary subscription only on specified statutory escape grounds
+        +
+RBI may buy/sell government securities in the secondary market
 ```
 
-CGA accounts and monthly data support monitoring. CAG audits compliance and performance.
-Appropriation Accounts compare actual expenditure with legislative authority; Finance Accounts
-present the broader financial results.
+The FRBM boundary ended routine RBI subscription to primary Central Government securities from **1 April 2006**. It does **not** prohibit secondary-market operations used for liquidity and monetary management. Temporary Ways and Means Advances are also not the same as permanent deficit monetisation.
 
-### 4. Fiscal perimeter
+### Current legal and policy qualification
 
-| Perimeter | Coverage |
-|---|---|
-| Union Government | Central budget and defined Central liabilities |
-| General government | Union + States, consolidated to avoid double counting |
-| Wider public sector | may include public enterprises and SPVs, depending on analytical purpose |
+- The amended Act contains statutory references including a **40% of GDP Central Government debt** goal and a **3% fiscal-deficit** goal with their legislated target architecture.
+- Those statutory references, the N. K. Singh Committee's historic **60:40:20** recommendation, the **55.6% of GDP 2026-27 BE** debt estimate, and the current policy objective of **about 50 ± 1% by 31 March 2031** are different propositions.
+- The 50 ± 1% path is the current Budget's medium-term policy strategy; it should not be described as though the statutory 40% text had automatically been amended to 50%.
 
-A ratio can be numerically correct yet misleading if its perimeter is unstated.
+A rigid annual ceiling can force pro-cyclical cuts; a vague escape clause permits chronic deviation. Better rules combine medium-term debt anchoring, transparent forecasts, contestable assumptions and correction.
 
-### 5. Centre-State dimension
+### Objection and reply
 
-States deliver major health, education and infrastructure functions. Their fiscal position is
-shaped by own revenue, tax devolution, grants, borrowing limits, guarantees and public
-enterprises.
+**Objection:** A quantified escape limit makes all permitted deviation fiscally safe.
 
-Articles 280-281 concern the Finance Commission's recommendations and their laying before
-Parliament. They do not alone explain GST design or every State borrowing limit.
+**Reply:** The limit constrains the flow departure; it does not validate expenditure quality, macro assumptions, off-budget shifts or repeated resets. Credibility requires full coverage and a return path.
 
-NITI Aayog's Fiscal Health Index uses five dimensions:
+### Exact verified PYQ — answer-neutral
 
-1. Quality of Expenditure
-2. Revenue Mobilisation
-3. Fiscal Prudence
-4. Debt Index
-5. Debt Sustainability
+**UPSC Prelims 2020, GS Paper I, Question 6**
 
-Use the dimensions, not a stale state ranking, unless the question supplies a dated report.
-
-### UPSC integration
-
-- **2025 GS-III Q11, Explain, 15 marks:** Fiscal Health Index and its role in assessing
-  States. Approach: purpose → five dimensions → uses → data/comparability limits.
+> Along with the Budget, the Finance Minister also places other documents before the Parliament which include “The Macro Economic Framework Statement”. The aforesaid document is presented because this is mandated by
+>
+> (a) Long-standing parliamentary convention
+> (b) Article 112 and Article 110(1) of the Constitution of India
+> (c) Article 113 of the Constitution of India
+> (d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
 
 ### Revision notes
 
-1. Fiscal substance follows servicing responsibility.
-2. Off-budget financing can postpone deficit recognition.
-3. EBR and IEBR require careful entity-level reading.
-4. Not every PSU debt is sovereign debt.
-5. A guarantee is contingent until invoked.
-6. Guarantee stock differs from annual accretion.
-7. CGA compiles; CAG audits.
-8. Finance Accounts and Appropriation Accounts answer different questions.
-9. Union balance is not general-government balance.
-10. Consolidation must avoid double counting.
-11. State fiscal data should include guarantees and off-budget risks.
-12. FHI has five dimensions and is a diagnostic, not a substitute for accounts.
+1. FRBM is rules plus disclosure.
+2. Enacted in 2003.
+3. Statements accompany the Budget.
+4. MEFS supplies macro assumptions.
+5. Debt anchor differs from FD target.
+6. N. K. Singh review stressed glide paths.
+7. Escape grounds are exhaustively specified, not an open-ended discretion.
+8. Escape deviation is capped at 0.5 percentage point of GDP in a year.
+9. A 3-point positive growth surprise triggers at least 0.25-point deficit reduction.
+10. Routine RBI primary subscription ended from 1 April 2006.
+11. WMA and secondary-market operations are distinct from routine primary financing.
+12. Statutory 40%, historic committee ratios and current 50 ± 1% policy must not be merged.
+13. Repeated resets weaken credibility.
+14. Rules should preserve stabilisation capacity.
 
-### Practice
+### Concept check
 
-**Q21. Which feature most strongly indicates an off-budget fiscal risk?**
+**Question:** How can an escape clause strengthen a rule?
 
-A. A public entity borrows, but future Union Budget grants are committed to service the debt.
-B. A profitable PSU borrows against commercial revenue without a government guarantee or committed Budget servicing.
-C. A ministry reports voted expenditure in a Demand for Grant.
-D. Tax revenue is credited to the Consolidated Fund.
+**Model answer:** A narrow clause allows up to 0.5 percentage point of GDP deviation only for listed shocks, avoiding pro-cyclical adjustment while requiring disclosure. The good-times correction and return path prevent one-way flexibility.
 
-**Q22. Which pairing is correct?**
+**Misconception to avoid:** All flexibility is indiscipline.
 
-A. CGA - constitutional audit of Union expenditure
-B. CAG - independent audit; CGA - compilation of Union accounts
-C. Finance Commission - monthly compilation of Union accounts
-D. Public Accounts Committee - preparation, presentation and executive implementation of the Union Budget
+### Lesson-local Mains practice
 
-**Answers:** Q21-A; Q22-B.
+**Question (20 marks, 250 words):** Can fiscal rules coexist with countercyclical policy in India? Evaluate.
 
-**Option explanations**
+**Lesson-local model (244 words):** Fiscal rules and countercyclical policy can coexist if the rule constrains opportunism over the medium term rather than fixing one annual deficit in all conditions.
 
-- **Q21-A:** Correct. A formally separate entity creates an off-budget fiscal risk when future
-  Union grants are committed to servicing its borrowing.
-- **Q21-B:** Incorrect. Commercial borrowing supported by the PSU's own revenue, without a
-  guarantee or Budget-service commitment, is not automatically sovereign debt.
-- **Q21-C:** Incorrect. Expenditure openly reported in a Demand for Grant is on-budget and subject
-  to legislative authorisation.
-- **Q21-D:** Incorrect. Crediting tax revenue to the Consolidated Fund is ordinary constitutional
-  accounting, not off-budget financing.
-- **Q22-A:** Incorrect. CGA compiles government accounts; it is not the independent
-  constitutional auditor.
-- **Q22-B:** Correct. CAG independently audits, while CGA compiles Union accounts and monthly
-  fiscal information.
-- **Q22-C:** Incorrect. The Finance Commission recommends specified Union-State transfers; it
-  does not compile monthly Union accounts.
-- **Q22-D:** Incorrect. The Public Accounts Committee scrutinises accounts and audit findings;
-  the executive prepares and implements the Budget.
+The FRBM Act improves transparency through fiscal statements, macro assumptions and strategy. A debt anchor and operational deficit path can reduce risk premia, discipline recurrent commitments and preserve intergenerational equity. The N. K. Singh Review Committee's debt-and-glide-path logic reflects this advantage. Union Budget 2026-27 continues consolidation with a 4.3% FD BE and a declining debt path toward about 50 ± 1% by March 2031.
 
-**Mains drill - 15 marks:** How do off-budget borrowings and guarantees weaken fiscal
-transparency? Suggest safeguards.
+A rigid ceiling, however, can become pro-cyclical. In recession, tax receipts fall automatically and temporary spending may protect jobs and capacity. Forced cuts can deepen contraction and worsen the debt denominator. Conversely, broad exceptions can destroy signalling value.
 
-**Model answer:** Off-budget borrowing can finance a public obligation through a PSU or SPV while
-future Budget resources service the liability, thereby understating the current headline
-borrowing requirement. Guarantees create contingent exposure that may become expenditure or debt
-on invocation. Both weaken comparison when entity, purpose, maturity, servicing source and
-outstanding stock are unclear. Safeguards include a comprehensive fiscal-risk statement,
-entity-wise EBR and guarantee registers, probability-based stress tests, disclosure of arrears
-and delayed payments, reconciliation with CGA accounts, CAG audit and legislative follow-up.
-General-government analysis should consolidate Centre and States without mechanically treating
-every commercially financed PSU loan as sovereign debt.
+Coexistence requires a medium-term debt anchor; transparent operational path; narrow statutory escape conditions; disclosure of reason, quantum and duration; scrutiny of forecasts; and a credible return path. Risk statements should cover guarantees and extra-budgetary exposure. Buffers should be rebuilt in normal growth, while shock support remains targeted and reversible.
+
+The choice is not rules versus discretion. India needs constrained discretion: credible rules across the cycle with accountable stabilisation during genuine exceptional conditions.
+
+**Unique quantified rubric (20):** thesis 3; case for rules 4; critique 4; India evidence 3; design 4; verdict 2.
+
+**Bridge:** A rule is credible only when the fiscal perimeter is visible; the final lesson therefore tests hidden and contingent claims.
 
 ---
 
-**Progress: 12 / 12 | Stage: Mastery | Subtopic: How to judge an Indian Budget - current fiscal path, consolidation and integrated answer craft**
+## Lesson 12 - Fiscal transparency and integrated Budget judgement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried - Economic Survey 2025-26 fiscal chapter and official Union Budget 2026-27 documents
-CA search: "Union Budget 2026-27 fiscal deficit capital expenditure central debt official 1 February 2026"
-CA found: Union Budget 2026-27, presented 1 February 2026, reports FY2026-27 BE - FD 4.3% of GDP, capex about Rs 12.22 lakh crore, effective capex about Rs 17.15 lakh crore and Central debt about 55.6% of GDP
+
+**Book context:** The fiscal perimeter extends beyond the headline deficit to contingent and deferred claims.
+
+**Current link:** Budget BE and August CGA execution integrated without mixing stages.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Visual: the seven-window Budget test
+Progress: 12 / 12 | Stage: Optional Advanced | Subtopic: Fiscal perimeter
+
+### Visual - fiscal-risk perimeter radar
 
 ```text
-1 Authority → 2 Assumptions → 3 Receipts → 4 Expenditure
-       → 5 Deficit/financing → 6 Debt/risk → 7 Outcomes/equity
+UNION FD + DEBT
+    ↓
+EXTRA-BUDGETARY RESOURCES
+    ↓
+GUARANTEES + CONTINGENT LIABILITIES
+    ↓
+ARREARS + PPP COMMITMENTS
+    ↓
+STATES + LOCAL BODIES + PUBLIC ENTERPRISES
 ```
 
-### 1. Read the date and vintage first
+Off-budget borrowing finances public policy through an entity outside the headline while repayment ultimately depends on public resources. Historical NSSF financing of Food Corporation of India subsidy obligations shows how economic liability could exceed the headline. Bringing items on Budget improves transparency even if the reported deficit rises.
 
-The Union Budget presented on **1 February 2026** reports:
+A guarantee is contingent, not immediate cash expenditure. It becomes a fiscal cost on invocation. Distinguish stock, annual addition, invocation and provisioning.
 
-| Indicator | FY2024-25 Actuals | FY2025-26 RE | FY2026-27 BE |
-|---|---:|---:|---:|
-| Fiscal deficit (% GDP) | 4.8 | 4.4 | 4.3 |
-| Revenue deficit (% GDP) | 1.7 | 1.5 | 1.5 |
-| Effective revenue deficit (% GDP) | 0.9 | 0.6 | 0.3 |
-| Primary deficit (% GDP) | 1.4 | 0.8 | 0.7 |
-| Capital expenditure (Rs lakh crore) | 10.52 | 10.96 | 12.22 |
-| Effective capital expenditure (Rs lakh crore) | 13.25 | 14.04 | 17.15 |
+Union, states, local bodies and public enterprises are different perimeters. Not every PSU debt is sovereign: test guarantee, independent revenue and repayment dependence.
 
-The FY2026-27 figures are **Budget Estimates**, not realised outcomes. Central debt for
-FY2026-27 BE is about **55.6% of GDP**, while the medium-term aim is **50±1% by 31 March 2031**.
+| Official item | Status | Use |
+|---|---|---|
+| FD 4.3% of GDP | 2026-27 BE | intended flow path |
+| Capex ₹12,21,821 crore | 2026-27 BE | direct capex intent |
+| Effective capex ₹17,14,523 crore | 2026-27 BE | adds asset grants |
+| Debt 55.6% GDP | 2026-27 BE | stock anchor |
+| FD ₹7,10,249 crore | end-August provisional | execution, not annual forecast |
 
-### 2. What the path appears to do
+A complete fiscal judgement borrows relevant mechanisms without confusing them: taxation affects revenue capacity, monetary conditions affect financing, infrastructure affects capex returns, and social spending affects distribution and human capital.
 
-The announced path combines gradual fiscal-deficit reduction with continued capital support.
-That can improve consolidation quality if:
+### Objection and reply
 
-- revenue assumptions are realistic;
-- asset-creating grants and capex are executed;
-- maintenance and human-capital expenditure are protected;
-- off-budget liabilities do not rise;
-- nominal GDP assumptions do not do all the work.
+**Objection:** Including every public-enterprise liability in sovereign debt is the safest conservative approach.
 
-### 3. Fiscal consolidation is not automatic austerity
+**Reply:** It overstates exposure where an enterprise has independent revenue and no sovereign guarantee. The correct approach is graded disclosure: direct debt, guaranteed debt, probable support and commercially self-servicing liabilities should not be collapsed into one number.
 
-Durable consolidation can use:
+### Exact verified PYQ — answer-neutral
 
-- broader, fairer compliance and stable revenue;
-- expenditure reprioritisation and subsidy redesign;
-- completion of high-return projects;
-- better procurement and cash management;
-- asset recycling without treating one-offs as recurring revenue;
-- lower interest costs over time;
-- transparent recognition of liabilities.
+**UPSC Mains 2025, GS Paper III, Question 11 — 15 marks, 250 words**
 
-Across-the-board cuts can weaken demand, maintenance and growth. Delayed payments can make the
-headline look better without improving fiscal substance.
+> Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies?
 
-### 4. An answer spine for any Budget question
+For this lesson, the exact question is a perimeter reminder: Union headline indicators cannot substitute for state-level revenue, expenditure, prudence and debt assessment.
 
 ```text
-Define the tested concept
-→ write the relevant identity or constitutional rule
-→ trace the causal mechanism
-→ add one dated Indian example
-→ identify distribution/federal incidence
-→ state limitation or risk
-→ propose sequenced reform
+AUTHORITY → REVENUE → COMPOSITION → TIMING
+→ FINANCING → DEBT → DISCLOSURE → DELIVERY
 ```
-
-### 5. A balanced judgement
-
-A “good” Budget is not simply large, small, expansionary or austere. It is:
-
-- constitutionally authorised;
-- based on credible assumptions;
-- financed transparently;
-- counter-cyclical when necessary;
-- growth- and equity-aware;
-- attentive to debt and interest;
-- capable of converting outlay into outcome.
 
 ### Revision notes
 
-1. Date every live Budget number.
-2. Preserve BE, RE and Actual labels.
-3. State Centre versus general-government perimeter.
-4. Read revenue assumptions before praising expenditure.
-5. Compare capex with execution and maintenance.
-6. Read FD with RD, PD and debt.
-7. Check financing mix and interest burden.
-8. Search for guarantees, EBR and arrears.
-9. Test counter-cyclicality against inflation and slack.
-10. Identify distributional and federal incidence.
-11. Consolidation quality matters more than a blunt cut.
-12. Finish with a feasible sequencing of reforms.
+1. Off-budget is not costless.
+2. Guarantees are contingent.
+3. Invocation creates actual cost.
+4. FCI-NSSF is a transparency example.
+5. Recognition can worsen the headline while improving truthfulness.
+6. Union differs from general government.
+7. Test PSU repayment dependence.
+8. PPPs may create future claims.
+9. Monthly CGA data should not be annualised.
+10. Judge size, composition, timing and disclosure.
+11. Revenue quality shapes fiscal capacity.
+12. Consolidation should protect high-return expenditure.
 
-### Practice
+### Concept check
 
-**Q23. Which is a valid statement about FY2026-27 Union Budget figures?**
+**Question:** Why may reported FD rise when transparency improves?
 
-A. They are audited Actuals for the completed financial year.
-B. They are Revised Estimates for a completed year and therefore record final audited expenditure.
-C. They are Budget Estimates and must not be described as achieved outcomes.
-D. They consolidate Union and State government accounts into one general-government total.
+**Model answer:** Previously off-budget obligations may be recognised explicitly; the perimeter becomes more complete even though the economic obligation is not new.
 
-**Q24. Which adjustment most credibly improves fiscal consolidation quality?**
+**Misconception to avoid:** Lower disclosed FD proves lower total risk.
 
-A. Postpone recognised payments beyond the financial year to reduce reported cash outgo.
-B. Use recurring asset sales to finance an unchanged structural expenditure gap.
-C. Cancel maintenance allocations regardless of the condition of public assets.
-D. Improve recurring revenue and spending efficiency while protecting high-return capex and vulnerable groups.
+### Lesson-local Mains practice
 
-**Answers:** Q23-C; Q24-D.
+**Question (20 marks, 250 words):** Is headline fiscal deficit sufficient to judge the Union Budget? Critically examine.
 
-**Option explanations**
+**Lesson-local model (247 words):** Fiscal deficit is indispensable because it measures expenditure not financed by revenue and non-debt capital receipts, broadly indicating the debt-creating requirement. The 2026-27 BE of 4.3% of GDP signals consolidation. Yet it is insufficient alone.
 
-- **Q23-A:** Incorrect. FY2026-27 figures presented on 1 February 2026 were forward estimates,
-  not audited realised transactions.
-- **Q23-B:** Incorrect. FY2026-27 was the Budget Estimate year; the Revised Estimate shown in the
-  same documents related to FY2025-26.
-- **Q23-C:** Correct. Budget Estimates must remain labelled as plans and cannot be described as
-  achieved outcomes.
-- **Q23-D:** Incorrect. The Union Budget covers the Central Government perimeter, not a
-  consolidated Centre-plus-States general-government account.
-- **Q24-A:** Incorrect. Delaying recognised payments creates arrears and shifts timing without
-  repairing the underlying fiscal balance.
-- **Q24-B:** Incorrect. Repeated one-off asset sales cannot sustainably finance a recurring
-  structural expenditure gap.
-- **Q24-C:** Incorrect. Unselective maintenance cuts can degrade public assets and raise future
-  repair costs.
-- **Q24-D:** Correct. Durable revenue and efficiency gains improve the recurring balance while
-  protection of high-return and equity-critical expenditure limits growth and welfare damage.
+Identical deficits can finance different expenditure. Borrowing for completed infrastructure or human capital may strengthen capacity; recurring low-return gaps add debt without matching returns. Revenue and primary deficits reveal current dissaving and inherited interest. Effective revenue deficit and effective capital expenditure refine the asset picture. The cycle also matters: temporary recession support differs from a structural gap. Market debt, small savings and monetisation transmit differently through yields, liquidity and inflation.
 
-**Mains drill - 20 marks:** How should the quality of fiscal consolidation in India be
-assessed?
+The headline may omit risk. Guarantees, extra-budgetary resources, deferred subsidies, PPP commitments and repayment-dependent PSU borrowing can become future claims. Historical NSSF financing of FCI obligations illustrates the issue; later on-budget recognition improved disclosure. Union figures also exclude state and local positions.
 
-**Model answer:** Fiscal consolidation should be assessed through composition, credibility and
-outcome, not only the annual fiscal-deficit ratio. On the revenue side, durable gains from a
-broader base, compliance and predictable non-tax income are superior to repeated one-off asset
-sales. On expenditure, low-value leakage may be reduced while protecting productive capex,
-maintenance, human capability and targeted support. The path should be counter-cyclical: abrupt
-compression during weakness may damage growth and the debt denominator. Transparency requires
-on-budget recognition of serviced liabilities, guarantee disclosure and comparable Centre-State
-data. Debt, primary balance and interest burden must accompany the flow deficit. Finally, BE
-must be compared with RE and Actuals, and outlays with outputs and outcomes. High-quality
-consolidation therefore creates fiscal space without sacrificing future capacity or social
-resilience.
+A sound verdict combines FD with revenue quality, composition, BE-RE-Actual execution, primary balance, debt maturity, interest-growth conditions and comprehensive risk disclosure. The 55.6% debt BE and 2030-31 glide path provide a stock anchor. FD should not be discarded; it should sit inside a wider balance-sheet and public-value assessment.
 
----
+**Unique quantified rubric (20):** role of FD 3; insufficiencies 7; hidden-risk evidence 4; current anchors 2; integration 2; verdict 2.
+
+**Bridge:** The complete judgement now joins constitutional authority, accounts, macroeconomics, debt dynamics, rules and disclosure.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The entries below are **links**, not solved PYQ answers. They identify the tested demand and the
-route an answer should take.
+## Exact objective PYQ consolidation — response-neutral
 
-| Year | Paper / question | Directive or format | Core demand | Answer approach |
-|---:|---|---|---|---|
-| 2018 | Prelims GS-I Q9 | objective | FRBM Review Committee debt recommendations | separate committee recommendation from statutory target and current path |
-| 2018 | Prelims GS-I Q47 | objective | opportunity cost of free public provision | identify next-best use; do not infer that free provision is undesirable |
-| 2018 | GS-III Q2, 10 marks, 150 words | Comment | Budget-year LTCG and DDT changes | state the dated reform, rationale, incidence, market/equity effects and qualification |
-| 2019 | GS-III Q12, 15 marks, 250 words | Clarify | public-expenditure management | move from allocation to execution, outcomes, transparency, federal coordination and reform |
-| 2020 | Prelims GS-I Q6 | objective | Macro-Economic Framework Statement | place it within the Union Budget's FRBM statement architecture |
-| 2021 | Prelims GS-I Q3 | objective | policy during recession | distinguish counter-cyclical support from pro-cyclical tightening |
-| 2021 | Prelims GS-I Q9 | objective | effects of black money | connect tax-base erosion, inequality, asset distortion and policy effectiveness |
-| 2021 | GS-III Q2, 10 marks, 150 words | Distinguish | Capital Budget and Revenue Budget | compare both receipt and expenditure components; add analytical significance |
-| 2022 | Prelims GS-I Q9 | objective | capital and revenue expenditure | classify by asset/liability effect, then reject moral shortcuts |
-| 2022 | Prelims GS-I Q10 | objective | household financial savings and internal debt | trace the financial-intermediation and government-borrowing link |
-| 2024 | Prelims GS-I Q85 | objective | AFS and President's recommendation | apply Articles 112-113 and distinguish laying, recommendation and voting |
-| 2025 | Prelims GS-I Q10 | objective | capital receipts | distinguish borrowing, disinvestment and interest received |
-| 2025 | Prelims GS-I Q61 | objective calculation | RD, FD and PD inputs | write each formula and avoid double subtraction |
-| 2025 | Prelims GS-I Q65 | objective calculation | gross primary deficit | subtract interest from the already-given fiscal deficit |
-| 2025 | GS-III Q11, 15 marks, 250 words | Explain | Fiscal Health Index | explain five dimensions, diagnostic use, federal benchmarking and data limits |
-| 2026 | Prelims GS-I Q94 | objective; provisional key route | borrowing, interest rates and crowding out | trace the conditional mechanism; do not claim one-for-one displacement |
+The exact stems and all response options appear in the following lesson-local blocks. They are consolidated here by identifier without answer letters, truth markings or elimination cues.
 
-# CUMULATIVE MCQS
+| Year | Exact paper/question | Exact reproduction in this session | Question-paper provenance | Key provenance |
+|---:|---|---:|---|---|
+| 2018 | Prelims GS-I Q9 | Lesson 10 | `books/more_previous_papers/QP-CSP-18-GS-I-C.pdf`, PDF pp. 4-5 | official key not held locally; no key inferred |
+| 2018 | Prelims GS-I Q47 | Lesson 7 | same local official paper, PDF pp. 22-23 | official key not held locally; no key inferred |
+| 2020 | Prelims GS-I Q6 | Lessons 2 and 11 | `books/more_previous_papers/CSP_2020_GS_Paper-1.pdf`, PDF p. 5 | official key not held locally; no key inferred |
+| 2021 | Prelims GS-I Q3 | Lesson 7 | `books/more_previous_papers/QP-CSP-21-GeneralStudiesPaper-I-121021.pdf`, PDF p. 3 | official key not held locally; no key inferred |
+| 2021 | Prelims GS-I Q9 | Lesson 6 | same local official paper, PDF p. 7 | official key not held locally; no key inferred |
+| 2022 | Prelims GS-I Q9 | Lesson 4 | UPSC previous-question-paper archive and audited local routing ledger | official key not held locally; no key inferred |
+| 2022 | Prelims GS-I Q10 | Lesson 6 | UPSC previous-question-paper archive and audited local routing ledger | official key not held locally; no key inferred |
+| 2024 | Prelims GS-I Q85 | Lesson 1 | `books/prelima_question_paper_answers/2024-GS1-Set A.pdf`, official Set A | `books/prelima_question_paper_answers/Ans-2024-GS1.pdf`; key not displayed |
+| 2025 | Prelims GS-I Q10 | Lesson 3 | `books/prelima_question_paper_answers/2025-GS1-Set A.pdf`, PDF p. 5 | `books/prelima_question_paper_answers/Ans-2025-GS1.pdf`; key not displayed |
+| 2025 | Prelims GS-I Q61 | Lesson 5 | same question paper, PDF pp. 28-29 | same official key; key not displayed |
+| 2025 | Prelims GS-I Q65 | Lesson 5 | same question paper, PDF pp. 28-29 | same official key; key not displayed |
+| 2026 | Prelims GS-I Q94 | Lesson 9 | `books/prelima_question_paper_answers/2026-GS1-Set A.pdf`, PDF p. 49 | `books/prelima_question_paper_answers/Ans-2026-GS1-Provisional.pdf`; provisional key not displayed or inferred |
 
-## Q25
+## Exact verified Mains PYQs
 
-Government receives Rs 40 in revenue receipts and Rs 3 in non-debt capital receipts, while total
-expenditure is Rs 50. Fiscal deficit is:
+### UPSC Mains 2018 — GS Paper III, Question 2 — 10 marks, 150 words
 
-A. Rs 7
-B. Rs 10
-C. Rs 13
-D. Rs 47
+> Comment on the important changes introduced in respect of the Long-term Capital Gains Tax (LCGT) and Dividend Distribution Tax (DDT) in the Union Budget for 2018-2019.
 
-**Answer: A.**
+**Directive fidelity:** “Comment” requires the dated changes, rationale, incidence and a qualified assessment. The official paper's “LCGT” spelling is preserved.
 
-- **Q25-A:** Correct. Fiscal deficit is Rs 50 minus Rs 40 minus Rs 3, which equals Rs 7.
-- **Q25-B:** Incorrect. Rs 10 subtracts revenue receipts but fails to subtract non-debt capital
-  receipts.
-- **Q25-C:** Incorrect. Rs 13 adds the non-debt capital receipts to the gap instead of
-  subtracting them.
-- **Q25-D:** Incorrect. Rs 47 subtracts only the non-debt capital receipt and ignores revenue
-  receipts.
+### UPSC Mains 2019 — GS Paper III, Question 12 — 15 marks, 250 words
 
-## Q26
+> The public expenditure management is a challenge to the Government of India in the context of budget making during the post-liberalization period. Clarify it.
 
-Which change lowers effective revenue deficit without changing revenue deficit?
+**Directive fidelity:** “Clarify” requires explaining why the challenge changed after liberalisation, not merely listing expenditure heads.
 
-A. Higher interest payments that enlarge revenue expenditure while revenue receipts remain unchanged
-B. Higher grants for creation of capital assets
-C. Lower non-debt capital receipts
-D. Higher market borrowing
+### UPSC Mains 2021 — GS Paper III, Question 2 — 10 marks, 150 words
 
-**Answer: B.**
+> Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets.
 
-- **Q26-A:** Incorrect. Higher interest payments increase revenue expenditure and may increase
-  both RD and ERD rather than lowering ERD alone.
-- **Q26-B:** Correct. ERD deducts grants for capital-asset creation from an unchanged RD, so a
-  larger qualifying grant lowers ERD.
-- **Q26-C:** Incorrect. Lower non-debt capital receipts increase the fiscal-deficit gap but do
-  not enter the ERD formula.
-- **Q26-D:** Incorrect. Market borrowing finances fiscal deficit and is not a component deducted
-  in the ERD identity.
+**Directive fidelity:** Both commands must be answered: distinction and components.
 
-## Q27
+### UPSC Mains 2025 — GS Paper III, Question 11 — 15 marks, 250 words
 
-Which statement is correct?
+> Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies?
 
-A. A revenue surplus implies zero fiscal deficit.
-B. A zero primary deficit means no public debt, no interest liability and no future refinancing requirement.
-C. A government may have revenue surplus and fiscal deficit if capex exceeds non-debt capital receipts.
-D. Effective revenue deficit exceeds revenue deficit when qualifying grants are positive.
+**Directive fidelity:** The answer must cover both assessment and incentive effects.
 
-**Answer: C.**
+## Mains-paper provenance
 
-- **Q27-A:** Incorrect. Even with revenue surplus, capital expenditure exceeding non-debt capital
-  receipts can create a fiscal deficit.
-- **Q27-B:** Incorrect. Zero primary deficit permits fiscal deficit to equal interest payments,
-  and the outstanding debt stock may remain substantial.
-- **Q27-C:** Correct. Revenue-account surplus does not eliminate a borrowing requirement created
-  on the capital side.
-- **Q27-D:** Incorrect. ERD deducts qualifying asset grants from RD and therefore cannot exceed
-  RD when those grants are positive.
+- 2018: exact stem routed in `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`; official-paper transcription cross-checked against the UPSC paper archive.
+- 2019: `books/more_previous_papers/QP-CSM19-GeneralStudies-III.pdf`, PDF p. 3.
+- 2021: `books/more_previous_papers/QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf`, PDF p. 2.
+- 2025: `books/mains/UPSC Mains 2025 GS Paper 3 3.pdf`, PDF p. 3.
 
-## Q28
+The 2024 social-services expenditure PYQ remains a related application rather than an owned question here.
 
-Which is the best description of a guarantee?
+# CUMULATIVE CONCEPT CHECKS
 
-A. Immediate revenue expenditure upon issuance of the guarantee, even before default or formal invocation occurs
-B. A concession that reduces the beneficiary's tax liability
-C. A non-debt capital receipt available for immediate spending
-D. A contingent liability that may become a cash obligation on invocation
+## Check 1 - Constitutional devices
 
-**Answer: D.**
+A ministry's existing provision is insufficient; a new service arises; expenditure has already exceeded the grant; and Parliament has not completed voting before the year begins. Identify the four devices.
 
-- **Q28-A:** Incorrect. Issuing a guarantee creates exposure but does not necessarily produce
-  immediate revenue expenditure.
-- **Q28-B:** Incorrect. A guarantee supports a borrower's obligation; it is not a reduction in
-  tax liability.
-- **Q28-C:** Incorrect. A guarantee is a contingent fiscal exposure, not a cash inflow or
-  non-debt capital receipt.
-- **Q28-D:** Correct. The liability becomes an actual cash obligation when the specified
-  condition, commonly borrower default, triggers invocation.
+**Model:** Supplementary grant; additional grant; excess grant; Vote on Account. A Vote of Credit instead meets an unexpected demand whose magnitude or indefinite character prevents ordinary detail.
 
-## Q29
+## Check 2 - Receipts and deficits
 
-Which statement about supplementary and special grants is correct?
+Government borrows 100, recovers a loan of 20 and receives tax of 80. Then assume revenue expenditure 1,050, revenue receipts 900, capex 300, non-debt capital receipts 50, asset grants 60 and interest 140. Classify the first three flows and calculate the four deficits.
 
-A. An excess grant regularises expenditure already incurred beyond the authorised amount.
-B. A supplementary grant is confined to a new service absent from the original Budget.
-C. Vote on Account is the constitutional name for every interim budget.
-D. A vote of credit finances ordinary annual services through fully detailed estimates.
+**Model:** Borrowing is debt capital receipt; recovery is non-debt capital receipt; tax is revenue receipt. RD 150; ERD 90; FD 400; PD 260.
 
-**Answer: A.**
+## Check 3 - Dated evidence and interpretation
 
-- **Q29-A:** Correct. An excess grant provides ex-post legislative regularisation after spending
-  has exceeded the amount authorised.
-- **Q29-B:** Incorrect. A supplementary grant adds to an insufficient existing provision; an
-  additional grant addresses a new service.
-- **Q29-C:** Incorrect. Vote on Account is temporary spending authority, while interim budget is
-  a broader political-practice label.
-- **Q29-D:** Incorrect. A vote of credit addresses an unexpected demand whose magnitude or
-  details cannot be stated through the ordinary process.
+State the 2018 LTCG threshold/rate and equity-fund DDT rate, their later status caution, and what the Survey's FY16-FY20 versus FY22-FY25 receipt trend proves.
 
-## Q30
+**Model:** Budget 2018 used 10% LTCG above ₹1 lakh with grandfathering and 10% equity-fund DDT. DDT was abolished from FY2020-21; listed-equity LTCG became 12.5% above ₹1.25 lakh from 23 July 2024. Revenue receipts rising from about 8.5% to 9.1% of GDP supports stronger fiscal space, not permanent buoyancy or project-level success.
 
-The strongest distinction between BE and RE is:
+## Check 4 - Exact debt dynamics
 
-A. BE is audited while RE is unaudited and Actuals are merely forward policy intentions.
-B. BE is the original forward estimate; RE updates the expected outcome during the year.
-C. RE becomes the final Actual at the end of the year.
-D. BE applies to the capital side rather than the revenue side.
+With d(t−1)=60%, r=7%, g=10%, primary deficit=1% of GDP and zero stock-flow adjustment, calculate the approximate debt-ratio change and name one limit.
 
-**Answer: B.**
+**Model:** `[(7−10)/110]×60 + 1 = −0.64` percentage point, so debt/GDP falls to about 59.36%. The result is sensitive to effective-rate measurement, nominal-GDP revisions and omitted stock-flow adjustments.
 
-- **Q30-A:** Incorrect. Neither BE nor RE is converted into audited Actual merely by its label;
-  Actuals are a separate vintage.
-- **Q30-B:** Correct. BE is the original forward estimate, whereas RE updates the expected
-  current-year outcome using later information.
-- **Q30-C:** Incorrect. Revised Estimates remain estimates, and realised transactions may differ
-  when Actuals become available.
-- **Q30-D:** Incorrect. Both BE and RE cover revenue and capital components rather than applying
-  only to capital expenditure.
+## Check 5 - FRBM and integrated verdict
 
-## Q31
+State the escape limit, the output-growth trigger, the RBI primary-market boundary and the eight-part Budget test.
 
-Which event can raise recorded public debt without producing a same-year fiscal deficit of
-identical size?
-
-A. An increase in tax revenue with expenditure unchanged
-B. A fall in the effective interest cost of existing debt
-C. Recognition of a previously unrecorded government liability
-D. Recovery of principal on a loan previously made by government
-
-**Answer: C.**
-
-- **Q31-A:** Incorrect. Higher tax revenue narrows the fiscal gap and does not itself create a
-  new debt liability.
-- **Q31-B:** Incorrect. A lower effective interest cost eases debt service rather than creating a
-  newly recorded liability.
-- **Q31-C:** Correct. Recognition of an existing but previously unrecorded obligation is a
-  stock-flow adjustment and can raise debt independently of an identical current deficit flow.
-- **Q31-D:** Incorrect. Loan-principal recovery reduces a government financial asset and supplies
-  a non-debt capital receipt.
-
-## Q32
-
-Which reform best limits pro-cyclicality of a fiscal rule?
-
-A. Disallow deviations during a severe calamity or recession.
-B. Remove guarantees and extra-budgetary liabilities from the rule's coverage.
-C. Change accounting coverage whenever a target is missed and omit the resulting break in comparability.
-D. Use a bounded escape clause with transparent triggers and a correction path.
-
-**Answer: D.**
-
-- **Q32-A:** Incorrect. A ban on every deviation can force contraction during calamity or severe
-  recession and make the rule pro-cyclical.
-- **Q32-B:** Incorrect. Excluding guarantees narrows the fiscal-risk perimeter and encourages
-  liabilities to move outside the headline rule.
-- **Q32-C:** Incorrect. Changing accounting after a miss destroys comparability and weakens
-  credibility rather than improving stabilisation.
-- **Q32-D:** Correct. Transparent triggers, a bounded deviation and a published correction path
-  permit shock response without abandoning discipline.
-
-## Q33
-
-Why may growth in gross tax revenue fail to produce an equal increase in tax revenue net to the
-Centre?
-
-A. Tax devolution to States and refunds affect the amount retained by the Centre.
-B. Loan recoveries are deducted from gross tax collections before devolution.
-C. Market borrowing is recorded as negative tax revenue in the Receipt Budget.
-D. Capital-asset grants are added to gross tax revenue before calculating the net amount.
-
-**Answer: A.**
-
-- **Q33-A:** Correct. Refunds reduce collections and constitutionally determined tax devolution
-  transfers a share to States, so the Centre's net amount need not rise equally.
-- **Q33-B:** Incorrect. Loan recovery is a non-debt capital receipt and is not deducted from the
-  gross-tax aggregate.
-- **Q33-C:** Incorrect. Market borrowing is a debt capital receipt, not a negative entry in tax
-  revenue.
-- **Q33-D:** Incorrect. Grants for capital-asset creation are expenditure and do not enter the
-  calculation of gross tax revenue.
-
-## Q34
-
-An expansionary fiscal impulse is most likely to add to inflationary pressure when:
-
-A. substantial idle capacity allows domestic supply to respond quickly
-B. aggregate demand is already near capacity while supply remains constrained
-C. completed infrastructure removes a binding logistics bottleneck
-D. import prices fall while domestic productive capacity expands
-
-**Answer: B.**
-
-- **Q34-A:** Incorrect. Idle capacity permits output to rise before demand creates strong price
-  pressure.
-- **Q34-B:** Correct. Near-capacity demand confronting constrained supply is more likely to raise
-  prices than real output.
-- **Q34-C:** Incorrect. A removed logistics bottleneck expands effective supply and can moderate
-  inflation pressure.
-- **Q34-D:** Incorrect. Lower import prices and expanding productive capacity ease rather than
-  intensify the price effect.
-
-## Q35
-
-Which statement correctly distinguishes Appropriation Accounts from Finance Accounts?
-
-A. Finance Accounts compare actual spending ministry-wise with each voted grant.
-B. Appropriation Accounts recommend the distribution of Union taxes among States.
-C. Appropriation Accounts compare actual expenditure with grants and appropriations authorised by Parliament.
-D. Finance Accounts are prospective statements of the coming year's Budget Estimates.
-
-**Answer: C.**
-
-- **Q35-A:** Incorrect. Comparison of actual expenditure with individual grants and
-  appropriations is the function of Appropriation Accounts.
-- **Q35-B:** Incorrect. Tax-devolution recommendations belong to the Finance Commission, not to
-  Appropriation Accounts.
-- **Q35-C:** Correct. Appropriation Accounts test actual expenditure against the authority
-  granted by Parliament.
-- **Q35-D:** Incorrect. Finance Accounts report realised receipts, expenditure, assets and
-  liabilities; they are not forward Budget Estimates.
-
-## Q36
-
-Which is the most complete test of expenditure quality?
-
-A. Whether the accounts classify the item as capital expenditure
-B. Whether its Budget Estimate rose over the previous year
-C. Whether the announced allocation is exceptionally large
-D. Whether priority, cost, completion, maintenance, outcome and distribution are satisfactory
-
-**Answer: D.**
-
-- **Q36-A:** Incorrect. Capital classification identifies an accounting effect but cannot prove
-  completion, use, distribution or social return.
-- **Q36-B:** Incorrect. A larger BE may remain unspent or poorly executed and therefore cannot
-  establish expenditure quality.
-- **Q36-C:** Incorrect. The size of an announcement says nothing by itself about utilisation,
-  output or outcome.
-- **Q36-D:** Correct. A complete quality test examines priority, cost, completion, maintenance,
-  measurable outcome and distribution.
+**Model:** Escape deviation is capped at 0.5 percentage point of GDP; one trigger is quarterly real growth at least 3 points below the previous-four-quarter average; routine RBI primary subscription ended from 1 April 2006, while WMA, statutory escape subscription and secondary operations are distinct. Then test authority, revenue, composition, timing, financing, debt, disclosure and delivery.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
-## 10 marks | 150 words
+## Original 10-marker
 
-**Question:** Distinguish fiscal deficit from primary deficit. What does a declining primary
-deficit indicate?
+**Question:** Why is effective revenue deficit useful but insufficient? (150 words)
 
-**Model answer:** Fiscal deficit is total expenditure minus revenue receipts and non-debt capital
-receipts; it measures the government's broad annual borrowing requirement. Primary deficit is
-fiscal deficit minus interest payments and therefore isolates the current non-interest fiscal
-gap. A declining primary deficit generally indicates improvement in the current fiscal stance
-after removing the inherited interest bill. However, it does not necessarily mean that public
-debt or fiscal risk is declining. Fiscal deficit may remain high because interest payments are
-large, and debt dynamics also depend on nominal growth, the effective interest rate, maturity,
-stock-flow adjustments and contingent liabilities. The indicator should therefore be read with
-revenue deficit, interest-to-revenue ratio, debt structure and expenditure quality.
+**Model answer (141 words):** Effective revenue deficit equals revenue deficit minus grants for creation of capital assets. It is useful because Union accounting records such grants as revenue expenditure even though the recipient uses them to create a durable asset. It therefore separates part of the revenue gap supporting capital formation from ordinary current spending and complements effective capital expenditure.
 
-## 15 marks | 250 words
+Its limitation is equally important. The adjustment records the declared purpose; it does not establish that the asset was completed, used, maintained or efficiently selected. Nor does a low ERD prove that salaries, health services or maintenance are unproductive. Expenditure quality requires outcome evidence, distribution, procurement and lifecycle cost. ERD is thus a sharper accounting diagnostic than RD, but not a substitute for programme evaluation.
 
-**Question:** Fiscal transparency is a condition for effective fiscal discipline, not merely a
-reporting preference. Discuss with reference to off-budget liabilities.
+**Why this earns marks:** Definition, accounting logic and an explicit outcome qualification answer the exact demand.
 
-**Model answer:** Fiscal discipline requires the reported deficit and debt to represent the
-economic obligations that taxpayers may ultimately service. Off-budget borrowing weakens this
-link when a PSU or SPV raises finance for a policy obligation while future Budget grants repay
-principal or interest. Guarantees similarly create contingent liabilities that may migrate onto
-the Budget after default. Arrears and delayed subsidy payments can also improve a current
-headline without reducing the obligation.
+**Rubric (10):** formula 2; usefulness 3; limits 3; linkage 1; conclusion 1.
 
-Transparency therefore needs more than publication of the fiscal-deficit ratio. The government
-should disclose entity, purpose, maturity, servicing source, guarantee, outstanding stock,
-annual accretion and invocation. A fiscal-risk statement should stress-test guarantees and
-public enterprises. CGA accounts need timely reconciliation; CAG findings require legislative
-follow-up. Centre-State comparison should use a clearly defined and consolidated perimeter,
-without automatically treating every commercial PSU loan as sovereign debt.
+## Original 15-marker
 
-Better disclosure may initially worsen reported numbers by bringing liabilities on-budget, but
-it improves credibility, borrowing decisions and intergenerational fairness. Thus transparency
-is part of fiscal substance: it prevents accounting shifts from substituting for genuine
-consolidation.
+**Question:** Fiscal consolidation should protect infrastructure and human-capital expenditure. Discuss. (250 words)
 
-## 20 marks | 250 words
+**Model answer (225 words):** Fiscal consolidation places deficit and debt on a sustainable path, but its composition determines whether future fiscal capacity improves. Across-the-board cuts can reduce today's deficit while weakening tomorrow's growth and revenue.
 
-**Question:** India must reconcile counter-cyclical fiscal policy with medium-term debt
-sustainability. Analyse and suggest an institutional strategy.
+Infrastructure can remove logistics, power and urban bottlenecks and crowd in investment. Union Budget 2026-27 BE of ₹12.22 lakh crore for capex and ₹17.15 lakh crore for effective capex shows the emphasis, although appraisal, completion and maintenance determine returns. Human-capital spending on health, nutrition and education is often revenue expenditure but raises productivity and resilience. Cutting frontline staff or maintenance merely to preserve the capital ratio can be self-defeating.
 
-**Model answer:** Counter-cyclical policy supports demand and protects productive capacity in a
-downturn, while consolidation in stronger years rebuilds space. The tension arises because a
-shock can raise expenditure and reduce revenue simultaneously, increasing debt and interest
-burden. Rigid annual ceilings may force pro-cyclical cuts; unbounded discretion can weaken
-credibility and postpone adjustment.
+Quality consolidation should improve compliance, review low-merit exemptions, rationalise poorly targeted subsidies, reduce leakage and disclose off-budget liabilities. Medium-term frameworks should protect high-return programmes while temporary commitments expire. Outcome budgeting should distinguish productive revenue spending from recurrent inefficiency and productive capex from prestige projects. Centre-State coordination matters because states deliver much social expenditure and receive capital-asset grants.
 
-The reconciliation begins with composition. Temporary targeted transfers can protect
-liquidity-constrained households, while executable infrastructure and maintenance can support
-demand and future supply. Poorly targeted permanent commitments should not be justified as
-temporary stimulus. Debt analysis should use the primary balance, interest-growth differential,
-maturity, currency, contingent liabilities and stress scenarios rather than one threshold.
+The 4.3% FD BE and declining debt path provide an anchor, not an instruction to cut every head. India should consolidate through stronger revenue and expenditure quality while preserving complementary physical and human capital.
 
-Institutionally, India needs a credible debt anchor with realistic annual operational paths;
-FRBM escape clauses with objective triggers, bounded deviation and a published return path;
-comprehensive disclosure of guarantees, EBR and State risks; conservative macro assumptions;
-and protection of high-return capex and human capability during adjustment. Stronger automatic
-stabilisers can reduce reliance on delayed discretionary packages. Independent scrutiny,
-outcome evaluation and timely CGA-CAG information would strengthen compliance.
+**Why this earns marks:** It links composition, current evidence, federal delivery and debt sustainability.
 
-The goal is disciplined adaptability: insure the economy in exceptional bad times, use spending
-that preserves future capacity, and restore buffers transparently when conditions normalise.
+**Rubric (15):** concept 2; infrastructure 3; human capital 3; reforms 4; evidence 1; conclusion 2.
+
+## Original 20-marker
+
+**Question:** “India should move from deficit targeting to comprehensive public balance-sheet management.” Critically examine. (250 words)
+
+**Model answer (246 words):** Deficit targeting remains necessary because FD measures the annual debt-creating gap and disciplines current policy. India's 2026-27 BE of 4.3% and debt path toward about 50 ± 1% by March 2031 provide understandable anchors. Abandoning flow discipline could permit persistent borrowing and interest burdens.
+
+Yet FD is incomplete. It treats high-return infrastructure borrowing and recurring gaps within one headline. It excludes the value and condition of public assets, while asset sales reduce FD despite shrinking ownership. Guarantees, extra-budgetary resources, deferred payments, PPP obligations and repayment-dependent PSU borrowing may create future claims outside the immediate headline. Historical NSSF financing of FCI obligations illustrates this problem. Stock-flow adjustments can also change debt independently of current FD.
+
+A comprehensive approach would publish assets, liabilities, maturity and currency profiles, guarantees, expected losses, contractual commitments and pension risks alongside conventional accounts. It would connect projects with completion and maintenance and distinguish Union, state and general-government indicators. Valuation of public land, infrastructure and contingent liabilities is uncertain and can be manipulated; balance sheets must not justify borrowing against optimistic assets.
+
+India should therefore supplement, not replace, deficit rules. A debt anchor, transparent primary path and annual FD control should operate with audited fiscal-risk and public-asset reporting: disciplined flows plus truthful stocks and outcomes.
+
+**Why this earns marks:** It defends the existing anchor, exposes omissions, acknowledges valuation risk and proposes synthesis.
+
+**Rubric (20):** case for FD 4; balance-sheet critique 6; limitations 3; reform design 5; synthesis 2.
 
 # REMEDIATION
 
-| Misconception | Repair rule | One-line test |
-|---|---|---|
-| Budget speech authorises spending | appropriation authorises withdrawal | “Has Parliament enacted withdrawal authority?” |
-| charged means not discussed | charged means not voted | “Discussion and vote are separate.” |
-| Public Account is government revenue | government holds many balances for others | “Is repayment due to the owner?” |
-| all capital receipts are borrowing | capital includes debt and non-debt receipts | “Liability created or asset reduced?” |
-| all revenue spending is waste | accounting class is not a welfare ranking | “What outcome and capability follow?” |
-| FD equals debt | FD is flow; debt is stock | “For one year or at a date?” |
-| PD subtracts non-debt receipts again | PD starts from FD | “FD − interest only.” |
-| every RBI purchase is monetisation | primary financing, WMA and secondary markets differ | “Who buys, where and for what purpose?” |
-| `r < g` guarantees safety | primary balance and shocks still matter | “Can the path survive stress?” |
-| FRBM 40%, current 55.6% and 2031 goal are interchangeable | legal target, estimate and operational goal differ | “What date and status?” |
-| every PSU debt is sovereign debt | follow servicing and guarantee arrangements | “Who ultimately pays?” |
-| consolidation means uniform cuts | composition determines growth and equity cost | “What is protected and what is reformed?” |
-
-### Remedial calculation
-
-Given revenue receipts 20, revenue expenditure 25, capital expenditure 8, non-debt capital
-receipts 2, grants for asset creation 1 and interest 3:
+## Formula repair
 
 ```text
-RD  = 25 − 20 = 5
-ERD = 5 − 1 = 4
-FD  = 25 + 8 − 20 − 2 = 11
-PD  = 11 − 3 = 8
+Current-account gap? → RD
+Remove asset grants? → ERD
+Total debt-creating gap? → FD
+Remove inherited interest? → PD
+Accumulated liability? → Debt
 ```
+
+For debt dynamics, restore the full identity rather than writing only “r−g matters”:
+
+```text
+Δd = [(r−g)/(1+g)]d(t−1) + primary deficit ratio + stock-flow adjustment
+```
+
+## Classification repair
+
+Productive revenue example: frontline health staffing. Low-quality capital example: an incomplete asset without connectivity or maintenance. Accounting category is not a moral score.
+
+## Stage repair
+
+Write each datum as **indicator | value | year | BE/RE/Actual/provisional | coverage**.
+
+## Constitutional-device repair
+
+```text
+Existing service insufficient → Supplementary grant
+New service                 → Additional grant
+Already overspent           → Excess grant
+Part-year bridge            → Vote on Account
+Unexpected indeterminate demand → Vote of Credit
+Outside current service     → Exceptional Grant
+```
+
+## Dated-tax repair
+
+Never state “LTCG is 10%” without a year. Write **Budget 2018 rule**, then add the FY2020-21 DDT abolition and 23 July 2024 LTCG revision.
+
+## Crowding repair
+
+Test savings, liquidity, monetary response, private credit demand and project quality before claiming crowding out.
+
+## FRBM repair
+
+Rebuild: debt anchor → operational path → statements → escape clause → disclosed return path → accountability.
+
+## Perimeter repair
+
+Do not label every PSU liability sovereign. Test guarantee, independent revenue, repayment dependence and consolidation status.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
-## Constitutional-authorisation map
+## Comparison matrix
 
-```text
-Article 112 AFS
-   ↓
-Article 113 Demands for Grants / charged distinction
-   ↓
-Article 114 Appropriation
-   ↓
-Articles 115-116 additional and temporary grants
-   ↓
-Article 117 financial legislation safeguards
-   ↓
-execution → accounts → CAG → parliamentary scrutiny
-```
-
-## Receipt-expenditure matrix
-
-| | Revenue side | Capital side |
+| Concept | Measures | Does not prove |
 |---|---|---|
-| Receipt | tax and non-tax income | debt creation or financial-asset reduction |
-| Expenditure | current services, transfers, interest | asset acquisition, loans, liability reduction |
-| Quality caution | can create human capability | can create a low-value or incomplete asset |
+| RD | current shortfall | all revenue spending is wasteful |
+| ERD | RD net of asset grants | asset was completed/useful |
+| FD | annual debt-creating gap | accumulated debt or spending quality |
+| PD | gap excluding interest | no borrowing when zero |
+| Capex | asset/loan/liability transaction | high return |
+| Effective capex | capex plus asset grants | recipient execution quality |
+| Debt/GDP | stock relative to income | safety without composition |
+| Guarantee | contingent exposure | immediate cash cost in every case |
 
-## Fiscal-transmission map
-
-```text
-Tax / transfer / spending change
-        ↓
-disposable income + expected return + public capacity
-        ↓
-consumption / investment / imports / prices
-        ↓
-output, jobs, inflation and revenue feedback
-        ↓
-primary balance, debt and future fiscal space
-```
-
-## Rule-versus-discretion argument
+## Capex map
 
 ```text
-Pure discretion → flexibility, but deficit bias and weak credibility
-Pure rigidity    → credibility, but shock amplification and capex cuts
-Balanced design → anchor + transparent escape + correction + broad coverage
+TIMELY + NETWORKED + MAINTAINED CAPEX
+→ lower cost → higher expected return → crowding in
+
+DELAYED + DEBT-HEAVY CAPEX IN TIGHT LIQUIDITY
+→ higher yield + overrun → private credit pressure → crowding out
 ```
 
-## How to evaluate any current Budget
+## Consolidation argument map
 
-| Window | High-scoring question |
-|---|---|
-| Authority | Is the proposal legally and institutionally authorised? |
-| Assumptions | Are growth, inflation and revenue assumptions plausible? |
-| Receipts | Are gains recurring, equitable and administratively feasible? |
-| Expenditure | What are composition, execution, maintenance and outcomes? |
-| Deficit | Which indicator changed, and why? |
-| Financing | What are maturity, currency, lender and interest effects? |
-| Risk | What sits off-budget or contingent? |
-| Federalism | Who raises, spends, receives and carries liability? |
-| Cycle | Is the stance stabilising or amplifying? |
-| Equity | Who benefits now and who pays later? |
+```text
+FASTER: interest | inflation | space | credibility
+        ↓ balance through cycle and composition
+GRADUAL: avoid recession damage | protect capex/human capital | sustain denominator
+```
+
+## Constitutional-to-macro map
+
+```text
+Article 112 → Article 113 → Article 114
+→ Articles 115-116 in-year/temporary authority
+→ execution/accounts → receipts/expenditure
+→ RD/ERD/FD/PD → financing
+→ output/inflation/distribution/investment
+→ debt/interest/contingent risk
+→ FRBM/disclosure/audit/correction
+```
+
+## Debt-dynamics map
+
+```text
+INHERITED DEBT d(t−1)
+        × [(r−g)/(1+g)]
+        = SNOWBALL EFFECT
+              +
+PRIMARY DEFICIT / SURPLUS
+              +
+STOCK-FLOW ADJUSTMENT
+              ↓
+CHANGE IN DEBT/GDP
+```
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-1. **Budget meaning:** The Union Budget is a constitutional authorisation and accountability
-   process, not merely an annual speech.
-2. **Articles 112-117:** AFS, grants, appropriation, additional grants, special grants and
-   financial legislation create the authority chain.
-3. **Three funds:** Consolidated Fund is the main account; Public Account contains repayable
-   balances; Contingency Fund advances meet urgent unforeseen needs.
-4. **Charged/voted:** Charged expenditure is discussed but not voted; voted expenditure appears
-   in Demands for Grants.
-5. **Bills:** Finance Bill concerns taxation; Appropriation Bill concerns withdrawal.
-6. **During-year flexibility:** supplementary = insufficient provision; additional = new
-   service; excess = ex-post regularisation.
-7. **Receipts:** revenue creates no liability and reduces no financial asset; capital either
-   creates a liability or reduces a financial asset.
-8. **Debt/non-debt:** borrowing is debt capital receipt; loan recovery and disinvestment are
-   non-debt capital receipts.
-9. **Expenditure:** revenue and capital are accounting classes; outcome quality requires a
-   separate test.
-10. **Effective capex:** direct capex plus grants for capital-asset creation.
-11. **Formula strip:** RD = RE − RR; ERD = RD − asset grants; FD = TE − RR − NDCR; PD = FD −
-    interest.
-12. **Meaning strip:** RD = revenue gap; FD = borrowing gap; PD = current non-interest gap.
-13. **Vintage:** BE is plan, RE is updated expectation, Actual is realised outcome.
-14. **Financing:** borrowing mix influences interest, maturity, rollover, currency and
-    crowding.
-15. **Monetisation:** automatic ad hoc Treasury Bills ended in 1997; WMA is temporary; RBI
-    secondary-market operations are not identical to direct primary financing.
-16. **Fiscal stance:** distinguish discretionary action from the cyclical movement of receipts
-    and transfers.
-17. **Counter-cyclicality:** support and protect capacity in downturns; rebuild buffers in
-    stronger times.
-18. **Multiplier:** depends on slack, targeting, imports, saving, delay, financing and monetary
-    response.
-19. **Crowding:** public activity can displace or stimulate private activity depending on
-    scarcity and complementarity.
-20. **Debt dynamics:** primary balance and `r − g` matter, along with maturity, currency and
-    stock-flow adjustments.
-21. **Sustainability:** test solvency, liquidity and shock resilience.
-22. **FRBM:** rules, statements, transparency, RBI boundary, escape and compliance form one
-    architecture.
-23. **Do not merge:** statutory 40% reference, current 55.6% BE and 50±1% 2031 goal.
-24. **Escape:** bounded deviation and correction path; separate from the guarantee ceiling.
-25. **Off-budget:** follow ultimate servicing responsibility rather than the borrowing entity's
-    name.
-26. **Guarantees:** distinguish stock, annual addition, invocation and recovery.
-27. **Institutions:** CGA compiles; CAG audits; Parliament scrutinises.
-28. **Perimeter:** Union, general government and wider public sector are different coverage
-    concepts.
-29. **FHI:** Quality of Expenditure, Revenue Mobilisation, Fiscal Prudence, Debt Index and Debt
-    Sustainability.
-30. **Consolidation:** improve recurring balances and efficiency while protecting productive,
-    equitable spending.
-31. **Current path:** FY2026-27 numbers are BE dated 1 February 2026, not achieved outcomes.
-32. **Final judgement:** authority + credibility + composition + transmission + debt +
-    transparency + equity + outcomes.
+## Authority and process
+
+- Article 112: President causes AFS to be laid before both Houses.
+- Article 113: charged items discussed, not voted; Lok Sabha votes Demands on presidential recommendation.
+- Article 114: appropriation authorises withdrawal.
+- Article 115: supplementary for an insufficient existing provision; additional for a new service; excess for ex-post regularisation.
+- Article 116: Vote on Account for a part-year bridge; Vote of Credit for an unexpected indeterminate demand; Exceptional Grant outside current service.
+- Vote on Account is not the constitutional synonym for an interim budget.
+- Articles 266/267: Consolidated Fund, Public Account, Contingency Fund.
+- Announcement ≠ grant ≠ appropriation ≠ release ≠ expenditure ≠ outcome.
+- Finance Bill implements tax proposals; Appropriation Bill authorises withdrawal.
+- BE = intent; RE = revised expectation; Actual = realised account with stated status.
+- CGA compiles; CAG audits; committees scrutinise.
+
+## Classification and formulas
+
+- Revenue receipt: no liability and no financial-asset reduction.
+- Capital receipt: liability creation or financial-asset reduction.
+- Debt receipt: borrowing; non-debt capital: loan recovery/disinvestment.
+- Revenue expenditure generally creates no Union asset; capital expenditure creates/acquires assets, lends or reduces liability.
+- Effective capex = direct capex + grants for capital assets.
+- Budget 2018: 10% listed-equity/equity-fund LTCG above ₹1 lakh, without indexation, with gains to 31 January 2018 grandfathered.
+- Budget 2018: 10% DDT on equity-oriented mutual-fund dividends.
+- Current-law caution: DDT abolished from FY2020-21; listed-equity LTCG revised to 12.5% above ₹1.25 lakh for transfers from 23 July 2024.
+
+```text
+RD = RE − RR
+ERD = RD − capital-asset grants
+FD = total expenditure − RR − non-debt capital receipts
+PD = FD − interest
+```
+
+- FD is flow; debt stock.
+- Zero RD does not imply zero FD; zero PD does not imply zero debt.
+
+## Mechanism and quality
+
+- Fiscal objectives: allocation, distribution, stabilisation, growth, sustainability.
+- Automatic stabilisers differ from discretionary action.
+- Multiplier depends on capacity, MPC, imports, monetary response and execution.
+- Crowding depends on savings/liquidity; productive capex may crowd in.
+- Outlay → release → expenditure → output → outcome → public value.
+- Revenue spending can build human capital; capex can fail.
+- Survey 2025-26, printed p.37: Centre revenue receipts about 8.5% of GDP in FY16-FY20 versus 9.1% in FY22-FY25.
+- Same source: capex 1.7% pre-pandemic versus about 3% after; effective capex 4% of GDP in FY25; revenue expenditure 13.6% in FY22 versus 10.9% in FY25.
+- These are composition trends, not proof of every project's outcome.
+
+## Debt, rules and transparency
+
+- Exact debt change: `Δd = [(r−g)/(1+g)]d(t−1) + p + sfa`, where p is positive for a primary deficit.
+- `r>g` gives a positive inherited-debt snowball; `g>r` gives a negative snowball, other things equal.
+- Stock-flow adjustments include valuation, cash-balance and liability-recognition effects outside the measured primary flow.
+- Maturity, currency and investor base matter.
+- FRBM Act, 2003: targets, statements, transparency and flexibility.
+- MEFS provides macro assumptions; N. K. Singh review stresses debt anchor and glide path.
+- Escape grounds: national security, war, national calamity, severe agricultural collapse, structural reform with unanticipated fiscal implications, or quarterly real-growth decline of at least 3 points below the previous-four-quarter average.
+- Escape deviation is capped at 0.5 percentage point of GDP; a symmetric good-times trigger requires at least 0.25-point reduction when growth is at least 3 points above that average.
+- Routine RBI primary subscription ended from 1 April 2006; WMA, specified escape-ground subscription and secondary-market operations are distinct.
+- Statutory 40%, historic 60:40:20, current 55.6% BE and current 50 ± 1% policy path must not be merged.
+- Off-budget borrowing can hide economic liability.
+- Guarantees are contingent until invoked.
+- FCI-NSSF financing is a historical transparency example.
+- Union and general-government indicators differ.
+
+## Official dashboard, 3 October 2026
+
+| Indicator | Value | Status |
+|---|---:|---|
+| Total expenditure | ₹53,47,315 crore | 2026-27 BE |
+| Capital expenditure | ₹12,21,821 crore | 2026-27 BE |
+| Effective capital expenditure | ₹17,14,523 crore | 2026-27 BE |
+| Fiscal deficit | 4.3% GDP; ₹16,95,768 crore | 2026-27 BE |
+| Revenue deficit | 1.5% GDP; ₹5,92,344 crore | 2026-27 BE |
+| Effective revenue deficit | 0.3% GDP | 2026-27 BE |
+| Central Government debt | 55.6% GDP | 2026-27 BE |
+| FD to end-August | ₹7,10,249 crore; 41.9% BE | CGA provisional |
+
+## High-yield traps
+
+1. Capital receipt ≠ asset creation.
+2. Borrowing is not deducted in FD.
+3. Interest is revenue expenditure.
+4. Charged expenditure remains discussable/auditable.
+5. Allocation ≠ expenditure.
+6. ERD ≠ outcome certificate.
+7. FD ≠ debt.
+8. Union ≠ general government.
+9. Larger FD ≠ equal stimulus.
+10. Lower headline FD can hide liabilities.
+11. Rule without escape can be pro-cyclical.
+12. Free provision has opportunity cost.
+13. Supplementary, additional and excess grants are not synonyms.
+14. Vote on Account, Vote of Credit and Exceptional Grant serve different situations.
+15. Budget 2018 tax rates are not current-law rates.
+16. `g>r` does not guarantee falling debt when primary deficits or stock-flow adjustments are large.
+17. RBI secondary-market operations are not prohibited by the primary-market boundary.
+
+## Answer spine
+
+```text
+DEFINE → CLASSIFY → APPLY INDIA EVIDENCE
+→ TRACE MACRO EFFECT → QUALIFY CYCLE/EXECUTION/PERIMETER
+→ VERDICT ON SIZE + COMPOSITION + TIMING + TRANSPARENCY
+```
 
 # COVERAGE MATRIX
 
-| Roadmap lesson | Syllabus/PYQ dimension | Covered mechanisms |
-|---:|---|---|
-| 1 | Government Budgeting; 2024 P Q85 | Articles 112, 266-267, funds, charged/voted |
-| 2 | Government Budgeting; 2019 M Q12 | documents, grants, Bills, audit, PFM cycle |
-| 3 | resource mobilisation; 2018 M Q2; 2025 P Q10 | tax/non-tax, debt/non-debt, structural revenue |
-| 4 | 2021 M Q2; 2022 P Q9; 2018 P Q47 | expenditure classes, effective capex, opportunity cost |
-| 5 | 2025 P Q61/Q65 | all four deficit identities and vintage discipline |
-| 6 | 2022 P Q10; 2026 P Q94 | financing, household savings, monetisation, debt stock |
-| 7 | 2021 P Q3/Q9 | fiscal stance, stabilisers, discretion, black-money channel |
-| 8 | 2018 P Q47; 2026 P Q94 | multiplier, inflation, crowding out/in |
-| 9 | advanced analytical demand | primary balance, `r − g`, debt resilience, generations |
-| 10 | 2018 P Q9; 2020 P Q6 | FRBM sections, targets, statements, escape |
-| 11 | 2025 M Q11 | EBR, guarantees, CGA/CAG, perimeter, FHI, federalism |
-| 12 | contemporary India and integrated Mains use | dated fiscal path, consolidation, answer spine |
+| Owner unit | Lessons | Final reinforcement |
+|---|---:|---|
+| Articles 112-114, funds, charged/voted | 1 | constitutional map/register |
+| Articles 115-116; supplementary/additional/excess; Vote on Account/Credit/Exceptional Grant | 2 | cumulative check 1 and constitutional remediation |
+| Process, documents, BE/RE/Actual, CGA/CAG | 2 | stage remediation |
+| Receipt taxonomy and one-off versus durable revenue | 3 | cumulative check 2 |
+| Budget 2018 LTCG/DDT design and later status | 3 | cumulative check 3 and register notes |
+| Expenditure, effective capex, budgets | 4 | comparison/register |
+| RD, ERD, FD, PD | 5 | check 2/formula box |
+| Financing, savings, black money, interest | 6 | crowding map |
+| Objectives, recession, inflation, opportunity cost | 7 | lesson-local exact PYQs |
+| Quality, outcomes, Fiscal Health Index | 8 | original 15-marker |
+| Survey 2025-26 fiscal-composition trends | 8 | check 3 and current register |
+| Multipliers, cyclicality, lags, crowding | 9 | causal map |
+| Exact debt equation, r-g, primary balance, stock-flow adjustment and limits | 10 | check 4 and debt map |
+| FRBM statements, exact triggers/limits, RBI boundary and current qualifications | 11 | check 5 and original 20-marker |
+| Off-budget, guarantees, perimeter, PPP risk | 12 | balance-sheet model |
+| Exact routed PYQ stems/options/directives, 2018-2026 | 1-12 | response-neutral consolidation and provenance |
+| Current Budget/CGA facts | 2-5, 10, 12 | official dashboard |
+| Tax, monetary, infrastructure and social linkages without perimeter confusion | 3, 6, 8, 12 | integrated answer spine |
 
 # SOURCE LEDGER
 
-| Source | Use in this session | Status discipline |
+## Governing knowledge files
+
+1. `upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — complete core.
+2. `upsc-ai-kit/knowledge/Economy/advanced/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` — optional depth.
+3. Topic 10 retains taxation/GST/fiscal-federal detail; Topic 18 infrastructure/PPP appraisal; Topic 23 social incidence; Topic 04 monetary transmission.
+
+## Local book and PYQ evidence
+
+- `books/Indian economy ramesh singh.pdf` — PDF p. 789 for BE/RE/Actual; pp. 793-800 for receipt, expenditure and deficit classification; pp. 805-812 for fiscal policy and FRBM; pp. 820-821 for charged expenditure and the golden-rule discussion.
+- `books/economic-survey-2025-26.pdf` — PDF p. 88, printed p. 37, Chapter 2, “Fiscal Developments: Anchoring Stability through Credible Consolidation”, for the FY16-FY25 receipts, capex, effective-capex and revenue-expenditure trends.
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2018-2023.md`, `upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2024-2025.md`, `upsc-ai-kit/knowledge/_PYQ-ROUTING-PRELIMS-2026.md`.
+- `upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `upsc-ai-kit/knowledge/_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
+
+## Official live sources through 3 October 2026
+
+- Budget at a Glance: `https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf`
+- Deficit Statistics: `https://www.indiabudget.gov.in/doc/Budget_at_Glance/bag2.pdf`
+- FRBM statements: `https://www.indiabudget.gov.in/doc/frbm1.pdf`
+- Receipt Budget abstract: `https://www.indiabudget.gov.in/doc/rec/ar.pdf`
+- CGA end-August account: `https://cga.nic.in/writereaddata/MonthAccount/82026/DATA2627.htm`
+- DEA FRBM Act/Rules: `https://dea.gov.in/acts-policies/frbm-act-2003-and-frbm-rules-2004-complete-act-and-rules-complete-booklet`
+- UPSC previous-question-paper archive: `https://upsc.gov.in/examinations/previous-question-papers`
+
+India Budget PDFs can return HTTP 403 to some automated clients. CGA figures are unaudited provisional and affected by timing. Historical tax rates must always be dated.
+
+## Ownership statement
+
+This topic owns Union Budget architecture, fiscal-policy mechanisms, deficit/debt indicators, FRBM and fiscal transparency. It uses tax, monetary, infrastructure and social mechanisms only to explain fiscal effects; detailed doctrine remains with those owners.
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence / reason |
 |---|---|---|
-| Constitution of India, Articles 112-117 and 266-267 | authority, funds, grants and Bills | stable constitutional text |
-| FRBM Act and Rules | statements, targets, RBI boundary, transparency and escape | legal provision separated from current policy path |
-| [Union Budget 2026-27 portal](https://www.indiabudget.gov.in/), Budget at a Glance | definitions and current BE/RE/Actual table | presented 1 February 2026; FY2026-27 marked BE |
-| [PIB Budget fiscal highlights](https://pib.gov.in/PressReleasePage.aspx?PRID=2221389), Key to Budget Documents and FRBM statements | document architecture, current debt path and EBR disclosure | official current source |
-| [Economic Survey 2025-26, Department of Economic Affairs](https://dea.gov.in/announcements/economic-survey-2025-26), Fiscal Developments chapter | capex, debt dynamics, automatic stabilisers and State-risk context | official analytical source |
-| RBI material on ad hoc Treasury Bills and WMA | 1997 monetisation boundary | historical institutional source |
-| CAG fiscal reports | off-budget liabilities, guarantees, accounts and audit | official audit evidence |
-| NITI Aayog Fiscal Health Index | five State-fiscal-health dimensions | dimensions used without stale ranking |
-| Ramesh Singh, *Indian Economy*, public-finance chapter | foundational terminology and historical explanation | dated claims qualified with current official sources |
-| Verified UPSC routing and question ledgers, 2018-2026 | PYQ year, paper, directive and conceptual demand | links-only; no solved PYQ answer or key disclosed |
+| canonical markdown | checked | Complete Basic and Advanced Topic 09 owners formed the coverage spine. |
+| final learner package | not relevant | Excluded learner-v2 and final-package artifacts were not consulted. |
+| layered/complete session | not available | No separate permitted complete package was needed; benchmark sessions supplied style only. |
+| solved workbook | not relevant | No solved workbook or compiled MCQ corpus was used. |
+| advanced dossier | checked | The canonical Advanced owner supplied the optional enrichment block. |
+| ocr books | checked | OCR-searchable Ramesh Singh public-finance material was inspected. |
+| pyqs through 2026 | checked | Routed Prelims and Mains ledgers through 2026 were mapped without objective keys. |
+| official live sources | checked | Union Budget, FRBM and CGA official sources were checked through the cutoff. |
